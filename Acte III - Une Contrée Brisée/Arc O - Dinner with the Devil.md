@@ -13,7 +13,7 @@ At dusk on the night immediately after the full moon, Strahd—using information
 > [!info]+ **When Does the Invitation Arrive?**
 > Strahd sends the invitation on the night immediately after the full moon or as described in [[Arc D - St. Andral's Feast#D6a. The Invitation|Arc D - St. Andral's Feast]], whichever happens first.
 
-Rahadin, riding his _phantom steed_—an ash-gray horse with dull, shadowed eyes—makes the journey to Vallaki in a little over an hour. Whether Lady Wachter or the Baron rules in Vallaki, the guards at the gates are too terrified to bar entry to Strahd’s chamberlain and herald. 
+Rahadin, riding his _phantom steed_—an ash-gray horse with dull, shadowed eyes—makes the jo[](Arc%20D%20-%20St.%20Andral's%20Feast.md#D6a.%20The%20Invitation)rules in Vallaki, the guards at the gates are too terrified to bar entry to Strahd’s chamberlain and herald. 
 
 Rahadin then makes his way to the players’ current location before dismounting from his horse and entering. If the players are in the Blue Water Inn, the entire taproom falls silent upon his entrance.
 

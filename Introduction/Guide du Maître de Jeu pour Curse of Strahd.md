@@ -1,5 +1,5 @@
 ---
-description: "Welcome to Curse of Strahd: Reloaded—a comprehensive guide to running Curse of Strahd for new and veteran Dungeon Masters alike. Experience enhanced storytelling, organized information, and scene-level guidance that make it easier than ever to bring Barovia to life."
+description: "Bienvenue dans Curse of Strahd : Reloaded—un guide complet pour mener Curse of Strahd, qu’on soit un Maître du Donjon novice ou expérimenté. Découvrez une narration améliorée, des informations organisées et des conseils détaillés pour chaque scène, rendant plus facile que jamais l'animation de Barovie."
 keywords: Curse of Strahd guide, DM's guide to Curse of Strahd, guide to running Curse of Strahd, how to run Curse of Strahd, D&D, Dungeons and Dragons, Curse of Strahd, DM Guide, Barovia, Role-playing Game, DM Tips, Campaign Guide, Strahd Von Zarovich, Tabletop Games
 cover: preview.png
 ---
@@ -7,48 +7,49 @@ cover: preview.png
 <img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-light.png">
 
 
-**Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Dungeon Masters than their players.
+**Rencontres déséquilibrées. Chapitres désorganisés. Lore écrasant. Et le plus grand des vilains de _Dungeons & Dragons_.** _Curse of Strahd_ a mérité sa réputation de module le plus redouté de la 5e Édition—mais la campagne officielle peut souvent être plus difficile pour les Maîtres de Donjon que pour leurs joueurs.
 
-That's where ***Curse of Strahd: Reloaded*** comes in. As your personal *Curse of Strahd* guide, *Reloaded* will help you take your players on an unforgettable journey through the Mists—one that's been revised to be as easy and enjoyable as possible to run. 
+C'est là qu'intervient _**Curse of Strahd: Reloaded**_. En tant que guide personnel pour _Curse of Strahd_, _Reloaded_ vous aidera à emmener vos joueurs dans un voyage inoubliable à travers les Brumes—un voyage révisé pour être aussi facile et agréable à mener que possible.
 
-Whether you're looking for a guide to roleplaying Strahd von Zarovich, a comprehensive history of Barovia, or a full *Curse of Strahd* campaign walkthrough, look no further—for you've come to the right place.
+Que vous cherchiez un guide pour incarner Strahd von Zarovich, une histoire complète de Barovie, ou un walkthrough complet de la campagne _Curse of Strahd_, ne cherchez pas plus loin—vous êtes au bon endroit.
 
-> [!info]- **I'm a new DM. Why use a guide at all?**
+> [!info]- **Je suis un nouveau MJ. Pourquoi utiliser un guide ?**
 > 
-> The official *Curse of Strahd* module is an engaging, dramatic, and conceptually vivid gothic horror experience. It's 5e’s most popular campaign for a reason!
+> Le module _Curse of Strahd_ est une expérience immersive et riche en tension dramatique dans l'univers de l'horreur gothique. C'est l'une des campagnes les plus populaires de la 5e Édition pour de bonnes raisons !
 > 
-> However, *Curse of Strahd* also has a large number of debilitating flaws and features that make it difficult for a new DM to run:
+> Cependant, _Curse of Strahd_ présente plusieurs défis qui peuvent être difficiles à gérer pour un nouveau Maître de Jeu :
 > 
-> * The book isn't organized in chronological order, requiring DMs to figure out the structure of the adventure on their own.
-> * Critical information is scattered throughout the book's multiple chapters and appendices, often requiring DMs to read or re-read the entire book in order to recall the relevant details of a single NPC’s goals or backstory.
-> * Chapters are split up by location, rather than narrative beat, forcing DMs to piece together the narrative and dramatic tension of each area independently.
-> * The adventure is a sandbox with little direction other than the Tarokka reading, and no strong hooks to the Tarokka reading other than the Mysterious Visitors adventure hook.
-> * Many combat encounters (e.g., the Bonegrinder coven) pose a high risk of TPK, especially at low levels, while others are trivially easy (e.g., Izek and the entirety of the Werewolf Den).
-> * The random nature of the Tarokka reading can allow your players to obtain the most powerful artifact in the campaign—the Sunsword, which is capable of killing Strahd automatically in seven turns—at level three. Alternatively, the Tarokka reading might place all three artifacts in Castle Ravenloft, depriving your players of any real reason to adventure around Barovia.
-> * Multiple narratives—including Ireena's encounter with Sergei at the blessed pool in Krezk, as well as Strahd's eventual resurrection in the epilogue—are incredibly unsatisfying to the vast majority of players.
-> * Strahd's statblock is poorly made, such that a mid-level party can easily defeat him outside of Ravenloft without the Sunsword, but a high-level party will find it literally impossible to defeat him inside of Ravenloft (due to his phasing ability) unless the DM intentionally or accidentally makes a mistake.
-> * Strahd is an incredibly challenging villain to run, making it easy for an inexperienced DM to railroad their players into an unfun, depressing experience instead of allowing them opportunities for real victory and growth.
->     
-> No matter what you do, if you want to run *Curse of Strahd* as a fun, engaging, and memorable adventure, you're going to have to make at least a few changes—and, most likely, a significant number of changes.
+> * Le livre n'est pas structuré de manière linéaire, ce qui  oblige les MJ à comprendre eux-mêmes la structure de l'aventure.
+> * Les détails cruciaux sont dispersés à travers divers chapitres et annexes, nécessitant parfois de lire et de relire le livre pour retrouver les informations spécifiques sur les PNJ ou les événements.
+> * Les chapitres sont organisés par localisation, pas par moments narratifs, ce qui peut compliquer la création d'une trame narrative cohérente.
+> * L'aventure est une sandbox avec peu de directives autres que la lecture de Tarokka, et les points d'entrée dans l'histoire peuvent être vagues.
+> * Certaines rencontres présentent un risque élevé de TPK, surtout à bas niveaux, tandis que d'autres sont très faciles.
+> * La nature aléatoire de la lecture de Tarokka peut permettre à vos joueurs d'obtenir l'un des artefacts les plus puissants de la campagne—la **Swordsun**, capable de tuer Strahd automatiquement en sept tours—dès le niveau trois. En revanche, la lecture de Tarokka peut également placer les trois artefacts dans le Château Ravenloft, privant ainsi vos joueurs de toute véritable raison de parcourir Barovia.
+> * L'affrontement d'Ireena avec Sergei à la fontaine bénie de Krezk, ainsi que la résurrection de Strahd dans l'épilogue, sont extrêmement décevants pour la grande majorité des joueurs.
+> * Le profil de Strahd est mal conçu, de sorte qu'un groupe de niveau moyen peut facilement le vaincre à l'extérieur de Ravenloft sans la Sunsword, tandis qu'un groupe de haut niveau trouvera pratiquement impossible de le vaincre à l'intérieur de Ravenloft (en raison de son ability à se déplacer à travers les murs) à moins que le MJ ne commette une erreur intentionnelle ou accidentelle.
+> * Strahd est un vilain extrêmement difficile à faire jouer, ce qui peut facilement conduire un MJ inexpérimenté à contraindre ses joueurs à une expérience peu amusante et déprimante, au lieu de leur offrir des opportunités réelles de victoire et de développement.
+>    
+> Peu importe ce que vous faites, si vous voulez que _Curse of Strahd_ soit une aventure amusante, captivante et mémorable, vous devrez apporter au moins quelques changements—et, très probablement, un nombre significatif de changements.
 > 
-> Many new DMs have to work hard just to remember what's in the book and figuring out how to run it at the table. New and even intermediate DMs also often don't need or want to do extra homework in order to interpret or piece together the contents of the adventure, and might struggle to adequately fix any problems even if I'd noticed them.
+> De nombreux nouveaux Maîtres de Jeu (MJ) doivent travailler dur juste pour se souvenir de ce qui est dans le livre et pour comprendre comment le faire fonctionner à la table. Les MJ débutants et même intermédiaires n'ont souvent pas besoin ou ne souhaitent pas faire des recherches supplémentaires pour interpréter ou assembler le contenu de l'aventure, et pourraient avoir du mal à corriger adéquatement les problèmes même s'ils les ont remarqués.
 > 
-> If you're in the same boat, then you might want to use a guide to help you run the adventure—a published work by an experienced DM who's already run the module multiple times, identified and addressed these problems, and playtested their solutions with the broader online Curse of Strahd community. **If you're going to need to solve the campaign's problems anyway, why not use a guide that's already done it for you?**
-# Your Personal *Curse of Strahd* Guide
-*Curse of Strahd: Reloaded* aims to transform the original adventure into something far more accessible, cohesive, and resonant. That's why this DM's guide to *Curse of Strahd*:
+> Si vous vous trouvez dans cette situation, vous pourriez envisager d'utiliser un guide pour vous aider à gérer l'aventure—un ouvrage publié par un MJ expérimenté qui a déjà dirigé le module plusieurs fois, identifié et abordé ces problèmes, et testé ses solutions avec la communauté en ligne plus large de _Curse of Strahd_. **Si vous devez résoudre les problèmes de la campagne de toute façon, pourquoi ne pas utiliser un guide qui les a déjà résolus pour vous ?**
+# Votre Guide Personnel pour _Curse of Strahd_
 
-* **Simplifies** your preparation material, presenting the campaign in an organized, Dungeon Master-friendly format.
-* **Guides** you through complex scenes with NPC profiles, pre-written descriptions, and tips for table management.
-* **Enhances** your players' experience by filling in gaps, tying off loose ends, and presenting a more immersive and cohesive narrative.
-* **Elevates** the gameplay and story, pruning and refining adventure material while ensuring all content serves the greater narrative.
+_Curse of Strahd: Reloaded_ vise à transformer l'aventure originale en quelque chose de beaucoup plus accessible, cohérent et résonnant. C'est pourquoi ce guide pour Maîtres de Jeu de _Curse of Strahd_ :
 
-*Curse of Strahd: Reloaded*, of course, is one of several guides to the *Curse of Strahd* campaign. Here's what sets it apart:
+- **Simplifie** vos matériaux de préparation, en présentant la campagne dans un format organisé et adapté aux Maîtres de Jeu.
+- **Vous Guide** à travers des scènes complexes avec des profils de PNJ, des descriptions pré-écrites et des conseils pour la gestion de table.
+- **Améliore** l'expérience de vos joueurs en comblant les lacunes, en résolvant les détails laissés en suspens, et en offrant une narration plus immersive et cohérente.
+- **Élève** le jeu et l'histoire, en taillant et en affinant le matériel de l'aventure tout en veillant à ce que tout le contenu serve le récit global.
 
-* ***Simplicity.*** A focused approach to the campaign, avoiding convoluted lore or extraneous storylines and ensuring a straightforward, streamlined experience.
-* ***Resonance.*** Enhanced emphasis on the themes of tragedy, pride, hope, and redemption that make *Curse of Strahd* truly memorable.
-* ***Depth.*** A deeper exploration of Barovia and its inhabitants, bringing the setting and its people to life.
-* ***Empowerment.*** Game design that allows your players to be the heroes of Barovia, rather than the victims of a dark and soul-crushing survival-horror experience.
-* ***Accessibility.*** Detailed notes and preparation, allowing you to focus on running engaging sessions instead of getting bogged down in planning and prep work.
+_Curse of Strahd: Reloaded_ est bien sûr l'un des plusieurs guides pour la campagne _Curse of Strahd_. Voici ce qui le distingue :
+
+- _**Simplicité.**_ Une approche ciblée de la campagne, évitant les mythes compliqués ou les intrigues superflues et assurant une expérience claire et épurée.
+- _**Résonance.**_ Un accent renforcé sur les thèmes de la tragédie, de l'orgueil, de l'espoir et de la rédemption qui rendent _Curse of Strahd_ véritablement mémorable.
+- _**Profondeur.**_ Une exploration plus approfondie de Barovia et de ses habitants, donnant vie au décor et à ses personnages.
+- _**Empowerment.**_ Un design de jeu permettant à vos joueurs d'être les héros de Barovia, plutôt que des victimes d'une expérience de survie sombre et écrasante.
+- _**Accessibilité.**_ Des notes et une préparation détaillées, vous permettant de vous concentrer sur la conduite de sessions captivantes au lieu de vous noyer dans la planification et les préparatifs.
 
 > [!info]- **What kind of guide is Reloaded?**
 > 
@@ -81,7 +82,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 # Table of Contents
 ## Chapter 1 - Beginning the Campaign
 [[Session Zero]]. Setting expectations and clarifying player triggers.
-[[Character Creation]]. Developing character bonds, flaws, and motivations.
+[[Création de Personnage]]. Developing character bonds, flaws, and motivations.
 ## Chapter 2 - The Land of Barovia
 [[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
 [[History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.

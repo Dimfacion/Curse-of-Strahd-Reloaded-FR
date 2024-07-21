@@ -67,7 +67,7 @@
 * Removed references to [[Arc D - The Tome of Strahd]]
 * Added in-line artist credits and Patreon links for splash art illustrator [Caleb Cleveland](https://www.patreon.com/calebisdrawing).
 
-[[A DM's Guide to Curse of Strahd|Introduction]]
+[[Guide du Maître de Jeu pour Curse of Strahd|Introduction]]
 * Added About the Author box with contact information
 * Added projected completion date and Google Forms feedback form to Under Construction box
 * Updated Acknowledgments
@@ -277,7 +277,7 @@
 * Fixed assorted typos
 * Added [[Arc J - The Stolen Gem]], the first half of [[Arc K - The Fallen Abbey]], and the beginning of [[Arc O - Dinner with the Devil]].
 
-**[[A DM's Guide to Curse of Strahd]]**
+**[[Guide du Maître de Jeu pour Curse of Strahd]]**
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 

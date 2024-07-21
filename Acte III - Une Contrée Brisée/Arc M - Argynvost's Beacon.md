@@ -169,7 +169,7 @@ Godfrey notes that these warlike spirits cannot be dissuaded from their mad crus
 >   
 > The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
 
-Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island.
+Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need prote[](Arc%20E%20-%20The%20Missing%20Vistana.md)spir[](Arc%20H%20-%20The%20Lost%20Soul.md)them to travel south from the Luna River Crossroads, to a point where the Lu[](Arc%20E%20-%20The%20Missing%20Vistana.md)l lake with an island.
 
 "Find an ancient stone slab where the river meets the lake," he directs them. "Two hundred paces west from there, a wide river-rock marks the final resting place of nearly one thousand souls. Some among them may still bear the liveries of the Order. Should you clothe yourselves in their garments, the maddened spirits that haunt these halls shall allow you to come and go in peace." (Godfrey warns, however, that Vladimir himself will not be fooled by any such tricks.)
 

@@ -366,7 +366,7 @@ The players do not recognize the name "Strahd von Zarovich."
 ## A2d. The Third Floor
 As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
 ### Balcony
-<span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
+<span class="citation"><em>This scene takes place i[](Arc%20C%20-%20Into%20the%20Valley.md)</span>
 
 This room is largely as described in <span class="citation">Balcony (p. 214)</span>. When the players enter this room, read:
 

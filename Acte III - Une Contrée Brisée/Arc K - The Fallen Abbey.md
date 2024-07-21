@@ -329,8 +329,7 @@ Dmitri apologizes to the players for concealing this information from them, and 
 > 
 > Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
 # K2. The Abbey of Saint Markovia
-The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
-## K2a. Entering the Abbey
+The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding[](Arc%20I%20-%20The%20Walls%20of%20Krezk.md). Entering the Abbey
 The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
 
 > [!profile]+ **Otto & Zygfrek**
