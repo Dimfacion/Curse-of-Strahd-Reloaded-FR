@@ -1,4 +1,4 @@
-*An adventure for five 2nd-level characters.*
+*Une aventure pour 5 personnages de niveau 5.*
 
 > [!tip]+ **A Taste of Horror**
 > The following pages contain a guide to the first acts of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and the first two-thirds of **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
@@ -10,7 +10,7 @@
 > [!warning]+ **A Second-Level Adventure**
 > Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
 
-The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
+Les joueurs commencent dans la ville de Daggerford la veille de Highharvesttide, une fête annuelle et une célébration des récoltes. Les auberges locales sont toutes pleines pour la nuit, et les joueurs—des vagabonds avec peu d'argent ou de compagnie—trouvent refuge dans l'écurie du Nightmare’s Bridle, une taverne délabrée à la périphérie de la ville.
 
 When the relics they carry sense the presence of Death House, however, the players are led through Daggerford’s rainy streets and into the house’s waiting threshold.
 

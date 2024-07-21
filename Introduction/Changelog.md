@@ -11,7 +11,7 @@
 * Added additional artwork by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/posts).
 * Added an additional line regarding creature alignments to the campaign contract in [[Session Zero]]
 * Updated Strahd's goals in [[Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
-* Revised the flesh mound's second phase in [[Arc A - Escape From Death House]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
+* Revised the flesh mound's second phase in [[Arc A - L'Evasion du Manoir Mortel]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
 * Replaced Madam Eva's invitation in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
 * Moved the March of the Dead from [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] to [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
 * Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
@@ -38,7 +38,7 @@
 * Reworked the fourth floor of Varushka's nightmare in [[Arc O - Dinner with the Devil]]
 * Reduced Varushka's Challenge Rating to 8 in both phases in [[Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.7 (Apr. 28, 2024)
-* Added new rebalancing details for the flesh mound in [[Arc A - Escape From Death House]]
+* Added new rebalancing details for the flesh mound in [[Arc A - L'Evasion du Manoir Mortel]]
 ## Hotfix 2.0.7.6 (Apr. 27, 2024)
 * Removed legacy text from the third level of Varushka's Nightmare in [[Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.5 (Apr. 23, 2024)
@@ -46,8 +46,8 @@
 ## Hotfix 2.0.7.4 (Apr. 22, 2024)
 * Removed an error referring to three trapdoors instead of one in [[Arc O - Dinner with the Devil]]
 ## Hotfix 2.0.7.3 (Apr. 21, 2024)
-* Added a preliminary Strength saving throw to the Flesh Mound's **engulf** in [[Arc A - Escape From Death House]]
-* Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Arc A - Escape From Death House]]
+* Added a preliminary Strength saving throw to the Flesh Mound's **engulf** in [[Arc A - L'Evasion du Manoir Mortel]]
+* Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Arc A - L'Evasion du Manoir Mortel]]
 * Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Arc E - The Missing Vistana]]
 ## Hotfix 2.0.7.2 (Apr. 15, 2024)
 * Rolled back an unfinished/discarded rework of the old Watchtower in [[Act I - Into the Mists/Arc C - Into the Valley]]
@@ -85,10 +85,10 @@
 [[Running the Adventure]]
 * Removed the Wachter **cultist** from the list of Strahd's spies
 
-[[Act I Summary]], [[Act II Summary]], [[Act III Summary]]
+[[Acte I Résumé]], [[Act II Summary]], [[Act III Summary]]
 * Added specific dates and timelines
 
-[[Arc A - Escape From Death House]]
+[[Arc A - L'Evasion du Manoir Mortel]]
 * Added Drasha as the author of the dungeon logbook
 * Removed the **mimic**, the *Your Life* book, and Gustav's rock collection
 * Modified the mechanics of the *amber shard*
@@ -286,7 +286,7 @@
 * Modified Van Richten's history to restore his curse and Arturi Radanavich's curse and remove his time spent traveling with Arturi  
 * Moved King Dostron's invasion to take place in Kavan's old age  
 
-**[[Arc A - Escape From Death House]]**
+**[[Arc A - L'Evasion du Manoir Mortel]]**
 * Allowed Rose and Thorn to aid the players in bypassing Gustav  
 * Made Waltz for Klara open the first half of the secret door in the library  
 * Removed the deed from the chest in the secret room and moved the will to Gustav's desk in the library.  
