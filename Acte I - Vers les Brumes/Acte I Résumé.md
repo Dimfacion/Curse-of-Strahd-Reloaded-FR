@@ -1,44 +1,48 @@
-In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley.
+Dans cet acte, les joueurs sont attirés dans la Funeste Demeure hantée, qui les transporte mystiquement dans la contrée de Barovie. Alors qu'ils prennent leurs repères, ils se rendent au village de Barovie, où ils rencontrent le bourgmestre Ismark Kolyanovich et sa sœur, Ireena Kolyana, et apprennent l'existence du mystérieux Strahd von Zarovich, un vampire récemment réveillé qui tourmente la vallée de Barovie.
 
-The players are asked to escort Ireena to the nearby town of Vallaki for safety; if the players agree, Ireena also asks them to assist in the burial of her late father, Burgomaster Kolyan Indirovich. While at the local church, the players meet Doru, a **vampire spawn** at war with his bloodthirsty nature, and have an opportunity to reconcile him with his father, the priest Donavich.
+On demande aux joueurs d'escorter Ireena jusqu'à la ville voisine de Vallaki pour sa sécurité ; s'ils acceptent, Ireena leur demande également d'assister à l'enterrement de son défunt père, le bourgmestre Kolyan Indirovich. À l'église locale, les joueurs rencontrent Doru, un **rejeton vampire** qui lutte contre sa nature assoiffée de sang, et ont l'occasion de le réconcilier avec son père, le prêtre Donavich.
 
-Upon receiving a warning and invitation sent in a dream from the Vistani seer Madam Eva, the players depart the village of Barovia for a Vistani encampment at nearby Tser Pool. Following a brief encounter with Strahd himself, the players receive a mystical Tarokka reading from Madam Eva, who foretells the location of three mystical artifacts—and a companion—who will help them defeat Strahd.
+Après avoir reçu un avertissement et une invitation envoyés dans un rêve par la voyante Vistani Madame Eva, les joueurs quittent le village de Barovia pour un campement Vistani près de Tser Pool. Après une brève rencontre avec Strahd lui-même, les joueurs reçoivent une lecture mystique de Tarokka de Madame Eva, qui prédit l'emplacement de trois artefacts mystiques - et d'un compagnon - qui les aideront à vaincre Strahd.
 
-As the players travel to Madam Eva's camp and the nearby town of Vallaki, they encounter a number of characters with ties to possible future adventures, as well as some adversarial encounters that will test their tactics, coordination, and combat skill.
+Pendant leur voyage vers le camp de Madame Eva et la ville voisine de Vallaki, les joueurs rencontrent plusieurs personnages liés à de possibles aventures futures, ainsi que des rencontres hostiles qui mettront à l'épreuve leur tactique, leur coordination et leur adresse au combat.
 
-Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
-# Milestones
-The players begin this act at 2nd level and should end it at 4th level, gaining milestone XP when they successfully do any of the following:
+À leur arrivée à Vallaki, les joueurs peuvent trouver refuge à l'Auberge de l'Eau Bleue, et - si elle est avec eux - aider Ireena à chercher refuge à l'église de Saint-Andral. L'acte se termine lorsque les joueurs prennent leur premier repos long à Vallaki.
 
-* discover the secret staircase in Death House (200 XP)
-* successfully escape Death House (400 XP)
-* bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barovia (400 XP)
-* reconcile Doru with his father (100 XP)
-* receive the Tarokka reading from Madam Eva (500 XP)
-* find lodging in Vallaki (1,000 XP)
-# Timeline
-* [[Arc A - L'Evasion du Manoir Mortel]]: The players enter Death House, defeat the Flesh Mound, and emerge into the Svalich Woods on Octyavr 27, 735 B.C. (Barovian Calendar).
-* [[Arc B - Welcome to Barovia]]: The players arrive in the village of Barovia and meet Ismark and Ireena on Octyavr 28.
-* [[Arc C - Into the Valley]]: The players receive the Tarokka reading on Neyavr 1, arrive in Vallaki on Neyavr 2, and encounter Baron Vallakovich the morning of Neyavr 3.
+# Étapes
 
-> [!info]+ **The Barovian Calendar** 
-> The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar has twelve 28-day months, which are named as follows: [^1]
+Les joueurs commencent cet acte au niveau 2 et devraient le terminer au niveau 4, gagnant des PX par étapes lorsqu'ils réussissent l'une des actions suivantes :
+
+- Découvrir l'escalier secret dans la Funeste Demeure (200 PX)
+- S'échapper avec succès de la Funeste Demeure (400 PX)
+- Enterrer les restes du bourgmestre Kolyan Indirovich dans le cimetière du village de Barovie (400 PX)
+- Réconcilier Doru avec son père (100 PX)
+- Recevoir la lecture de Tarokka de Madame Eva (500 PX)
+- Trouver un logement à Vallaki (1 000 PX)
+
+# Chronologie
+
+- [[Arc A - L'Evasion de la Funeste Demeure]] : Les joueurs entrent dans la Funeste Demeure, vainquent l'Amas de Chair, et émergent dans les Bois de Svalich le 27 Octyavr 735 A.B. (Calendrier Barovien).
+- [[Arc B - Bienvenue en Barovie]] : Les joueurs arrivent au village de Barovie et rencontrent Ismark et Ireena le 28 Octyavr.
+- [[Arc C - Into the Valley]] : Les joueurs reçoivent la lecture de Tarokka le 1er Neyavr, arrivent à Vallaki le 2 Neyavr, et rencontrent le Baron Vallakovich le matin du 3 Neyavr.
+
+> [!info]+ **Le calendrier Barovien** 
+> L'année actuelle du calendrier Barovien est 735 B.C. (Barovian Calendar). Le calendrier Barovien est composé de douze mois de 28 jours, nommés comme suit : [^1] 
 > 
 > 
-| Month | Barovian Name | Gregorian Name |
+| Mois | Nom Barovien | Nom Gregorien |
 | :---: | :------------ | :------------- |
-|   1   | Yinvar        | January        |
-|   2   | Fivral        | February       |
-|   3   | Mart          | March          |
-|   4   | Apryl         | April          |
-|   5   | Mai           | May            |
-|   6   | Eyune         | June           |
-|   7   | Eyule         | July           |
-|   8   | Avgust        | August         |
-|   9   | Sintyavr      | September      |
-|  10   | Octyavr       | October        |
-|  11   | Neyavr        | November       |
-|  12   | Dekavr        | December       |
+|   1   | Yinvar        | Janvier        |
+|   2   | Fivral        | Février       |
+|   3   | Mart          | Mars          |
+|   4   | Apryl         | Avril          |
+|   5   | Mai           | Mai            |
+|   6   | Eyune         | Juin           |
+|   7   | Eyule         | Juillet           |
+|   8   | Avgust        | Août         |
+|   9   | Sintyavr      | Septembre      |
+|  10   | Octyavr       | Octobre        |
+|  11   | Neyavr        | Novembre       |
+|  12   | Dekavr        | Décembre       |
 
 
 

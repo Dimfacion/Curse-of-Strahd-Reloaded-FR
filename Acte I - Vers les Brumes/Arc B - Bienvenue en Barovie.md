@@ -1,24 +1,23 @@
-_An adventure for five 3rd-level characters._
+_Une aventure pour cinq personnages de niveau 3._
 
-> [!warning]+ **Recent Update**
-> This arc was substantially revised on July 19, 2024. To access the deprecated version of this arc, visit [[Deprecated Material/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] in the Deprecated Materials appendix.
+> [!warning]+ **Mise à jour récente** Cet arc a été substantiellement révisé le 19 juillet 2024. Pour accéder à la version obsolète de cet arc, consultez [[Matériel obsolète/Arc B - Bienvenue à Barovia|Arc B - Bienvenue à Barovia]] dans l'annexe du Matériel obsolète.
 
-In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.
+Dans cet arc, les joueurs se rendent dans le sombre village de Barovia, ravagé par la mort et le désespoir suite au réveil de Strahd. Lorsqu'un corbeau-garou déguisé les guide vers la taverne du Sang de la Vigne, ils rencontrent Ismark, l'aîné des enfants du bourgmestre récemment blessé.
 
-There, the players learn that the village has been under attack by Strahd’s undead horde each night for the past six nights—and that the horde is expected to return at dusk. In exchange for food, shelter, and information, Ismark asks the players to take up arms alongside the Barovians and prepare to defend the village’s fortifications against the onslaught of the dead.
+Là, les joueurs apprennent que le village est attaqué chaque nuit par la horde de morts-vivants de Strahd depuis six nuits - et que la horde devrait revenir au crépuscule. En échange de nourriture, d'abri et d'informations, Ismark demande aux joueurs de prendre les armes aux côtés des Baroviens et de se préparer à défendre les fortifications du village contre l'assaut des morts.
 
-After successfully defending the barricades, the players learn that Strahd has personally invaded the burgomaster’s mansion, killing Ismark’s father and biting his sister, Ireena. With the village’s burgomaster dead, Strahd formally withdraws the horde from the village, allowing Ismark, Ireena, and the players to pick up the pieces.
+Après avoir défendu avec succès les barricades, les joueurs apprennent que Strahd a personnellement envahi le manoir du bourgmestre, tuant le père d'Ismark et mordant sa sœur, Ireena. Le bourgmestre du village étant mort, Strahd retire formellement la horde du village, permettant à Ismark, Ireena et aux joueurs de ramasser les morceaux.
 
-The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer Madam Eva how Strahd can be defeated. Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
+Le lendemain matin, Ismark demande aux joueurs d'aider à apporter les restes de leur père à l'église locale pour l'enterrement, d'escorter Ireena jusqu'à Vallaki et de demander à la voyante Vistani, Madame Eva, comment Strahd peut être vaincu. En livrant le cercueil du Bourgmestre à l'église à l'aube suivante, les joueurs peuvent rencontrer Doru, le fils du Père Donavich, que Strahd a transformé en rejeton vampire pour le punir de sa rébellion. Les joueurs font alors face à un choix : vont-ils détruire Doru, comme le demande le Père Donavich, ou l'épargner ?
 
-> [!design]+ **Design Note: Arrival in Barovia**
-> The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
+> [!design]+ **Note de conception : Arrivée à Barovia** 
+> L'arrivée des joueurs dans le village de Barovia a été considérablement retravaillée pour créer un incident déclencheur fort pour la campagne, garantissant qu'ils ont une raison immédiate et concrète de rechercher la lecture de Tarokka de Madame Eva, une opportunité de former des relations avec les villageois de Barovia, et des enjeux personnalisés pour voir Strahd vaincu.
 
 # B1. Old Svalich Road
 
 <span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
 
-The journey from [[Arc A - L'Evasion du Manoir Mortel#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
+The journey from [[Arc A - L'Evasion de la Funeste Demeure#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
 
 This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
 
