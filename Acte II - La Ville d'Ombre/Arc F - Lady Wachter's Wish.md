@@ -17,7 +17,7 @@ If the players deliver Izek’s severed head to Lady Wachter, she visits Baron V
 
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
-If the players defied Baron Vallakovich or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or Ireena visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the Blue Water Inn that same night.
+If the players defied Baron Vallakovich or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or Ireena visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, [[Personnages Non-Joueurs#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the Blue Water Inn that same night.
 
 The envelope is addressed to whichever player first introduced themselves to Nikolai and Karl Wachter on the night of their first arrival or, if the players did not interact with Nikolai and Karl in the taproom, whichever player first identified themselves to the guards at Vallaki’s gates that same day.
 
@@ -85,12 +85,12 @@ A few moments after the players notice the young woman, Nikolai Wachter stumbles
 - Nikolai greets the young woman as “Stella” and worriedly wonders aloud how she got here.
 - Nikolai notices the players and apologizes profusely to them, assuring them that he’ll get his little sister out of their hair.
 - If he previously encountered the players in the Blue Water Inn, Nikolai might then recognize them and greet them more personally—either warmly or coldly, depending on their prior interaction. He will then ask the players why they have come to Wachterhaus.
-- [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] arrives from the kitchen and lightly scolds Nikolai for allowing Stella to wander off.
+- [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] arrives from the kitchen and lightly scolds Nikolai for allowing Stella to wander off.
 - Nikolai tells her that he intends to take Stella for a brief walk around the gardens, and Lady Wachter’s face softens.
 - Lady Wachter reminds Nikolai that it’s a brisk evening, and to ensure that Stella is warmly dressed and that she neither trips nor injures herself.
 - Nikolai agrees and departs, leading a vacant-eyed Stella out the front door.
 
-[[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] then enters the parlor and apologizes to the players for the disturbance. She then introduces herself as Lady Fiona Wachter and formally welcomes the players to Wachterhaus, thanking them for accepting her invitation. She invites the players to seat themselves upon the couches, if they haven’t already, and to make themselves comfortable.
+[[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] then enters the parlor and apologizes to the players for the disturbance. She then introduces herself as Lady Fiona Wachter and formally welcomes the players to Wachterhaus, thanking them for accepting her invitation. She invites the players to seat themselves upon the couches, if they haven’t already, and to make themselves comfortable.
 
 ![[Lady Fiona Wachter.png]]
 <span class="credit">"Lady Fiona Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -115,7 +115,7 @@ Haliq arrives shortly thereafter bearing a tray of wine glasses for those that r
 
 ## F2c. Drinks in the Parlor
 
-During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] can share the following information:
+During the following conversation, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] can share the following information:
 
 - The young woman was Stella Wachter, her daughter and youngest child. Stella suffers from a mysterious illness—one that has left her mind in a vegetative state for the past two months. Lady Wachter has tried every means available to her to cure Stella’s sickness, but none has succeeded.
 - The man with Stella was Nikolai Wachter II, Lady Wachter’s eldest son. Nikolai is named for his father, Nikolai Wachter, who died of a wasting sickness three years ago.
@@ -151,11 +151,11 @@ Lady Wachter may also respond to player questions as follows:
 
 ### Dinner is Served
 
-As the cocktail conversation draws to a close, Haliq re-enters the room to announce that dinner is served. As the players take their seats, Dhavit and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]]'s two maids, Madalena and Amalthia, set the table with an assortment of rich and mouth-watering foods: a roast leg of lamb, stewed vegetables, boiled and seasoned potatoes, and fresh-baked bread with butter and cheeses.
+As the cocktail conversation draws to a close, Haliq re-enters the room to announce that dinner is served. As the players take their seats, Dhavit and [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]]'s two maids, Madalena and Amalthia, set the table with an assortment of rich and mouth-watering foods: a roast leg of lamb, stewed vegetables, boiled and seasoned potatoes, and fresh-baked bread with butter and cheeses.
 
 ## F2d. The Vallakovich Problem
 
-As the players eat dinner, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] poses the following questions:
+As the players eat dinner, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] poses the following questions:
 
 - What do they think of Vallaki, given the time that they have spent in it so far?
 - What do they think of the town’s policies and culture, and how does it compare with the players’ homelands?
@@ -196,7 +196,7 @@ Where appropriate, Lady Wachter can also share the following story about her dau
 >
 > See [[Arc H - The Lost Soul#H5. Wachterhaus|Arc H - The Lost Soul]] for more information on how the players can persuade Lady Wachter of Stella’s fate.
 
-## [](Arc%20H%20-%20The%20Lost%20Soul.md#H5.%20Wachterhaus)her concerns, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] proceeds to ask for their discretion, as well as their promise that not a whisper of their conversation shall escape this room. If the players agree, Lady Wachter makes the following proposal, speaking carefully and making sure to choose her words delicately:
+## [](Arc%20H%20-%20The%20Lost%20Soul.md#H5.%20Wachterhaus)her concerns, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] proceeds to ask for their discretion, as well as their promise that not a whisper of their conversation shall escape this room. If the players agree, Lady Wachter makes the following proposal, speaking carefully and making sure to choose her words delicately:
 
 - There are many in Vallaki who are uncomfortable with the Vallakoviches’ rule, and who would prefer to see fresh leadership overseeing the town.
 - However, so long as Izek Strazni serves the Baron’s household, any attempt to shift the town’s political leadership would be met with violent brutality.
@@ -256,7 +256,7 @@ If the players ask Lady Wachter about the "ancient foe of an old and noble house
 
 # F3. Return to the Blue Water Inn
 
-The following morning, as the players enter the taproom of the Blue Water Inn, [[Non-Player Characters#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players’ invitation the previous day.
+The following morning, as the players enter the taproom of the Blue Water Inn, [[Personnages Non-Joueurs#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players’ invitation the previous day.
 
 The man, Ernst Larnak (described in **N4. Wachterhaus**, p. 110), is currently enjoying a breakfast of bread, egg, and cured sausage. In lieu of greeting the players, he reflects (with his mouth full) on the quality of Urwin Martikov’s cooking, but mourns that the inn doesn’t carry coffee, a wonderful foreign drink he once purchased from a Vistana caravan.
 
@@ -303,13 +303,13 @@ Tereska cannot be bribed, cajoled, or intimidated into switching the bottles. (S
 
 However, if the players fake a convincing cover story, they can convince her to replace one of the Purple Grapemash No. 3 bottles with the poisoned Red Dragon Crush bottle with a successful DC 13 Charisma (Deception) check.
 
-**_Distracting Izek._** If the players choose to swap the bottles while [[Non-Player Characters#Izek Strazni|Izek]] is eating lunch, they can distract Izek by, among other possibilities, causing any apparent breach of the peace, such as an evident jailbreak by one or more of the prisoners in the town stocks.
+**_Distracting Izek._** If the players choose to swap the bottles while [[Personnages Non-Joueurs#Izek Strazni|Izek]] is eating lunch, they can distract Izek by, among other possibilities, causing any apparent breach of the peace, such as an evident jailbreak by one or more of the prisoners in the town stocks.
 
 Players should be careful, however, to avoid being caught in the act. Izek is liable to declare—and join—a manhunt for any player seen breaking the law. Any manhunt, which will require Izek to rouse the town’s twelve off-duty **guards**, will last until nightfall. Izek then resumes his normal schedule the following day.
 
 ## F4b. Trailing Izek
 
-As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of the following encounters may take place.
+As the players trail [[Personnages Non-Joueurs#Izek Strazni|Izek]], any or all of the following encounters may take place.
 
 > [!info]+ **Getting Caught**
 > Should the players fail to escape initial notice in any of these encounters, they can still avoid detection by making a successful DC 13 group Dexterity (Stealth) check, which may be accompanied by one or more additional skill checks at your discretion. (See **Group Checks** in the <span class="citation">Player's Handbook, p. 175</span>.) For example, a player who seeks to escape notice by clambering onto the roof of a nearby house might attempt a DC 10 Strength (Athletics) check, gaining advantage on their Dexterity (Stealth) check if they succeed.
@@ -322,7 +322,7 @@ As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of 
 
 <span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
 
-As the players watch [[Non-Player Characters#Izek Strazni|Izek]] eating his lunch in the town square, Bluto, the town fisherman, drunkenly approaches them carrying a large, shallow wicker basket lined with river reeds and filled with stinking fish. (“Fresh-caught from Lake Zarovich!”)
+As the players watch [[Personnages Non-Joueurs#Izek Strazni|Izek]] eating his lunch in the town square, Bluto, the town fisherman, drunkenly approaches them carrying a large, shallow wicker basket lined with river reeds and filled with stinking fish. (“Fresh-caught from Lake Zarovich!”)
 
 Bluto loudly and belligerently demands to know whether the players will buy one of his fish for 4 cp, or a half-dozen of his fish for 20 cp. He takes any refusals as a personal offense and begins yelling at the players for being “outsiders” and “looking down at him,” which draws the attention of Izek and his guards.
 
@@ -330,13 +330,13 @@ The players can calm Bluto with a successful DC 14 Charisma (Persuasion) check o
 
 ### 2. Izek’s Spies
 
-As [[Non-Player Characters#Izek Strazni|Izek]] visits one of his spies, the players can overhear a conversation in which the spy informs Izek that several of their neighbors have recently visited the Morning Gate to purchase "pastries that allow you to dream while wide-awake" from a peddler named Morgantha.
+As [[Personnages Non-Joueurs#Izek Strazni|Izek]] visits one of his spies, the players can overhear a conversation in which the spy informs Izek that several of their neighbors have recently visited the Morning Gate to purchase "pastries that allow you to dream while wide-awake" from a peddler named Morgantha.
 
 As the conversation continues, the players are noticed by a small, mangy **mastiff** standing guard in the alleyway near the spy’s house. Upon spotting the players, the dog begins to growl at them, threatening to draw the attention of Izek, his guards, or his spy. The players can calm the dog with a successful DC 14 Wisdom (Animal Handling) check or by providing it with food.
 
 ### 3. Gate Inspections
 
-As [[Non-Player Characters#Izek Strazni|Izek]] visits the eastern Morning Gate, three Barovian refugees rattle the iron bars of the gate and plead for entry, claiming that the camp’s food stores are running low and wolves have been spotted prowling around the edges of the forest on multiple recent nights—made worse by the fact that nearly a full quarter of the camp has grown addicted to the so-called "dream pastries" sold by the peddler Morgantha.
+As [[Personnages Non-Joueurs#Izek Strazni|Izek]] visits the eastern Morning Gate, three Barovian refugees rattle the iron bars of the gate and plead for entry, claiming that the camp’s food stores are running low and wolves have been spotted prowling around the edges of the forest on multiple recent nights—made worse by the fact that nearly a full quarter of the camp has grown addicted to the so-called "dream pastries" sold by the peddler Morgantha.
 
 Izek conjures a flame in his hand and threatens to burn the refugees unless they disperse, which they do. Izek then snarls to the guards that if wolves are getting brave enough to approach the walls, werewolves can’t be far behind.
 
@@ -346,7 +346,7 @@ As Izek is leaving the Morning Gate, he idly commands one of the guards standing
 
 ### 4. End of the Day
 
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana.
+When [[Personnages Non-Joueurs#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana.
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -358,7 +358,7 @@ When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspec
 
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
 
-Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds north through the Zarovich Gate until arriving at Lake Zarovich. As he sits upon the shore, he drains the second bottle of wine in his case—gaining the **poisoned** condition for the duration of the following hour—and regards the doll with obsessive fixation.
+Upon retrieving the doll, [[Personnages Non-Joueurs#Izek Strazni|Izek]] proceeds north through the Zarovich Gate until arriving at Lake Zarovich. As he sits upon the shore, he drains the second bottle of wine in his case—gaining the **poisoned** condition for the duration of the following hour—and regards the doll with obsessive fixation.
 
 While he is poisoned in this way, treat Izek’s passive Wisdom (Perception) score as 8.
 
@@ -504,7 +504,7 @@ If the players loot Izek’s body following his death, they can recover his silv
 
 # F5. Aftermath of the Mission
 
-If the players successfully deliver Izek’s severed head to [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], she thanks them and assures them that she and her associates will “take it from here.” If the players are concerned about the possibility of further bloodshed, Lady Wachter assures them that, once shown Izek’s head, Baron Vallakovich will step down peacefully. She promises to provide them with any promised compensation the following evening at Wachterhaus, and invites them to attend a public transition ceremony in the town square the following morning.
+If the players successfully deliver Izek’s severed head to [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]], she thanks them and assures them that she and her associates will “take it from here.” If the players are concerned about the possibility of further bloodshed, Lady Wachter assures them that, once shown Izek’s head, Baron Vallakovich will step down peacefully. She promises to provide them with any promised compensation the following evening at Wachterhaus, and invites them to attend a public transition ceremony in the town square the following morning.
 
 > [!abstract]+ **The Transfer of Power**
 >

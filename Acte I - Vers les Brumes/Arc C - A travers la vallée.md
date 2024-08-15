@@ -1,188 +1,188 @@
-*An adventure for five 3rd-level characters.*
+_Une aventure pour cinq personnages de niveau 3._
 
-In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
+Dans cet arc, les joueurs quittent le village de Barovia pour se rendre à Tser Pool et à la ville de Vallaki. Pendant leur voyage à travers les bois, ils peuvent rencontrer une paire d'**éclaireurs** baroviens à la recherche d'une famille disparue, distraire ou combattre une horde de **zombies**, et récupérer une cache d'armes laissée par le Dr Rudolph van Richten.
 
-Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
+À leur arrivée au carrefour de la rivière Ivlis, les joueurs rencontrent Strahd von Zarovich pour la première fois, accompagné d'Escher, l'un de ses consorts vampiriques. Après une conversation tendue, les joueurs peuvent se diriger vers le nord en direction de Tser Pool.
 
-On the way to Tser Pool, the players encounter a raven—the disguised **wereraven** Muriel Vinshaw—fleeing a monstrous **strix**, a scarecrow of the skies crafted by the swamp-witch Baba Lysaga. If the players defend Muriel from the strix’s onslaught, she joins them for the remainder of their journey to Vallaki, though without revealing her true identity.
+Sur le chemin de Tser Pool, les joueurs rencontrent un corbeau - la **lougarou** Muriel Vinshaw déguisée - fuyant un monstrueux **strix**, un épouvantail des cieux créé par la sorcière des marais Baba Lysaga. Si les joueurs défendent Muriel contre l'assaut du strix, elle les accompagne pour le reste de leur voyage vers Vallaki, sans toutefois révéler sa véritable identité.
 
-Soon afterward, the players finally arrive at the Vistani encampment at Tser Pool. There, they receive a magical Tarokka reading from Madam Eva, which foretells the location of three artifacts that will assist them in the fight against Strahd, as well as an ally who is destined to aid them. 
+Peu après, les joueurs arrivent enfin au campement Vistani à Tser Pool. Là, ils reçoivent une lecture magique de Tarokka de Madame Eva, qui prédit l'emplacement de trois artefacts qui les aideront dans leur lutte contre Strahd, ainsi qu'un allié destiné à les aider.
 
-While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
+Pendant leur séjour à Tser Pool, les joueurs entendent des contes Vistani sur l'histoire de Strahd et le _Symbole Sacré de Ravenkind_, et peuvent aussi rencontrer Arturi Radanavich, un Vistana errant qui prétend avoir connu Rudolph van Richten. Au moment de leur départ, ils reçoivent également une mission de Madame Eva : acheter un jouet à Vallaki pour le livrer à sa petite-petite-nièce, Arabelle.
 
-If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+Si les joueurs sont chargés d'escorter Ireena jusqu'à l'Église Saint-Andral à Vallaki, ou s'ils ont leurs propres raisons de le faire, ils retournent alors sur la Vieille Route Svalich via le carrefour de la rivière Ivlis, voyageant vers l'ouest à travers les montagnes. En chemin, ils rencontrent un étrange cavalier squelettique, une paire de tombes fraîches, un revenant vigilant, la **guenaude nocturne** Morgantha déguisée en colporteuse, deux volées de **corbeaux** amicaux, et un **loup-garou** accompagné de sa meute de **loups** affamés.
 
-Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster Rictavio and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, Izek Strazni...
+En arrivant à Vallaki, les joueurs peuvent trouver un logement à l'Auberge de l'Eau Bleue. Là, ils peuvent rencontrer une foule de personnages hauts en couleur, dont le maître de cérémonie Rictavio et les fils de Lady Fiona Wachter. À l'aube, les joueurs peuvent également avoir une rencontre fatidique avec le Baron Vargas Vallakovich et son brutal homme de main, Izek Strazni...
 
-> [!warning]+ **The Road From Tser Pool**
->
-> The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, <span class="citation">Tser Falls (p. 37)</span> makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
->
-> To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
-
-> [!info]+ **No Random Encounters**
-> This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the <span class="citation">Random Encounters (p. 28)</span> section except where a particular encounter is referenced and incorporated directly.
-# C1. The Svalich Woods
-The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
-## C1a. The Barovian Scouts
-As the players travel, read:
-
-<div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
-<p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
-
-If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
-
-The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga. The two warily demand to know if the players are spies or servants of Strahd. If reassured, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
-
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
-
-The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
-
-Shortly after the players resume their trek down the Old Svalich Road, a light drizzle begins to fall, stirring a fine mist that drifts through the underbrush.
-## C1b. Van Richten’s Cache
-As the players continue down the road, read:
-
-<div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
-
-If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
-
-<div class="description">
-<p>You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.</p>
-<p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. A sixth figure, bearing the remnants of tattered leather armor, stands just beside the tree, its white eyes staring dully into the canopy overhead. This figure’s flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the forest floor around it before dissipating into the air.</p>
-</div>
-
-The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys. The sixth figure is a <span class="citation">zombie plague spreader (<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> created by Strahd, and the former leader of the undead siege. (Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.)
-
-> [!combat]- **Balancing the Zombies**
-> This combat encounter is an **oppressive** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 86% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!warning]+ **La route depuis Tser Pool**
 > 
-> * ***Three Players.*** Reduce the number of zombies to one.
-> * ***Four Players.*** Reduce the number of zombies to three.
-> * ***Six Players.*** Increase the number of zombies to seven.
-
-> [!design]- **Design Note: The Plague Spreader**
-> The original **zombie plague spreader** is a "glass cannon." Although it has a Challenge Rating of 4, it has an underlying "Offensive Challenge Rating" of 7 (due to the high damage of its multiattack and ***virulent miasma***) and "Defensive Challenge Rating" of 1/2 (due to its low Armor Class). This creates a high risk of a "swingy" combat," in which the players either kill the plague spreader before it deals notable damage or die to its high damage output before they can kill it.
+> La carte de Barovia du module représente une ligne en pointillés qui semble relier le Campement de Tser Pool aux Chutes de Tser. Malgré son apparence, <span class="citation">les Chutes de Tser (p. 37)</span> précisent clairement qu'il ne s'agit pas d'un raccourci. Cette ligne en pointillés est en réalité un sentier qui mène à la base des Chutes de Tser, 300 mètres en contrebas du pont. À aucun moment il ne rejoint réellement la route principale.
 > 
-> These modifications decrease the plague spreader's "Offensive Challenge Rating" to 4 and increase its "Defensive Challenge Rating" to 3, keeping its Challenge Rating constant while providing for a longer, steadier fight.
+> Pour voyager du Campement de Tser Pool à Vallaki, les joueurs devront plutôt se diriger vers le sud, retourner vers le carrefour de la rivière Ivlis, puis prendre la Vieille Route Svalich vers l'ouest.
 
-The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
+> [!info]+ **Pas de rencontres aléatoires** 
+> Ce guide incorpore le matériel du module original _La Malédiction de Strahd_ uniquement par référence. Ainsi, lorsque les joueurs voyagent, vous devriez ignorer la section <span class="citation">Rencontres aléatoires (p. 28)</span> sauf lorsqu'une rencontre particulière est référencée et incorporée directement.
+# C1. Les Bois de Svalich
 
-If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
-# C2. River Ivlis Crossroads
-<span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
+Le voyage du village de Barovia au carrefour de la rivière Ivlis fait 5 kilomètres de long et prend une heure.
 
-As the players approach this area, the drizzling rain stops. Read:
+## C1a. Les Éclaireurs Baroviens
 
-<div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
+Lorsque les joueurs voyagent, lisez :
 
-The players have arrived at the River Ivlis Crossroads, which is largely as described in <span class="citation">River Ivlis Crossroads (p. 35)</span>. Do not check for a random encounter when the players arrive.
+<div class="description"><p>Vous quittez le village silencieux de Barovia, le brouillard rampant autour de vos pieds alors que vous vous engagez sur la Vieille Route Svalich. Une mer d'herbes hautes vert pâle s'étend devant vous de chaque côté de la route, jusqu'au bord de la rivière Ivlis. Le ciel au-dessus est d'un gris terne, les nuages lourds de la promesse de pluie.</p> <p>Vous apercevez bientôt au loin le vieux pont de pierre arqué qui enjambe la rivière bleue claire devant vous. En le traversant, vous vous retrouvez sur une route boueuse qui serpente à travers les arbres. L'air est chargé de l'odeur de terre humide et de feuilles en décomposition, et les arbres se pressent de près, projetant des ombres profondes qui creusent des sillons sombres à travers la route.</p></div>
 
-This scene begins similarly to <span class="citation">River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)</span>, comes into view.
-## C2a. Strahd’s Arrival
-The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
+Si des joueurs ont un score de Sagesse (Perception) passive de 16 ou plus, ils entendent un bruissement et voient une silhouette accroupie dans les sous-bois brumeux. Sinon, les joueurs entendent simplement une voix appeler, étouffée et diffuse dans le brouillard : "Qui va là ? Nommez-vous."
 
-> [!abstract]+ **What If The Players Flee?**
->
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+La voix appartient à une éclaireuse barovienne bourrue nommée Kereza, accompagnée d'un second éclaireur à la voix douce nommé Korga. Les deux exigent avec méfiance de savoir si les joueurs sont des espions ou des serviteurs de Strahd. Une fois rassurés, les éclaireurs avertissent les joueurs que les espions de Strahd sont nombreux dans les Bois de Svalich, y compris des loups, des chauves-souris et - parfois - les arbres eux-mêmes. (Si on les interroge sur les arbres, les éclaireurs peuvent décrire avoir vu des vignes animées, des jeunes arbres et des buissons épineux qui errent dans les bois avec des intentions hostiles.)
 
-The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
+Si [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] est avec les joueurs, elle peut les aider à rassurer les éclaireurs, qui la reconnaissent et la saluent avec un respect silencieux. Les éclaireurs sont surpris de voir Ireena s'aventurer hors du village, mais conviennent que Vallaki est probablement un endroit plus sûr que Barovia - en supposant, bien sûr, qu'elle puisse y arriver en toute sécurité. (Ireena insiste cependant obstinément sur le fait que son voyage est diplomatique et humanitaire, et que les joueurs sont ses escortes et gardes du corps.)
 
-<div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
-<p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
+Les éclaireurs recherchent la famille Lansten : deux parents et trois jeunes enfants - une fille et deux garçons - qui ont disparu pendant l'attaque de zombies sur le village et n'ont pas été vus depuis. Après avoir demandé aux joueurs s'ils ont vu leurs cibles durant leur voyage, les éclaireurs les avertissent de ne pas s'écarter de la route, notant que des choses mortes et sombres se cachent sous la cime des arbres. Kereza et Korga prennent alors respectueusement congé.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
+Peu après que les joueurs aient repris leur trek sur la Vieille Route Svalich, une légère bruine commence à tomber, soulevant une fine brume qui dérive à travers les sous-bois.
 
-<div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
-<p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
+## C1b. La Cache de Van Richten
 
-Whether Ireena is with the party or not, add:
+Alors que les joueurs continuent sur la route, lisez :
 
-<div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
+<div class="description"><p>Vous vous enfoncez davantage dans les bois, la route boueuse vous guidant plus profondément et plus loin de la civilisation. Au détour d'un virage, la rivière se rapproche à nouveau. Ici, elle est plus large, ses eaux sombres et calmes. Vous pouvez voir le reflet des arbres et du brouillard à sa surface. Le son de l'eau qui coule doucement n'est accompagné que par le bruissement des feuilles et le crachin d'une pluie légère. Aucun chant d'oiseau ne vient briser le silence qui plane sur les bois.</p></div>
 
-> [!lore]+ **Strahd’s Foretelling**
->
-> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber, he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune:
->
-> - "The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains."
-> - "The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."
-> - "The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?"
-> - "The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token."
-> - "But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."
-> - "The threads of fate yet spin. The Seven of Swords, the Hooded One, is next. Strangers walk the land—their presence a riddle, their intentions a maze. They dwell in the dusk, their role yet unclear."
-> - "But the One of Stars, the Transmuter, is last. Change comes on newcomers’ wings, the dusk of an era upon us. As one age ends, another is born."
->
-> Much of Strahd’s foretelling was overheard by Muriel Vinshaw, an eavesdropping **wereraven**, until Strahd detected her presence and drove her away. Both Muriel and Strahd were unaware that Madam Eva knew of Muriel’s presence all along. As the hidden avatar of the Seeker, Eva bears a special bond with Barovia’s wereravens, and deliberately continued her foretelling to allow Muriel to hear it.
->
-> Muriel heard the first five cards that Madam Eva read, but doesn’t know the last two. More information about Muriel and her escape from Strahd’s minions can be found in [[#C3. The Strix]] below.
+Si les joueurs ont reçu l'emplacement de la cache d'armes cachée de Van Richten de la part de Doru dans l'église de Barovia, ils peuvent entrer dans les bois au sud pour la trouver. S'ils le font, lisez :
 
->[!profile]+ **How to Enjoy Roleplaying Strahd**
->Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
->
->* **Enjoy Invincibility.** Strahd is the one NPC in the entire campaign that (until they obtain the *Sunsword*) your players cannot hurt in any meaningful way. Their strongest attacks do little more than tickle him. Their cruelest insults merely amuse him. Enter Strahd-related scenes without fear of player action.
->* **Embrace Unpredictability.** In each scene before [[Arc R - The Tyrant's Trials]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
->* **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
+<div class="description"> <p>Vous quittez la route pour entrer dans les bois, franchissant la lisière alors que vos pieds s'enfoncent dans la boue et le sol limoneux. Des volutes de brouillard s'enroulent autour de vous, des arbres noueux étendant leurs bras au-dessus de vos têtes tandis qu'une lumière grise filtre à travers la canopée. Vous marchez sur trois cents pas, avançant doucement à travers l'humus et la brume jusqu'à arriver dans une clairière, les bois s'écartant pour faire place à un grand chêne ancien dont le tronc noir et noueux s'élève bien au-dessus de ses congénères.</p> <p>Vous réalisez bientôt, cependant, que vous n'êtes pas seuls. Cinq silhouettes se traînent ou se tiennent sans but dans la clairière, leurs vêtements boueux et déchirés et leur chair commençant tout juste à devenir pâle et grise. Une sixième silhouette, portant les restes d'une armure de cuir en lambeaux, se tient juste à côté de l'arbre, ses yeux blancs fixant mollement la canopée au-dessus. La chair de cette silhouette, bien que pourrissante, est d'un blanc lisse et maladif, sa peau parcourue de veines cramoisies en relief. Un léger nuage de brume rougeâtre s'échappe de sa bouche et descend sur le sol de la forêt autour d'elle avant de se dissiper dans l'air.</p> </div>
 
-> [!abstract]+ **The Players Misbehave**
->
->  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
->  
->  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fixate their gazes on the rude player. 
->  
->  The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
->  
->  The third time that a player disrespects Strahd, he frowns. Read the following:
->  
->  <hr>
->  
-> "You seem to be under the misunderstanding that you are special," Strahd says. "You are not. You are an outsider to my lands, with nary an ounce of respect or common wit. It amuses me, from time to time, to take the measure of those who enter the valley from beyond the Mists."
+Les cinq silhouettes sont des **zombies**. Elles correspondent également aux descriptions de la famille Lansten fournies par les éclaireurs - deux parents, une jeune fille et deux jeunes garçons. La sixième silhouette est un <span class="citation">propagateur de peste zombie (<em>Guide de Van Richten sur Ravenloft</em>, p. 255)</span> créé par Strahd, et l'ancien chef du siège des morts-vivants. (Augmentez les points de vie du **propagateur de peste** à 130, diminuez les dégâts nécrotiques infligés par son _**coup**_ à 5 (1d8), et diminuez les dégâts infligés par son _**miasme virulent**_ à 7 (2d6) dégâts de poison par créature.)
+
+> [!combat]- **Équilibrer les Zombies** 
+> Cette rencontre de combat est une rencontre **oppressive** contre un groupe de cinq joueurs de niveau 3 et un allié de FP 1 (Ireena Kolyana), et consommera environ 86% de leurs points de vie maximum totaux. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
 > 
-> His eyes narrow. "But you have taken your own measure, and I have found it wanting. You are not brave. You are not cunning. You invite death, and I have never been one to deny my subjects such a wish, no matter how foolish. This final chance, I shall grant you, to save your own life—for I see no value in it above that of the lowliest creature that crawls in the muck." 
+> - _**Trois Joueurs.**_ Réduisez le nombre de zombies à un.
+> - _**Quatre Joueurs.**_ Réduisez le nombre de zombies à trois.
+> - _**Six Joueurs.**_ Augmentez le nombre de zombies à sept.
+
+> [!design]- **Note de Conception : Le Propagateur de Peste** 
+> Le **propagateur de peste zombie** original est un "canon de verre". Bien qu'il ait un Facteur de Puissance de 4, il a un "Facteur de Puissance Offensif" sous-jacent de 7 (en raison des dégâts élevés de son attaque multiple et de son _**miasme virulent**_) et un "Facteur de Puissance Défensif" de 1/2 (en raison de sa faible Classe d'Armure). Cela crée un risque élevé de combat "oscillant", dans lequel les joueurs tuent soit le propagateur de peste avant qu'il ne cause des dégâts notables, soit meurent à cause de ses dégâts élevés avant de pouvoir le tuer.
 > 
-> He holds up a third finger. "The next time you speak, my pets will kill you. Any who defend you will share the same fate."
+> Ces modifications diminuent le "Facteur de Puissance Offensif" du propagateur de peste à 4 et augmentent son "Facteur de Puissance Défensif" à 3, maintenant son Facteur de Puissance constant tout en permettant un combat plus long et plus stable.
+
+Les joueurs peuvent essayer d'attirer les zombies loin de la clairière ; étant donné la faible intelligence des zombies, cela devrait être relativement facile. Alternativement, les joueurs peuvent tenter de tendre une embuscade et d'attaquer les zombies pour les détruire complètement.
+
+Si les joueurs atteignent le chêne, ils peuvent trouver la cache d'armes de Van Richten là où Doru leur a indiqué : dans un creux niché sous les racines de l'arbre. La cache elle-même est un petit coffre en bois non verrouillé contenant 20 carreaux d'arbalète en argent, une arbalète légère, deux _trousses de soins_, deux fioles d'_eau bénite_, et une _potion de soins_.
+# C2. Carrefour de la Rivière Ivlis
+
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 2 : Zone F.</em></span> Lorsque les joueurs approchent de cette zone, la bruine cesse. Lisez :
+
+<div class="description"><p>Bientôt, la rivière disparaît à nouveau de vue et les bois sombres entourent à nouveau la route. Finalement, les arbres s'écartent, révélant une haute falaise à la base d'une pente montagneuse brumeuse. L'air est froid et humide ici, et de douces volutes de brouillard tourbillonnent autour de la base de la falaise.</p></div> Les joueurs sont arrivés au Carrefour de la Rivière Ivlis, qui est largement tel que décrit dans <span class="citation">Carrefour de la Rivière Ivlis (p. 35)</span>. Ne vérifiez pas s'il y a une rencontre aléatoire lorsque les joueurs arrivent.
+
+Cette scène commence de manière similaire à <span class="citation">Carrefour de la Rivière Ivlis (p. 35)</span>. Cependant, la première fois que les joueurs s'apprêtent à partir pour Tser Pool, au lieu de voir **Le Pendu**, ils peuvent entendre le son d'un carrosse ou d'un chariot tiré par des chevaux qui s'approche à travers le brouillard. Presque aussitôt que le son apparaît, le carrosse noir de Strahd, tel que décrit dans <span class="citation">Carrosse Noir (p. 37)</span> et <span class="citation">Remise (p. 54)</span>, entre en vue.
+
+## C2a. L'arrivée de Strahd
+
+Les joueurs peuvent voir un cocher assis dans le siège du conducteur : le **rejeton vampirique** Escher, tel que décrit dans <span class="citation">K49. Salon (p. 70)</span>. Si elle est présente, Ireena halète à sa vue, murmurant qu'elle pensait qu'il était mort.
+
+> [!abstract]+ **Que se passe-t-il si les joueurs s'enfuient ?**
+> 
+> Les joueurs devraient avoir peu de temps pour tenter de se cacher avant que le carrosse de Strahd n'entre en vue. Cependant, si les joueurs tentent de fuir le carrosse en s'enfonçant dans les bois, les **loups sinistres** de Strahd - un pour chaque joueur plus Ireena - émergent du brouillard derrière eux et grognent, bloquant la fuite des joueurs.
+
+Le carrosse s'arrête alors. Lisez ce qui suit, en modifiant le texte si nécessaire si Ireena n'est pas présente, et en faisant une courte pause après chaque paragraphe pour permettre aux joueurs d'agir ou de réagir brièvement :
+
+<div class="description"><p>Le cocher lâche les rênes, descend du siège et s'avance pour ouvrir la porte latérale du carrosse, s'inclinant profondément. Un moment passe - puis un homme sort du carrosse.</p> <p>Il est grand, émacié, et vêtu d'habits dignes d'un homme de stature aristocratique, voire royale. Une cape noire est soigneusement drapée autour de ses épaules, attachée au cou par une broche rouge sang. Une épée longue repose dans son fourreau à sa hanche, sa garde polie brillant sous la faible lumière. Sa tunique écarlate est ornée de motifs complexes, et ses cheveux sont tirés en arrière en une pointe de veuve nette et impeccable.</p> <p>Ses yeux sont sombres, et lorsqu'il ajuste le rubis à son cou, vous voyez que ses ongles forment de longues griffes élégantes. C'est alors que vous réalisez que sa peau est pâle - de manière surnaturelle - et que ses yeux brillent d'une faim profonde et intelligente.</p></div>
+
+Si [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] est avec le groupe, ajoutez :
+
+<div class="description"><p>Ireena recule, comme giflée. Elle détourne les yeux du regard de l'homme, tout son corps se crispant. "Ne regardez pas dans ses yeux," dit-elle d'une voix étranglée.</p> <p>Le regard de l'homme s'attarde brièvement sur Ireena, et il sourit - bien qu'aucune chaleur n'atteigne ses yeux. "Dame Kolyana," dit-il. "Quelle agréable surprise." Il tourne ensuite son regard vers vous.</p></div>
+
+Que Ireena soit avec le groupe ou non, ajoutez :
+
+<div class="description"><p>"Bonjour," dit-il. "Je suis le Comte Strahd von Zarovich - et c'est un plaisir de finalement rencontrer les nouveaux venus dans mon domaine. Mes amis m'ont tant parlé de vous." Ses yeux s'attardent sur chacun d'entre vous à tour de rôle, vous regardant comme un morceau de viande pesé au marché, un bibelot intrigant mais inanimé - un animal proie repéré par un prédateur dans les buissons.</p></div>
+
+> [!lore]+ **La Prédiction de Strahd**
+> 
+> Au moment où il rencontre les joueurs, Strahd revient d'une visite à la tente de Madame Eva au Campement de Tser Pool. Trouvant difficile de contrôler le pouvoir du Fane de la Forêt en raison de l'interférence de Baba Zelenna pendant son sommeil, il a cherché conseil auprès de Madame Eva dans ses préparatifs pour la Grande Conjonction. Il a reçu la prédiction suivante :
+> 
+> - "Le Seigneur des Ténèbres—le maître des ombres, la bête dans le labyrinthe qui tire sur ses chaînes."
+> - "Le Six d'Étoiles, l'Évocateur—le pouvoir que vous convoitez, une force indomptée par les mains mortelles, brute et sauvage avec une fureur ardente."
+> - "L'Artefact—le jeton que vous cherchez, la clé du pouvoir. Le cœur de la divinité attend, mais où ?"
+> - "L'Innocente. Je vois une jeune fille aux cheveux de corbeau et aux yeux de crépuscule. Elle est un chemin vers le jeton."
+> - "Mais il y en a un autre—le Brisé. Le chemin du sacrifice ouvre une autre porte. Le mur qui murmure attend votre tribut."
+> - "Les fils du destin continuent de tourner. Le Sept d'Épées, l'Encapuchonné, est le suivant. Des étrangers parcourent la terre—leur présence une énigme, leurs intentions un labyrinthe. Ils demeurent dans le crépuscule, leur rôle encore flou."
+> - "Mais l'As d'Étoiles, le Transmutateur, est le dernier. Le changement vient sur les ailes des nouveaux venus, le crépuscule d'une ère est sur nous. Alors qu'un âge se termine, un autre naît."
+> 
+> Une grande partie de la prédiction de Strahd a été entendue par Muriel Vinshaw, une **lougarou** qui écoutait en cachette, jusqu'à ce que Strahd détecte sa présence et la chasse. Muriel et Strahd ignoraient tous deux que Madame Eva connaissait la présence de Muriel depuis le début. En tant qu'avatar caché du Chercheur, Eva entretient un lien spécial avec les lougarous de Barovia, et a délibérément poursuivi sa prédiction pour permettre à Muriel de l'entendre.
+> 
+> Muriel a entendu les cinq premières cartes que Madame Eva a lues, mais ne connaît pas les deux dernières. Plus d'informations sur Muriel et son évasion des sbires de Strahd peuvent être trouvées dans [[#C3. Le Strix]] ci-dessous.
+
+> [!profile]+ **Comment apprécier l'interprétation de Strahd** 
+> Strahd peut être un méchant difficile et anxiogène à interpréter. Pour apprécier l'expérience, plutôt que de la redouter, considérez les conseils suivants :
+> 
+> - **Profitez de l'invincibilité.** Strahd est le seul PNJ de toute la campagne que vos joueurs ne peuvent pas blesser de manière significative (jusqu'à ce qu'ils obtiennent l'_Épée Solaire_). Leurs attaques les plus puissantes ne font guère que le chatouiller. Leurs insultes les plus cruelles ne font que l'amuser. Abordez les scènes liées à Strahd sans crainte de l'action des joueurs.
+> - **Embrassez l'imprévisibilité.** Dans chaque scène avant [[Arc R - Les Épreuves du Tyran]], Strahd n'a pas d'objectif particulier et ne sera pas déçu si les événements se déroulent différemment de ce qu'il attendait. Libérez-vous de toute obligation que vous pourriez ressentir de faire conclure la scène d'une manière particulière.
+> - **Explorez l'obscurité.** Strahd offre une opportunité sans risque d'explorer et de savourer des émotions plus sombres, telles que l'arrogance (justifiée), la cruauté (calme) et le mépris (subtil). Savourez ces émotions et l'impact qu'elles ont sur vos joueurs.
+
+> [!abstract]+ **Les Joueurs se Comportent Mal**
+> 
+> Si un joueur se comporte de manière impolie envers Strahd, il soupire et répond : "Le manque de respect est malvenu, surtout face au Seigneur de la terre dont vous n'êtes qu'un invité. Mais vous êtes étranger, ignorant et confus. Je vous accorde un avertissement, cette fois. Mais je crains que ma clémence ne dure pas éternellement."
+> 
+> La première fois qu'un joueur manque de respect à Strahd après avoir reçu son avertissement, il sourit, lève un doigt et dit : "Un." Les loups sinistres de Strahd, s'ils ne sont pas déjà apparus, sortent des ombres et fixent leur regard sur le joueur impoli.
+> 
+> La deuxième fois qu'un joueur manque de respect à Strahd, il secoue la tête, lève deux doigts et dit : "Deux." Les loups sinistres de Strahd s'approchent du joueur impoli et commencent à saliver.
+> 
+> La troisième fois qu'un joueur manque de respect à Strahd, il fronce les sourcils. Lisez ce qui suit :
 > 
 > <hr>
 > 
-> If the player violates Strahd's ultimatum, pause the game and address the player out-of-character. Note that Strahd has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end. 
+> "Vous semblez croire à tort que vous êtes spécial," dit Strahd. "Vous ne l'êtes pas. Vous êtes un étranger dans mes terres, sans la moindre once de respect ou d'esprit commun. Il m'amuse, de temps en temps, de prendre la mesure de ceux qui entrent dans la vallée depuis l'au-delà des Brumes."
 > 
-> If the players confirms their decision, resume the game. Strahd's dire wolves then attack that player. If any or all of the other players do not interfere, Strahd continues his conversation with them, undisturbed.
-
-> [!abstract]+ **Running Away**
-> If, at any point during the encounter, the players move to flee, read:
+> Ses yeux se plissent. "Mais vous avez pris votre propre mesure, et je l'ai trouvée insuffisante. Vous n'êtes pas brave. Vous n'êtes pas rusé. Vous invitez la mort, et je n'ai jamais été du genre à refuser à mes sujets un tel souhait, aussi insensé soit-il. Je vous accorde cette dernière chance de sauver votre propre vie - car je ne lui vois pas plus de valeur que celle de la plus misérable créature qui rampe dans la boue."
 > 
-> <hr>
-> 
-> From behind Strahd, you hear a chorus of low, feral growls. Multiple pairs of eyes glint from the underbrush—each one the height of a man's shoulder.
-> 
-> Slowly, from the shadows, slinks a pack of massive wolves, each one as tall as a horse and twice as muscled, measuring nine feet in length from head to haunches. Their fur is a thick, mottled grey, and saliva drips from their yellowed, sharpened teeth.
-> 
-> They take up positions behind and around Strahd, flanking him like a noble's honor guard.
-> 
-> "You must forgive my pets," Strahd says. "They can be . . . **overenthusiastic** at the sight of new friends."
+> Il lève un troisième doigt. "La prochaine fois que vous parlerez, mes animaux vous tueront. Quiconque vous défendra partagera le même sort."
 > 
 > <hr>
 > 
-> The wolves are **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party.)
+> Si le joueur viole l'ultimatum de Strahd, mettez le jeu en pause et adressez-vous au joueur hors-personnage. Notez que Strahd a promis des conséquences claires, et que les actions du joueur invoqueront ces conséquences. Précisez que le personnage du joueur mourra ; que le joueur n'aura pas la possibilité de l'empêcher ; que tous les personnages qui tenteront de protéger ce joueur mourront également ; que les personnages qui meurent ne seront pas ressuscités ; et que si tout le groupe meurt, la campagne se terminera immédiatement.
 > 
-> If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
+> Si le joueur confirme sa décision, reprenez le jeu. Les loups sinistres de Strahd attaquent alors ce joueur. Si certains ou tous les autres joueurs n'interfèrent pas, Strahd poursuit sa conversation avec eux, imperturbable.
 
-> [!abstract]+ **Challenging Strahd**
-> If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
+> [!abstract]+ **Fuite** 
+> Si, à tout moment pendant la rencontre, les joueurs cherchent à s'enfuir, lisez :
 > 
-> If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for five full rounds. During this time, each attack the player makes against Strahd automatically hits, and Strahd automatically fails all Strength and Dexterity saving throws.
+> <hr>
 > 
-> When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins." 
+> Derrière Strahd, vous entendez un chœur de grognements bas et féroces. Plusieurs paires d'yeux brillent dans les sous-bois - chacune à hauteur d'épaule d'homme.
 > 
-> Assuming his [[Strahd von Zarovich#The Mage|Mage]] form, Strahd casts ***telekinetic grasp*** each round to suspend the player in the air above him, and casts ***blindness/deafness*** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against ***telekinetic grasp***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
+> Lentement, depuis les ombres, surgit une meute de loups massifs, chacun aussi grand qu'un cheval et deux fois plus musclé, mesurant trois mètres de long de la tête à la croupe. Leur fourrure est épaisse et grise tachetée, et la salive coule de leurs crocs jaunis et acérés.
 > 
-> The first time the player succeeds their saving throw against ***telekinetic grasp***, Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
+> Ils prennent position derrière et autour de Strahd, le flanquant comme une garde d'honneur de noble.
 > 
-> If the player asks to be freed from Strahd's ***telekinetic grasp***, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
+> "Vous devez pardonner mes animaux de compagnie," dit Strahd. "Ils peuvent être... **trop enthousiastes** à la vue de nouveaux amis."
 > 
-> If the player is knocked unconscious by Strahd's ***telekinetic grasp***, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
+> <hr>
+> 
+> Les loups sont des **loups sinistres**, tels que décrits dans <span class="citation">Loups Sinistres (p. 30)</span>. (Le nombre de loups sinistres dans la meute est égal au nombre de joueurs dans le groupe.)
+> 
+> Si les joueurs semblent avoir besoin d'être davantage persuadés, les loups sinistres s'avancent, grondant avec les poils hérissés. Si les joueurs continuent à fuir, les loups attaquent.
+
+> [!abstract]+ **Défier Strahd** 
+> Si, à tout moment pendant la rencontre, un joueur défie Strahd ou insiste sur le fait qu'il doit être vaincu, Strahd sourit, admet qu'il n'a "jamais été du genre à refuser un défi", et invite le joueur à le vaincre - ici et maintenant - s'il le peut. Il promet de ne faire aucun effort pour les arrêter pendant les trente premières secondes de leur assaut.
+> 
+> Si le joueur refuse, Strahd le rejette comme un lâche, notant avec déception : "Quel dommage. J'espérais mieux." Si le joueur accepte, Strahd leur permet de l'attaquer pendant cinq tours complets. Pendant ce temps, chaque attaque que le joueur fait contre Strahd touche automatiquement, et Strahd échoue automatiquement tous les jets de sauvegarde de Force et de Dextérité.
+> 
+> Lorsque les cinq tours se sont écoulés, Strahd dit : "Une détermination impressionnante - bien qu'en fin de compte futile." Il ajoute : "Maintenant, voyons comment vous vous en sortez lorsque le vrai jeu commence."
+> 
+> Prenant sa forme de [[Strahd von Zarovich#Le Mage|Mage]], Strahd lance _**emprise télékinétique**_ à chaque tour pour suspendre le joueur dans les airs au-dessus de lui, et lance _**cécité/surdité**_ en réaction chaque fois que le joueur fait une attaque de mêlée contre lui. La première fois que le joueur échoue à son jet de sauvegarde contre _**emprise télékinétique**_, il dit : "Échappez-vous si vous le pouvez." Il ajoute ensuite, d'un ton plus bas : "Mais si vous vous trouvez en difficulté, une simple supplication de miséricorde vous libérera de votre situation."
+> 
+> La première fois que le joueur réussit son jet de sauvegarde contre _**emprise télékinétique**_, Strahd applaudit leur ténacité, puis demande s'ils choisiront de continuer à se battre. (S'ils le font, il continue à se battre en utilisant son bloc de statistiques complet de Mage.)
+> 
+> Si le joueur demande à être libéré de l'_**emprise télékinétique**_ de Strahd, il le fait sans délai. "La sagesse réside dans la reconnaissance de ses limites," note-t-il. "Souvenez-vous de ce moment - car la prochaine fois, je ne serai peut-être pas aussi généreux."
+> 
+> Si le joueur est mis inconscient par l'_**emprise télékinétique**_ de Strahd, il s'accroupit à côté de lui, murmurant : "Vous vous êtes battu bravement, mais même le plus grand guerrier ne peut pas survivre à l'inévitable. Reposez-vous maintenant, réconforté par la connaissance que vous m'avez diverti." Il se tourne ensuite vers le reste du groupe et les invite à prendre soin de leur compagnon blessé.
+> 
+
 ## C2b. The Conversation Begins
 If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
+If [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
 
 (He does not, however, deny his attack on the village of Barovia, noting only that the people of the village defied him in an act of utmost treason. "I am sure that you can agree that my response was a measured one," he says. "After all, no lord could tolerate a settlement that fostered such sedition. The good people of Barovia needed to be taught a lesson. Their discipline was a kindness that few others would entertain.")
 
@@ -342,7 +342,7 @@ However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he
 
 If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
 ## C4b. Madam Eva's Tent
-This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
+This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. After greeting the players, [[Personnages Non-Joueurs#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
 
 > [!profile]+ **Profile: Madam Eva**
 >
@@ -433,7 +433,7 @@ If he hasn’t already, Arturi asks the players for news from Barovia, inquiring
 
 After dinner, Stanimir cheerfully informs the players that, as guests at a Vistani fire, they are now expected to play the Game of Stories, and asks whether the players will accept. To play, each participant must put up a wager, which can be an object of small monetary, intellectual, or sentimental value. Each participant must then share a story to make a man “laugh or weep.” Each time a story is told, the other participants in the game must guess whether the story is truth, falsehood, or both. At the end of the game, the participant with the most correct guesses wins the pot.
 
-If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#Ireena Kolyana|Ireena]] also offer to join the game. The participants’ wagers are as follows:
+If the players accept the challenge, Eliza, Arturi, and [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] also offer to join the game. The participants’ wagers are as follows:
 
 * **Stanimir** wagers a worn deck of Tarokka cards that once belonged to his late wife. (“They’ve sat unused and dusty in my wagon for long enough,” he says with a sad smile. “I think she’d like it if they were out in the world again.”)
 * **Eliza** wagers a collapsible brass spyglass with a small, maneuverable mirror, allowing the user to peer around corners.
@@ -496,7 +496,7 @@ After three of the players have gone, Arturi then shares the following tale:
 
 When his tale has ended and all participants have made their guesses—Stanimir and Eliza going last, with Stanimir voting “True” and Eliza voting “False”—Arturi reveals that his story was true. He politely declines, however, to reveal anything further, noting only with a sad smile that "A story cannot truly be told until it has ended."
 ### Ireena’s Tale
-After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireena]] (if present) then shares the following tale:
+After all of the players have gone, [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] (if present) then shares the following tale:
 
 <div class="description"><p>"When I was a child, my father took me and my brother to a vast, tranquil lake. I remember the sand beneath my bare feet, and the lapping of the waves against the shore. </p>
 <p>"But then, something broke the silence—a low growl that echoed through the wind. As I turned, I saw a beast emerge from the fog: a wolf, far larger than any I'd ever seen. I still remember its eyes—yellow, cold, and hungry.</p>
@@ -818,7 +818,7 @@ As the players proceed down the road, read:
 
 <div class="description"><p>Ahead, the trees to the north break, revealing a grassy field. The tall grasses sway in the chill air, the field stretching until it reaches the shores of a dark, distant lake. Fog clings to the shoreline. Even from a distance, you can hear the faint sound of water lapping against the rocks.</p></div>
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
+If [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
 
 Lake Zarovich is as described in <span class="citation">L. Lake Zarovich (p. 38)</span>, but without the beached rowboats or Bluto's boat visible. 
 
@@ -950,13 +950,13 @@ The road continues forward to the **Town of Vallaki**, largely as described in <
 
 If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
+If [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
 
 <div class="description"><p>Some of them regard Ireena with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
 
 This area, the Morning Gate, is largely as described in <span class="citation">Town Gates (p. 95)</span>. The tents are a camp of Barovian refugees, housing those who survived the trek from the village of Barovia in the wake of Strahd's siege.
 ### The Refugee Camp
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+If she is with the party, [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
 
 The members of the refugee camp, which include Emeric, a melancholy older man, and Magda, a grief-stricken young woman, can share the following information:
 
@@ -1056,9 +1056,9 @@ The man is the ringmaster Rictavio, who is largely as described in <span class="
 ![[Rictavio.png]]
 <span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
+When the players first enter the inn, [[Personnages Non-Joueurs#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+If the characters approach the bar, [[Personnages Non-Joueurs#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
 
 Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
 
@@ -1077,7 +1077,7 @@ Both Urwin and Danika can provide directions to any major landmark inside of Val
 
 The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
+If the players order food or wine in the taproom, [[Personnages Non-Joueurs#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
 ### The Ringmaster's Tale
 If any of the players approach Rictavio's table, Nikolai and Karl Wachter urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. (Szoldar Szoldarovich, the wolf hunter, has turned his chair away from the bar to listen in.)
 
@@ -1153,14 +1153,14 @@ Through conversation, it becomes evident that the brothers have a deep, personal
 
 At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
 
-- [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
+- [[Personnages Non-Joueurs#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
 - Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
 - Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
 - As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
 
 If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
 ### Eating Dinner
-Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
+Shortly after Rictavio's story concludes, if the players ordered dinner, [[Personnages Non-Joueurs#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
 
 Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
 
@@ -1178,12 +1178,12 @@ If the players ask about the children's masks, Danika tells them that Urwin boug
 
 The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
 
-If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+If the players rented rooms for the night, [[Personnages Non-Joueurs#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 
 ***Milestone.*** Arriving in Vallaki completes a story milestone. When the party takes its first long rest in Vallaki, award each player 1,000 XP, plus an additional 250 XP if they successfully escorted Ireena to Vallaki. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
 ## C12c. Morning in Vallaki
 ### Urwin's Advice
-When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Personnages Non-Joueurs#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
 
 Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in <span class="citation">Vallaki Lore (p. 96)</span>:
 
@@ -1288,12 +1288,12 @@ If the players interrupt Willemina’s arrest, the Baron greets them as outsider
 
 The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+If it appears that combat is imminent, [[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
 
 > [!lore]+ **What's Lucian Doing Here?**
 > After discovering [[Act I - Into the Mists/Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
 
-The Baron also wo[](Arc%20C%20-%20Into%20the%20Valley.md)heir insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
+The Baron also wo[](Arc%20C%20-%20A%20travers%20la%20vallée.md)heir insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
 
 The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
 

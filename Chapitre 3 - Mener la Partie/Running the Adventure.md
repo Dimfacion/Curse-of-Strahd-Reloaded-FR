@@ -107,7 +107,7 @@ Due to its power in combat against Strahd, the *Sunsword* has been intentionally
 
 ***Strahd's Enemy.*** All possible allies other than the Vistana monster hunter Ezmerelda d'Avenir have intentionally been removed from the Tarokka reading. 
 
-Several of these allies, such as Sir Godfrey Gwilym or the (now nonexistent) archmage Mordenkainen are too powerful and unbalance the scales in favor of the party. Others, such as Nikolai Wachter or Clovin Belview, are far too weak to provide meaningful aid. Others still, such as Vasilka, Pidlwick II, Sir Klutz, or Parriwimple, lack sufficient character depth to serve a meaningful narrative role.
+Several of these allies, such as Sir Godfrey Gwilym or the (now nonexistent) archmage Mordenkainen are too powerful and unbalance the scales in favor of the party. Others, such as Nikolai Wachter or Clovin Belview, are far too weak to provide meaningful aid. Others still, such as Vasilka, Pidlwick II, Sir Klutz, or Parricornette, lack sufficient character depth to serve a meaningful narrative role.
 
 Many of the remaining possible allies—including Davian Martikov, Victor Vallakovich, or Ismark Kolyanovich—have been removed as possibilities because their revised character arcs tie them more strongly to their families, friends, or homes. The final alternative ally, Kasimir Velikov, has been removed to ensure that the players do not seek him out—and receive the deadly Amber Temple questline—until they are strong enough to do so.
 

@@ -12,13 +12,13 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 > [!abstract]+ **An Early Start**
 > If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Wilemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Wilemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
 > 
-> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites he[](Arc%20C%20-%20Into%20the%20Valley.md#Exiting%20the%20Inn)er stay—a request which Ireena graciously accepts.
+> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites he[](Arc%20C%20-%20A%20travers%20la%20vallée.md#Exiting%20the%20Inn)er stay—a request which Ireena graciously accepts.
 > 
 > The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
-The church is largely as described in <span class="citation">N1. St. Andra[](Arc%20C%20-%20Into%20the%20Valley.md#Urwin's%20Advice)owing schedule unless interrupted:
+The church is largely as described in <span class="citation">N1. St. Andra[](Arc%20C%20-%20A%20travers%20la%20vallée.md#Urwin's%20Advice)owing schedule unless interrupted:
 
 * At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
 * In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
@@ -98,7 +98,7 @@ When the players first enter this area, read:
 
 The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
 
-When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
+When the players first meet [[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
 
 After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Lucian. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
 
@@ -133,7 +133,7 @@ While accompanying the party, Father Lucian fights alongside them, but allows th
 > [!warning]+ **Father Lucian's Aid**
 > Without Father Lucian's assistance—and, specifically, the damage output and radiant damage provided by his *spirit guardians* spell and ***divine eminence*** feature—the battle at the coffin-maker's shop in [[#D4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
 ## D1c. The Scene of the Crime
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] is glad to lead the players to the location of the crypt if prompted. Read:
+[[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian]] is glad to lead the players to the location of the crypt if prompted. Read:
 
 <div class="description">
 <p>A small pile of fresh wooden boards rests against the altar, a small pouch of nails sitting atop their surface. Not far away, the old wooden floorboards behind the crypt have been pried up and broken, with splintered edges jutting out at odd angles. Between them, a small, dark opening descends into a dark, dusty space.</p>
@@ -162,7 +162,7 @@ The clumps of earth were left when Milivoj's boots hit the floor of the crypt. F
 
 The hair is Milivoj's.
 ## D1d. Interviewing Yeska
-If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Lucian has been careful to keep him away from the hole behind the altar.)
+If the players choose to interview Yeska, [[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Lucian has been careful to keep him away from the hole behind the altar.)
 
 If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Lucian, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Lucian about the church's protection in the first place.)
 # D2. Milivoj’s House
@@ -188,7 +188,7 @@ Jarzinka is a woman of few words, and is annoyed because she has just finished t
 * Bogan cheerfully informs the players that Milivoj is sick and doesn’t want to talk to anyone today.
 * If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
 
-A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
+A few moments later, the nineteen-year-old [[Personnages Non-Joueurs#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
 
 > [!profile]+ **Profile: Milivoj**
 >
@@ -224,9 +224,9 @@ If informed that the bones may have been stolen to allow an attack upon the chur
 
 > [!abstract]+ **Milivoj’s Revelation**
 >
-> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Lucian and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Lucian, of course, declines, tearfully embracing and forgiving Milivoj instead.)
+> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[Personnages Non-Joueurs#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Lucian and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Lucian, of course, declines, tearfully embracing and forgiving Milivoj instead.)
 ## D2b. Departing the House
-Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
+Once Milivoj has admitted to the bones' theft, [[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
 
 If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
@@ -241,7 +241,7 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 
 Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
-If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
+If one of the players expresses an interest in breaking into the wagon, [[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
 If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
 
@@ -296,7 +296,7 @@ Opening the compartment without disabling the wire or unsuccessfully attempting 
 > [!abstract]+ **Disabling the Noisemaker**
 > If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
 ## D4c. Volenta's Trap
-If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
+If the players allow the noisemaker to activate, [[Personnages Non-Joueurs#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
 ![[Volenta Popofsky.png]]
 <span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -454,7 +454,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 </div>
 
 ### 1. Volenta
-[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
+[[Personnages Non-Joueurs#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
 
 When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
 
@@ -462,7 +462,7 @@ Volenta flees from combat if her first form is reduced to 0 hit points, using he
 
 When Volenta flees, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
 ### 2. Father Lucian
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
+[[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
 
 * ***Divine Eminence.*** As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Lucian can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Lucian expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 

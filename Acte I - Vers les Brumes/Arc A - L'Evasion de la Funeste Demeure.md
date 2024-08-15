@@ -265,7 +265,7 @@ Cette pièce est largement comme décrite dans <span class="citation">Hall Supé
 <div class="description">
 <p>Des lampes à huile éteintes sont montées sur les murs de ce hall élégant. Au-dessus de la cheminée pend une épée longue avec une gravure de moulin à vent travaillée dans la garde.</p>
 <p>Des armures en pied se dressent de part et d'autre des portes en bois situées sur les murs est et ouest. Chaque armure tient une lance et porte un casque à visière en forme de tête de loup. Les portes entre les armures sont sculptées avec des images de jeunes en train de danser.</p>
-<p>L'escalier en marbre rouge continue de spiraler vers le troisième étage, un courant d'air froid soufflant depuis le haut.</p>
+<p>L'escalier en marbre rouge continue de monter en spirale vers le troisième étage, un courant d'air froid soufflant depuis le haut.</p>
 </div>
 
 ### Salle des Serviteurs
@@ -335,7 +335,7 @@ La caisse ne contient plus l'acte de propriété d'Old Bonegrinder. De plus, mod
 Les joueurs ne reconnaissent pas le nom "Strahd von Zarovich."
 
 > [!design]- **Note de conception : Retrait de l'acte de propriété**
-> Les joueurs qui trouvent l'acte de propriété d'Old Bonegrinder dans le coffre secret concluent souvent à tort que le pillage de l'acte fait d'eux les nouveaux propriétaires du moulin. De tels joueurs sont donc susceptibles de tenter d'explorer le moulin pendant [[Acte I - Vers les Brumes/Arc C - Into the Valley]], déclenchant un conflit avec le convent des sorcières de la nuit et—sans en être responsables—un TPK probable (Total Party Kill). En conséquence, l'acte a été retiré pour éviter ce résultat.
+> Les joueurs qui trouvent l'acte de propriété d'Old Bonegrinder dans le coffre secret concluent souvent à tort que le pillage de l'acte fait d'eux les nouveaux propriétaires du moulin. De tels joueurs sont donc susceptibles de tenter d'explorer le moulin pendant [[Arc C - A travers la vallée]], déclenchant un conflit avec le convent des sorcières de la nuit et—sans en être responsables—un TPK probable (Total Party Kill). En conséquence, l'acte a été retiré pour éviter ce résultat.
 
 ## A2d. Le Troisième Etage
 Alors que les joueurs montent les escaliers en spirale jusqu'au troisième étage, rappelez-leur qu'ils peuvent voir le centre de l'escalier jusqu'au rez-de-chaussée.
@@ -367,8 +367,8 @@ Lorsqu'un joueur s'approche de cette porte pour la première fois, lisez :
 
 <div class="description"> 
 <p>Ces portes majestueuses s'élèvent haut, leurs cadres en bois sombre enfermant une paire de vitraux poussiéreux. Chaque panneau est gravé de motifs complexes ressemblant à des moulins à vent, leurs teintes autrefois vibrantes maintenant fanées et obscurcies sous un épais voile de crasse.</p> 
-<p>À travers la brume poussiéreuse qui pique vos yeux, vous apercevez quelque chose à travers les vitraux : une silhouette, se tenant à quelques centimètres derrière le verre, éclairée par une lueur ambrée et tamisée. Elle est immobile, mais sa simple vue saisit vos muscles dans une prise de fer, vos membres refusant d'obéir à votre esprit conscient.</p> 
-<p>L'air autour de vous s'épaissit, sa température chutant jusqu'à un froid glacial. Votre souffle embue les vitraux, une fine couche de givre s'étendant sur eux tandis que les craquements lointains et les murmures de la maison sont avalés par un lourd silence.</p> 
+<p>À travers la brume poussiéreuse qui pique vos yeux, vous apercevez quelque chose à travers les vitraux : une silhouette, se tenant à quelques centimètres derrière le verre, éclairée par une lueur ambrée et tamisée. Elle est immobile, mais sa simple vue saisit vos muscles dans une prise de fer, vos membres refusant d'obéir à votre esprit.</p> 
+<p>L'air autour de vous s'épaissit, la température chutant jusqu'à un froid glacial. Votre souffle embue les vitraux, une fine couche de givre s'étendant sur eux tandis que les craquements lointains et les murmures de la maison sont avalés par un lourd silence.</p> 
 <p>L'ombre derrière la porte est presque informe — insubstantielle — mais sa présence invoque une terreur primordiale au plus profond de vos os. Votre cœur bat plus vite, la sueur perle sur votre front, votre pouls résonne dans vos veines. Lentement, la silhouette commence à tourner la tête vers vous.</p> 
 <p>Puis, aussi soudainement qu'elle est apparue, l'ombre s'évapore. Le froid mordant s'éloigne, et les sons calmes de la maison reviennent.</p> 
 </div>
@@ -377,8 +377,8 @@ Cette pièce est principalement décrite dans <span class="citation">Suite princ
 
 <div class="description"> 
 <p>Vous entrez dans une chambre principale poussiéreuse, remplie de toiles d'araignées, avec des rideaux bordeaux couvrant les fenêtres. Un lit à baldaquin avec des rideaux brodés et des voiles de gaze déchirés se dresse contre le mur central.</p> 
-<p>Une porte face au pied du lit a un miroir pleine longueur délavé monté dessus. Dans le coin droit de la pièce se trouve une petite porte en bois, sa surface à moitié pourrie par le temps. Un bouton métallique terni est encastré dans le mur à côté.</p> 
-<p>Un tapis en peau de tigre pourrissant se trouve sur le sol devant la cheminée, au-dessus de laquelle est accroché un portrait couvert de poussière de l'homme et de la femme du portrait du premier étage. Un petit salon rempli de toiles d'araignées dans le coin sud-ouest contient deux chaises et une table portant plusieurs objets, ainsi qu'une porte avec une fenêtre sombre et tachée de saleté.</p> 
+<p>Une porte face au pied du lit a un miroir plein pied délavé monté dessus. Dans le coin droit de la pièce se trouve une petite porte en bois, sa surface à moitié pourrie par le temps. Un bouton métallique terni est encastré dans le mur à côté.</p> 
+<p>Un tapis à peau de tigre pourrissant se trouve sur le sol devant la cheminée, au-dessus de laquelle est accroché un portrait couvert de poussière de l'homme et de la femme du portrait du premier étage. Un petit salon rempli de toiles d'araignées dans le coin sud-ouest contient deux chaises et une table portant plusieurs objets, ainsi qu'une porte avec une fenêtre sombre et tachée de saleté.</p> 
 <p>La pièce contient également une paire assortie de garde-robes, une chaise rembourrée et une coiffeuse avec un miroir encadré en bois et une boîte à bijoux en argent. Une douce lueur ambrée émane de dessous le couvercle de la boîte à bijoux.</p> 
 </div>
 
@@ -392,7 +392,7 @@ La boîte à bijoux ne contient pas d'objets de valeur. À la place, elle est re
 
 Un rouleau de parchemin est à moitié enterré dans les grains à côté de l'éclat. Si déplié, il se lit comme suit :
 
-<div class="description"> <p>Drasha,</p> <p>Je t'ai choisi comme gardien de la Bête en mon absence. Si la Bête devient indisciplinée ou montre des signes d'agitation pendant mon absence, j'ai laissé cet éclat d'ambre pour l'affaiblir et apaiser sa fureur.</p> <p>Si le besoin s'en fait sentir, présente l'éclat et prononce le nom de la Bête; si tu parles avec conviction, elle t'obéira en mon absence, mais seulement pour un temps. Mais assure-toi de quitter la maison avant qu'elle ne se réveille complètement à minuit.</p> <p>Tant que la Bête respire, c'est elle—et non toi—qui est le cœur de cette maison, et aucun repas ne satisfera jamais son appétit. Si tu restes dans son domaine, cela signifiera ta perte à tous.</p> <p>Elisabeth</p> </div>
+<div class="description"> <p>Drasha,</p> <p>Je t'ai choisi comme gardien de la Bête en mon absence. Si la Bête devient indisciplinée ou montre des signes d'agitation pendant mon absence, j'ai laissé cet éclat d'ambre pour l'affaiblir et apaiser sa fureur.</p> <p>Si le besoin s'en fait sentir, présente l'éclat et prononce le nom de la Bête; si tu parles avec conviction, elle t'obéira en mon absence, mais seulement pour un temps. Mais assure-toi de quitter la maison avant qu'elle ne se réveille complètement à minuit.</p> <p>Tant que la Bête respire, c'est elle—et non toi—qui est le cœur de cette maison, et aucun repas ne satisfera jamais son appétit. Si tu restes dans son domaine, cela signifiera votre perte à tous.</p> <p>Elisabeth</p> </div>
 
 Voir **L'Éclat d'Ambre d'Elisabeth** dans [[#Ritual Chamber]] ci-dessous pour plus d'informations sur l'éclat d'ambre.
 
@@ -990,7 +990,7 @@ Plus surprenant encore, les joueurs se trouvent maintenant dans une clairière d
 
 La maison s'effondre alors dans la terre, laissant derrière elle un puits sombre et sans fond. Si les joueurs l'ont encore, l'éclat d'ambre d'Elisabeth Durst se désagrège alors en poussière. Le puits disparaît la première fois que les joueurs quittent la clairière.
 
-S'ils possèdent encore les joueurs, les esprits de [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] et [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] mettent fin à leurs possessions. Les enfants remarquent que les bois ressemblent aux Bois de Svalich, qui entouraient autrefois leur maison - la Barovie. Cependant, les enfants ajoutent que ces bois particuliers leur sont inconnus, et qu'ils semblent être loin du village d'origine de leur famille.
+S'ils possèdent encore les joueurs, les esprits de [[Personnages Non-Joueurs#Rosavalda "Rose" Durst|Rose]] et [[Personnages Non-Joueurs#Thornboldt "Thorn" Durst|Thorn]] mettent fin à leurs possessions. Les enfants remarquent que les bois ressemblent aux Bois de Svalich, qui entouraient autrefois leur maison - la Barovie. Cependant, les enfants ajoutent que ces bois particuliers leur sont inconnus, et qu'ils semblent être loin du village d'origine de leur famille.
 
 Alors que les joueurs explorent leurs environs, ils peuvent rapidement voir le sommet d'une vieille tour de pierre en ruine dépassant de la cime des arbres. L'architecture de la tour est telle que décrite dans <span class="citation">Feu Follet (p. 33)</span>, mais l'intérieur n'est pas un sol désacralisé, il n'y a pas de coffre en bois au sol, et il n'y a pas de **zombies** ou de **feux follets** à l'intérieur ou autour de la tour.
 
@@ -998,6 +998,6 @@ Les joueurs peuvent facilement en déduire que cette ruine semble être un endro
 
 La nuit se passe sans problème. Lorsque les joueurs se réveillent le lendemain matin, Rose et Thorn leur demandent s'ils peuvent enterrer leurs restes avant d'aller plus loin, afin qu'ils puissent enfin se reposer. (Les esprits des enfants n'iront pas plus loin en Barovie, suppliant plutôt les joueurs de leur permettre de se reposer.) Si les joueurs enterrent leurs restes ici, les esprits des enfants les remercient avant de disparaître.
 
-Les joueurs peuvent trouver le début de la Vieille Route de Svalich à une courte distance à travers les bois, loin de la tour. [[Arc B - Bienvenue en Barovie]] commence alors.
+Les joueurs peuvent trouver le début de la Vieille Route de Svalich à une courte distance à travers les bois, loin de la tour. [[Arc B - Bienvenue à Barovie]] commence alors.
 
 **_Étape_**. S'échapper de la Funeste Demeure complète une étape de l'histoire. Lorsque le groupe commence son premier repos long après s'être échappé de la maison, accordez à chaque joueur 400 XP. (Cela devrait permettre aux joueurs d'atteindre le niveau 3.)

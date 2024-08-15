@@ -22,8 +22,8 @@ Les joueurs commencent cet acte au niveau 2 et devraient le terminer au niveau 4
 # Chronologie
 
 - [[Arc A - L'Evasion de la Funeste Demeure]] : Les joueurs entrent dans la Funeste Demeure, vainquent l'Amas de Chair, et émergent dans les Bois de Svalich le 27 Octyavr 735 A.B. (Calendrier Barovien).
-- [[Arc B - Bienvenue en Barovie]] : Les joueurs arrivent au village de Barovie et rencontrent Ismark et Ireena le 28 Octyavr.
-- [[Arc C - Into the Valley]] : Les joueurs reçoivent la lecture de Tarokka le 1er Neyavr, arrivent à Vallaki le 2 Neyavr, et rencontrent le Baron Vallakovich le matin du 3 Neyavr.
+- [[Arc B - Bienvenue à Barovie]] : Les joueurs arrivent au village de Barovie et rencontrent Ismark et Ireena le 28 Octyavr.
+- [[Arc C - A travers la vallée]] : Les joueurs reçoivent la lecture de Tarokka le 1er Neyavr, arrivent à Vallaki le 2 Neyavr, et rencontrent le Baron Vallakovich le matin du 3 Neyavr.
 
 > [!info]+ **Le calendrier Barovien** 
 > L'année actuelle du calendrier Barovien est 735 B.C. (Barovian Calendar). Le calendrier Barovien est composé de douze mois de 28 jours, nommés comme suit : [^1] 

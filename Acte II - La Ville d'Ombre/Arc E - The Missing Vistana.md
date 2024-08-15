@@ -18,7 +18,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > When Strahd received Madam Eva’s [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|most recent fortelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
-> Strahd knows that a descendant[](Arc%20C%20-%20Into%20the%20Valley.md#C8.%20Black%20Carriage)signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
+> Strahd knows that a descendant[](Arc%20C%20-%20A%20travers%20la%20vallée.md#C8.%20Black%20Carriage)signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
 > ***Escher & Yan's Deal.*** Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and Volenta, succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. Yan agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
 > 
@@ -237,13 +237,13 @@ The burgomaster's mansion is largely as described in <span class="citation">N3. 
 
 If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## E3a. Entering the Mansion
-If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
+If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Personnages Non-Joueurs#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
 
 If the players visit the library, proceed to [[#E3b. Searching the Library]] below.
 ### 1. Persuading the Baron
 Upon first greeting the players, the Baron inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 
-If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
+If the players then ask [[Personnages Non-Joueurs#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
 
 While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, Vargas is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
 
@@ -274,7 +274,7 @@ The players may choose to infiltrate the mansion rather than obtain Baron Vallak
 
 The NPCs in the mansion behave as follows:
 
-* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
+* [[Personnages Non-Joueurs#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
 * Baroness Lydia Petrovna can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
 * Victor Vallakovich can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
 * Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
@@ -366,7 +366,7 @@ Additionally, Victor has only one skeleton **cat**, which is the animated remain
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
 
 > [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+> If the players have not already met [[Personnages Non-Joueurs#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
 >
 > Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
 
@@ -749,17 +749,17 @@ The players experience no other encounters on their journey to Vallaki.
 > [!info]+ **The Curse of Lycanthropy**
 > If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolf's Hunt|Arc C - Into the Valley]] for more information about the curse.
 # E8. Return to Vallaki
-The players' return to Vallaki from Lake Baratok is three and on[](Arc%20C%20-%20Into%20the%20Valley.md#C11.%20The%20Werewolf's%20Hunt)urn to Vallaki, they can pursue their leads either by seeking out Rictavio at the Blue Water Inn, or by directly investigating Rictavio’s wagon in Arasek Stockyard.
+The players' return to Vallaki from Lake Baratok is three and on[](Arc%20C%20-%20A%20travers%20la%20vallée.md#C11.%20The%20Werewolf's%20Hunt)urn to Vallaki, they can pursue their leads either by seeking out Rictavio at the Blue Water Inn, or by directly investigating Rictavio’s wagon in Arasek Stockyard.
 
 As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
 ## E8a. Confronting Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
-If the players visit the Blue Water Inn first, they can learn from [[Non-Player Characters#Danika Dorakova|Danika]] that Rictavio recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where Rictavio has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
+If the players visit the Blue Water Inn first, they can learn from [[Personnages Non-Joueurs#Danika Dorakova|Danika]] that Rictavio recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where Rictavio has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
 
 If the players indicate an interest in following Rictavio to the stockyard, Danika jokingly warns them to be on the lookout for dangerous beasts—local rumors suggest that the ringmaster is keeping something big and deadly in his wagon.
 
-If the players wait for Rictavio to return before confronting him, [[Non-Player Characters#Rictavio|Rictavio]] greets them warmly and feigns ignorance of their allegations and claims. However, he invites them to his guest suite to discuss the matter in private if the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover.
+If the players wait for Rictavio to return before confronting him, [[Personnages Non-Joueurs#Rictavio|Rictavio]] greets them warmly and feigns ignorance of their allegations and claims. However, he invites them to his guest suite to discuss the matter in private if the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover.
 
 Once he and the players are alone in his guest suite, Rictavio draws his sword-cane and demands proof that the players are not servants of Strahd von Zarovich. If the players muster sufficient evidence or succeed on a DC 15 Charisma (Persuasion) check, Rictavio reluctantly stows his blade, checks the window and corridor for Strahd’s spies, and shuts the window shutters tight. He then removes his *hat of disguise*, and confesses his identity as Dr. Rudolph van Richten. 
 
@@ -785,7 +785,7 @@ If the players demand it, Van Richten agrees to bring them to his wagon at Arase
 ## E8b. Following Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-If the players follow [[Non-Player Characters#Rictavio|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
+If the players follow [[Personnages Non-Joueurs#Rictavio|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
 
 If the players confront him, Rictavio greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover, Rictavio’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
 
@@ -793,7 +793,7 @@ If the players muster sufficient evidence of their good faith or succeed on a DC
 ## E8c. Rictavio’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5</em></span>
 
-Once the players or Arabelle have convinced him to do so, [[Non-Player Characters#Rictavio|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
+Once the players or Arabelle have convinced him to do so, [[Personnages Non-Joueurs#Rictavio|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
 
 ![[Arabelle.png]]
 <span class="credit">"Arabelle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -815,7 +815,7 @@ During this conversation, Van Richten can also reveal the following information 
 * While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. 
 * As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
 ### Arrigal's Arrival
-As the conversation draws to a close, [[Non-Player Characters#Arrigal|Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the conversation, it proceeds as follows: 
+As the conversation draws to a close, [[Personnages Non-Joueurs#Arrigal|Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the conversation, it proceeds as follows: 
 
 * Arrigal thanks Van Richten for the “fascinating story,” thanks the players for their “aid and guidance,” and commands Arabelle to exit the wagon and return with him.
 * Van Richten immediately accuses Arrigal of being a spy for Strahd, noting that, while stealing the pots of paint, he saw Arrigal whispering to a bat in the woods nearby. He demands that Arabelle remain in the wagon, and asks the players to defend her from Arrigal. 

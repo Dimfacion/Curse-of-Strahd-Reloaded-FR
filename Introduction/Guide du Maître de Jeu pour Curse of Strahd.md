@@ -131,7 +131,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc V - The Curse of Strahd]]. Coming soon.
 [[Epilogue]]. Coming soon.
 ## Appendices
-[[Non-Player Characters]]. A compendium of every major NPC in the adventure.
+[[Personnages Non-Joueurs]]. A compendium of every major NPC in the adventure.
 [[Amber Shards]]. A compendium of every amber shard that appears in the adventure.
 [[Glossary]]. A glossary of all new rules or mechanics that are used in the adventure.
 

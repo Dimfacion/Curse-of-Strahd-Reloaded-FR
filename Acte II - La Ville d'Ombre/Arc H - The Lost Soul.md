@@ -65,7 +65,7 @@ If the players describe Erasmus's visitation to Victor, Victor glances at the *s
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
-If the players express an interest in assisting him, [[Non-Player Characters#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
+If the players express an interest in assisting him, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
 ![[Stella Wachter.png]]
 <span class="credit">"Stella Wachter's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -205,7 +205,7 @@ Before the players leave Franz’s tent, he grabs for the closest one and rasps,
 # H4. Victor’s Plan
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-As the players depart the refugee camp, one among them receives the following *sending* spell from [[Non-Player Characters#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
+As the players depart the refugee camp, one among them receives the following *sending* spell from [[Personnages Non-Joueurs#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
 
 When the players return to Victor’s workroom at the Burgomaster’s mansion, he provides them with the following information:
 
@@ -274,7 +274,7 @@ Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]] and [[Arc D - The
 
 Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
 
-Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, Lady Wachter’s valet, serves tea to her and the guests a few moments later. 
+Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, Lady Wachter’s valet, serves tea to her and the guests a few moments later. 
 
 Lady Wachter then asks the players what brings them to her manor. If Victor Vallakovich is accompanying the players, her eyes visibly narrow, and her voice is polite, but cold. If Victor is not with the players, her demeanor is far warmer and more comfortable.
 
@@ -316,7 +316,7 @@ If Lady Wachter is informed of the possible presence of children within the wind
 If the players and Lady Wachter come to an agreement, she promises to meet them—along with her associates—at Vallaki’s eastern Morning Gate at the allotted time, once she’s prepared herself for the journey.
 # H6. The Old Svalich Road
 ## H6a. The Morning Gate
-If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
+If the players recruit [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
 
 The fanatics are as described in <span class="citation">N4t. Cult Headquarters (p. 114)</span> and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
 ## H6b. The Druid
@@ -330,7 +330,7 @@ Midway through the trip, the players are disturbed by a rustling in the trees ab
 
 The figure is a **druid** of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, the conversation proceeds as follows unless the players intervene:
+If [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] is with the players, the conversation proceeds as follows unless the players intervene:
 
 * Lady Wachter steps forward and says, “I am no songbird, child of Yester Hill. You know me, and my sign. Do the Forest Folk demand tolls to travel the Svalich Wood?”
 * The druid’s eyes linger on Majesto, and they reply, “No tolls, dear ones. Mere . . . curiosity. You keep strange company, daughter of Mother Night.”
@@ -348,7 +348,7 @@ If the players ask about her conversation with the druid, Lady Wachter is willin
 
 Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
+If [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
 
 Lady Wachter then attempts to confirm the following details:
 
@@ -453,9 +453,9 @@ If the players are defeated, Morgantha also feeds the two strongest players the 
 The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See **Escape From Old Bonegrinder** below for more information regarding the players’ escape.
 ## H7b. Claiming the Heartstone
 ### The Binding Circle
-If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
+If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
 
 Lady Wachter then warns the players that, once raised, the binding circle will last for only ten minutes. She further informs them that, should she or any of the four **cult fanatics** be knocked unconscious, the ritual will immediately fail and the hags will be free to escape. (Due to the height of the hill, it is unlikely that the night hags will be able to attack the cultists during the battle.)
 
@@ -475,7 +475,7 @@ The circle, which extends five hundred feet vertically into the air, remains for
 
 As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
 
-Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
+Meanwhile, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
 
 Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
@@ -664,7 +664,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
-***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+***Victor Vallakovich.*** In battle, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
 
 Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
@@ -685,7 +685,7 @@ Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair act
 <p>"<em>Begone!</em>" screech the hags.</p>
 </div>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] immediately responds by casting *counterspell* at 5th level. Read:
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] immediately responds by casting *counterspell* at 5th level. Read:
 
 <div class="description">
 <p>With a flourish of his hand and a whispered incantation, Victor conjures a complex tapestry of sigils and runes in the air before him. The coven's blast, a swirling maelstrom of shadows and baleful light, meets the shimmering shield of Victor's counterspell—a radiant lattice that shimmers with power.</p>
@@ -770,7 +770,7 @@ If the players complete Morgantha's task within the allotted time, however, she 
 If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
 
 * The creatures guarding the players are **dretches**—dull-witted, repulsive demons with an ability to exude a fetid cloud of disgusting green gas when disturbed, which will surely alert the hags if triggered. However, the only language they speak is Abyssal, and their sense of hearing is quite poor, allowing the players and Majesto to scheme without the dretches noticing. (Majesto, a devil, finds the dretches disgusting and unpleasantly uncivilized.)
-* Lady Wachter, her cultists, and (if he wasn’t captured) [[Non-Player Characters#Victor Vallakovich|Victor]] are hidden in a grove a short ways away from the windmill. They’re glad to help the players escape if possible, though Lady Wachter isn’t confident in their ability to face the hags in open combat. 
+* Lady Wachter, her cultists, and (if he wasn’t captured) [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] are hidden in a grove a short ways away from the windmill. They’re glad to help the players escape if possible, though Lady Wachter isn’t confident in their ability to face the hags in open combat. 
 * While he’s here, Majesto is glad to serve as a distraction or helping hand, whichever the players require. (Majesto is quite selfish, however, and will refuse any course of action that might lead to his death—despite Lady Wachter’s ability to resummon him—unless the players remind him of their mission to save Stella Wachter and succeed on a DC 15 Charisma (Persuasion) check.)
 
 Every twenty minutes, two of the six **dretches** guarding the players return to the barrel of ichor and dissolve, whereupon Morgantha knocks on the barrel, summoning them anew, and sends them back to guard the players. (This “recycling” process takes approximately five minutes each time.)
@@ -796,7 +796,7 @@ As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease o
 
 The players can identify these remedies, as well as the symptoms of cackle fever, with a successful DC 15 Wisdom (Medicine) check or by asking Lady Wachter for a diagnosis.
 
-Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
+Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]], [[Personnages Non-Joueurs#Urwin Martikov|Urwin Martikov]], [[Personnages Non-Joueurs#Danika Dorakova|Danika Dorakova]], and [[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
 If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # H8. The Ritual
@@ -804,7 +804,7 @@ Once the players have obtained a *heartstone*, they will need a location at whic
 ![[Heartstone.png]]
 <span class="credit">"Heartstone" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
 
 If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual. (See [[Arc D - The Tome of Strahd#D2b. Infiltrating the Estate|Arc D - The Tome of Strahd]] for more information about sneaking into Wachterhaus.)
 
@@ -826,7 +826,7 @@ Lady Wachter has been unable to remove the scratches and carvings, despite her b
 ## H8a. The *Etherealness* Ritual
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4t.</em></span>
 
-If Lady Wachter is not with the players, [[Non-Player Characters#Victor Vallakovich|Victor]] expresses surprise at the presence of the pentagram, noting with some awe that he could easily repurpose it for the purposes of the *etherealness* ritual. If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, she offers the pentagram for use in the ritual, which Victor gladly accepts.
+If Lady Wachter is not with the players, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] expresses surprise at the presence of the pentagram, noting with some awe that he could easily repurpose it for the purposes of the *etherealness* ritual. If [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] is with the players, she offers the pentagram for use in the ritual, which Victor gladly accepts.
 
 Victor then places the *heartstone* at the center of the pentagram and directs the players to stand just inside the edge of the pentagram circle. If Lady Wachter is with the players, she rolls up her sleeves and enters the circle with them. If challenged, she gives the players a cool, steely look and says, “Of course I’m coming to get my little girl.”
 
@@ -884,11 +884,11 @@ The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who
 
 The following sequence then unfolds, unless the players intervene:
 
-* Stella attempts to throw her arms around [[Non-Player Characters#Victor Vallakovich|Victor]] for a hug—but fails, her arms passing through his body. “Oh,” Stella says, sadly. Victor’s eyes widen, and he begins rummaging through his cloak. “You're losing your tangibility faster than I thought,” he says. “We need to get you back to your body as quickly as possible.” He retrieves a piece of chalk and begins drawing a modified teleportation circle on the ground.
-* If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] approaches Stella as well. “Mother?” Stella says, uncertainly. “Is that really you?” Lady Wachter nods, her face pale, but as hard as stone. “We’re going to get you out of here, Stella. I promise it.”
+* Stella attempts to throw her arms around [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] for a hug—but fails, her arms passing through his body. “Oh,” Stella says, sadly. Victor’s eyes widen, and he begins rummaging through his cloak. “You're losing your tangibility faster than I thought,” he says. “We need to get you back to your body as quickly as possible.” He retrieves a piece of chalk and begins drawing a modified teleportation circle on the ground.
+* If she is present, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] approaches Stella as well. “Mother?” Stella says, uncertainly. “Is that really you?” Lady Wachter nods, her face pale, but as hard as stone. “We’re going to get you out of here, Stella. I promise it.”
 * While Victor continues his preparations, Stella’s spirit floats over to the players. She thanks them for all of their help, and for supporting Victor in a difficult time. “He gets so determined sometimes,” she says quietly, watching him work. “I was so scared that he would hurt himself in his efforts to help me. Thank you for being there for him.”
 ### The Ghost of Erasmus van Richten
-Just as [[Non-Player Characters#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
+Just as [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
 
 <div class="description">
 <p>A soft, boyish laugher echoes through the ethereal fog. A faint, spectral light flickers into being beyond the gray mists, coalescing into a slender, humanoid shadow.</p>
@@ -927,7 +927,7 @@ The specters drift through the air toward Stella, reaching out to seize her as t
 * “The veil flickers. It’s so close . . .”
 * “Please. Please. *Please* . . .”
 
-Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
+Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
 
 > [!combat]- **Balancing the Specters**
 > Due to the specters fleeing, this is a **mild** combat encounters against a party of five 5th-level players, a CR 1 ally (Majesto), and two CR 2 allies (Erasmus van Richten, Fiona Wachter), and will consume approximately 5% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
@@ -992,7 +992,7 @@ If the players refuse to allow the gallows speaker to kill the Wachters, it vows
 
 ***Erasmus van Richten.*** In battle, Erasmus fights by hurling furniture at the gallows speaker from range through the use of his ***telekinetic thrust*** feature.
 
-***Lady Fiona Wachter.*** [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] begins by casting *spirit guardians* (radiant damage), which takes the form of thirteen swirling fog-like entities that attack with misty tendrils. On subsequent turns, she casts *blindness/deafness* or uses her ***divine eminence*** feature as she pursues the gallows speaker with her mace.
+***Lady Fiona Wachter.*** [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] begins by casting *spirit guardians* (radiant damage), which takes the form of thirteen swirling fog-like entities that attack with misty tendrils. On subsequent turns, she casts *blindness/deafness* or uses her ***divine eminence*** feature as she pursues the gallows speaker with her mace.
 
 In battle, Lady Wachter also gains the following reaction:
 
@@ -1139,11 +1139,11 @@ As the teleportation ritual draws to a close, ethereal beads of light emerge aro
 * Erasmus smiles sadly. “Don’t be,” he says. “Victor and your friends will take good care of you. And even if you can’t see or hear me, I’ll never be far away.”
 * Stella hiccups, tears glittering at the corners of her eyes. “Thank you,” she says, reaching out a hand. “For everything.” Erasmus swallows, and reaches out toward her hand in turn. “Stella,” he says, beaming through tears. “It was my honor.” For a brief instant, their fingers touch—and then the beads of light around Stella burst into radiant brilliance. She vanishes, leaving Erasmus touching nothing more than empty air.
 
-After a moment, Erasmus wipes his eyes on his spectral sleeve and turns to bid the players farewell. If the players attempt to comfort him, he insists that he is fine. “I’m happy for her,” he says softly. “She’s getting a second chance. Not everyone gets that.” If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] affixes Erasmus with a long, unreadable look, before her gaze abruptly softens, a flicker of warmth in her eyes. 
+After a moment, Erasmus wipes his eyes on his spectral sleeve and turns to bid the players farewell. If the players attempt to comfort him, he insists that he is fine. “I’m happy for her,” he says softly. “She’s getting a second chance. Not everyone gets that.” If she is present, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] affixes Erasmus with a long, unreadable look, before her gaze abruptly softens, a flicker of warmth in her eyes. 
 
 Lady Wachter then hovers a hand over Erasmus’s shoulder and says, “Thank you for protecting my daughter. House Wachter owes you an unforgettable debt. Should you ever be in the presence of Wachterhaus, know that you will always be welcome there.” Erasmus smiles and thanks her.
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] then asks the players if they are ready to depart for the Material Plane. Before they leave, however, Erasmus offers them the following warnings:
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] then asks the players if they are ready to depart for the Material Plane. Before they leave, however, Erasmus offers them the following warnings:
 
 * Strange giant spiders pass in and out of the Ethereal Plane amidst the ruins of the town to the southwest of Vallaki. If the players ever travel there, they should be careful. (Victor recognizes these as **phase spiders**, described further in *Ethereal Entities.*)
 * Strahd von Zarovich occasionally visits the Ethereal Plane astride a demonic horse with a charcoal-black coat and a burning, fiery mane. (Victor recognizes this as a **nightmare**, described further in *Ethereal Entities.*)
