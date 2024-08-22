@@ -1,6 +1,6 @@
 _Une aventure pour cinq personnages de niveau 3._
 
-> [!warning]+ **Mise à jour récente** Cet arc a été substantiellement révisé le 19 juillet 2024. Pour accéder à la version obsolète de cet arc, consultez [[Matériel obsolète/Arc B - Bienvenue à Barovie|Arc B - Bienvenue à Barovie]] dans l'annexe du Matériel obsolète.
+> [!warning]+ **Mise à jour récente** Cet arc a été substantiellement révisé le 19 juillet 2024. Pour accéder à la version obsolète de cet arc, consultez [Arc B - Welcome to Barovia](https://www.strahdreloaded.com/Deprecated+Material/Arc+B+-+Welcome+to+Barovia) dans l'annexe du Matériel obsolète.
 
 Dans cet arc, les joueurs se rendent dans le sombre village de Barovie, ravagé par la mort et le désespoir suite au réveil de Strahd. Lorsqu'un corbeau-garou déguisé les guide vers la taverne du Sang des Vignes, ils rencontrent Ismark, l'aîné des enfants du bourgmestre récemment blessé.
 
@@ -98,7 +98,7 @@ Cette scène se déroule largement comme décrit dans <span class="citation">Les
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-L'homme est Ismark Kolyanovich, qui est largement comme décrit dans <span class="citation">E2. Taverne du Sang des Vignes (p. 43)</span>. Le corbeau est Muriel, un **lycan-corbeau** déguisé et membre des [[Lore of Barovia#Factions#Keepers of the Feather|Gardiens de la Plume]]. Deux **éclaireurs** portant des arbalètes légères (+4 pour toucher, portée 24/96 m, une cible, _Touché :_ 6 (1d8 + 2) dégâts perforants) et nommés Kereza et Korga montent la garde sur les toits à proximité, tandis que six **roturiers** baroviens réparent la barricade.
+L'homme est Ismark Kolyanovich, qui est largement comme décrit dans <span class="citation">E2. Taverne du Sang des Vignes (p. 43)</span>. Le corbeau est Muriel, un **lycan-corbeau** déguisé et membre des [[Folklore et Coutumes#Factions#Keepers of the Feather|Gardiens de la Plume]]. Deux **éclaireurs** portant des arbalètes légères (+4 pour toucher, portée 24/96 m, une cible, _Touché :_ 6 (1d8 + 2) dégâts perforants) et nommés Kereza et Korga montent la garde sur les toits à proximité, tandis que six **roturiers** baroviens réparent la barricade.
 
 > [!profile]+ **Profil : Ismark Kolyanovich**
 > 
@@ -134,7 +134,7 @@ Si les joueurs acceptent, Muriel les suit jusqu'à la place du village, restant 
 > [!design]+ **Note de conception : Entrer dans le Village** 
 > Cette scène a été écrite pour transmettre immédiatement la méfiance des villageois, établir Ismark comme un allié sympathique, et introduire le **lycan-corbeau** Muriel Vinshaw et les corbeaux de Barovie, annonçant ainsi les Gardiens de la Plume.
 > 
-> Muriel réapparaîtra plus tard dans [[Arc C - A travers la vallée#C3. The Strix|Arc C - Dans la Vallée]], fuyant un **grand strix** après avoir espionné la rencontre de Strahd avec Madame Eva, et accompagnera les joueurs jusqu'à la ville de Vallaki pendant le reste de l'Arc C. Muriel apparaîtra également sous sa forme humaine et sa personnalité dans [[Arc J - The Stolen Gem]] pour accompagner les joueurs dans leur voyage vers la cave du Magicien des Vins, et révélera sa véritable nature lycanthropique à [[Acte I - Vers les Brumes/Arc C - Dans la Vallée#Les Provocations de Ludmilla|la Colline de Yester]].
+> Muriel réapparaîtra plus tard dans [[Arc C - A travers la vallée#C3. The Strix|Arc C - Dans la Vallée]], fuyant un **grand strix** après avoir espionné la rencontre de Strahd avec Madame Eva, et accompagnera les joueurs jusqu'à la ville de Vallaki pendant le reste de l'Arc C. Muriel apparaîtra également sous sa forme humaine et sa personnalité dans [[Arc J - The Stolen Gem]] pour accompagner les joueurs dans leur voyage vers la cave du Magicien des Vins, et révélera sa véritable nature lycanthropique à [[Arc J - The Stolen Gem#Ludmilla's Provocations|la Colline de Yester]].
 
 ## B5b. La Place du Village
 

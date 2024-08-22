@@ -72,17 +72,17 @@
 * Added projected completion date and Google Forms feedback form to Under Construction box
 * Updated Acknowledgments
 
-[[Lore of Barovia]]
+[[Folklore et Coutumes]]
 * Removed reference to devil worship by Lady Wachter's cult
 
-[[History of Barovia]]
+[[Histoire de la Barovie]]
 * Added additional backstory to Khazan, the Radanavich family, and Rudolph van Ricten's revenge against the Radanaviches.
 
 [[Strahd von Zarovich]]
 * Gave Strahd Insight proficiency
 * Clarified ***fog bank*** does not block sunlight
 
-[[Running the Adventure]]
+[[Mener l'aventure]]
 * Removed the Wachter **cultist** from the list of Strahd's spies
 
 [[Acte I Résumé]], [[Act II Summary]], [[Act III Summary]]
@@ -218,8 +218,8 @@
 # Version 2.0.6 (Jan. 31, 2024)
 * Added [[Arc L - The Den of Wolves]] and [[Arc M - Argynvost's Beacon]]
 * Added Campaign Contract in [[Session Zero]]
-* Added information regarding the Devourer and Strahd's intentions for Ireena to [[History of Barovia]]
-* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[History of Barovia]]
+* Added information regarding the Devourer and Strahd's intentions for Ireena to [[Histoire de la Barovie]]
+* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[Histoire de la Barovie]]
 * Removed an excess skill proficiency from Ireena's sidekick statblock in [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
 * Added NPC profile for Morgantha in [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Act I - Into the Mists/Arc C - Into the Valley]]
@@ -240,7 +240,7 @@
 * Added [[Glossary
 # Hotfix 2.0.5.5 (Jan. 18, 2024)
 • Fixed assorted typos & inconsistencies  
-• Clarified the location of the Sunsword and Tome of Strahd in [[Running the Adventure]]  
+• Clarified the location of the Sunsword and Tome of Strahd in [[Mener l'aventure]]  
 • Removed language in [[Arc D - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
 • Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
 • Defined "bloodied" in [[Arc H - The Lost Soul]]  
@@ -281,7 +281,7 @@
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 
-**[[History of Barovia]]**
+**[[Histoire de la Barovie]]**
 * Added new lore regarding the Dreamer/Devourer  
 * Modified Van Richten's history to restore his curse and Arturi Radanavich's curse and remove his time spent traveling with Arturi  
 * Moved King Dostron's invasion to take place in Kavan's old age  
@@ -370,7 +370,7 @@
 **[[Arc I - The Walls of Krezk]]**
 * Added a scene in which the Abbot cures the players' lycanthropy by Krezk's blessed pool
 # Version 2.0.4 (Aug. 23, 2023)
-* Added [[Arc D - The Tome of Strahd]], [[Arc D - St. Andral's Feast]], [[Arc E - The Missing Vistana]], [[Arc F - Lady Wachter's Wish]], [[Arc G - The Strazni Siblings]], [[Arc H - The Lost Soul]], [[Arc I - The Walls of Krezk]], and the [[Amber Shards]] appendix
+* Added [[Arc D - The Tome of Strahd]], [[Arc D - St. Andral's Feast]], [[Arc E - The Missing Vistana]], [[Arc F - Lady Wachter's Wish]], [[Arc G - The Strazni Siblings]], [[Arc H - The Lost Soul]], [[Arc I - The Walls of Krezk]], and the [[Eclats d'Ambre]] appendix
 * added all-new splash art by artist Caleb Cleveland
 * changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword’s hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
 * changed Rahadin to be Kasimir’s cousin-in-law and the son of Prince Erevan Lowenhart

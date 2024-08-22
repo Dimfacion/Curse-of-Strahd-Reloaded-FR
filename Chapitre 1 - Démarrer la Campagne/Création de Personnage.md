@@ -209,7 +209,7 @@ Un joueur en quête de **connaissance** commence la campagne avec l'_éclat d'am
 
 Le joueur qui possède l'_éclat d'ambre_ doit avoir des raisons fortes et vives de vouloir en percer les secrets et la magie qu'il contient.
 
-_**Développements.**_ Dans **Acte I, Arc A : Évasion de la Maison de la Mort**, le joueur reconnaît l'_éclat d'ambre_ d'Elisabeth Durst comme similaire au sien. Dans [[Arc G - Les Frères et Sœurs Strazni]], le joueur reconnaît de la même manière l'_éclat d'ambre_ d'Izek Strazni. Dans _Acte V, Arc U_, Elder Burebis de Soldav peut reconnaître l'_éclat d'ambre_ comme un éclat du mal provenant du Temple de l'Ambre, et le joueur peut reconnaître les _éclats d'ambre_ détenus par les **shoosuva** et **bodaks** comme ressemblant au sien.
+_**Développements.**_ Dans **Acte I, Arc A : Évasion de la Maison de la Mort**, le joueur reconnaît l'_éclat d'ambre_ d'Elisabeth Durst comme similaire au sien. Dans [[Arc G - The Strazni Siblings]], le joueur reconnaît de la même manière l'_éclat d'ambre_ d'Izek Strazni. Dans _Acte V, Arc U_, Elder Burebis de Soldav peut reconnaître l'_éclat d'ambre_ comme un éclat du mal provenant du Temple de l'Ambre, et le joueur peut reconnaître les _éclats d'ambre_ détenus par les **shoosuva** et **bodaks** comme ressemblant au sien.
 
 Si le personnage joueur est réduit à 0 points de vie en Barovie tout en possédant son _éclat d'ambre_, il se comporte comme décrit dans **Annexe B : Les Éclats d'Ambre**, offrant au joueur l'opportunité de conclure un pacte avec un vestige du Temple de l'Ambre qui correspond à la personnalité, aux défauts et aux tentations du personnage joueur. En entrant dans le Temple de l'Ambre, l'_éclat d'ambre_ du joueur brille et tire de la même manière qu'il l'a fait en sentant la Maison de la Mort, guidant le joueur vers un sarcophage ambré approprié.
 ## Redemption—La Plume d'Ange
@@ -249,7 +249,7 @@ Un joueur en quête de **richesse** commence la campagne avec une vieille _pièc
 
 Le joueur qui possède la _pièce d'électrum_ doit avoir des raisons fortes et vives de croire que la pièce provient d'un coffre au trésor merveilleux — le butin d'un conquérant — et qu'un jour, elle le mènera à des richesses inimaginables.
 
-_**Développements.**_ Tout Barovien reconnaît immédiatement le visage estampillé sur la pièce comme étant celui de Strahd. Si le joueur partage l'histoire de la pièce avec l'un des Vistani du camp de Madame Eva dans [[Arc C - Dans la Vallée]], Sir Godfrey Gwilym dans **Acte IV, Arc O : Le Phare d'Argynvostholt**, ou Kasimir Velikov dans **Acte V, Arc U : Le Temple d'Ambre**, ils peuvent apprendre l'existence du vaste trésor de Strahd, collecté durant ses jours de conquérant et caché dans le Château Ravenloft.
+_**Développements.**_ Tout Barovien reconnaît immédiatement le visage estampillé sur la pièce comme étant celui de Strahd. Si le joueur partage l'histoire de la pièce avec l'un des Vistani du camp de Madame Eva dans [[Arc C - A travers la vallée]], Sir Godfrey Gwilym dans **Acte IV, Arc O : Le Phare d'Argynvostholt**, ou Kasimir Velikov dans **Acte V, Arc U : Le Temple d'Ambre**, ils peuvent apprendre l'existence du vaste trésor de Strahd, collecté durant ses jours de conquérant et caché dans le Château Ravenloft.
 
 Lorsque le joueur s'approche pour la première fois du trésor de Strahd, la pièce tombe sur sa tranche et roule aussi loin qu'elle le peut vers l'entrée du trésor, de la même manière qu'elle l'a fait en sentant la Maison de la Mort.
 ## Guérison—La Dent de Loup
@@ -269,7 +269,7 @@ Un joueur en quête de **devoir** commence la campagne avec une _plume de corbea
 
 Le joueur qui possède la _plume de corbeau_ doit avoir des raisons fortes et vives de croire que la plume le guidera toujours vers ceux qui ont besoin d'aide, de protection et de réconfort.
 
-_**Développements.**_ Si le joueur montre la _plume de corbeau_ à Madame Eva dans [[Arc C - Dans la Vallée]], elle l'examine avec révérence et la rend au joueur, affirmant mystérieusement qu'elle connaissait autrefois l'oiseau qui l'a perdue. Si le joueur montre la plume à Urwin Martikov, Danika Dorakova, Muriel Vinshaw ou tout autre membre des Gardiens de la Plume, ce membre devient plus chaleureux et amical envers ce joueur.
+_**Développements.**_ Si le joueur montre la _plume de corbeau_ à Madame Eva dans [[Arc C - A travers la vallée]], elle l'examine avec révérence et la rend au joueur, affirmant mystérieusement qu'elle connaissait autrefois l'oiseau qui l'a perdue. Si le joueur montre la plume à Urwin Martikov, Danika Dorakova, Muriel Vinshaw ou tout autre membre des Gardiens de la Plume, ce membre devient plus chaleureux et amical envers ce joueur.
 
 Lorsque le joueur entre pour la première fois dans le cercle de pierres dressées au Sanctuaire de la Montagne dans **Acte V, Arc W : Les Dames des Sanctuaires**, la plume tremble et l'air autour d'elle devient brièvement épais de l'odeur de la pluie et de l'ozone, comme elle l'avait fait en sentant la Maison de la Mort. Si le joueur montre la plume au Roc du Mont Ghakis après avoir consacré le Sanctuaire de la Montagne dans le même arc, le roc place le bout de son bec contre le front du joueur en signe de gratitude et d'approbation avant de partir.
 ## Pouvoir—La Page Froissée
@@ -291,7 +291,7 @@ Le joueur qui possède la _bannière en lambeaux_ doit avoir des raisons fortes 
 
 _**Développements.**_ Lorsque le joueur découvre pour la première fois le champ de bataille hanté au nord de Berez dans **Acte V, Arc T : La vengeance de Baba Lysaga** ou **Acte V, Arc W : Les Dames des Fanes**, la bannière flotte au vent, résonnant avec le son des tambours de guerre.
 
-Si le joueur montre la bannière au revenant aux chutes de Tser dans [[Arc C - Dans la vallée]], à Sir Godfrey Gwilym ou à Sir Vladimir Horngaard dans **Acte IV, Arc O : Le Phare d'Argynvostholt**, ou à Kasimir Velikov soit dans **Acte V, Arc U : Le Temple d'Ambre** ou **Acte IV, Arc M : L'Ennemi de Strahd**, son apparence suscite répulsion et dégoût amer.
+Si le joueur montre la bannière au revenant aux chutes de Tser dans [[Arc C - A travers la vallée]], à Sir Godfrey Gwilym ou à Sir Vladimir Horngaard dans **Acte IV, Arc O : Le Phare d'Argynvostholt**, ou à Kasimir Velikov soit dans **Acte V, Arc U : Le Temple d'Ambre** ou **Acte IV, Arc M : L'Ennemi de Strahd**, son apparence suscite répulsion et dégoût amer.
 
 Si le joueur montre la bannière à Strahd, il la regarde avec une réflexion affectueuse, mais refuse d'élaborer sur sa signification. Si le joueur montre la bannière au Dr Rudolph van Richten dans **Arc M : L'Ennemi de Strahd** ou à un Vistani, ils la reconnaissent immédiatement comme l'héraldique du Château Ravenloft.
 ## Foi—Le Médaillon de l'Aube
@@ -302,7 +302,7 @@ Un joueur en quête de **foi** commence la campagne avec le _médaillon de l'aub
 
 Le joueur qui possède le _médaillon de l'aube_ doit avoir des raisons fortes et vives de croire qu'il renforcera ou guidera sa foi, et que certains signes divins les mèneront vers ceux qui ont besoin de salut et de délivrance.
 
-_**Développements.**_ Lorsque le joueur s'approche pour la première fois de l'Église de Saint Andral dans [[Arc D - Le Festin de Saint Andral]], le _médaillon de l'aube_ brille et rayonne dans la direction des portes de l'église. Si le joueur montre le _médaillon de l'aube_ au Père Donavich ou à Lucian, ils le reconnaissent comme un symbole de l'Église du Seigneur du Matin et deviennent plus chaleureux et amicaux envers ce joueur.
+_**Développements.**_ Lorsque le joueur s'approche pour la première fois de l'Église de Saint Andral dans [[Arc D - St. Andral's Feast]], le _médaillon de l'aube_ brille et rayonne dans la direction des portes de l'église. Si le joueur montre le _médaillon de l'aube_ au Père Donavich ou à Lucian, ils le reconnaissent comme un symbole de l'Église du Seigneur du Matin et deviennent plus chaleureux et amicaux envers ce joueur.
 ## Harmonie—L'Ecusson de Pierre
 ![[Stone Crest.png]]
 Un joueur en quête de **harmonie** commence la campagne avec le _blason de pierre_, une pierre plate et ronde gravée de l'image d'une étoile à trois branches. Lors des nuits de nouvelle lune, l'étoile semble scintiller d'une lumière émeraude.

@@ -51,111 +51,127 @@ _Curse of Strahd: Reloaded_ est bien sûr l'un des plusieurs guides pour la camp
 - _**Empowerment.**_ Un design de jeu permettant à vos joueurs d'être les héros de Barovia, plutôt que des victimes d'une expérience de survie sombre et écrasante.
 - _**Accessibilité.**_ Des notes et une préparation détaillées, vous permettant de vous concentrer sur la conduite de sessions captivantes au lieu de vous noyer dans la planification et les préparatifs.
 
-> [!info]- **What kind of guide is Reloaded?**
+> [!info]- **Quel type de guide est Reloaded ?**
 > 
-> There are four questions that a DM might use when designing a guide or other supplement to a popular adventure like *Curse of Strahd:* 
+> Il y a quatre questions qu'un MJ pourrait utiliser lors de la conception d'un guide ou d'un autre supplément pour une aventure populaire comme _La Malédiction de Strahd_ :
 > 
-> * What cool, flavorful, or thematic content does the adventure need to really pop?
-> * What lore or information is missing from the adventure and needs to be fleshed out?
-> * What guidance or advice does the DM need to effectively execute what's in the adventure?
-> * What parts of the adventure need to be edited in order to make it functional and fundamentally enjoyable for the players?
+> - Quel contenu savoureux, singulier ou thématique l'aventure a-t-elle besoin pour vraiment ressortir ?
+> - Quelle lore ou quelle information manque dans l'aventure et doit être approfondie ?
+> - Quels conseils et directives le MJ a-t-il besoin pour exécuter efficacement ce qui se trouve dans l'aventure ?
+> - Quelles parties de l'aventure doivent être modifiées afin de la rendre fonctionnelle et fondamentalement agréable pour les joueurs ?
 > 
-> Reloaded does not focus on #1 (adding additional content). It focuses on #2 (filling in gaps) only as necessary to provide DMs with the context they need to run certain characters or scenes. It provides #3 (DM guidance) in places, most notably in the form of NPC roleplaying profiles and fleshed-out scaffolding for social and other scenes. 
+> Reloaded ne se concentre pas sur le point 1 (ajout de contenu supplémentaire). Il se concentre sur le point 2 (combler les lacunes) seulement dans la mesure nécessaire pour fournir aux MJ le contexte dont ils ont besoin pour faire fonctionner certains personnages ou scènes. Il fournit des conseils de MJ au point 3, notamment sous la forme de profils de jeu de rôle de PNJ et d'échafaudages détaillés pour les scènes sociales et autres.
 > 
-> However, *Reloaded*'s core focus is, above all others, #4: the need to provide a workable, elegant, and enjoyable campaign experience. It asks the simple question: *What would Curse of Strahd have looked like if it had been playtested and edited more, using only the components, characters, and themes available in the core book itself?*
+> Cependant, l'accent principal de _Reloaded_ est, avant tout, le point 4 : la nécessité de fournir une expérience de campagne fonctionnelle, élégante et agréable. Il se pose la simple question : _À quoi aurait ressemblé La Malédiction de Strahd s'il avait été davantage testé et édité, en utilisant uniquement les composants, personnages et thèmes disponibles dans le livre de base ?_
 > 
-> For examples, some of *Reloaded*'s most notable changes include:
+> Par exemple, certains des changements les plus notables de _Reloaded_ incluent :
 > 
-> * Organizing each chapter chronologically while organizing each chapter by narrative instead of area in order to make the adventure easier for a DM to run and understand
-> * Incorporating the official adventure only by direct reference while providing all information DMs might need exactly when they need it, > ensuring readers never need to flip through multiple pages or chapters to find what they're looking for. 
-> * Restructuring Vallaki to have a clear and positive “victory condition,” allowing players to earn a sense of achievement and security rather than slogging them down in a morass of politics and bad options
-> * Combining and simplifying the core adventure arcs involving Dr. Rudolph van Richten, the missing Vistana Arabelle, and Doru's rebellion in order to provide a single, satisfying narrative that ties together all loose ends. 
-> * Scaffolding a clear progression of the players’ relationship with Strahd, including pre-written encounters with tense and meaningful dramatic conflicts that preserve player agency while promoting an antagonistic relationship with Strahd himself. 
-> * Revising and rebalancing nearly every combat encounter in the adventure in order to create an engaging, dynamic, fair, and challenging experience without risking frequent PC death or TPKs.
+> - Organiser chaque chapitre de manière chronologique tout en les organisant selon une logique narrative plutôt que par zone, afin de faciliter la compréhension et la gestion de l'aventure par le MJ.
+> - Incorporer l'aventure officielle uniquement par référence directe tout en fournissant toutes les informations dont les MJ pourraient avoir besoin exactement quand ils en ont besoin, s'assurant ainsi que les lecteurs n'aient jamais à parcourir plusieurs pages ou chapitres pour trouver ce qu'ils cherchent.
+> - Restructurer Vallaki pour avoir une "condition de victoire" claire et positive, permettant aux joueurs d'acquérir un sentiment d'accomplissement et de sécurité plutôt que de les empêtrer dans un marécage de politique et de mauvaises options.
+> - Combiner et simplifier les arcs narratifs principaux impliquant le Dr Rudolph van Richten, la Vistani Arabelle disparue et la rébellion de Doru afin de fournir un récit unique et satisfaisant qui lie tous les fils lâches.
+> - Échafauder une progression claire de la relation des joueurs avec Strahd, y compris des rencontres pré-écrites avec des conflits dramatiques tendus et significatifs qui préservent l'agence des joueurs tout en favorisant une relation antagoniste avec Strahd lui-même.
+> - Réviser et rééquilibrer presque toutes les rencontres de combat de l'aventure afin de créer une expérience stimulante, dynamique, équitable et stimulante sans risquer de fréquentes morts de personnages ou de TPK.
 > 
-> That's not to say that *Reloaded* doesn't add additional content in places. As a general rule, however, the guide does so only where absolutely necessary to serve the purposes of their core, underlying plot, and prefers to do so by extending existing 5th-edition *Curse of Strahd* lore (e.g., the brides of Strahd) or by incorporating classic Ravenloft lore from older D&D editions (e.g., Arturi Radanavich or the Fanes of Barovia) wherever possible.
+> Cela ne veut pas dire que _Reloaded_ n'ajoute pas de contenu supplémentaire à certains endroits. En règle générale, cependant, le guide ne le fait que lorsque c'est absolument nécessaire pour servir les objectifs de son intrigue fondamentale, et préfère le faire en étendant la lore existante de _La Malédiction de Strahd_ de la 5e édition (comme les épouses de Strahd) ou en incorporant la lore classique de Ravenloft des anciennes éditions de D&D (comme Arturi Radanavich ou les Sanctuaires de Barovia) dans la mesure du possible.
 
-You can [[Using This Guide|click here]] to learn how to use and read this guide. Otherwise, if you're ready to begin your adventure through the Mists, check out the **Table of Contents** below—and get ready for a campaign you and your players won't soon forget.
+Vous pouvez [[Comment utiliser ce guide|cliquer ici]] pour apprendre comment utiliser et lire ce guide. Sinon, si vous êtes prêt à commencer votre aventure à travers les Brumes, consultez le **Sommaire** ci-dessous - et préparez-vous à vivre une campagne que vous et vos joueurs n'oublierez pas de sitôt.
 
-> [!info]+ **Download this Guide**
-> Want to download *Reloaded* as an Obsidian Vault for use, editing, and review on your local device? You can download all files using the [Github Repository](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) .
-# Table of Contents
-## Chapter 1 - Beginning the Campaign
-[[Session Zero]]. Setting expectations and clarifying player triggers.
-[[Création de Personnage]]. Developing character bonds, flaws, and motivations.
-## Chapter 2 - The Land of Barovia
-[[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
-[[History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.
-[[Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
-## Chapter 3 - Running the Game
-[[Adventure Summary]]. Summaries of the campaign's six narrative acts.
-[[Running the Adventure]]. A guide to reading—and running—this guide.
-## Act I - Into the Mists
-[[Acte I Résumé]]. A summary of the players' first passage into Barovia.
-[[Arc A - L'Evasion de la Funeste Demeure]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
-[[Act I - Into the Mists/Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia in the aftermath of Strahd's reawakening, meeting new friends and receiving a cryptic invitation.
-[[Act I - Into the Mists/Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
-## Act II - The Shadowed Town
-[[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
-[[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
-[[Arc E - The Missing Vistana]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
-[[Arc F - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
-[[Arc G - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
-[[Arc H - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
-[[Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
-## Act III - The Broken Land
-[[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
-[[Arc J - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
-[[Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
-[[Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
-[[Arc M - Argynvost's Beacon]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
-[[Arc N - Tales of Vallaki]]. Coming soon.
-[[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
-[[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
-[[Arc Q - A Light in the Darkness]]. Coming soon.
+> [!info]+ **Télécharger ce Guide** 
+> Vous voulez télécharger _Reloaded_ sous forme de coffre-fort Obsidian pour l'utiliser, l'éditer et l'examiner sur votre appareil local ? Vous pouvez télécharger tous les fichiers à l'aide du [Dépôt GitHub](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded).
 
-> [!tip]+ **Under Construction**
-> *Curse of Strahd: Reloaded* is an ongoing project. New releases, including additional arcs and edits to existing arcs, are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).
+# Sommaire
+
+## Chapitre 1 - Débuter la Campagne
+
+[[Session Zero]]. Définir les attentes et clarifier les déclencheurs des joueurs. 
+[[Création de Personnage]]. Développer les liens, les défauts et les motivations des personnages.
+
+## Chapitre 2 - La Terre de Barovia
+
+[[Folklore et Coutumes]]. Un recueil de la magie, de la géographie, de la culture, des factions et des religions de Barovia. 
+[[Histoire de la Barovie]]. Une histoire narrative de Barovia et de la famille Von Zarovich. 
+[[Strahd von Zarovich]]. Un guide sur la personnalité, les relations, les objectifs, les alliés et les tactiques de Strahd.
+
+## Chapitre 3 - Mener le Jeu
+
+[[Résumé de l'Aventure]]. Résumés des six actes narratifs de la campagne. 
+[[Mener l'aventure]]. Un guide pour lire - et mener - ce guide.
+## Acte I - Dans les Brumes
+
+[[Acte I Résumé]]. Un résumé de la première traversée des joueurs dans Barovia. 
+[[Arc A - L'Evasion de la Funeste Demeure]]. Les joueurs sont attirés dans une maison hantée et doivent s'en échapper avant qu'un mal affamé ne s'éveille. 
+[[Arc B - Bienvenue à Barovie]]. Les joueurs arrivent au Village de Barovia dans les suites du réveil de Strahd, rencontrant de nouveaux amis et recevant une invitation cryptique. 
+[[Arc C - A travers la vallée]]. Les joueurs s'aventurent jusqu'à la Ville de Vallaki, recevant une mystérieuse lecture des cartes et faisant face à des épreuves et des tribulations sur le chemin.
+
+## Acte II - La Ville Obscurcie
+
+[[Act II Summary]]. Un résumé des aventures des joueurs dans la ville de Vallaki. 
+[[Arc D - St. Andral's Feast]]. Les joueurs enquêtent sur le vol d'os sacrés dans l'église de Vallaki. 
+[[Arc E - The Missing Vistana]]. Les joueurs suivent la piste d'une Vistani kidnappée à travers l'ouest de Barovia. 
+[[Arc F - Lady Wachter's Wish]]. Les joueurs sont invités à rejoindre une dangereuse conspiration pour renverser le bourgmestre de Vallaki. 
+[[Arc G - The Strazni Siblings]]. Les joueurs rencontrent les sombres rêves du Capitaine de la Garde de Vallaki. 
+[[Arc H - The Lost Soul]]. Les joueurs aident les enfants de deux maisons nobles rivales à organiser un audacieux sauvetage fantomatique. 
+[[Arc I - The Walls of Krezk]]. Les joueurs se rendent dans les ruines de Berez pour gagner le passage jusqu'au village de Krezk.
+
+## Acte III - La Terre Brisée
+
+[[Act III Summary]]. Un résumé des aventures des joueurs à travers la vallée de Barovia. 
+[[Arc J - The Stolen Gem]]. Les joueurs repoussent une tribu druidique causant des problèmes pour le domaine viticole des Mages des Vins. 
+[[Arc K - The Fallen Abbey]]. Les joueurs recrutent un nouvel allié et restaurent la divinité souillée de l'Abbé. 
+[[Arc L - The Den of Wolves]]. Les joueurs montent une embuscade et infiltrent un repaire de loups-garous. 
+[[Arc M - Argynvost's Beacon]]. Les joueurs enquêtent sur un manoir hanté et dévoilent le message du dragon d'argent Argynvost. 
+[[Arc N - Tales of Vallaki]]. À venir. 
+[[Arc O - Dinner with the Devil]]. Les joueurs dînent avec Strahd et sa cour au Château Ravenloft. 
+[[Arc P - Ravenloft Heist]]. Les joueurs font un raid sur le Château Ravenloft pendant l'absence de Strahd. 
+[[Arc Q - A Light in the Darkness]]. À venir.
+
+> [!tip]+ **En Construction** 
+> _La Malédiction de Strahd : Reloaded_ est un projet en cours. De nouvelles versions, y compris des arcs supplémentaires et des modifications aux arcs existants, sont régulièrement publiées. Vous pouvez vous inscrire pour recevoir des notifications de mise à jour dans votre boîte mail en rejoignant la communauté gratuite de l'auteur sur [Patreon](https://www.patreon.com/DragnaCarta).
 > 
-> Alternatively, if you'd like to read drafts, outlines, and notes for upcoming releases, you can do so by becoming a paid supporter of DragnaCarta's [Patreon](https://www.patreon.com/DragnaCarta). Doing so also allows you to join an exclusive Discord community of new and experienced DMs running *Reloaded* themselves.
+> Alternativement, si vous souhaitez lire les brouillons, les plans et les notes des versions à venir, vous pouvez le faire en devenant un supporter payant du [Patreon](https://www.patreon.com/DragnaCarta) de DragnaCarta. Cela vous permet également de rejoindre une communauté Discord exclusive de nouveaux et d'expérimentés MJ qui mènent _Reloaded_ eux-mêmes.
 > 
-> The guide is currently projected to be completed by the end of summer 2024, with regular additions and revisions released approximately once per month. If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]]. If you'd like to provide suggestions, feedback, or critiques regarding the current version of the guide, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
-## Act IV - Secrets of the Ancient
-[[Act IV Summary]]. Coming soon.
-[[Arc R - The Tyrant's Trials]]. Coming soon.
-[[Arc S - The Amber Temple]]. Coming soon.
-[[Arc T - The Monster Hunter]]. Coming soon.
-[[Arc U - The Ladies of the Fanes]]. Coming soon.
-## Act V - The Curse of Strahd
-[[Act V Summary]]. Coming soon.
-[[Arc V - The Curse of Strahd]]. Coming soon.
-[[Epilogue]]. Coming soon.
-## Appendices
-[[Personnages Non-Joueurs]]. A compendium of every major NPC in the adventure.
-[[Amber Shards]]. A compendium of every amber shard that appears in the adventure.
-[[Glossary]]. A glossary of all new rules or mechanics that are used in the adventure.
+> Le guide devrait être terminé d'ici la fin de l'été 2024, avec des ajouts et révisions réguliers publiés approximativement une fois par mois. Si vous souhaitez consulter une liste des mises à jour les plus récentes, vous pouvez également consulter le [[Changelog|journal des changements]] du guide. Si vous souhaitez fournir des suggestions, des commentaires ou des critiques concernant la version actuelle du guide, vous pouvez le faire [ici](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
+
+## Acte IV - Les Secrets de l'Ancien
+
+[[Résumé de l'Acte IV]]. À venir. 
+[[Arc R - Les Épreuves du Tyran]]. À venir. 
+[[Arc S - Le Temple Ambre]]. À venir. 
+[[Arc T - Le Chasseur de Monstres]]. À venir. 
+[[Arc U - Les Dames des Sanctuaires]]. À venir.
+
+## Acte V - La Malédiction de Strahd
+
+[[Résumé de l'Acte V]]. À venir. 
+[[Arc V - La Malédiction de Strahd]]. À venir. 
+[[Épilogue]]. À venir.
+
+## Annexes
+
+[[Personnages Non-Joueurs]]. Un recueil de tous les PNJ majeurs de l'aventure. 
+[[Eclats d'Ambre]]. Un recueil de tous les éclats d'ambre qui apparaissent dans l'aventure. 
+[[Glossaire]]. Un glossaire de toutes les nouvelles règles ou mécaniques utilisées dans l'aventure.
 
 <hr>
 
-# Acknowledgments
-***Curse of Strahd: Reloaded*** is written by **DragnaCarta**. You can support his work by joining his [Patreon](https://www.patreon.com/DragnaCarta). 
+# Remerciements
 
-This unofficial free guide is made available under the Wizards of the Coast [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). You can purchase the official *Curse of Strahd* campaign module on the *Dungeons & Dragons* [website](https://dnd.wizards.com/products/curse-strahd-revamped) or via [D&DBeyond](https://www.dndbeyond.com/sources/cos).
+_**La Malédiction de Strahd : Reloaded**_ est écrit par **DragnaCarta**. Vous pouvez soutenir son travail en rejoignant son [Patreon](https://www.patreon.com/DragnaCarta). 
+Ce guide gratuit non officiel est mis à disposition conformément à la [Politique de Contenu des Fans](https://company.wizards.com/en/legal/fancontentpolicy) de Wizards of the Coast. Vous pouvez acheter le module de campagne officiel _La Malédiction de Strahd_ sur le [site web](https://dnd.wizards.com/products/curse-strahd-revamped) de _Dungeons & Dragons_ ou via [D&DBeyond](https://www.dndbeyond.com/sources/cos). 
+Ce travail contient du matériel tiré du Système de Référence 5.1 ("SRD 5.1") de Wizards of the Coast LLC, disponible [ici](https://dnd.wizards.com/resources/systems-reference-document). Le SRD 5.1 est sous licence Creative Commons Attribution 4.0 International disponible [ici](https://creativecommons.org/licenses/by/4.0/legalcode). 
+_**Art.**_ Couverture et illustrations d'arrière-plan par [JamesRPGArt](https://jamesrpgart.com/), disponible sur [Patreon](https://www.patreon.com/jamesrpgart). Illustrations supplémentaires par [Caleb Cleveland](https://calebisdrawing.com/). Diagrammes de cartes de combats réalisés à l'aide de [Dungeon Scrawl](https://app.dungeonscrawl.com/). 
+_**Remerciements spéciaux à**_ **Twi**, dont la réflexion et la créativité ont rendu cette révision possible ; **Ziopliukas** et **Paintknight** pour leur encouragement et leur soutien ; **Cheese** et **Nancy** pour leur aide à l'équilibrage et aux tests des rencontres ; **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza** et **Scarfe** pour leurs conseils et leurs commentaires fréquents ; et [**GPT-4**](https://chat.openai.com/) pour son aide à la réflexion et à la révision. 
+_**Remerciements supplémentaires à**_ a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, AlexanderThulin, Alfie, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Az, beau_motion, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, Booyahg, Bous237, Bruuneri, calebisdrawing, chroma900, ClanRedHead, cleo, continuity, CrackedSkeleton, CrazyEnough1757, Crazymajor, Cryptid, Daeplin, Dakota Official, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Ella, ELQUEMANDA4, Ep, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, GodSpeeD, gr4v3dgr, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Miata07, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, PJ, PM_me_your_PhDs, pookmeister, presley, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, Shard, ShapKees, Sherlock, Sigmarius, Silent Scribe, Silver, SkroxiousDM, Søren, snarkycatboy, snickduck, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
 
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC, available [here](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available [here](https://creativecommons.org/licenses/by/4.0/legalcode).
+# À Propos de l'Auteur
 
-***Art.*** Cover and background artwork by [JamesRPGArt](https://jamesrpgart.com/), available on [Patreon](https://www.patreon.com/jamesrpgart). Additional illustrations by [Caleb Cleveland](https://calebisdrawing.com/). Battlemap diagrams made using [Dungeon Scrawl](https://app.dungeonscrawl.com/).
+**DragnaCarta** a commencé à être maître du jeu en 2008 avec la "Boîte Rouge" de la 4e édition. Depuis, il a mené trois campagnes complètes de _La Malédiction de Strahd_, dont [_Curse of Strahd: Twice Bitten_](https://www.youtube.com/watch?v=fiu6bM9RxbM), une Partie Officielle avec cinq autres MJ de _La Malédiction de Strahd_ en tant que joueurs.
 
-***Special Thanks to*** **Twi**, whose deliberation and creativity made this revision possible;  **Ziopliukas** and **Paintknight** for their encouragement and support; **Cheese** and **Nancy** for their assistance in balancing and playtesting encounters; **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza**, and **Scarfe** for their frequent counsel and feedback; and [**GPT-4**](https://chat.openai.com/) for assistance in brainstorming and revision.
+Dragna a commencé à écrire sa série [_Lessons from Running Curse of Strahd_](https://www.reddit.com/r/DnDBehindTheScreen/comments/76v6q4/lessons_from_running_curse_of_strahd_barovia/) en 2017, qui a bientôt évolué vers la première ébauche de [_La Malédiction de Strahd : Reloaded_](https://www.reddit.com/r/CurseofStrahd/comments/9bpzbh/curse_of_strahd_reloaded_compilation_thread/), une série visant à "guider les MJ dans la maîtrise de _La Malédiction de Strahd_ tout en apportant des expansions supplémentaires pour rendre l'aventure plus captivante". Dragna a entrepris une révision complète de _Reloaded_ en décembre 2022 et a publié les premiers chapitres du guide révisé en juin 2023.
 
-***Additional thanks to*** a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, AlexanderThulin, Alfie, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Az, beau_motion, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, Booyahg, Bous237, Bruuneri, calebisdrawing, chroma900, ClanRedHead, cleo, continuity, CrackedSkeleton, CrazyEnough1757, Crazymajor, Cryptid, Daeplin, Dakota Official, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Ella, ELQUEMANDA4, Ep, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, GodSpeeD, gr4v3dgr, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Miata07, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, PJ, PM_me_your_PhDs, pookmeister, presley, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, Shard, ShapKees, Sherlock, Sigmarius, Silent Scribe, Silver, SkroxiousDM, Søren, snarkycatboy, snickduck, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
-# About the Author
-**DragnaCarta** first began DMing in 2008 with the 4th Edition "Red Box." Since then, he has run three complete *Curse of Strahd* campaigns, including [*Curse of Strahd: Twice Bitten*](https://www.youtube.com/watch?v=fiu6bM9RxbM), a Rules-As-Written Actual Play featuring five other *Curse of Strahd* DMs as players.
- 
-Dragna first began writing his [*Lessons from Running Curse of Strahd*](https://www.reddit.com/r/DnDBehindTheScreen/comments/76v6q4/lessons_from_running_curse_of_strahd_barovia/) series in 2017, which soon evolved into the first draft of [*Curse of Strahd: Reloaded*](https://www.reddit.com/r/CurseofStrahd/comments/9bpzbh/curse_of_strahd_reloaded_compilation_thread/), a series that aimed to "guide DMs through running *Curse of Strahd* while also making additional expansions to make the adventure more engaging." Dragna began a wholesale revision of *Reloaded* in December 2022, and released the first chapters of the revised guide in June 2023.
+Dragna est également l'auteur de nombreux matériaux et ressources supplémentaires liés à _La Malédiction de Strahd_, notamment [# A Comprehensive Guide to Strahd's RAW Final Battle Tactics](https://www.reddit.com/r/CurseofStrahd/comments/t49no0/a_comprehensive_guide_to_strahds_raw_final_battle/), [# So You Want to Run Curse of Strahd: A Primer on Preparing (and Running) the Game](https://www.reddit.com/r/CurseofStrahd/comments/f3w658/so_you_want_to_run_curse_of_strahd_a_primer_on/) et [# So You Want to Run _Curse of Strahd_: A Primer on Preparing (and Running) the Game](https://www.reddit.com/r/CurseofStrahd/comments/h98xgv/how_you_can_use_curse_of_strahds_four_adventure/).
 
-Dragna is also the author of numerous *Curse of Strahd*-related additional materials and resources, including [A Comprehensive Guide to Strahd's RAW Final Battle Tactics](https://www.reddit.com/r/CurseofStrahd/comments/t49no0/a_comprehensive_guide_to_strahds_raw_final_battle/), [So You Want to Run Curse of Strahd: A Primer on Preparing (and Running) the Game](https://www.reddit.com/r/CurseofStrahd/comments/f3w658/so_you_want_to_run_curse_of_strahd_a_primer_on/),  and [How You Can Use *Curse of Strahd's* Four Adventure Hooks to Shape Your Campaign](https://www.reddit.com/r/CurseofStrahd/comments/h98xgv/how_you_can_use_curse_of_strahds_four_adventure/). 
+Au-delà de _La Malédiction de Strahd_, Dragna est également le créateur de [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), un système d'équilibrage complet des rencontres pour _Dungeons & Dragons_ 5e édition ; un ancien rédacteur pour le blog _Dungeons & Dragons_ [FlutesLoot](https://www.flutesloot.com/author/dragnacarta/) ; le créateur de la série "Fondamentaux du Maître du Jeu" sur [YouTube](https://www.youtube.com/watch?v=GgJHxv-jzxI&list=PLKMakNcXqsI7eGeQdoL-aJWQKfxEB1ZHi) ; et un éditeur occasionnel de contenus liés à _Dungeons & Dragons_ sur [Substack](https://dragnacarta.substack.com/). Il mène actuellement une campagne maison active pour neuf joueurs et espère publier _Le Guide du Maître du Jeu : Reloaded_, un manuel pour les MJ débutants et intermédiaires, après avoir terminé _La Malédiction de Strahd : Reloaded_.
 
-Beyond *Curse of Strahd*, Dragna is also the creator of [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a comprehensive mathematical encounter balancing system for *Dungeons & Dragons* 5th Edition; a former writer for the [FlutesLoot](https://www.flutesloot.com/author/dragnacarta/) *Dungeons & Dragons* blog; the creator of the "Dungeon Master Fundamentals" series on [YouTube](https://www.youtube.com/watch?v=GgJHxv-jzxI&list=PLKMakNcXqsI7eGeQdoL-aJWQKfxEB1ZHi); and an occasional publisher of *Dungeons & Dragons*-related content on [Substack](https://dragnacarta.substack.com/). He currently runs an active homebrew campaign for nine players and hopes to publish *The Dungeon Master's Guide: Reloaded*, a textbook for new and intermediate DMs, after completing *Curse of Strahd: Reloaded*.
-
-You can contact Dragna with feedback, questions, and suggestions at dragnacartacreations@gmail.com. 
+Vous pouvez contacter Dragna avec vos commentaires, questions et suggestions à [dragnacartacreations@gmail.com](mailto:dragnacartacreations@gmail.com).

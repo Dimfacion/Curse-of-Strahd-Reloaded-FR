@@ -268,9 +268,7 @@ _**Relations.**_ Izek est le "fils" adoptif du Baron Vargas Vallakovich, capitai
 <p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
 </div>
-
 <br>
-
 <div class="statblock">
 <h2>Izek Strazni, 2nd Form</h2>
 <em>Medium humanoid, neutral evil</em>

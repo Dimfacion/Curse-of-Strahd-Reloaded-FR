@@ -19,10 +19,10 @@ Une fois à l'intérieur, les joueurs se retrouvent piégés et informés qu'un 
 Si les joueurs tuent le monstre, la maison commence à s'effondrer, les forçant à fuir ou à être ensevelis sous les décombres. En émergeant, ils constatent que leur environnement a changé, les transportant dans les terres sombres de Barovia.
 
 > [!lore]+ **L'histoire de la Funeste Demeure**
-> Voir [[History of Barovia#Les Premiers Disciples de Strahd|Les Premiers Disciples de Strahd]] pour une redite complete de l'histoire malsaine de la Funeste Demeure.
+> Voir [[Histoire de la Barovie#Les Premiers Disciples de Strahd|Les Premiers Disciples de Strahd]] pour une redite complete de l'histoire malsaine de la Funeste Demeure.
 # A1. Daggerford
 ## A1a. Le Nightmare’s Bridle
-Si un ou plusieurs de vos joueurs utilisent l'accroche des [[Running the Adventure#Adventure Hooks|Reliques Baroviennes]], lisez le texte suivant. Sinon, passez à [[#A2. Funeste Demeure]] ci-dessous.
+Si un ou plusieurs de vos joueurs utilisent l'accroche des [[Mener l'aventure#Adventure Hooks|Reliques Baroviennes]], lisez le texte suivant. Sinon, passez à [[#A2. Funeste Demeure]] ci-dessous.
 
 <div class="description">
 <p>C’est la veille de la Fête des Moissons, et une tempête s’est abattue sur Daggerford, des nuages sombres déversant des cascades de pluie sur la ville en contrebas. Malgré le mauvais temps, la ville fourmille d’anticipation pour le festival d’automne à venir, chaque maison débordant de chaleur et de joie. Une lumière de bougies éclatante et joyeuse scintille à chaque fenêtre, et les sons de chants et de danses résonnent dans les rues mouillées et boueuses.</p>
@@ -72,7 +72,7 @@ Si les joueurs suivent cette piste qui s'ouvre, lisez ceci :
 
 Voici la **Funeste Demeure.**
 # A2. Funeste Demeure
-Si un ou plusieurs joueurs utilisent l'accroche [[Running the Adventure#Adventure Hooks|Lost in the Mists]], lisez le texte suivant.Sinon, rendez vous en [[#A2a. L'Arrivée]].
+Si un ou plusieurs joueurs utilisent l'accroche [[Mener l'aventure#Adventure Hooks|Lost in the Mists]], lisez le texte suivant.Sinon, rendez vous en [[#A2a. L'Arrivée]].
 
 <div class="description">
 <p>Highharvesttide à Daggerford. C'est un temps de joie et de célébration, de foyer et de famille, de rires dorés résonnant dans la nuit. Mais ce soir, alors qu'une tempête a balayé la ville, vous vous trouvez séparés de la chaleur et de la fête, attirés dans l'étreinte froide et sombre du mystère.</p>
