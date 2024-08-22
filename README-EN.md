@@ -1,6 +1,6 @@
 # Translator's note
 
-Pour la version française : [[README]]
+Pour la version française : [README](README.md)
 
 ## Scope
 

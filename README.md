@@ -1,6 +1,6 @@
 # Note du traducteur
 
-For an english version : [[README-EN]]
+For an english version : [README-EN](README-EN.md)
 
 ## Périmètre
 
