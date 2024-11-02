@@ -63,7 +63,7 @@ Une fois que Strahd apprend que les joueurs ont obtenu le _Symbole Sacré de Rav
 
 ## Le Tome de Strahd
 
-Le contenu du Tome de Strahd est maintenant tel que décrit dans [[Arc H - The Lost Soul#H9a. Reading the Tome|Arc H - The Lost Soul]].
+Le contenu du Tome de Strahd est maintenant tel que décrit dans [[Arc H - L'Ame Perdue#H9a. Reading the Tome|Arc H - The Lost Soul]].
 
 ## Le Symbole Sacré de Ravenkind
 
@@ -89,7 +89,7 @@ Lors du choix des cartes à utiliser pour chaque partie de la lecture, sélectio
 
 ### Le Tome de Strahd
 
-Le Tome de Strahd n'est pas présent dans le Plan Matériel de Barovia. Au lieu de cela, le **Neuf des Glyphes - Traître** prédit qu'il est détenu par le **héraut des gibets** Leo Dilisnya dans le Plan Éthéré. Voir [[Arc H - The Lost Soul]] pour plus d'informations sur le héraut des gibets.
+Le Tome de Strahd n'est pas présent dans le Plan Matériel de Barovia. Au lieu de cela, le **Neuf des Glyphes - Traître** prédit qu'il est détenu par le **héraut des gibets** Leo Dilisnya dans le Plan Éthéré. Voir [[Arc H - L'Ame Perdue]] pour plus d'informations sur le héraut des gibets.
 
 ### Le Symbole Sacré de Ravenkind
 

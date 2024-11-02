@@ -101,17 +101,17 @@ Vous pouvez [[Comment utiliser ce guide|cliquer ici]] pour apprendre comment uti
 
 [[Acte I Résumé]]. Un résumé de la première traversée des joueurs dans Barovia. 
 [[Arc A - L'Evasion de la Funeste Demeure]]. Les joueurs sont attirés dans une maison hantée et doivent s'en échapper avant qu'un mal affamé ne s'éveille. 
-[[Arc B - Bienvenue à Barovie]]. Les joueurs arrivent au Village de Barovia dans les suites du réveil de Strahd, rencontrant de nouveaux amis et recevant une invitation cryptique. 
+[[Arc B - Bienvenue en Barovie]]. Les joueurs arrivent au Village de Barovia dans les suites du réveil de Strahd, rencontrant de nouveaux amis et recevant une invitation cryptique. 
 [[Arc C - A travers la vallée]]. Les joueurs s'aventurent jusqu'à la Ville de Vallaki, recevant une mystérieuse lecture des cartes et faisant face à des épreuves et des tribulations sur le chemin.
 
 ## Acte II - La Ville Obscurcie
 
-[[Act II Summary]]. Un résumé des aventures des joueurs dans la ville de Vallaki. 
-[[Arc D - St. Andral's Feast]]. Les joueurs enquêtent sur le vol d'os sacrés dans l'église de Vallaki. 
-[[Arc E - The Missing Vistana]]. Les joueurs suivent la piste d'une Vistani kidnappée à travers l'ouest de Barovia. 
-[[Arc F - Lady Wachter's Wish]]. Les joueurs sont invités à rejoindre une dangereuse conspiration pour renverser le bourgmestre de Vallaki. 
-[[Arc G - The Strazni Siblings]]. Les joueurs rencontrent les sombres rêves du Capitaine de la Garde de Vallaki. 
-[[Arc H - The Lost Soul]]. Les joueurs aident les enfants de deux maisons nobles rivales à organiser un audacieux sauvetage fantomatique. 
+[[Acte II Résumé]]. Un résumé des aventures des joueurs dans la ville de Vallaki. 
+[[Arc D - Le festin de Saint-Andral]]. Les joueurs enquêtent sur le vol d'os sacrés dans l'église de Vallaki. 
+[[Arc E - La Vistana Disparue]]. Les joueurs suivent la piste d'une Vistani kidnappée à travers l'ouest de Barovia. 
+[[Arc F - Le Souhait de Dame Wachter]]. Les joueurs sont invités à rejoindre une dangereuse conspiration pour renverser le bourgmestre de Vallaki. 
+[[Arc G - Les Frères et Sœurs Strazni]]. Les joueurs rencontrent les sombres rêves du Capitaine de la Garde de Vallaki. 
+[[Arc H - L'Ame Perdue]]. Les joueurs aident les enfants de deux maisons nobles rivales à organiser un audacieux sauvetage fantomatique. 
 [[Arc I - The Walls of Krezk]]. Les joueurs se rendent dans les ruines de Berez pour gagner le passage jusqu'au village de Krezk.
 
 ## Acte III - La Terre Brisée

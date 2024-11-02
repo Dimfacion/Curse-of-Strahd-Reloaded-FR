@@ -1,278 +1,289 @@
-_An adventure for five 5th-level characters._
+_Une aventure pour cinq personnages de niveau 5._
 
-In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
+Dans cet arc narratif, suite à une visite fantomatique à l'Auberge des Eaux Bleues ou après un marché prudent au manoir du Baron, Victor Vallakovich demande aux joueurs de l'aider à restaurer l'âme de Stella Wachter dans son corps en trouvant un moyen d'accéder au Plan Éthéré, où son esprit est piégé. Pour ce faire, les joueurs doivent aider Victor à obtenir le cœur-de-pierre d'une **guenaude nocturne** avant la nuit de la pleine lune, qui aura lieu six jours après l'arrivée des joueurs à Vallaki.
 
-Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
+Si les joueurs acceptent la requête de Victor, il leur révèle que Stella, depuis sa position dans le Plan Éthéré, a vu une **guenaude nocturne** s'attaquer aux rêves de plusieurs membres du camp de réfugiés baroviens. Il leur conseille de visiter le camp pour enquêter sur l'emplacement de la guenaude pendant qu'il prépare les rituels nécessaires pour transporter les joueurs dans le Plan Éthéré et ramener l'âme de Stella dans son corps.
 
-In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly three months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
+Dans le camp de réfugiés, les joueurs peuvent en apprendre davantage sur la marchande Morgantha, qui vend régulièrement des tartes aux rêves aux réfugiés et à plusieurs Vallakiens depuis l'arrivée des réfugiés il y a près de trois mois. Sur place, les joueurs peuvent aussi rencontrer Franz, un réfugié veuf qui souffre d'une maladie débilitante depuis deux nuits. Franz confesse aux joueurs qu'il a vendu ses enfants, Myrtle et Feodor, à Morgantha il y a deux jours pour payer ses rêves, et qu'il subit maintenant la pénitence de ses péchés. Les joueurs peuvent apprendre des réfugiés que Morgantha n'a pas visité la ville depuis que Franz lui a vendu ses enfants.
 
-Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
+Peu après avoir parlé avec Franz, les joueurs reçoivent un sort de _message_ de Victor les invitant à retourner au grenier du manoir du Baron. Là, Victor leur présente deux voies possibles pour obtenir le cœur-de-pierre de la guenaude : ils peuvent négocier avec elle pour l'obtenir, ou ils peuvent tenter de la sceller dans un cercle de protection puis la tuer. Si les joueurs choisissent la seconde option, Victor leur dit qu'il aura besoin d'une journée supplémentaire pour rechercher le cercle de protection avant qu'ils puissent partir pour le repaire de Morgantha.
 
-When the players return the following day, Victor anxiously informs them that he has been unable to find a means of performing the binding ritual. However, Stella can inform the group that a similar circle of enormous size surrounds the entirety of Wachterhaus, which Stella saw while exploring through the Ethereal Plane.
+Lorsque les joueurs reviennent le lendemain, Victor les informe anxieusement qu'il n'a pas réussi à trouver un moyen d'effectuer le rituel de protection. Cependant, Stella peut informer le groupe qu'un cercle similaire de taille énorme entoure l'entièreté de la maison Wachter, que Stella a vu en explorant le Plan Éthéré.
 
-If the players request Lady Wachter’s help, she assists them only if they have already won her favor by killing Izek Strazni, or if they can persuade her to lower the binding circle around Wachterhaus to allow Stella to communicate her presence. Otherwise, Lady Wachter assumes that they and Victor are playing a cruel joke upon her and dismisses them with disgust. 
+Si les joueurs demandent l'aide de Dame Wachter, elle ne les assiste que s'ils ont déjà gagné sa faveur en tuant Izek Strazni, ou s'ils peuvent la persuader d'abaisser le cercle de protection autour de la maison Wachter pour permettre à Stella de communiquer sa présence. Sinon, Dame Wachter suppose qu'ils jouent, avec Victor, une blague cruelle à son égard et les renvoie avec dégoût.
 
-If the players successfully obtain Lady Wachter’s aid, she and four of her **cult fanatics** join the players for a journey to Morgantha’s lair at Old Bonegrinder. Lady Wachter warns the players that they will need to obtain the names of all hags within the windmill in order to bind them, lest any members of the coven escape to attack her or her cultists. Once the players have obtained the names of Morgantha’s daughters (and, hopefully, rescued the children imprisoned inside the windmill), Bella Sunbane and Offalia Wormwiggle, Lady Wachter leads her cultists in creating an enormous binding circle that binds the **night hags** to the Material Plane, allowing the players and Victor to destroy them.
+Si les joueurs obtiennent avec succès l'aide de Dame Wachter, elle et quatre de ses **fanatiques de culte** se joignent aux joueurs pour un voyage vers le repaire de Morgantha au Vieux Moulin à Os. Dame Wachter prévient les joueurs qu'ils devront obtenir les noms de toutes les guenaudes présentes dans le moulin pour les lier, de peur que des membres du sabbat ne s'échappent pour l'attaquer elle ou ses cultistes. Une fois que les joueurs ont obtenu les noms des filles de Morgantha (et, espérons-le, secouru les enfants emprisonnés à l'intérieur du moulin), Bella Sunbane et Offalia Wormwiggle, Dame Wachter dirige ses cultistes dans la création d'un énorme cercle de protection qui lie les **guenaudes nocturnes** au Plan Matériel, permettant aux joueurs et à Victor de les détruire.
 
-If the players fail to obtain Lady Wachter’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next thirteen days.
+Si les joueurs ne parviennent pas à obtenir l'aide de Dame Wachter et choisissent plutôt de négocier avec Morgantha pour emprunter son cœur-de-pierre, Morgantha accepte de le prêter aux joueurs à condition qu'ils promettent de livrer plus tard une _sangsue d'âme_ sur le bureau du chambellan de Strahd, Rahadin, dont l'âme tordue attise la convoitise de Morgantha. Comme garantie, Morgantha prend les rêves des joueurs, les empêchant de bénéficier d'un repos long s'ils ne remplissent pas la requête de Morgantha dans les treize jours suivants.
 
-Should the players successfully obtain a heartstone through assault or negotiation, Victor sends the group—and Lady Wachter, if she is present—into the Ethereal Plane to perform the ritual and defend Stella’s spirits from a tide of ravenous spirits intent on taking her soulless body for their own. The horde, however, is not alone, and their leader—a sadistic **gallows speaker** dominated by the spirit of Leo Dilisnya—bears an ancient enmity for the house of Wachter...
+Si les joueurs réussissent à obtenir un cœur-de-pierre par l'assaut ou la négociation, Victor envoie le groupe - et Dame Wachter, si elle est présente - dans le Plan Éthéré pour effectuer le rituel et défendre l'esprit de Stella contre une vague d'esprits voraces déterminés à s'emparer de son corps sans âme. Cependant, la horde n'est pas seule, et leur chef - un sinistre **orateur des potences** dominé par l'esprit de Leo Dilisnya - nourrit une ancienne inimitié envers la maison Wachter...
 
-> [!lore]+ **The Fate of Stella Wachter**
->
-> Three years ago, Victor found a spellbook in his father’s library, as described in **N3t. Victor’s Workroom** (p. 109). It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
+> [!lore]+ **Le Destin de Stella Wachter**
 > 
-> Six months ago, Victor met Stella Wachter, the youngest child of Lady Fiona Wachter, while skipping stones by Lake Zarovich. Stella and Victor were surprised to find that they shared a mutual interest in magic, myths, and philosophy. Despite their parents’ clear disapproval, the two became fast friends.
+> Il y a trois ans, Victor a trouvé un grimoire dans la bibliothèque de son père, comme décrit dans **N3t. L'Atelier de Victor** (p. 109). Ce n'était cependant pas n'importe quel grimoire - c'était le grimoire perdu de la liche Khazan lui-même, longtemps considéré comme détruit dans l'accident qui avait conduit à la mort de Khazan. Victor a étudié intensément ses secrets, utilisant les notes précises de Khazan et sa propre intelligence puissante pour maîtriser plusieurs des sorts qu'il contenait.
 > 
-> After swearing Stella to secrecy, Victor shyly showed her his spellbook and some of the magic he could perform. Stella was fascinated, and immediately volunteered to serve as his research assistant, an offer that left Victor stunned and flattered.
+> Il y a six mois, Victor a rencontré Stella Wachter, la plus jeune enfant de Dame Fiona Wachter, alors qu'il lançait des pierres sur le lac Zarovich. Stella et Victor ont été surpris de découvrir qu'ils partageaient un intérêt mutuel pour la magie, les mythes et la philosophie. Malgré la désapprobation évidente de leurs parents, les deux sont rapidement devenus amis.
 > 
-> When Strahd awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents’ grasp, while Stella hoped to bring her family with her from Barovia.) The two dove together into a new research project: the construction of a teleportation circle capable of escaping Barovia.
+> Après avoir fait jurer le secret à Stella, Victor lui a timidement montré son grimoire et quelques-uns des sorts qu'il pouvait réaliser. Stella était fascinée et s'est immédiatement proposée comme assistante de recherche, une offre qui a laissé Victor stupéfait et flatté.
 > 
-> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+> Quand Strahd s'est réveillé de son hibernation, Victor et Stella ont convenu qu'il était impératif d'échapper à sa tyrannie. (Victor espérait aussi avoir l'opportunité d'échapper à l'emprise de ses parents, tandis que Stella espérait emmener sa famille hors de Barovia.) Les deux se sont plongés ensemble dans un nouveau projet de recherche : la construction d'un cercle de téléportation capable de s'échapper de Barovia.
 > 
-> Neither Stella nor Victor could have known it, but the Mists of Barovia formed a unique metaphysical barrier against Victor’s teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella’s soul to the raw energies of the Ethereal Plane.
+> Il y a dix semaines, leur prototype de cercle de téléportation était terminé. Après que les deux aient effectué quelques expériences mineures utilisant des lapins morts-vivants que Victor avait animés à partir d'ossements achetés à Szoldar et Yevgeni, Stella a insisté avec enthousiasme pour effectuer un essai humain en direct et s'est portée volontaire pour être la première. Victor a accepté à contrecœur - et la tragédie a frappé.
 > 
-> There, the vengeful spirit of Leo Dilisnya, a **gallows speaker** lured by the magical beacon of Victor’s spell, sensed the presence of its ancient enemy and struck, severing Stella’s soul from her body.
+> Ni Stella ni Victor ne pouvaient le savoir, mais les Brumes de Barovia formaient une barrière métaphysique unique contre le cercle de téléportation de Victor. Le sort a échoué - et le contrecoup psychique a brièvement exposé l'âme de Stella aux énergies brutes du Plan Éthéré.
 > 
-> Before Leo could kill her, however, the ghost of Erasmus van Richten swiftly swept her away, concealing her from sight.
+> Là, l'esprit vengeur de Leo Dilisnya, un **orateur des potences** attiré par le signal magique du sort de Victor, a senti la présence de son ancien ennemi et a frappé, séparant l'âme de Stella de son corps.
 > 
-> Back on the Material Plane, when the smoke and light cleared, Victor saw Stella standing limply at the center of the circle, her eyes dull and unresponsive.
+> Avant que Leo ne puisse la tuer, cependant, le fantôme d'Erasmus van Richten l'a rapidement emmenée, la dissimulant à sa vue.
 > 
-> Terrified that his father might learn of Victor’s magical abilities—or, worse, blame Victor for Stella’s fate— Victor told him that she had abruptly become catatonic for no apparent reason. Vargas, displeased with Stella's presence from the beginning, was all too glad to have an excuse to be rid of “the Wachter girl,” and directed Izek to return her to Wachterhaus immediately. Fiona was horrified by Stella’s fate and began plotting the downfall of the Vallakovich family in quiet fury.
+> De retour sur le Plan Matériel, quand la fumée et la lumière se sont dissipées, Victor a vu Stella debout mollement au centre du cercle, ses yeux ternes et sans réaction.
 > 
-> Victor spent two weeks wracked with guilt and sorrow before, strangely, one of the servants mentioned seeing a spirit resembling Stella in the mirror in his mother’s parlor. It was through the *spirit mirror* that Victor learned that Stella’s soul still lived in the Ethereal Plane—and it was through that mirror, communicating with handsigns and lip-reading, that the two—now aided by the ghost of Erasmus van Richten—began to work to restore Stella’s soul to her body.
+> Terrifié que son père puisse découvrir les capacités magiques de Victor - ou, pire encore, blâmer Victor pour le sort de Stella - Victor lui a dit qu'elle était brusquement devenue catatonique sans raison apparente. Vargas, mécontent de la présence de Stella depuis le début, n'était que trop heureux d'avoir une excuse pour se débarrasser de "la fille Wachter", et a ordonné à Izek de la ramener immédiatement à la maison Wachter. Fiona a été horrifiée par le sort de Stella et a commencé à comploter la chute de la famille Vallakovich dans une fureur silencieuse.
 > 
-> Since then, Victor has been rapidly attempting to enhance his magical abilities, either to somehow repurpose the faulty *teleportation circle* to restore Stella’s soul or to become powerful enough to cast the high-level _etherealness_ spell in Khazan’s spellbook.
+> Victor a passé deux semaines torturé par la culpabilité et le chagrin avant que, étrangement, l'un des serviteurs ne mentionne avoir vu un esprit ressemblant à Stella dans le miroir du salon de sa mère. C'est à travers le _miroir spirituel_ que Victor a appris que l'âme de Stella vivait encore dans le Plan Éthéré - et c'est à travers ce miroir, communiquant par signes de la main et lecture sur les lèvres, que les deux - maintenant aidés par le fantôme d'Erasmus van Richten - ont commencé à travailler pour restaurer l'âme de Stella dans son corps.:
 > 
-> However, both Victor, Stella, and Erasmus have recently realized that they are running out of time. The Border Ethereal is full of other wandering spirits, many of whom are far less friendly than Stella herself, and Erasmus can’t keep her safe forever. Worse still, Stella’s spirit appears to slowly be fading, drawn further and further away by the pull of the Ethereal Plane with each passing day. If her soul isn’t returned to her body soon, Stella may lose herself—forever.
+> Depuis lors, Victor a rapidement tenté d'améliorer ses capacités magiques, soit pour réutiliser d'une manière ou d'une autre le _cercle de téléportation_ défectueux pour restaurer l'âme de Stella, soit pour devenir assez puissant pour lancer le sort d'_éthéréalité_ de haut niveau présent dans le grimoire de Khazan.
+> 
+> Cependant, Victor, Stella et Erasmus ont récemment réalisé qu'ils manquaient de temps. Le Plan Éthéré Limitrophe est rempli d'autres esprits errants, dont beaucoup sont bien moins amicaux que Stella elle-même, et Erasmus ne peut pas la protéger éternellement. Pire encore, l'esprit de Stella semble lentement s'estomper, attiré de plus en plus loin par l'attraction du Plan Éthéré jour après jour. Si son âme n'est pas rendue à son corps bientôt, Stella pourrait se perdre - pour toujours.
 
-# H1. Erasmus' Plea
-Shortly before dawn on the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
+# H1. La Supplique d'Erasmus
 
-The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
+Peu avant l'aube de la première nuit après que les joueurs atteignent le niveau 5, le groupe est réveillé dans la nuit par le bruit d'une fenêtre qui claque et la sensation d'un courant d'air froid remplissant la pièce. Une inspection plus approfondie révèle qu'une des fenêtres s'est ouverte, apparemment d'elle-même. (La fenêtre a été ouverte par le **poltergeist** d'Erasmus van Richten.)
 
-If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
+Les joueurs peuvent remarquer que les vitres des fenêtres donnant sur la pièce sont couvertes de givre, et que leur souffle forme maintenant de la buée dans l'air glacial. Peu après, plusieurs objets dans la pièce commencent à léviter dans les airs, et les volets des fenêtres se mettent à trembler. Alors que cela se produit, un doigt invisible commence à inscrire un message dans le givre sur l'une des fenêtres : _Aidez Victor._ Après un moment, il ajoute - presque avec hésitation - _S'il vous plaît._
 
-While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
+Si les joueurs demandent le nom de l'esprit, il écrit son nom dans le givre : _Erasmus._ Si les joueurs acceptent d'accomplir sa requête, les objets retombent alors au sol et les volets cessent de trembler, le givre s'évaporant lentement. L'esprit d'Erasmus s'en va alors.
 
-The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
-# H2. Burgomaster’s Mansion
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
+Pendant que l'esprit d'Erasmus est présent, un joueur qui réussit un test de Sagesse (Perspicacité ou Perception) DD 10 ressent une présence fantomatique dans la pièce - une présence qui brille d'innocence et d'un sentiment de détermination farouche.
 
-If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
+Les joueurs peuvent apprendre d'Urwin Martikov, Danika Dorakova, Père Lucian Petrovich, ou Dame Fiona Wachter que "Victor" est le nom du fils adolescent du Baron Vallakovich.
+# H2. Le Manoir du Bourgmestre
 
-If the players describe Erasmus's visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+<span class="citation">Cette scène se déroule dans le Chapitre 5 : Zone N3t.</span>
 
-A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
-### What Victor Knows
-If the players express an interest in assisting him, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] first introduces them to Stella’s spirit through her reflection in the *spirit mirror.* Stella greets them with a shy wave, but cannot be heard. (Victor explains that her soul is trapped in the Ethereal Plane, and though the mirror reflects shapes from the other plane, it does not transmit sound.) 
+Si les joueurs ont reçu [[#H1. La Supplique d'Erasmus]] et demandent à parler avec Victor, le Baron Vallakovich les y autorise avec un test réussi de Charisme (Persuasion ou Tromperie) DD 12, ou automatiquement s'ils le flattent suffisamment ou si Dame Wachter a déjà pris le pouvoir.
+
+Si les joueurs décrivent la visite d'Erasmus à Victor, celui-ci jette un coup d'œil au _miroir spirituel_ dans son atelier et dit, l'air blessé : "Je croyais vous avoir dit que j'avais la situation sous contrôle !"
+
+Un moment plus tard, le visage de Victor s'adoucit, et il dit à contrecœur aux joueurs que "Stella" et "Erasmus" ont décidé qu'il avait besoin d'aide, et qu'ils n'avaient peut-être pas entièrement tort. Il demande ensuite aux joueurs s'ils seraient disposés à l'aider, lui, "Stella" et "Erasmus" - l'esprit qu'ils ont rencontré - pour une tâche particulière.
+
+### Ce que Victor sait
+
+Si les joueurs manifestent leur intérêt à l'aider, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] leur présente d'abord l'esprit de Stella à travers son reflet dans le _miroir spirituel_. Stella les salue d'un signe de la main timide, mais ne peut pas être entendue. (Victor explique que son âme est piégée dans le Plan Éthéré, et bien que le miroir reflète les formes de l'autre plan, il ne transmet pas le son.)
 ![[Stella Wachter.png]]
 <span class="credit">"Stella Wachter's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Victor then shares the following information:
+Victor partage ensuite les informations suivantes :
 
-* Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from an old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
-* Ten weeks ago, they’d finally finished a prototype circle. After two experiments involving undead rabbits that Victor animated using bones purchased from Szoldar and Yevgeni, Stella insisted on volunteering as a live, human trial. However, the test went horribly wrong—the circle failed to teleport Stella’s body anywhere, and the backlash exposed her soul to the Ethereal Plane. 
-* During the brief moments that her spirit was within the Ethereal Plane, Stella was attacked by a dark shadow, whose claws severed her soul from her body. She would have died had Erasmus not spirited her away to safety.
-* After two weeks of worrying that he had accidentally somehow destroyed his friend’s mind, Victor learned that one of his parents’ servants had seen the ghost of a young woman reflected in a mirror in his mother’s parlor. Victor learned that the mirror was a *spirit mirror* that reflected both the Material and Ethereal Planes. Using it, he was able to see and communicate with Stella’s wandering spirit—first through gestures and crude lip-reading, and eventually through handsigns learned from a book in his father’s library.
-* Since then, Victor and Stella have been working hard to restore her soul to her body, but nothing has worked. In the meantime, Stella has had to conceal herself from the many wandering spirits that roam the Border Ethereal, many of which would harm her if they could. 
-* Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
-* To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
-* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
-* If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust Lady Fiona Wachter; that his own father, the Baron, would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
+- Il y a trois mois, Victor et son amie, Stella Wachter, ont appris que le Diable Strahd était revenu sur les terres et ont convenu que la fuite était impérative. Utilisant les connaissances que Victor avait glanées d'un vieux grimoire, ils ont commencé la construction d'un _cercle de téléportation_ qui leur permettrait de s'échapper de la vallée.
+- Il y a dix semaines, ils avaient enfin terminé un prototype du cercle. Après deux expériences impliquant des lapins morts-vivants que Victor avait animés à partir d'os achetés à Szoldar et Yevgeni, Stella a insisté pour se porter volontaire comme sujet d'essai humain. Cependant, le test a horriblement mal tourné - le cercle n'a pas réussi à téléporter le corps de Stella où que ce soit, et le contrecoup a exposé son âme au Plan Éthéré.
+- Durant les brefs instants où son esprit était dans le Plan Éthéré, Stella a été attaquée par une ombre sombre, dont les griffes ont séparé son âme de son corps. Elle serait morte si Erasmus ne l'avait pas rapidement mise en sécurité.
+- Après deux semaines à s'inquiéter d'avoir accidentellement détruit l'esprit de son amie, Victor a appris que l'un des serviteurs de ses parents avait vu le fantôme d'une jeune femme reflété dans un miroir du salon de sa mère. Victor a découvert que le miroir était un _miroir spirituel_ qui reflétait à la fois le Plan Matériel et le Plan Éthéré. En l'utilisant, il a pu voir et communiquer avec l'esprit errant de Stella - d'abord par des gestes et une lecture labiale rudimentaire, et finalement par des signes de la main appris dans un livre de la bibliothèque de son père.
+- Depuis lors, Victor et Stella ont travaillé dur pour restaurer son âme dans son corps, mais rien n'a fonctionné. Entre-temps, Stella a dû se cacher des nombreux esprits errants qui parcourent le Plan Éthéré Limitrophe, dont beaucoup lui feraient du mal s'ils le pouvaient.
+- Stella sent qu'elle perd lentement les souvenirs de sa vie, alors même que sa forme dans le Plan Éthéré devient progressivement plus immatérielle. Parfois, elle ne peut pas dire si elle est elle-même ou quelqu'un d'autre ; quand cela arrive, elle a l'impression qu'une partie d'elle est recroquevillée dans un endroit chaud et humide, avec un battement de cœur réconfortant qui résonne dans l'obscurité.
+- Pour aggraver les choses, le lien entre les omoplates de Stella qui connectait autrefois son âme à son corps devient progressivement plus court, laissant Victor craindre qu'il ne lui reste guère plus d'une semaine avant qu'elle ne disparaisse à jamais. (Plus il raccourcit, plus les visions de Stella deviennent fréquentes et plus sa mémoire devient floue.)
+- Ni Victor, ni Stella, ni Erasmus ne connaissent l'identité de l'esprit qui a séparé l'âme de Stella de son corps. Cependant, Victor peut informer les joueurs qu'Erasmus l'a vu hanter le Plan Éthéré autour de Vallaki plusieurs fois depuis son arrivée - semblant chercher Stella - et l'a identifié comme un _orateur des potences_. (Erasmus, qui a appris l'existence de ces créatures en lisant les notes de son père, a fourni à Victor toutes les informations sur les orateurs des potences fournies à la <span class="citation">p. 234 du Guide de Van Richten sur Ravenloft</span>.)
+- Si on leur demande pourquoi ils n'ont pas cherché l'aide d'autres personnes, Victor insiste obstinément qu'il ne fait pas confiance à Dame Fiona Wachter ; que son propre père, le Baron, serait pire qu'inutile ; et que lui et Stella sont parfaitement capables de résoudre son problème seuls.
 
-If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
+Si on lui fait remarquer que lui et Stella _n'ont pas_ été capables de résoudre son problème seuls, le visage de Victor se froisse, et il semble au bord des larmes alors qu'il lutte pour trouver une réplique.
 
-Victor is surprised to hear of the “hauntings” that his family has experienced in the mansion floors below. However, Stella’s spirit—looking bashful—uses handsigns to communicate that she never intended to scare anyone, but that after accidentally learning that she retained some small ability to interact with the Material Plane, she couldn’t resist playing an occasional practical joke on an unsuspecting victim. (If the players ask why she hasn’t used this ability to communicate with her mother, Lady Wachter, Stella confesses that some strange force prevents her from entering the grounds of the estate.)
+Victor est surpris d'entendre parler des "hantises" que sa famille a expérimentées dans les étages inférieurs du manoir. Cependant, l'esprit de Stella - l'air penaud - utilise des signes de la main pour communiquer qu'elle n'a jamais eu l'intention d'effrayer qui que ce soit, mais qu'après avoir accidentellement découvert qu'elle conservait une certaine capacité à interagir avec le Plan Matériel, elle n'a pas pu résister à l'envie de jouer occasionnellement un tour pratique à une victime sans méfiance. (Si les joueurs demandent pourquoi elle n'a pas utilisé cette capacité pour communiquer avec sa mère, Dame Wachter, Stella avoue qu'une force étrange l'empêche d'entrer sur le terrain du domaine.)
 
-If the players agree to help him and Stella, Victor shares with them the following plan:
+Si les joueurs acceptent de l'aider lui et Stella, Victor partage avec eux le plan suivant :
 
-* To guide Stella’s soul back into her body, he needs to find a way to enter the Ethereal Plane in his own, mortal body and perform an altered version of the teleportation ritual from the other side of the veil.
-* There is a spell—*etherealness*—that would allow him to enter the Ethereal Plane using his own power, but despite his best efforts, he has been unable to master it thus far, and is unlikely to be able to cast it before Stella’s soul disappears into the Deep Ethereal.
-* In the book *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen, Victor learned of a ritual that can replicate the effects of the *etherealness* spell for up to nine creatures. The ritual must be performed on the night of the full moon, and requires the heartstone of a **night hag** as a material component. 
+- Pour guider l'âme de Stella vers son corps, il doit trouver un moyen d'entrer dans le Plan Éthéré dans son propre corps mortel et effectuer une version modifiée du rituel de téléportation depuis l'autre côté du voile.
+- Il existe un sort - _éthéréalité_ - qui lui permettrait d'entrer dans le Plan Éthéré par ses propres moyens, mais malgré ses meilleurs efforts, il n'a pas réussi à le maîtriser jusqu'à présent, et il est peu probable qu'il puisse le lancer avant que l'âme de Stella ne disparaisse dans le Plan Éthéré Profond.
+- Dans le livre _Entités Éthérées : Habitants du Royaume Invisible_, écrit par l'archimage Mordenkainen, Victor a appris l'existence d'un rituel qui peut reproduire les effets du sort _éthéréalité_ pour jusqu'à neuf créatures. Le rituel doit être effectué la nuit de la pleine lune, et nécessite le cœur-de-pierre d'une **guenaude nocturne** comme composante matérielle.
 
-> [!info]+ **When’s the Full Moon?**
+> [!info]+ **Quand est la pleine lune ?**
+> 
+> La première pleine lune des joueurs à Barovia a toujours lieu la nuit de leur sixième jour complet à Vallaki. (Par exemple, si les joueurs arrivent à Vallaki le dimanche soir, la pleine lune aura lieu le samedi soir.) Victor est au courant de cette date.
+
+Victor informe les joueurs que Stella, en explorant le Plan Éthéré, a régulièrement vu une silhouette décharnée avec une peau gris-bleu blafarde, des yeux enfoncés, des cheveux emmêlés, de petites cornes de bélier et une large bouche aux dents jaunes et pointues hanter la zone du Plan Éthéré Limitrophe qui chevauche le camp de réfugiés baroviens. Bien que ni Victor ni Stella ne soient sûrs de ce que la guenaude veut aux réfugiés, Victor est convaincu que la description de Stella correspond parfaitement à l'apparence d'une **guenaude nocturne** telle que décrite dans le livre de Mordenkainen.
+
+Victor demande aux joueurs de visiter le camp de réfugiés et d'enquêter sur la présence de la guenaude nocturne. Bien que Stella n'ait vu la guenaude que dans le Plan Éthéré jusqu'à présent, Victor soupçonne fortement que son intérêt s'étend aussi au Plan Matériel. Pendant que les joueurs enquêtent, Victor continuera ses recherches sur le rituel d'_éthéréalité_ et le rituel pour ramener l'âme de Stella dans son corps.
+
+Si les joueurs manifestent leur intérêt, Victor est ravi de leur prêter son exemplaire d'_Entités Éthérées_ à lire.
+
+> [!lore]+ **Entités Éthérées**
+> 
+> _Entités Éthérées : Habitants du Royaume Invisible_ par Mordenkainen est un mince livre relié en cuir teint d'un bleu nuit profond. Son titre et le nom de l'auteur sont gravés en lettres argentées le long du dos et de la couverture, et les coins du livre sont ornés de petites filigranes argentées ressemblant à des volutes éthérées. Ses pages sont remplies de textes soigneusement écrits et d'illustrations magnifiquement détaillées.
+> 
+> Le livre est un traité sur le Plan Éthéré et les créatures qui y habitent ou le visitent. Il contient toutes les informations fournies dans **Plan Éthéré** (<span class="citation">Guide du Maître, p. 48</span>), ainsi qu'un bestiaire divisé en trois sections suivantes :
+> 
+> - _**Nés-de-l'Éther : Natifs du Plan Éthéré Profond**_, contenant des informations sur les créatures qui sont dites habiter uniquement dans le Plan Éthéré Profond, comme les mythologiques démons de brume, ombres éthérées et scintillants.
 >
-> The players’ first full moon in Barovia always takes place on the night of their sixth full day in Vallaki. (For example, if the players arrive in Vallaki on Sunday night, the full moon will take place on Saturday night.) Victor is aware of this date.
-
-Victor informs the players that Stella, while exploring the Ethereal Plane, has regularly seen a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth haunting the area of the Border Ethereal that overlaps with the Barovian refugee camp. While neither Victor nor Stella are sure what the night hag wants with the refugees, Victor is confident that Stella’s description perfectly matches the appearance of a **night hag** as described in Mordenkainen’s book.
-
-Victor asks the players to visit the refugee camp and investigate the night hag’s presence. While Stella has only seen the hag in the Ethereal Plane thus far, Victor strongly suspects that her interest in it extends into the Material Plane as well. While the players investigate, Victor will continue his research into the *etherealness* ritual and the ritual to return Stella’s soul to her body.
-
-If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
-
-> [!lore]+ **Ethereal Entities**
+> - _**Peuple Fantôme : Voyageurs du Plan Éthéré Limitrophe**_, contenant des informations sur les créatures incorporelles qui habitent dans le Plan Éthéré Limitrophe et traversent souvent vers le Plan Matériel, comme les **fantômes** (_Manuel des Monstres_, p. 147) et les **guerriers fantômes** (_Malédiction de Strahd_, p. 235).
+> 
+> - _**Marcheurs du Voile : Visiteurs de l'Éthéré**_, contenant des informations sur les créatures physiques qui peuvent traverser vers le Plan Éthéré, comme les **guenaudes nocturnes** (_Manuel des Monstres_, p. 178), les **cauchemars** (_Manuel des Monstres_, p. 235), et les **araignées de phase** (_Manuel des Monstres_, p. 334). (Voir **Matrones de la Malveillance** ci-dessous pour le chapitre sur les guenaudes nocturnes.)
+> 
+> La sous-section discutant des **araignées de phase** inclut une brève note marginale concernant l'immunité que la plupart des morts-vivants incorporels ont aux dégâts élémentaires, naturels et d'armes non magiques lorsqu'ils sont sur le Plan Matériel, ainsi que les moyens naturels que les araignées de phase ont développés pour contrer ces immunités grâce à l'utilisation de leurs crocs et de leur venin. Elle note qu'un lanceur de sorts peut infliger des dégâts à un esprit incorporel normalement en utilisant un croc d'araignée de phase comme composante matérielle supplémentaire pour lancer ses sorts, tandis qu'un combattant martial peut infliger des dégâts à un esprit incorporel en enduisant sa lame de venin d'araignée de phase ou d'eau bénite.
 >
-> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
->
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
->
-> - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
-> - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
->
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating their blade with phase spider venom or holy water.
->
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
->
-> The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
+> La sous-section discutant des **guenaudes nocturnes** inclut une brève note marginale concernant un rituel qui utilise le _**cœur-de-pierre**_ d'une guenaude nocturne et les énergies d'une ligne de force pour reproduire les effets du sort _Éthéréalité_ pour jusqu'à dix individus pendant une heure lors de la nuit de la pleine lune.
+> 
+> Le chapitre concernant les **guenaudes nocturnes** est intitulé "Guenaudes Nocturnes : Matrones de la Malveillance." Il se lit comme suit :
 > 
 > <hr>
->
-> Sly and subversive, night hags are the epitome of wickedness. They represent all that is evil and cruel in the world and want nothing more than to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness.
->
-> Once, night hags were creatures of the Feywild, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Hades long ago, where they degenerated into fiends. The foul taint of Hades twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
->
-> Though night hags resemble withered crones, there is nothing mortal about them. Their withered faces are framed by long, frayed hair and curled ram's horns; horrid moles and warts dot their blotchy pale-blue skin; and their long, skinny fingers are tipped by claws that can slice open flesh with a touch.
->
-> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mortal weapons alike, though the touch of silver wounds her like any other.
->
-> Arrogant to a fault, hags believe themselves to be the most cunning of creatures—and very often are. They are open to dealing with mortals, and will always keep their word—but a bargain with a hag is always dangerous. Hags enjoy watching mortals bring about their own downfall through these bargains, which often involve compromising their principles or giving up something dear.
->
-> A night hag's ultimate prize, however, is the soul of a corrupted mortal. While her victim sleeps, the night hag passes into the Ethereal Plane through the aid of her twisted onyx heartstone—an artifact that allows her to become Ethereal at the speed of thought. There, she invades her victim's very dreams, filling their head with doubts and fears in the hope of tricking it into performing evil acts in the waking world.
->
-> Night after night, she continues her visitations until the victim finally expires in its sleep—at which point she traps its corrupted soul in her soul bag as a dark trophy of her success. The blacker the stains upon the soul, the greater the night hag's bounty.
->
-> Like all hags, night hags propagate by snatching and devouring human infants. A week later, the hag gives birth to a daughter who appears human until her thirteenth birthday—at which point the child transforms into the spitting image of her hag mother.
->
-> Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
->
-> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
-
-> [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - Argynvost's Beacon#M4c. Spiders’ Ballroom|Arc M - Argynvost's Beacon]] for more information regarding the harvesting and use of phase spider parts.
-# H3. The Refugee Camp
-If it's been at least six hours since Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
-
-If Lady Wachter hasn't yet relocated the refugees, when the players first enter the refugee camp, read:
-
-<div class="description">
-<p>Past Vallaki's gates lies a cluster of ramshackle tents huddled against the wall, as though seeking shelter beneath the looming silhouette of the town's palisade walls. The tents themselves are laid out in a simple two-sided thoroughfare, with crude wooden barricades and muddy ditches beyond the far side facing out against the dark forest beyond.</p>
-<p>Through gaps in the threadbare canvas, you can see crude wooden pallets, makeshift bedrolls, and the occasional battered cooking pot. Small, low-burning cookfires dot the grimy narrow avenue, and piles of sticks and half-rotted logs rest haphazardly beside them.</p>
-<p>Dozens of people, their bodies gaunt and their faces drawn, move slowly about the camp. Their eyes are sunken and hollow, their clothes hanging loose on their thin frames. A few of them huddle about the campfires, bodies hunched against the chill air and hands outstretched for the meager warmth.</p>
-</div>
-
-## H3a. Inside the Camp
-If the players enter the camp, they are soon warily greeted by Emeric, a melancholy older man with graying hair, and Magda, a grief-stricken young woman with deep circles under their eyes. (While the camp doesn’t have any official leadership, Emeric and Magda were part of the initial wave of refugees from Barovia, and have pioneered the effort to welcome and organize the newcomers following Strahd’s siege.)
-
-Emeric and Magda are cautious of outsiders, but curious to know why the players have come to their camp. (Magda is briefly hopeful that the players are servants of Baron Vallakovich and that they have come to invite the refugees into Vallaki—a hope that Emeric, pointing to the players’ strange appearances, soon disabuses her of.)
-
-Emeric and Magda can share the following general information about the camp (modified as necessary depending on current events):
-
-* The first Barovian refugees arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-* Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>. (Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)
-
-If the players mention Ismark or Ireena, Emeric and Magda can tell them that many are cold toward Ireena, and all are unwilling to accept her offers of help. Some blame her, as well as Ismark "the Lesser" and the late Burgomaster of Barovia, for their failure to protect them from Strahd's awakening and invasion. Others recall a superstition that red-haired Barovian woman bring misfortune, and suggest that Ireena herself has brought a curse upon their people. None have any wish to deal with her further.
-
-If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
-
-Emeric and Magda are glad to take the players to see him, but warn them that Franz, a widower, has recently lost his children as well and is likely still grieving or disturbed. Magda further adds that Franz has suffered from a strange wasting disease ever since the nightmares first began, and offers her hope that the players may be able to treat him.
-## H3b. Franz’s Tent
-Emeric and Magda lead the players to a small, lonely tent set up at the end of the camp’s muddy avenue. When the players enter, read:
-
-<div class="description">
-<p>Within this sagging, cramped tent lie three stained pallets, two of which are child-sized. An old and patched stuffed rabbit lies across the closest pallet, its black button eyes staring sightlessly into the air.</p>
-<p>A young woman kneels in the mud beside the full-size pallet, clutching a bundle of wilted herbs in one fist and holding a damp rag over the forehead of a frail, gaunt-looking man lying across the pallet. The man's skin is pale and drenched in sweat, his clothes torn and ragged. Wispy, scraggled hair rises from his wrinkled scalp, while his face, illuminated beneath the dying light of a single, sputtering candle, is etched with exhaustion. A full moment passes before you realize that this ghost of a man is likely scarcely older than thirty.</p>
-</div>
-
-The man is Franz. The woman is his sister, a woman named Nyanka. Nyanka has been tending to Franz since morning, but has been unable to identify or treat his condition.
-
-Upon seeing the players, Franz wheezes with laughter and asks whether they are demons sent by Mother Night, come to drag his soul into the Mists. Nyanka apologizes for his behavior and mentions that he’s been delirious ever since the nightmares and sickness began.
-
-If the players ask Franz about the **night hag**, he first demands that Nyanka, Emeric, and Magda depart and leave him alone with the players. (None of the three other refugees mind this request.) Franz can then share the following information with the players:
-
-* Three months ago, not long after his wife, Alana died of illness, Franz joined the first two-dozen refugees who left the village of Barovia for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old Fyodor and five-year-old Myrtle—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
-* A few weeks after arriving in the camp, Franz began to purchase dream pastries from the peddler Morgantha. The visions brought by these pastries allowed him to dream of Alana, returned to his arms as though she had never died at all.
-* Franz purchased Morgantha’s dream pastries regularly, spending hours, then days lost in peaceful dreams. Eventually, however, his savings ran out, and Morgantha refused to sell him additional pastries—unless he paid a terrible price.
-* Three nights ago, Franz led Fyodor and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into a magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
-* As Morgantha turned to depart, Franz heard Myrtle cry out for him in her sleep, and immediately regretted what he had done. He demanded Morgantha return his children at once; when she laughed and told him their bargain was final, he attempted to take his children by force. With a wave of her hands, however, she put him to sleep—and when he awoke, she was nowhere to be found.
-* Franz searched the woods for hours, but found no trace of Morgantha or his children. When he finally collapsed, exhausted, back in his tent at the camp, he suffered terrible nightmares, which have repeated each night since.
-* In the nightmare, he is strapped to a millstone, its four arms raised above him. On his chest sits a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth, holding a twisted onyx-black stone against his forehead and whispering of damnation. In the background, he can hear Fyodor and Myrtle sobbing beyond his view, a pair of high-pitched cackles, and the sound of a windmill’s blades grinding in the wind. 
-* For the duration of the nightmare, Franz is paralyzed and unable to look away or even twitch a single muscle. Each time he awakens, his body wastes away before him. (Morgantha hasn't returned to the camp since the first nightmare.)
-
-With a croaking voice, Franz begs the players to save Fyodor and Myrtle from Morgantha’s clutches. While he believes that his current condition is a curse sent by the gods as punishment for his sins and welcomes the penance of death, he believes that his children don’t deserve the suffering that Morgantha is likely inflicting upon them. He can offer the players no gold and no treasure for their efforts—only his gratitude. 
-
-If the players ask, Franz can tell them that his sister Nyanka, who currently believes the children were devoured by werewolves in the Svalich Wood, would gladly watch and care for them while he recovers. "I know I don't deserve to be their father," he rasps, tears falling from his eyes. "All I want is to see them safe and happy."
-
-Before the players leave Franz’s tent, he grabs for the closest one and rasps, "I could feel it—the heart of the windmill—three black hearts beating as one in the millstone beneath me. The gnarled arm holds the key." He then collapses, falling into a deep, fitful sleep.
-
-> [!abstract]+ **Franz’s Fate**
->
-> The players can identify the nature of Franz’s current condition by consulting *Ethereal Entities* or by asking Dr. Rudolph van Richten for a diagnosis of his symptoms. If consulted, Van Richten informs the players that the only true way to end a **night hag's** ***nightmare haunting*** is to kill the hag herself or to strike a bargain with her. 
-# H4. Victor’s Plan
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
-
-As the players depart the refugee camp, one among them receives the following *sending* spell from [[Personnages Non-Joueurs#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
-
-When the players return to Victor’s workroom at the Burgomaster’s mansion, he provides them with the following information:
-
-* There are two possible ways to obtain a heartstone from a night hag: willingly, or by force. 
-* To obtain the heartstone willingly, the players must likely bargain something of great value in exchange for a loan of the heartstone. Hags are legendary dealmakers, and can be trusted to hew to the letter of their word—but *only* the letter.
-* To obtain the heartstone by force, the players will need to incapacitate or kill the hag. However, this is far more difficult for multiple reasons. First, hags tend to gather in covens of three, a practice that makes each hag stronger and provides easy access to allies. (Victor asks the players nervously whether the hag is known to have any “sisters” or “daughters.”) Second, **night hags** in particular can use their heartstones to flee into the Ethereal Plane as soon as they feel threatened—an escape mechanism that can’t be counteracted.
-* To prevent the hag from escaping into the Ethereal Plane mid-combat, the players will need to seal her in a binding circle before initiating hostilities. Victor also advises the players to obtain silvered weapons, which will be needed to bypass the hags’ strong demonic defenses.
-### The Heart of the Windmill
-If the players tell Victor about Franz's words, he recognizes the "twisted, onyx-black stone" as resembling the description of a night hag's heartstone provided in *Ethereal Entities.* 
-
-Victor isn't sure what Franz meant about "the heart of the windmill." (He's sure it's not a heartstone, because night hags always keep their heartstones on their person.)
-
-Victor recalls seeing information about the windmill in an old book of records in his father's library. (Victor recalls the book bitterly because Vargas made him write a report on Vallakian history as punishment when Victor spoke ill of the town's founder, Boris Vallakovich.)
-
-Upon retrieving the book, Victor opens it to reveal a blueprint of the windmill, located alongside the original assignment of land from Baron Boris Vallakovich to Gustav and Elisabeth Durst. He points out excitedly that the design for the millstone contains a compartment built into its side—likely as a place for storage. If the hags are hiding something other than a heartstone in the windmill, it's likely located in that compartment.
-### The Binding Ritual
-Victor anxiously informs the players that he has been unable to find a means of performing the binding ritual. Turning to the relevant page in his spellbook, he shows them an illustration that depicts a binding circle, but complains that the book itself provides no information about how to actually create one.
-
-Soon thereafter, Stella’s spirit can be seen excitedly gesturing from the *spirit mirror*. As he interprets her handsigns, Victor’s eyes widen and his face pales. “You can’t be serious,” he stammers. “Absolutely not!”
-
-If confronted by the players, Victor reluctantly reveals that Stella claims to have seen a similar binding circle while exploring the Ethereal Plane, but on a much larger scale: an enormous circle that surrounds the entirety of Wachterhaus and prevents her from entering the grounds. (Stella has been attempting to enter the estate in order to communicate with her mother, but has failed due to the circle’s presence.) Stella suspects that her mother, Lady Wachter, might know how to create one to bind the hags as well.
-
-Stella, through Victor, suggests that the players visit Wachterhaus to request Lady Wachter’s help in binding the night hags. Stella warns them that her mother is a cautious and skeptical woman, especially where the Vallakoviches are concerned; if Lady Wachter doesn’t believe the players’ story, they will likely need to ask her to disable Wachterhaus’s protective circle in order to allow Stella to show her presence.
-
-> [!lore]+ **Wachterhaus’s Protective Circle**
->
-> **_The Betrayal of Leo Dilisnya._** Strahd von Zarovich made many enemies over the course of his many conquests. One of them was a man named Leo Dilisnya, who hated Strahd for the death of his brother, Reinhold Dilisnya, the captain of a platoon that Strahd had knowingly sent to die in order to win a battle against the Order of the Silver Dragon.
->
-> When Strahd settled in Castle Ravenloft, Leo—a member of the Ba’al Verzi, a mysterious guild of assassins—began to plot his revenge. Hoping to gain closer access to Strahd, Leo became a castle guard, wearing the Von Zarovich livery while preparing the right moment to strike.
->
-> That moment finally came on the morning of Sergei’s wedding. With all attention focused on the blushing bride-to-be, Leo disguised himself in assassin’s clothes and climbed the stonework to reach Strahd’s private chambers. Even taken by surprise, however, Strahd was more than a match for Leo, disarming him of his cursed Ba’al Verzi blade and sending him fleeing through the window.
->
-> **_A New Opportunity._** Bitter and enraged, Leo hid himself away in his quarters to lick his wounds—until he learned that Sergei had been found murdered in his quarters, and that Strahd had chased Tatyana into the gardens while vowing to take her hand in marriage. Seeing an immediate opportunity, Leo gathered a contingent of the castle guards and directed them to attack Strahd in vengeance for the death of the beloved prince, Sergei.
->
-> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in <span class="citation">K65. Kitchen (p. 78)</span>.
->
-> When Strahd arose as a vampire, Leo fled into <span class="citation">K23. Servants' Entrance (p. 59)</span>, down through **K62. Servants’ Hall**, and through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
->
-> **_Leo's Punishment._** Leo successfully escaped Castle Ravenloft along with a half-dozen of the traitorous guards. Years later, however, with Lovina’s aid, Strahd tracked Leo to the darkened corridors of the now-abandoned Abbey of Saint Markovia.
->
-> Strahd transformed Leo into a vampire spawn and, with Lovina’s approval, entombed him in a mausoleum beneath the Wachters’ manor where he would suffer for his crimes for all eternity. As a safeguard in the chance that Leo somehow escaped, Strahd crafted for Lovina a magical ruby amulet that, when broken, would kill Leo instantly.
 > 
-> **_Enter Fiona Wachter._** Centuries passed, and Fiona Wachter was born, the daughter of Balthazar and Lavinia Wachter and the younger sister of Frederich Wachter. Although Fiona’s parents never told her the true nature of the vampire sealed below their estate, they often told her of the “monster in the basement” that fed on disobedient children and forbade her from ever entering the cellar.
+> Rusées et subversives, les guenaudes nocturnes sont l'incarnation de la méchanceté. Elles représentent tout ce qui est mauvais et cruel dans le monde et ne désirent rien de plus que de voir les vertueux se tourner vers la vilenie : l'amour transformé en obsession, la bonté en haine, la dévotion en indifférence, et la générosité en égoïsme.
+> 
+> Autrefois, les guenaudes nocturnes étaient des créatures de la Féerie, un royaume d'enchantement et de beauté. Cependant, leur infamie les a vues exilées dans le royaume sinistre d'Hadès il y a longtemps, où elles ont dégénéré en fiélons. La souillure immonde d'Hadès a tordu leur nature jadis féerique, et les guenaudes nocturnes ont depuis longtemps répandu leur malveillance à travers les Plans Inférieurs.
+> 
+> Bien que les guenaudes nocturnes ressemblent à des vieilles femmes flétries, il n'y a rien de mortel en elles. Leurs visages desséchés sont encadrés de longs cheveux effilochés et de cornes de bélier recourbées ; d'horribles grains de beauté et verrues parsèment leur peau bleu pâle tachetée ; et leurs longs doigts squelettiques sont terminés par des griffes qui peuvent lacérer la chair d'un simple toucher.
 >
-> When she was sixteen years old, the teenage Fiona had an explosive argument with her parents and brother. In her anger, Fiona toppled a shelf of fine porcelain and jewelry—including, among them, the magical amulet that Strahd had once forged for Lovina Wachter. Though Fiona had no knowledge of Leo’s existence or the amulet’s true nature, Leo died the moment that it shattered, his soul finally freed from the prison of his body.
+> Toutes les guenaudes possèdent des pouvoirs magiques, y compris la capacité d'altérer leur forme ou de maudire leurs ennemis. Une guenaude possède également une certaine résistance à la magie et aux armes mortelles, bien que le contact de l'argent la blesse comme n'importe quelle autre créature.
+> 
+> Arrogantes à l'extrême, les guenaudes se considèrent comme les créatures les plus rusées qui soient - et le sont très souvent. Elles sont ouvertes à traiter avec les mortels, et tiendront toujours parole - mais un marché avec une guenaude est toujours dangereux. Les guenaudes prennent plaisir à regarder les mortels provoquer leur propre chute à travers ces marchés, qui impliquent souvent de compromettre leurs principes ou d'abandonner quelque chose qui leur est cher.
+> 
+> Cependant, le plus grand prix pour une guenaude nocturne est l'âme d'un mortel corrompu. Pendant que sa victime dort, la guenaude nocturne passe dans le Plan Éthéré grâce à l'aide de son cœur-de-pierre d'onyx tordu - un artefact qui lui permet de devenir éthérée à la vitesse de la pensée. Là, elle envahit les rêves mêmes de sa victime, remplissant sa tête de doutes et de peurs dans l'espoir de la piéger à commettre des actes maléfiques dans le monde éveillé.
+> 
+> Nuit après nuit, elle poursuit ses visitations jusqu'à ce que la victime expire finalement dans son sommeil - moment auquel elle piège son âme corrompue dans son sac d'âmes comme un sombre trophée de son succès. Plus les taches sur l'âme sont noires, plus grande est la récompense de la guenaude nocturne.
 >
-> **_The Haunted Estate._** Soon after Fiona fled from Wachterhaus, Leo’s spirit—now a part of the **gallows speaker** that had arisen from his compatriots’ gruesome deaths centuries before—returned to haunt and terrorize the estate. Objects were found in strange places, and food mysteriously spoiled. Portraits were found damaged or defaced, and the family was often awoken by chilling howls or loud knocks on their doors and windows.
->
-> Fiona’s father, Balthazar Wachter, sought the advice of an amateur occultist that dwelled in Vallaki. The family stripped the flesh from Leo’s bones and sealed them in a chest under lock and key. That, however, only enraged Leo further. That same night, the **gallows speaker** began appearing to the Wachters as an apparition in reflections in mirrors and windows. Within days, it had escalated its activities to physical violence, throwing items across rooms, shattering glass windows, and even starting spontaneous fires.
->
-> Desperate for a solution, Frederich Wachter, Fiona’s elder brother, learned that a powerful witch named Baba Lysaga dwelled in the swamps of Berez nearby. Alone, and without his parents’ knowledge, Frederich traveled to Berez in search of answers. When a **will-’o-wisp** lured Frederich into a hidden bog, however, he was rescued by Fiona herself, who had since become a student and disciple of Baba Lysaga.
->
-> Frederich begged her to return to Wachterhaus to help them, but Fiona—wary of her brothers’ intentions and still harboring resentment from her fight with their parents—lied and told him harshly that Baba Lysaga had no magic with which to help him. (In truth, Baba Lysaga taught all of her students the means to create a protective circle soon after they arrived in Berez, as a means of defense against the **phase spiders** that haunted the swamps.)
->
-> **_Leo's Revenge._** Despondent, Frederich returned to Vallaki empty-handed. Bereft of a better solution, Balthazar Wachter obtained candles, incense, and holy invocations from the occultist and led the family in a seance to exorcise the spirit from Wachterhaus.
->
-> The seance, however, proved unsuccessful. Rather than banishing Leo’s spirit, it provided him an opening into the Material Plane that allowed him to fulfill his murderous vengeance. Two weeks later, the Baron’s guards found the three Wachters dead—though by all signs untouched—on the floor of Wachterhaus’s master bedroom. Leo had killed them before returning to haunt Castle Ravenloft, satisfied with his revenge at last.
->
-> **_Fiona's Return._** Two weeks later, one of Baba Lysaga’s other disciples, following a routine trip to Vallaki to obtain supplies, told Fiona that her family had been found dead in their house in the midst of a seance. Realizing the depths of her mistake and overcome with guilt, Fiona confronted Baba Lysaga and told her that she intended to return to her family home. Baba Lysaga banished Fiona for her decision, and Fiona departed Berez for good.
->
-> Soon after her return to Wachterhaus, Fiona—now bearing the title of “Lady Wachter” following her parents’ death—determined that a spirit had been responsible for the death of her family. Although the spirit appeared to have departed, she feared that it might choose to one day return. With the magic that Baba Lysaga had taught her, she established a protective circle around the entirety of the Wachterhaus estate, barring any ethereal creature that may wish to cross its boundaries. The **gallows speaker** hasn’t returned in all the years since then, but Lady Wachter renews the protective circle once each year, both out of habit and from a wariness that her parents’ killer might one day return.
-# H5. Wachterhaus
-<span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
+> Comme toutes les guenaudes, les guenaudes nocturnes se reproduisent en kidnappant et dévorant des nourrissons humains. Une semaine plus tard, la guenaude donne naissance à une fille qui semble humaine jusqu'à son treizième anniversaire - moment où l'enfant se transforme en l'image exacte de sa mère guenaude.
+> 
+> Certaines guenaudes élèvent les filles qu'elles engendrent, créant des sabbats qui amplifient leur pouvoir. Les membres d'un sabbat gagnent une multitude de capacités surnaturelles, y compris le pouvoir de contrôler les éléments et - une fois par jour - de dissiper la magie étrangère aux alentours de leur repaire. Comme c'est le cas pour toute magie de guenaude, cependant, un tel pouvoir a un prix - car une blessure subie par une seule guenaude dans un sabbat est subie par toutes.
+> 
+> Pour combattre leurs natures intrinsèquement égoïstes, les guenaudes d'un sabbat doivent conclure un contrat écrit avec les autres, signé du vrai nom de chaque guenaude. Les guenaudes d'un sabbat gardent jalousement leur contrat, le scellant souvent au cœur de leur repaire, toujours prudentes pour empêcher leurs noms de tomber entre les mains ennemies.
 
-Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]] and [[Arc D - The Tome of Strahd]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+>[!info]+ **Récolte des Araignées de Phase** 
+>Les joueurs rencontreront plus tard des **araignées de phase** à Argynvostholt et auront l'opportunité de récolter leurs crocs et leur venin pour combattre les **guerriers fantômes** qui rôdent là-bas. Voir [[Arc M - Le Phare d'Argynvost#M4c. Salle de Bal des Araignées|Arc M - Le Phare d'Argynvost]] pour plus d'informations concernant la récolte et l'utilisation des parties d'araignées de phase.
+# H3. Le Camp des Réfugiés
 
-Players that have previously dined with Lady Wachter are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, Lady Wachter’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
+Si cela fait au moins six heures depuis l'inauguration de Dame Wachter dans [[Arc F - Le Souhait de Dame Wachter]], le camp de réfugiés a été relocalisé vers <span class="citation">N8. Place de la Ville (p. 119)</span>. (Les réfugiés vivent toujours sous des tentes, cependant, pendant que Dame Wachter travaille à leur trouver un logement convenable.)
+
+Si Dame Wachter n'a pas encore relocalisé les réfugiés, lorsque les joueurs entrent pour la première fois dans le camp des réfugiés, lisez :
+
+<div class="description"> <p>Au-delà des portes de Vallaki se trouve un groupe de tentes délabrées blotties contre le mur, comme cherchant un abri sous la silhouette menaçante des palissades de la ville. Les tentes elles-mêmes sont disposées le long d'une voie simple à double sens, avec des barricades en bois brut et des fossés boueux au-delà du côté le plus éloigné, face à la sombre forêt.</p> <p>À travers les trous dans la toile usée, vous pouvez voir des palettes en bois brut, des couchages de fortune, et occasionnellement une marmite cabossée. De petits feux de camp à basse combustion parsèment l'avenue boueuse, et des piles de bâtons et de bûches à moitié pourries reposent pêle-mêle à côté d'eux.</p> <p>Des dizaines de personnes, leurs corps décharnés et leurs visages tirés, se déplacent lentement dans le camp. Leurs yeux sont creux et vides, leurs vêtements pendant lâchement sur leurs corps amaigris. Quelques-uns sont regroupés autour des feux de camp, le corps recroquevillé contre l'air froid et les mains tendues vers la maigre chaleur.</p> </div>
+
+## H3a. À l'Intérieur du Camp
+
+Si les joueurs entrent dans le camp, ils sont bientôt accueillis avec méfiance par Emeric, un homme âgé mélancolique aux cheveux grisonnants, et Magda, une jeune femme affligée avec de profonds cernes sous les yeux. (Bien que le camp n'ait pas de direction officielle, Emeric et Magda faisaient partie de la première vague de réfugiés de Barovia, et ont été pionniers dans l'effort d'accueillir et d'organiser les nouveaux arrivants après le siège de Strahd.)
+
+Emeric et Magda sont méfiants envers les étrangers, mais curieux de savoir pourquoi les joueurs sont venus dans leur camp. (Magda espère brièvement que les joueurs sont des serviteurs du Baron Vallakovich et qu'ils sont venus pour inviter les réfugiés à Vallaki - un espoir qu'Emeric, pointant les apparences étranges des joueurs, dissipe rapidement.)
+
+Emeric et Magda peuvent partager les informations générales suivantes sur le camp (modifiées selon nécessité en fonction des événements actuels) :
+
+- Les premiers réfugiés baroviens sont arrivés aux portes de Vallaki il y a trois mois, mais on leur a interdit l'entrée. Lorsqu'ils ont tenté de forcer les portes, les gardes ont appelé un homme qu'ils nommaient Izek, qui portait un bras démoniaque tordu et a invoqué du feu pour repousser les réfugiés.
+- Depuis lors, les réfugiés ont installé leur camp à l'extérieur des murs de la ville, se regroupant pour se protéger et se réchauffer. Ils ont réussi à obtenir quelques nécessités mineures, comme les tentes, en soudoyant les gardes aux portes, mais n'ont pas réussi à persuader les gardes de leur permettre d'entrer ou même d'inviter le Baron de la ville à discuter de leur situation.
+- Des nuées de chauves-souris et des meutes de loups ont tourmenté le camp chaque nuit depuis leur arrivée. Heureusement, personne n'est mort encore, mais plusieurs réfugiés ont été blessés.
+- En raison des pertes subies sur la route et de la menace du Diable dans le Château Ravenloft, les réfugiés ne sont pas disposés à risquer le voyage de retour chez eux, espérant plutôt attendre que le Baron entende raison et leur permette d'entrer dans les murs.
+- Environ un quart des réfugiés sont devenus dépendants aux "tartes aux rêves", une nourriture vendue par la marchande Morgantha. Ces réfugiés cherchent à échapper à la misère et au désespoir de leur situation. Ceux qui mangent une tarte aux rêves tombent en transe comme décrit dans <span class="citation">Tartes aux Rêves (p. 125)</span>. (Emeric et Magda peuvent ajouter que Morgantha n'est pas venue au camp depuis quelques jours.)
+
+Si les joueurs mentionnent Ismark ou Ireena, Emeric et Magda peuvent leur dire que beaucoup sont froids envers Ireena, et tous sont réticents à accepter ses offres d'aide. Certains la blâment, ainsi qu'Ismark "le Moindre" et le défunt Bourgmestre de Barovia, pour leur échec à les protéger du réveil et de l'invasion de Strahd. D'autres se souviennent d'une superstition selon laquelle les femmes baroviennes aux cheveux roux portent malheur, et suggèrent qu'Ireena elle-même a apporté une malédiction sur leur peuple. Aucun n'a le désir de traiter davantage avec elle.
+
+Si les joueurs demandent à propos de la **guenaude nocturne**, Emeric et Magda échangent des regards et les informent que leur description correspond à celle d'un cauchemar récurrent dont Franz, un autre réfugié, souffre depuis les deux dernières nuits.
+
+Emeric et Magda sont heureux d'emmener les joueurs le voir, mais les préviennent que Franz, un veuf, a récemment perdu ses enfants aussi et est probablement encore en deuil ou perturbé. Magda ajoute en plus que Franz souffre d'une étrange maladie débilitante depuis que les cauchemars ont commencé, et exprime son espoir que les joueurs puissent être capables de le soigner.
+
+## H3b. La Tente de Franz
+
+Emeric et Magda conduisent les joueurs vers une petite tente solitaire installée au bout de l'avenue boueuse du camp. Quand les joueurs entrent, lisez :
+
+<div class="description"> <p>Dans cette tente affaissée et exiguë se trouvent trois paillasses tachées, dont deux sont de taille enfant. Un vieux lapin en peluche rapiécé repose sur la paillasse la plus proche, ses yeux de boutons noirs fixant le vide.</p> <p>Une jeune femme s'agenouille dans la boue à côté de la paillasse de taille adulte, tenant une poignée d'herbes fanées dans un poing et maintenant un chiffon humide sur le front d'un homme frêle et décharné allongé sur la paillasse. La peau de l'homme est pâle et trempée de sueur, ses vêtements déchirés et en lambeaux. Ses cheveux clairsemés et échevelés s'élèvent de son crâne ridé, tandis que son visage, éclairé par la lueur mourante d'une seule bougie vacillante, est marqué par l'épuisement. Un moment complet passe avant que vous ne réalisiez que ce fantôme d'homme a probablement à peine plus de trente ans.</p> </div>
+
+L'homme est Franz. La femme est sa sœur, une femme nommée Nyanka. Nyanka s'occupe de Franz depuis le matin, mais n'a pas réussi à identifier ou à traiter son état.
+
+En voyant les joueurs, Franz laisse échapper un rire sifflant et demande s'ils sont des démons envoyés par la Mère Nuit, venus traîner son âme dans les Brumes. Nyanka s'excuse pour son comportement et mentionne qu'il est délirant depuis que les cauchemars et la maladie ont commencé.
+
+Si les joueurs interrogent Franz au sujet de la **guenaude nocturne**, il exige d'abord que Nyanka, Emeric et Magda partent et le laissent seul avec les joueurs. (Aucun des trois autres réfugiés ne s'oppose à cette demande.) Franz peut alors partager les informations suivantes avec les joueurs :
+
+- Il y a trois mois, peu après que sa femme, Alana, soit morte de maladie, Franz a rejoint les deux premières douzaines de réfugiés qui ont quitté le village de Barovia pour la ville fortifiée de Vallaki à l'ouest. Franz a amené leurs deux enfants - Fyodor, sept ans, et Myrtle, cinq ans - avec lui à Vallaki, espérant les garder en sécurité des serviteurs de Strahd.
+- Quelques semaines après leur arrivée au camp, Franz a commencé à acheter des tartes aux rêves à la marchande Morgantha. Les visions apportées par ces tartes lui permettaient de rêver d'Alana, revenue dans ses bras comme si elle n'était jamais morte.
+- Franz achetait régulièrement les tartes aux rêves de Morgantha, passant des heures, puis des jours perdus dans des rêves paisibles. Finalement, cependant, ses économies se sont épuisées, et Morgantha a refusé de lui vendre des tartes supplémentaires - à moins qu'il ne paie un prix terrible.
+- Il y a trois nuits, Franz a conduit Fyodor et Myrtle en bas, au-delà de la ligne d'arbres à la lisière des bois. Là, Morgantha a plongé les enfants dans un sommeil magique et les a fourrés dans un sac qu'elle portait sur son épaule. En retour, elle a promis à Franz autant de tartes aux rêves qu'il pourrait en manger, à chaque fois qu'elle reviendrait, pour le reste de sa vie.
+- Alors que Morgantha s'apprêtait à partir, Franz a entendu Myrtle l'appeler dans son sommeil, et a immédiatement regretté ce qu'il avait fait. Il a exigé que Morgantha lui rende ses enfants sur-le-champ ; quand elle a ri et lui a dit que leur marché était définitif, il a tenté de reprendre ses enfants par la force. Cependant, d'un geste de la main, elle l'a endormi - et quand il s'est réveillé, elle avait disparu.
+- Franz a cherché dans les bois pendant des heures, mais n'a trouvé aucune trace de Morgantha ou de ses enfants. Quand il s'est finalement effondré, épuisé, dans sa tente au camp, il a souffert de terribles cauchemars, qui se sont répétés chaque nuit depuis.
+- Dans le cauchemar, il est attaché à une meule de moulin, ses quatre bras levés au-dessus de lui. Sur sa poitrine est assise une silhouette décharnée aux traits féminins avec une peau gris-bleu blafarde, des yeux enfoncés, des cheveux emmêlés, de petites cornes de bélier, et une large bouche aux dents jaunes et pointues, tenant une pierre d'onyx tordue noire contre son front et murmurant de damnation. En arrière-plan, il peut entendre Fyodor et Myrtle sangloter hors de sa vue, une paire de ricanements aigus, et le son des pales d'un moulin qui grincent dans le vent.
+- Pendant toute la durée du cauchemar, Franz est paralysé et incapable de détourner le regard ou même de bouger un seul muscle. Chaque fois qu'il se réveille, son corps dépérit devant lui. (Morgantha n'est pas revenue au camp depuis le premier cauchemar.)
+
+D'une voix rauque, Franz supplie les joueurs de sauver Fyodor et Myrtle des griffes de Morgantha. Bien qu'il croie que son état actuel est une malédiction envoyée par les dieux comme punition pour ses péchés et qu'il accueille la pénitence de la mort, il pense que ses enfants ne méritent pas la souffrance que Morgantha leur inflige probablement. Il ne peut offrir aux joueurs ni or ni trésor pour leurs efforts - seulement sa gratitude.
+
+Si les joueurs demandent, Franz peut leur dire que sa sœur Nyanka, qui croit actuellement que les enfants ont été dévorés par des loups-garous dans le Bois Svalich, garderait volontiers les enfants pendant qu'il se rétablit. "Je sais que je ne mérite pas d'être leur père," dit-il d'une voix rauque, les larmes coulant de ses yeux. "Tout ce que je veux, c'est les voir en sécurité et heureux."
+
+Avant que les joueurs ne quittent la tente de Franz, il agrippe le plus proche d'entre eux et murmure : "Je pouvais le sentir - le cœur du moulin - trois cœurs noirs battant comme un seul dans la meule sous moi. Le bras tordu détient la clé." Il s'effondre alors, tombant dans un sommeil agité et profond.
+
+> [!abstract]+ **Le Destin de Franz**
+> 
+> Les joueurs peuvent identifier la nature de l'état actuel de Franz en consultant _Entités Éthérées_ ou en demandant au Dr Rudolph van Richten un diagnostic de ses symptômes. Si consulté, Van Richten informe les joueurs que le seul véritable moyen de mettre fin au _**tourment cauchemardesque**_ d'une **guenaude nocturne** est soit de tuer la guenaude elle-même, soit de conclure un marché avec elle.
+
+# H4. Le Plan de Victor
+
+<span class="citation">Cette scène se déroule dans le Chapitre 5 : Zone N3t.</span>
+
+Alors que les joueurs quittent le camp de réfugiés, l'un d'entre eux reçoit le sort de _message_ suivant de [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] : "L'avez-vous trouvée ? Revenez au grenier. J'ai un plan."
+
+Quand les joueurs retournent à l'atelier de Victor dans le manoir du Bourgmestre, il leur fournit les informations suivantes :
+
+- Il existe deux façons possibles d'obtenir un cœur-de-pierre d'une guenaude nocturne : volontairement, ou par la force.
+- Pour obtenir le cœur-de-pierre volontairement, les joueurs devront probablement négocier quelque chose de grande valeur en échange d'un prêt du cœur-de-pierre. Les guenaudes sont des négociatrices légendaires, et on peut leur faire confiance pour s'en tenir à la lettre de leur parole - mais _uniquement_ à la lettre.
+- Pour obtenir le cœur-de-pierre par la force, les joueurs devront neutraliser ou tuer la guenaude. Cependant, c'est beaucoup plus difficile pour plusieurs raisons. Premièrement, les guenaudes ont tendance à se rassembler en sabbats de trois, une pratique qui rend chaque guenaude plus forte et fournit un accès facile à des alliées. (Victor demande nerveusement aux joueurs si la guenaude est connue pour avoir des "sœurs" ou des "filles".) Deuxièmement, les **guenaudes nocturnes** en particulier peuvent utiliser leurs cœurs-de-pierre pour s'enfuir dans le Plan Éthéré dès qu'elles se sentent menacées - un mécanisme d'évasion qui ne peut pas être contré.
+- Pour empêcher la guenaude de s'échapper dans le Plan Éthéré pendant le combat, les joueurs devront la sceller dans un cercle de protection avant d'engager les hostilités. Victor conseille également aux joueurs de se procurer des armes en argent, qui seront nécessaires pour contourner les puissantes défenses démoniaques des guenaudes.
+
+### Le Cœur du Moulin
+
+Si les joueurs parlent à Victor des paroles de Franz, il reconnaît la "pierre d'onyx noire tordue" comme ressemblant à la description d'un cœur-de-pierre de guenaude nocturne fournie dans _Entités Éthérées_.
+
+Victor n'est pas sûr de ce que Franz voulait dire par "le cœur du moulin." (Il est certain que ce n'est pas un cœur-de-pierre, car les guenaudes nocturnes gardent toujours leurs cœurs-de-pierre sur elles.)
+
+Victor se souvient avoir vu des informations sur le moulin dans un vieux livre de registres de la bibliothèque de son père. (Victor se souvient amèrement de ce livre car Vargas lui avait fait écrire un rapport sur l'histoire de Vallaki comme punition lorsque Victor avait mal parlé du fondateur de la ville, Boris Vallakovich.)
+
+En récupérant le livre, Victor l'ouvre pour révéler un plan du moulin, situé à côté de l'attribution originale du terrain par le Baron Boris Vallakovich à Gustav et Elisabeth Durst. Il fait remarquer avec excitation que la conception de la meule contient un compartiment construit dans son côté - probablement comme un espace de stockage. Si les guenaudes cachent quelque chose d'autre qu'un cœur-de-pierre dans le moulin, c'est probablement situé dans ce compartiment.
+
+### Le Rituel de Protection
+
+Victor informe anxieusement les joueurs qu'il n'a pas réussi à trouver un moyen d'effectuer le rituel de protection. Se tournant vers la page pertinente dans son grimoire, il leur montre une illustration qui dépeint un cercle de protection, mais se plaint que le livre lui-même ne fournit aucune information sur la façon de réellement en créer un.
+
+Peu après, l'esprit de Stella peut être vu gesticulant avec excitation depuis le _miroir spirituel_. Alors qu'il interprète ses signes de main, les yeux de Victor s'écarquillent et son visage pâlit. "Tu ne peux pas être sérieuse," bégaie-t-il. "Absolument pas !"
+
+Si les joueurs le confrontent, Victor révèle à contrecœur que Stella affirme avoir vu un cercle de protection similaire en explorant le Plan Éthéré, mais à une échelle beaucoup plus grande : un cercle énorme qui entoure l'entièreté de la maison Wachter et l'empêche d'entrer sur le domaine. (Stella a tenté d'entrer dans la propriété pour communiquer avec sa mère, mais a échoué en raison de la présence du cercle.) Stella soupçonne que sa mère, Dame Wachter, pourrait savoir comment en créer un pour lier les guenaudes également.
+
+Stella, à travers Victor, suggère que les joueurs visitent la maison Wachter pour demander l'aide de Dame Wachter pour lier les guenaudes nocturnes. Stella les prévient que sa mère est une femme prudente et sceptique, particulièrement en ce qui concerne les Vallakovich ; si Dame Wachter ne croit pas l'histoire des joueurs, ils devront probablement lui demander de désactiver le cercle de protection de la maison Wachter afin de permettre à Stella de manifester sa présence.
+
+>[!lore]+ **Le Cercle de Protection de la Maison Wachter**
+>
+>**_La Trahison de Leo Dilisnya._** Strahd von Zarovich s'est fait beaucoup d'ennemis au cours de ses nombreuses conquêtes. L'un d'eux était un homme nommé Leo Dilisnya, qui haïssait Strahd pour la mort de son frère, Reinhold Dilisnya, le capitaine d'un peloton que Strahd avait sciemment envoyé à la mort afin de gagner une bataille contre l'Ordre du Dragon d'Argent.
+>
+>Quand Strahd s'est installé au Château Ravenloft, Leo - membre des Ba'al Verzi, une mystérieuse guilde d'assassins - a commencé à comploter sa vengeance. Espérant obtenir un accès plus proche de Strahd, Leo est devenu garde du château, portant la livrée des Von Zarovich tout en préparant le bon moment pour frapper.
+>
+>Ce moment est finalement venu le matin du mariage de Sergei. Avec toute l'attention focalisée sur la future mariée rougissante, Leo s'est déguisé en vêtements d'assassin et a escaladé la maçonnerie pour atteindre les appartements privés de Strahd. Même pris par surprise, cependant, Strahd était plus que capable de faire face à Leo, le désarmant de sa lame maudite des Ba'al Verzi et l'envoyant fuir par la fenêtre.
+>
+>**_Une Nouvelle Opportunité._** Amer et enragé, Leo s'est caché dans ses quartiers pour panser ses blessures - jusqu'à ce qu'il apprenne que Sergei avait été trouvé assassiné dans ses appartements, et que Strahd avait poursuivi Tatyana dans les jardins tout en jurant de prendre sa main en mariage. Voyant une opportunité immédiate, Leo a rassemblé un contingent des gardes du château et leur a ordonné d'attaquer Strahd pour venger la mort du prince bien-aimé, Sergei.
+>
+>Cependant, le complot de Leo n'est pas resté sans opposition. La sœur aînée de Leo, Lovina Wachter née Dilisnya - maintenant l'épouse de Vladislav Wachter - a mené les gardes personnels de sa famille pour défendre Strahd. Les gardes traîtres de Leo ont repoussé les Wachter dans **K62. La Salle des Serviteurs**, tuant le mari de Lovina et massacrant beaucoup de ses parents. Là, Lovina et sa famille ont trouvé refuge aux côtés de Katarina, une servante du château et (à l'insu de Strahd) la demi-sœur secrète de Strahd, dans <span class="citation">K65. La Cuisine (p. 78)</span>.
+>
+>Lorsque Strahd s'est relevé en tant que vampire, Leo s'est enfui dans <span class="citation">K23. L'Entrée des Serviteurs (p. 59)</span>, à travers **K62. La Salle des Serviteurs**, et à travers <span class="citation">K67. Le Couloir des Os (p. 78)</span> jusqu'à <span class="citation">K68. Le Passage des Gardes (p. 79)</span>. Alors que Strahd poursuivait, il a massacré les gardes qui terrorisaient les Wachter, et - dans un moment de rare lucidité - a remercié les Wachter pour leur loyauté et a permis à Lovina et Katarina de partir en paix. Tandis que Strahd baignait la pierre du Château Ravenloft dans le sang des gardes du château - innocents et traîtres confondus - leurs esprits se sont combinés dans la mort pour former un terrible **orateur des potences** (<span class="citation">Guide de Van Richten sur Ravenloft, p. 234</span>) qui hanterait le Château Ravenloft pendant des années.
+>
+>**_La Punition de Leo._** Leo a réussi à s'échapper du Château Ravenloft avec une demi-douzaine de gardes traîtres. Des années plus tard, cependant, avec l'aide de Lovina, Strahd a retrouvé Leo dans les corridors obscurs de l'Abbaye de Sainte Markovia maintenant abandonnée.
+>
+>Strahd a transformé Leo en rejeton vampirique et, avec l'approbation de Lovina, l'a enterré dans un mausolée sous le manoir des Wachter où il souffrirait de ses crimes pour l'éternité. Comme précaution au cas où Leo s'échapperait d'une manière ou d'une autre, Strahd a fabriqué pour Lovina un amulette magique en rubis qui, une fois brisée, tuerait Leo instantanément.
+>
+>**_Entre Fiona Wachter._** Les siècles ont passé, et Fiona Wachter est née, fille de Balthazar et Lavinia Wachter et sœur cadette de Frederich Wachter. Bien que les parents de Fiona ne lui aient jamais révélé la véritable nature du vampire scellé sous leur domaine, ils lui parlaient souvent du "monstre dans la cave" qui se nourrissait des enfants désobéissants et lui interdisaient d'entrer dans la cave.
+>
+>Quand elle avait seize ans, l'adolescente Fiona a eu une violente dispute avec ses parents et son frère. Dans sa colère, Fiona a renversé une étagère de porcelaine fine et de bijoux - y compris, parmi eux, l'amulette magique que Strahd avait autrefois forgée pour Lovina Wachter. Bien que Fiona n'ait eu aucune connaissance de l'existence de Leo ou de la véritable nature de l'amulette, Leo est mort au moment où elle s'est brisée, son âme enfin libérée de la prison de son corps.
+>
+> **_Le Domaine Hanté._** Peu après que Fiona se soit enfuie de la maison Wachter, l'esprit de Leo - maintenant une partie de l'**orateur des potences** qui était né des morts atroces de ses compagnons des siècles auparavant - est revenu hanter et terroriser le domaine. Des objets étaient trouvés à des endroits étranges, et la nourriture pourrissait mystérieusement. Des portraits étaient retrouvés endommagés ou défigurés, et la famille était souvent réveillée par des hurlements glaçants ou de forts coups sur leurs portes et fenêtres.
+> 
+> Le père de Fiona, Balthazar Wachter, a cherché conseil auprès d'un occultiste amateur qui habitait à Vallaki. La famille a dépouillé la chair des os de Leo et les a scellés dans un coffre sous clé. Cela, cependant, n'a fait qu'enrager Leo davantage. Cette même nuit, l'**orateur des potences** a commencé à apparaître aux Wachter comme une apparition dans les reflets des miroirs et des fenêtres. En quelques jours, il avait intensifié ses activités jusqu'à la violence physique, jetant des objets à travers les pièces, brisant les vitres des fenêtres, et même déclenchant des incendies spontanés.
+> 
+> Désespéré de trouver une solution, Frederich Wachter, le frère aîné de Fiona, a appris qu'une puissante sorcière nommée Baba Lysaga habitait dans les marais de Berez à proximité. Seul, et à l'insu de ses parents, Frederich s'est rendu à Berez en quête de réponses. Quand un **feu follet** a attiré Frederich dans un marécage caché, cependant, il a été secouru par Fiona elle-même, qui était depuis devenue une étudiante et disciple de Baba Lysaga.
+>
+> Frederich l'a suppliée de revenir à la maison Wachter pour les aider, mais Fiona - méfiante des intentions de son frère et nourrissant toujours du ressentiment suite à sa dispute avec leurs parents - lui a menti durement en lui disant que Baba Lysaga n'avait aucune magie pour l'aider. (En vérité, Baba Lysaga enseignait à tous ses étudiants les moyens de créer un cercle de protection peu après leur arrivée à Berez, comme moyen de défense contre les **araignées de phase** qui hantaient les marais.)
+> 
+> **_La Vengeance de Leo._** Désespéré, Frederich est retourné à Vallaki les mains vides. À défaut d'une meilleure solution, Balthazar Wachter a obtenu des bougies, de l'encens et des invocations sacrées de l'occultiste et a dirigé la famille dans une séance pour exorciser l'esprit de la maison Wachter.
+> 
+> La séance, cependant, s'est révélée infructueuse. Plutôt que de bannir l'esprit de Leo, elle lui a fourni une ouverture vers le Plan Matériel qui lui a permis d'accomplir sa vengeance meurtrière. Deux semaines plus tard, les gardes du Baron ont trouvé les trois Wachter morts - bien que sans aucune marque apparente - sur le sol de la chambre principale de la maison Wachter. Leo les avait tués avant de retourner hanter le Château Ravenloft, enfin satisfait de sa vengeance.
+> 
+> **_Le Retour de Fiona._** Deux semaines plus tard, l'un des autres disciples de Baba Lysaga, lors d'un voyage de routine à Vallaki pour obtenir des provisions, a dit à Fiona que sa famille avait été trouvée morte dans leur maison au milieu d'une séance. Réalisant la profondeur de son erreur et submergée par la culpabilité, Fiona a confronté Baba Lysaga et lui a dit qu'elle avait l'intention de retourner dans sa maison familiale. Baba Lysaga a banni Fiona pour sa décision, et Fiona a quitté Berez définitivement.
+>
+> **_Le Retour de Fiona._** Peu après son retour à la maison Wachter, Fiona - portant maintenant le titre de "Dame Wachter" suite à la mort de ses parents - a déterminé qu'un esprit avait été responsable de la mort de sa famille. Bien que l'esprit semblait être parti au moment où Fiona est revenue, elle craignait qu'il ne choisisse un jour de revenir. Avec la magie que Baba Lysaga lui avait enseignée, elle a établi un cercle de protection autour de l'ensemble du domaine de la maison Wachter, interdisant à toute créature éthérée qui pourrait vouloir franchir ses frontières de le faire. L'**orateur des potences** n'est pas revenu durant toutes les années qui ont suivi, mais Dame Wachter renouvelle le cercle de protection une fois par an, à la fois par habitude et par méfiance que le meurtrier de ses parents puisse un jour revenir.
+
+# H5. La Maison Wachter
+
+<span class="citation">Cette scène se déroule dans le Chapitre 5 : Zone N4.</span>
+
+La maison Wachter est telle que décrite dans [[Arc F - Le Souhait de Dame Wachter]] et [[Arc D - Le Tome de Strahd]]. Les visiteurs du domaine sont reçus comme décrit dans <span class="citation">N4a. Porte d'entrée et Vestibule (p. 110)</span>.
+
+Les joueurs qui ont déjà dîné avec Dame Wachter sont accueillis et rapidement admis, tandis que les joueurs qui ne l'ont pas fait doivent prendre rendez-vous pour le lendemain. Les joueurs qui insistent sur le fait qu'ils sont là pour aider Stella, la fille de Dame Wachter, et réussissent un test de Charisme (Persuasion) DD 10 peuvent contourner la nécessité de prendre rendez-vous et sont admis immédiatement.
 
 Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, Lady Wachter’s valet, serves tea to her and the guests a few moments later. 
 
@@ -1236,7 +1247,7 @@ The night of the full moon has been intentionally placed on the night of the pla
 
 ***Matrons of Malevolence.*** The excerpted chapter on night hags in Mordenkainen's book, *Ethereal Entities: Denizens of the Unseen Plane* has been written to inform the players that (1) night hags are vulnerable to silver and resistant to magic and nonmagical weapon damage, (2) night hags are particularly cunning, yet arrogant creatures, (3) night hags are willing to make bargains and can be trusted to uphold their end of a deal, (4) night hags can instantly and easily escape into the Ethereal Plane through the use of their heartstones, (5) night hags can cast *dispel magic* once per day when in a coven, and (6) a night hag coven's contract contains their true names, and they therefore guard it carefully.
 
-***Victor's Plan.*** Victor has been given the *sending* spell in place of the *remove curse* spell in order to preserve the dramatic tension of the curse of lycanthropy (and thereby encourage afflicted players to seek out wolfsbane in Krezk in order to secure Van Richten's calming elixir, as described in [[Arc E - The Missing Vistana]]).
+***Victor's Plan.*** Victor has been given the *sending* spell in place of the *remove curse* spell in order to preserve the dramatic tension of the curse of lycanthropy (and thereby encourage afflicted players to seek out wolfsbane in Krezk in order to secure Van Richten's calming elixir, as described in [[Arc E - La Vistana Disparue]]).
 
 This guide intentionally has Victor give the players a choice between killing and bargaining with the hags. The binding circle has been added to provide the players with the means of killing the coven (rather than allowing them to escape into the Ethereal Plane once threatened).
 
@@ -1300,7 +1311,7 @@ The hags' threat to kill the children and feed them to the players in the mornin
 
 ***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment, and to introduce the image of the Ba'al Verzi dagger to the players prior to its recoery in [[Arc U - The Amber Temple]] and its use in[[Arc Y - Ladies of the Fanes.]]
 
-The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[Arc E - The Missing Vistana]], and to advance the players' connection with the tragedy of the Van Richten family.
+The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[Arc E - La Vistana Disparue]], and to advance the players' connection with the tragedy of the Van Richten family.
 
 The attack by the **specters** has been added to partially deplete the players' resources prior to the battle with the **gallows speaker**, to indicate the risk to Stella's soul should the players fail, and to make the gallows speaker more impressive when it subsequently appears.
 

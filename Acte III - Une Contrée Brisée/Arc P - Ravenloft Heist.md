@@ -268,7 +268,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 > Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
 
 > [!abstract]+ **Keys to the Dungeons**
-> If the players killed Volenta in [[Arc D - St. Andral's Feast]], Ludmilla holds a ring of keys to all of the cells in the dungeons, as well as the key to Emil’s *silverthorn collar*.
+> If the players killed Volenta in [[Arc D - Le festin de Saint-Andral]], Ludmilla holds a ring of keys to all of the cells in the dungeons, as well as the key to Emil’s *silverthorn collar*.
 
 <div class="statblock">
 <h2>Ludmilla Vilisevic, Elementalist</h2>
@@ -1431,7 +1431,7 @@ This area is largely as described in <span class="citation">K74. North Dungeon (
 In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
 > [!info]+ **The Keys to the Cells**
-> The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+> The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - Le festin de Saint-Andral]], the ring is instead held by Ludmilla.)
 ## P11c. South Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K75.</em></span>
 
@@ -1447,7 +1447,7 @@ Emil, who has four levels of exhaustion, has been locked in his cell for weeks. 
 > The spells *dispel magic* and *knock* have no effect on the collar.
 
 > [!info]+ **The Keys to the Cells**
-> The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+> The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - Le festin de Saint-Andral]], the ring is instead held by Ludmilla.)
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
@@ -1724,7 +1724,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 12 (p
 
 A creature can cast a spell into an engraved rune, similar to a *ring of spell storing*. If the spell cast is of the same school of magic as the school the rune represents, the rune glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
 
-The runes must be activated in the same order as [[Arc E - The Missing Vistana#1. The Tower Door|the buttons on the door of Khazan’s tower at Lake Baratok]]. The two possible proper sequences are:
+The runes must be activated in the same order as [[Arc E - La Vistana Disparue#1. The Tower Door|the buttons on the door of Khazan’s tower at Lake Baratok]]. The two possible proper sequences are:
 
 * evocation, divination, illusion, transmutation, conjuration, abjuration, enchantment, necromancy
 * necromancy, enchantment, abjuration, conjuration, transmutation, illusion, divination, evocation

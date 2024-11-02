@@ -998,6 +998,6 @@ Les joueurs peuvent facilement en déduire que cette ruine semble être un endro
 
 La nuit se passe sans problème. Lorsque les joueurs se réveillent le lendemain matin, Rose et Thorn leur demandent s'ils peuvent enterrer leurs restes avant d'aller plus loin, afin qu'ils puissent enfin se reposer. (Les esprits des enfants n'iront pas plus loin en Barovie, suppliant plutôt les joueurs de leur permettre de se reposer.) Si les joueurs enterrent leurs restes ici, les esprits des enfants les remercient avant de disparaître.
 
-Les joueurs peuvent trouver le début de la Vieille Route de Svalich à une courte distance à travers les bois, loin de la tour. [[Arc B - Bienvenue à Barovie]] commence alors.
+Les joueurs peuvent trouver le début de la Vieille Route de Svalich à une courte distance à travers les bois, loin de la tour. [[Arc B - Bienvenue en Barovie]] commence alors.
 
 **_Étape_**. S'échapper de la Funeste Demeure complète une étape de l'histoire. Lorsque le groupe commence son premier repos long après s'être échappé de la maison, accordez à chaque joueur 400 XP. (Cela devrait permettre aux joueurs d'atteindre le niveau 3.)

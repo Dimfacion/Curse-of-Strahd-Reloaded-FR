@@ -23,45 +23,45 @@ Cette traduction utilise massivement des traducteurs IA. Voici le flux de travai
 
 ## Statut Actuel
 
-| Pages                                           | Traduit | Premier contrôle qualité | Deuxième contrôle qualité | Testé en situation réelle | Commentaires                      |
-| ----------------------------------------------- | ------- | ------------------------ | ------------------------- | ------------------------- | --------------------------------- |
-| Version 2.0.8.3 et antérieur                    | 🚧      | 🚧                       | 🚧                        | 🚧                        |                                   |
-| Acte I - Vers les Brumes                        | 🚧<br>  | 🚧                       | 🚧                        | 🚧                        |                                   |
-| [[Acte I Résumé]]                               | ✅       | 🚧                       | 🚧                        | 🚧                        |                                   |
-| [[Arc A - L'Evasion de la Funeste Demeure]]     | ✅       | ✅                        | ✅                         | ✅                         |                                   |
-| [[Arc B - Bienvenue à Barovie]]                 | ✅       | ✅                        | ✅                         | 🚧                        |                                   |
-| [[Arc C - A travers la vallée]]                 | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| Acte II - La Ville Obscurcie                    | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Act II Summary]]                              | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc D - St. Andral's Feast]]                  | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc E - The Missing Vistana]]                 | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc F - Lady Wachter's Wish]]                 | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc G - The Strazni Siblings]]                | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc H - The Lost Soul]]                       | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc I - The Walls of Krezk]]                  | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| Arc III - Une contrée Brisée                    | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Act III Summary]]                             | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc J - The Stolen Gem]]                      | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc K - The Fallen Abbey]]                    | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc L - The Den of Wolves]]                   | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc M - Argynvost's Beacon]]                  | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc N - Tales of Vallaki]]                    | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc O - Dinner with the Devil]]               | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Arc P - Ravenloft Heist]]                     | ❌       | ❌                        | ❌                         | ❌                         |                                   |
-| Appendices                                      | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Eclats d'Ambre]]                              | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Glossaire]]                                   | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Personnages Non-Joueurs]]                     | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| Chapitre 1 - Démarrer la Campagne               | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Création de Personnage]]                      | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Session Zero]]                                | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| Chapitre 2 - La Barovie                         | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Folklore et Coutumes]]                        | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Histoire de la Barovie]]                      | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Strahd von Zarovich]]                         | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| Chapitre 3 - Mener la Partie                    | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Mener l'aventure]]                            | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Résumé de l'Aventure]]                        | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| Introduction                                    | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Comment utiliser ce guide]]                   | ✅       | ❌                        | ❌                         | ❌                         |                                   |
-| [[Guide du Maître de Jeu pour Curse of Strahd]] | ✅       | ❌                        | ❌                         | ❌                         |                                   |
+| Pages                                           | Traduit | Premier contrôle qualité | Deuxième contrôle qualité | Testé en situation réelle | Commentaires |
+| ----------------------------------------------- | ------- | ------------------------ | ------------------------- | ------------------------- | ------------ |
+| Version 2.0.8.3 et antérieur                    | 🚧      | 🚧                       | 🚧                        | 🚧                        |              |
+| Acte I - Vers les Brumes                        | ✅<br>   | ✅                        | 🚧                        | 🚧                        |              |
+| [[Acte I Résumé]]                               | ✅       | ✅                        | ✅                         | ✅                         |              |
+| [[Arc A - L'Evasion de la Funeste Demeure]]     | ✅       | ✅                        | ✅                         | ✅                         |              |
+| [[Arc B - Bienvenue en Barovie]]                | ✅       | ✅                        | ✅                         | ✅                         |              |
+| [[Arc C - A travers la vallée]]                 | ✅       | ✅                        | 🚧                        | 🚧                        |              |
+| Acte II - La Ville Obscurcie                    | 🚧      | ❌                        | ❌                         | ❌                         |              |
+| [[Acte II Résumé]]                              | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc D - Le festin de Saint-Andral]]           | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc E - La Vistana Disparue]]                 | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc F - Le Souhait de Dame Wachter]]          | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc G - Les Frères et Sœurs Strazni]]         | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc H - L'Ame Perdue]]                        | 🚧      | ❌                        | ❌                         | ❌                         |              |
+| [[Arc I - The Walls of Krezk]]                  | ❌       | ❌                        | ❌                         | ❌                         |              |
+| Arc III - Une contrée Brisée                    | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Act III Summary]]                             | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc J - The Stolen Gem]]                      | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc K - The Fallen Abbey]]                    | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc L - The Den of Wolves]]                   | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc M - Argynvost's Beacon]]                  | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc N - Tales of Vallaki]]                    | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc O - Dinner with the Devil]]               | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc P - Ravenloft Heist]]                     | ❌       | ❌                        | ❌                         | ❌                         |              |
+| Appendices                                      | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Eclats d'Ambre]]                              | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Glossaire]]                                   | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Personnages Non-Joueurs]]                     | ✅       | ❌                        | ❌                         | ❌                         |              |
+| Chapitre 1 - Démarrer la Campagne               | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Création de Personnage]]                      | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Session Zero]]                                | ✅       | ❌                        | ❌                         | ❌                         |              |
+| Chapitre 2 - La Barovie                         | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Folklore et Coutumes]]                        | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Histoire de la Barovie]]                      | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Strahd von Zarovich]]                         | ✅       | ❌                        | ❌                         | ❌                         |              |
+| Chapitre 3 - Mener la Partie                    | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Mener l'aventure]]                            | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Résumé de l'Aventure]]                        | ✅       | ❌                        | ❌                         | ❌                         |              |
+| Introduction                                    | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Comment utiliser ce guide]]                   | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Guide du Maître de Jeu pour Curse of Strahd]] | ✅       | ❌                        | ❌                         | ❌                         |              |

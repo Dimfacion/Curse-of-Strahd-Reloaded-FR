@@ -23,18 +23,18 @@ This translation is heavily using AI translators. Here's the workflow I mainly u
 | Pages                                           | Translated | First QA pass | Second QA pass | Battle tested | Comments |
 | ----------------------------------------------- | ---------- | ------------- | -------------- | ------------- | -------- |
 | Version 2.0.8.3 and below                       | 🚧         | 🚧            | 🚧             | 🚧            |          |
-| Acte I - Vers les Brumes                        | 🚧<br>     | 🚧            | 🚧             | 🚧            |          |
-| [[Acte I Résumé]]                               | ✅          | 🚧            | 🚧             | 🚧            |          |
+| Acte I - Vers les Brumes                        | ✅<br>      | ✅             | 🚧             | 🚧            |          |
+| [[Acte I Résumé]]                               | ✅          | ✅             | ✅              | ✅             |          |
 | [[Arc A - L'Evasion de la Funeste Demeure]]     | ✅          | ✅             | ✅              | ✅             |          |
-| [[Arc B - Bienvenue à Barovie]]                 | ✅          | ✅             | ✅              | 🚧            |          |
-| [[Arc C - A travers la vallée]]                 | ✅          | ❌             | ❌              | ❌             |          |
-| Acte II - La Ville Obscurcie                    | ❌          | ❌             | ❌              | ❌             |          |
-| [[Act II Summary]]                              | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc D - St. Andral's Feast]]                  | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc E - The Missing Vistana]]                 | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc F - Lady Wachter's Wish]]                 | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc G - The Strazni Siblings]]                | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc H - The Lost Soul]]                       | ❌          | ❌             | ❌              | ❌             |          |
+| [[Arc B - Bienvenue en Barovie]]                | ✅          | ✅             | ✅              | ✅             |          |
+| [[Arc C - A travers la vallée]]                 | ✅          | ✅             | 🚧             | 🚧            |          |
+| Acte II - La Ville Obscurcie                    | 🚧         | ❌             | ❌              | ❌             |          |
+| [[Acte II Résumé]]                              | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc D - Le festin de Saint-Andral]]           | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc E - La Vistana Disparue]]                 | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc F - Le Souhait de Dame Wachter]]          | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc G - Les Frères et Sœurs Strazni]]         | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc H - L'Ame Perdue]]                        | 🚧         | ❌             | ❌              | ❌             |          |
 | [[Arc I - The Walls of Krezk]]                  | ❌          | ❌             | ❌              | ❌             |          |
 | Arc III - Une contrée Brisée                    | ❌          | ❌             | ❌              | ❌             |          |
 | [[Act III Summary]]                             | ❌          | ❌             | ❌              | ❌             |          |

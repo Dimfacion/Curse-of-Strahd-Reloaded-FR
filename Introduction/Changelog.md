@@ -15,13 +15,13 @@
 * Replaced Madam Eva's invitation in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
 * Moved the March of the Dead from [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] to [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
 * Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
-* Added information regarding the players' ability to ambush the vampire spawn before retrieving the bones in [[Arc D - St. Andral's Feast]]
-* Gave Volenta a smoke bomb escape reaction in [[Arc D - St. Andral's Feast]]
-* Added information regarding their potential banishment from Vallaki if they alienate Baron Vallakovich in [[Arc E - The Missing Vistana]]
-* Added information regarding Lady Wachter's knowledge and character arc in [[Arc F - Lady Wachter's Wish]]
-* Moved Erasmus's plea to arrive just before dawn in [[Arc H - The Lost Soul]]
-* Added information regarding the players' failure to return a heartstone in [[Arc H - The Lost Soul]]
-* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Arc H - The Lost Soul]], [[Arc I - The Walls of Krezk]] and [[Arc J - The Stolen Gem]].
+* Added information regarding the players' ability to ambush the vampire spawn before retrieving the bones in [[Arc D - Le festin de Saint-Andral]]
+* Gave Volenta a smoke bomb escape reaction in [[Arc D - Le festin de Saint-Andral]]
+* Added information regarding their potential banishment from Vallaki if they alienate Baron Vallakovich in [[Arc E - La Vistana Disparue]]
+* Added information regarding Lady Wachter's knowledge and character arc in [[Arc F - Le Souhait de Dame Wachter]]
+* Moved Erasmus's plea to arrive just before dawn in [[Arc H - L'Ame Perdue]]
+* Added information regarding the players' failure to return a heartstone in [[Arc H - L'Ame Perdue]]
+* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Arc H - L'Ame Perdue]], [[Arc I - The Walls of Krezk]] and [[Arc J - The Stolen Gem]].
 * Added information regarding other areas of Berez in [[Arc I - The Walls of Krezk]]
 * Redistributed milestone XP in [[Act III Summary]]
 * Added additional reason for the players to return to Kavan's cairn in [[Arc J - The Stolen Gem]]
@@ -48,12 +48,12 @@
 ## Hotfix 2.0.7.3 (Apr. 21, 2024)
 * Added a preliminary Strength saving throw to the Flesh Mound's **engulf** in [[Arc A - L'Evasion du Manoir Mortel]]
 * Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Arc A - L'Evasion du Manoir Mortel]]
-* Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Arc E - The Missing Vistana]]
+* Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Arc E - La Vistana Disparue]]
 ## Hotfix 2.0.7.2 (Apr. 15, 2024)
 * Rolled back an unfinished/discarded rework of the old Watchtower in [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Added artwork of Vladimir Horngaard in [[Arc M - Argynvost's Beacon]]
 ## Hotfix 2.0.7.1 (Apr. 12, 2024)
-* Increased the XP earned for defeating Izek in [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]
+* Increased the XP earned for defeating Izek in [[Arc F - Le Souhait de Dame Wachter]] and/or [[Arc G - Les Frères et Sœurs Strazni]]
 * Clarified Ismark the Great's statblock in [[Arc O - Dinner with the Devil]]
 * Clarified spell slot and other resource mechanics in the Nightmare in [[Arc O - Dinner with the Devil]]
 * Modified Zorya's breath weapon to deal full damage to ghosts in [[Arc M - Argynvost's Beacon]]
@@ -85,7 +85,7 @@
 [[Mener l'aventure]]
 * Removed the Wachter **cultist** from the list of Strahd's spies
 
-[[Acte I Résumé]], [[Act II Summary]], [[Act III Summary]]
+[[Acte I Résumé]], [[Acte II Résumé]], [[Act III Summary]]
 * Added specific dates and timelines
 
 [[Arc A - L'Evasion du Manoir Mortel]]
@@ -104,7 +104,7 @@
 * Added box notifying DMs regarding absence of random encounters
 * Clarified the skeletal rider's destination
 
-[[Arc D - St. Andral's Feast]]
+[[Arc D - Le festin de Saint-Andral]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added mark on coffin shop floor from teleportation brazier
 * Expedited Volenta's escape
@@ -112,7 +112,7 @@
 * Added information regarding players who visit the church their first night in Vallaki
 * Clarified Milivoj's age
 
-[[Arc E - The Missing Vistana]]
+[[Arc E - La Vistana Disparue]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Clarified the identities of the Vistani in the tent
 * Placed Ezmerelda's more precious equipment in a false bottom inside her trunk
@@ -123,15 +123,15 @@
 * Added travel times
 * Clarified Victor's morale and relationships in his NPC profile
 
-[[Arc F - Lady Wachter's Wish]]
+[[Arc F - Le Souhait de Dame Wachter]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added information regarding Izek catching the players
 
-[[Arc G - The Strazni Siblings]]
+[[Arc G - Les Frères et Sœurs Strazni]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Clarified player XP if Ireena is kidnapped and rescued
 
-[[Arc H - The Lost Soul]]
+[[Arc H - L'Ame Perdue]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added NPC profile for Stella
 * Added information regarding the refugees' relocation after Lady Wachter becomes burgomaster
@@ -201,8 +201,8 @@
 # Hotfix 2.0.6.4 (Feb. 16, 2024)
 * Explicitly removed the RAW "living fire" from Argynvostholt's northeast guest room
 # Hotfix 2.0.6.3 (Feb. 4, 2024
-* Delayed Izek's kidnapping of Ireena in [[Arc G - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Arc G - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Arc D - St. Andral's Feast]] to the players' fifth day in Vallaki.
-* Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Arc E - The Missing Vistana]]
+* Delayed Izek's kidnapping of Ireena in [[Arc G - Les Frères et Sœurs Strazni]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Arc G - Les Frères et Sœurs Strazni]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Arc D - Le festin de Saint-Andral]] to the players' fifth day in Vallaki.
+* Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Arc E - La Vistana Disparue]]
 * Revised Ezmerelda's statistics in [[Arc K - The Fallen Abbey]]
 * Modified the Abbot's wrath in [[Arc K - The Fallen Abbey]] to punish the flesh golem while Vasilka watches, rather than punishing Vasilka
 * Added level markers for [[Arc J - The Stolen Gem]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and [[Arc M - Argynvost's Beacon]].
@@ -223,16 +223,16 @@
 * Removed an excess skill proficiency from Ireena's sidekick statblock in [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
 * Added NPC profile for Morgantha in [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Act I - Into the Mists/Arc C - Into the Valley]]
-* Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc D - St. Andral's Feast]]
-* Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[Arc H - The Lost Soul]]
-* Modified Rahadin's trial in [[Arc D - St. Andral's Feast]] to discourage players from attacking Rahadin
-* Removed Arabelle's wasting disease in [[Arc E - The Missing Vistana]]
-* Revised the exterior description of Wachterhaus in [[Arc F - Lady Wachter's Wish]]
-* Added information regarding Leo Dilisnya and the Tarokka reading for the *Tome of Strahd* to [[Arc F - Lady Wachter's Wish]]
-* Modified Victor's tactics during the fight with the hags in [[Arc H - The Lost Soul]]
-* Modified the names of the lambda spells cast by the coven in [[Arc H - The Lost Soul]] to avoid confusion with RAW spells.
-* Removed disadvantage on ranged attacks made by the **Ba'al Verzi Avenger** in [[Arc H - The Lost Soul]]
-* Clarified the tactics of the **gallows speaker** in [[Arc H - The Lost Soul]]
+* Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc D - Le festin de Saint-Andral]]
+* Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[Arc H - L'Ame Perdue]]
+* Modified Rahadin's trial in [[Arc D - Le festin de Saint-Andral]] to discourage players from attacking Rahadin
+* Removed Arabelle's wasting disease in [[Arc E - La Vistana Disparue]]
+* Revised the exterior description of Wachterhaus in [[Arc F - Le Souhait de Dame Wachter]]
+* Added information regarding Leo Dilisnya and the Tarokka reading for the *Tome of Strahd* to [[Arc F - Le Souhait de Dame Wachter]]
+* Modified Victor's tactics during the fight with the hags in [[Arc H - L'Ame Perdue]]
+* Modified the names of the lambda spells cast by the coven in [[Arc H - L'Ame Perdue]] to avoid confusion with RAW spells.
+* Removed disadvantage on ranged attacks made by the **Ba'al Verzi Avenger** in [[Arc H - L'Ame Perdue]]
+* Clarified the tactics of the **gallows speaker** in [[Arc H - L'Ame Perdue]]
 * Clarified the behavior of the druids if alerted in [[Arc J - The Stolen Gem]]
 * Pushed back Baron Krezkov's invitation to stay at his family's home in [[Arc K - The Fallen Abbey]] until after the players have completed [[Arc J - The Stolen Gem]]
 * Added an NPC profile for Ezmerelda d'Avenir in [[Arc K - The Fallen Abbey]]
@@ -241,15 +241,15 @@
 # Hotfix 2.0.5.5 (Jan. 18, 2024)
 • Fixed assorted typos & inconsistencies  
 • Clarified the location of the Sunsword and Tome of Strahd in [[Mener l'aventure]]  
-• Removed language in [[Arc D - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
+• Removed language in [[Arc D - Le festin de Saint-Andral]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
 • Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
-• Defined "bloodied" in [[Arc H - The Lost Soul]]  
-• Clarified the duration of the conversation with the gallows speaker in [[Arc H - The Lost Soul]]  
-• Clarified the tactics of the gallows speaker in [[Arc H - The Lost Soul]] and increased its fly (hover) speed to 40 ft.  
-• Revised the ***amphibious cacophony*** lair action in [[Arc H - The Lost Soul]] to force movement on the target's turn, rather than as a reaction.  
-• Replaced Victor's decision to cast *fly* in battle against the hags in [[Arc H - The Lost Soul]] with a casting of *greater invisibility*
-• Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[Arc H - The Lost Soul]]  
-• Clarified where the hag coven stands upon the players' return and the hags' sizes in [[Arc H - The Lost Soul]]  
+• Defined "bloodied" in [[Arc H - L'Ame Perdue]]  
+• Clarified the duration of the conversation with the gallows speaker in [[Arc H - L'Ame Perdue]]  
+• Clarified the tactics of the gallows speaker in [[Arc H - L'Ame Perdue]] and increased its fly (hover) speed to 40 ft.  
+• Revised the ***amphibious cacophony*** lair action in [[Arc H - L'Ame Perdue]] to force movement on the target's turn, rather than as a reaction.  
+• Replaced Victor's decision to cast *fly* in battle against the hags in [[Arc H - L'Ame Perdue]] with a casting of *greater invisibility*
+• Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[Arc H - L'Ame Perdue]]  
+• Clarified where the hag coven stands upon the players' return and the hags' sizes in [[Arc H - L'Ame Perdue]]  
 • Revised the area description of the Whispering Wall in [[Arc J - The Stolen Gem]]  
 • Added spell save DCs to the *twilight crest* in [[Arc J - The Stolen Gem]]  
 • Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
@@ -326,7 +326,7 @@
 * Moved the Tome of Strahd to the possession of the **gallows speaker** Leo Dilisnya in the Ethereal Plane  
 * Added an additional paragraph at the end of the *Tome of Strahd*  
 
-**[[Arc D - St. Andral's Feast]]**
+**[[Arc D - Le festin de Saint-Andral]]**
 * Added new scenes with Henrik and Milivoj when the players first arrive at St. Andral's Church  
 * Added a new lore box detailing the theft of the bones  
 * Changed Milivoj's knowledge of the bones to come from eavesdropping rather than asking Yeska  
@@ -336,7 +336,7 @@
 * Clarified how Volenta obtained her noisemaker trap  
 * Added a new post-arc scene with Rahadin, Milivoj, and Henrik  
 
-**[[Arc E - The Missing Vistana]]**
+**[[Arc E - La Vistana Disparue]]**
 * Reworked Rictavio's timeline to arrive on the morning of the players' arrival in Vallaki  
 * Clarified what happens if the players attempt to track Arabelle from the site of her kidnapping  
 * Removed Victor's decision to share information about Stella.  
@@ -346,14 +346,14 @@
 * Truncated the text of Van Richten's journal entry  
 * Added Arabelle's wasting sickness to provide a time limit  
 
-**[[Arc F - Lady Wachter's Wish]]**
+**[[Arc F - Le Souhait de Dame Wachter]]**
 * Added lore sidebar regarding Ezra  
 * Clarified how Lady Wachter reacts if the players request tea before receiving an invitation  
 * Clarified Izek retains the Poisoned condition upon changing forms  
 * Clarified Lady Wachter allows the Vistani to enter the town  
 * Added additional silver for weapons to Lady Wachter's reward  
 
-**[[Arc G - The Strazni Siblings]]**
+**[[Arc G - Les Frères et Sœurs Strazni]]**
 * Added an Ireena visit to the Blue Water Inn the morning after IZek's attack  
 * Clarified the Izek kidnaps Ireena while the players are away  
 * Added an ending in which Izek hides Ireena in the wicker sun on the morning of the Festival of the Blazing Sun, allowing her to burn alive if the players don't rescue her  
@@ -361,7 +361,7 @@
 * Gave Ireena a dagger to escape her bindings if rescued from the mansion  
 * Reduced Izek's damage to match recalibrated numbers  
 
-**[[Arc H - The Lost Soul]]**
+**[[Arc H - L'Ame Perdue]]**
 * Delayed the arc to trigger on the night of the first day after the players reach 5th level.  
 * Changed Franz's nurse to be his sister and the caretaker for his children upon their return  
 * Revised Franz's story to be more sympathetic.  
@@ -370,7 +370,7 @@
 **[[Arc I - The Walls of Krezk]]**
 * Added a scene in which the Abbot cures the players' lycanthropy by Krezk's blessed pool
 # Version 2.0.4 (Aug. 23, 2023)
-* Added [[Arc D - The Tome of Strahd]], [[Arc D - St. Andral's Feast]], [[Arc E - The Missing Vistana]], [[Arc F - Lady Wachter's Wish]], [[Arc G - The Strazni Siblings]], [[Arc H - The Lost Soul]], [[Arc I - The Walls of Krezk]], and the [[Eclats d'Ambre]] appendix
+* Added [[Arc D - The Tome of Strahd]], [[Arc D - Le festin de Saint-Andral]], [[Arc E - La Vistana Disparue]], [[Arc F - Le Souhait de Dame Wachter]], [[Arc G - Les Frères et Sœurs Strazni]], [[Arc H - L'Ame Perdue]], [[Arc I - The Walls of Krezk]], and the [[Eclats d'Ambre]] appendix
 * added all-new splash art by artist Caleb Cleveland
 * changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword’s hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
 * changed Rahadin to be Kasimir’s cousin-in-law and the son of Prince Erevan Lowenhart
