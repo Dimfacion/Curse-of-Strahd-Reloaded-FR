@@ -188,9 +188,9 @@ De plus, Strahd peut utiliser l'action suivante dans sa forme _**Vampire**_ :
 
 Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède également les caractéristiques suivantes dans les trois phases :
 
-- _**Domination de la Montagne.**_ Tant que Strahd conserve le pouvoir de la Fane de la Montagne, il bénéficie d'un sort de _non-détection_ permanent. De plus, Strahd peut lancer _contrôle des intempéries_ en action sans composantes.
+- _**Domination de la Montagne.**_ Tant que Strahd conserve le pouvoir de la Fane de la Montagne, il bénéficie d'un sort de _non-détection_ permanent. 
 - _**Domination du Marais.**_ Tant que Strahd conserve le pouvoir de la Fane du Marais, il peut lancer _illusion majeure_ et _déplacer la terre_ sans composantes.
-- _**Domination de la Forêt.**_ Tant que Strahd conserve le pouvoir de la Fane de la Forêt, il peut lancer _sens de la bête_, _localiser la créature_ et _formes animales_ sans composantes.
+- _**Domination de la Forêt.**_ Tant que Strahd conserve le pouvoir de la Fane de la Forêt, il peut lancer _sens de la bête_ et _localiser la créature_ sans composantes.
 - _**Régénération.**_ Si Strahd est détruit alors qu'il conserve le pouvoir d'au moins une des Fanes, il regagne un nouveau corps en 24 heures, récupérant tous ses points de vie et ses phases et redevenant actif. Son nouveau corps apparaît dans son cercueil.
 
 > [!info]+ **L'Interdiction vampirique**
@@ -240,9 +240,9 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
         </tbody>
     </table>
     <hr>
-    <strong>Jets de sauvegarde</strong> Dex +11, Sag +8, Cha +11
+    <strong>Jets de sauvegarde</strong> Dex +12, Sag +9, Cha +12
     <br>
-    <strong>Compétences</strong> Arcanes +17, Athlétisme +11, Supercherie +17, Perspicacité +8, Perception +14, Religion +11, Discrétion +17
+    <strong>Compétences</strong> Arcanes +19, Athlétisme +12, Supercherie +19, Perspicacité +9, Perception +16, Religion +12, Discrétion +19
     <br>
     <strong>Résistances aux dégâts</strong> nécrotiques ; contondants, perforants et tranchants par des attaques non magiques
     <br>
@@ -252,7 +252,7 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <br>
     <strong>Défi</strong> 21, ou 19 s'il est combattu à la lumière du soleil
     <br>
-    <strong>Bonus de maîtrise</strong> +6
+    <strong>Bonus de maîtrise</strong> +7
     <br>
     <hr>
     <p><strong><em>Lancement de sorts complexe.</em></strong> Si Strahd lance un sort à son tour en utilisant une action bonus, il peut également utiliser son action pour lancer un sort de niveau supérieur pendant le même tour.</p>
@@ -271,15 +271,16 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <p><strong><em>Étreinte télékinésique.</em></strong> <em>Transmutation de niveau 2</em>, portée 18 m, composantes V S M, 1 round. <em>Effet :</em> Strahd exerce sa volonté sur une créature qu'il peut voir à <span class="highlight">18 mètres</span> et
         la force à faire un <span class="highlight">jet de sauvegarde de Force DD 19</span>. En cas d'échec, cette créature s'élève verticalement, jusqu'à 6 mètres, et reste suspendue jusqu'au début du prochain tour de Strahd. Cette créature subit également
         <span class="highlight">7 (2d6) dégâts nécrotiques</span> et est <span class="highlight">entravée</span> jusqu'à la fin du prochain tour de Strahd. Quand l'effet prend fin, la cible tombe au sol si elle est toujours en l'air.</p>
+        <p><strong><em>Dissipation de la Magie (3/jour).</em></strong> Strahd lance <em>dissipation de la magie</em>.
     <h3>Actions bonus</h3>
     <p><strong><em>Cercle de maladie.</em></strong> <em>Nécromancie de niveau 3</em>, sur soi, composantes V S M, instantanée. <em>Effet :</em> Une sphère d'énergie négative explose depuis Strahd. Chaque créature dans un rayon de 3 mètres autour de Strahd
         doit réussir un <span class="highlight">jet de sauvegarde de Constitution DD 19</span>. En cas d'échec, une créature subit <span class="highlight">28 (8d6) dégâts nécrotiques</span> et a <span>un désavantage</span> sur son prochain jet d'attaque
         avant la fin de son prochain tour. Une créature qui réussit le jet de sauvegarde subit la moitié des dégâts et n'a pas de désavantage.</p>
-    <p><strong><em>Éclair.</em></strong> Strahd lance <em>éclair</em> (DD 19).</p>
+    <p><strong><em>Éclair.</em></strong> Strahd lance <em>éclair</em> (DD 20).</p>
     <h3>Réactions</h3>
     <p>Strahd peut prendre jusqu'à trois réactions par round, mais seulement une par tour. S'il devrait perdre ses réactions et n'est pas neutralisé, il perd une réaction à la place.</p>
     <p><strong><em>Pas brumeux.</em></strong> En réponse à des dégâts subis, Strahd lance <em>pas brumeux</em>.</p>
-    <p><strong><em>Aveuglement/Surdité.</em></strong> En réponse à des dégâts subis d'une attaque de mêlée, Strahd lance <em>aveuglement/surdité</em> (DD 19) contre l'attaquant. Une créature qui rate son jet de sauvegarde contre ce sort subit <span class="highlight">7 (2d6) dégâts nécrotiques</span>        supplémentaires.</p>
+    <p><strong><em>Aveuglement/Surdité.</em></strong> En réponse à des dégâts subis d'une attaque de mêlée, Strahd lance <em>aveuglement/surdité</em> (DD 20) contre l'attaquant. Une créature qui rate son jet de sauvegarde contre ce sort subit <span class="highlight">7 (2d6) dégâts nécrotiques</span>        supplémentaires.</p>
     <h3>Actions de repaire</h3>
     <p>Tant que Strahd se trouve dans le Château de Ravenloft, il peut prendre des actions de repaire tant qu'il n'est pas neutralisé.</p>
     <p>À l'initiative 20 (les égalités d'initiative sont perdues), Strahd peut prendre l'une des options d'action de repaire suivantes, ou renoncer à les utiliser ce round-là :</p>
@@ -287,6 +288,14 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <p><strong><em>Sphère de feu.</em></strong> Une <span class="highlight">sphère de feu de 3 mètres de diamètre</span> apparaît dans un espace inoccupé au choix de Strahd dans un rayon de <span class="highlight">18 mètres</span> qu'il peut voir, jusqu'à
         l'initiative 20 du round suivant. Toute créature qui commence son tour à <span class="highlight">1,5 mètres</span> ou moins de la sphère doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 19</span> ou subir <span class="highlight">14 (4d6) dégâts de feu</span>.
         La sphère enflamme les objets inflammables qui ne sont ni portés ni transportés, et elle émet une lumière vive dans un rayon de <span class="highlight">9 mètres</span> et une lumière faible dans un rayon supplémentaire de <span class="highlight">9 mètres</span>.</p>
+
+<!-- Fane Lair Actions Section -->
+<h3>Actions Repaires des Fanes</h3>
+<p>Lorsqu'il est à l'extérieur, si les joueurs n'ont pas encore reconsacré la Fane du Marais, Strahd peut effectuer des actions de repaire tant qu'il n'est pas incapacité.</p>
+<p>À l'initiative 20 (perdant en cas d'égalité), Strahd peut choisir l'une des options d'action de repaire suivantes, ou renoncer à les utiliser pour ce round :</p>
+<p><strong><em>Contrôle de l'Eau (nécessite la Fane du Marais).</em></strong> Strahd lance ou utilise <em>contrôle de l'eau</em> sans composantes ni concentration.</p>
+<p><strong><em>Nappe de Brouillard (nécessite la Fane du Marais).</em></strong> Strahd lance <em>nappe de brouillard</em> au niveau 5 sans composantes ni concentration. Tant que le brouillard persiste, Strahd dispose de la vision aveugle jusqu'à ses bords.</p>
+
 </div>
 
 ### Le Soldat
@@ -324,19 +333,19 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
         </tbody>
     </table>
     <hr>
-    <strong>Jet de sauvegarde</strong> Dex +11, Sag +8, Cha +11
+    <strong>Jets de sauvegarde</strong> Dex +12, Sag +9, Cha +12
     <br>
-    <strong>Compétences</strong> Arcanes +17, Athlétisme +11, Déception +17, Perspicacité +8, Perception +14, Religion +11, Discrétion +17
+    <strong>Compétences</strong> Arcanes +19, Athlétisme +12, Supercherie +19, Perspicacité +9, Perception +16, Religion +12, Discrétion +19
     <br>
-    <strong>Résistances aux dégâts</strong> nécrotiques ; contondants, perforants et tranchants d'attaques non magiques
+    <strong>Résistances aux dégâts</strong> nécrotiques ; contondants, perforants et tranchants par des attaques non magiques
     <br>
     <strong>Sens</strong> vision dans le noir 36 m, Perception passive 24
     <br>
     <strong>Langues</strong> Abyssal, Commun, Draconique, Elfe, Géant, Infernal
     <br>
-    <strong>Défi</strong> 21, ou 19 quand combattu sous la lumière du soleil
+    <strong>Défi</strong> 21, ou 19 s'il est combattu à la lumière du soleil
     <br>
-    <strong>Bonus de maîtrise</strong> +6
+    <strong>Bonus de maîtrise</strong> +7
     <br>
     <hr>
     <p><strong><em>Conscience du champ de bataille.</em></strong> Strahd a <span class="highlight">l'avantage</span> sur les jets de sauvegarde de Force et de Dextérité contre les effets qu'il peut voir ou entendre, comme les pièges et les sorts. De plus,
@@ -350,17 +359,17 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <!-- Actions Section -->
     <h3>Actions</h3>
     <p><strong><em>Attaque Multiple.</em></strong> Strahd effectue deux attaques, dont une seule peut être une <strong><em>toile d'ombre.</em></strong></p>
-    <p><strong><em>Épée Longue.</em></strong> Attaque d'Arme de Mêlée : <span class="highlight">+11 pour toucher</span>, portée 1,5 m, une cible. <em>Touché :</em> <span class="highlight">11 (1d10 + 5) dégâts tranchants plus 7 (2d6) dégâts nécrotiques</span>.
-        Si la cible est une créature, Strahd peut la forcer à réussir un <span class="highlight">jet de sauvegarde de Force DD 19</span> ou être poussée de 1,5 mètre et <span class="highlight">à terre</span>.</p>
-    <p><strong><em>Toile d'Ombre.</em></strong> Attaque de Sort à Distance : <span class="highlight">+11 pour toucher</span>, portée 9/18 m, une créature. <em>Touché :</em> <span class="highlight">7 (2d6) dégâts nécrotiques</span> et la cible est <span class="highlight">entravée</span>        jusqu'au début du prochain tour de Strahd.</p>
+    <p><strong><em>Épée Longue.</em></strong> Attaque d'Arme de Mêlée : <span class="highlight">+12 pour toucher</span>, portée 1,5 m, une cible. <em>Touché :</em> <span class="highlight">11 (1d10 + 5) dégâts tranchants plus 7 (2d6) dégâts nécrotiques</span>.
+        Si la cible est une créature, Strahd peut la forcer à réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span> ou être poussée de 1,5 mètre et <span class="highlight">à terre</span>.</p>
+    <p><strong><em>Toile d'Ombre.</em></strong> Attaque de Sort à Distance : <span class="highlight">+12 pour toucher</span>, portée 9/18 m, une créature. <em>Touché :</em> <span class="highlight">7 (2d6) dégâts nécrotiques</span> et la cible est <span class="highlight">entravée</span>        jusqu'au début du prochain tour de Strahd.</p>
     <!-- Bonus Actions Section -->
     <h3>Actions Bonus</h3>
-    <p><strong><em>Vague Tonitruante.</em></strong> Strahd frappe violemment le sol avec la pointe de son épée, créant une onde de choc. Chaque créature dans un <span class="highlight">rayon de 1,5 mètre</span> doit réussir un <span class="highlight">jet de sauvegarde de Force DD 19</span>        ou subir <span class="highlight">14 (3d8) dégâts de tonnerre</span> et être poussée de 1,5 mètre. Une créature qui réussit le jet subit la moitié des dégâts et n'est pas poussée.</p>
-    <p><strong><em>Volée d'Ombre.</em></strong> Strahd conjure une pluie de flèches d'ombre qui s'abattent sur un point qu'il peut voir dans un <span class="highlight">rayon de 36 mètres</span>. Chaque créature dans un <span class="highlight">cylindre de 3 mètres de rayon et 12 mètres de haut</span>        centré sur ce point doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 19</span>, subissant <span class="highlight">18 (4d8) dégâts nécrotiques</span> en cas d'échec ou la moitié en cas de réussite.</p>
+    <p><strong><em>Vague Tonitruante.</em></strong> Strahd frappe violemment le sol avec la pointe de son épée, créant une onde de choc. Chaque créature dans un <span class="highlight">rayon de 1,5 mètre</span> doit réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span>        ou subir <span class="highlight">14 (3d8) dégâts de tonnerre</span> et être poussée de 1,5 mètre. Une créature qui réussit le jet subit la moitié des dégâts et n'est pas poussée.</p>
+    <p><strong><em>Volée d'Ombre.</em></strong> Strahd conjure une pluie de flèches d'ombre qui s'abattent sur un point qu'il peut voir dans un <span class="highlight">rayon de 36 mètres</span>. Chaque créature dans un <span class="highlight">cylindre de 3 mètres de rayon et 12 mètres de haut</span>        centré sur ce point doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 20</span>, subissant <span class="highlight">18 (4d8) dégâts nécrotiques</span> en cas d'échec ou la moitié en cas de réussite.</p>
     <!-- Reactions Section -->
     <h3>Réactions</h3>
     <p>Strahd peut prendre jusqu'à trois réactions par round, mais seulement une par tour. S'il devait perdre ses réactions et n'est pas neutralisé, il perd une réaction à la place.</p>
-    <p><strong><em>Retraite du Commandant.</em></strong> En réponse à des dégâts subis d'une attaque de mêlée, Strahd force son attaquant à réussir un <span class="highlight">jet de sauvegarde de Force DD 19</span> ou être poussé de 1,5 mètre. Il peut alors
+    <p><strong><em>Retraite du Commandant.</em></strong> En réponse à des dégâts subis d'une attaque de mêlée, Strahd force son attaquant à réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span> ou être poussé de 1,5 mètre. Il peut alors
         immédiatement se déplacer jusqu'à sa vitesse en s'éloignant d'eux sans déclencher d'attaques d'opportunité.</p>
     <p><strong><em>Frappe Vengeresse.</em></strong> En réponse à des dégâts subis d'un sort ou d'une attaque, Strahd se déplace jusqu'à sa vitesse vers l'attaquant et peut effectuer une attaque d'<strong><em>Épée Longue</em></strong> contre eux. Ce déplacement
         ne déclenche pas d'attaques d'opportunité.</p>
@@ -368,10 +377,18 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <h3>Actions de Repaire</h3>
     <p>Tant que Strahd se trouve dans le Château Ravenloft, il peut effectuer des actions de repaire tant qu'il n'est pas neutralisé.</p>
     <p>À l'initiative 20 (les égalités d'initiative sont perdues), Strahd peut prendre l'une des options d'action de repaire suivantes, ou renoncer à les utiliser ce round :</p>
-    <p><strong><em>Mains Spectrales.</em></strong> Toutes les créatures non-undead dans un <span class="highlight">carré de 3 mètres</span> à partir d'un point dans un <span class="highlight">rayon de 18 mètres</span> doivent réussir un <span class="highlight">jet de sauvegarde de Force DD 19</span>        ou être <span class="highlight">entravées</span> par des mains spectrales jusqu'à l'initiative 20 au round suivant.</p>
+    <p><strong><em>Mains Spectrales.</em></strong> Toutes les créatures non-undead dans un <span class="highlight">carré de 3 mètres</span> à partir d'un point dans un <span class="highlight">rayon de 18 mètres</span> doivent réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span>        ou être <span class="highlight">entravées</span> par des mains spectrales jusqu'à l'initiative 20 au round suivant.</p>
     <p><strong><em>Banc de Brume.</em></strong> Une sphère de brume d'un <span class="highlight">rayon de 12 mètres</span> apparaît centrée sur un point dans un <span class="highlight">rayon de 18 mètres</span> de Strahd qu'il peut voir. La sphère se répand
         autour des coins, et sa zone est fortement obscurcie. Elle dure jusqu'à l'initiative 20 au round suivant ou jusqu'à ce qu'un vent modéré ou plus fort (au moins 16 km/h) la disperse. Quand la brume apparaît, Strahd peut immédiatement effectuer
         l'action <span class="highlight">Se Cacher</span> en réaction et se déplacer jusqu'à sa vitesse.</p>
+    ```html
+<!-- Fane Lair Actions Section -->
+<h3>Actions Repaires des Fanes</h3>
+<p>Lorsqu'il est à l'extérieur, si les joueurs n'ont pas encore reconsacré la Fane de la Forêt, Strahd peut effectuer des actions de repaire tant qu'il n'est pas incapacité.</p>
+<p>À l'initiative 20 (perdant en cas d'égalité), Strahd peut choisir l'une des options d'action de repaire suivantes, ou renoncer à les utiliser pour ce round :</p>
+<p><strong><em>Croissance Végétale (nécessite la Fane de la Forêt).</em></strong> Strahd lance <em>croissance végétale</em> sans composantes ni concentration.</p>
+<p><strong><em>Courroux de la Nature (nécessite la Fane de la Forêt).</em></strong> Strahd lance <em>courroux de la nature</em> sans composantes ni concentration. Quand il lance le sort de cette façon, Strahd ne peut pas utiliser l'effet <strong><em>rochers</em></strong> du sort.</p>
+```
 </div>
 
 >[!info]+ **Banc de Brume** 
@@ -411,19 +428,19 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
         </tbody>
     </table>
     <hr>
-    <strong>Jets de sauvegarde</strong> Dex +11, Sag +8, Cha +11
+    <strong>Jets de sauvegarde</strong> Dex +12, Sag +9, Cha +12
     <br>
-    <strong>Compétences</strong> Arcanes +17, Athlétisme +11, Déception +17, Perspicacité +8, Perception +14, Religion +11, Discrétion +17
+    <strong>Compétences</strong> Arcanes +19, Athlétisme +12, Supercherie +19, Perspicacité +9, Perception +16, Religion +12, Discrétion +19
     <br>
-    <strong>Résistances aux dégâts</strong> nécrotiques ; contondants, perforants et tranchants d'attaques non magiques
+    <strong>Résistances aux dégâts</strong> nécrotiques ; contondants, perforants et tranchants par des attaques non magiques
     <br>
     <strong>Sens</strong> vision dans le noir 36 m, Perception passive 24
     <br>
     <strong>Langues</strong> Abyssal, Commun, Draconique, Elfe, Géant, Infernal
     <br>
-    <strong>Défi</strong> 21, ou 19 quand combattu sous la lumière du soleil
+    <strong>Défi</strong> 21, ou 19 s'il est combattu à la lumière du soleil
     <br>
-    <strong>Bonus de maîtrise</strong> +6
+    <strong>Bonus de maîtrise</strong> +7
     <br>
     <hr>
     <p><strong><em>Père de la Nuit.</em></strong> Un humanoïde tué par la <strong><em>morsure</em></strong> de Strahd, ou réduit à 0 point de vie par elle et qui meurt sans reprendre connaissance, se relève en tant que <strong><em>rejeton de vampire</em></strong>        sous le contrôle de Strahd au début de son prochain tour.</p>
@@ -436,11 +453,11 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <!-- Actions Section -->
     <h3>Actions</h3>
     <p><strong><em>Attaque Multiple.</em></strong> Strahd effectue deux attaques, dont une seule peut être une attaque de <strong><em>morsure</em></strong>. Strahd peut remplacer l'une de ses attaques par un <strong><em>charme</em></strong>.</p>
-    <p><strong><em>Frappe Désarmée.</em></strong> Attaque d'Arme de Mêlée : <span class="highlight">+11 pour toucher</span>, portée 1,5 m, une cible. <em>Touché :</em> <span class="highlight">10 (1d8 + 5) dégâts tranchants plus 14 (4d6) dégâts nécrotiques</span>.
-        Si la cible est une créature, Strahd peut l'agripper (DD d'évasion 19).</p>
-    <p><strong><em>Morsure.</em></strong> Attaque d'Arme de Mêlée : <span class="highlight">+11 pour toucher</span>, portée 1,5 m, une créature consentante, ou une créature que Strahd agrippe, neutralisée ou entravée. <em>Touché :</em> <span class="highlight">8 (1d6 + 5) dégâts perçants plus 10 (3d6) dégâts nécrotiques</span>.
-        Le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis, et Strahd récupère des points de vie égaux à ce montant. La réduction persiste jusqu'à ce que la cible termine un long repos.</p>
-    <p><strong><em>Charme.</em></strong> Un humanoïde dans un rayon de 9 mètres que Strahd peut voir doit réussir un jet de sauvegarde de Sagesse DD 19 ou être magiquement charmé pendant 1 minute ou jusqu'à ce que Strahd perde sa concentration (comme s'il
+    <p><strong><em>Frappe Désarmée.</em></strong> Attaque d'Arme de Mêlée : <span class="highlight">+12 pour toucher</span>, portée 1,5 m, une cible. <em>Touché :</em> <span class="highlight">10 (1d8 + 5) dégâts tranchants plus 14 (4d6) dégâts nécrotiques</span>.
+        Si la cible est une créature, Strahd peut l'agripper (DD d'évasion 20).</p>
+    <p><strong><em>Morsure.</em></strong> Attaque d'Arme de Mêlée : <span class="highlight">+12 pour toucher</span>, portée 1,5 m, une créature consentante, ou une créature que Strahd agrippe, neutralisée ou entravée. <em>Touché :</em> <span class="highlight">8 (1d6 + 5) dégâts perçants plus 10 (3d6) dégâts nécrotiques</span>.
+        La valeur maximale de points de vie de la cible est réduite d'un montant égal aux dégâts nécrotiques subis, et Strahd regagne un nombre de points de vie égal à ce montant. Chaque fois que la cible termine un repos long sans être mordue à nouveau, elle peut lancer l'un de ses dés de vie et ajouter son modificateur de Constitution. Les points de vie maximum de la cible augmentent d'un montant égal au résultat. (Cette augmentation ne peut pas faire monter les points de vie de la cible au-dessus de son maximum d'origine.)</p>
+    <p><strong><em>Charme.</em></strong> Un humanoïde dans un rayon de 9 mètres que Strahd peut voir doit réussir un jet de sauvegarde de Sagesse DD 20 ou être magiquement charmé pendant 1 minute ou jusqu'à ce que Strahd perde sa concentration (comme s'il
         se concentrait sur un sort).</p>
     <p>Une cible qui ne peut pas voir Strahd réussit automatiquement. Tant qu'elle est charmée, la cible considère Strahd comme un ami de confiance à écouter et à protéger ; elle n'est pas sous le contrôle de Strahd, mais accepte ses demandes et ses actions
         de la manière la plus favorable et le laisse le mordre.</p>
@@ -448,10 +465,10 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
         qu'il utilise une action bonus pour y mettre fin.</p>
     <!-- Bonus Actions Section -->
     <h3>Actions Bonus</h3>
-    <p><strong><em>Frénésie de Chauves-Souris.</em></strong> Strahd invoque un essaim d'ombres semblables à des chauves-souris de sa cape, forçant chaque créature dans un <span class="highlight">rayon de 3 mètres</span> à réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 19</span>        ou subir <span class="highlight">15 (6d4) dégâts nécrotiques</span> et avoir un désavantage sur la prochaine attaque qu'elle porte avant le début du prochain tour de Strahd. Une créature qui réussit le jet subit la moitié des dégâts et n'a pas
+    <p><strong><em>Frénésie de Chauves-Souris.</em></strong> Strahd invoque un essaim d'ombres semblables à des chauves-souris de sa cape, forçant chaque créature dans un <span class="highlight">rayon de 3 mètres</span> à réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 20</span>        ou subir <span class="highlight">15 (6d4) dégâts nécrotiques</span> et avoir un désavantage sur la prochaine attaque qu'elle porte avant le début du prochain tour de Strahd. Une créature qui réussit le jet subit la moitié des dégâts et n'a pas
         de désavantage.</p>
     <p><strong><em>Fureur du Prédateur.</em></strong> Strahd invoque une paire d'ombres semblables à des loups depuis sa cape et choisit jusqu'à deux créatures qu'il peut voir dans un <span class="highlight">rayon de 18 mètres</span> qui se trouvent à 1,5
-        mètre l'une de l'autre. Une cible doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 19</span> ou subir <span class="highlight">16 (2d10 + 5) dégâts de force</span> et être mise à terre. Une créature qui réussit le jet subit
+        mètre l'une de l'autre. Une cible doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 20</span> ou subir <span class="highlight">16 (2d10 + 5) dégâts de force</span> et être mise à terre. Une créature qui réussit le jet subit
         la moitié des dégâts et n'est pas mise à terre.</p>
     <!-- Reactions Section -->
     <h3>Réactions</h3>
@@ -462,11 +479,16 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <h3>Actions de Repaire</h3>
     <p>Tant que Strahd se trouve dans le Château Ravenloft, il peut effectuer des actions de repaire tant qu'il n'est pas neutralisé.</p>
     <p>À l'initiative 20 (les égalités d'initiative sont perdues), Strahd peut prendre l'une des options d'action de repaire suivantes :</p>
-    <p><strong><em>Déluge de Sang.</em></strong> Une vague de sang explose vers l'extérieur à partir d'un point que Strahd peut voir dans un <span class="highlight">rayon de 18 mètres</span>. Chaque créature dans un rayon de 3 mètres de ce point doit réussir
-        un jet de sauvegarde de Force DD 19. En cas d'échec, la créature subit 7 (2d6) dégâts contondants et est poussée de 3 mètres et mise à terre. La créature est également aveuglée jusqu'à l'initiative 20 au round suivant.</p>
-    <p><strong><em>Cris des Damnés.</em></strong> Strahd invoque une torrent éthéré de spectres hurlants dans un rayon de 1,5 mètre centré sur un point dans un rayon de 18 mètres qu'il peut voir. Chaque créature dans cette zone doit réussir un jet de sauvegarde
-        de Sagesse DD 19 ou être effrayée par Strahd jusqu'à l'initiative 20 au round suivant. Une créature effrayée de cette manière est paralysée.</p>
+<p><strong><em>Déluge de Sang.</em></strong> Une vague de sang explose vers l'extérieur depuis un point que Strahd peut voir à <span class="highlight">18 mètres</span>. Chaque créature dans un rayon de 3 mètres de ce point doit effectuer un jet de sauvegarde de Force DD 20. En cas d'échec, une créature subit 7 (2d6) dégâts contondants et est poussée de 3 mètres loin du point et jetée à terre. La créature est également aveuglée jusqu'à l'initiative 20 au prochain round.</p>
+<p><strong><em>Lamentations des Damnés.</em></strong> Strahd invoque un torrent éthéré de spectres hurlants dans un rayon de 1,5 mètre centré sur un point qu'il peut voir dans un rayon de 18 mètres. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Sagesse DD 20 ou être effrayée par Strahd jusqu'à l'initiative 20 au prochain round. Une créature effrayée de cette manière est paralysée.</p>
+<!-- Fane Lair Actions Section -->
+<h3>Actions Repaires des Fanes</h3>
+<p>Lorsqu'il est à l'extérieur, si les joueurs n'ont pas encore reconsacré la Fane de la Montagne, Strahd peut effectuer des actions de repaire tant qu'il n'est pas incapacité.</p>
+<p>À l'initiative 20 (perdant en cas d'égalité), Strahd peut choisir l'une des options d'action de repaire suivantes, ou renoncer à les utiliser pour ce round :</p>
+<p><strong><em>Changement de Météo (nécessite la Fane de la Montagne).</em></strong> Strahd lance <em>contrôle du climat</em> en tant qu'action sans concentration ni composantes. Quand il le fait, il peut changer n'importe quel nombre de conditions météorologiques vers n'importe lequel des stades donnés.</p>
+<p><strong><em>Appel de la Foudre (nécessite la Fane de la Montagne).</em></strong> Strahd lance ou utilise <em>appel de la foudre</em> sans composantes ni concentration. Chaque fois qu'il lance les dégâts de foudre avec ce sort en extérieur pendant un orage, il inflige les dégâts maximums au lieu de lancer les dés.
 </div>
+
 
 # Notes de Conception : Strahd von Zarovich
 

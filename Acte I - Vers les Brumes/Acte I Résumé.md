@@ -17,6 +17,7 @@ Les joueurs commencent cet acte au niveau 2 et devraient le terminer au niveau 4
 - Enterrer les restes du bourgmestre Kolyan Indirovich dans le cimetière du village de Barovie (400 PX)
 - Réconcilier Doru avec son père (100 PX)
 - Recevoir la lecture de Tarokka de Madame Eva (500 PX)
+- Escorter Ireena jusque Vallaki (250 XP)
 - Trouver un logement à Vallaki (1 000 PX)
 
 # Chronologie

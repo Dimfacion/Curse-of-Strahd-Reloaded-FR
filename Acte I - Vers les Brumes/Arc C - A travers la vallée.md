@@ -34,7 +34,7 @@ Lorsque les joueurs voyagent, lisez :
 
 Si des joueurs ont un score de Sagesse (Perception) passive de 16 ou plus, ils entendent un bruissement et voient une silhouette accroupie dans les sous-bois brumeux. Sinon, les joueurs entendent simplement une voix appeler, étouffée et diffuse dans le brouillard : "Qui va là ? Identifiez-vous."
 
-La voix appartient à une éclaireuse barovienne bourrue nommée Kereza, accompagnée d'un second éclaireur à la voix douce nommé Korga. Les deux exigent avec méfiance de savoir si les joueurs sont des espions ou des serviteurs de Strahd. Une fois rassurés, les éclaireurs avertissent les joueurs que les espions de Strahd sont nombreux dans les Bois de Svalich, y compris des loups, des chauves-souris et - parfois - les arbres eux-mêmes. (Si on les interroge sur les arbres, les éclaireurs peuvent décrire avoir vu des vignes animées, des jeunes arbres et des buissons épineux qui errent dans les bois avec des intentions hostiles.)
+La voix appartient à une éclaireuse barovienne bourrue nommée Kereza, accompagnée d'un second éclaireur à la voix douce nommé Korga, que les joueurs ont rencontré précédemment dans [[Arc B - Bienvenue en Barovie]]. Après s'être assuré que les joueurs ne transportent pas Ireena contre sa volonté, les éclaireurs avertissent les joueurs que les espions de Strahd sont nombreux dans les Bois de Svalich, y compris des loups, des chauves-souris et - parfois - les arbres eux-mêmes. (Si on les interroge sur les arbres, les éclaireurs peuvent décrire avoir vu des vignes animées, des jeunes arbres et des buissons épineux qui errent dans les bois avec des intentions hostiles.)
 
 Si [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] est avec les joueurs, elle peut les aider à rassurer les éclaireurs, qui la reconnaissent et la saluent avec un respect silencieux. Les éclaireurs sont surpris de voir Ireena s'aventurer hors du village, mais conviennent que Vallaki est probablement un endroit plus sûr que le village de Barovie - en supposant, bien sûr, qu'elle puisse y arriver en toute sécurité. (Ireena insiste cependant obstinément sur le fait que son voyage est diplomatique et humanitaire, et que les joueurs sont ses escortes et gardes du corps.)
 
@@ -48,23 +48,13 @@ Alors que les joueurs continuent sur la route, lisez :
 
 <div class="description"><p>Vous vous enfoncez davantage dans les bois, la route boueuse vous guidant plus profondément et plus loin de la civilisation. Au détour d'un virage, la rivière se rapproche à nouveau. Ici, elle est plus large, ses eaux sombres et calmes. Vous pouvez voir le reflet des arbres et du brouillard à sa surface. Le son de l'eau qui coule doucement n'est accompagné que par le bruissement des feuilles et le crachin d'une pluie légère. Aucun chant d'oiseau ne vient briser le silence qui plane sur les bois.</p></div>
 
+En traversant cette section de l'ancienne route de Svalich, les joueurs sont traqués par l'un des espions de Strahd : un **loup**. (Voir **Espions de Strahd, p. 29** pour plus d'informations.)
+
 Si les joueurs ont reçu l'emplacement de la cache d'armes cachée de Van Richten de la part de Doru dans l'église de Barovia, ils peuvent entrer dans les bois au sud pour la trouver. S'ils le font, lisez :
 
-<div class="description"> <p>Vous quittez la route pour entrer dans les bois, franchissant la lisière alors que vos pieds s'enfoncent dans la boue et le sol limoneux. Des volutes de brouillard s'enroulent autour de vous, des arbres noueux étendant leurs bras au-dessus de vos têtes tandis qu'une lumière grise filtre à travers la canopée. Vous marchez sur trois cents pas, avançant doucement à travers l'humus et la brume jusqu'à arriver dans une clairière, les bois s'écartant pour faire place à un grand chêne ancien dont le tronc noir et noueux s'élève bien au-dessus de ses congénères.</p> <p>Vous réalisez bientôt, cependant, que vous n'êtes pas seuls. Cinq silhouettes se traînent ou se tiennent sans but dans la clairière, leurs vêtements boueux et déchirés et leur chair commençant tout juste à devenir pâle et grise. Une sixième silhouette, portant les restes d'une armure de cuir en lambeaux, se tient juste à côté de l'arbre, ses yeux blancs fixant mollement la canopée au-dessus. La chair de cette silhouette, bien que pourrissante, est d'un blanc lisse et maladif, sa peau parcourue de veines cramoisies en relief. Un léger nuage de brume rougeâtre s'échappe de sa bouche et descend sur le sol de la forêt autour d'elle avant de se dissiper dans l'air.</p> </div>
+<div class="description"> <p>Vous quittez la route pour entrer dans les bois, franchissant la lisière alors que vos pieds s'enfoncent dans la boue et le sol limoneux. Des volutes de brouillard s'enroulent autour de vous, des arbres noueux étendant leurs bras au-dessus de vos têtes tandis qu'une lumière grise filtre à travers la canopée. Vous marchez sur trois cents pas, avançant doucement à travers l'humus et la brume jusqu'à arriver dans une clairière, les bois s'écartant pour faire place à un grand chêne ancien dont le tronc noir et noueux s'élève bien au-dessus de ses congénères.</p> <p>Vous réalisez bientôt, cependant, que vous n'êtes pas seuls. Cinq silhouettes se traînent ou se tiennent sans but dans la clairière, leurs vêtements boueux et déchirés et leur chair commençant tout juste à devenir pâle et grise.</p> </div>
 
-Les cinq silhouettes sont des **zombies**. Elles correspondent également aux descriptions de la famille Lansten fournies par les éclaireurs - deux parents, une jeune fille et deux jeunes garçons. La sixième silhouette est un <span class="citation">propagateur de peste zombie (<em>Guide de Van Richten sur Ravenloft</em>, p. 255)</span> créé par Strahd, et l'ancien chef du siège des morts-vivants. (Augmentez les points de vie du **propagateur de peste** à 130, diminuez les dégâts nécrotiques infligés par son _**coup**_ à 5 (1d8), et diminuez les dégâts infligés par son _**miasme virulent**_ à 7 (2d6) dégâts de poison par créature.)
-
-> [!combat]- **Équilibrer les Zombies** 
-> Cette rencontre de combat est une rencontre **oppressive** contre un groupe de cinq joueurs de niveau 3 et un allié de FP 1 (Ireena Kolyana), et consommera environ 86% de leurs points de vie maximum totaux. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
-> 
-> - _**Trois Joueurs.**_ Réduisez le nombre de zombies à un.
-> - _**Quatre Joueurs.**_ Réduisez le nombre de zombies à trois.
-> - _**Six Joueurs.**_ Augmentez le nombre de zombies à sept.
-
-> [!design]- **Note de Conception : Le Propagateur de Peste** 
-> Le **propagateur de peste zombie** original est un "canon de verre". Bien qu'il ait un Facteur de Puissance de 4, il a un "Facteur de Puissance Offensif" sous-jacent de 7 (en raison des dégâts élevés de son attaque multiple et de son _**miasme virulent**_) et un "Facteur de Puissance Défensif" de 1/2 (en raison de sa faible Classe d'Armure). Cela crée un risque élevé de combat "mouvant", dans lequel les joueurs tuent soit le propagateur de peste avant qu'il ne cause des dégâts notables, soit meurent à cause de ses dégâts élevés avant de pouvoir le tuer.
-> 
-> Ces modifications diminuent le "Facteur de Puissance Offensif" du propagateur de peste à 4 et augmentent son "Facteur de Puissance Défensif" à 3, maintenant son Facteur de Puissance constant tout en permettant un combat plus long et plus stable.
+Les cinq silhouettes sont des **zombies**. Elles correspondent également aux descriptions de la famille Lansten fournies par les éclaireurs - deux parents, une jeune fille et deux jeunes garçons.
 
 Les joueurs peuvent essayer d'attirer les zombies loin de la clairière ; étant donné la faible intelligence des zombies, cela devrait être relativement facile. Alternativement, les joueurs peuvent tenter de tendre une embuscade et d'attaquer les zombies pour les détruire complètement.
 
@@ -193,12 +183,15 @@ Si les joueurs s'interrogent sur la nature de la Maison de la Mort, ou sur son r
 
 Si les joueurs interrogent Strahd sur son conducteur, Strahd le présente comme Escher, "mon cocher et mon échanson". Escher ne répond pas aux questions ou aux déclarations des joueurs et se tient simplement avec modestie aux côtés de Strahd.
 
+>[!abstract]+ **Demande de liberté**  
+Si les joueurs demandent si Strahd les a intentionnellement piégés en Barovie, il le nie sincèrement. En revanche, s'ils lui demandent de les libérer, il refuse. « Pourquoi devrais-je vous libérer, » dit-il avec un sourire en coin, « alors qu’il m’amuse tant de faire autrement ? »
+
 ## C2c. Les questions de Strahd
 
 Au cours de la conversation, à des moments où cela semble naturel de le faire, [[Strahd von Zarovich#Le Gentilhomme|Strahd]] pose aux joueurs les questions suivantes (sans ordre particulier) :
 
-- "Ismark Kolyanovich m'a défié en gardant sa sœur loin de moi. Pourquoi ne devrais-je pas, en tant que son seigneur, le punir pour sa déloyauté ?"
-- "J'ai revendiqué Ireena Kolyana, et l'ai marquée deux fois comme mienne. Pourquoi ne devrais-je pas l'emmener avec moi au château Ravenloft maintenant ?"
+- "Ismark Kolyanovich m'a défié en faisant obstuction à la justice qu'il m'appartenait d'appliquer à son village. Pourquoi ne devrais-je pas, en tant que son seigneur, le punir pour sa déloyauté ?"
+- "J'ai revendiqué Ireena Kolyana, et l'ai marquée comme mienne. Pourquoi ne devrais-je pas l'emmener avec moi au château Ravenloft maintenant ?"
 - "Vous êtes des intrus sur mes terres, et le dernier étranger qui est entré en Barovie a favorisé la sédition et la trahison. Pourquoi ne devrais-je pas vous éliminer maintenant, tout comme je me suis débarrassé de lui ?" (La question de Strahd fait référence au Dr Rudolph van Richten.)
 
 Si les joueurs ont enterré les os de Walter et apaisé les esprits de la Maison de la Mort, Strahd pose une question supplémentaire :
@@ -249,11 +242,11 @@ La grande strix est accompagnée de deux **essaims de petits strix** (chacun uti
 > [!combat]- **Équilibrer la Strix** 
 > Cette rencontre de combat est une rencontre **éprouvante** contre un groupe de cinq joueurs de niveau 3 et un allié de FP 1 (Ireena Kolyana), et consommera environ 34% de leurs points de vie maximum totaux. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
 > 
-> - _**Trois Joueurs.**_ Réduisez les PV du grand strix à 46. Réduisez ses attaques _**pointes de queue**_ et _**morsure**_ à 5 (1d6+2) dégâts perforants et son attaque _**griffe**_ à 4 (1d4+2) dégâts tranchants. Réduisez le nombre d'essaims de petits strix à un et réduisez les PV de l'essaim à 16 et son attaque _**morsure**_ à 5 (2d4) dégâts perforants ou 2 (2d4) dégâts perforants s'il lui reste la moitié de ses points de vie ou moins.
+> - _**Trois Joueurs.**_ Réduisez les points de vie du grand strix à 46. Réduisez ses attaques _**pointes de queue**_ et _**morsure**_ à 5 (1d6+2) dégâts perforants et son attaque _**griffe**_ à 4 (1d4+2) dégâts tranchants. Réduisez le nombre d'essaims de petits strix à un et réduisez les points de vie de l'essaim à 16 et son attaque _**morsure**_ à 5 (2d4) dégâts perforants ou 2 (2d4) dégâts perforants s'il lui reste la moitié de ses points de vie ou moins.
 > - _**Quatre Joueurs.**_ Réduisez le nombre d'essaims de petits strix à un.
 > - _**Six Joueurs.**_ Augmentez le nombre d'essaims de petits strix à trois.
 
-Ces abominations ont été construites par la sorcière Baba Lysaga pour chasser les lycanthropes-corbeaux. Ces strix particulieres - un cadeau de Baba Lysaga à Strahd lors de son réveil - ont reçu l'ordre de chasser et de tuer Muriel, qui a été repérée en train d'espionner la lecture de Tarokka que Strahd a reçue de Madame Eva plus tôt dans la matinée. Elle continue de poursuivre Muriel, attaquant les joueurs s'ils font obstacle. Elle se bat jusqu'à la mort.
+Ces abominations ont été construites par la sorcière Baba Lysaga pour chasser les lycanthropes-corbeaux. Ces strix particulieres - un cadeau de Baba Lysaga à Strahd lors de son réveil - ont reçu l'ordre de chasser et de tuer Muriel, qui a été repérée en train d'espionner la lecture de Tarokka que Strahd a reçue de Madame Eva plus tôt dans la matinée. Elle continue de poursuivre Muriel, attaquant les joueurs à sa place si ils tentent de la blesser ou bien de protéger Muriel de ses attaques. Elle se bat jusqu'à la mort.
 
 > [!warning]+ **Ne blessez pas Ireena** 
 > Les sbires de Strahd et ceux qui lui sont loyaux, y compris la strix, n'attaquent pas Ireena.
@@ -310,7 +303,7 @@ Si elle est secourue, Muriel reste avec les joueurs jusqu'à ce qu'elle puisse d
    <h3>Actions</h3>
    <p><strong><em>Attaque multiple.</em></strong> Muriel effectue deux attaques avec une arme, dont une peut être avec son arbalète de poing.</p>
    <p><strong><em>Épée courte.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d'arme au corps à corps</em> : +5 au toucher, allonge 1,5 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
-   <p><strong><em>Arbalète de poing.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d'arme à distance</em> : +5 au toucher, portée 9/36 m, une cible. <em>Touché :</em> 5 (1d6 + 2) dégâts perforants.</p>
+   <p><strong><em>Arbalète de poing.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d'arme à distance</em> : +5 au toucher, portée 9/36 m, une cible. <em>Touché :</em> 5 (1d6 + 3) dégâts perforants.</p>
    <p><strong><em>Bec.</em></strong> (Forme de corbeau ou hybride uniquement) <em>Attaque d'arme au corps à corps</em> : +5 au toucher, allonge 1,5 m, une cible. <em>Touché :</em> 1 dégât perforant sous forme de corbeau, ou 5 (1d4 + 3) dégâts perforants sous forme hybride. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 10 ou être maudite par la lycanthropie du lycanthrope-corbeau.</p>
    <h3>Actions bonus</h3>
    <p><strong><em>Changement de forme.</em></strong> Muriel se transforme en un hybride corbeau-humanoïde ou en un corbeau, ou reprend sa forme humaine. Ses statistiques, à l'exception de sa taille, sont les mêmes dans chaque forme. L'équipement qu'elle porte ou transporte n'est pas transformé. Elle reprend sa forme humaine si elle meurt.</p>
@@ -321,7 +314,7 @@ Si elle est secourue, Muriel reste avec les joueurs jusqu'à ce qu'elle puisse d
 Si elle apprend que les joueurs prévoient de se rendre à Vallaki, Muriel voyage avec eux tout en maintenant son déguisement de corbeau, espérant compter sur la sécurité du nombre jusqu'à ce qu'elle puisse rapporter ses découvertes à Urwin Martikov à l'auberge de l'Eau Bleue. En aucun cas Muriel ne révèle volontairement sa véritable nature aux joueurs à ce moment-là.
 
 > [!info]+ **Muriel Incognito** 
-> Lors de ses voyages avec les joueurs, Muriel tente de garder un profil bas tout en s'attirant les bonnes grâces du groupe. Lorsqu'elle est sous forme de corbeau, les joueurs peuvent communiquer avec elle en utilisant le sort _communication avec les animaux_, bien qu'elle nie toute connaissance de Strahd ou des origines des strix et prétende être un corbeau ordinaire et simple d'esprit, uniquement préoccupé par la nourriture et l'évitement des prédateurs.
+> Lors de ses voyages avec les joueurs, Muriel tente de garder un profil bas tout en s'attirant les bonnes grâces du groupe. Lorsqu'elle est sous forme de corbeau, les joueurs peuvent communiquer avec elle uniquement en utilisant le sort _communication avec les animaux_, bien qu'elle nie toute connaissance de Strahd ou des origines des strix et prétende être un corbeau ordinaire et simple d'esprit, uniquement préoccupé par la nourriture et l'évitement des prédateurs. Si on lui demande son nom, elle insiste avec excitation puis (si on l'interroge avec insistance), réponds que son nom est "Bleue".
 > 
 > En accompagnant le groupe, Muriel peut utiliser sa capacité de _**mimétisme**_ pour produire l'un des sons suivants afin de stimuler ou de réagir aux joueurs :
 > 
@@ -345,7 +338,7 @@ Cette zone est largement telle que décrite dans <span class="citation">G. Campe
 
 Lorsque les joueurs entrent dans le camp, ils sont accueillis par Stanimir, un vieux Vistana qui les informe que la chef de leur campement, Madame Eva, les attend et leur indique la tente d'Eva. Stanimir, un vieil homme jovial et haut en couleur avec une lueur dans les yeux, est largement tel que décrit dans <span class="citation">De bien Mystérieux Visiteurs (p. 19)</span>. Cependant, il a le sort _image majeure_ préparé plutôt que _caresse du vampire_. 
 
-Stanimir est heureux de répondre à toutes les questions que les joueurs pourraient avoir sur les Vistani ou sur Barovia, comme décrit dans <span class="citation">Connaissances Vistani (p. 27)</span>. (Les seules exceptions sont les informations sur les Baroviens sans âme, qui n'existent pas, et le Vieux Moulin à Os, que Stanimir ne mentionne pas. Les Vistani ne savent pas qu'un sabbat de **guenaudes nocturnes** s'est récemment installé dans le vieux moulin à vent, qu'ils connaissent uniquement sous le nom de Vieux Moulin Durst.) 
+Stanimir est heureux de répondre à toutes les questions que les joueurs pourraient avoir sur les Vistani ou sur Barovia, comme décrit dans <span class="citation">Connaissances Vistani (p. 27)</span>. Les seules exceptions sont les informations sur les Baroviens sans âme, qui n'existent pas, et le Vieux Moulin à Os, que Stanimir ne mentionne pas. De plus, Stanimir et les Vistani ne savent pas qu'un sabbat de **guenaudes nocturnes** s'est récemment installé dans le vieux moulin à vent, qu'ils connaissent uniquement sous le nom de Vieux Moulin Durst. Les Vistani ne mentionnent pas non plus les malédictions Vistani, qu'ils considèrent comme de simples superstitions, et décrivent l'intérêt de Strahd pour Tatyana comme un « désir véritable » plutôt qu'un « véritable amour. »
 
 Cependant, Stanimir ne discutera pas des affaires de Strahd à l'étang de Tser. Au lieu de cela, il partage sa conviction que Strahd ne reviendra pas de sitôt, et rassure les joueurs en leur disant que tout ce qui sera discuté lors de leur rencontre avec Madame Eva ne parviendra pas aux oreilles du vampire. 
 
@@ -492,7 +485,7 @@ Après qu'un des joueurs soit passé, Eliza partage ensuite le conte suivant :
 
 Quand son conte est terminé et que tous les participants ont fait leurs suppositions — Stanimir et Arturi passant en dernier, Stanimir votant "Vrai" et Arturi votant "Faux" — Eliza révèle que son histoire était à moitié vraie.
 
-Lugdana était en effet une paladine du Seigneur du Matin qui portait le légendaire _Saint Symbole du Corbeau_. Selon la légende, le symbole a été donné à Lugdana par un ange sous l'apparence d'un corbeau. Eliza note cependant avec un petit rire que personne ne sait ce qui est arrivé au Symbole après la chute de Lugdana à la Colline d'Antan, ni où il réside aujourd'hui.
+Lugdana était en effet une paladine du Seigneur du Matin qui portait le légendaire _Symbole Sacré de l'Ordre du Corbeau_, un amulette en platine en forme de soleil, avec un énorme rubis incrusté en son centre. Selon la légende, le symbole a été donné à Lugdana par un ange sous l'apparence d'un corbeau. Eliza note cependant avec un petit rire que personne ne sait ce qui est arrivé au Symbole après la chute de Lugdana à la Colline d'Antan, ni où il réside aujourd'hui.
 
 ### Le Conte d'Arturi
 
@@ -595,15 +588,15 @@ Quelle que soit la réponse des joueurs, Madame Eva partage ensuite les informat
 
 Quelle que soit la réponse des joueurs, Madame Eva les fixe d'un regard. "Si vous souhaitez abandonner cette mission, aucune âme ne pourrait vous blâmer. Il n'y a pas de honte à fuir un ennemi que nul autre n'a vaincu. Si vous souhaitez que je lise votre avenir, je peux lire vos paumes, ou regarder dans ma boule de cristal. Je peux vous dire le visage de votre véritable amour, le chemin vers la santé dans vos vieux jours, ou le succès que vous pourriez trouver dans un métier ou une profession." Elle fait une pause, puis ajoute, sa voix presque un murmure : "Ou je peux lire les cartes — et vous mettre sur un chemin qui ne se termine que lorsque votre ennemi est vaincu — ou que vous l'êtes. Le choix vous appartient."
 
-Si les joueurs insistent sur leur désir de vaincre Strahd, Madame Eva hoche la tête. "Très bien," dit-elle. "Alors commençons." Elle claque ensuite des doigts — et les joueurs sont immédiatement transportés à l'intérieur de <span class="citation">la Tente de Madame Eva (p. 37)</span>.
+Si les joueurs insistent sur leur désir de vaincre Strahd, Madame Eva hoche la tête. "Très bien," dit-elle. "Alors commençons."
 
 ## C4f. La Lecture du Tarokka
 
-Lorsque les joueurs apparaissent dans la tente de Madame Eva après avoir accepté son avertissement, lisez :
+Madame Eva commence la lecture du Tarokka en s’asseyant sur la terre du cimetière, glissant la main dans son manteau et en sortant trois vieilles bougies qu’elle plante dans le sol avant de les allumer d’un geste de la main. Elle sort ensuite un jeu de cartes Tarokka, qu’elle place au sol entre les bougies. Lisez :
 
 <div class="description"> <p>Ses vieilles mains travaillant adroitement, l'ancienne voyante retire quatorze cartes du dessus du paquet, les mettant de côté. Les cartes restantes, elle les mélange habilement deux fois, trois fois, quatre fois.</p> </div>
 
-Pendant qu'elle mélange le paquet, les joueurs remarquent une bourse en velours sur la table qui n'était pas présente lors de leur précédente visite. Madame Eva croise leur regard, puis ricane doucement. "La tâche que vous me demandez n'est pas une mince faveur," murmure-t-elle. "En échange, je vous demanderais une faveur en retour."
+Pendant qu'elle mélange le paquet, les joueurs remarquent une bourse en velours sur le sol, près d'elle qui n'était pas présente il y a encore un instant. Madame Eva croise leur regard, puis ricane doucement. "La tâche que vous me demandez n'est pas une mince faveur," murmure-t-elle. "En échange, je vous demanderais une faveur en retour."
 
 Si les joueurs acceptent la demande de Madame Eva ou s'enquièrent davantage, elle les informe que la bourse contient dix pièces d'or. "Ma petite-petite-nièce, Arabelle, fêtera son dixième anniversaire dans deux jours," dit-elle. "Pour cette occasion mémorable, je souhaite lui offrir un cadeau — mais à mon grand age, je suis tout à fait incapable de faire le voyage moi-même."
 
@@ -613,9 +606,15 @@ Eva ajoute, avec un sourire énigmatique, que les joueurs pourraient apprécier 
 
 Si les joueurs acceptent la tâche de Madame Eva, elle hoche la tête avec approbation. Elle commence alors la lecture du Tarokka. Lisez :
 
-<div class="description"> <p>Madame Eva pose les deux paquets sur la surface de la table en velours. Fermant les yeux, elle place sa main droite au-dessus du plus grand paquet. Les flammes cramoisies s'assombrissent et tourbillonnent en motifs étranges tandis que ses lèvres bougent silencieusement, une tension lointaine se répandant dans l'air. Les sons des arbres bruissants et de l'étang ondulant au-delà des murs de la tente commencent à s'estomper, le monde extérieur devenant muet et insubstantiel alors que l'espace à l'intérieur devient plus solide — plus réel.</p> <p>Lentement, avec révérence, la vieille femme tire trois cartes du dessus du paquet, les posant face cachée séparément sur la table, la deuxième placée entre et au-dessus de ses partenaires. Elle passe ensuite au petit paquet, tirant deux cartes de plus. La première, elle la place sous les trois premières, formant une croix. La seconde, elle la place au centre.</p> <p>Les lumières des bougies oscillent comme des silhouettes, se penchant vers les cartes comme des observateurs anxieux — pourtant l'air dans la tente est parfaitement immobile. Aucune lumière ne pénètre par les coutures des murs de la tente ; aucune voix ne résonne dans le silence. Des ombres et de la brume tourbillonnent aux limites de la tente, où règne l'obscurité de la nuit la plus profonde — mais ici, en son centre, la lumière règne encore.</p> <p>La vieille femme déplace alors sa main ridée vers la carte la plus à gauche — la première. Elle ferme les yeux et incline la tête, comme si elle écoutait une parole non prononcée. Les lumières arcaniques tourbillonnent puis changent, leurs couleurs virant à un bleu profond et perçant.</p> <p>"Cette carte parle d'histoire. La connaissance de l'ancien vous aidera à mieux comprendre votre ennemi."</p> <p>Elle retourne la carte.</p> <p>La lumière céruléenne danse sur sa surface, révélant une illustration d'un garde souriant regardant un prêtre hautain, les doigts pointés du prêtre à quelques centimètres du nez du garde tandis que celui-ci prépare une dague méchamment courbée derrière son dos. "Le Neuf de Glyphes — le Traître." Ses pupilles sombres se déplacent d'un côté à l'autre, comme si elle lisait un texte invisible. "Je vois l'ancien ennemi d'une vieille et noble maison. L'âme errante vous mènera à lui."</p> <p>Elle déplace sa main vers la deuxième carte, celle en haut de la croix. Alors qu'elle ferme les yeux et écoute à nouveau, la lumière des bougies flamboie, sa couleur éclatant en un jaune vif et joyeux.</p> <p>"Cette carte parle d'une puissante force pour le bien et la protection, un symbole sacré de grand espoir." Elle retourne la carte.</p> <p>Cette fois, la lumière révèle une nouvelle illustration : un guerrier en armure tenant une épée en fer fêlée et un bouclier en bois recouvert de cuir, son visage obscurci par un lourd casque de fer. "Le Cinq d'Épées — le Myrmidon." Ses yeux fixent les ombres qui se cachent dans les coins de la tente. (Voir <span class="citation">Épées (Piques), p. 12</span>, pour la prédiction de cette carte.)</p> <p>Elle déplace sa main vers la troisième carte, sur le bras droit de la croix, ses paupières se fermant comme en transe, ses lèvres pincées en contemplation silencieuse. La lumière des bougies disparaît, l'espace d'un battement de cœur — puis revient dans un éclair blanc ardent, si pur et fort et si éclatant que cela vous fait mal de regarder, vous brûle de voir —</p> <p>Les yeux de Madame Eva s'ouvrent brusquement, brûlant d'une détermination féroce.</p> <p>"C'est une carte de puissance et de force. Elle parle d'une arme de vengeance : une épée de lumière solaire." Elle retourne la carte.</p> <p>La lumière révèle une troisième illustration : un homme au visage solennel vêtu d'habits sacrés, une main tenant la chaîne d'un encensoir en bronze qui dégage une fumée brûlante. "Le Huit de Glyphes — l'Évêque." La voix de la vieille femme est forte de détermination. (Voir <span class="citation">Glyphes (Cœurs), p. 14</span>, pour la prédiction de cette carte.)</p> <p>Elle passe à la quatrième carte, au bas de la croix, et écoute à nouveau, traçant de petits cercles sur son dos en fredonnant une note contemplative. Les flammes magiques bondissent et dansent sur leurs mèches, projetant maintenant des braises violettes tourbillonnantes dans l'air tandis que les murs de la tente brillent du scintillement du crépuscule.</p> <p>"Cette carte éclaire quelqu'un qui vous aidera grandement dans la bataille contre les ténèbres."</p> <p>Elle retourne la carte.</p> <p>Cette fois, l'illustration révélée est un cimetière tranquille étouffé par le brouillard, son entrée scellée par une clôture en fer pointu. "Les Brumes." Madame Eva se penche en avant. (Voir <span class="citation">L'Ennemi de Strahd, p. 17</span>, pour la prédiction de cette carte.)</p> <p>Enfin, elle déplace sa main vers la cinquième carte — et recule presque, son front se plissant jusqu'à ce que les rides fendent son front comme une tranchée. Derrière elle, les ombres encerclent la lumière des bougies jusqu'à ce que la lumière soit presque avalée par l'obscurité rampante. Quand elle parle à nouveau, la voix rauque de Madame Eva est à peine plus qu'un murmure.</p> <p>"Votre ennemi est une créature des ténèbres, dont les pouvoirs dépassent la mortalité. Quand l'heure du jugement arrivera, cette carte vous mènera à lui !"</p> <p>Sa main tremble au-dessus de la carte pendant un moment silencieux — puis des doigts habiles et anciens révèlent son côté opposé.</p> <p>Dans l'obscurité, la cinquième et dernière illustration est à peine visible à travers la fumée et la pénombre surnaturelle. Sur la surface de la carte se trouve une représentation d'un empereur couronné et souriant, vêtu d'habits royaux et tendant la main vers une coupe de vin — bien que ses membres soient des membres de marionnette en bois, attachés à des cordes qui disparaissent dans l'obscurité au-dessus.</p> <p>Madame Eva expire lentement. "La Marionnette." (Voir <span class="citation">L'Emplacement de Strahd dans le Château, p. 18</span>, pour la prédiction de cette carte.)</p> <p>Alors que la dernière syllabe passe ses lèvres, la vieille femme se fige — puis bascule en arrière dans sa chaise, ses yeux se révulsant jusqu'à ce que leurs blancs brillent comme des perles dans l'obscurité — puis elle se redresse brusquement, la lumière des bougies revenant à sa lueur cramoisie ordinaire.</p> <p>Le son du monde extérieur revient — les voix des Vistani, le crépitement du feu de camp, le murmure du vent, et le clapotis des vagues contre le rivage de l'étang. La lumière, grise et insubstantielle, filtre à nouveau à travers les murs de toile de la tente, et vous vous sentez respirer pour la première fois depuis le début de la lecture. Au-delà des murs de la tente, vous pensez entendre le bruit de pas qui approchent.</p> <p>Madame Eva ne dit rien. Elle vous regarde simplement en silence avec des yeux sombres et lourds.</p></div>
+<div class="description"> <p>Madame Eva pose les deux paquets sur le sol devant elle. Fermant les yeux, elle place sa main droite au-dessus du plus grand paquet. Les flammes cramoisies s'assombrissent et tourbillonnent en motifs étranges tandis que ses lèvres bougent silencieusement, une tension lointaine se répandant dans l'air. Les sons des arbres bruissants et de l'étang ondulant au-delà des murs de la tente commencent à s'estomper, le monde extérieur devenant muet et insubstantiel alors que l'espace à l'intérieur devient plus solide — plus réel.</p> <p>Lentement, avec révérence, la vieille femme tire trois cartes du dessus du paquet, les posant face cachée séparément sur la table, la deuxième placée entre et au-dessus de ses partenaires. Elle passe ensuite au petit paquet, tirant deux cartes de plus. La première, elle la place sous les trois premières, formant une croix. La seconde, elle la place au centre.</p> <p>Les ombres des pierres tombales oscillent comme des silhouettes, se penchant vers les cartes comme des observateurs anxieux — pourtant l'air dans la cimetière est parfaitement immobile. Aucune lumière excepté celles des trois bougies ; aucune voix ne résonne dans le silence. Des ombres et de la brume tourbillonnent autour des tombes, où règne l'obscurité de la nuit la plus profonde — mais ici, en son centre, la lumière règne encore.</p> <p>La vieille femme déplace alors sa main ridée vers la carte la plus à gauche — la première. Elle ferme les yeux et incline la tête, comme si elle écoutait une parole non prononcée. Les lumières arcaniques tourbillonnent puis changent, leurs couleurs virant à un bleu profond et perçant.</p> <p>"Cette carte parle d'histoire. La connaissance de l'ancien vous aidera à mieux comprendre votre ennemi."</p> <p>Elle retourne la carte.</p> <p>La lumière céruléenne danse sur sa surface, révélant une illustration d'un garde souriant regardant un prêtre hautain, les doigts pointés du prêtre à quelques centimètres du nez du garde tandis que celui-ci prépare une dague méchamment courbée derrière son dos. "Le Neuf de Glyphes — le Traître." Ses pupilles sombres se déplacent d'un côté à l'autre, comme si elle lisait un texte invisible. "Je vois l'ancien ennemi d'une vieille et noble maison. L'âme perdue vous mènera à lui."</p> <p>Elle déplace sa main vers la deuxième carte, celle en haut de la croix. Alors qu'elle ferme les yeux et écoute à nouveau, la lumière des bougies flamboie, sa couleur éclatant en un jaune vif et joyeux.</p> <p>"Cette carte parle d'une puissante force pour le bien et la protection, un symbole sacré de grand espoir." Elle retourne la carte.</p> <p>Cette fois, la lumière révèle une nouvelle illustration : un guerrier en armure tenant une épée en fer fêlée et un bouclier en bois recouvert de cuir, son visage obscurci par un lourd casque de fer. "Le Cinq d'Épées — le Myrmidon." Ses yeux fixent les ombres qui se cachent dans les coins de la tente. (Voir <span class="citation">Épées (Piques), p. 12</span>, pour la prédiction de cette carte.)</p> <p>Elle déplace sa main vers la troisième carte, sur le bras droit de la croix, ses paupières se fermant comme en transe, ses lèvres pincées en contemplation silencieuse. La lumière des bougies disparaît, l'espace d'un battement de cœur — puis revient dans un éclair blanc ardent, si pur et fort et si éclatant que cela vous fait mal de regarder, vous brûle de voir —</p> <p>Les yeux de Madame Eva s'ouvrent brusquement, brûlant d'une détermination féroce.</p> <p>"C'est une carte de puissance et de force. Elle parle d'une arme de vengeance : une épée de lumière solaire." Elle retourne la carte.</p> <p>La lumière révèle une troisième illustration : un homme au visage solennel vêtu d'habits sacrés, une main tenant la chaîne d'un encensoir en bronze qui dégage une fumée brûlante. "Le Huit de Glyphes — l'Évêque." La voix de la vieille femme est forte de détermination. (Voir <span class="citation">Glyphes (Cœurs), p. 14</span>, pour la prédiction de cette carte.)</p> <p>Elle passe à la quatrième carte, au bas de la croix, et écoute à nouveau, traçant de petits cercles sur son dos en fredonnant une note contemplative. Les flammes magiques bondissent et dansent sur leurs mèches, projetant maintenant des braises violettes tourbillonnantes dans l'air tandis que les murs de la tente brillent du scintillement du crépuscule.</p> <p>"Cette carte éclaire quelqu'un qui vous aidera grandement dans la bataille contre les ténèbres."</p> <p>Elle retourne la carte.</p> <p>Cette fois, l'illustration révélée est un cimetière tranquille étouffé par le brouillard, son entrée scellée par une clôture en fer pointu. "Les Brumes." Madame Eva se penche en avant. (Voir <span class="citation">L'Ennemi de Strahd, p. 17</span>, pour la prédiction de cette carte.)</p> <p>Enfin, elle déplace sa main vers la cinquième carte — et recule presque, son front se plissant jusqu'à ce que les rides fendent son front comme une tranchée. Derrière elle, les ombres encerclent la lumière des bougies jusqu'à ce que la lumière soit presque avalée par l'obscurité rampante. Quand elle parle à nouveau, la voix rauque de Madame Eva est à peine plus qu'un murmure.</p> <p>"Votre ennemi est une créature des ténèbres, dont les pouvoirs dépassent la mortalité. Quand l'heure du jugement arrivera, cette carte vous mènera à lui !"</p> <p>Sa main tremble au-dessus de la carte pendant un moment silencieux — puis des doigts habiles et anciens révèlent son côté opposé.</p> <p>Dans l'obscurité, la cinquième et dernière illustration est à peine visible à travers la fumée et la pénombre surnaturelle. Sur la surface de la carte se trouve une représentation d'un empereur couronné et souriant, vêtu d'habits royaux et tendant la main vers une coupe de vin — bien que ses membres soient des membres de marionnette en bois, attachés à des cordes qui disparaissent dans l'obscurité au-dessus.</p> <p>Madame Eva expire lentement. "La Marionnette." (Voir <span class="citation">L'Emplacement de Strahd dans le Château, p. 18</span>, pour la prédiction de cette carte.)</p> <p>Alors que la dernière syllabe passe ses lèvres, la vieille femme se fige — puis bascule en arrière dans sa chaise, ses yeux se révulsant jusqu'à ce que leurs blancs brillent comme des perles dans l'obscurité — puis elle se redresse brusquement, la lumière des bougies revenant à sa lueur cramoisie ordinaire.</p> <p>Les sons de la nature reviennent — le murmure du vent à travers les arbres, le hululement d'un hibou, et le clapotis de la rivière Ivlis au loin contre le rivage de l'étang. La lumière de la lune, grise et insubstantielle, filtre à nouveau à travers les tombes du cimetière, et vous vous sentez respirer pour la première fois depuis le début de la lecture. Au-delà des murs de la tente, vous pensez entendre le bruit de pas qui approchent.</p> <p>Madame Eva ne dit rien. Elle vous regarde simplement en silence avec des yeux sombres et lourds.</p></div>
 
-Madame Eva refuse d'élaborer sur les lectures des joueurs ou de fournir des informations ou de l'aide supplémentaires. Si on le lui demande, elle dit seulement : "Les fils du Destin ne peuvent être appelés comme un serviteur ou conjurés comme un tour de magicien. Je ne vois que ce que les cartes me montrent, et rien de plus." Avant que les joueurs ne partent, elle leur chuchote à nouveau de ne parler à aucun serviteur de Strahd de ce qu'ils viennent d'entendre.
+Madame Eva refuse d'élaborer sur les lectures des joueurs ou de fournir des informations ou de l'aide supplémentaires. Si on le lui demande, elle dit seulement : "Les fils du Destin ne peuvent être appelés comme un serviteur ou conjurés comme un tour de magicien. Je ne vois que ce que les cartes me montrent, et rien de plus."
+
+#TODO
+Madam Eva declines to return with the players, preferring instead to linger at the crossroads. If asked why, she shares only that the place holds "special memories" for her, and that she will return to Tser Pool when she is ready. "Fear not," she rasps, a twinkle of amusement in her eyes. "I have little to fear from the creatures that prowl these woods, I assure you." If the players depart the crossroads and later return, they find that Madam Eva has vanished.
+
+> [!lore]+ **Why Madam Eva Remains** 
+> Adventurers who sought to kill Strahd are not the only ones buried at this cemetery. Madam Eva's mother, the Vistana with whom King Barov II had an affair, is buried in the woods a short distance away from the gallows. (It is common for Vistani to bury their dead at crossroads, believing that doing so frees the spirit to guide others who follow the paths they once traveled.)
 
 **_Étape_**. Recevoir la lecture du Tarokka complète une étape de l'histoire. Lorsque le groupe sort de la tente de Madame Eva, accordez 500 XP à chaque joueur.
 
@@ -637,7 +636,7 @@ Lorsque les joueurs voyagent vers l'ouest depuis le carrefour de la rivière Ivl
 
 <div class="description"><p>Vous laissez le carrefour derrière vous et reprenez votre voyage vers l'ouest. Vous suivez la route qui contourne, puis monte la falaise, gravissant sa pente raide et rocailleuse. </p> <p>Le brouillard est épais ici, obscurcissant le sommet de la falaise au-dessus. La route elle-même devient étroite et dangereuse, avec des pierres détachées et des ornières profondes qui rendent difficile de garder l'équilibre. </p> <p>Bientôt cependant, la route s'aplanit, continuant au-delà d'une tour de guet en ruine à trois étages perchée au bord de la falaise. </p> <p>Les vieux murs de pierre de la tour sont couverts de mousse et de lierre, sa porte en bois pourri pendant de ses gonds. À proximité, deux tombes fraîches se trouvent le long de la route. Le cadavre d'un animal semble giser dans les hautes herbes non loin de là.</p></div>
 
-Faites une pause pour permettre aux joueurs d'agir ou de réagir. Si les joueurs restent silencieux, continuez vers [[#C7. Les Chutes de Tser]] ci-dessous. Sinon, permettez aux joueurs d'explorer la zone.
+Faites une pause pour permettre aux joueurs d'agir ou de réagir. Si les joueurs restent silencieux, continuez vers [[#C11. La Chasse du Loup-Garou]] ci-dessous. Sinon, permettez aux joueurs d'explorer la zone.
 
 ## La Tour de Guet
 
@@ -648,39 +647,82 @@ La tour de guet en ruine a été construite il y a longtemps comme poste d'obser
 - Il n'y a pas de tête de loup terrible montée au-dessus du foyer.
 - Il n'y a ni statues ni squelettes au sommet des créneaux.
 
-Si les joueurs explorent la tour de guet, ils trouvent un pendentif brisé représentant un dragon d'argent gisant sur le sol du premier étage, près de l'entrée. Le pendentif est toujours froid au toucher.
+Si les joueurs explorent la tour de guet, ils trouvent un pendentif brisé sculpté représentant un dragon d'argent gisant sur le sol du premier étage, près de l'entrée. Le pendentif est toujours froid au toucher.
 
 Du haut des créneaux de la tour de guet, les joueurs peuvent voir les Chutes de Tser au nord-ouest et le Bassin de Tser au nord-est. Au sud, au-dessus et au-delà des pentes du Mont Ghakis, ils ne peuvent voir qu'un mur impénétrable de brouillard épais et gris.
 
 ## Les Tombes
 
-Les deux tombes contiennent les restes de deux réfugiés baroviens qui ont été tués par des loups lors du voyage vers Vallaki il y a quelque temps. Un test de Sagesse (Survie) DC 12 révèle que les tombes ne datent pas de plus de quelques jours.
+Les deux tombes contiennent les restes de deux réfugiés baroviens qui ont été tués par des loups lors du voyage vers Vallaki il y a quelque temps. Un test de Sagesse (Survie) DC 12 révèle que les tombes ne datent pas de plus de quelques semaines.
 
 De petits cailloux ont été disposés dans la terre au-dessus de chaque tombe pour former la forme d'un soleil levant.
 
 ## Le Cadavre
 
-Le cadavre appartient à un loup tué par des lances et des carreaux d'arbalète. Les réfugiés baroviens l'ont laissé ici après l'avoir tué et avoir chassé les autres membres de sa meute.
+Le cadavre appartient à un loup tué par des lances et des carreaux d'arbalète et est en grande partie pourri. Les réfugiés baroviens l'ont laissé ici après l'avoir tué et avoir chassé les autres membres de sa meute.
 
-# C7. Les Chutes de Tser
+# C7. La Route Haute
 
 Le voyage du carrefour de la rivière Ivlis aux Chutes de Tser fait douze kilomètres de long, soit deux heures et demie.
 
-## La Route Haute
+## C7a. Le Ravin
 
-Lorsque les joueurs voyagent vers l'ouest sur la Vieille Route Svalich, lisez :
+#TODO
+As the players continue down the road, read:
 
-<div class="description"><p>Vous continuez sur la route sinueuse de montagne, les pics déchiquetés se profilant de manière menaçante à travers le brouillard loin au-dessus. </p> <p>L'air devient plus froid alors que la route traverse une sombre forêt de conifères, l'épaisse canopée bloquant une fois de plus une grande partie de la faible lumière du ciel. Les seuls sons qui vous suivent sont le craquement des feuilles mortes et un bruissement occasionnel dans les sous-bois.</p></div>
+Vous continuez le long de la route de montagne sinueuse, les pics acérés se dressant de façon menaçante dans le brouillard bien au-dessus de vous.
 
-En traversant cette section de la Vieille Route Svalich, les joueurs sont traqués par l'un des espions de Strahd : un **loup**. (Voir <span class="citation">Les Espions de Strahd, p. 29</span> pour plus d'informations.)
+L'air se refroidit alors que la route traverse une sombre forêt de conifères, le couvert dense bloquant de nouveau une grande partie de la faible lumière du ciel. Ici, la route se rétrécit, ses bords surplombant des pentes raides et rocheuses en contournant un éperon montagneux. Les seuls sons qui vous suivent sont le craquement des feuilles mortes et un bruissement occasionnel dans le sous-bois.
 
-Si les joueurs éliminent, ignorent ou ne remarquent pas le loup, continuez :
+If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
 
-<div class="description"><p>Alors que vous contournez le bord de la montagne, les falaises à droite s'effacent, laissant place à une chute abrupte vers un ravin boisé en contrebas. La route tourne, faisant demi-tour autour de ce ravin avant de plonger dramatiquement et de contourner un pic de montagne plus petit. </p></div>
+Alors que vos pas s'enfoncent dans l'ancienne route boueuse, vous apercevez un mouvement dans le sous-bois : un éclat de fourrure grise, des yeux ambrés et des crocs blancs et acérés. Puis, aussi vite qu'il est apparu, il disparaît, se glissant dans les ombres.
 
-Les joueurs arrivent alors aux <span class="citation">Chutes de Tser (p. 37)</span>.
+Le mouvement appartient à un loup, qui se retire rapidement dans les bois. Ses quatre compagnons de meute ne sont pas loin derrière, maintenant une distance de deux cents pieds alors qu'ils traquent les joueurs à travers les bois.
 
-## Les Chutes de Tser
+If the players continue, read:
+
+Alors que la route contourne le bord de la montagne, les falaises à droite s'effacent, laissant place à une chute abrupte vers un ravin boisé en contrebas. La route, désormais large d'à peine trois mètres, tourne un peu plus loin, rebroussant chemin autour de ce ravin avant de plonger dramatiquement pour serpenter autour d'un sommet plus petit.
+
+If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+
+Vous voyez trois ombres grises se faufiler dans le sous-bois devant vous. Deux autres apparaissent brièvement à la limite de votre vision, juste derrière vous.
+
+If one of the players has a passive Wisdom (Perception) score of 18 or higher, or if one of the players makes a successful DC 18 Wisdom (Perception) check, add:
+
+Un sixième loup se dissimule dans le ravin à une quinzaine de mètres plus bas, suivant vos mouvements en se fondant dans les ombres des rochers.
+
+If the players pause, proceed, or attack, the five wolves in the woods strike. Read:
+
+Cinq ombres grondantes surgissent du sous-bois, crocs découverts et griffes tendues !
+
+> [!combat]- **Balancing the Wolves**  
+> Cette rencontre est un affrontement sanglant contre un groupe de cinq joueurs de niveau 3, avec un allié de ND 1 (Ireena Kolyana), deux alliés de ND 1/4 (des nuées de corbeaux) et un allié de ND 0 (Muriel sous forme de corbeau), et consommera environ 58 % de leurs points de vie maximum au total. Pour des groupes de tailles différentes, modifiez la rencontre comme suit :
+> 
+> - **Trois joueurs** : Réduisez le nombre de loups à 3.
+> - **Quatre joueurs** : Réduisez le nombre de loups à 4.
+> - **Six joueurs** : Réduisez le nombre de loups à 1 et augmentez le nombre de loups-garous à 2.
+
+Replace the wolves' bite attack with the following action options:
+
+ - **Mutilation.** Attaque d’arme au corps à corps : +4 pour toucher, portée de 1,5 mètre, une cible. Touché : 7 (2d4 + 2) dégâts perforants. Au lieu d’infliger des dégâts, le loup peut agripper la cible (DD 11 pour échapper).
+ - **Griffes.** Attaque d’arme au corps à corps : +4 pour toucher, portée de 1,5 mètre, une cible. Touché : 6 (1d8 + 2) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force (DD 11). En cas d’échec, elle est projetée à terre ou repoussée de 1,5 mètre (au choix du loup).
+
+En combat, les loups ciblent un joueur à la fois, utilisant leur tactique de meute pour obtenir un avantage sur les jets d'attaque et leurs attaques de griffes pour tenter de faire chuter un joueur dans le ravin.
+
+Un joueur qui tombe dans le ravin dévale une pente de 15 mètres, subissant 17 (5d6) dégâts de chute et atterrissant à terre. Le sixième loup utilise sa Mutilation pour attaquer toute créature tombée dans le ravin, puis la traîne pour espérer un repas facile. Une créature agrippée au bord déchiqueté du ravin bénéficie d'une demi-couverture contre les créatures situées en haut.
+
+Dès qu’un joueur tombe dans le ravin, le reste de la meute fuit dans les bois, puis descend dans le ravin par un autre chemin pour aider le sixième loup à tirer sa proie. La meute s'enfuit si quatre des six loups sont tués.
+
+> [!info]+ **Descending Into the Ravine**  
+> Un joueur tentant de monter ou descendre le bord du ravin doit réussir un test de Force (Athlétisme) de difficulté 10. En cas de succès, le personnage se déplace à moitié vitesse vers le haut ou le bas du ravin, selon son intention. Sur un résultat de 6 à 9, le personnage ne progresse ni ne recule ; sur un résultat de 5 ou moins, le personnage tombe et subit 1d6 dégâts de chute par tranche de 3 mètres de chute, atterrissant à terre au fond du ravin.
+
+As the players depart this area, a player with a passive Wisdom (Perception) score of 13 or greater notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 20 Wisdom (Insight) check discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
+
+> [!lore]+ **The Watching Wolves**  
+> Les deux loups sont des loups-garous sous forme de loup. Brutes sanguinaires fidèles à Kiril Stoyanovich et Strahd von Zarovich, ils réapparaîtront pour traquer les joueurs dans **[[#C11. La Chasse des Loups-Garous]]**.
+
+## C7b. Les Chutes de Tser
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 2 : Zone H.</em></span>
 
@@ -711,6 +753,9 @@ Si les joueurs demandent au revenant pourquoi il garde le pont, il dit seulement
 
 Si les joueurs demandent pourquoi il ne peut pas prendre les armes contre Strahd lui-même, il dit seulement : "Parce que mon commandant l'interdit, et mon esprit est lié de tel sorte qu'il ne peut désobéir à sa volonté." Il est prêt à partager que le nom de son commandant est Sir Vladimir Horngaard, mais n'est pas disposé à en dire plus, conseillant aux joueurs de parler plutôt à Sir Godfrey.
 
+>[!abstract]+ **Secrets de l'Ambre**  
+Si les joueurs interrogent le revenant au sujet des "portes d'ambre" mentionnées dans la lecture de Tarokka de Madame Eva, le revenant se fige, puis avertit les joueurs qu'ils "se mêlent de choses dont il ne faudrait pas se mêler." Si les joueurs le rassurent en expliquant que leur intérêt pour les "portes d'ambre" vise la défaite de Strahd, le revenant hésite, puis les informe qu'il est "lié par un serment à ne jamais révéler les secrets de ce que nous avons jadis protégé." Cependant, il leur indique que Sir Godfrey peut leur fournir les informations qu'ils recherchent.
+
 > [!info]+ **Le Revenant Lié par Serment** 
 > Chaque revenant de l'Ordre du Dragon d'Argent a été lié par les effets de la capacité _**lien de serment**_ de Vladimir Horngaard, qui les oblige à obéir aux ordres express de Vladimir. Les revenants de l'Ordre, à l'exception de Sir Godfrey Gwilym, ont reçu les ordres suivants :
 > 
@@ -723,6 +768,8 @@ Si les joueurs demandent pourquoi il ne peut pas prendre les armes contre Strahd
 Si les joueurs demandent des directions pour Argynvostholt, le revenant leur conseille de voyager "à l'ouest, au-delà de la ville fortifiée, puis au sud sur le chemin gris cendré."
 
 Si les joueurs mentionnent le carrosse de Strahd, le revenant note son dégoût pour "la bête von Zarovich" et conseille aux joueurs d'être prudents envers lui et ses serviteurs et espions. Si les joueurs mentionnent le cavalier squelettique, le revenant partage que "l'Errant cherche une route vers la liberté à travers la brume. Il n'y parviendra jamais."
+
+Avant que les joueurs ne partent, le revenant les avertit de se méfier de "ceux qui marchent dans la peau des loups," qui hantent les forêts à l'ouest. "Autrefois, ils ne tourmentaient pas ceux qui parcouraient les routes," râle-t-il. "Cependant, quelque chose a changé, et maintenant, leur faim de chair humaine est insatiable." (Le revenant ne sait pas où se trouve le repaire des loups-garous, ni n’a d’autres informations sur la meute.)
 
 Le revenant ne quittera son poste sur le pont sous aucune circonstance.
 
@@ -737,6 +784,9 @@ Le voyage des Chutes de Tser au <span class="citation">Carrosse Noir (p. 37)</sp
 Cette zone est telle que décrite dans <span class="citation">Le Carrosse Noir (p. 37)</span>. (Le carrosse de Strahd n'est pas présent, bien que les joueurs puissent voir de profondes ornières dans la route boueuse qui passent de la Vieille Route Svalich à l'ancienne voie pavés qui mène au Château Ravenloft.)
 
 Le voyage du Carrosse Noir aux **Portes de Barovie** occidentales fait quatre cents mètres et prend cinq minutes. Cette zone est telle que décrite dans <span class="citation">Les Portes de Barovie (p. 33)</span>, mais vue du côté opposé.
+
+   >[!abstract]+ Visite du Château Ravenloft
+   Si les joueurs décident de se rendre au Château Ravenloft (par exemple, pour enquêter sur la disparition de Gertruda), le trajet depuis le carrefour fait quatre kilomètres et dure cinquante minutes. Lorsqu'ils arrivent, l'extérieur du château est décrit dans [[Arc P - Casse à Ravenloft#P2b. Approcher du Château|Arc P - Casse à Ravenloft]].
 
 # C9. Le Vieux Moulin à Os
 
@@ -757,6 +807,10 @@ Les joueurs arrivent à la base de la colline sur laquelle repose le **Vieux Mou
 Lorsque le moulin apparaît, les joueurs remarquent également **Morgantha** qui s'approche de la direction opposée avec sa charrette, comme décrit dans <span class="citation">Tourtes oniriques (p. 48)</span>.
 
 Cette scène se déroule largement comme décrit dans <span class="citation">Tourtes oniriques (p. 48)</span>, mais Morgantha vient de la ville de Vallaki, pas du village de Barovie, et elle n'a pas d'enfant fourré dans un sac dans sa charrette de colporteur.
+
+![[Morgantha_Disguised.png]]
+
+<span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Morgantha, Vendeuse de Rêves** 
 > **Informations de Jeu de Rôle** 
@@ -818,7 +872,7 @@ En arrivant sur la rive du lac, Ireena remarque avec appréhension qu'il semble 
 
 Ireena est cependant certaine qu'elle n'a jamais visité ce lac avec Ismark et son père, Kolyan. Elle n'est pas sûre des implications, mais se perd dans ses pensées si un joueur lui rappelle que son père l'a trouvée errant dans les Vieux Bois Svalich quand elle était enfant.
 
-# C11. La Chasse du Loup-Garou
+# C11. La Chasse des Loups-Garous
 
 Alors que les joueurs continuent sur la route, lisez :
 
@@ -826,24 +880,18 @@ Alors que les joueurs continuent sur la route, lisez :
 
 Si l'un des joueurs a un score de Sagesse (Perception) passive de 14 ou plus, ou si l'un des joueurs réussit un test de Sagesse (Perception) DD 14, ajoutez :
 
-<div class="description"><p>Alors que vos pas s'enfoncent dans la vieille route boueuse, vous apercevez un mouvement furtif dans les sous-bois : un éclair de fourrure grise, des yeux ambrés et des dents blanches et acérées. Puis, aussi vite qu'il est apparu, il disparaît, se faufilant dans les ombres.</p></div>
+<div class="description"> <p>Une ombre humanoïde vacille au loin... puis disparaît de votre champ de vision.</p> </div>
 
-Le mouvement appartient à un **loup**. Ses six compagnons de meute **loups** - menés par un seul **loup-garou** (sous forme de loup) - ne sont pas loin derrière.
+L'ombre appartient à un **loup-garou**. Ses compagnons — trois **loups** et un autre **loup-garou** — se cachent dans les bois tout proches.
 
-Peu après l'apparition du premier loup, la meute attaque. Lisez :
+Les loups-garous n'attaquent pas immédiatement, préférant attendre le moment parfait pour frapper.  
+Si les joueurs continuent sur la route, lisez :
 
-<div class="description"><p>La route boisée vous mène à travers une petite clairière forestière, la ligne circulaire des arbres parsemée de fourrés denses, de rochers couverts de mousse et de crêtes escarpées.</p> <p>Puis, sans avertissement, huit ombres grondantes surgissent des sous-bois, crocs découverts et griffes tendues !</p></div>
+<div class="description"><p>La route boisée vous mène à travers une petite clairière forestière, la ligne circulaire des arbres parsemée de fourrés denses, de rochers couverts de mousse et de crêtes escarpées.</p> <p>Puis, sans avertissement, cinq loups sautent hors de la forêt, les yeux jaunes scintillant alors que leurs museaux se tordent en grognements !</p></div>
 
-Les loups attaquent les joueurs de toutes les directions, cherchant à les encercler.
+Faites lancer l'initiative aux joueurs, aux **loups**, aux **loups-garous** (sous forme de loup), et (s'ils sont avec le groupe) à Ireena, aux deux **nuées de corbeaux**, et à Muriel (une **loup-garou** sous forme de corbeau). Tout personnage ayant un score de Sagesse (Perception) passif inférieur à 14 est surpris.
 
-> [!combat]- **Équilibrer les Loups** 
-> Cette rencontre de combat est une rencontre **brutale** contre un groupe de cinq joueurs de niveau 3, un allié de FP 1 (Ireena Kolyana), deux alliés de FP 1/4 (nuées de corbeaux), et un allié de FP 0 (Muriel sous forme de corbeau), et consommera environ 67% de leurs points de vie maximum totaux. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
-> 
-> - _**Trois Joueurs.**_ Réduisez le nombre de loups à 3.
-> - _**Quatre Joueurs.**_ Réduisez le nombre de loups à 5.
-> - _**Six Joueurs.**_ Augmentez le nombre de loups à 9 et augmentez le nombre de loups-garous à 2.
-
-Faites lancer l'initiative aux joueurs, aux **loups**, au **loup-garou** (sous forme de loup), et (s'ils sont avec le groupe) à Ireena, aux deux **nuées de corbeaux**, et à Muriel (une **corbeau-garou** sous forme de corbeau). Tout personnage ayant un score de Sagesse (Perception) passive inférieur à 14 est surpris.
+Modifiez les fiches de statistiques des loups comme décrit dans **[[#C7a. Le Ravin]]**. De plus, utilisez la fiche de statistiques ci-dessous pour les loups-garous, plutôt que celle du Manuel des Monstres :
 
 Utilisez le bloc de statistiques ci-dessous pour le **loup-garou**, plutôt que celui du _Manuel des Monstres_.
 
@@ -884,7 +932,7 @@ Utilisez le bloc de statistiques ci-dessous pour le **loup-garou**, plutôt que 
     <br>
     <strong>Compétences</strong> Perception +4, Discrétion +3
     <br>
-    <strong>Sens</strong> vision dans le noir, Perception passive 14
+    <strong>Sens</strong> vision dans le noir (18m.), Perception passive 14
     <br>
     <strong>Langues</strong> commun (ne peut pas parler sous forme de loup)
     <br>
@@ -914,11 +962,11 @@ Chaque loup gagne l'option d'action supplémentaire suivante :
 
 - _**Déchiqueter.**_ _Attaque d'arme au corps à corps :_ +4 pour toucher, portée 1,5 m, une cible. _Touché :_ 7 (2d4 + 2) dégâts perforants. Au lieu d'infliger des dégâts, le loup peut agripper la cible (évasion DD 11).
 
-Au combat, les **loups** travaillent ensemble, utilisant leur action _**Morsure**_ pour mettre les personnages à terre, puis leur action _**Déchiqueter**_ pour agripper les cibles à terre. Une fois que les loups ont traîné un personnage agrippé loin du groupe, le **loup-garou** concentre son attention sur lui avec sa _**morsure**_. Le premier personnage ciblé de cette manière remarque que le loup-garou est légèrement plus grand que les autres et a des yeux intelligents, étrangement humains.
+Au combat, les **loups** travaillent ensemble, utilisant leurs _**Griffes**_ pour mettre les personnages à terre, puis leur _**Mâchoire**_ pour agripper les cibles au sol. Une fois que les loups ont traîné un personnage agrippé loin du groupe, les **loups-garous** concentrent leur attention sur lui avec leur _**morsure**_. Le premier personnage ciblé de cette façon remarque que les loups-garous sont légèrement plus grands que les deux autres et ont des yeux intelligents, étrangement humains.
 
-Le loup-garou fuit s'il commence son tour avec 20 points de vie ou moins et ne se régénère pas, ou s'il commence son tour avec 0 point de vie pendant trois tours consécutifs. Les loups survivants le suivent peu après.
+Un loup-garou fuit s'il commence son tour avec 20 points de vie ou moins et ne se régénère pas, ou s'il commence son tour avec 0 point de vie pendant trois tours consécutifs. Les loups survivants suivent peu après.
 
-Si le loup-garou meurt, il reprend sa véritable forme : un jeune homme à la peau pâle et tachetée, avec une silhouette mince et musclée. Une blessure sanglante, crue et infectée est visible sur son côté - la source de l'affliction lycanthropique du jeune homme.
+Si les loups-garous meurent, ils reprennent leurs véritables formes : un jeune homme à la peau pâle et tachetée avec une silhouette mince et musclée, et un jeune homme costaud au visage cruel et aux cheveux noirs et gras. Chacun porte une plaie sanglante, à vif et infectée sur le côté — la source de leur affliction lycanthropique.
 
 Les joueurs qui ont échoué à leur jet de sauvegarde contre la malédiction de la lycanthropie constatent bientôt que, bien qu'ils récupèrent normalement leurs points de vie, la blessure originale reste cosmétiquement sanglante et crue - comme décrit dans le manuscrit de Van Richten sur la malédiction du loup-garou. La prochaine pleine lune a lieu la nuit du sixième jour après l'arrivée des joueurs à Vallaki.
 
@@ -930,7 +978,7 @@ Les joueurs qui ont échoué à leur jet de sauvegarde contre la malédiction de
 > 
 > Une créature infectée peut embrasser la malédiction de la lycanthropie - et ainsi gagner tous ses avantages - en accomplissant une certaine tâche, selon la nature de sa malédiction :
 > 
-> - Un **loup-garou** infecté doit volontairement tuer un autre humanoïde et dévorer sa chair.
+> - Un **loup-garou** infecté doit volontairement tuer un innocent, sans ressentir de la peur ou de la haine, et dévorer sa chair.
 > - Un **homme-corbeau** infecté doit être assommé alors qu'il tente volontairement de protéger un autre humanoïde d'une mort (qu'il croit) quasi certaine.
 > 
 > Un lycanthrope infecté peut être reconnu par la cicatrice de la blessure qui a originellement transmis la malédiction. La blessure ne guérira jamais complètement et restera crue et sanglante jusqu'à ce que la malédiction soit levée.
@@ -969,18 +1017,15 @@ Si elle est avec le groupe, [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] es
 
 Les membres du camp de réfugiés, parmi lesquels Emeric, un vieil homme mélancolique, et Magda, une jeune femme accablée de chagrin, peuvent partager les informations suivantes :
 
-- Les réfugiés baroviens sont arrivés aux portes de Vallaki il y a quelques jours, mais se sont vus refuser l'entrée. Lorsqu'ils ont tenté de forcer les portes, les gardes ont appelé un homme qu'ils ont nommé Izek, qui portait un bras tordu de démon et a invoqué du feu pour repousser les réfugiés.
+- Les réfugiés baroviens sont arrivés aux portes de Vallaki il y a quelques semaines, mais se sont vus refuser l'entrée. Lorsqu'ils ont tenté de forcer les portes, les gardes ont appelé un homme qu'ils ont nommé Izek, qui portait un bras tordu de démon et a invoqué du feu pour repousser les réfugiés.
 - Depuis lors, les réfugiés ont installé un camp à l'extérieur des murs de la ville, se regroupant pour se protéger et se réchauffer. Ils ont réussi à obtenir quelques fournitures de première nécessité, comme les tentes, en soudoyant les gardes aux portes, mais n'ont pas pu convaincre les gardes de leur permettre d'entrer ou même d'inviter le Baron de la ville à discuter de leur situation.
 - Des nuées de chauves-souris et des meutes de loups attaquent le camp chaque nuit depuis leur arrivée. Heureusement, personne n'est encore mort, mais plusieurs réfugiés ont été blessés.
 - En raison des pertes qu'ils ont subies sur la route et de la menace du Diable dans le Château Ravenloft, les réfugiés ne veulent pas risquer de rentrer chez eux. Ils espèrent attendre que le Baron se montre raisonnable et les laisse entrer dans les murs.
 - Environ un quart des réfugiés sont devenus dépendants aux « tourtes oniriques », une nourriture vendue par la colporteuse Morgantha. Ces réfugiés cherchent à échapper à la misère et au désespoir de leur situation. Ceux qui mangent une tourte onirique tombent dans une transe comme décrit dans <span class="citation">Tourte onirique (p. 125)</span>.
 
-Les réfugiés sont remplis de désespoir. Beaucoup sont froids envers Ireena, et tous refusent ses offres d'aide. Certains la blâment, ainsi qu'Ismark "le Moindre" et le défunt Bourgmestre de Barovia, pour leur échec à les protéger du réveil et de l'invasion de Strahd. D'autres se rappellent une superstition selon laquelle les femmes baroviennes aux cheveux roux portent malheur, et suggèrent qu'Ireena elle-même a apporté une malédiction sur leur peuple. Aucun ne souhaite avoir affaire à elle.
+Les réfugiés sont remplis de désespoir. Certains se rappellent une superstition selon laquelle les femmes baroviennes aux cheveux roux portent malheur, et suggèrent qu'Ireena elle-même a apporté une malédiction sur leur peuple. Peu d'entre eux souhaitent avoir affaire à elle.
 
 Après son interaction avec les réfugiés, Ireena est furieuse de l'indifférence du Baron, et jure de faire de son mieux pour obtenir l'entrée des réfugiés à Vallaki.
-
-> [!abstract]+ **La Disparition de Gertruda** 
-> Si les joueurs interrogent les réfugiés sur le sort de Gertruda, ils partagent solennellement qu'elle n'a pas été vue, et qu'elle n'a probablement jamais atteint Vallaki.
 
 ### Les Gardes aux Portes
 
@@ -1197,7 +1242,7 @@ Abaissant la voix, Urwin avertit les joueurs qu'ils doivent être prudents à Va
 
 Urwin note discrètement, cependant, que le Baron est connu pour être très sensible aux flatteries—et que si les joueurs ont besoin de gagner sa faveur, son ego pourrait être une cible de choix.
 
-Si les joueurs demandent si le Baron a des ennemis à Vallaki, Urwin peut également partager les informations sur Lady Fiona Wachter décrites dans <span class="citation">Informations connues de tous les habitants de Vallaki (p. 96)</span>.
+Si les joueurs demandent si le Baron a des ennemis à Vallaki, Urwin peut également partager les informations sur Lady Fiona Wachter décrites dans <span class="citation">Informations connues de tous les habitants de Vallaki (p. 96)</span>. Cependant, au lieu de décrire la fille folle de Lady Wachter, Urwin se contente de leur partager l'informations comme quoi Lady Fiona a une fille, Stella Wachter, que Lady Wachter garde cloîtrée chez elle pour une raison inconnue.
 
 Alors que la conversation avec Urwin touche à sa fin, Rictavio descend les escaliers depuis <span class="citation">N2n. Chambre d'Hôte privée (p. 102)</span> et se dirige vers le bar, saluant les joueurs d'un signe de tête. Urwin lui souhaite le bonjour et sort un petit paquet de sous le comptoir, que Rictavio prend et range dans sa cape.
 

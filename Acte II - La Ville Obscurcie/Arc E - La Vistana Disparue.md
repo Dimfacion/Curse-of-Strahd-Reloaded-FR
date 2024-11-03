@@ -76,7 +76,7 @@ Après avoir reçu la demande de Madame Eva dans [[Acte I - Dans les Brumes/Arc 
 > 
 > _**Moral.**_ Dans un combat, Blinsky plaiderait pour la paix, trébuchant sur lui-même et balbutiant pour obtenir grâce tout en cherchant une occasion de fuir.
 > 
-> _**Relations.**_ Blinsky possède Piccolo, un singe de compagnie qui lui a été offert par Rictavio, le maître de cérémonie itinérant. Blinsky fabrique également des poupées ressemblant à Ireena Kolyana pour Izek Strazni et reçoit une modeste allocation pour créer des décorations pour les festivals hebdomadaires du Baron Vallakovich.
+> _**Relations.**_ Blinsky possède Piccolo, un singe de compagnie qui lui a été offert par "Alanik Ray", un voyageur érudit (et l'une des nombreuses identité de Rudolph Van Richten) peu après la rebellion de Doru. Blinsky fabrique également des poupées ressemblant à Ireena Kolyana pour Izek Strazni et reçoit une modeste allocation pour créer des décorations pour les festivals hebdomadaires du Baron Vallakovich. Il est aussi le créateur de la prothèse de jambe d'Ezmeralda d'Avenir. 
 
 Blinsky Toys est décrit dans <span class="citation">N7. Blinsky Toys (p. 118)</span>. Alors que les personnages explorent la boutique, Blinsky leur parle joyeusement de son inspiration pour fabriquer des jouets : le légendaire fabricant de jouets Fritz von Weerg et sa plus grande invention qui a été perdue au fil des âges : un homme mécanique qui serait quelque part dans le Château Ravenloft.
 
@@ -205,6 +205,14 @@ Les joueurs peuvent trouver Kasimir assis sur le tapis vert face au feu, en trai
 > 
 > _**Relations.**_ Kasimir est le chef du campement des elfes crépusculaires et le frère cadet de feu Patrina Velikovna, une **banshee** qui réside dans les catacombes du Château Ravenloft. Kasimir est également le cousin de Rahadin, le chambellan de Strahd, et le neveu du défunt prince elfe crépusculaire, Erevan Löwenhart. (Kasimir n'est pas un parent direct d'Erevan, qui a épousé la tante de Kasimir, Lorelei).
 
+>[!info]+ **Ce que sait Kasimir** 
+>Si on l'interroge sur les différentes factions et lieux à travers Barovia, Kasimir peut fournir les informations suivantes :
+>
+>- _**Le Peuple de la Forêt.**_ "Leurs ancêtres ont découvert cette vallée il y a des milliers d'années. Cependant, ils sont un peuple reclus et servent aujourd'hui le Diable et ses serviteurs."
+>- _**Argynvostholt.**_ Kasimir partage les informations contenues dans le Savoir de Vallaki (p. 96).
+>- _**Le Temple d'Ambre.**_ Kasimir marque une pause pensive, puis révèle que l'Ordre du Dragon d'Argent était autrefois réputé garder "des secrets cachés dans l'ambre," et que leurs revenants et esprits hantent encore Argynvostholt à ce jour.
+>- _**L'Antre des Loups-garous.**_ Kasimir explique que la meute de loups-garous a historiquement été sanguinaire et brutale, mais est devenue beaucoup plus réservée — même pacifique — une décennie après que Strahd soit entré en hibernation. "Je présume que c'était un changement de leadership," note-t-il, "suite à l'absence de pression du château. Cependant, avec le réveil de Strahd, leur agressivité est réapparue." (Kasimir ne sait pas où se trouve leur antre, mais sait que leurs activités se sont historiquement concentrées dans la moitié ouest de la vallée.)
+
 Sa main et son avant-bras droits sont d'un blanc bleuâtre pâle, la peau étant en grande partie bouffie et cloquée. (Un jet de Sagesse (Médecine) DD 12 réussi identifie les symptômes d'engelures).
 
 Kasimir accueille chaleureusement les joueurs, bien qu'avec un certain inconfort. Si les joueurs demandent l'anneau sigillaire, il le sort de sa cape et leur souhaite bonne chance, en notant qu'il n'a pas pu l'identifier lui-même - ce qui est étrange, pense-t-il, étant donné sa connaissance de l'héraldique pré-barovienne et sa longue histoire dans la vallée. (Il n'est pas sûr que la bibliothèque du Baron puisse contenir plus d'informations, mais il pense que c'est une piste à poursuivre).
@@ -328,7 +336,7 @@ Si Victor accepte d'aider les joueurs en partageant des informations sur son liv
 > - _**Peuple fantôme : Voyageurs de l'Éther Frontalier**_, contenant des informations sur les créatures incorporelles qui habitent dans l'Éther Frontalier et passent souvent dans le plan Matériel, comme les **fantômes** (_Manuel des Monstres_, p. 147) et les **guerriers fantômes** (_La Malédiction de Strahd_, p. 235).
 > - _**Marcheurs du voile : Visiteurs de l'Éther**_, contenant des informations sur les créatures physiques qui peuvent passer dans le plan Éthéré, comme les **guenaudes nocturnes** (_Manuel des Monstres_, p. 178), les **cauchemars** (_Manuel des Monstres_, p. 235) et les **araignées de phase** (_Manuel des Monstres_, p. 334). (Voir **Matrones de la Malveillance** ci-dessous pour le chapitre sur les guenaudes nocturnes).
 > 
-> La sous-section discutant des **araignées de phase** comprend une brève note de bas de page discutant de l'immunité que la plupart des morts-vivants incorporels ont contre les dégâts élémentaires, naturels et d'armes non magiques lorsqu'ils sont sur le plan Matériel, ainsi que des moyens naturels que les araignées de phase ont développés pour contrer ces immunités grâce à l'utilisation de leurs crocs et de leur venin. Il est noté qu'un lanceur de sorts peut infliger des dégâts à un esprit incorporel normalement en utilisant un croc d'araignée de phase comme composant matériel supplémentaire pour lancer ses sorts, tandis qu'un combattant martial peut infliger des dégâts à un esprit incorporel en enduisant sa lame de venin d'araignée de phase ou d'eau bénite.
+> La sous-section discutant des **araignées de phase** comprend une brève note de bas de page discutant de l'immunité que la plupart des morts-vivants incorporels ont contre les dégâts élémentaires, naturels et d'armes non magiques lorsqu'ils sont sur le plan Matériel, ainsi que des moyens naturels que les araignées de phase ont développés pour contrer ces immunités grâce à l'utilisation de leurs crocs et de leur venin. Il est noté qu'un lanceur de sorts peut infliger des dégâts à un esprit incorporel normalement en utilisant un croc d'araignée de phase comme composant matériel supplémentaire pour lancer ses sorts, tandis qu'un combattant martial peut infliger des dégâts à un esprit incorporel en enduisant une arme ou jusqu'à 3 projectiles de venin d'araignée de phase ou d'eau bénite.
 > 
 > La sous-section discutant des **guenaudes nocturnes** comprend une brève note de bas de page discutant d'un rituel qui utilise la _**pierre de cœur**_ d'un guenaude nocturne et les énergies d'une ligne tellurique pour reproduire les effets du sort _Éthéralité_ pour jusqu'à dix individus pendant une heure la nuit de la pleine lune.
 > 
@@ -380,6 +388,11 @@ Si Victor est persuadé d'aider les joueurs à trouver Arabelle, il peut partage
 - Il y a longtemps, Khazan a construit une tour de sorcier, qu'il a imprégné de puissants enchantements, y compris un champ protecteur qui empêchait tout autre lanceur de sorts d'utiliser la magie à sa portée.
 
 Si les joueurs acceptent d'enquêter sur la tour de Khazan et de donner à Victor tous les artefacts qu'ils y trouvent, il leur indique où se trouve la tour : une chaussée de gravier sur le lac Baratok, à l'ouest.
+
+>[!info]+ **Ce que Victor sait** 
+>Si on l'interroge sur les différentes factions et lieux à travers Barovia, Victor peut fournir les informations suivantes :
+>
+>- _**Le Temple d'Ambre.**_ Victor feuillette son grimoire, puis révèle que, selon ses pages, Khazan cherchait autrefois les secrets du pouvoir dans un temple "forgé d'ambre." "D'après ses notes, il était auparavant gardé par un ordre de chevaliers au service d'un dragon," ajoute-t-il avec curiosité. "Mais quand Strahd a conquis la vallée, il les a tous massacrés."
 
 Victor n'est pas sûr de la façon de se rendre au lac Baratok depuis Vallaki. Cependant, il connaît quelqu'un qui le saura : Szoldar Szoldarovich, l'un des chasseurs les plus habiles de la ville. (L'année dernière, dans un effort pour encourager Victor à développer des passe-temps et des traits plus masculins, Vargas l'a forcé à accompagner Szoldar lors d'une partie de chasse dans les bois près des murs de Vallaki. Victor a détesté l'expérience, mais en est ressorti avec un respect sain pour la connaissance que Szoldar a de la nature barovienne).
 
@@ -516,7 +529,7 @@ Si le joueur a déjà vu le chariot de Rictavio dans le stockyard d'Arasek, il r
 - Les paires de menottes
 - Le coffre en bois contenant le symbole sacré, l'eau bénite, le parfum, l'antitoxine, la corde, la boîte à amadou, le miroir en acier, le pieu en bois et la longue-vue
 - Les parchemins de sorts
-- La carte de Barovia
+- La carte de Barovia (ne montrant que les routes et les villes et villages, contrairement à la carte des aventuriers de Barovie qui montre tous les lieux d'importance)
 
 Si les joueurs entrent dans le chariot par la porte au lieu de la trappe, le poulet d'Ezmerelda caquette avec colère contre eux jusqu'à ce qu'ils partent.
 
@@ -539,7 +552,7 @@ Le sceau semble vierge. Cependant, si un personnage s'approche à moins de 1,50 
 
 ![[Tower Door.png]]
 
-Chacun des huit boutons représente une rune arcanique différente. Un joueur maîtrisant l'Arcane, ou qui réussit un jet d'Intelligence (Arcane) DD 10, identifie les runes comme étant les symboles des huit écoles de magie. L'ordre des symboles, dans le sens des aiguilles d'une montre autour du sceau, est toujours : illusion, abjuration, nécromancie, invocation, divination, enchantement, transmutation, évocation.
+Chacun des huit boutons représente une rune arcanique différente. Un joueur maîtrisant l'Arcane, ou qui réussit un jet d'Intelligence (Arcane) DD 10, identifie les runes comme étant les symboles des huit écoles de magie. L'ordre des symboles, dans le sens contraire des aiguilles d'une montre autour du sceau, est toujours : illusion, abjuration, nécromancie, invocation, divination, enchantement, transmutation, évocation.
 
 Un joueur qui compare l'anneau sigillaire en platine aux symboles remarque que les runes d'évocation et de nécromancie correspondent exactement à l'apparence de leurs symboles correspondants sur la porte. Pour déverrouiller la porte, les joueurs doivent appuyer sur les boutons dans l'ordre donné par le motif de lignes croisées sur l'anneau sigillaire, en commençant par le symbole d'évocation ou de nécromancie et en suivant les lignes dans la bonne séquence.
 
@@ -612,7 +625,6 @@ L'échafaudage est tel que décrit dans <span class="citation">V3. Échafaudage 
    <hr>
    <p><strong><em>Apparence trompeuse.</em></strong> Tant que la gargouille reste immobile, elle est impossible à distinguer d'une statue inanimée.</p>
    <p><strong><em>Changement de chaleur.</em></strong> Si la gargouille subit des dégâts de feu, elle rougeoie de chaleur jusqu'à la fin de son prochain tour. Lorsqu'elle rougeoie, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de feu supplémentaires sur un coup. Lorsqu'elle rougeoie, la gargouille devient vulnérable aux dégâts de froid et cesse immédiatement de rougeoyer si elle subit des dégâts de froid.</p>
-   <div class="break"></div>
    <p><strong><em>Changement de froid.</em></strong> Si la gargouille subit des dégâts de froid, elle se givre de glace jusqu'à la fin de son prochain tour. Lorsqu'elle est givrée, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de froid supplémentaires sur un coup. Lorsqu'elle est givrée, la gargouille devient vulnérable aux dégâts de feu et sa glace disparaît si elle subit des dégâts de feu.</p>
    <p><strong><em>Corps de pierre.</em></strong> Si la gargouille subit des dégâts de froid alors qu'elle rougeoie, des dégâts de feu alors qu'elle est givrée, des dégâts contondants d'un coup critique, ou des dégâts du sort <em>fracassement</em> ou d'une magie similaire, les ailes de la gargouille se brisent, lui faisant perdre sa vitesse de vol.</p>
    <p><strong><em>Agrippeur.</em></strong> La gargouille a l'avantage sur les jets d'attaque effectués contre une créature qu'elle a agrippée.</p>
@@ -679,9 +691,9 @@ Sinon, si aucun personnage ne montre qu'il porte des armes ou des munitions en a
 > [!combat]- **Équilibrer les Loups-garous** 
 > Cette rencontre de combat est une rencontre **sanglante** contre un groupe de cinq joueurs de niveau 4 et un allié de FP 1/2 (Szoldar Szoldarovoch) et consommera environ 52% de leurs points de vie maximaux totaux. Pour des groupes de tailles différentes, modifiez la rencontre comme suit :
 > 
-> - _**Trois Joueurs.**_ Réduisez les PV des loups-garous à 42. Réduisez leurs dégâts de _**morsure**_ à 5 (1d10) dégâts perforants et leurs dégâts de _**griffes**_ à 5 (2d4). Ils utilisent toujours leur action bonus pour se transformer en leur forme hybride au premier tour de combat contre les joueurs.
-> - _**Quatre Joueurs.**_ Réduisez les PV des loups-garous à 63. Réduisez leurs dégâts de _**morsure**_ à 6 (1d8+2) dégâts perforants et leurs dégâts de _**griffes**_ à 7 (2d4+2). Ils utilisent toujours leur action bonus pour se transformer en leur forme hybride au premier tour de combat contre les joueurs.
-> - _**Six Joueurs.**_ Augmentez les PV des loups-garous à 105. Augmentez leurs dégâts de _**morsure**_ à 8 (1d8+4) dégâts perforants et leurs dégâts de _**griffes**_ à 9 (2d4+4). Ils utilisent toujours leur action bonus pour se transformer en leur forme hybride au premier tour de combat contre les joueurs.
+> - _**Trois Joueurs.**_ Réduisez les points de vie des loups-garous à 42. Réduisez leurs dégâts de _**morsure**_ à 5 (1d10) dégâts perforants et leurs dégâts de _**griffes**_ à 5 (2d4). Ils utilisent toujours leur action bonus pour se transformer en leur forme hybride au premier tour de combat contre les joueurs.
+> - _**Quatre Joueurs.**_ Réduisez les points de vie des loups-garous à 63. Réduisez leurs dégâts de _**morsure**_ à 6 (1d8+2) dégâts perforants et leurs dégâts de _**griffes**_ à 7 (2d4+2). Ils utilisent toujours leur action bonus pour se transformer en leur forme hybride au premier tour de combat contre les joueurs.
+> - _**Six Joueurs.**_ Augmentez les points de vie des loups-garous à 105. Augmentez leurs dégâts de _**morsure**_ à 8 (1d8+4) dégâts perforants et leurs dégâts de _**griffes**_ à 9 (2d4+4). Ils utilisent toujours leur action bonus pour se transformer en leur forme hybride au premier tour de combat contre les joueurs.
 
 Utilisez le bloc de statistiques ci-dessous pour les **loups-garous**, plutôt que celui du _Manuel des Monstres_.
 
@@ -749,6 +761,23 @@ Les joueurs ne rencontrent aucun autre adversaire pendant leur voyage vers Valla
 Le retour des joueurs à Vallaki depuis le Lac Baratok se fait à travers la vallée. À leur retour à Vallaki, ils peuvent suivre leurs pistes soit en cherchant Rictavio à l'Auberge des Eaux Bleues, soit en enquêtant directement sur le chariot de Rictavio dans l'Entrepôt Arasek.
 
 Lorsque les joueurs reviennent à la porte du Crépuscule de Vallaki, un joueur avec un score de Sagesse (Perception) passive de 19 ou plus remarque la même silhouette qu'auparavant qui les observe — cette fois-ci, depuis les bois au nord-ouest. La silhouette disparaît dans les arbres si on la regarde, lui parle, s'en approche ou interagit avec elle de quelque manière que ce soit. (Il s'agit, encore une fois, d'Arrigal, qui a pisté les joueurs jusqu'à Vallaki. Si les joueurs entrent dans Vallaki, Arrigal utilise ses deux dagues comme piolets improvisés pour escalader les palissades de Vallaki et se faufiler devant les gardes en patrouille. Il continue ensuite à traquer les joueurs dans les rues dans l'espoir qu'ils le mèneront à Arabelle.)
+
+>[!profile]+ **Profil PNJ : Dr. Rudolph van Richten** 
+>**Informations de Roleplay** 
+>_**Résonance.**_ Van Richten devrait inspirer de la gratitude pour ses connaissances (partagées librement), du réconfort par sa confiance et son expérience, et une légère irritation par sa paranoïa et sa franchise.
+>
+>_**Émotions.**_ Van Richten se sent le plus souvent méfiant, prudent, pensif, inquiet, nostalgique, satisfait, curieux, coupable et honteux.
+>
+>_**Motivations.**_ Van Richten veut garder Arabelle en sécurité, éviter d'être détecté par Strahd, aider les ennemis de Strahd, et se racheter pour la mort d'Erasmus et son massacre des Radanaviches.
+>
+>_**Inspiration.**_ Pour jouer Van Richten, inspirez-vous d'Alastor "Fol Œil" Maugrey (_Harry Potter_), de Geralt de Riv (_The Witcher_), et de Mike Ehrmantraut (_Breaking Bad_).
+>
+>**Informations sur le Personnage** 
+>_**Personnalité.**_ Pour le monde, Van Richten est un chasseur de monstres impitoyable et endurci par la bataille. Pour ceux en qui il a confiance, Van Richten est un mentor compatissant avec des standards extrêmement élevés, une forte tendance à la paranoïa, et un tempérament occasionnellement vif. Seul Van Richten connaît la profondeur de la culpabilité, de la honte et du dégoût de soi qu'il ressent pour la mort de son fils et de sa femme, et son massacre de la caravane Vistani des Radanavich.
+>
+>_**Moral.**_ Dans un combat, Van Richten tenterait de surpasser ou de manœuvrer son adversaire par la ruse, battant en retraite si nécessaire pour s'assurer le terrain le plus avantageux.
+>
+>_**Relations.**_ Van Richten est le mentor de la chasseuse de monstres Vistani Ezmerelda d'Avenir, le père du défunt Erasmus van Richten lié au Plan Éthéré (avec qui il ne peut ni communiquer ni qu'il peut percevoir), l'ancien propriétaire du singe Piccolo maintenant possédé par le fabricant de jouets vallakien Gadof Blinsky, le meurtrier de la famille d'Arturi Radanavich, et l'ancien allié de la rébellion de Doru contre le Château Ravenloft.
 
 ## E8a. Confronter Rictavio
 
@@ -898,6 +927,11 @@ _**Étape Clé.**_ Retrouver Arabelle complète une étape clé de l'histoire. L
 
 > [!abstract]+ **L'Inspection d'Ireena** 
 > Si les joueurs demandent à Van Richten d'examiner la morsure de vampire d'Ireena, il peut partager qu'elle n'a pas reçu une morsure de vampire ordinaire, et qu'elle a en fait été marquée par un vampire. ("Le maître du Château Ravenloft, je présume," ajoute-t-il, si les joueurs ne lui ont pas dit l'origine de la morsure.") Van Richten n'est pas sûr de la raison pour laquelle le vampire aurait fait cela, mais note que tous les serviteurs et créatures du vampire peuvent reconnaître l'odeur de la marque, et que cela peut servir à les dissuader de nuire à son porteur.
+
+>[!abstract]+ **Recruter Van Richten** 
+>Si les joueurs tentent de recruter Van Richten dans leur groupe, il décline poliment mais fermement. Si les joueurs lui demandent sa raison, il insiste sur le fait qu'il doit rester aux côtés d'Arabelle pour la protéger des sbires de Strahd. "J'ai déjà failli à protéger un enfant une fois," dit-il avec raideur. "Je ne ferai pas cette erreur à nouveau." (Van Richten ne s'expliquera pas davantage.)
+>
+>Un joueur qui réussit un test de Sagesse (Perspicacité) DD 15 remarque que Van Richten semble dissimuler quelque chose. Si on le confronte à ce sujet, Van Richten loue la perspicacité du joueur, mais refuse de s'expliquer davantage. "Je travaille seul — et pour de bonnes raisons," déclare-t-il fermement. "Ces raisons sont les miennes."
 
 # Notes de Conception : La Vistana Disparue
 

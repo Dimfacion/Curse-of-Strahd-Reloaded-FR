@@ -100,6 +100,10 @@ Lorsque les joueurs entrent dans cette zone pour la première fois, lisez :
 
 Le jeune homme est Milivoj, tel que décrit dans <span class="citation">N1. L'Église de Saint-Andral (p. 97)</span>. Le prêtre est le Père Lucian Petrovich. Le garçon est Yeska.
 
+![[Father Lucian Petrovich.png]]
+
+<span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Lorsque les joueurs rencontrent [[Personnages Non-Joueurs#Père Lucian Petrovich|Père Lucian]] pour la première fois, il les accueille chaleureusement, reconnaissant en eux des nouveaux venus à Vallaki, leur souhaite la bienvenue à l'Église de Saint-Andral et leur demande s'ils sont venus chercher la communion ou prier le Seigneur de l'Aube.
 
 Après que les joueurs aient échangé des politesses, Milivoj descend de son escabeau et le rend au Père Lucian. L'échange suivant a alors lieu, donnant aux joueurs amplement le temps et l'opportunité d'interrompre et de répondre :
@@ -581,7 +585,7 @@ Une fois que Rahadin est satisfait que justice a été rendue, il invoque à nou
 <hr>
 <strong>Classe d'armure</strong> 18 (cuir clouté)
 <br>
-<strong>Points de vie</strong> 247 (34d8 + 102)
+<strong>Points de vie</strong> 180 (34d8 + 72)
 <br>
 <strong>Vitesse</strong> 10,5 m
 <hr>
@@ -609,7 +613,7 @@ Une fois que Rahadin est satisfait que justice a été rendue, il invoque à nou
 </table>
 <hr>
 <strong>Jets de sauvegarde</strong> Dex +11, Sag +8<br>
-<strong>Compétences</strong> Acrobaties +11, Perception +9, Perspicacité +8, Intimidation +14, Perception +13, Discrétion +16<br>
+<strong>Compétences</strong> Acrobaties +11, Tromperie +9, Perspicacité +8, Intimidation +14, Perception +13, Discrétion +16<br>
 <strong>Sens</strong> vision dans le noir 18 m, Perception passive 23<br>
 <strong>Langues</strong> commun, elfique<br>
 <strong>Facteur de puissance</strong> 14<br>
@@ -631,13 +635,12 @@ Une fois que Rahadin est satisfait que justice a été rendue, il invoque à nou
 <h3>Actions bonus</h3>
 <p><strong><em>Frappe du vent.</em></strong> Rahadin se déplace jusqu'à sa vitesse en ligne droite vers un espace inoccupé qu'il peut voir, y compris à travers les espaces ennemis, sans provoquer d'attaques d'opportunité. Chaque créature dans un rayon de 1,5 m d'un espace qu'il traverse doit effectuer un jet de sauvegarde de Dextérité DD 19, subissant 7 (2d6) dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
 <p><strong><em>Lames tourbillonnantes.</em></strong> Chaque créature dans un rayon de 3 mètres de Rahadin doit effectuer un jet de sauvegarde de Dextérité DD 19, subissant 7 (2d6) dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
-<p><strong><em>Pas brumeux.</em></strong> Rahadin lance <em>pas brumeux</em>. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette manière.</p>
 <h3>Réactions</h3>
 <p>Rahadin peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. Si Rahadin devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
-<p><strong><em>Parade.</em></strong> Rahadin ajoute +5 à sa Classe d'Armure contre une attaque de corps à corps ou à distance qui le toucherait ou au résultat d'un jet de sauvegarde de Dextérité raté, ou ne subit aucun dégât de <em>projectile magique</em> ce tour. S'il fait échouer une attaque de corps à corps de cette manière, il peut alors immédiatement utiliser une réaction supplémentaire, si disponible, pour utiliser sa Riposte contre l'attaquant.</p>
-<p><strong><em>Riposte.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque de corps à corps, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers un espace inoccupé à 1,5 m de cet ennemi sans déclencher d'attaques d'opportunité. Il peut alors immédiatement effectuer une attaque de <strong><em>sabre</em></strong> contre cet ennemi avec avantage.</p>
-<p><strong><em>Pas brumeux.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque ou lui inflige des dégâts, il peut utiliser sa réaction pour lancer <em>pas brumeux</em>. Il peut alors immédiatement effectuer l'action Se cacher. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette manière.</p>
-<p><strong><em>Cri psychique (1/jour).</em></strong> Lorsque Rahadin est réduit à 0 point de vie, il peut utiliser sa réaction pour faire pousser un terrible cri à son chœur mortel. Chaque créature dans un rayon de 18 mètres de Rahadin doit effectuer un jet de sauvegarde de Sagesse DD 17, subissant 11 (2d10) dégâts psychiques en cas d'échec ou la moitié en cas de réussite. Si une créature rate le jet de sauvegarde de 5 ou plus, elle est également étourdie jusqu'au début du prochain tour de Rahadin.</p>
+<p><strong><em>Frappe Punitive.</em></strong> Quand Rahadin est touché par une attaque au corps à corps ou à distance, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers l'attaquant et effectuer une attaque avec son sabre. Ce mouvement ne déclenche pas d'attaques d'opportunité.</p>
+<p><strong><em>Désarmement.</em></strong> Quand un ennemi rate Rahadin avec une attaque au corps à corps en maniant une arme, il peut utiliser sa réaction pour forcer cet ennemi à effectuer un jet de sauvegarde de Force DD 19, avec avantage si l'ennemi tient l'arme à deux mains. En cas d'échec, l'ennemi lâche l'objet, qui est projeté à 3 mètres.</p>
+<p><strong><em>Pas Brumeux (1/round).</em></strong> Quand un ennemi rate Rahadin avec une attaque ou lui inflige des dégâts, il peut utiliser sa réaction pour lancer <em>pas brumeux</em>. Il peut ensuite immédiatement effectuer l'action Se cacher. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette façon.</p>
+<p><strong><em>Cri Psychique (1/jour).</em></strong> Quand Rahadin est réduit à 0 point de vie, il peut utiliser sa réaction pour faire pousser un terrible cri à son chœur mortel. Chaque créature dans un rayon de 18 mètres de Rahadin doit effectuer un jet de sauvegarde de Sagesse DD 17, subissant 11 (2d10) dégâts psychiques en cas d'échec ou la moitié en cas de réussite. Si une créature rate le jet de sauvegarde de 5 ou plus, elle est également étourdie jusqu'au début du prochain tour de Rahadin.</p>
 </div>
 <br>
 <div class="statblock">
@@ -646,7 +649,7 @@ Une fois que Rahadin est satisfait que justice a été rendue, il invoque à nou
    <hr>
    <strong>Classe d'armure</strong> 18 (cuir clouté)
    <br>
-   <strong>Points de vie</strong> 247 (34d8 + 102)
+   <strong>Points de vie</strong> 180 (24d8 + 72)
    <br>
    <strong>Vitesse</strong> 10,5 m
    <hr>
@@ -694,9 +697,9 @@ Une fois que Rahadin est satisfait que justice a été rendue, il invoque à nou
    <p><strong><em>Chœur mortel.</em></strong> Chaque créature dans un rayon de 3 mètres de Rahadin qui n'est pas protégée par un sort de <em>sanctuaire de l'esprit</em> doit réussir un jet de sauvegarde de Sagesse DD 17, subissant 9 (2d8) dégâts psychiques en cas d'échec ou la moitié de ces dégâts en cas de réussite. Si une créature rate le jet de sauvegarde de 5 ou plus, elle est également effrayée jusqu'au début du prochain tour de Rahadin.</p>
    <p><strong><em>Pas rapide.</em></strong> Rahadin effectue l'action Foncer ou Se désengager.
    <h3>Réactions</h3>
-   <p>Rahadin peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. Si Rahadin devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
-   <p><strong><em>Frappe vengeresse.</em></strong> Lorsque Rahadin est touché par une attaque de corps à corps ou à distance, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers l'attaquant et effectuer une attaque avec <strong><em>Épine</em></strong> ou <strong><em>Chaîne</em></strong>. Ce mouvement ne provoque pas d'attaques d'opportunité.</p>
-   <p><strong><em>Désarmer.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque de corps à corps en maniant une arme, il peut utiliser sa réaction pour forcer cet ennemi à effectuer un jet de sauvegarde de Force DD 19, avec avantage si l'ennemi tient l'arme à deux mains. En cas d'échec, l'ennemi lâche l'objet, qui est projeté à 3 mètres.</p>
+<p>Rahadin peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. Si Rahadin devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
+<p><strong><em>Parade.</em></strong> Rahadin ajoute +5 à sa Classe d'Armure contre une attaque au corps à corps ou à distance qui devrait le toucher ou au résultat d'un jet de sauvegarde de Dextérité raté, ou ne subit aucun dégât du sort <em>projectile magique</em> lors de ce tour. S'il fait rater une attaque au corps à corps de cette façon, il peut immédiatement utiliser une réaction supplémentaire, si disponible, pour utiliser sa Riposte contre l'attaquant.</p>
+<p><strong><em>Riposte.</em></strong> Quand un ennemi rate Rahadin avec une attaque au corps à corps, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers un espace inoccupé à 1,5 mètre de cet ennemi sans déclencher d'attaques d'opportunité. Il peut ensuite immédiatement effectuer une attaque avec <strong><em>Épine</em></strong> ou <strong><em>Chaîne</em></strong> contre cet ennemi avec avantage.</p>
 </div>
 
 # Notes de conception : La Fête de Saint Andral

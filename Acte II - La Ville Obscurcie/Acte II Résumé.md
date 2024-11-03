@@ -8,7 +8,7 @@ Alors que les joueurs cherchent à remplir leurs obligations en suspens - escort
 
 Peu après l'arrivée des joueurs à Vallaki, Lady Wachter pourrait les inviter à dîner personnellement dans sa propriété familiale, Wachterhaus, cherchant à les recruter dans une dangereuse conspiration dans [[Arc F - Le Souhait de Lady Wachter]]. Pendant ce temps, Izek Strazni rôde dans les rues de Vallaki à la recherche de sa sœur perdue depuis longtemps, Ireena, dans [[Arc G - Les Frères et Sœurs Strazni]]. Et suite à une rencontre rapprochée avec l'esprit d'Erasmus van Richten, les joueurs seront chargés d'obtenir une _pierre de cœur_ auprès des guenaudes nocturnes du Vieux Bonegrinder - une mission qui culminera finalement dans un combat éthéré avec le fantôme vengeur de Leo Dilisnya et la récupération du _Tome de Strahd_ dans [[Arc H - L'Âme Perdue]].
 
-L'Acte II se termine lorsque les joueurs atteignent le niveau 5. (Voir [[#Étapes]] ci-dessous.) Cependant, les joueurs peuvent toujours terminer les arcs non résolus de cet acte même après le début de l'Acte III - en supposant, bien sûr, que ces arcs soient encore possibles à compléter.
+L'Acte II se termine le lendemain matin de la première pleine lune que les joueurs passent à Vallaki. (Voir [[#Étapes]] ci-dessous.) Cependant, les joueurs peuvent toujours terminer les arcs non résolus de cet acte même après le début de l'Acte III - en supposant, bien sûr, que ces arcs soient encore possibles à compléter.
 
 # Étapes
 
@@ -126,7 +126,7 @@ Alternativement, des joueurs particulièrement rapides pourraient suivre le chem
 - **4 Neyavr.** Les joueurs se rendent à Krezk et Berez dans [[Arc I - Les Murs de Krezk]], puis retournent à Vallaki pour dîner avec Lady Fiona Wachter dans [[Arc F - Le Souhait de Lady Wachter]]. Izek Strazni attaque l'Auberge de l'Eau Bleue dans [[Arc G - Les Frères et Sœurs Strazni]] (🔶).
 - **5 Neyavr.** Les joueurs assassinent Izek Strazni dans [[Arc F - Le Souhait de Lady Wachter]]. La nuit, les joueurs sont visités par le fantôme d'Erasmus van Richten dans [[Arc H - L'Âme Perdue]] (🔶).
 - **6 Neyavr.** Les joueurs parlent avec Victor Vallakovich et les réfugiés baroviens dans [[Arc H - L'Âme Perdue]] et assistent à l'inauguration de Lady Wachter dans [[Arc F - Le Souhait de Lady Wachter]]. Les joueurs, Victor et Lady Wachter vainquent les guenaudes d'Old Bonegrinder dans [[Arc H - L'Âme Perdue]].
-- **7 Neyavr.** Les joueurs retournent à Krezk dans [[Arc I - Les Murs de Krezk]], puis visitent Argynvostholt dans [[Arc M - Le Phare d'Argynvost]] (Acte III) avant de retourner à Vallaki.
+- **7 Neyavr.** Les joueurs retournent à Krezk dans [[Arc I - Les Murs de Krezk]], puis visitent Argynvostholt dans [[Arc M - Le Manoir au Dragon]] (Acte III) avant de retourner à Vallaki.
 - **8 Neyavr.** Les joueurs prennent un jour de repos à Vallaki avant de vaincre l'esprit de Leo Dilisnya dans [[Arc H - L'Âme Perdue]] la nuit de la pleine lune.
 ## Chemins Divergents
 

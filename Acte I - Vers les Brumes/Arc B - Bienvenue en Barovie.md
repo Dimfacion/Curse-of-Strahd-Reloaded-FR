@@ -233,7 +233,7 @@ Une fois calmée, Mary essuie ses yeux, remercie Ismark (et les joueurs, s'ils l
 
 Après le départ de Mary, Ismark demande aux joueurs de l'aider à défendre la barricade est du village cette nuit-là. « Que cela vous plaise ou non, nous sommes tous dans le même bateau », dit-il d'un ton sombre. « Plus il y aura de bras, mieux ce sera. Je ne peux pas vous promettre de l'argent, mais je peux vous promettre que cela nous aidera tous à survivre la nuit—vous y compris. » En échange de leur aide, Ismark est heureux de leur offrir le gîte et le couvert chez lui. (La taverne Le Sang des Vignes n'a pas de chambres à louer.)
 
-Si les joueurs acceptent d'aider à la défense de la ville, Ismark leur en est profondément reconnaissant. Il leur demande d'abord de récupérer une caisse de "bouteilles de feu" auprès de sa sœur, Ireena, qui supervise la défense du périmètre sud du village depuis leur maison, <span class="citation">E4. Demeure du Bourgmestre (p. 44)</span>. (Ismark, qui doit retourner aux barricades ouest pour préparer le retour des morts, n'a pas le temps de le faire lui-même.) Si on lui demande, Ismark peut expliquer qu'une "bouteille de feu" est une bouteille de vin avec une mèche en tissu, destinée à être allumée et lancée sur les morts-vivants qui approchent.
+Si les joueurs acceptent d'aider à la défense de la ville, Ismark leur en est profondément reconnaissant. Il leur demande d'abord de récupérer une caisse de "bouteilles de feu" auprès de sa sœur, Ireena, qui supervise la défense du périmètre sud du village depuis leur maison, <span class="citation">E4. Demeure du Bourgmestre (p. 44)</span>. (Ismark, qui doit retourner aux barricades ouest pour préparer le retour des morts, n'a pas le temps de le faire lui-même.) Si on lui demande, Ismark peut expliquer qu'une "bouteille de feu" est une bouteille de vin distillé fermé par une mèche en tissu, destinée à être allumée et lancée sur les morts-vivants qui approchent.
 
 Une fois que les joueurs auront récupéré la caisse de bouteilles de feu et eu l'occasion de se reposer au manoir, Ismark leur dit qu'ils devront apporter les bouteilles de feu à la barricade est - l'endroit où ils sont entrés pour la première fois dans le village - où ils seront stationnés toute la nuit.
 
@@ -375,11 +375,15 @@ Kolyan et Ireena ne reconnaissent pas l'extrait, mais Ireena se souvient que Dor
 Lorsque les joueurs sont prêts à partir, Ireena va chercher une caisse en bois contenant douze _bouteilles de feu_ (voir ci-dessous) dans un placard, chaque bouteille étant soigneusement emballée entre des bottes de paille.
 
 > [!item]+ **Bouteille de Feu** 
-> Cette bouteille de Purple Grapemash No. 3, qui porte le cachet de la cave du Magicien des Vins, a eu son bouchon retiré et remplacé par une mèche en tissu.
+> Cette bouteille de Purple Grapemash No. 3, qui porte le cachet de la cave du Magicien des Vins, a été distillé afin d'augmenter sa teneur en alcool et a eu son bouchon retiré et remplacé par une mèche en tissu.
 > 
 > En tant qu'action, une créature peut utiliser une torche allumée ou une autre source de feu pour allumer la mèche, puis lancer la bouteille jusqu'à 6 mètres, la brisant à l'impact. Faites une attaque à distance contre une créature ou un objet, en traitant la bouteille comme une arme improvisée. En cas de réussite, la cible subit 1d4 dégâts de feu au début de chacun de ses tours.
 > 
 > Une créature peut mettre fin à ces dégâts en utilisant son action pour faire un test de Dextérité DC 10 pour éteindre les flammes.
+
+#TODO
+>[!abstract]+ **Visiting the Church** 
+>Players who insist upon visiting E5. Church (p. 45) find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
 
 ## B5f. Le Commerce de Bildrath
 
@@ -391,27 +395,9 @@ Si des joueurs ont été gentils avec lui à la taverne, il vend à ces joueurs 
 
 Pendant la conversation des joueurs avec Bildrath, Parricornette entre dans la pièce en portant une boîte de marchandises que Bildrath lui a demandé d'aller chercher. Il est curieux et excité par la présence des joueurs, mais Bildrath lui ordonne de retourner dans sa chambre afin d'éviter de "déranger les clients".
 
-> [!profile]+ **Profil : Parricornette**
-> 
-> **Informations de jeu de rôle** 
-> **_Résonance._** Parricornette devrait inspirer de la sympathie pour la perte de ses parents, de l'affection pour ses manières enfantines et sa persévérance optimiste, et de la flatterie pour sa fascination pour les armes et les vêtements exotiques des joueurs.
-> 
-> **_Émotions._** Parricornette ressent le plus souvent de la curiosité, de l'espoir, de l'émerveillement, de la mélancolie et de la confusion.
-> 
-> **_Motivations._** Parricornette veut aider ses amis et voisins, prendre soin de son Oncle Bildrath, et honorer la mémoire de ses défunts parents.
-> 
-> **_Inspirations._** En jouant Parricornette, inspirez-vous de Lenny Small (Des souris et des hommes) et Forrest Gump (Forrest Gump).
-> 
-> **Informations sur le personnage** 
-> **_Persona._** Pour le monde, Parricornette est un jeune homme joyeux et simple d'esprit. Pour ceux en qui il a confiance, Parricornette est un orphelin réfléchi, perspicace, mais en deuil, désespéré de surmonter la mort de ses parents en se rendant utile aux autres.
-> 
-> **_Moral._** Dans un combat, Parricornette lèverait les mains et plaiderait pour la paix. Si on l'ignore, cependant, il utiliserait rapidement sa force pour maîtriser tout combattant - avec une fureur justifiée s'il défend son oncle Bildrath.
-> 
-> **_Relations._** Parricornette est un orphelin et le neveu de Bildrath Cantemir, le propriétaire du magasin général.
-
 Si Bildrath ordonne à Parricornette de faire sortir les joueurs du magasin, Parricornette tente de les saisir et de les tirer vers la porte, préférant éviter la violence si possible.
 
-## B5e. La Barricade Est
+## B5f. La Barricade Est
 
 ### Préparation de la Barricade
 
@@ -469,11 +455,19 @@ S'il est présent, le visage de Bildrath s'assombrit et il serre son arbalète. 
 > 
 > - **_Résistance de Mort-Vivant (1/jour)._** Si des dégâts réduisent le zombie à 0 point de vie, le zombie tombe à 1 point de vie à la place. Le zombie ne peut pas utiliser cette capacité si les dégâts sont radiants ou proviennent d'un coup critique, ou si les dégâts subis sont de 15 ou plus.
 
+#TODO
+> [!combat]- **Balancing the Siege** 
+> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul.
+> - **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies.
+> - **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
+
 **_La Première Vague._** Peu après la tombée de la nuit, six **zombies** émergent de l'obscurité et s'approchent de la barricade. Lisez :
 
 <div class="description"> <p>Six silhouettes se traînent vers la barricade, le blanc de leurs yeux luisant à la lumière des torches. Leurs gémissements graves et gutturaux résonnent dans la nuit, leurs bras en décomposition tendus vers vous.</p> </div>
 
-Au combat, les zombies concentrent leurs attaques sur la barricade, essayant de l'abattre avec leurs attaques de ***coup***. Une fois que les zombies ont percé un trou dans la barricade, ils tentent de s'y engouffrer, attaquant tous les défenseurs qui se dressent sur leur chemin.
+Au combat, les zombies concentrent leurs attaques sur la barricade, essayant de l'abattre avec leurs attaques de **coup**. Une fois que les zombies ont percé un trou dans la barricade, ils tentent de s'y engouffrer, attaquant tous les défenseurs qui se dressent sur leur chemin.
 
 **_La Deuxième Vague._** Au début du troisième tour de combat après l'arrivée de la première vague, deux **zombies** supplémentaires émergent de l'obscurité, accompagnés de deux **goules**. Lisez :
 
@@ -494,7 +488,7 @@ Le zombi pestiféré s'approche d'abord le plus possible des joueurs, puis libè
 
 Pendant ce temps, le nécrophage attaque depuis l'obscurité au-delà de la lumière des torches, effectuant des attaques à l'**_arc long_** à 18 mètres de distance. Si les joueurs engagent le zombi pestiféré au corps à corps ou le réduisent à 90 points de vie ou moins, le nécrophage dégaine son **_épée longue_** et affronte directement les joueurs.
 
-## B5f. La Barricade Ouest
+## B5g. La Barricade Ouest
 
 ### Les Conseils du Corbeau
 
@@ -515,6 +509,18 @@ Si les joueurs la suivent, Muriel les guide vers l'ouest en direction de la plac
 Ismark, dont les points de vie ont été réduits à 40, accueille toute l'aide que les joueurs peuvent apporter contre le zombi pestiféré. S'il est réduit à 30 points de vie ou moins, Ismark fait obstruction directement au zombie pestiféré tout en prenant l'action Esquive à chacun de ses tours, espérant le retarder tout en donnant aux joueurs suffisamment de temps pour le vaincre.
 
 Le zombi pestiféré, qui commence à 36 mètres du centre de la place du village et possède les mêmes modifications que le zombi pestiféré dans [[#Le Siège]], n'utilisera pas son **_miasme pestilentiel_** jusqu'à ce qu'il atteigne le centre de la place du village ou soit réduit à 30 points de vie ou moins. Chaque round, il tente de se déplacer de toute sa vitesse en ligne droite vers la place du village. S'il ne peut pas, il utilise son **_attaque multiple_** pour attaquer toute créature à portée. (Le zombi pestiféré n'essaie pas de contourner les créatures qui lui font obstruction, même si cela lui permettrait d'atteindre sa destination.)
+
+#TODO
+> [!combat]- **Balancing the Town Square** 
+> This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - **Three Players**. Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4.
+> - **Four Players**. Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6.
+> - **Six Players**. Add one zombie fighting alongside the plague spreader.
+
+> [!info]+ **Dying NPCs**
+> 
+> As noted in Monsters and Death (Player's Handbook, p. 198), allied non-player characters—such as Ismark Kolyanovich and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (Player's Handbook, p. 197).
 
 ### La Proclamation de Rahadin
 
@@ -551,7 +557,7 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
 <hr>
 <strong>Classe d'armure</strong> 18 (cuir clouté)
 <br>
-<strong>Points de vie</strong> 247 (34d8 + 102)
+<strong>Points de vie</strong> 180 (24d8 + 72)
 <br>
 <strong>Vitesse</strong> 10,5 m
 <hr>
@@ -579,7 +585,7 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
 </table>
 <hr>
 <strong>Jets de sauvegarde</strong> Dex +11, Sag +8<br>
-<strong>Compétences</strong> Acrobaties +11, Perception +9, Perspicacité +8, Intimidation +14, Perception +13, Discrétion +16<br>
+<strong>Compétences</strong> Acrobaties +11, Tromperie +9, Perspicacité +8, Intimidation +14, Perception +13, Discrétion +16<br>
 <strong>Sens</strong> vision dans le noir 18 m, Perception passive 23<br>
 <strong>Langues</strong> commun, elfique<br>
 <strong>Facteur de puissance</strong> 14<br>
@@ -601,12 +607,11 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
 <h3>Actions bonus</h3>
 <p><strong><em>Frappe du vent.</em></strong> Rahadin se déplace jusqu'à sa vitesse en ligne droite vers un espace inoccupé qu'il peut voir, y compris à travers les espaces ennemis, sans provoquer d'attaques d'opportunité. Chaque créature dans un rayon de 1,5 m d'un espace qu'il traverse doit effectuer un jet de sauvegarde de Dextérité DD 19, subissant 7 (2d6) dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
 <p><strong><em>Lames tourbillonnantes.</em></strong> Chaque créature dans un rayon de 3 mètres de Rahadin doit effectuer un jet de sauvegarde de Dextérité DD 19, subissant 7 (2d6) dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
-<p><strong><em>Pas brumeux.</em></strong> Rahadin lance <em>pas brumeux</em>. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette manière.</p>
 <h3>Réactions</h3>
 <p>Rahadin peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. Si Rahadin devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
 <p><strong><em>Parade.</em></strong> Rahadin ajoute +5 à sa Classe d'Armure contre une attaque de corps à corps ou à distance qui le toucherait ou au résultat d'un jet de sauvegarde de Dextérité raté, ou ne subit aucun dégât de <em>projectile magique</em> ce tour. S'il fait échouer une attaque de corps à corps de cette manière, il peut alors immédiatement utiliser une réaction supplémentaire, si disponible, pour utiliser sa Riposte contre l'attaquant.</p>
 <p><strong><em>Riposte.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque de corps à corps, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers un espace inoccupé à 1,5 m de cet ennemi sans déclencher d'attaques d'opportunité. Il peut alors immédiatement effectuer une attaque de <strong><em>sabre</em></strong> contre cet ennemi avec avantage.</p>
-<p><strong><em>Pas brumeux.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque ou lui inflige des dégâts, il peut utiliser sa réaction pour lancer <em>pas brumeux</em>. Il peut alors immédiatement effectuer l'action Se cacher. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette manière.</p>
+<p><strong><em>Pas brumeux (1/round).</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque ou lui inflige des dégâts, il peut utiliser sa réaction pour lancer <em>pas brumeux</em>. Il peut alors immédiatement effectuer l'action Se cacher. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette manière.</p>
 <p><strong><em>Cri psychique (1/jour).</em></strong> Lorsque Rahadin est réduit à 0 point de vie, il peut utiliser sa réaction pour faire pousser un terrible cri à son chœur mortel. Chaque créature dans un rayon de 18 mètres de Rahadin doit effectuer un jet de sauvegarde de Sagesse DD 17, subissant 11 (2d10) dégâts psychiques en cas d'échec ou la moitié en cas de réussite. Si une créature rate le jet de sauvegarde de 5 ou plus, elle est également étourdie jusqu'au début du prochain tour de Rahadin.</p>
 </div>
 <br>
@@ -616,7 +621,7 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
    <hr>
    <strong>Classe d'armure</strong> 18 (cuir clouté)
    <br>
-   <strong>Points de vie</strong> 247 (34d8 + 102)
+   <strong>Points de vie</strong> 180 (24d8 + 72)
    <br>
    <strong>Vitesse</strong> 10,5 m
    <hr>
@@ -670,7 +675,7 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
 </div>
  
 
-## B5g. Retour au Manoir
+## B5h. Retour au Manoir
 
 ### Les conséquences de Strahd
 
@@ -701,7 +706,7 @@ Ismark revient au manoir peu avant minuit. Peu après, tous les joueurs qui rest
 
 Les joueurs peuvent écouter cette conversation en réussissant un test de Dextérité (Discrétion) DD 13 ou un test de Sagesse (Perception) DD 15. Lisez :
 
-<div class="description"> <p>Les murmures de la pièce voisine sont largement indistincts, obscurcis par les gémissements bas des poutres de la vieille maison. Cependant, en tendant l'oreille, les paroles des frère et sœur deviennent peu à peu plus claires.</p> <p>La voix d'Ireena, aiguë d'indignation, perce le silence. "Tu n'as pas le droit, Ismark. Tu ne peux pas simplement décider de m'envoyer au loin, comme si j'étais une gêne ! Je suis l'enfant de Père autant que toi, et notre peuple a besoin de moi pour se reconstruire. Tu as besoin de moi aussi !"</p> <p>La réponse d'Ismark est mesurée, bien qu'empreinte d'une inquiétude indéniable. "Le Diable a jeté son dévolu sur toi — et même si nous ne croyons pas à la légende sur les femmes aux cheveux roux, d'autres pourraient y croire. Le village n'est tout simplement plus sûre pour toi."</p> <p>Un reniflement de défi résonne de l'autre côté de la fine cloison de bois. "Je ne suis pas une lâche, Ismark, et je n'abandonnerai pas nos amis et voisins au moment où ils ont le plus besoin de moi."</p> <p>Il y a une pause. Puis, Ismark dit doucement : "Gertruda a quitté le village la nuit dernière. Seule."</p> <p>Vous entendez un souffle haletant venant de la direction d'Ireena. "<em>Pourquoi ?</em>"</p> <p>"Sa mère pense qu'elle est allée à Vallaki," murmure Ismark. "Je ne sais pas si elle est partie chercher de l'aide, ou pour s'éloigner du village — mais les gens d'ici ne sont pas les seuls à avoir besoin de ton aide."</p> <p>Il y a un long silence chargé de souffrance. Puis —</p> <p>Ismark semble hésiter, ses mots légèrement maladroits. "Je ne te demande pas de les abandonner. Mais il y a d'autres personnes qui ont besoin de ton aide. Pense à nos voisins qui ont fui vers Vallaki. Ils ont besoin de conseils, de soutien — et peut-être d'un leader pour les ramener chez eux un jour."</p> <p>Il y a une longue pause. La voix d'Ireena est basse quand elle parle enfin — à peine audible. "Je n'aime toujours pas ça."</p> <p>La réponse d'Ismark est calme. "C'est ton choix. Je ne peux pas te l'enlever. Mais après avoir perdu Père, je ne peux pas... je ne peux pas supporter l'idée de te perdre aussi."</p> <p>Le silence qui suit est palpable, chargé de non-dit. Finalement, la voix d'Ireena le brise, fragile et calme. "J'irai. Ne serait-ce que pour toi. Et seulement si nous enterrons Père d'abord — ensemble."</p> </div>
+<div class="description"> <p>Les murmures de la pièce voisine sont largement indistincts, obscurcis par les gémissements bas des poutres de la vieille maison. Cependant, en tendant l'oreille, les paroles des frère et sœur deviennent peu à peu plus claires.</p> <p>La voix d'Ireena, aiguë d'indignation, perce le silence. "Tu n'as pas le droit, Ismark. Tu ne peux pas simplement décider de m'envoyer au loin, comme si j'étais une gêne ! Je suis l'enfant de Père autant que toi, et notre peuple a besoin de moi pour se reconstruire. Tu as besoin de moi aussi !"</p> <p>La réponse d'Ismark est mesurée, bien qu'empreinte d'une inquiétude indéniable. "Le Diable a jeté son dévolu sur toi — et même si nous ne croyons pas à la légende sur les femmes aux cheveux roux, d'autres pourraient y croire. Le village n'est tout simplement plus sûre pour toi."</p> <p>Un reniflement de défi résonne de l'autre côté de la fine cloison de bois. "Je ne suis pas une lâche, Ismark, et je n'abandonnerai pas nos amis et voisins au moment où ils ont le plus besoin de moi."</p> <p>Il y a une pause. Puis, Ismark dit doucement : "Gertruda a quitté le village ce matin. Seule."</p> <p>Vous entendez un souffle haletant venant de la direction d'Ireena. "<em>Pourquoi ?</em>"</p> <p>"Sa mère pense qu'elle est allée au chateau pour demander au Diable de faire preuve de clémence." murmure Ismark.</p> <p>Il y a un long silence chargé de souffrance. Puis —</p> <p>Ismark semble hésiter, ses mots légèrement maladroits. "Je ne te demande pas de les abandonner. Mais il y a d'autres personnes qui ont besoin de ton aide. Pense à nos voisins qui ont fui vers Vallaki. Ils ont besoin de conseils, de soutien — et peut-être d'un leader pour les ramener chez eux un jour."</p> <p>Il y a une longue pause. La voix d'Ireena est basse quand elle parle enfin — à peine audible. "Je n'aime toujours pas ça."</p> <p>La réponse d'Ismark est calme. "C'est ton choix. Je ne peux pas te l'enlever. Mais après avoir perdu Père, je ne peux pas... je ne peux pas supporter l'idée de te perdre aussi."</p> <p>Le silence qui suit est palpable, chargé de non-dit. Finalement, la voix d'Ireena le brise, fragile et calme. "J'irai. Ne serait-ce que pour toi. Et seulement si nous enterrons Père d'abord — ensemble."</p> </div>
 
 Ismark et Ireena montent les escaliers quelques instants plus tard. Un joueur avec un score de Sagesse (Perspicacité) passive de 10 ou plus remarque que tous deux ont les yeux rouges et gonflés, comme s'ils avaient pleuré.
 
@@ -738,7 +743,7 @@ Les joueurs ont un round pour tuer le rat alors qu'il se précipite vers un gran
 
 **_Livrer le cercueil._** Après avoir demandé ses deux premières faveurs, Ismark demande aux joueurs de l'aider, lui et Ireena, à porter le cercueil de Kolyan jusqu'à l'église. S'ils acceptent, les deux frère et sœur accompagnent les joueurs à l'église.
 
-## B5d. L'Église Barovienne
+## B5i. L'Église Barovienne
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 3 : Zone E5.</em></span>
 
@@ -812,7 +817,7 @@ Au fur et à mesure que la conversation se déroule, les échanges suivants pour
 Si les joueurs l'interrogent davantage, Donavich peut partager les informations suivantes :
 
 - Quand Doru est parti pour le Château Ravenloft, le Père Donavich lui a donné son symbole sacré du Seigneur du Matin - un soleil en bronze sur un cordon de cuir - pour le protéger face aux ténèbres. Cependant, quand Doru n'est pas revenu, Donavich a craint le pire.
-- Il y a deux semaines, alors que le siège commençait, Doru est revenu à l'église à minuit, maintenant transformé en **rejeton vampirique**. Donavich a réussi à attirer Doru dans la crypte et à l'y piéger.
+- Il y a six jours, alors que le siège commençait, Doru est revenu à l'église à minuit, maintenant transformé en **rejeton vampirique**. Donavich a réussi à attirer Doru dans la crypte et à l'y piéger.
 - Depuis le retour de Doru, Donavich n'a pas été capable de lancer des sorts ou de sentir la présence du Seigneur du Matin. Il croit que c'est parce que Doru a toujours son symbole sacré, et que l'influence maléfique de Strahd a corrompu la connexion de Donavich avec les dieux.
 - Donavich croit que son fils est mort, et que la créature qui porte sa peau est une moquerie qui doit être détruite.
 
@@ -833,6 +838,9 @@ Doru, un **rejeton vampirique**, a utilisé sa capacité d'**_escalade d'araign�
 Doru préfère parler aux joueurs depuis la sécurité de l'obscurité, mais ne refusera pas si les joueurs lui ordonnent de se révéler. S'il le fait, lisez ce qui suit :
 
 <div class="description"> <p>Depuis l'obscurité des poutres au-dessus, une silhouette se déploie comme un papillon sortant de son cocon, se déplaçant comme une araignée alors qu'elle descend lentement vers le sol. Lorsqu'elle entre dans la faible lumière, l'ombre prend la forme d'un jeune homme, ses traits juvéniles rappelant de manière frappante ceux du Père Donavich.</p> <p>Sa peau est d'une pâleur fantomatique, avec de la saleté et de la crasse qui strient son visage. Ses vêtements sont déchirés et usés, et ses cheveux sont un désordre inextricable de nœuds. Ses yeux sont rouges et injectés de sang, son regard passant d'un visage à l'autre. Un cordon de cuir pend à son cou, tenant un soleil en bronze taché de sang qui repose sur sa poitrine. Il déglutit et se lèche les lèvres - et une paire de crocs pointus apparaît.</p> <p>"Si vous voulez me tuer, je ne vous arrêterai pas," dit-il, la voix se brisant. "Mais j'ai juste une demande à vous faire auparavant."</p> </div>
+  
+
+![[Doru.jpg]] "Doru" by Caleb Cleveland. Support him on [Patreon!](https://patreon.com/calebisdrawing/)
 
 > [!profile]+ **Profil : Doru**
 > 
@@ -949,7 +957,7 @@ Pendant qu'Ismark prépare les rations, il peut partager les informations suivan
 - Le voyage jusqu'à Vallaki dure plus d'une journée si les joueurs prévoient de visiter d'abord l'étang de Tser, et Ireena et les joueurs devront probablement passer une nuit sur la route. Il recommande de le faire à l'étang de Tser lui-même.
 - L'étang de Tser se trouve à un peu moins de deux heures de marche du village de Barovie. (Bien que certains Vistani soient réputés être de mèche avec Strahd, l'étang de Tser est connu pour être un endroit sûr où les voyageurs peuvent passer la nuit, notamment grâce à la réputation de Madame Eva.)
 
-## B5e. La Colline de Lugdana
+## B5j. La Colline de Lugdana
 
 Environ une heure avant midi, [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] quitte discrètement le manoir pour se rendre à la Colline de Lugdana, une petite colline tranquille au nord de Barovie. (La colline porte le nom de la paladine Lugdana qui, selon la légende, y rencontra pour la première fois le Bourgmestre Ismark Antonovich le Grand.)
 
@@ -1002,7 +1010,7 @@ Lorsque les joueurs sont prêts à partir, Ireena fait des adieux chaleureux à 
 > 
 > Aucun des serviteurs ou monstres de Strahd - quelle que soit leur intelligence, et surtout pas Strahd lui-même - n'attaque jamais Ireena.
 
-## B5f. La Demeure de Mary la Folle
+## B5k. La Demeure de Mary la Folle
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 3 : Zone E3.</em></span> Il ne devrait y avoir aucune raison pour que les joueurs visitent <span class="citation">la Maison de ville de Mary la Folle (p. 44)</span> dans cette révision. Cependant, s'ils le font, les changements suivants ont été apportés : Mary n'a pas caché Gertruda dans cette maison toute sa vie. Au contraire, Gertruda a mené une vie assez ordinaire - bien qu'avec une mère veuve assez envahissante. (Ireena et Gertruda se sont liées d'amitié quand elles étaient jeunes filles, partageant la perte de leurs parents - la mère d'Ireena et le père de Gertruda.) De son vivant, le père de Gertruda était un marchand qui élevait Gertruda en lui racontant des histoires de grands seigneurs et dames, utilisant les maigres fonds de la famille pour lui acheter occasionnellement des livres auprès des caravanes Vistani, traitant de diplomatie et d'histoire militaire.
 

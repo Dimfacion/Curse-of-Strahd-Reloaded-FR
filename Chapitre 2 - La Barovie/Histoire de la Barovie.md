@@ -431,7 +431,7 @@ Le prince démon était redoutable, mais le _Symbole Sacré_ et l'aide des Gardi
 
 Trois ans après la mort de Lugdana, dans une terre bien au-delà de la vallée, naquit Rudolph van Richten.
 
-À l'âge de vingt-huit ans, il était un médecin et un mari accompli, marié à son amour d'enfance, Ingrid. De l'autre côté des Brumes, dans le pays de Barovia, le petit-fils de Livius Martikov, Davian, devint le fier père d'Urwin, son premier-né.
+À l'âge de vingt-huit ans, il était un médecin et un mari accompli, marié à son amour d'enfance, Ingrid. De l'autre côté des Brumes, dans le pays de Barovia, le petit-fils de Livius Martikov, Davian, devint le fier père d'Urwin, son second-né.
 
 Non loin de la cave des Martikov, dans la ville de Vallaki, Fiona Wachter, âgée de seize ans, s'enfuit de chez elle après une violente dispute avec ses parents et son frère. Elle se retrouva dans les Vieux Bois Svalich, où la sorcière Baba Lysaga la trouva.
 
@@ -542,19 +542,9 @@ Alors que le pillage de tombes par l'Abbé s'intensifiait, Kasimir tenta de rejo
 
 Quatre-vingt-dix jours après la proclamation de Rahadin, l'armée de morts-vivants de Strahd était enfin complète. Il déchaîna la horde de zombies contre le village de Barovie et, pour punir Doru, l'envoya à l'église de Barovie pour tourmenter son père, le Père Donavich.
 
-Le siège des zombies contre la ville dura une semaine entière, les morts-vivants se heurtant nuit après nuit aux fortifications rudimentaires du village. Bien que le village ait finalement été sécurisé, des dizaines de vies furent perdues, y compris, lors de la dernière nuit, celle du Bourgmestre Indirovich lui-même. À ce moment-là, Strahd retira enfin ses forces, permettant aux Baroviens de soigner leurs blessés, de rassembler leurs morts et de tenter de reconstruire.
+Le siège des zombies sur la ville dure depuis six jours, avec les morts-vivants se jetant contre les fortifications rudimentaires du village nuit après nuit. Des dizaines de vies ont déjà été perdues, et beaucoup de ceux qui sont restés se sont retournés contre Ismark, le blâmant de les avoir dissuadés de fuir vers la sécurité des semaines auparavant. Ismark - nommé d'après son ancêtre "Ismark le Grand" - est maintenant moqué sous le nom d'"Ismark le Moindre."
 
-Les enfants du bourgmestre, Ismark et Ireena, prirent en charge les efforts de reconstruction. Même ainsi, de nombreux Baroviens, effrayés par l'émergence de Strahd et la menace du Château Ravenloft, quittèrent leurs foyers en ruine et leurs familles brisées pour fuir vers Vallaki à l'ouest, espérant que ses hautes murailles apporteraient la sécurité.
-
-Beaucoup de ceux qui restèrent dans le village de Barovie se retournèrent contre Ismark, le blâmant de les avoir dissuadés de fuir pour se mettre en sécurité des semaines auparavant. Ismark—nommé d'après son ancêtre « Ismark le Grand »—fut désormais moqué sous le nom d’« Ismark le Petit ».
-
-Deux nuits après la fin du siège, visitant le village déguisé pour s'assurer de sa soumission, Strahd aperçut Ireena dans les rues et la reconnut comme étant le portrait craché de Tatyana Federovna. La nuit suivante, croyant qu'Ireena était la dernière réincarnation de Tatyana, Strahd visita le manoir du bourgmestre et s’y introduisit par charme avant de la mordre.
-
-Alors qu'il retournait au Château Ravenloft, cependant, il regarda dans les Brumes et réalisa que, une fois de plus, les Pouvoirs Sombres le tentaient. Déterminé à s'assurer que l'âme de Tatyana ne lui échappe pas une fois de plus, il monta au Cœur du Chagrin, où il força le vestige du Dévoreur à fabriquer un _jarre d'âme_ pour lui—une jarre qui, une fois marquée du sang d'Ireena, emprisonnerait son âme à sa mort.
-
-Deux nuits plus tard, il visita à nouveau le village de Barovie, surmontant les meilleurs efforts d'Ismark et d'Ireena pour lui résister et mordant Ireena une seconde fois pour récupérer son sang et activer sa _jarre d'âme_. Désespérés et défiants, les deux frères et sœurs mirent en place de lourdes fortifications autour du manoir—tout en faisant de leur mieux pour cacher les visites de Strahd aux autres villageois.
-
-Maintenant, alors que les serviteurs de Strahd se répandent dans la vallée, obéissant à nouveau à la volonté du vampire, une obscurité rampante revient corrompre la terre. Les ombres se cachent dans chaque recoin, et les Brumes observent silencieusement alors que les horreurs se déroulent.
+Pendant ce temps, alors que les serviteurs de Strahd se répandent à travers la vallée, obéissants une fois de plus à la volonté du vampire, une obscurité rampante revient corrompre la terre. Les ombres rôdent dans chaque recoin, et les Brumes observent silencieusement tandis que les horreurs se déploient.
 
 Pendant ce temps, dans une contrée lointaine bien au-delà de la vallée, plusieurs voyageurs arrivent dans la ville de Daguefer, ignorant avec bonheur les épreuves qui les attendent...
 # Notes de Conception : Histoire de Barovie

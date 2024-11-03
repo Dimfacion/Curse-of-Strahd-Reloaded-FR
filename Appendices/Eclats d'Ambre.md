@@ -2,23 +2,35 @@ Tout au long de l'aventure, les joueurs auront l'opportunité d'obtenir un ou pl
 
 Bien qu'ils ne contiennent pas l'essence complète des vestiges, chaque éclat d'ambre porte un lien psychique avec le sarcophage d'où il provient. Grâce à ce lien, un vestige peut chuchoter à celui qui tient l'éclat, offrant des promesses de pouvoir en échange d'une descente dans la corruption.
 
+>[!info]+ **Trouver des Éclats d'Ambre** 
+>Les joueurs ont une opportunité d'obtenir un éclat d'ambre :
+>- durant la [[Création de Personnage]]
+>- après avoir vaincu Izek Strazni dans [[Arc F - Le Souhait de Lady Wachter]] / [[Arc G - Les Frères et Sœurs Strazni]] (voir [[#Seriach, le Maître des Chiens des Enfers]])
+>- après avoir pillé le trésor du Château Ravenloft dans [[Arc P - Le Casse de Ravenloft]] (voir [[#Grand Taar Haak, le Destructeur à Cinq Têtes]])
+>
+>Vous ne devriez cependant pas ajouter d'éclats supplémentaires que les joueurs pourraient obtenir.
+>
+
+>[!info]+ **La Magie des Éclats** 
+>Un joueur qui examine un éclat d'ambre avec un sort de _détection de la magie_ discerne des traces de magie d'abjuration. Un joueur qui tente d'identifier un éclat avec un sort d'_identification_ apprend qu'il faisait autrefois partie d'une structure plus grande destinée à contenir ou emprisonner une entité ou une créature, et qu'il conserve encore un certain lien arcanique avec le conteneur d'origine.
+
 # Étape Un
 
 À ce stade, le joueur n'est qu'un simple possesseur de l'éclat d'ambre, probablement inconscient du véritable pouvoir qu'il offre.
 
 La première fois que le joueur est réduit à 0 point de vie et perd connaissance tout en possédant l'éclat, une silhouette sombre apparaît à lui dans une vision et propose de l'aider à échapper à la mort et à retourner au combat. La silhouette ne nomme aucun prix et reste silencieuse à moins que le joueur n'accepte son offre.
 
-Si le joueur accepte, il récupère tous ses points de vie. Le joueur passe alors à l'Étape Deux de la corruption de l'éclat. S'il refuse, le vestige ne réapparaît plus, sauf si le joueur perd connaissance dans une situation particulièrement désespérée.
+Si le joueur accepte, il récupère tous ses points de vie. Le joueur passe alors à l'Étape Deux de la corruption de l'éclat. S'il refuse, le vestige ne réapparaît plus, sauf si le joueur perd connaissance dans une situation particulièrement désespérée. 
 
 # Étape Deux
 
 À ce stade, le joueur est conscient du pouvoir surnaturel de l'éclat, mais ne peut pas contacter le vestige pour obtenir de l'aide supplémentaire.
 
-La première fois que le joueur est réduit à la moitié ou moins de ses points de vie maximum en combat, la voix de la silhouette s'adresse à lui dans son esprit. Le vestige propose d'accorder au joueur le pouvoir d'abattre ses ennemis.
+La première fois que le joueur est réduit à la moitié ou moins de ses points de vie maximum en combat, la voix de la silhouette s'adresse à lui dans son esprit. Le vestige propose d'accorder au joueur le pouvoir d'abattre ses ennemis. Si le joueur décline l'offre de la voix, le vestige ne le contacte plus à moins que le joueur ne soit réduit à la moitié ou moins de ses points de vie maximums lors d'un combat contre un ennemi qu'il déteste particulièrement.
 
-Si le joueur accepte, il gagne un nombre de points de vie temporaires égal au double de son bonus de compétence au début de chacun de ses tours pendant 1 minute. Pendant ce temps, le joueur peut également lancer un sort particulier une fois en tant qu'action bonus sans utiliser de slot de sort ni de composantes, comme indiqué dans la section **Corruption d'Ambre** ci-dessous. Après avoir accordé ces avantages, la voix du vestige invite le joueur à communier avec son éclat s'il souhaite obtenir le pouvoir qu'il recherche. Le joueur passe alors à l'Étape Trois de la corruption de l'éclat.
+Si le joueur accepte, il gagne un nombre de points de vie temporaires égal au double de son bonus de compétence au début de chacun de ses tours pendant 1 minute. Pendant ce temps, le joueur peut également lancer un sort particulier une fois en tant qu'action bonus sans utiliser de slot de sort ni de composantes, comme indiqué dans la section **Corruption d'Ambre** ci-dessous. (Le bonus d'attaque du sort est de +7, et son DD de sauvegarde est de 15.) 
 
-Si le joueur refuse l'offre de la voix, le vestige ne le contacte plus, sauf si le joueur est réduit à la moitié ou moins de ses points de vie maximum en combat avec un ennemi qu'il déteste particulièrement.
+Après avoir accordé ces avantages, la voix du vestige invite le joueur à communier avec son éclat s'il souhaite obtenir le pouvoir qu'il recherche. Le joueur passe alors à l'Étape Trois de la corruption de l'éclat.
 
 # Étape Trois
 
@@ -26,7 +38,11 @@ Si le joueur refuse l'offre de la voix, le vestige ne le contacte plus, sauf si 
 
 Le joueur peut communier avec succès avec le vestige en méditant pendant 1 minute tout en se concentrant sur l'éclat. La voix du vestige lui parle alors dans son esprit, lui offrant un avantage permanent en cadeau, et en guise d'avant-goût du pouvoir complet qu'il peut obtenir s'il se rend chez le vestige dans le Temple d'Ambre.
 
-Si le joueur accepte, il obtient un avantage particulier, tel qu'indiqué dans la section **Corruption d'Ambre** ci-dessous. Le joueur subit également une condition particulière, également indiquée dans la même table. Cette condition est incurable sans l'aide d'un sort de _rétablissement supérieur_ ou d'une magie similaire.
+Si le joueur accepte, il obtient les effets suivants :
+
+- Il gagne un don particulier, tel que décrit dans la section **Corruption d'Ambre** ci-dessous.
+- Il peut continuer à lancer le sort de ce vestige une fois par jour. Chaque fois qu'il le fait, il gagne un nombre de niveaux d'épuisement égal au nombre de fois où il a lancé le sort. Ce nombre ne se réinitialise que si le joueur passe trois jours complets sans lancer le sort du vestige. (Par exemple, si un joueur lance le sort de _nuage nauséabond_ de Fekre deux jours de suite, il reçoit un niveau d'épuisement le premier jour et deux niveaux d'épuisement le deuxième jour. Si le joueur attend trois jours avant de lancer le sort à nouveau, il ne recevra qu'un niveau d'épuisement pour cela ; sinon, il recevra trois niveaux d'épuisement supplémentaires.)
+- Il souffre d'une condition particulière, tel que décrit dans la même section ci-dessous. La condition ne peut être guérie sans l'aide d'un sort de _restauration supérieure_ ou d'une magie similaire. (Un joueur peut également recevoir la guérison de Sainte Markovia dans [[Arc Q - Un Phare Brillant]].) Si la condition est guérie, le joueur perd également tous les dons du vestige, y compris son sort et son don.
 
 Si le joueur interroge le vestige sur cette condition, le vestige lui explique que la condition est un sous-produit de la connexion imparfaite forgée par les éclats. Il invite ce joueur au Temple d'Ambre pour recevoir le don complet du vestige et achever sa transformation.
 

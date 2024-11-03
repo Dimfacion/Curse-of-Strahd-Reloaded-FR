@@ -203,7 +203,7 @@ Si vous choisissez d'utiliser les **Reliques Baroviennes** comme accroche pour u
 Une fois qu'un joueur a choisi sa motivation principale, utilisez la section correspondante ci-dessous pour aider ce joueur à développer l'histoire et les objectifs de son personnage.
 ## Connaissance—L'Eclat d'Ambre
 ![[Amber Shard.png]]
-Un joueur en quête de **connaissance** commence la campagne avec l'_éclat d'ambre_, un petit morceau de résine d'ambre monté sur une corde en maillons de chaîne. L'éclat est incrusté de runes arcaniques complexes en trois dimensions. Lorsqu'il est observé sous l'effet du sort _détection de la magie_, il exsude une forte aura de magie d'abjuration.
+Un joueur en quête de **connaissance** commence la campagne avec l'[[Eclats d'Ambre]], un petit morceau de résine d'ambre monté sur une corde en maillons de chaîne. L'éclat est incrusté de runes arcaniques complexes en trois dimensions. Lorsqu'il est observé sous l'effet du sort _détection de la magie_, il exsude une forte aura de magie d'abjuration.
 
 À l'insu du joueur, l'_éclat d'ambre_ faisait autrefois partie du sarcophage ambré d'un vestige sombre dans le Temple de l'Ambre en Barovie. Lorsqu'il sent la présence de la Maison de la Mort, il brille d'une lumière ambrée et tire sa corde en direction de la maison.
 
@@ -220,7 +220,7 @@ Un joueur en quête de **rédemption** commence la campagne avec la _plume d'ang
 
 Le joueur qui possède la _plume d'ange_ doit avoir des raisons fortes et vives de croire que la plume les mènera un jour à la pénitence pour les péchés qu'ils ont commis.
 
-_**Développements.**_ Lorsque les joueurs arrivent pour la première fois à l'Abbaye dans **Acte IV, Arc N : Le Symbole Sacré de Ravenkind** ou **Acte IV, Arc Q : Une Mariée pour Strahd**, la _plume d'ange_ scintille et est emportée de la même manière qu'elle l'a fait en sentant la Maison de la Mort, guidant le joueur vers l'Abbé. L'Abbé reconnaît la plume comme la sienne, mais en minimise l'importance.
+_**Développements.**_ Lorsque les joueurs arrivent pour la première fois à l'Abbaye dans [[Arc I - The Walls of Krezk]] ou [[Arc K - The Fallen Abbey]], la _plume d'ange_ scintille et est emportée de la même manière qu'elle l'a fait en sentant la Maison de la Mort, guidant le joueur vers l'Abbé. L'Abbé reconnaît la plume comme la sienne, mais en minimise l'importance.
 ## Famille—L'Echarpe du Vagabond
 ![[Wanderer's Scarf.png]]
 Un joueur en quête de **famille** commence la campagne avec l’_écharpe du vagabond_, une écharpe multicolore tissée avec des motifs complexes. Le tissu est doux et chaud, et assez long pour être porté autour du cou ou sur la tête. Lorsque la lumière vive du soleil, de la lune ou des étoiles passe à travers elle, les motifs semblent scintiller et se tordre de manière étrange et belle.
@@ -229,7 +229,7 @@ Un joueur en quête de **famille** commence la campagne avec l’_écharpe du va
 
 Le joueur qui possède l’_écharpe du vagabond_ doit l’avoir reçue d’un membre de la famille bien-aimé, et doit avoir des raisons fortes et vives de rechercher un sentiment de famille et d’appartenance.
 
-_**Développements.**_ Lorsque les joueurs rencontrent Ezmerelda pour la première fois dans **Acte IV, Arc M : L’ennemi de Strahd** ou **Acte IV, Arc N : Le Symbole Sacré de Ravenkind**, l’_écharpe du vagabond_ scintille et est emportée de la même manière qu’elle l’a fait en sentant la Maison de la Mort, atterrissant aux pieds d’Ezmerelda. Ezmerelda reconnaît l’écharpe et, après avoir confirmé comment le joueur l’a héritée, accueille le joueur comme un membre de la famille, l’appelant « cousin ».
+_**Développements.**_ Lorsque les joueurs rencontrent Ezmerelda pour la première fois dans [[Arc K - The Fallen Abbey]], l’_écharpe du vagabond_ scintille et est emportée de la même manière qu’elle l’a fait en sentant la Maison de la Mort, atterrissant aux pieds d’Ezmerelda. Ezmerelda reconnaît l’écharpe et, après avoir confirmé comment le joueur l’a héritée, accueille le joueur comme un membre de la famille, l’appelant « cousin ».
 ## Héritage—L'Ecaille de Dragon
 ![[Dragon's Scale.png]]
 Un joueur en quête d'**héritage** commence la campagne avec l’_écaille de dragon_, une grande écaille argentée qui semble toujours froide au toucher. Une créature d'alignement Bon qui touche l'écaille ressent une fugace sensation de sécurité, de protection et de confort.
@@ -238,9 +238,9 @@ Un joueur en quête d'**héritage** commence la campagne avec l’_écaille de d
 
 Le joueur qui possède l’_écaille de dragon_ doit l’avoir reçue d’un membre de la famille et doit avoir des raisons fortes et vives de croire que l’écaille déverrouillera un jour les secrets de leur héritage.
 
-_**Développements.**_ Lorsque le joueur rencontre pour la première fois l’ombre d’Argynvost dans le hall d’entrée d’Argynvostholt dans **Acte IV, Arc O : Le Phare d’Argynvostholt**, l’écaille brûle brièvement de froid de la même manière qu’elle l’a fait en sentant la Maison de la Mort. Chaque fois que le joueur s'approche d'une manifestation de l'esprit d'Argynvost, l'écaille brûle de froid et brille d'une lumière argentée vive en direction de la manifestation.
+_**Développements.**_ Lorsque le joueur rencontre pour la première fois l’ombre d’Argynvost dans le hall d’entrée d’Argynvostholt dans [[Arc M - The Dragon's Manor]], l’écaille brûle brièvement de froid de la même manière qu’elle l’a fait en sentant la Maison de la Mort. Chaque fois que le joueur s'approche d'une manifestation de l'esprit d'Argynvost, l'écaille brûle de froid et brille d'une lumière argentée vive en direction de la manifestation.
 
-Si le joueur aide à récupérer le crâne d'Argynvost et à le restaurer dans son tombeau, l'esprit d'Argynvost accueille chaleureusement le joueur, le nommant héritier de l'héritage de l'Ordre du Dragon d'Argent avant d'allumer le phare d'Argynvostholt.
+Si le joueur aide à récupérer le crâne d'Argynvost durant [[Arc Q - A Shining Beacon]] et à le restaurer dans son tombeau, l'esprit d'Argynvost accueille chaleureusement le joueur, le nommant héritier de l'héritage de l'Ordre du Dragon d'Argent avant d'allumer le phare d'Argynvostholt.
 ## Richesse—La Pièce d'Electrum
 ![[Electrum Coin.png]]
 Un joueur en quête de **richesse** commence la campagne avec une vieille _pièce d'électrum_ ébréchée, estampillée avec le visage de profil d'un noble fier mais au regard froid. Lorsque vue sous une certaine lumière, l'expression du noble semble passer d'un rictus aristocratique ferme à un sourire monstrueux et bestial.
@@ -249,7 +249,7 @@ Un joueur en quête de **richesse** commence la campagne avec une vieille _pièc
 
 Le joueur qui possède la _pièce d'électrum_ doit avoir des raisons fortes et vives de croire que la pièce provient d'un coffre au trésor merveilleux — le butin d'un conquérant — et qu'un jour, elle le mènera à des richesses inimaginables.
 
-_**Développements.**_ Tout Barovien reconnaît immédiatement le visage estampillé sur la pièce comme étant celui de Strahd. Si le joueur partage l'histoire de la pièce avec l'un des Vistani du camp de Madame Eva dans [[Arc C - A travers la vallée]], Sir Godfrey Gwilym dans **Acte IV, Arc O : Le Phare d'Argynvostholt**, ou Kasimir Velikov dans **Acte V, Arc U : Le Temple d'Ambre**, ils peuvent apprendre l'existence du vaste trésor de Strahd, collecté durant ses jours de conquérant et caché dans le Château Ravenloft.
+_**Développements.**_ Tout Barovien reconnaît immédiatement le visage estampillé sur la pièce comme étant celui de Strahd. Si le joueur partage l'histoire de la pièce avec l'un des Vistani du camp de Madame Eva dans [[Arc C - A travers la vallée]], Sir Godfrey Gwilym dans [[Arc M - The Dragon's Manor]], ou Kasimir Velikov dans [[Arc E - La Vistana Disparue]], ils peuvent apprendre l'existence du vaste trésor de Strahd, collecté durant ses jours de conquérant et caché dans le Château Ravenloft.
 
 Lorsque le joueur s'approche pour la première fois du trésor de Strahd, la pièce tombe sur sa tranche et roule aussi loin qu'elle le peut vers l'entrée du trésor, de la même manière qu'elle l'a fait en sentant la Maison de la Mort.
 ## Guérison—La Dent de Loup
@@ -260,7 +260,7 @@ Un joueur en quête de **guérison** commence la campagne avec une _dent de loup
 
 Le joueur qui possède la _dent de loup_ doit avoir des raisons fortes et vives de croire que la dent est la clé pour guérir une blessure, une maladie ou une malédiction particulière qui le tourmente.
 
-_**Développements.**_ Si le joueur montre la _dent de loup_ à Kavan dans **Acte III, Arc K : La Gemme Manquante** ou à l'ancien Burebis dans **Acte V, Arc W : Les Dames des Sanctuaires**, la dent est reconnue comme un artefact et un symbole de la Chasseresse. Lorsque le joueur approche pour la première fois le cercle de pierres au Sanctuaire de la Forêt dans **Acte V, Arc W : Les Dames des Sanctuaires**, la dent s'allonge et brille de lumière lunaire comme elle l'a fait en sentant la Maison de la Mort.
+_**Développements.**_ Si le joueur montre la _dent de loup_ à Kavan dans [[Arc J - The Stolen Gem]] ou à l'ancien Burebis dans **Acte V, Arc W : Les Dames des Sanctuaires**, la dent est reconnue comme un artefact et un symbole de la Chasseresse. Lorsque le joueur approche pour la première fois le cercle de pierres au Sanctuaire de la Forêt dans **Acte V, Arc W : Les Dames des Sanctuaires**, la dent s'allonge et brille de lumière lunaire comme elle l'a fait en sentant la Maison de la Mort.
 ## Devoir—La Plume de Corbeau
 ![[Raven's Feather.png]]
 Un joueur en quête de **devoir** commence la campagne avec une _plume de corbeau_, une petite plume noire aux barbes douces et duveteuses. Lorsqu'elle est tenue en l'air avant une tempête, la plume semble trembler légèrement, exhalant l'odeur de la pluie froide et de la terre humide.
@@ -289,9 +289,9 @@ Un joueur en quête d'**ambition** commence la campagne avec la _bannière en la
 
 Le joueur qui possède la _bannière en lambeaux_ doit avoir des raisons fortes et vives de croire que la bannière était autrefois le sigle d'un puissant conquérant — et qu'en suivant les traces de ce conquérant, ils atteindront un jour la grandeur, la gloire et le droit de régner.
 
-_**Développements.**_ Lorsque le joueur découvre pour la première fois le champ de bataille hanté au nord de Berez dans **Acte V, Arc T : La vengeance de Baba Lysaga** ou **Acte V, Arc W : Les Dames des Fanes**, la bannière flotte au vent, résonnant avec le son des tambours de guerre.
+_**Développements.**_ Lorsque le joueur découvre pour la première fois le champ de bataille hanté au nord de Berez dans [[Arc I - The Walls of Krezk]], la bannière flotte au vent, résonnant avec le son des tambours de guerre.
 
-Si le joueur montre la bannière au revenant aux chutes de Tser dans [[Arc C - A travers la vallée]], à Sir Godfrey Gwilym ou à Sir Vladimir Horngaard dans **Acte IV, Arc O : Le Phare d'Argynvostholt**, ou à Kasimir Velikov soit dans **Acte V, Arc U : Le Temple d'Ambre** ou **Acte IV, Arc M : L'Ennemi de Strahd**, son apparence suscite répulsion et dégoût amer.
+Si le joueur montre la bannière au revenant aux chutes de Tser dans [[Arc C - A travers la vallée]], à Sir Godfrey Gwilym ou à Sir Vladimir Horngaard dans [[Arc M - The Dragon's Manor]], ou à Kasimir Velikov soit dans [[Arc E - La Vistana Disparue]] ou **Acte V, Arc U : Le Temple d'Ambre**, son apparence suscite répulsion et dégoût amer.
 
 Si le joueur montre la bannière à Strahd, il la regarde avec une réflexion affectueuse, mais refuse d'élaborer sur sa signification. Si le joueur montre la bannière au Dr Rudolph van Richten dans **Arc M : L'Ennemi de Strahd** ou à un Vistani, ils la reconnaissent immédiatement comme l'héraldique du Château Ravenloft.
 ## Foi—Le Médaillon de l'Aube
@@ -313,7 +313,7 @@ Le joueur qui possède le _blason de pierre_ doit avoir des raisons fortes et vi
 
 _**Développements.**_ Lorsque le joueur s'approche pour la première fois de l'extérieur de Soldav dans **Acte V, Arc W : Les Dames des Fanes**, le _blason de pierre_ bourdonne et libère une odeur d'aiguilles de pin et de terre comme il le faisait lorsqu'il détectait la Maison de la Mort, ces deux éléments se renforçant à mesure que le joueur approche du Sanctuaire des Rozana à Soldav.
 
-Si le joueur montre le _blason de pierre_ à Kavan dans **Acte III, Arc K : La Gemme Manquante** ou à l'Ancien Burebis dans **Acte V, Arc W : Les Dames des Fanes**, le blason est reconnu comme un artefact et un symbole des Dames des Fanes.
+Si le joueur montre le _blason de pierre_ à Kavan dans [[Arc J - The Stolen Gem]] ou à l'Ancien Burebis dans **Acte V, Arc W : Les Dames des Fanes**, le blason est reconnu comme un artefact et un symbole des Dames des Fanes.
 ## Justice—La Lame Brisée
 ![[Broken Blade.png]]
 Un joueur en quête de **justice** commence la campagne avec la _lame brisée_, la pointe brisée d'une épée longue elfique. La lame est gravée du sigle d'un lion rampant, qui semble rugir lorsque la lumière du crépuscule la touche.
@@ -324,6 +324,6 @@ Rahadin, un elfe du crépuscule qui avait rejeté la souveraineté d'Erevan, a a
 
 Le joueur qui possède la _lame brisée_ doit avoir des raisons fortes et vives de croire que ses ancêtres étaient des réfugiés, chassés de leurs terres ancestrales et persécutés, et que la lame délivrera un jour la justice contre le traître qui les a détruits.
 
-_**Développements.**_ Si le joueur montre la _lame brisée_ à Kasimir Velikov dans **Acte V, Arc U : Le Temple d'Ambre**, il se remémore tristement son histoire et demande au joueur comment il est venu en possession de cette lame. Si le joueur informe Kasimir de la manière dont il a hérité de la lame, Kasimir l'accueille comme un membre de la famille, se demandant à haute voix si d'autres elfes du crépuscule ont pu échapper au massacre de Strahd en dehors de Barovie.
+_**Développements.**_ Si le joueur montre la _lame brisée_ à Kasimir Velikov dans [[Arc E - La Vistana Disparue]], il se remémore tristement son histoire et demande au joueur comment il est venu en possession de cette lame. Si le joueur informe Kasimir de la manière dont il a hérité de la lame, Kasimir l'accueille comme un membre de la famille, se demandant à haute voix si d'autres elfes du crépuscule ont pu échapper au massacre de Strahd en dehors de Barovie.
 
 Si la _lame brisée_ se trouve jamais à proximité de Rahadin, le chambellan de Strahd, elle émet un bourdonnement aigu et tremble violemment, tournoyant comme une aiguille de boussole dans sa direction, tout comme elle l'a fait en détectant la Maison de la Mort. Si le joueur montre la _lame brisée_ à Rahadin, ce dernier prétend d'abord ne pas se souvenir de la lame, notant avec indifférence les milliers de personnes qu'il a massacrées. Cependant, au combat, Rahadin finit par se souvenir de l'origine de la lame, la rejetant comme "le jouet brisé d'un homme faible et sans valeur."

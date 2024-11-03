@@ -1,7 +1,7 @@
 *Une aventure pour 5 personnages de niveau 2.*
 
 > [!tip]+ **Un avant gout de l'horreur**
-> Les pages suivantes contiennent un guide des premiers actes de la campagne : **Acte I : Vers les Brumes**, **Acte II : La Ville d'Ombre**, et les deux premiers tiers de l'**Acte III : Une Contrée Brisée**. Des mises à jour fournissant du contenu supplémentaire sont prévues régulièrement sur le subreddit /r/CurseOfStrahd.
+> Les pages suivantes contiennent un guide des deux premiers tiers de la campagne : **Acte I : Vers les Brumes**, **Acte II : La Ville d'Ombre**, l'**Acte III : Une Contrée Brisée**. Des mises à jour fournissant du contenu supplémentaire sont prévues régulièrement sur le subreddit /r/CurseOfStrahd.
 > 
 > Vous pouvez vous inscrire pour recevoir des notifications de mises à jour par e-mail en rejoignant gratuitement la communauté DragnaCarta sur [Patreon](https://www.patreon.com/DragnaCarta).
 > 
@@ -21,6 +21,13 @@ Si les joueurs tuent le monstre, la maison commence à s'effondrer, les forçant
 > [!lore]+ **L'histoire de la Funeste Demeure**
 > Voir [[Histoire de la Barovie#Les Premiers Disciples de Strahd|Les Premiers Disciples de Strahd]] pour une redite complete de l'histoire malsaine de la Funeste Demeure.
 # A1. Daggerford
+
+#TODO
+> [!warning]+ **Keep Your Workload Low** 
+> _Curse of Strahd: Reloaded_ has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
+> 
+> If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
+
 ## A1a. Le Nightmare’s Bridle
 Si un ou plusieurs de vos joueurs utilisent l'accroche des [[Mener l'aventure#Adventure Hooks|Reliques Baroviennes]], lisez le texte suivant. Sinon, passez à [[#A2. Funeste Demeure]] ci-dessous.
 
@@ -106,7 +113,6 @@ L'entrée au delà du portique est tel que décrite dans l'<span class="citation
 > Le culte de la Funeste Demeure n’a jamais été apprécié par Strahd de son vivant. Mais dans la mort, les deux parties ont trouvé un accord informel et tacite.
 >
 > En échange de la permission de s’aventurer loin de la brumeuse terre de Barovie pour réclamer des sacrifices, le Funeste Demeure est liée à l’obligation de retourner dans la vallée après chaque excursion de chasse. Si des aventuriers parviennent à échapper à l’autel ensanglanté de la maison, ils émergent inévitablement dans le domaine de Strahd—lui assurant ainsi une proie digne de ce nom à poursuivre.
-![[The Durst Family.png]]
 ### Hall Principal
 <span class="citation"><em>Cette scène a lieu dans Annexe B: Zone 2.</em></span>
 
@@ -357,9 +363,9 @@ Une créature poussée par-dessus le bord du balcon tombe de deux étages, soit 
 > [!combat]- **Équilibrer l'Armure Animée** 
 > Cette rencontre de combat est une rencontre **légère** pour un groupe de cinq joueurs de niveau 2, et consommera environ 15% de leur total de points de vie maximum. Pour des groupes de taille plus petite ou plus grande, modifiez la rencontre comme suit :
 >
-> * ***Trois Joueurs.*** Réduisez les PV de l'armure à 12.
-> * ***Quatre Joueurs.*** Réduisez les PV de l'armure à 21.
-> * ***Six Joueurs.*** Augmentez les PV de l'armure à 48.
+> * ***Trois Joueurs.*** Réduisez les points de vie de l'armure à 12.
+> * ***Quatre Joueurs.*** Réduisez les points de vie de l'armure à 21.
+> * ***Six Joueurs.*** Augmentez les points de vie de l'armure à 48.
 ### Suite du Maître de Maison
 <span class="citation"><em>Cette scène a lieu dans Annexe B: Zone 12.</em></span>
 
@@ -457,7 +463,7 @@ La porte mène à la [[#Chambre d'Invités]].
 
 ### Chambre d'Invités
 
-Cette pièce est largement telle que décrite dans <span class="citation">Chambre d'Invités (p. 215)</span>. Lorsque les joueurs y entrent pour la première fois, lisez :
+Cette pièce est largement telle que décrite dans <span class="citation">Chambre d'Invités (p. 215)</span>. La poupée de la chambre des enfants (p. 215-16) se trouve ici. Lorsque les joueurs y entrent pour la première fois, lisez :
 
 <div class="description"> <p>Cette pièce froide, étouffée par la poussière, contient un lit mince, une table de nuit, un petit poêle à fer, un bureau avec un tabouret, une armoire vide, et un fauteuil à bascule. Une poupée froncée en robe jaune à dentelle est assise dans le bac de fenêtre nord, à côté d'une boîte à musique ternie, les toiles d'araignée la recouvrant comme un voile de mariage.</p> </div>
 
@@ -466,6 +472,8 @@ Les joueurs peuvent reconnaître la poupée comme étant celle que Rose tenait d
 La boîte à musique contient un couteau de dépeçage rouillé et taché de sang, ainsi que la clé du cadenas sur la porte de la chambre de Rose et Thorn.
 
 La boîte à musique contient également deux morceaux de parchemin enroulés. Le premier parchemin montre un plan de base divisé en trois rectangles étiquetés QUARTIERS, TEMPLE et AUTEL. QUARTIERS et TEMPLE sont reliés en haut par une ligne simple, et en bas par une ligne double, qui les relie tous les deux à AUTEL. Le deuxième parchemin contient une liste de noms inconnus sous le mot RECRUTEMENT.
+
+![[Death House Dungeon Map.png]] "Death House Dungeon Map" by Caleb Cleveland. Support him on [Patreon!](https://patreon.com/calebisdrawing/)
 
 Lorsque les joueurs quittent la pièce, le fauteuil à bascule commence à se balancer doucement et la boîte à musique s'ouvre et commence à jouer. Le son d'un chant maternel flotte dans l'air pendant deux mesures, mais devient de plus en plus dissonant et déformé avant de s'arrêter brusquement avec un cri aigu. Le fauteuil à bascule cesse alors de bouger.
 
@@ -536,7 +544,6 @@ Le **spectre** de la nursemaid ne se manifeste pas dans cette pièce. Au lieu de
 
 Un joueur inspectant les restes ressent un souffle glacé sur son épaule et la sensation inébranlable d'être observé. Pendant ce temps, si un autre joueur a précédemment découvert un miroir voisin sous son drap, ce joueur peut voir une apparition d'Elisabeth Durst dans le miroir, fixant le joueur près du coffre. Une fois observée, l'apparition disparaît rapidement.
 
-**_Jalon_**. Descendre au niveau du donjon de Death House complète un jalon de l'histoire. Lorsque le groupe accède aux escaliers secrets, attribuez à chaque joueur 200 XP.
 ### Guest Bedroom
 <span class="citation"><em>Cette scène se déroule dans l'Annexe B : Zone 19.</em></span>
 
@@ -555,6 +562,8 @@ Lorsque les joueurs entrent dans cette pièce, lisez :
 Lorsque les joueurs descendent les escaliers, lisez :
 
 <div class="description"> <p>Les toiles d'araignée brisées autour de vous ondulent comme un voile de mariée en gossamer, vous invitant à avancer tandis que les marches anciennes craquent et gémissent sous vos pieds. La gueule béante de la cage d'escalier vous attire plus profondément, vous engloutissant au fur et à mesure que vous descendez dans son gosier. Vous descendez un étage — deux étages — trois.</p> <p>Les murs du puits de pierre se resserrent autour de vous, vous forçant à courber les épaules et à rentrer les coudes pour continuer à descendre. Dans l'obscurité, vous n'entendez que le bruit de vos pas, le gémissement étouffé des marches et le battement de votre sang dans vos oreilles.</p> <p>Enfin, après ce qui semble des heures, la descente s'adoucit, et l'escalier en colimaçon se termine sur un palier obscur de terre battue. Un étroit tunnel soutenu par de vieilles poutres en bois s'étend devant vous, ses murs de pierre semblant saigner des dépôts d'argile rouge striée. À huit pieds devant vous, le tunnel se divise, se ramifiant vers la gauche et la droite.</p> <p>Alors que vos yeux et vos oreilles s'adaptent au corridor souterrain froid, vous remarquez que le tunnel n'est pas aussi silencieux que l'escalier au-dessus. Un son étrange, grave, résonne dans l'espace — et vous reconnaissez bientôt un chant profond et incessant.</p> </div>
+
+**_Jalon_**. Descendre au niveau du donjon de Death House complète un jalon de l'histoire. Lorsque le groupe accède aux escaliers secrets, attribuez à chaque joueur 200 XP.
 
 ## A2f. Le sous-sol
 ### Cryptes Familiales
@@ -623,6 +632,13 @@ Remplacez l'épée courte en argent dans le coffre **25E** par un livre relié d
 
 <span class="citation"><em>Cette scène se déroule dans l'Annexe B : Zone 26.</em></span>
 
+#TODO
+> [!combat]- **Balancing the Pit Trap** This trap is designed to be a threat for a party of five 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ . Reduce the damage to 1d6 bludgeoning and 2d4+1 piercing.
+> - _**Four Players**_. Reduce the damage to 1d6 bludgeoning and 2d6+1 piercing.
+> - _**Six Players**_. Increase the damage to 1d6 bludgeoning and 2d12+1 piercing.
+
 Cette pièce est largement conforme à la description donnée dans <span class="citation">Fosse à Piques Cachée (p. 218)</span>. Si les personnages entrent dans cette zone depuis les [[#Puits et Quartiers des Cultistes]], lisez :
 
 <div class="description"> <p>L'escalier mène à un palier silencieux. Devant, les marches continuent vers le haut et disparaissent dans un virage. À droite, le palier se prolonge en un corridor solitaire. Ce tunnel semble étonnamment propre et dépourvu de débris ; à son extrémité, un autre escalier de terre descend dans l'obscurité.</p> <p>Le chant incessant qui a rempli l'air de ce complexe souterrain s'intensifie vers le fond de ce corridor. Sa source semble se trouver au-delà des escaliers descendants.</p> </div>
@@ -658,9 +674,9 @@ Si les joueurs dérangent le grick, lisez :
 > [!combat]- **Équilibrer le Grick**
 >  Cette rencontre de combat est une rencontre **éprouvante** contre un groupe de cinq joueurs de niveau 2, et consommera environ 28% de leurs points de vie maximum totaux. Pour des groupes plus petits ou plus grands, modifiez la rencontre comme suit :
 > 
-> - _**Trois Joueurs.**_ Réduisez les PV du grick à 16. Réduisez son attaque de tentacules à 5 (2d4) dégâts et son attaque de bec à 3 (1d6) dégâts.
-> - _**Quatre Joueurs.**_ Réduisez les PV du grick à 22. Réduisez son attaque de tentacules à 7 (2d6) dégâts et son attaque de bec à 4 (1d8) dégâts.
-> - _**Six Joueurs.**_ Augmentez les PV du grick à 32. Augmentez son attaque de tentacules à 11 (2d8+2) et son attaque de morsure à 6 (1d8+2).
+> - _**Trois Joueurs.**_ Réduisez les points de vie du grick à 16. Réduisez son attaque de tentacules à 5 (2d4) dégâts et son attaque de bec à 3 (1d6) dégâts.
+> - _**Quatre Joueurs.**_ Réduisez les points de vie du grick à 22. Réduisez son attaque de tentacules à 7 (2d6) dégâts et son attaque de bec à 4 (1d8) dégâts.
+> - _**Six Joueurs.**_ Augmentez les points de vie du grick à 32. Augmentez son attaque de tentacules à 11 (2d8+2) et son attaque de morsure à 6 (1d8+2).
 
 ### Rencontre avec les Goules
 
@@ -703,9 +719,9 @@ Cette pièce est largement conforme à la description donnée dans <span class="
 
 <span class="citation"><em>Cette scène se déroule dans l'Annexe B : Zone 31.</em></span>
 
-Cette pièce est largement conforme à la description donnée dans <span class="citation">Sanctuaire du Seigneur Sombre (p. 218)</span>. Cependant, retirez le **mimique** de cette zone. De plus, lorsque les joueurs entrent dans cette pièce, lisez :
+Cette pièce est largement conforme à la description donnée dans <span class="citation">Sanctuaire du Seigneur Sombre (p. 218)</span>. De plus, lorsque les joueurs entrent dans cette pièce, lisez :
 
-<div class="description"> <p>Cette pièce est ornée de squelettes moisis suspendus aux murs par des chaînes rouillées, leurs bouches ouvertes en des cris silencieux.</p> <p>Une large alcôve dans le mur sud contient une statue en bois peint sculptée à l'image d'un homme émacié au visage pâle, vêtu d'une volumineuse cape noire, sa main gauche pâle reposant sur la tête d'un loup qui se tient à ses côtés. La main droite de la statue tient un orbe de cristal gris fumé, et son regard peint est fixé sur vous, avec une lueur froide et cruelle dans les yeux.</p> <p>Cinq ombres cendrées sont brûlées sur les murs, avec des traces de suie s'étirant sur le sol vers la statue.</p> <p>La pièce a des sorties à l'ouest et au nord. On peut entendre des chants provenant de l'ouest.</p> </div>
+<div class="description"> <p>Cette pièce est ornée de squelettes moisis suspendus aux murs par des chaînes rouillées, leurs bouches ouvertes en des cris silencieux.</p> <p>Une large alcôve dans le mur sud contient une statue en bois peint sculptée à l'image d'un homme émacié au visage pâle, vêtu d'une volumineuse cape noire, sa main gauche pâle reposant sur la tête d'un loup qui se tient à ses côtés. La main droite de la statue tient un orbe de cristal gris fumé, et son regard peint est fixé sur vous, avec une lueur froide et cruelle dans les yeux.</p> <p>Cinq ombres cendrées sont brûlées sur les murs, avec des traces de suie s'étirant sur le sol vers la statue.</p> <p>La pièce a des sorties à l'ouest et au nord. On peut entendre des chants provenant du nord.</p> </div>
 
 Un joueur qui s'approche de l'orbe peut entendre de nombreuses voix chuchotant les phrases suivantes :
 
@@ -764,9 +780,9 @@ Plié à l'intérieur du coffre, au-dessus de son contenu, se trouve un **désos
 > [!combat]- **Équilibrer le désossé** 
 > Cette rencontre de combat est une rencontre **légère** contre un groupe de cinq joueurs de niveau 2, et consommera environ 15% de leurs points de vie maximum totaux. Pour des groupes plus petits ou plus grands, modifiez la rencontre comme suit :
 > 
-> - _**Trois Joueurs.**_ Réduisez les PV du désossé à 16. Réduisez son attaque de _**coup**_ et son action _**étreinte écrasante**_ à 3 (1d4+1) dégâts chacune.
-> - _**Quatre Joueurs.**_ Réduisez les PV du désossé à 21. Réduisez son attaque de _**coup**_ et son action _**étreinte écrasante**_ à 4 (1d4+2) dégâts chacune.
-> - _**Six Joueurs.**_ Augmentez les PV du désossé à 31. Augmentez son attaque de _**coup**_ et son action _**étreinte écrasante**_ à 6 (1d6+3) dégâts chacune.
+> - _**Trois Joueurs.**_ Réduisez les points de vie du désossé à 16. Réduisez son attaque de _**coup**_ et son action _**étreinte écrasante**_ à 3 (1d4+1) dégâts chacune.
+> - _**Quatre Joueurs.**_ Réduisez les points de vie du désossé à 21. Réduisez son attaque de _**coup**_ et son action _**étreinte écrasante**_ à 4 (1d4+2) dégâts chacune.
+> - _**Six Joueurs.**_ Augmentez les points de vie du désossé à 31. Augmentez son attaque de _**coup**_ et son action _**étreinte écrasante**_ à 6 (1d6+3) dégâts chacune.
 
 Aucun **blême** n'attaque si un joueur retire des objets du coffre, et il n'y a pas de cavités cachées derrière les murs.
 
@@ -802,7 +818,7 @@ La roue en bois qui ouvre la herse reste du côté ouest de la grille (c'est-à-
 
 <span class="citation"><em>Cette scène se déroule dans l'Annexe B : Zone 38.</em></span>
 
-Cette pièce est largement conforme à la description donnée dans <span class="citation">Chambre Rituelle (p. 219)</span>. Lorsque les joueurs entrent dans cette pièce, lisez :
+Cette pièce est largement conforme à la description donnée dans <span class="citation">Chambre Rituelle (p. 219)</span>. L'eau a une profondeur de 60 cm et doit être considérée comme un terrain difficile pour les créatures de taille Moyenne ou plus petites. Grimper du bassin vers les rebords compte également comme un terrain difficile. Lorsque les joueurs entrent dans cette pièce, lisez :
 
 <div class="description"> <p>Les murs de maçonnerie lisses de cette pièce carrée de douze mètres de côté offrent une excellente acoustique. Des piliers sans ornements soutiennent le plafond, et de l'eau trouble recouvre la majeure partie du sol. Des marches mènent à des rebords de pierre secs qui longent les murs. Au milieu de la pièce, d'autres marches s'élèvent pour former une estrade octogonale qui dépasse également de l'eau. Des chaînes rouillées avec des entraves pendent du plafond directement au-dessus d'un autel de pierre monté sur l'estrade. L'autel est sculpté de hideuses représentations de goules agrippantes et est taché de sang séché. Un petit paquet blanc repose dessus, entouré de vrilles de chair pulsantes.</p> <p>Les vrilles mènent à une brèche dans le mur du fond qui conduit à une grotte sombre, leurs masses charnues se connectant à une ombre sombre et imposante qui s'y trouve, sa masse gonflée s'élevant et s'abaissant avec un rythme lent et frémissant.</p> <p>Dès que vous mettez le pied dans la chambre, le chant fantomatique que vous avez entendu cesse soudainement.</p> </div>
 
@@ -833,6 +849,13 @@ Une créature engloutie par la première forme de l'amas peut entendre le faible
 > 
 > Par conséquent, à moins que vos joueurs ne se soient avérés hautement tactiques et/ou optimisés, **évitez de jouer ces statblocks de boss de manière tactique** - car si vous le faites, vous risquez fort de provoquer un TPK (Total Party Kill). Au lieu de cela, choisissez simplement les actions, actions bonus, réactions et cibles qui apporteront le plus d'intérêt et d'excitation pour le tour en cours.
 
+> [!combat]- **Équilibrage de l'Amas de Chair**
+> En raison du mécanisme de phase, cette rencontre de combat est une série de deux rencontres de combat **éprouvantes** consécutives contre un groupe de cinq joueurs de niveau 2 et consommera environ 28% de leurs points de vie maximaux totaux par phase (pour un total de 56% de leurs points de vie maximaux). Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+> 
+> - _**Trois Joueurs.**_ Réduisez les points de vie de l'amas à 56 dans chaque phase. Réduisez l'attaque Coup de la première forme à 8 (2d6+1) dégâts, ou 6 (2d4+1) dégâts lorsque la capacité dormeur profond est active. Réduisez les Éclats d'Os à 3 (1d4+1) dégâts. Réduisez Engloutir à 6 (2d4+1) dégâts. Réduisez les PV du Cœur Innocent à 15. Réduisez les dégâts de l'attaque Tentacule à 9 (2d6+2) dégâts, ou 4 (1d4+2) lorsque Dormeur Profond est actif. Réduisez les dégâts de l'attaque Morsure à 7 (2d4+2). Réduisez les dégâts du Jet de Gore à 5 (2d4).
+> - _**Quatre Joueurs.**_ Réduisez les points de vie de l'amas à 75 dans chaque phase. Réduisez l'attaque Coup de la première forme à 11 (2d10+1) dégâts, ou 8 (2d6+1) dégâts lorsque la capacité dormeur profond est active. Réduisez les Éclats d'Os à 4 (1d6+1) dégâts. Changez Engloutir à 8 (2d6+1) dégâts. Réduisez les PV du Cœur Innocent à 20. Réduisez les dégâts de l'attaque Tentacule à 12 (2d10+1) dégâts, ou 5 (1d8+1) lorsque Dormeur Profond est actif. Réduisez les dégâts de l'attaque Morsure à 9 (2d8+1).
+> - _**Six Joueurs.**_ Augmentez les points de vie de l'amas à 112 dans chaque phase. Augmentez l'attaque Coup de la première forme à 16 (2d12+3) dégâts, ou 12 (2d8+3) dégâts lorsque la capacité dormeur profond est active. Augmentez les Éclats d'Os à 6 (1d6+3) dégâts. Augmentez Engloutir à 12 (2d8+3) dégâts. Augmentez les PV du Cœur Innocent à 30. Augmentez les dégâts de l'attaque Tentacule à 17 (4d6+3) dégâts, ou 8 (2d4+3) lorsque Dormeur Profond est actif. Augmentez les dégâts de l'attaque Morsure à 14 (2d10+3). Augmentez les dégâts du Jet de Gore à 9 (2d8).
+
 <div class="statblock">
    <h2>L'Amas de Chair</h2>
    <em>Mort-vivant de taille G, chaotique mauvais</em> 
@@ -862,10 +885,10 @@ Une créature engloutie par la première forme de l'amas peut entendre le faible
       </tbody>
    </table>
    <hr>
-   <strong>Immunités aux conditions</strong> aveuglé, assourdi, épuisement<br> <strong>Sens</strong> vision aveugle 18 m, Perception passive 10<br> <strong>Langues</strong> comprend le commun mais ne peut pas le parler<br> <strong>Facteur de puissance</strong> 4, ou 3 lorsque son trait <strong><em>dormeur profond</em></strong> est actif.<br> 
+   <strong>Immunités aux conditions</strong> aveuglé, assourdi, épuisement, aggripé, à terre<br> <strong>Sens</strong> vision aveugle 18 m, Perception passive 10<br> <strong>Langues</strong> comprend le commun mais ne peut pas le parler<br> <strong>Facteur de puissance</strong> 4, ou 3 lorsque son trait <strong><em>dormeur profond</em></strong> est actif.<br> 
    <hr>
    <p><strong><em>Dormeur profond.</em></strong> Si l'une des formes de l'amas a été inconsciente au cours de la dernière minute, il ne peut pas utiliser son attaque de <strong><em>coup</em></strong> plus d'une fois par tour.</p>
-   <p><strong><em>Corps suintant.</em></strong> L'amas de chair peut se déplacer à travers les espaces occupés par des créatures ennemies. (Il ne peut pas terminer son tour dans un espace occupé et provoque des attaques d'opportunité normalement.)</p>
+   <p><strong><em>Corps suintant.</em></strong> L'amas de chair peut se déplacer à travers les espaces occupés par des créatures ennemies ainsi que des espaces plus petit qu'une créature de taille Large. (Il ne peut pas terminer son tour dans un espace occupé et provoque des attaques d'opportunité normalement.)</p>
    <p><strong><em>Défense instinctive.</em></strong> Lorsque l'amas tombe à 0 point de vie, il expulse chaque créature actuellement englouties par lui. (Ces créatures apparaissent à terre dans un espace vide à moins de 1,5 m de l'amas.) Les statistiques de l'amas sont alors instantanément remplacées par les statistiques de sa deuxième forme. Son ordre d'initiative ne change pas. Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais il conserve toutes les conditions qu'il avait dans sa forme précédente.</p>
    <h3>Actions</h3>
    <p><strong><em>Attaque multiple.</em></strong> L'amas de chair effectue deux attaques. Il peut remplacer l'une de ces attaques par <strong><em>engloutir</em></strong>. Si son trait <strong><em>dormeur profond</em></strong> est actif, il ne peut pas utiliser son attaque de <strong><em>coup</em></strong> plus d'une fois, et il ne peut pas utiliser <strong><em>engloutir</em></strong> le même tour qu'il utilise son <strong><em>coup</em></strong>. 
@@ -877,7 +900,7 @@ Une créature engloutie par la première forme de l'amas peut entendre le faible
    <p><strong><em>Secousse.</em></strong> L'amas de chair frappe le sol, provoquant un tremblement dans la pièce. Chaque créature dans un rayon de 3 mètres de l'amas doit réussir un jet de sauvegarde de Force DD 13 ou tomber à terre.</p>
    <h3>Réactions</h3>
    <p>L'amas de chair peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. S'il devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
-   <p><strong><em>Empoignade.</em></em> En réponse à des dégâts subis d'une attaque de mêlée, l'amas de chair tente d'agripper l'attaquant.</p>
+   <p><strong><em>Empoignade.</em></em> En réponse à des dégâts subis d'une attaque de mêlée, l'amas de chair tente d'agripper l'attaquant en utilisant sa <strong><em>Secousse.</em></strong></p>
    <p><strong><em>Roulade.</em></strong> En réponse à des dégâts subis d'une attaque à distance ou d'un sort, l'amas de chair se déplace de sa vitesse directement vers ou loin de l'attaquant sans provoquer d'attaques d'opportunité.</p>
 </div>
 <br>
@@ -915,13 +938,13 @@ Une créature engloutie par la première forme de l'amas peut entendre le faible
       </tbody>
    </table>
    <hr>
-   <strong>Immunités aux conditions</strong> aveuglé, assourdi, épuisement<br>
+   <strong>Immunités aux conditions</strong> aveuglé, assourdi, épuisement, aggripé, à terre<br>
    <strong>Sens</strong> vision aveugle 18 m, Perception passive 10<br>
    <strong>Langues</strong> comprend le commun mais ne peut pas le parler<br>
    <strong>Facteur de puissance</strong> 4, ou 3 lorsque son trait <em>dormeur profond</em> est actif.<br>
    <hr>
    <p><strong><em>Dormeur profond.</em></strong> Si l'une des formes de l'amas a été inconsciente au cours de la dernière minute, il ne peut pas utiliser son attaque de <strong><em>tentacule</em></strong> plus d'une fois par tour.</p>
-   <p><strong><em>Corps suintant.</em></strong> L'amas de chair peut se déplacer à travers les espaces occupés par des créatures ennemies. (Il ne peut pas terminer son tour dans un espace occupé et provoque des attaques d'opportunité normalement.)</p>
+   <p><strong><em>Corps suintant.</em></strong> L'amas de chair peut se déplacer à travers les espaces occupés par des créatures ennemies ainsi que des espaces plus petit qu'une créature de taille Large. (Il ne peut pas terminer son tour dans un espace occupé et provoque des attaques d'opportunité normalement.)</p>
    <p><strong><em>Cœur innocent.</em></strong> Le centre de l'amas dissimule son "cœur" : une large cage thoracique difforme. À l'intérieur de la cage thoracique flotte le cadavre d'un nourrisson, Walter Durst. Le cadavre de Walter a une CA de 15 et les mêmes caractéristiques que l'amas de chair. Chaque fois que le cadavre de Walter subit des dégâts, l'amas de chair subit deux fois plus de dégâts.</p>
    <p><strong><em>Berceuse maternelle.</em></strong> Si un joueur utilise son action pour fredonner ou jouer la <em>Valse pour Klara</em> et réussit un test de Charisme (Représentation) DD 10, l'amas expose son cœur et ne peut pas utiliser sa réaction <strong><em>repli</em></strong> jusqu'au début du prochain tour du joueur.
    <h3>Actions</h3>
@@ -937,13 +960,6 @@ Une créature engloutie par la première forme de l'amas peut entendre le faible
    <p><strong><em>Représailles.</em></strong> En réponse à des dégâts subis d'une attaque de mêlée, l'amas frappe l'attaquant avec un tentacule. L'attaquant doit réussir un jet de sauvegarde de Dextérité DD 13 ou être repoussé de 3 mètres. Si l'attaquant échoue au jet de sauvegarde de 5 ou plus, il tombe également à terre.</p>
    <p><strong><em>Roulade.</em></strong> En réponse à des dégâts subis d'une attaque à distance ou d'un sort, l'amas se déplace de sa vitesse directement vers ou loin de l'attaquant sans provoquer d'attaques d'opportunité. S'il se déplace vers l'attaquant, il peut immédiatement tenter de le bousculer.</p>
 </div>
-
-> [!combat]- **Équilibrage de l'Amas de Chair**
-> En raison du mécanisme de phase, cette rencontre de combat est une série de deux rencontres de combat **éprouvantes** consécutives contre un groupe de cinq joueurs de niveau 2 et consommera environ 28% de leurs points de vie maximaux totaux par phase (pour un total de 56% de leurs points de vie maximaux). Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
-> 
-> - _**Trois Joueurs.**_ Réduisez les PV de l'amas à 56 dans chaque phase. Réduisez l'attaque Coup de la première forme à 8 (2d6+1) dégâts, ou 6 (2d4+1) dégâts lorsque la capacité dormeur profond est active. Réduisez les Éclats d'Os à 3 (1d4+1) dégâts. Réduisez Engloutir à 6 (2d4+1) dégâts. Réduisez les PV du Cœur Innocent à 15. Réduisez les dégâts de l'attaque Tentacule à 9 (2d6+2) dégâts, ou 4 (1d4+2) lorsque Dormeur Profond est actif. Réduisez les dégâts de l'attaque Morsure à 7 (2d4+2). Réduisez les dégâts du Jet de Gore à 5 (2d4).
-> - _**Quatre Joueurs.**_ Réduisez les PV de l'amas à 75 dans chaque phase. Réduisez l'attaque Coup de la première forme à 11 (2d10+1) dégâts, ou 8 (2d6+1) dégâts lorsque la capacité dormeur profond est active. Réduisez les Éclats d'Os à 4 (1d6+1) dégâts. Changez Engloutir à 8 (2d6+1) dégâts. Réduisez les PV du Cœur Innocent à 20. Réduisez les dégâts de l'attaque Tentacule à 12 (2d10+1) dégâts, ou 5 (1d8+1) lorsque Dormeur Profond est actif. Réduisez les dégâts de l'attaque Morsure à 9 (2d8+1).
-> - _**Six Joueurs.**_ Augmentez les PV de l'amas à 112 dans chaque phase. Augmentez l'attaque Coup de la première forme à 16 (2d12+3) dégâts, ou 12 (2d8+3) dégâts lorsque la capacité dormeur profond est active. Augmentez les Éclats d'Os à 6 (1d6+3) dégâts. Augmentez Engloutir à 12 (2d8+3) dégâts. Augmentez les PV du Cœur Innocent à 30. Augmentez les dégâts de l'attaque Tentacule à 17 (4d6+3) dégâts, ou 8 (2d4+3) lorsque Dormeur Profond est actif. Augmentez les dégâts de l'attaque Morsure à 14 (2d10+3). Augmentez les dégâts du Jet de Gore à 9 (2d8).
 
 ## A2h. Fuite de la Funeste Demeure
 
@@ -968,9 +984,9 @@ Si les joueurs tentent de contourner ou d'attaquer Gustav, un essaim de débris 
 > [!combat]- **Équilibrage du Poltergeist** 
 > Cette rencontre de combat est une rencontre **éprouvante** contre un groupe de cinq joueurs de niveau 2, et consommera environ 28% de leurs points de vie maximaux totaux. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
 > 
-> - _**Trois Joueurs.**_ Réduisez les PV de Gustav à 13. Réduisez son attaque de _**coup puissant**_ à 6 (3d4-1) dégâts de force et l'attaque de son action _**poussée télékinétique**_ à 3 (1d6) dégâts contondants.
-> - _**Quatre Joueurs.**_ Réduisez les PV de Gustav à 18. Réduisez son attaque de coup puissant à 8 (3d4+1) _**dégâts de force**_ et l'attaque de son action _**poussée télékinétique**_ à 4 (1d8) dégâts contondants.
-> - _**Six Joueurs.**_ Augmentez les PV de Gustav à 26. Augmentez son attaque de _**coup puissant**_ à 12 (3d6+2) dégâts de force et l'attaque de son action _**poussée télékinétique**_ à 6 (1d12) dégâts contondants.
+> - _**Trois Joueurs.**_ Réduisez les points de vie de Gustav à 13. Réduisez son attaque de _**coup puissant**_ à 6 (3d4-1) dégâts de force et l'attaque de son action _**poussée télékinétique**_ à 3 (1d6) dégâts contondants.
+> - _**Quatre Joueurs.**_ Réduisez les points de vie de Gustav à 18. Réduisez son attaque de coup puissant à 8 (3d4+1) _**dégâts de force**_ et l'attaque de son action _**poussée télékinétique**_ à 4 (1d8) dégâts contondants.
+> - _**Six Joueurs.**_ Augmentez les points de vie de Gustav à 26. Augmentez son attaque de _**coup puissant**_ à 12 (3d6+2) dégâts de force et l'attaque de son action _**poussée télékinétique**_ à 6 (1d12) dégâts contondants.
 
 Les joueurs peuvent convaincre Gustav de s'écarter avec un test réussi de Charisme (Intimidation) DD 20. Alternativement, si les joueurs font référence à l'histoire de Gustav avec Elisabeth et Klara, ils peuvent le convaincre de s'écarter avec un test de Charisme (Persuasion) DD 10, réussissant automatiquement s'ils lui montrent de l'empathie ou de la gentillesse ou s'ils demandent aux esprits de Rose et Thorn de les aider dans leur plaidoyer.
 
@@ -981,6 +997,11 @@ _**Le Retour du Culte**_ Lorsque les joueurs atteignent pour la première fois l
 <div class="description"> <p>Les chants s'élèvent à nouveau alors que treize apparitions sombres apparaissent autour de vous, obstruant le chemin en avant - ainsi que le chemin de retour. Chacune ressemble à une figure vêtue d'une robe noire tenant une torche, mais le feu de la torche est noir et semble attirer la lumière en lui. Là où vous vous attendriez à voir des visages se trouvent des vides. "Il est l'Ancien !" scandent-ils, encore et encore. "Il est la Terre !"</p> </div>
 
 Les apparitions sont des illusions inoffensives et intangibles qui ne peuvent être endommagées, retournées ou dissipées. À la fin de chaque round, chaque joueur qui reste entre les apparitions doit réussir un jet de sauvegarde de Dextérité DD 10 ou subir 2 (1d4) dégâts contondants dus aux débris qui tombent.
+
+#TODO
+> [!combat]- **Balancing the Escape** This encounter is designed to be a threat for a party of five 2nd-level players. For parties of much smaller sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the damage per round to 1 bludgeoning.
 
 # A3. Hors de la Funeste Demeure
 
