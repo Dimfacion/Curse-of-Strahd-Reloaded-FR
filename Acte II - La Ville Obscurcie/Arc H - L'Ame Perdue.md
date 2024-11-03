@@ -285,306 +285,313 @@ La maison Wachter est telle que décrite dans [[Arc F - Le Souhait de Dame Wacht
 
 Les joueurs qui ont déjà dîné avec Dame Wachter sont accueillis et rapidement admis, tandis que les joueurs qui ne l'ont pas fait doivent prendre rendez-vous pour le lendemain. Les joueurs qui insistent sur le fait qu'ils sont là pour aider Stella, la fille de Dame Wachter, et réussissent un test de Charisme (Persuasion) DD 10 peuvent contourner la nécessité de prendre rendez-vous et sont admis immédiatement.
 
-Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, Lady Wachter’s valet, serves tea to her and the guests a few moments later. 
+En entrant dans le manoir, les joueurs sont conduits dans <span class="citation">N4i. Le Salon (p. 112)</span>, où [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] les accueille peu après. Haliq, le valet de Dame Wachter, sert le thé à cette dernière et aux invités quelques instants plus tard.
 
-Lady Wachter then asks the players what brings them to her manor. If Victor Vallakovich is accompanying the players, her eyes visibly narrow, and her voice is polite, but cold. If Victor is not with the players, her demeanor is far warmer and more comfortable.
+Dame Wachter demande alors aux joueurs ce qui les amène à son manoir. Si Victor Vallakovich accompagne les joueurs, ses yeux se plissent visiblement, et sa voix est polie mais froide. Si Victor n'est pas avec les joueurs, son comportement est beaucoup plus chaleureux et détendu.
 
-If the players reveal Stella’s fate, Lady Wachter’s eyes tighten, and she asks them for a full explanation of how Stella came to inhabit her current state. 
+Si les joueurs révèlent le sort de Stella, les yeux de Dame Wachter se crispent, et elle leur demande une explication complète de la façon dont Stella en est venue à habiter son état actuel.
 
-When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims.
+Quand les joueurs ont terminé leur histoire, Dame Wachter déclare qu'elle pense qu'ils jouent une blague cruelle envers elle et sa famille, et leur demande s'ils ont un moyen de prouver leurs affirmations.
 
-The players can persuade Lady Wachter to deactivate the protective circle around Wachterhaus and allow Stella to manifest there (and so prove the players’ story) with a successful DC 10 Charisma (Persuasion) check. The players succeed on the check automatically if they have previously won Lady Wachter’s favor (such as by killing Izek).
+Les joueurs peuvent persuader Dame Wachter de désactiver le cercle de protection autour de la maison Wachter et permettre à Stella de s'y manifester (et ainsi prouver l'histoire des joueurs) avec un test réussi de Charisme (Persuasion) DD 10. Les joueurs réussissent automatiquement le test s'ils ont précédemment gagné la faveur de Dame Wachter (comme en tuant Izek).
 
-Lady Wachter is shocked by and wary of the players’ knowledge of the protective circle and demands to know how the players learned of it. If asked, she is willing to share the following information about it:
+Dame Wachter est choquée et méfiante de la connaissance des joueurs concernant le cercle de protection et exige de savoir comment les joueurs en ont appris l'existence. Si on le lui demande, elle est disposée à partager les informations suivantes à son sujet :
 
-* When Lady Wachter was a young woman, her parents and brother were killed in a mysterious incident that left their bodies apparently unharmed. Lady Wachter was the sole survivor, having been away from Wachterhaus at the time of the killing.
-* When she returned to Wachterhaus, she determined that a malevolent spirit had been responsible for her family’s death. Though the spirit appeared to have departed by the time Lady Wachter returned, she was wary of the prospect that it might one day return.
-* Using magic that she had learned from her mentor, Lysa, Lady Wachter erected a protective barrier around Wachterhaus that would prevent any creature within the Ethereal Plane from crossing over the boundary of the property.
+- Quand Dame Wachter était une jeune femme, ses parents et son frère ont été tués dans un incident mystérieux qui a laissé leurs corps apparemment indemnes. Dame Wachter était la seule survivante, étant absente de la maison Wachter au moment du meurtre.
+- Quand elle est revenue à la maison Wachter, elle a déterminé qu'un esprit malveillant avait été responsable de la mort de sa famille. Bien que l'esprit semblait être parti au moment où Dame Wachter est revenue, elle craignait la possibilité qu'il puisse un jour revenir.
+- Utilisant la magie qu'elle avait apprise de son mentor, Lysa, Dame Wachter a érigé une barrière protectrice autour de la maison Wachter qui empêcherait toute créature du Plan Éthéré de franchir la limite de la propriété.
 
-Upon agreeing to deactivate the protective circle, Lady Wachter retreats to <span class="citation">N4o. Master Bedroom (p. 113)</span> and retrieves the scale model of Wachterhaus from the high shelf beside the iron chest. She then returns to the parlor and sets the model upon the central table. 
+En acceptant de désactiver le cercle de protection, Dame Wachter se retire dans <span class="citation">N4o. La Chambre Principale (p. 113)</span> et récupère la maquette de la maison Wachter sur l'étagère haute à côté du coffre en fer. Elle retourne ensuite au salon et place la maquette sur la table centrale.
 
-With her eyes closed, Lady Wachter murmurs an incantation, causing a circle of ethereal grey light to briefly manifest around the scale model before vanishing again. She then informs the players that the circle has been lowered and sits back expectantly on the sofa while sipping her tea.
+Les yeux fermés, Dame Wachter murmure une incantation, provoquant l'apparition brève d'un cercle de lumière grise éthérée autour de la maquette avant qu'il ne disparaisse à nouveau. Elle informe alors les joueurs que le cercle a été abaissé et s'assoit en arrière sur le sofa tout en sirotant son thé.
 
-Assuming the players do not otherwise intervene, the scene then unfolds as follows:
+En supposant que les joueurs n'interviennent pas autrement, la scène se déroule ensuite comme suit :
 
-* A few moments later, Stella—unseen, but present in the Ethereal Plane—levitates a peony from a flower vase on a nearby side table and deposits it in Lady Wachter’s lap. 
-* In disbelief, Lady Wachter drops her teacup on the parlor floor, where it shatters. She picks up the peony, her hands trembling with emotion. She notes, with a quavering voice, that peonies have always been Stella’s favorite flower. “If this is some kind of trick—” she warns.
-* Before Lady Wachter can finish her warning, Stella moves the teacup shards across the floor, forming the shape of a crescent. Lady Wachter’s eyes fill with tears, and she calls out Stella’s name, looking around the room almost as if she expects to see her daughter there. (The crescent resembles the crescent-shaped birthmark on the fur of a cat that Stella kept as a child, which was named Luna.)
-* Haliq, Lady Wachter’s valet, opens the door to the room and asks if Lady Wachter was calling for someone. Lady Wachter wipes her eyes, shakes her head, and dismisses him.
+- Quelques instants plus tard, Stella - invisible, mais présente dans le Plan Éthéré - fait léviter une pivoine d'un vase de fleurs sur une table d'appoint proche et la dépose sur les genoux de Dame Wachter.
+- Incrédule, Dame Wachter laisse tomber sa tasse de thé sur le sol du salon, où elle se brise. Elle ramasse la pivoine, ses mains tremblant d'émotion. Elle note, d'une voix chevrotante, que les pivoines ont toujours été les fleurs préférées de Stella. "Si c'est une sorte de tour-" prévient-elle.
+- Avant que Dame Wachter ne puisse finir son avertissement, Stella déplace les morceaux de la tasse de thé sur le sol, formant la forme d'un croissant. Les yeux de Dame Wachter se remplissent de larmes, et elle appelle le nom de Stella, regardant autour de la pièce presque comme si elle s'attendait à la voir là. (Le croissant ressemble à la marque de naissance en forme de croissant sur la fourrure d'un chat que Stella gardait enfant, qui s'appelait Luna.)
+- Haliq, le valet de Dame Wachter, ouvre la porte de la pièce et demande si Dame Wachter appelait quelqu'un. Dame Wachter essuie ses yeux, secoue la tête et le congédie.
 
-After a moment, she wipes her eyes and says, “Let us assume that I believe you. What need have you of me?”
+Après un moment, elle essuie ses yeux et dit, "Admettons que je vous croie. Qu'attendez-vous de moi ?"
 
-If the players successfully persuade Lady Wachter to assist them and ask her for aid in creating a binding circle to entrap the hags within the Material Plane, she reluctantly and cautiously reveals the following information:
+Si les joueurs persuadent avec succès Dame Wachter de les aider et lui demandent son aide pour créer un cercle de protection pour piéger les guenaudes dans le Plan Matériel, elle révèle à contrecœur et avec prudence les informations suivantes :
 
-* She is indeed capable of crafting such things, though she is long out of practice. To create a circle large enough to entrap an entire windmill from a distance would require the aid of several of Lady Wachter’s “associates,” whose aid it may take some time to secure. (Lady Wachter can direct Ernst and Haliq to recruit her associates—four **cult fanatics**—and gather them within as little as four hours if necessary.)
+- Elle est en effet capable de créer de telles choses, bien qu'elle manque de pratique depuis longtemps. Pour créer un cercle assez grand pour piéger un moulin entier à distance, elle aura besoin de l'aide de plusieurs de ses "associés", dont l'assistance pourrait prendre un certain temps à obtenir. (Dame Wachter peut ordonner à Ernst et Haliq de recruter ses associés - quatre **fanatiques de culte** - et de les rassembler en aussi peu que quatre heures si nécessaire.)
+- Il y a deux façons pour qu'un tel cercle fonctionne : il peut soit empêcher les choses d'entrer, soit les empêcher de sortir. Pour empêcher les guenaudes de s'échapper du cercle, les joueurs devront d'abord obtenir les véritables noms de toutes les guenaudes à l'intérieur du moulin, y compris celles qui ne sont pas la cible principale des joueurs. Si même une seule guenaude reste libre de s'échapper, elle pourrait attaquer Dame Wachter et ses associés et faire s'effondrer tout le cercle.
 
-* There are two ways for such a circle to work: it can keep things out, or it can keep things in. To keep the hags from escaping the circle, the players will first need to secure the true names of any hags within the windmill, including those that are not the players’ primary target. Should even a single hag remain free to escape, it could attack Lady Wachter and her associates and bring the entire circle crashing down.
+Si Victor est présent, ou s'il est informé du besoin d'obtenir les vrais noms des guenaudes, il se rappelle la section pertinente d'_Entités Éthérées_ (voir **Matrones de la Malveillance** ci-dessus) et la partage avec les joueurs, soulignant la section qui traite des contrats de sabbat et se demandant à voix haute où le sabbat de Morgantha pourrait avoir caché leur contrat.
 
-If Victor is present, or if he is informed of the need to obtain the hags' true names, he recalls the relevant section from *Ethereal Entities* (see **Matrons of Malevolence** above) and shares it with the players, pointing out the section that discusses coven contracts and wondering aloud where Morgantha's coven might have hidden their contract.
+Si Dame Wachter est informée de la possible présence d'enfants dans le moulin, elle insiste pour que les joueurs les sauvent avant toute attaque. (Heureusement, note-t-elle, les efforts des joueurs pour obtenir les noms des guenaudes peuvent s'avérer une distraction utile permettant à d'autres membres de leur groupe de fouiller les autres pièces du moulin pendant ce temps.)
 
-If Lady Wachter is informed of the possible presence of children within the windmill, she insists that the players rescue them before making any assault. (Fortunately, she notes, the players’ efforts to obtain the hags’ names may prove a useful distraction that allows others within their group to raid the other rooms of the windmill in the meantime.)
+Si les joueurs et Dame Wachter parviennent à un accord, elle promet de les rencontrer - avec ses associés - à la Porte du Matin orientale de Vallaki à l'heure convenue, une fois qu'elle se sera préparée pour le voyage.
 
-If the players and Lady Wachter come to an agreement, she promises to meet them—along with her associates—at Vallaki’s eastern Morning Gate at the allotted time, once she’s prepared herself for the journey.
-# H6. The Old Svalich Road
-## H6a. The Morning Gate
-If the players recruit [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
+# H6. La Vieille Route Svalich
 
-The fanatics are as described in <span class="citation">N4t. Cult Headquarters (p. 114)</span> and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
-## H6b. The Druid
-The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarter miles long and takes two hours.
+## H6a. La Porte du Matin
 
-Midway through the trip, the players are disturbed by a rustling in the trees above. Read:
+Si les joueurs recrutent [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] pour leur cause, elle et ses quatre **fanatiques de culte** les rencontrent ponctuellement à la Porte du Matin à l'heure choisie. Dame Wachter a échangé sa robe pour un pantalon pratique, des bottes de cuir à semelles plates, et une chemise de mailles cachée sous une tunique vert forêt, avec une masse à tête ronde pendant à sa ceinture et une cape de cavalier noire à capuche couvrant l'ensemble. Majesto, son familier **diablotin**, l'accompagne sous forme de **corbeau**.
 
-<div class="description">
-<p>A gaunt figure with wild hair and bare feet crouches on a thick, gnarled branch above your heads, wearing a tattered gown of stitched animal skins. Red streaks run across its cheeks, with two more fang-shaped streaks staining the skin beneath its lips.  It stops, sniffs the air, and laughs like a lunatic. “Little songbirds wandering the dark woods?” it asks, leering down at you.</p>
-</div>
+Les fanatiques sont tels que décrits dans <span class="citation">N4t. Quartier Général du Culte (p. 114)</span> et se nomment Andrej, Boris, Miruna et Ruxandra, respectivement. Aucun des fanatiques n'est particulièrement bavard.
 
-The figure is a **druid** of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
+## H6b. La Druide
 
-If [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] is with the players, the conversation proceeds as follows unless the players intervene:
+Le voyage de la Ville de Vallaki jusqu'au Vieux Moulin à Os fait environ neuf kilomètres et dure deux heures.
 
-* Lady Wachter steps forward and says, “I am no songbird, child of Yester Hill. You know me, and my sign. Do the Forest Folk demand tolls to travel the Svalich Wood?”
-* The druid’s eyes linger on Majesto, and they reply, “No tolls, dear ones. Mere . . . curiosity. You keep strange company, daughter of Mother Night.”
-* Lady Wachter replies curtly, “My company is no concern of yours. Trouble us no more, and tell your master that the House of Wachter remembers its debts.”
-* “Debts indeed!” the druid rasps. “But to whom, this one wonders?” With a mud-stained grin and a cackle, they vanish into the trees and disappear from sight.
+À mi-chemin du voyage, les joueurs sont dérangés par un bruissement dans les arbres au-dessus d'eux. Lisez :
 
-If the players ask about her conversation with the druid, Lady Wachter is willing to provide the following information:
+<div class="description"> <p>Une silhouette décharnée aux cheveux hirsutes et aux pieds nus est accroupie sur une épaisse branche noueuse au-dessus de vos têtes, portant une robe en lambeaux faite de peaux d'animaux cousues. Des stries rouges courent sur ses joues, avec deux autres stries en forme de crocs tachant la peau sous ses lèvres. Elle s'arrête, renifle l'air, et rit comme une démente. "De petits oiseaux chanteurs errant dans les bois sombres ?" demande-t-elle, vous regardant d'en haut avec un sourire narquois.</p> </div>
 
-* The individual was a druid of the Forest Folk, a loose society of hermits that dwell amidst the Svalich Woods and generally shun the civilized settlements. The druids treat Yester Hill, a hill at the southwest edge of the Barovian valley, as a sacred place, and worship Strahd as a deity for his control over the land and weather.
-* Lady Wachter first encountered and learned of the druids while a student of her mentor, Lysa. Lysa, a woodswitch who dwelled in the swamps of Berez, was a worshipper of Mother Night, a deity of darkness, trickery, and the occult. Lady Wachter was never able to hear the “voice” of Mother Night (as Lysa called it), however, and adopted the faith of Ezra soon after returning to Vallaki.
-* Lysa did not take Lady Wachter’s departure lightly. A prideful woman, she considered her students her children, and took Lady Wachter’s decision to return to Vallaki as a personal betrayal. Lady Wachter has been banished from Berez ever since.
-* Lady Wachter’s “debt” to Strahd arises from his effort to save Lady Wachter’s ancestor, Lady Lovina Wachter, from death at the hands of the traitor Leo Dilisnya centuries ago. When a traitor and assassin named Leo Dilisnya murdered Lovina’s husband and attempted to kill Lovina as well, Strahd defended her, then hunted Dilisnya down to punish him for his treachery. House Wachter has remained loyal to Strahd ever since.
-# H7. Old Bonegrinder
-<span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
+La silhouette est une **druide** de la Colline de Yester, et une espionne de Strahd. Elle n'a pas l'intention de faire du mal aux joueurs, mais est désireuse de les provoquer de manière intéressante.
 
-Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
+Si [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] est avec les joueurs, la conversation se déroule comme suit sauf si les joueurs interviennent :
 
-If [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
+- Dame Wachter s'avance et dit : "Je ne suis pas un oiseau chanteur, enfant de la Colline de Yester. Tu me connais, et mon signe. Les Gens de la Forêt exigent-ils des péages pour traverser le Bois Svalich ?"
+- Les yeux de la druide s'attardent sur Majesto, et elle répond : "Pas de péages, mes chers. Simple... curiosité. Vous gardez une étrange compagnie, fille de la Mère Nuit."
+- Dame Wachter répond sèchement : "Ma compagnie ne te concerne pas. Ne nous dérange plus, et dis à ton maître que la Maison Wachter se souvient de ses dettes."
+- "Des dettes en effet !" croasse la druide. "Mais envers qui, celle-ci se le demande ?" Avec un sourire taché de boue et un ricanement, elle disparaît dans les arbres et s'évanouit de vue.
 
-Lady Wachter then attempts to confirm the following details:
+Si les joueurs l'interrogent sur sa conversation avec la druide, Dame Wachter est disposée à fournir les informations suivantes :
 
-* how many hags reside in the windmill, and how the players intend to obtain their names
-* whether there are children within the windmill, and how the players intend to rescue them
-* how the players intend to combat the hags once the binding circle is raised
+- L'individu était une druide des Gens de la Forêt, une société libre d'ermites qui vivent au milieu des Bois Svalich et évitent généralement les établissements civilisés. Les druides traitent la Colline de Yester, une colline à la limite sud-ouest de la vallée barovienne, comme un lieu sacré, et vénèrent Strahd comme une divinité pour son contrôle sur la terre et la météo.
+- Dame Wachter a d'abord rencontré et appris l'existence des druides alors qu'elle était étudiante de son mentor, Lysa. Lysa, une sorcière des bois qui habitait dans les marais de Berez, était une adoratrice de la Mère Nuit, une divinité des ténèbres, de la ruse et de l'occulte. Dame Wachter n'a cependant jamais pu entendre la "voix" de la Mère Nuit (comme l'appelait Lysa), et a adopté la foi d'Ezra peu après son retour à Vallaki.
+- Lysa n'a pas bien pris le départ de Dame Wachter. Une femme orgueilleuse, elle considérait ses étudiants comme ses enfants, et a pris la décision de Dame Wachter de retourner à Vallaki comme une trahison personnelle. Dame Wachter est bannie de Berez depuis.
+- La "dette" de Dame Wachter envers Strahd découle de son effort pour sauver l'ancêtre de Dame Wachter, Dame Lovina Wachter, de la mort aux mains du traître Leo Dilisnya des siècles auparavant. Quand un traître et assassin nommé Leo Dilisnya a assassiné le mari de Lovina et tenté de tuer Lovina aussi, Strahd l'a défendue, puis a traqué Dilisnya pour le punir de sa trahison. La Maison Wachter est restée loyale à Strahd depuis lors.
+# H7. Le Vieux Moulin à Os
 
-Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
+<span class="citation">Cette scène se déroule dans le Chapitre 6 : Zone O.</span>
 
-> [!info]+ **Victor's Spellbook**
-> Victor's spellbook largely contains the spells described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
+Le Vieux Moulin à Os est largement tel que décrit dans <span class="citation">Chapitre 6 : Le Vieux Moulin à Os (p. 125)</span>. Cependant, il n'y a pas de corbeaux au moulin ou à proximité. De plus, Freek s'appelle Fyodor à la place, et lui et Myrtle sont les enfants du réfugié barovien Franz. Enfin, la meule dans <span class="citation">O2. Le Moulin à Os (p. 127)</span> porte une serrure en pierre sur un côté, et contient un compartiment qui renferme le contrat des guenaudes.
 
-However, Victor warns the players that, according to *Ethereal Entities*, hag covens often possess the ability to dispel enchantments while within close proximity to their lair. Once Lady Wachter's binding circle is erected, he'll need to stay close to the windmill to protect it with his *counterspell.* 
+Si [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] est présente alors que les joueurs approchent du moulin, elle rassemble d'abord les joueurs, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]], et les quatre **fanatiques de culte** dans un bosquet sombre à côté de la Vieille Route Svalich pour établir un plan d'attaque.
 
-As such, he'll need to conserve his strength—and, specifically, his 5th- and 4th-level spell slots—until then. (**Under no circumstances does Victor spend his 5th-level spell slot before the end of the battle with the hags.**)
+Dame Wachter tente alors de confirmer les détails suivants :
 
-> [!abstract]+ **Bargaining with the Hags**
->
-> If the players visit Old Bonegrinder without first obtaining Lady Wachter’s help, they can attempt to bargain with the hags in order to obtain a *heartstone.* The players do not need to first disguise themselves as dream pastry addicts to do so—Morgantha is always happy to do business with willing customers.
->
-> To borrow Morgantha's heartstone for a period of three days, the players must promise to undertake a particular task for her. As a form of insurance to ensure their compliance, Morgantha takes their dreams as collateral once the players accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
->
-> Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
->
-> If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
->
-> Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
+- combien de guenaudes résident dans le moulin, et comment les joueurs comptent obtenir leurs noms
+- s'il y a des enfants dans le moulin, et comment les joueurs comptent les secourir
+- comment les joueurs comptent combattre les guenaudes une fois le cercle de protection levé
+
+Dame Wachter est heureuse d'offrir aux joueurs le service de son familier **diablotin** Majesto comme éclaireur. (Majesto peut utiliser ses formes de **corbeau**, **araignée** et **rat** pour surveiller l'extérieur et l'intérieur du moulin tout en restant invisible grâce à sa capacité d'_**invisibilité**_.) Pendant ce temps, Victor propose d'aider les joueurs à récupérer les enfants de Franz du moulin, utilisant ses sorts de _pas brumeux_, _vol_ et _invisibilité supérieure_ selon les besoins pour aider à la mission de sauvetage.
+
+> [!info]+ **Le Grimoire de Victor** 
+> Le grimoire de Victor contient largement les sorts décrits dans <span class="citation">N3t. L'Atelier de Victor (p. 109)</span>, sauf qu'il contient aussi les sorts _message_ et _peur_ et ne contient pas _délivrance des malédictions_. Le jour où il se rend au Vieux Moulin à Os, il a largement préparé les sorts décrits dans le statblock du **mage**, mais a préparé _flétrissement_ à la place de _cône de froid_.
+
+Cependant, Victor prévient les joueurs que, selon _Entités Éthérées_, les sabbats de guenaudes possèdent souvent la capacité de dissiper les enchantements lorsqu'ils sont à proximité de leur repaire. Une fois que le cercle de protection de Dame Wachter sera érigé, il devra rester près du moulin pour le protéger avec son _contresort_.
+
+En tant que tel, il devra conserver sa force - et, plus précisément, ses emplacements de sorts de niveau 5 et 4 - jusque-là. (**En aucun cas Victor ne dépense son emplacement de sort de niveau 5 avant la fin de la bataille avec les guenaudes.**)
+
+> [!abstract]+ **Négocier avec les Guenaudes**
 > 
->![[Soul Leech.png]]
-><span class="credit">"Soul Leech" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+> Si les joueurs visitent le Vieux Moulin à Os sans avoir d'abord obtenu l'aide de Dame Wachter, ils peuvent tenter de négocier avec les guenaudes pour obtenir un _cœur-de-pierre_. Les joueurs n'ont pas besoin de se déguiser d'abord en dépendants des tartes aux rêves pour le faire - Morgantha est toujours heureuse de faire affaire avec des clients volontaires.
+> 
+> Pour emprunter le cœur-de-pierre de Morgantha pour une période de trois jours, les joueurs doivent promettre d'accomplir une tâche particulière pour elle. Comme forme d'assurance pour garantir leur conformité, Morgantha prend leurs rêves en garantie une fois que les joueurs acceptent son offre, les embouteillant dans une fiole en verre qu'elle porte sur un cordon autour de son cou.
+> 
+> Morgantha prévient les joueurs que, s'ils ne parviennent pas à accomplir sa tâche dans les quatorze jours, ne rendent pas le cœur-de-pierre dans les trois jours, ou la trahissent, elle dévorera immédiatement leurs rêves, les empêchant de gagner les bénéfices d'un repos long pour toujours. (Morgantha peut dévorer les rêves des joueurs comme une action tant que la fiole est en sa possession.)
+> 
+> Si les joueurs accomplissent la tâche de Morgantha dans le temps imparti, cependant, elle libérera leurs rêves et leur permettra de retourner à leurs propriétaires. Dans les deux cas, les joueurs peuvent prendre des repos longs normalement jusqu'à ce que les quatorze jours se soient écoulés.
 >
->The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
->
-> Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+> La tâche de Morgantha est simple. Les joueurs doivent livrer une **sangsue d'âme** - un **fiélon** Très Petit ressemblant à une sangsue avec une chair translucide blanc fantôme et des veines bleu-violet, et que Morgantha a emprisonnée dans une fiole bouchée - au bureau du chambellan de Strahd, Rahadin. En arrivant dans le bureau de Rahadin, les joueurs doivent déboucher la fiole et permettre à la sangsue de s'attacher sous son bureau, où elle se rendra invisible et pratiquement indétectable.
+> 
+> ![[Soul Leech.png]] <span class="credit">"Sangsue d'âme" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+> 
+> Les joueurs peuvent convaincre Morgantha de révéler ses plans pour la sangsue avec un test réussi de Charisme (Persuasion) DD 10 : Quand Rahadin reviendra, la sangsue s'attachera secrètement à sa chair, assurant que - quand Rahadin finira par mourir - son âme maléfique sera piégée et emprisonnée dans le _sac d'âmes_ de Morgantha, où elle sera transformée en une **larve d'âme** que Morgantha pourra utiliser à des fins néfastes.
+> 
+> Morgantha peut dire aux joueurs que le bureau de Rahadin est situé dans la cave du Château Ravenloft, non loin des cuisines. Cependant, Morgantha ne partagera pas d'où elle a obtenu son information. (Sa source est, bien sûr, le **monstrueux** Cyrus Belview, le porteur inconscient de l'_œil de guenaude_ du sabbat.)
 
-> [!info]+ **The Megaliths**
->
-> The megaliths beyond Old Bonegrinder demarcate the boundaries of the Mountain Fane: the shrine to the Seeker of the Ladies Three. Once atop the windmill's hill, the players can see the megaliths in the valley below. Read:
->
-><hr>
->
-> A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.
+> [!info]+ **Les Mégalithes**
+> 
+> Les mégalithes au-delà du Vieux Moulin à Os délimitent les frontières du Cercle de la Montagne : le sanctuaire du Chercheur des Trois Dames. Une fois au sommet de la colline du moulin, les joueurs peuvent voir les mégalithes dans la vallée en contrebas. Lisez :
 > 
 > <hr>
+> 
+> Un cercle de hauts mégalithes élancés se dresse enveloppé d'épais nuages de brouillard à la lisière de la forêt en contrebas, seuls leurs sommets dentelés étant visibles alors qu'ils percent la brume.
+> 
+> <hr>
+> 
+> La zone à l'intérieur du nuage de brouillard est fortement obscurcie. Si les joueurs enquêtent, ils trouvent qu'une pierre d'onyx noir lisse d'un diamètre d'un mètre et demi est à moitié enterrée au centre du cercle. La pierre n'a aucune marque ou symbole visible sur sa surface, et est imperméable à tous les dégâts et tentatives de la déplacer.
+> 
+> Une minute après que les joueurs entrent dans le nuage de brouillard, leur présence attire l'attention de quatre **brumes vampiriques** (<span class="citation">Monstres de Multivers de Mordenkainen, p. 250</span>). Les brumes tourbillonnent paresseusement autour des joueurs pendant trois rounds, après quoi une brume tente d'utiliser une seule attaque de _**drainage de vie**_ sur le joueur le plus proche, comme un requin mordillant sa proie par curiosité. Si les joueurs restent dans le brouillard, toutes les brumes vampiriques attaquent au round suivant.
+## H7a. L'Assaut du Moulin
+
+Les joueurs peuvent obtenir les vrais noms des guenaudes en récupérant le contrat du compartiment verrouillé en pierre dans la meule dans <span class="citation">O2. Le Moulin à Os (p. 127)</span>.
+
+L'un des bras de la meule dans le moulin à os est plus tordu que les autres, et est visiblement segmenté à l'extrémité. En tournant l'extrémité du bras tordu, celui-ci se détache, révélant une clé en fer cachée à l'intérieur. Les joueurs peuvent déverrouiller le compartiment de la meule en utilisant la clé en fer, ou en réussissant un test de Dextérité (Outils de voleur) DD 15. Le compartiment contient le contrat des guenaudes, ainsi que le trésor décrit dans <span class="citation">O3. Chambre (p. 127)</span>.
+
+Le contrat des guenaudes est écrit en Abyssal sur un morceau de cuir fait de peau humaine, et est signé de leurs vrais noms au bas : Morgantha Stormreaver, Belladonna Sunbane, et Offalia Wormwiggle. (Si aucun des joueurs ne peut lire l'Abyssal, Dame Wachter est capable de lire les noms des guenaudes à la place, ayant appris l'alphabet de cette langue en tant qu'étudiante de Baba Lysaga.)
+
+Le compartiment en pierre contient également un _charme d'héroïsme de masse_, ressemblant à un médaillon doré orné de trois anneaux entrelacés gravés en son centre. Le charme permet au porteur de donner à n'importe quel nombre de créatures dans un rayon de 9 mètres le bénéfice d'une _potion d'héroïsme_ en tant qu'action. Une fois cela fait, le charme disparaît de leur personne.
+
+Fyodor et Myrtle sont emprisonnés au troisième étage du moulin et gardés par les **guenaudes nocturnes** Belladonna "Bella" Sunbane et Offalia Wormwiggle, comme décrit dans <span class="citation">O3. Chambre (p. 127)</span>. Cependant, Fyodor et Myrtle n'ont aucune connaissance particulière d'Ireena ou Ismark, et souhaitent seulement être rendus à leur père, Franz.
+
+### Distraire Morgantha
+
+<span class="citation">Cette scène se déroule dans le Chapitre 5 : Zone O1.</span>
+
+Si un ou plusieurs joueurs frappent à la porte de <span class="citation">O1. Rez-de-chaussée (p. 126)</span>, Morgantha descend de <span class="citation">O2. Le Moulin à Os (p. 127)</span> et ouvre la porte pour les accueillir. Elle est heureuse d'inviter les joueurs à l'intérieur, et demande s'ils sont venus acheter ses marchandises.
+
+>[!info]+ **Le Sabbat des Guenaudes**
 >
-> The area within the cloud of fog is heavily obscured. If the players investigate, they find that a five-foot-diameter stone of smooth, black onyx is half-buried at the center of the circle. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
+>Tant que Morgantha et ses deux filles sont à moins de 300 mètres l'une de l'autre, elles partagent les statistiques du **Sabbat du Vieux Moulin** et des **Trois Cauchemars**, plutôt que d'utiliser leurs statistiques individuelles de **guenaude nocturne**.
 >
-> One minute after the players enter the cloud of fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
-## H7a. Raiding the Windmill
-The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
-
-One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
-
-The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
-
-The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. The charm allows the wielder to give any number of creatures within 30 feet the benefit of a *potion of heroism* as an action. Once they do so, the charm vanishes from their person.
-
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
-### Distracting Morgantha
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
-
-If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
-
-> [!info]+ **The Hag Coven**
+>Tant que le sabbat existe, les dégâts infligés à chaque guenaude individuelle sont plutôt soustraits des points de vie du sabbat, causant des blessures ou des lésions similaires apparaissant visiblement sur les corps des trois guenaudes. (Si des dégâts sont infligés à plusieurs guenaudes à la fois, les dégâts sont soustraits des points de vie du sabbat autant de fois.)
 >
-> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **The Bonegrinder Coven** and **The Nightmare Three**, rather than using their individual **night hag** statblocks.
->
-> While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
->
-> The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions.
+>Les guenaudes ne gagnent pas accès au trait **_Incantation Partagée_** normalement disponible pour les sabbats de guenaudes. Cependant, chaque guenaude au sein du sabbat conserve l'utilisation de ses traits **_Incantation Innée_** et **_Objets de Guenaude Nocturne_**, ainsi que ses actions **_Griffes_**, **_Changement de Forme_**, **_Éthéréalité_** et **_Tourment Cauchemardesque_**.
 
-The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
+Les joueurs peuvent convaincre Morgantha qu'ils viennent acheter des tartes aux rêves supplémentaires avec un test réussi de Charisme (Tromperie) DD 10.
 
-Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 16 Charisma (Deception) check.
+Alternativement, si les joueurs utilisent une autre histoire de couverture convaincante, ils peuvent persuader Morgantha qu'ils sont inoffensifs avec un test réussi de Charisme (Tromperie) DD 16.
 
-If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
+Si les joueurs convainquent avec succès Morgantha qu'ils sont dépendants aux tartes aux rêves ou sont autrement inoffensifs, Morgantha les informe que sa fournée actuelle de tartes aux rêves est encore en train de cuire et les invite à rester jusqu'à ce qu'elles soient prêtes. En attendant, elle est heureuse de faire la conversation.
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+Les joueurs peuvent aussi persuader Morgantha d'inviter ses filles à descendre dans la cuisine (afin de les attirer loin des enfants à l'étage) avec un test réussi de Charisme (Persuasion ou Tromperie) DD 16. S'ils réussissent, Bella et Offalia se présentent avec une paire de révérences maladroites.
 
-On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
+En cas d'échec, une Morgantha méfiante prétend que ses filles sont, malheureusement, trop occupées pour parler aux visiteurs, mais qu'elle serait heureuse de leur transmettre tous compliments ou autres commentaires si les joueurs le souhaitent. Elle demande ensuite aux joueurs ce qu'ils ont pensé de ses tartes aux rêves et quels rêves ils ont expérimentés en les mangeant.
 
-A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 16 Charisma (Deception) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
+Un joueur peut apaiser la paranoïa de Morgantha en partageant l'histoire d'un beau rêve qu'il aurait expérimenté après avoir mangé une tarte aux rêves et en réussissant un test de Charisme (Tromperie) DD 16, qui réussit automatiquement si le joueur dit la vérité. En cas d'échec, Morgantha devient suspicieuse. (Voir **Morgantha Devient Suspicieuse** ci-dessous.)
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
-### Morgantha Gets Suspicious
-<span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
+Contrairement à leur mère, Bella et Offalia sont facilement distraites. Elles peuvent être attirées vers <span class="citation">O2. Le Moulin à Os (p. 127)</span> ou <span class="citation">O4. Le Grenier en Dôme (p. 127)</span> avec un test réussi de Charisme (Représentation) DD 13 et n'importe quel moyen raisonnablement pertinent (par exemple, un sort de _illusion mineure_).
 
-If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. 
+### Morgantha Devient Suspicieuse
 
-After a brief period of time (during which she reveals nothing of note to the players), she briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
+<span class="citation">Cette scène se déroule dans le Chapitre 5 : Zone O1.</span>
 
-While Bella and Offalia descend from <span class="citation">O3. Bedroom (p. 127)</span>, Morgantha smiles pleasantly at the players and informs them that her daughters are her most valued taste-testers and she is always grateful for their opinions. (“Folks warn you about old age, but it’s true,” she says pleasantly. “It can be so difficult to run a business like this on your own.”)
+Si les joueurs ne parviennent pas à convaincre Morgantha d'une histoire de couverture rassurante, elle devient immédiatement suspicieuse de leurs motifs et de leur présence.
 
-When Bella and Offalia arrive, they greet the players with awkward, overdramatic curtsies. Bella then frowns and exclaims, “Mother! I thought you said you were going to get the front door fixed!” 
+Après une brève période (durant laquelle elle ne révèle rien de notable aux joueurs), elle s'excuse brièvement pour retirer un plateau de tartes aux rêves du four, puis appelle à l'étage : "Les filles, il est temps de goûter la nouvelle fournée !" (Les tartes aux rêves sont manifestement presque crues. Les paroles de Morgantha sont un signal informant les deux autres **guenaudes nocturnes** que des invités indésirables sont arrivés au moulin et doivent être traités.)
 
-Assuming the players do not interfere, Bella sweeps across the room toward the front entrance to the windmill. She then pretends to inspect the hinges, obstructing the players’ exit, and complains, “Its squeaking is driving me mad!” 
+Pendant que Bella et Offalia descendent de <span class="citation">O3. Chambre (p. 127)</span>, Morgantha sourit agréablement aux joueurs et les informe que ses filles sont ses goûteuses les plus précieuses et qu'elle apprécie toujours leurs opinions. ("Les gens vous préviennent de la vieillesse, mais c'est vrai," dit-elle plaisamment. "Il peut être si difficile de gérer une entreprise comme celle-ci toute seule.")
 
-Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Bella, and Offalia then immediately move to attack. 
+Quand Bella et Offalia arrivent, elles saluent les joueurs avec des révérences maladroites et exagérées. Bella fronce alors les sourcils et s'exclame : "Mère ! Je croyais que tu avais dit que tu allais faire réparer la porte d'entrée !"
 
-If the players are defeated, Morgantha also feeds the two strongest players the concoctions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
+En supposant que les joueurs n'interviennent pas, Bella traverse la pièce vers l'entrée principale du moulin. Elle fait alors semblant d'inspecter les gonds, bloquant la sortie des joueurs, et se plaint : "Son grincement me rend folle !"
 
-The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See **Escape From Old Bonegrinder** below for more information regarding the players’ escape.
-## H7b. Claiming the Heartstone
-### The Binding Circle
-If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
+Morgantha répond : "Ne t'inquiète pas, mon enfant - je vais m'assurer que ces petits grincements prennent fin." Morgantha, Bella et Offalia passent alors immédiatement à l'attaque.
 
-[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] warns the players that the hags are likely to be dangerous enemies and advises them to activate the charm immediately before hostilities erupt.
+Si les joueurs sont vaincus, Morgantha fait également ingérer aux deux joueurs les plus forts les concoctions de <span class="citation">O1. Rez-de-chaussée (p. 126)</span> marquées "Rire" et "Lait Maternel", infectant l'un d'eux de la fièvre du rire et empoisonnant l'autre avec la _teinture pâle_.
 
-Lady Wachter then warns the players that, once raised, the binding circle will last for only ten minutes. She further informs them that, should she or any of the four **cult fanatics** be knocked unconscious, the ritual will immediately fail and the hags will be free to escape. (Due to the height of the hill, it is unlikely that the night hags will be able to attack the cultists during the battle.)
+Les joueurs se réveillent alors 1d4 + 1 heures plus tard dans le grenier du Vieux Moulin à Os. Voir **Évasion du Vieux Moulin à Os** ci-dessous pour plus d'informations concernant l'évasion des joueurs.
 
-When the players direct her to do so, Lady Wachter begins the ritual. Read:
+## H7b. Réclamer le Cœur-de-Pierre
 
-<div class="description">
-<p>Lady Wachter raises her hands toward the darkened sky. Her voice, firm and resonant, booms through the stillness of the air as words of power roll off her tongue.</p>
-<p>Lady Wachter’s four followers soon join the chant, raising their arms as their voices swell in harmony with hers. The air around the hill begins to crackle and hum, the atmosphere tinged with the scent of ozone.</p>
-<p>Small clouds of mist begin to rise from the ground beneath the ritualists, extruding long tendrils of wisping fog that bathe the earth in pale, ethereal light.</p>
-<p>As the chant continues, the billowing clouds of mist grow brighter, casting long, dancing shadows across the sides of the hill. The fog seems to undulate in rhythm with their words, the very air seeming to thrum with arcane resonance. From deep within the seas of roiling grey, you think you can almost hear a woman’s distant, murmuring voice, joined by the echo of a thousand whispers.</p>
-<p>The tendrils of fog interlock—and snap together, forming a circle: a tight ring of shimmering, swirling mist. Lady Wachter’s hands curl into fists, and she pulls both arms across her chest. In a low, melodic voice, she recites a trio of names again and again: “<em>Morgantha Stormreaver. Belladonna Sunbane. Offalia Wormwiggle.</em>” Her gaze meets yours, and she gives a single, near-imperceptible nod.</p>
-</div>
+### Le Cercle de Protection
 
-The circle, which extends five hundred feet vertically into the air, remains for the next ten minutes. During this time, any night hags named by Lady Wachter who remain within the circle cannot use their ***etherealness*** ability to enter the Ethereal Plane.
-### Confronting the Hags
-<span class="citation"><em>This scene takes place in Chapter 5: Area O.</em></span>
+Si les joueurs obtiennent avec succès les noms des filles de Morgantha et sauvent les enfants emprisonnés dans le moulin, [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] dirige ses quatre **fanatiques de culte** pour former une formation en étoile à cinq branches autour de la base de la colline où se trouve le Vieux Moulin à Os.
 
-As the players ascend the hill, Lady Wachter’s crow familiar, Majesto, gives a haughty, defiant caw and joins them from the skies, assuming its true **imp** form before becoming invisible. 
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] prévient les joueurs que les guenaudes sont probablement des ennemies dangereuses et leur conseille d'activer le charme juste avant que les hostilités n'éclatent.
 
-Meanwhile, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] casts the *mage armor* spell on any players who request it. He also uses a single fourth-level spell slot to cast *greater invisibility* on himself. 
+Dame Wachter prévient alors les joueurs que, une fois levé, le cercle de protection ne durera que dix minutes. Elle les informe en outre que, si elle ou l'un des quatre **fanatiques de culte** est mis inconscient, le rituel échouera immédiatement et les guenaudes seront libres de s'échapper. (En raison de la hauteur de la colline, il est peu probable que les guenaudes nocturnes puissent attaquer les cultistes pendant la bataille.)
 
-Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
+Quand les joueurs lui donnent le signal, Dame Wachter commence le rituel. Lisez :
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
+<div class="description"> <p>Dame Wachter lève les mains vers le ciel assombri. Sa voix, ferme et résonnante, résonne dans le calme de l'air tandis que des paroles de pouvoir roulent sur sa langue.</p> <p>Les quatre disciples de Dame Wachter rejoignent bientôt le chant, levant leurs bras alors que leurs voix s'élèvent en harmonie avec la sienne. L'air autour de la colline commence à crépiter et à bourdonner, l'atmosphère teintée d'une odeur d'ozone.</p> <p>De petits nuages de brume commencent à s'élever du sol sous les ritualistes, déployant de longs filaments de brouillard vaporeux qui baignent la terre d'une pâle lumière éthérée.</p> <p>Alors que le chant continue, les nuages de brume tourbillonnants deviennent plus brillants, projetant de longues ombres dansantes sur les flancs de la colline. Le brouillard semble onduler au rythme de leurs paroles, l'air lui-même semblant vibrer de résonance arcanique. Du plus profond des mers de gris tourbillonnant, vous croyez presque entendre une voix de femme distante murmurant, rejointe par l'écho d'un millier de chuchotements.</p> <p>Les filaments de brouillard s'entrelacent - et s'assemblent d'un coup, formant un cercle : un anneau serré de brume tourbillonnante et scintillante. Les mains de Dame Wachter se serrent en poings, et elle ramène ses deux bras contre sa poitrine. D'une voix basse et mélodieuse, elle récite un trio de noms encore et encore : "<em>Morgantha Stormreaver. Belladonna Sunbane. Offalia Wormwiggle.</em>" Son regard croise le vôtre, et elle fait un seul hochement de tête presque imperceptible.</p> </div>
 
-If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
+Le cercle, qui s'étend à cent cinquante mètres verticalement dans les airs, reste en place pendant les dix prochaines minutes. Durant ce temps, toute guenaude nommée par Dame Wachter qui reste à l'intérieur du cercle ne peut pas utiliser sa capacité d'_**éthéréalité**_ pour entrer dans le Plan Éthéré.
 
-Morgantha greets the players warmly and congratulates them on taking their "ransom." She then asks, pleasantly, what items or boons they've come to bargain for.
+### Confronter les Guenaudes
 
-If informed that the players want to borrow a heartstone, Morgantha is glad to allow them to do so for a period of three days—if the players return the "livestock" that they "stole." (Unless the players were detected doing so, Morgantha hasn't yet realized that the players stole the contract.)
+<span class="citation">Cette scène se déroule dans le Chapitre 5 : Zone O.</span>
 
-If the players challenge Morgantha's predation of Franz and the children, she scoffs, noting, "Child, their souls were forfeit from the moment that they were born into these Mists—a soul bag larger than any one I could craft, and holding a far deeper evil. What difference does it make who claims them, or when?" 
+Alors que les joueurs gravissent la colline, le familier corbeau de Dame Wachter, Majesto, lance un croassement provocateur et défiant avant de les rejoindre depuis les cieux, prenant sa véritable forme de **diablotin** avant de devenir invisible.
 
-Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in **Morgantha's Plea** below.)
+Pendant ce temps, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] lance le sort _armure du mage_ sur tous les joueurs qui le demandent. Il utilise également un emplacement de sort de niveau quatre pour lancer _invisibilité supérieure_ sur lui-même.
 
-![[The Bonegrinder Coven.png]]
-<span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Victor rappelle aux joueurs que, selon _Entités Éthérées_, il devra rester proche du moulin - à moins de dix-huit mètres - afin d'utiliser son _contresort_ pour protéger le cercle de la capacité du sabbat à le dissiper. Il demande aux joueurs de le protéger en conséquence.
 
-### Battle with the Hags
-The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
+Alors que les joueurs approchent du moulin, si les guenaudes ont remarqué la disparition des enfants, le sommet de la colline autour du moulin est maintenant parsemé de la centaine de **crapauds** autrefois stockés dans le coffre en bois de Morgantha dans <span class="citation">O1. Rez-de-chaussée (p. 126)</span>. (Morgantha les a libérés afin d'utiliser l'action de repaire _**Cacophonie Amphibienne**_ du sabbat pour attirer les enfants vers le moulin.)
 
-> [!info]+ **Lair Actions**
->
-> While the coven is within 100 feet of the windmill, it can take lair actions as long as it isn't incapacitated.
->
-> In both phases, on initiative count 20 (losing initiative ties), the coven can take one of the following lair action options centered on or originating from the windmill, or forgo using any of them in that round:
->
-> - **_Warding Wind._** The coven casts _warding wind._
-> - **_Gust of Wind._** The coven casts _gust of wind._
-> - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement on its next turn to move as far as it can toward the mill.
-> - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
+Si les joueurs ne sont pas invisibles, Morgantha mène ses filles hors du moulin pour les rencontrer alors qu'ils approchent, s'arrangeant avec ses filles directement devant la porte du moulin et saluant les joueurs une fois qu'ils s'approchent à moins de neuf mètres. La conversation suivante se déroule alors, sauf si elle est détournée, bien que les guenaudes se défendent si nécessaire.
+
+Morgantha salue chaleureusement les joueurs et les félicite d'avoir pris leur "rançon." Elle demande ensuite, plaisamment, quels objets ou faveurs ils sont venus négocier.
+
+Si on l'informe que les joueurs veulent emprunter un cœur-de-pierre, Morgantha est heureuse de les autoriser à le faire pour une période de trois jours - si les joueurs rendent le "bétail" qu'ils ont "volé." (À moins que les joueurs n'aient été détectés en le faisant, Morgantha n'a pas encore réalisé que les joueurs ont volé le contrat.)
+
+Si les joueurs contestent la prédation de Franz et des enfants par Morgantha, elle ricane, notant : "Mon enfant, leurs âmes étaient perdues dès l'instant où ils sont nés dans ces Brumes - un sac d'âmes plus grand que tout ce que je pourrais fabriquer, et contenant un mal bien plus profond. Quelle différence cela fait-il qui les réclame, ou quand ?"
+
+Morgantha refuse d'expliquer davantage sa déclaration, notant seulement que des "pouvoirs plus sombres" que Strahd von Zarovich commandent les Brumes qui encerclent la vallée - et qu'elle pourrait être disposée à partager plus d'informations si les joueurs rendent les enfants. (Si les joueurs le font alors, Morgantha partage les trois secrets notés dans **La Supplique de Morgantha** ci-dessous.)
+
+![[The Bonegrinder Coven.png]] <span class="credit">"Le Sabbat du Vieux Moulin" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+### Combat avec les Guenaudes
+
+Les guenaudes combattent pour se défendre, ou si les joueurs rendent clair qu'ils ne rendront pas autrement les enfants ou le contrat du sabbat. Les combattants se battent comme suit :
+
+> [!info]+ **Actions de Repaire**
+> 
+> Tant que le sabbat se trouve à moins de 30 mètres du moulin, il peut effectuer des actions de repaire tant qu'il n'est pas neutralisé.
+> 
+> Dans les deux phases, à l'initiative 20 (perdant les égalités), le sabbat peut choisir l'une des options d'action de repaire suivantes centrées sur ou provenant du moulin, ou renoncer à en utiliser une pour ce round :
+> 
+> - **_Vent Protecteur._** Le sabbat lance _vent protecteur_.
+> - **_Bourrasque._** Le sabbat lance _bourrasque_.
+> - **_Cacophonie Amphibienne._** Le sabbat fait coasser les grenouilles dans l'herbe autour du moulin d'une chanson étrangement hypnotique. Chaque créature dans un rayon de 36 mètres du moulin qui peut entendre les grenouilles doit réussir un jet de sauvegarde de Charisme DD 10 ou utiliser tout son mouvement lors de son prochain tour pour se déplacer aussi loin que possible vers le moulin.
+> - **_Dissipation de la Magie (1/jour)._** Le sabbat lance _dissipation de la magie_ au niveau 5.
+
 
 <div class="statblock">
-<h2>The Bonegrinder Coven</h2>
-<em>Trio of three medium fiends, neutral evil</em>
-<hr>
-<strong>Armor Class</strong> 17 (natural armor)
-<br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
-<br>
-<strong>Speed</strong> 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>18 (+4)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>14 (+2)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Skills</strong> Deception +7, Insight +6, Perception +6, Stealth +6<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +4<br>
-<hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks).
-<p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
-<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
-<p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
-<p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Withering Rot (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
-<p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Cause Fear (Offalia Only).</em></strong> Offalia casts <em>cause fear</em> at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
-<h3>Reactions</h3>
-<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
-<p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
+   <h2>Le Sabbat du Vieux Moulin</h2>
+   <em>Trio de trois fiélons de taille M, neutre mauvais</em>
+   <hr>
+   <strong>Classe d'armure</strong> 17 (armure naturelle)
+   <br>
+   <strong>Points de vie</strong> 210 (28d8 + 84)
+   <br>
+   <strong>Vitesse</strong> 9 m
+   <hr>
+   <table class="ability-table">
+      <thead>
+         <tr>
+            <th>FOR</th>
+            <th>DEX</th>
+            <th>CON</th>
+            <th>INT</th>
+            <th>SAG</th>
+            <th>CHA</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>18 (+4)</td>
+            <td>15 (+2)</td>
+            <td>16 (+3)</td>
+            <td>18 (+4)</td>
+            <td>14 (+2)</td>
+            <td>16 (+3)</td>
+         </tr>
+      </tbody>
+   </table>
+   <hr>
+   <strong>Compétences</strong> Tromperie +7, Perspicacité +6, Perception +6, Discrétion +6<br>
+   <strong>Résistances aux dégâts</strong> froid, feu ; contondants, perforants et tranchants d'attaques non magiques qui ne sont pas en argent<br>
+   <strong>Immunités aux conditions</strong> charmé<br>
+   <strong>Sens</strong> vision dans le noir 36 m, Perception passive 16<br>
+   <strong>Langues</strong> abyssal, commun, infernal, primordial<br>
+   <strong>Facteur de puissance</strong> FP 14, ou 12 si combattu avec des armes en argent<br>
+   <strong>Bonus de maîtrise</strong> +4<br>
+   <hr>
+   <p><strong><em>Sabbat de Guenaudes.</em></strong> Le sabbat inclut trois guenaudes : Morgantha, Bella et Offalia. Une guenaude agit à sa propre initiative, maintient la concentration et subit des conditions indépendamment, et a sa propre action, action bonus, réaction et mouvement. Tout dégât qu'une guenaude subit est soustrait des points de vie du sabbat. (Si plusieurs guenaudes subissent des dégâts de la même source, le sabbat perd des points de vie autant de fois.)</p>
+   <p><strong><em>Résistance à la Magie.</em></strong> Le sabbat a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>
+   <p><strong><em>Incantation.</em></strong> La capacité d'incantation du sabbat est l'Intelligence (DD du jet de sauvegarde 16, +8 pour toucher avec les attaques de sort).</p>
+   <p><strong><em>Incantation Complexe.</em></strong> Si une guenaude lance un sort lors de son tour en utilisant une action bonus, elle peut également utiliser son action pour lancer un sort non-tour.</p>
+   <p><strong><em>Seconde Phase.</em></strong> Si le sabbat est réduit à 0 point de vie, ses statistiques sont instantanément remplacées par celles des **Trois Cauchemars**. Son initiative reste la même. Les dégâts excédentaires ne se reportent pas sur sa nouvelle forme, mais il conserve toutes les conditions qu'il avait dans sa forme précédente.</p>
+   <h3>Actions</h3>
+   <p><strong><em>Cécité/Surdité (Bella Uniquement).</em></strong> Bella lance <em>cécité/surdité</em>. Une cible subit 7 (2d6) dégâts nécrotiques supplémentaires en cas d'échec au jet de sauvegarde, ou la moitié des dégâts en cas de réussite.</p>
+   <p><strong><em>Radiance Putride (Bella Uniquement).</em></strong> <em>Nécromancie de niveau 2</em>, 9 m, composantes V S M, instantanée. <em>Effet :</em> Une lumière verdâtre faible jaillit dans une sphère de 3 mètres de rayon centrée sur un point choisi par Bella à portée. Chaque créature dans cette zone doit réussir un jet de sauvegarde de Constitution ou subir 2d6 dégâts radiants et être empoisonnée jusqu'à la fin de son prochain tour.</p>
+   <p><strong><em>Rayon d'Affaiblissement (Offalia Uniquement).</em></strong> Offalia lance <em>rayon d'affaiblissement</em>. Une cible subit 9 (2d8) dégâts nécrotiques supplémentaires en cas de toucher.</p>
+   <p><strong><em>Flèche d'Acide (Offalia Uniquement).</em></strong> Offalia lance <em>flèche d'acide de Melf</em>.</p>
+   <p><strong><em>Rayon de Maladie (Morgantha Uniquement).</em></strong> Morgantha lance <em>rayon de maladie</em>.</p>
+   <p><strong><em>Pourriture Dépérissante (Morgantha Uniquement).</em></strong> <em>Nécromancie de niveau 1</em>, 9 m, composantes V S M, instantanée. <em>Effet :</em> Une énergie nécrotique submerge une créature choisie par Morgantha à portée, qui doit faire un jet de sauvegarde de Constitution. La cible subit 13 (3d8) dégâts nécrotiques en cas d'échec, ou la moitié des dégâts en cas de réussite.</p>
+   <h3>Actions bonus</h3>
+   <p><strong><em>Couronne de Folie (Bella Uniquement).</em></strong> Bella lance <em>couronne de folie</em>. Une cible subit 5 (2d4) dégâts psychiques supplémentaires en cas d'échec au jet de sauvegarde, ou la moitié des dégâts en cas de réussite. (Bella peut utiliser son action bonus pour maintenir le contrôle sur la cible, plutôt que son action.)</p>
+   <p><strong><em>Force Fantasmagorique (Bella Uniquement).</em></strong> Bella lance <em>force fantasmagorique</em>. Une cible subit 5 (2d4) dégâts psychiques supplémentaires en cas d'échec au jet de sauvegarde, ou la moitié des dégâts en cas de réussite.</p>
+   <p><strong><em>Terreur (Offalia Uniquement).</em></strong> Offalia lance <em>terreur</em> au niveau 2. Une cible subit 5 (2d4) dégâts psychiques supplémentaires en cas d'échec au jet de sauvegarde, ou la moitié des dégâts en cas de réussite.</p>
+   <p><strong><em>Malédiction (Offalia Uniquement).</em></strong> Offalia lance <em>malédiction</em> avec une portée de 9 m. Une cible subit 7 (2d6) dégâts nécrotiques supplémentaires en cas d'échec au jet de sauvegarde, ou la moitié des dégâts en cas de réussite.</p>
+   <p><strong><em>Immobilisation de Personne (Morgantha Uniquement).</em></strong> Morgantha lance <em>immobilisation de personne</em> au niveau 3. Une cible subit 5 (2d4) dégâts nécrotiques supplémentaires en cas d'échec au jet de sauvegarde, ou la moitié des dégâts en cas de réussite.</p>
+   <p><strong><em>Éclair (Morgantha Uniquement, Recharge 5-6).</em></strong> Morgantha lance <em>éclair</em>.</p>
+   <p><strong><em>Griffes (N'importe Laquelle).</em></strong> <em>Attaque d'arme au corps à corps :</em> +8 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 13 (2d8 + 4) dégâts tranchants.</p>
+   <h3>Réactions</h3>
+   <p><strong><em>Ombres Spectrales (Bella Uniquement).</em></strong> <em>Illusion de niveau 1</em>, personnelle, composantes V S, instantanée. <em>Effet :</em> En réaction à être touchée par une attaque, Bella peut invoquer brièvement deux doubles illusoires dans son espace. L'attaquant doit lancer un d6, touchant Bella sur un 5 ou 6 et touchant un double sinon.</p>
+   <p><strong><em>Hilarité Maniaque (Offalia Uniquement).</em></strong> <em>Enchantement de niveau 1</em>, 9 m, composantes V S M, instantanée. <em>Effet :</em> En réaction à subir des dégâts d'une créature qu'Offalia peut voir à portée, Offalia peut forcer cette créature à faire un jet de sauvegarde de Sagesse DD 16. En cas d'échec, la créature est prise de fou rire, tombe à terre et devient incapable et ne peut pas se relever jusqu'à la fin du prochain tour de la créature, ou jusqu'à ce qu'elle subisse des dégâts.</p>
+   <p><strong><em>Arc Lumineux (Morgantha Uniquement).</em></strong> <em>Évocation de niveau 1</em>, 9 m, composantes V S M, 1 round. <em>Effet :</em> En réaction à subir des dégâts d'une créature qu'elle peut voir à portée, Morgantha peut envoyer un rayon d'énergie bleue crépitante vers son attaquant, le forçant à réussir un jet de sauvegarde de Constitution DD 16 ou subir 6 (1d12) dégâts de foudre. En cas d'échec, le rayon forme un arc de foudre reliant Morgantha à l'attaquant jusqu'au début de son prochain tour. Tant que l'arc dure, Morgantha a une résistance à tous les dégâts, et chaque fois qu'elle subit des dégâts, la créature connectée subit les mêmes dégâts.</p>
+   <p><strong><em>Pas Brumeux (N'importe Laquelle).</em></strong> En réaction à subir des dégâts, une guenaude peut utiliser sa réaction pour lancer <em>pas brumeux</em>.</p>
 </div>
 
 
@@ -593,196 +600,196 @@ The hags fight in self-defense, or if the players make clear that they will not 
 ![[Offalia.png]]
 
 ![[Morgantha.png]]
-<span class="credit">"The Nightmare Three" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Les Trois Cauchemars" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>The Nightmare Three</h2>
-<em>Trio of one medium fiend and two huge fiends, neutral evil</em>
-<hr>
-<strong>Armor Class</strong> 17 (natural armor)
-<br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
-<br>
-<strong>Speed</strong> 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>21 (+5)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>14 (+2)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Skills</strong> Deception +7, Insight +6, Perception +6, Stealth +6<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 15, or 13 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +4<br>
-<hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.</p>
-<p><strong><em>Nightmare Forms.</em></strong> In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
-<h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +9, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em>. A target that succeeds on the saving throw is dazed instead. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<br><br>
-<h3>Bonus Actions</h3>
-<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 16 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 17 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 16 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
-<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
-<p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 16 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
-<h3>Reactions</h3>
-<p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
-<p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
-<p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
-<p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 16 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
-<p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
+   <h2>Les Trois Cauchemars</h2>
+   <em>Trio d'un fiélon de taille M et deux fiélons de taille TG, neutre mauvais</em>
+   <hr>
+   <strong>Classe d'armure</strong> 17 (armure naturelle)
+   <br>
+   <strong>Points de vie</strong> 210 (28d8 + 84)
+   <br>
+   <strong>Vitesse</strong> 9 m
+   <hr>
+   <table class="ability-table">
+      <thead>
+         <tr>
+            <th>FOR</th>
+            <th>DEX</th>
+            <th>CON</th>
+            <th>INT</th>
+            <th>SAG</th>
+            <th>CHA</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>21 (+5)</td>
+            <td>15 (+2)</td>
+            <td>16 (+3)</td>
+            <td>18 (+4)</td>
+            <td>14 (+2)</td>
+            <td>16 (+3)</td>
+         </tr>
+      </tbody>
+   </table>
+   <hr>
+   <strong>Compétences</strong> Tromperie +7, Perspicacité +6, Perception +6, Discrétion +6<br>
+   <strong>Résistances aux dégâts</strong> froid, feu ; contondants, perforants et tranchants d'attaques non magiques qui ne sont pas en argent<br>
+   <strong>Immunités aux conditions</strong> charmé<br>
+   <strong>Sens</strong> vision dans le noir 36 m, Perception passive 16<br>
+   <strong>Langues</strong> abyssal, commun, infernal, primordial<br>
+   <strong>Facteur de puissance</strong> FP 15, ou 13 si combattu avec des armes en argent<br>
+   <strong>Bonus de maîtrise</strong> +4<br>
+   <hr>
+   <p><strong><em>Sabbat de Guenaudes.</em></strong> Le sabbat inclut trois guenaudes : Morgantha, Bella et Offalia. Si le sabbat est réduit à 0 point de vie, toutes les guenaudes meurent. Jusque-là, une guenaude agit à sa propre initiative, subit des conditions indépendamment, et a sa propre action, action bonus, réaction et mouvement. Tout dégât qu'une guenaude subit est soustrait des points de vie du sabbat.</p>
+   <p><strong><em>Formes Cauchemardesques.</em></strong> Dans cette phase, Bella prend la forme d'un crocodile de taille TG, Offalia prend la forme d'un éléphant de taille TG, et Morgantha est entourée d'un linceul d'ombres tourbillonnantes.</p>
+   <p><strong><em>Résistance à la Magie.</em></strong> Le sabbat a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>
+   <p><strong><em>Charge (Offalia Uniquement).</em></strong> Si Offalia se déplace d'au moins 6 mètres en ligne droite vers une cible et la touche ensuite avec une attaque de défense lors du même tour, la cible subit 11 (2d10) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 17 ou être repoussée jusqu'à 3 mètres en arrière et tomber à terre.</p>
+   <h3>Actions</h3>
+   <p><strong><em>Morsure (Bella Uniquement).</em></strong> <em>Attaque d'arme au corps à corps :</em> +9 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 16 (2d10 + 5) dégâts perforants et la cible est agrippée (évasion DD 17). Tant que cet agrippement dure, la cible est entravée, et Bella ne peut pas mordre une autre cible.</p>
+   <p><strong><em>Queue (Bella Uniquement).</em></strong> <em>Attaque d'arme au corps à corps :</em> +9 pour toucher, allonge 3 m, une cible non agrippée par Bella. <em>Touché :</em> 14 (2d8 + 5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 17 ou tomber à terre.</p>
+   <p><strong><em>Défense (Offalia Uniquement).</em></strong> <em>Attaque d'arme au corps à corps :</em> +9, allonge 1,5 m, une cible. <em>Touché :</em> 14 (2d8 +5) dégâts perforants.</p>
+   <p><strong><em>Mauvais Œil (Morgantha Uniquement).</em></strong> Morgantha lance ou utilise <em>mauvais œil</em>. Une cible qui réussit le jet de sauvegarde est étourdie à la place. (Une créature étourdie peut se déplacer ou effectuer une action lors de son tour, pas les deux. Elle ne peut pas non plus effectuer d'action bonus ou de réaction.)</p>
+   <h3>Actions bonus</h3>
+   <p><strong><em>Coup de Queue (Bella Uniquement).</em></strong> Bella fait claquer sa queue dans un cône de 3 mètres. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité DD 17, subissant 9 (2d8) dégâts contondants et tombant à terre en cas d'échec. Une créature qui réussit le jet de sauvegarde subit la moitié des dégâts et ne tombe pas à terre.</p>
+   <p><strong><em>Brume Hallucinatoire (Bella Uniquement).</em></strong> Bella projette un cône de 9 mètres de brume nacrée. Chaque créature dans la brume doit faire un jet de sauvegarde de Constitution DD 16 ou être étourdie jusqu'au début du prochain tour de Bella. (Une créature étourdie peut se déplacer ou effectuer une action lors de son tour, pas les deux. Elle ne peut pas non plus effectuer d'action bonus ou de réaction.)</p>
+   <p><strong><em>Piétinement (Offalia Uniquement).</em></strong> Offalia piétine le sol autour d'elle. Chaque créature dans un rayon de 1,5 mètre doit faire un jet de sauvegarde de Dextérité DD 17, subissant 11 (2d10) dégâts contondants en cas d'échec et la moitié des dégâts en cas de réussite.</p>
+   <p><strong><em>Trompette du Fiélon (Offalia Uniquement).</em></strong> Offalia libère une sonore trompette grave depuis sa trompe. Chaque créature humanoïde dans un rayon de 18 mètres doit faire un jet de sauvegarde de Sagesse DD 16 ou soustraire 1d4 à son prochain jet d'attaque, test de caractéristique ou jet de sauvegarde.</p>
+   <p><strong><em>Anneau Énervant (Morgantha Uniquement).</em></strong> Des filaments de ténèbres sombres jaillissent de Morgantha, touchant chaque créature dans un rayon de 3 mètres. Chaque cible doit faire un jet de sauvegarde de Constitution DD 16 ou subir 9 (2d8) dégâts nécrotiques et être ralentie jusqu'à la fin de son prochain tour. (Une créature ralentie doit dépenser 1 pied de mouvement supplémentaire pour chaque pied qu'elle se déplace en utilisant sa vitesse, les jets d'attaque contre elle ont l'avantage, et elle a le désavantage aux jets de sauvegarde de Dextérité.)</p>
+   <p><strong><em>Infliger des Cauchemars (Morgantha Uniquement).</em></strong> Morgantha invoque un nuage de brume éthérée autour d'une créature qu'elle peut voir dans un rayon de 9 mètres, la forçant à réussir un jet de sauvegarde de Sagesse DD 16 ou être étourdie jusqu'à ce qu'elle subisse des dégâts ou qu'une autre créature utilise son action pour la secouer pour la réveiller. La créature subit 9 (2d8) dégâts psychiques à la fin de son tour si elle est toujours étourdie.</p>
+   <h3>Réactions</h3>
+   <p><strong><em>Coup de Queue (Bella Uniquement).</em></strong> En réaction à subir des dégâts d'une créature dans un rayon de 3 mètres, Bella effectue une attaque de <strong><em>queue</strong></em> contre son attaquant.</p>
+   <p><strong><em>Défenses (Offalia Uniquement).</em></strong> En réaction à subir des dégâts d'une attaque au corps à corps, Offalia effectue une attaque de <strong><em>défense</strong></em> contre son attaquant.</p>
+   <p><strong><em>Pas d'Ombre (Morgantha Uniquement).</em></strong> En réaction à subir des dégâts d'une créature qu'elle peut voir, Morgantha subit à la place la moitié des dégâts (arrondi à l'inférieur) et se téléporte jusqu'à 9 mètres.</p>
+   <p><strong><em>Réprimande de la Matrone (Morgantha Uniquement).</em></strong> En réaction à subir des dégâts d'une créature dans un rayon de 18 mètres qu'elle peut voir, Morgantha pointe du doigt et entoure la créature qui l'a blessée d'ombres tortueuses, la forçant à réussir un jet de sauvegarde de Dextérité DD 16 ou subir 11 (2d10) dégâts nécrotiques.</p>
+   <p><strong><em>Absorption des Éléments (N'importe Laquelle).</em></strong> En réaction à subir des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, la guenaude utilise sa réaction pour lancer <em>absorption des éléments</em>.</p>
 </div>
 
-> [!combat]- **Balancing the Hags**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+
+> [!combat]- **Équilibrer les Guenaudes** 
+> En raison du mécanisme de phase, il s'agit d'une série de deux rencontres de combat consécutives **brutales** contre un groupe de cinq joueurs de niveau 5, un allié de FP 6 (Victor Vallakovich) et un allié de FP 1 (Majesto), et consommera environ 34% de leur total maximum de points de vie pour la première phase et 58% pour la seconde phase (pour un total de 92% de leurs points de vie maximum). Pour les groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+> - _**Trois Joueurs.**_ Réduisez les PV des guenaudes à 156 dans chaque phase. Pour leur première phase, réduisez : leurs actions _**cécité/surdité**_ et _**radiance putride**_ et leur action bonus _**malédiction**_ à 5 (2d4) dégâts ; leurs actions _**rayon d'affaiblissement**_ et _**rayon de maladie**_ à 7 (2d6) dégâts de feu ; leur action _**pourriture dépérissante**_ à 10 (3d6) dégâts ; leur action Flèche d'Acide de Melf à 7 (2d6) dégâts et 3 (1d6) le tour suivant ; leurs actions bonus _**couronne de folie**_, _**force fantasmagorique**_, _**terreur**_ et _**immobilisation de personne**_ à 4 (1d8) dégâts ; et leur action bonus _**éclair**_ à 21 (8d4) dégâts. Pour leur seconde phase, réduisez : leur trait _**charge**_, action bonus _**piétinement**_ et réaction _**réprimande de la matrone**_ à 7 (2d6) dégâts ; leur attaque _**morsure**_ à 12 (2d6+5) dégâts ; leurs attaques _**queue**_ et _**défense**_ à 10 (2d4+5) dégâts ; et leurs actions bonus _**coup de queue**_, _**anneau énervant**_ et _**infliger des cauchemars**_ à 7 (2d6) dégâts.
+> - _**Quatre Joueurs.**_ Réduisez les PV des guenaudes à 183 dans chaque phase. Pour leur première phase, réduisez : leurs actions _**cécité/surdité**_ et _**radiance putride**_ et leur action bonus _**malédiction**_ à 6 (1d12) dégâts ; leurs actions _**rayon d'affaiblissement**_ et _**rayon de maladie**_ à 7 (2d6) dégâts ; leur action _**pourriture dépérissante**_ à 10 (3d6) dégâts ; leur action _**flèche d'acide de Melf**_ à 9 (2d8) dégâts et 4 (1d8) le tour suivant ; leurs actions bonus _**couronne de folie**_, _**force fantasmagorique**_, _**terreur**_ et _**immobilisation de personne**_ à 4 (1d8) dégâts ; et leur action bonus _**éclair**_ à 25 (10d4) dégâts. Pour leur seconde phase, réduisez : leur trait _**charge**_, action bonus _**piétinement**_ et réaction _**réprimande de la matrone**_ à 9 (2d8) dégâts ; leur attaque _**morsure**_ à 16 (2d8+5) dégâts ; et leurs actions bonus _**coup de queue**_, _**anneau énervant**_ et _**infliger des cauchemars**_ à 7 (2d6) dégâts.
+> - _**Six Joueurs.**_ Augmentez les PV des guenaudes à 237 dans chaque phase. Pour leur première phase, augmentez : leurs actions _**cécité/surdité**_ et _**radiance putride**_ et leur action bonus _**malédiction**_ à 7 (2d6) dégâts ; leurs actions _**rayon d'affaiblissement**_ et _**rayon de maladie**_ à 9 (2d10) dégâts ; leur action _**pourriture dépérissante**_ à 15 (6d4) dégâts ; leurs actions bonus _**couronne de folie**_, _**force fantasmagorique**_, _**terreur**_ et _**immobilisation de personne**_ à 6 (1d12) dégâts ; et leur action bonus _**éclair**_ à 32 (13d4) dégâts. Pour leur seconde phase, augmentez : leur trait _**charge**_, action bonus _**piétinement**_ et réaction _**réprimande de la matrone**_ à 11 (2d12) dégâts ; leur attaque _**morsure**_ à 18 (2d12+5) dégâts ; leurs attaques _**queue**_ et _**défense**_ à 16 (2d10+5) dégâts ; et leurs actions bonus _**coup de queue**_, _**anneau énervant**_ et _**infliger des cauchemars**_ à 9 (2d10) dégâts.
+
+> [!design]- **Note de Conception : Incantation Innée** 
+> Plusieurs lanceurs de sorts dans ce guide, y compris les guenaudes du Vieux Moulin à Os, ont vu leurs emplacements de sorts remplacés par des capacités utilisables à volonté. Ce changement a été fait pour simplifier le processus de contrôle de ces personnages en combat. Cependant, c'est une abstraction intentionnelle faite uniquement dans le but du combat, qui est garanti de se terminer après un nombre limité de tours. Ce changement n'indique pas que ces sorts peuvent être lancés un nombre illimité de fois en dehors du combat.
+
+_**Le Sabbat.**_ Les guenaudes commencent dans leur phase **Sabbat du Vieux Moulin**. Chaque guenaude priorise une cible différente - Bella attaquant le joueur qui semble le plus attirant, Offalia attaquant le joueur qui semble le plus confiant, et Morgantha attaquant le joueur qui semble physiquement le plus fort. (Si deux guenaudes partagent la même cible préférée, elles ont une brève dispute, après quoi l'une d'elles change pour cibler le prochain joueur qui remplit ses critères.)
+
+Lorsque les guenaudes passent à leur phase **Trois Cauchemars**, Bella prend la forme d'un crocodile monstrueux géant, ses écailles irrégulières et déchiquetées et ses yeux brillant d'une lueur sinistre. Offalia prend la forme d'un éléphant démoniaque, sa peau marbrée de veines noires et ses défenses noircies et tordues comme des tire-bouchons. Enfin, la peau de Morgantha devient d'un noir de jais, ses yeux devenant des vides d'encre tandis que des ombres tourbillonnent autour d'elle.
+
+_**Victor Vallakovich.**_ En combat, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] reste invisible grâce à son sort d'_invisibilité supérieure_, restant à tout moment dans un rayon de 18 mètres du moulin.
+
+Victor lance _contresort_ au niveau 3 ou 4 selon les besoins pour contrer les sorts _éclair_ et _mauvais œil_ de Morgantha. Sinon, il lance _projectile magique_ aux niveaux 2 et 1 pour éviter les dégâts collatéraux et minimiser la résistance à la magie des guenaudes.
+
+Victor conserve son unique emplacement de sort de niveau 5 pour lancer _contresort_ en réponse à l'action de repaire _**dissipation de la magie**_ des guenaudes. (Voir **Dissipation de la Magie** ci-dessous.)
+
+_**Majesto.**_ En combat, le **diablotin** Majesto utilise son _**dard**_ pour attaquer les guenaudes qui se concentrent actuellement sur des sorts.
+
+### La Fuite Ratée des Guenaudes
+
+Le sabbat conserve son action de repaire _**dissipation de la magie**_ pour la majeure partie de la rencontre. Lors de son premier tour après que la phase des **Trois Cauchemars** du sabbat soit mise à mal, Morgantha tente d'utiliser son action d'_**éthéréalité**_ pour s'échapper - ce qui est empêché par le cercle de protection de Dame Wachter.
+
+> [!info]+ **À Mal** 
+> Une créature est **à mal** quand elle est réduite à la moitié ou moins de ses points de vie maximum ordinaires.
+
+Horrifiée par l'échec de Morgantha, le sabbat utilise son action de repaire _**dissipation de la magie**_ à la prochaine occasion disponible. Quand cela se produit, lisez :
+
+<div class="description"> <p>L'air devient chargé de puissance - puis un terrible gémissement strident déchire le vent. Alors que les yeux du sabbat brillent d'un dessein unifié, les énormes pales du moulin commencent à tourner - lentement d'abord, puis gagnant en vitesse, le grincement de son bois ancien se mêlant au broyage de ses engrenages usés pour former une terrible cacophonie.</p> <p>Le vent entre les pales scintille d'ombres, hurlant avec une joie maléfique alors que le crescendo du moulin devient un flou de lumière et d'obscurité. Puis, avec un son comme un tonnerre grondant, une onde de choc de force arcanique jaillit du joint central des pales, déformant l'air même avec l'intensité de sa puissance.</p> <p>"<em>Disparaissez !</em>" crient les guenaudes.</p> </div>
+
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] répond immédiatement en lançant _contresort_ au niveau 5. Lisez :
+
+<div class="description"> <p>Avec un mouvement de sa main et une incantation murmurée, Victor conjure une tapisserie complexe de sigiles et de runes dans l'air devant lui. L'explosion du sabbat, un maelström tourbillonnant d'ombres et de lumière sinistre, rencontre le bouclier scintillant du contresort de Victor - un treillis radiant qui brille de puissance.</p> <p>Pendant un moment, les deux forces s'affrontent dans un choc assourdissant, un spectacle de lumière et d'obscurité qui semble tendre l'air même autour de lui. Puis, avec un son résonnant comme du verre qui se brise, le sort de Victor triomphe - et l'onde de choc du sabbat se dissipe, son énergie sombre se défaisant en inoffensifs lambeaux d'ombre.</p> <p>Les guenaudes laissent échapper un cri perçant de rage à glacer le sang, leurs voix se fondant en une seule note aiguë de fureur.</p> </div>
+
+Immédiatement après le _contresort_ de Victor, Morgantha demande une trêve, promettant de révéler trois éléments de connaissance secrète aux joueurs en échange de la vie du sabbat.
+
+Morgantha refuse initialement de révéler quoi que ce soit jusqu'à ce que le cercle de protection de Dame Wachter soit abaissé, mais peut être convaincue de partager l'un de ses trois secrets comme preuve de bonne foi si les joueurs menacent de la tuer autrement.
+
+Les secrets de Morgantha sont les suivants :
+
+- Le secret le plus précieusement gardé de Strahd est un temple de savoir interdit caché dans les montagnes. Il est connu sous le nom de Temple d'Ambre, et c'est là qu'il a rencontré pour la première fois l'entité avec laquelle il a forgé son terrible pacte. (Morgantha ne connaît pas l'emplacement du temple ou la nature du pacte de Strahd.)
+- Strahd von Zarovich cherche à échapper à l'emprise des Brumes. Il a préparé un sombre et secret complot pour y parvenir, exploitant le pouvoir de trois sanctuaires anciens pour défier la volonté des Puissances Sombres qui gouvernent cette terre. (Morgantha ne connaît pas les détails de son complot ou la nature des sanctuaires, mais sait que l'un des trois sanctuaires est situé parmi le cercle de pierres levées situé au pied de la colline du moulin.)
+- À l'insu de Strahd, un traître se cache dans son entourage : sa plus ancienne épouse et **rejeton vampirique** Sasha Ivliskova. (Morgantha est follement amusée par cette trahison, et n'a pris aucune mesure pour avertir Strahd de ses loyautés conflictuelles.)
+
+Avant que le cercle de protection ne soit abaissé, les joueurs peuvent aussi exiger que Morgantha leur prête un cœur-de-pierre avec un test réussi de Charisme (Intimidation) DD 10. Si elle est persuadée de le faire, Morgantha ordonne à Bella de produire son cœur-de-pierre, que - après une dissension bruyante et véhémente - Bella offre aux joueurs avec amertume.
+
+Si la demande de trêve de Morgantha est refusée, le sabbat combat jusqu'à la mort.
+
+## H7c. Évasion du Vieux Moulin à Os
+
+Si les guenaudes mettent les joueurs inconscients, les joueurs se réveillent 1d4 + 4 heures après leur défaite dans <span class="citation">O4. Le Grenier en Dôme (p. 128)</span>. Ils ont été bâillonnés et ligotés avec des bandes déchirées de draps de lit et de vêtements sales, qui ont les statistiques de _corde en chanvre_. Les deux membres les plus forts du groupe ont été infectés par la fièvre du rire et empoisonnés par la _teinture pâle_, respectivement.
+
+Tant que les jambes des joueurs sont liées, ils sont **entravés**. Tant que les mains des joueurs sont liées, ils se déplacent à la moitié de leur vitesse, ont un désavantage aux attaques avec des armes et ne peuvent pas utiliser de composantes somatiques pour les sorts.
+
+Les joueurs découvrent qu'ils sont également entourés et gardés par six **dretchs**, que Morgantha a invoqués depuis le baril d'ichor dans <span class="citation">O1. Rez-de-chaussée (p. 126)</span>. Leurs armes, objets magiques, focaliseurs arcaniques ou druidiques, symboles sacrés et armures ont été confisqués et placés dans la caisse vide dans <span class="citation">O3. Chambre (p. 127)</span>.
+
+### L'Interrogatoire de Morgantha
+
+Dès que les joueurs se réveillent, Morgantha monte l'échelle jusqu'au grenier et les toise, portant toujours son déguisement humanoïde. Elle choisit un joueur, apparemment au hasard (bien qu'elle s'assure de choisir le joueur infecté par la fièvre du rire), et retire son bâillon, mais pas ses liens.
+
+Morgantha leur demande alors plaisamment de lui dire qui ils sont et pourquoi ils sont venus au moulin.
+
+_**Défier Morgantha.**_ Si le joueur se montre obstiné ou provocateur, Morgantha abandonne son déguisement et reprend sa forme horrible de **guenaude nocturne**. Elle se penche près de ce joueur, dévoilant ses dents jaunes et pointues, et murmure à son oreille : "Les enfants se croient toujours héros dans leurs rêves. Mais les rêves peuvent si facilement devenir des cauchemars - et les cauchemars sont mon pain et ma viande." Morgantha lance alors _malédiction_ sur ce joueur, maudissant ses jets de sauvegarde de Constitution et relançant le sort s'il échoue initialement.
+
+Une fois que le joueur est maudit, Morgantha trace une unique griffe sur sa joue, faisant une _**attaque à mains nues**_ contre ce joueur et choisissant d'infliger 1 dégât en cas de coup. (En supposant que le joueur ait dépensé des dés de vie pour récupérer des points de vie pendant un repos court alors qu'il était inconscient, cela ne devrait pas le rendre inconscient.) Tout dégât subi force ce joueur à faire un jet de sauvegarde de Constitution contre les effets de la fièvre du rire. Morgantha continue à faire de petites égratignures sur la chair du joueur jusqu'à ce que le joueur succombe aux effets de la fièvre du rire, forçant tous les autres humanoïdes dans le grenier à faire des jets de sauvegarde de Constitution DD 10 ou être infectés par la fièvre du rire eux aussi.
+
+Morgantha informe alors chaleureusement les joueurs qu'il y a deux enfants emprisonnés dans la chambre en dessous. Cette nuit, les guenaudes vont les tuer et broyer leurs os en farine pour faire plus de tartes aux rêves. Quand les joueurs finiront inévitablement par s'endormir, les guenaudes s'assureront qu'ils souffrent d'horribles cauchemars et ne tirent aucun repos de leur sommeil. Au matin, les joueurs seront nourris des tartes aux rêves faites avec les restes des enfants et se verront offrir une nouvelle opportunité de répondre aux questions de Morgantha.
+
+Morgantha leur souhaite alors de "beaux rêves" et quitte le grenier, laissant les joueurs seuls dans l'obscurité gardés par les six **dretchs**. Voir **S'échapper du Moulin** ci-dessous.
+
+_**Répondre à Morgantha.**_ Si le joueur avoue plutôt avoir comploté pour tuer Morgantha et voler son cœur-de-pierre, elle caresse doucement la joue du joueur et dit : "Quels _braves_ enfants vous êtes." Elle claque sa langue, secoue tristement la tête et dit : "Et voyez où cela vous mène. Si vous vouliez emprunter mon cœur-de-pierre, il vous suffisait de demander."
+
+Morgantha est disposée à négocier avec les joueurs en les libérant et en leur prêtant l'utilisation de son cœur-de-pierre. Elle demande au joueur débâillonné lequel d'entre eux est qualifié pour parler au nom du reste du groupe. Morgantha rebâillonne alors le premier joueur, débâillonne le joueur choisi, et invite doucement ce joueur à la rejoindre au rez-de-chaussée pour une discussion plus approfondie et civilisée. Elle offre de délier les jambes de ce joueur (mais pas ses mains) comme signe de bonne foi, mais les prévient que toute tentative d'évasion fera souffrir leurs amis de punitions atroces.
+
+Si le joueur accepte les conditions de Morgantha, elle délie les liens autour de leurs jambes (mais pas leurs mains) et leur ordonne de descendre l'échelle et les escaliers jusqu'au rez-de-chaussée. Bella et Offalia attendent le joueur dans <span class="citation">O3. Chambre (p. 127)</span>, et le guident brutalement en bas des escaliers avant de l'asseoir sur le coffre rempli de crapauds dans <span class="citation">O1. Rez-de-chaussée (p. 126)</span>. Voir **La Requête de Morgantha** ci-dessous.
+### La Requête de Morgantha
+
+Si un joueur accepte de négocier avec Morgantha pour son cœur-de-pierre et l'évasion des joueurs, Morgantha le suit dans la cuisine du rez-de-chaussée. En entrant dans la pièce, le joueur peut immédiatement voir que le feu dans le four s'est réduit à des braises, projetant une lueur cramoisie sur une forme bosselée à forme humaine enveloppée dans un sac de toile à l'intérieur. Des gémissements suppliants s'échappent occasionnellement de la silhouette dans le four. (La silhouette est en réalité les trois autres **dretchs** empilés sur les épaules les uns des autres, et ont reçu l'ordre strict de Morgantha de rester dans le four et de faire occasionnellement des grognements paniqués.)
+
+Morgantha remercie le joueur pour sa volonté de négocier, et les félicite pour la confiance évidente que leurs amis leur portent. Morgantha est heureuse de prêter aux joueurs son cœur-de-pierre pour une période de trois jours. Cependant, parce que les joueurs ont brisé sa confiance en tentant de la tuer elle et ses filles, les joueurs doivent d'abord négocier leur liberté.
+
+Pour gagner leur liberté, le joueur choisi doit immédiatement accomplir une petite tâche pour Morgantha. (Une fois qu'ils l'auront fait, Morgantha est heureuse de discuter des conditions de tout prêt de son cœur-de-pierre.) De plus, comme garantie pour s'assurer que les joueurs ne lèveront plus la main contre Morgantha ou ses filles, chacun des joueurs doit volontairement fournir à chacune des trois guenaudes une mèche de cheveux, une rognure d'ongle ou une autre partie de leur corps.(Morgantha ne le révèle pas aux joueurs, mais elle prévoit d'utiliser ces parties de corps pour créer un trio d'amulettes protectrices que les guenaudes porteront. Une guenaude portant une telle amulette est sous les effets d'un sort de _sanctuaire_ permanent contre toute créature dont des parties du corps sont contenues dans l'amulette.)
+
+_**La Première Tâche.**_ Si le joueur demande quelle est la "petite tâche" de Morgantha ou manifeste un intérêt à accepter le marché, Morgantha se tient à côté de la silhouette dans le four et caresse doucement sa "joue". "Voici Franz," dit-elle doucement. "Franz a été un très vilain homme." Elle se tourne vers le joueur et fait rouler un fagot de petit bois dans sa main gauche tandis qu'elle prend une bougie vacillante de sa main droite. "Franz a besoin que quelqu'un le punisse pour ses mauvaises décisions. Le ferez-vous pour lui ?" Elle tend le petit bois vers le joueur et sourit joyeusement alors que, derrière elle, la silhouette dans le four commence à grogner plus fort.
+
+Pour accomplir la tâche de Morgantha, le joueur doit allumer le petit bois, le placer dans le four, et empiler le feu haut avec des bûches supplémentaires, brûlant ainsi "Franz" vivant. Alors que le four devient plus chaud et que le sac humide prend lentement feu, les grognements de "Franz" deviennent plus rapides et plus désespérés, la silhouette se tortillant jusqu'à ce qu'elle finisse par s'immobiliser. Le processus entier prend un peu moins de cinq minutes une fois commencé.
+
+Si le joueur accepte d'accomplir la tâche de Morgantha, Bella délie les liens autour des mains du joueur et lui ordonne de commencer. Pendant que le joueur travaille, Morgantha le félicite, disant : "Tout devient comme il se doit. Le héros, rendant justice au méchant." Tout au long du processus, Bella et Offalia gloussent et applaudissent, encourageant le joueur à travailler plus vite et plus vite.
+
+_**La Deuxième Tâche.**_ Quand "Franz" meurt finalement, Morgantha tape sur l'épaule du joueur et dit : "Bien joué. Comment cela vous a-t-il fait de rendre justice à un homme comme celui-là ?"
+
+Quelle que soit la réponse du joueur, Morgantha lui fournit alors une paire de ciseaux et lui demande d'accomplir la deuxième partie de leur marché : fournir volontairement une mèche de cheveux, une rognure d'ongle ou une autre petite partie du corps, et convaincre leurs amis d'en faire autant.
+
+Si les joueurs remplissent cette partie du marché, Morgantha distribue les parties du corps entre trois fioles en verre, chaque fiole contenant un morceau de la contribution de chaque joueur. Une guenaude portant une telle fiole est sous les effets d'un sort de _sanctuaire_ permanent contre toute créature dont des parties du corps sont contenues dans celle-ci.
+
+Morgantha distribue les fioles à elle-même et à ses filles, puis ordonne à Bella et Offalia de libérer les joueurs et de les conduire à la cuisine.
+
+> [!abstract]+ **Un Pincement de Conscience**
 > 
-> * ***Three Players.*** Reduce the hags’ HP to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Four Players.*** Reduce the hags’ HP to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Six Players.*** Increase the hags’ HP to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage.
+> Si le joueur refuse d'accomplir la tâche de Morgantha, retarde intentionnellement le processus, ou tente de fuir, le sabbat attaque. Alors que le joueur sombre dans l'inconscience, Morgantha caresse ses cheveux et murmure : "Quel dommage. Je vous croyais plus fort que ça. Nous devrons réessayer demain." Le joueur se réveille plus tard dans le grenier avec les autres. Passez à **S'échapper du Moulin** ci-dessous.
 
-> [!design]- **Design Note: Innate Spellcasting**
-> Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
+_**Le Marché.**_ Si le joueur accomplit la requête de Morgantha et livre avec succès les parties du corps dont elle a besoin pour créer ses amulettes protectrices, elle est disposée à leur prêter son cœur-de-pierre pour une période de trois jours en échange d'une promesse d'accomplir une tâche particulière. Les joueurs doivent livrer une **sangsue d'âme** - un **fiélon** de taille TP ressemblant à une sangsue avec une chair translucide blanc fantôme et des veines bleu-violet, et que Morgantha a emprisonnée dans une fiole bouchée - au bureau du chambellan de Strahd, Rahadin. En arrivant dans le bureau de Rahadin, les joueurs doivent déboucher la fiole et permettre à la sangsue de s'attacher sous son bureau, où elle se rendra invisible et pratiquement indétectable.
 
-***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
+Les joueurs peuvent convaincre Morgantha de révéler ses plans pour la sangsue avec un test réussi de Charisme (Persuasion) DD 10 : Quand Rahadin reviendra, la sangsue s'attachera secrètement à sa chair, assurant que - quand Rahadin finira par mourir - son âme maléfique sera piégée et emprisonnée dans le _sac d'âmes_ de Morgantha, où elle sera transformée en une **larve d'âme** que Morgantha pourra utiliser à des fins néfastes.
 
-When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
+Morgantha peut dire aux joueurs que le bureau de Rahadin est situé dans la cave du Château Ravenloft, non loin des cuisines. Cependant, Morgantha ne partagera pas d'où elle a obtenu son information. (Sa source est, bien sûr, le **monstrueux** Cyrus Belview, le porteur inconscient de l'_œil de guenaude_ du sabbat.)
 
-***Victor Vallakovich.*** In battle, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+Comme forme d'assurance pour garantir la conformité des joueurs, Morgantha prend leurs rêves comme garantie une fois qu'ils acceptent son offre, les embouteillant dans une fiole en verre qu'elle porte sur un cordon autour de son cou.
 
-Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
+Morgantha prévient les joueurs que, s'ils ne parviennent pas à accomplir sa tâche dans les quatorze jours, ne rendent pas le cœur-de-pierre dans les trois jours, ou la trahissent, elle dévorera immédiatement leurs rêves, les empêchant de gagner les bénéfices d'un repos long pour toujours. (Morgantha peut dévorer les rêves des joueurs comme une action tant que la fiole est en sa possession.)
 
-Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.)
+Si les joueurs accomplissent la tâche de Morgantha dans le temps imparti, cependant, elle libérera leurs rêves et leur permettra de retourner à leurs propriétaires. Dans les deux cas, les joueurs peuvent prendre des repos longs normalement jusqu'à ce que les quatorze jours se soient écoulés.
 
-***Majesto.*** In battle, Lady Wachter’s **imp** Majesto uses his ***sting*** to attack whichever hags are currently concentrating on spells.
-### The Hags' Failed Escape
-The coven conserves its ***dispel magic*** lair action for the bulk of the encounter. On her first turn after the coven's **Nightmare Three** phase is bloodied, Morgantha attempts to use her ***etherealness*** action to escape—which is prevented by Lady Wachter's binding circle. 
+### S'échapper du Moulin
 
-> [!info]+ **Bloodied**
-> A creature is **bloodied** when reduced to half of its ordinary maximum hit points or fewer.
+Si Morgantha abandonne les joueurs dans le grenier du moulin, ils sont approchés peu après par le **diablotin** de Dame Wachter, Majesto, sous sa forme d'**araignée** invisible. Majesto murmure les informations suivantes aux joueurs :
 
-Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair action at the next available opportunity. When it does, read:
-
-<div class="description">
-<p>The air grows thick with power—and then a terrible, screeching groan cuts through the wind. As the coven's eyes glow with unified purpose, the massive vanes of the windmill begin to rotate—slowly at first, then gaining momentum, the creaking of its ancient wood melding with the grinding of its weathered gears to form a terrible cacophony.</p>
-<p>The wind betwixt the vanes shimmers with shadows, shrieking with a baleful glee as the windmill's crescendo becomes a blur of light and dark. Then, with a sound like booming thunder, a shockwave of arcane force bursts from the vanes' central joint, distorting the very air with the intensity of its power.</p>
-<p>"<em>Begone!</em>" screech the hags.</p>
-</div>
-
-[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] immediately responds by casting *counterspell* at 5th level. Read:
-
-<div class="description">
-<p>With a flourish of his hand and a whispered incantation, Victor conjures a complex tapestry of sigils and runes in the air before him. The coven's blast, a swirling maelstrom of shadows and baleful light, meets the shimmering shield of Victor's counterspell—a radiant lattice that shimmers with power.</p>
-<p>For a moment, the two forces collide in a deafening clash, a spectacle of light and dark that seems to strain the very air around it. Then, with a resonant sound like the shattering of glass, Victor's spell triumphs—and the coven's shockwave dissipates, its dark energy unraveling into harmless wisps of shadow.</p>
-<p>The hags release a bloodcurdling scream of rage, their voices melding into a single, resonant note of high-pitched fury.</p>
-</div>
-
-Immediately following Victor's _counterspell_, Morgantha calls for a parley, promising to reveal three pieces of secret knowledge to the players in exchange for the coven's lives. 
-
-Morgantha initially refuses to reveal anything until Lady Wachter’s binding circle is taken down, but can be convinced to share one of her three secrets as a show of good faith if the players threaten to kill her otherwise. 
-
-Morgantha's secrets are as follows:
-
-* Strahd’s most carefully guarded secret is a temple of forbidden lore hidden in the mountains. It is known as the Amber Temple, and it is the place where he first met the entity with which he forged his terrible pact. (Morgantha doesn’t know the temple’s location or the nature of Strahd’s pact.)
-* Strahd von Zarovich seeks to escape from the grasp of the Mists. He has prepared a dark and secret plot to do so, harnessing the power of three ancient shrines to defy the will of the Dark Powers that rule this land. (Morgantha doesn’t know the specifics of his plot or the nature of the shrines, but knows that one of the three shrines is located among the circle of standing stones located at the base of the windmill’s hill.)
-* Unbeknownst to Strahd, a traitor lurks in his midst: his eldest wife and **vampire spawn** Sasha Ivliskova. (Morgantha is wildly amused by this treachery, and has taken no action to warn Strahd of her conflicted loyalties.)
-
-Before the binding circle is lowered, the players can also demand that Morgantha lend them a heartstone with a successful DC 10 Charisma (Intimidation) check. If persuaded to do so, Morgantha commands Bella to produce her heartstone, which—after a loud and vehement dissent—Bella grimly offers to the players.
-
-If Morgantha’s request for parley is denied, the coven fights to the death.
-## H7c. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 4 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
-
-While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
-
-The players find that they are also surrounded and guarded by six **dretches**, which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
-### Morgantha’s Interrogation
-As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
-
-Morgantha then pleasantly asks them to tell her who they are and why they have come to the windmill.
-
-***Defying Morgantha.*** If the player proves obstinate or defiant, Morgantha releases her disguise and returns to her horrifying **night hag** form. She leans in close toward that player, baring her sharp, yellowed teeth, and whispers in their ear, “Children always fancy themselves heroes in their dreams. But dreams can so easily become nightmares—and nightmares are my bread and meat.” Morgantha then casts *bestow curse* on that player, cursing their Constitution saving throws and recasting the spell if it is initially unsuccessful.
-
-Once the player is cursed, Morgantha draws a single claw across that player’s cheek, making an ***unarmed strike*** against that player and choosing to deal 1 damage on a hit. (Assuming the player expended hit dice to recover hit points during a short rest while unconscious, this shouldn’t render that player unconscious.) Any damage taken forces that player to make a Constitution saving throw against the effects of cackle fever. Morgantha continues to make small scratches across the player’s flesh until the player succumbs to the effects of cackle fever, forcing all other humanoids in the attic to make DC 10 Constitution saving throws or be infected with cackle fever themselves.
-
-Morgantha then warmly informs the players that there are two children imprisoned in the bedroom below. Tonight, the hags will kill them and grind their bones into flour to make more dream pastries. When the players inevitably fall asleep, the hags will ensure that they suffer horrible nightmares and gain no rest from their sleep. In the morning, the players will be fed the dream pastries made from the children’s remains and provided an additional opportunity to answer Morgantha’s questions. 
-
-Morgantha then wishes the players “sweet dreams”  and exits the attic, leaving the players alone in the darkness guarded by the six **dretches**. See **Escaping the Windmill** below.
-
-***Answering Morgantha.*** If the player instead confesses to plotting to kill Morgantha and steal her heartstone, she strokes the player’s cheek softly and says, “Such *brave* children you are.” She clicks her tongue, shakes her head sadly, and says, “And look where that gets you. If you wanted to borrow my heartstone, all you needed to do was ask.”
-
-Morgantha is willing to bargain with the players by freeing them and lending them the use of her heartstone. She asks the ungagged player which among them is qualified to speak for the rest of the group. Morgantha then re-gags the first player, ungags the chosen player, and sweetly invites that player to join her on the ground floor below for a more in-depth and civilized discussion. She offers to unbind that player’s legs (though not their hands) as a sign of good faith, but warns them that any attempts to escape shall cause their friends to suffer gruesome punishments.
-
-If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in <span class="citation">O3. Bedroom (p. 127)</span>, and roughly guide them down the stairs before sitting them down on the toad-filled trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. See **Morgantha's Request** below.
-### Morgantha’s Request
-If a player agrees to bargain with Morgantha for her heartstone and the players' escape, Morgantha follows them into the ground floor kitchen. Upon entering the room, the player can immediately see that the fire in the oven has reduced to embers, casting a dim, crimson glow on a lumpy, man-shaped form wrapped in a burlap sack within. Quiet, pleading grunts occasionally escape the figure in the oven. (The figure is actually the remaining three **dretches** stacked upon one another’s shoulders, and have strict orders from Morgantha to remain in the oven and occasionally make panicked grunts.)
-
-Morgantha thanks the player for their willingness to bargain, and praises them for their friends’ clear faith in them. Morgantha is glad to lend the players her heartstone for a period of three days. However, because the players have broken her trust by attempting to murder her and her daughters, the players must first bargain for their freedom.
-
-To win their freedom, the chosen player must immediately perform a small task for Morgantha. (Once they’ve done so, Morgantha is glad to discuss the terms of any loan of her heartstone.) Additionally, as collateral to ensure that the players do not raise their hands against Morgantha or her daughters again, each of the players must willingly provide each of the three hags with a lock of hair, a nail clipping, or another part of their body. (Morgantha doesn’t reveal it to the players, but she plans to use these body parts to create a trio of protective amulets for the hags to wear. A hag wearing such an amulet is under the effects of a permanent *sanctuary* spell against any creature whose body parts are contained within the amulet.)
-
-***The First Task.*** If the player asks about Morgantha’s “small task” or indicates an interest in accepting the deal, Morgantha stands beside the figure in the oven and gently strokes its “cheek.” “This is Franz,” she says sweetly. “Franz has been a very bad man.” She turns to the player and rolls a bundle of kindling in her left hand as she picks up a flickering candle with her right. “Franz needs someone to punish him for his bad decisions. Will you do that for him?” She extends the kindling toward the player and smiles cheerfully as, behind her, the figure in the oven begins grunting more loudly.
-
-To complete Morgantha’s task, the player must light the kindling on fire, place it in the oven, and pile the fire high with additional logs of wood, thereby burning “Franz” alive. As the oven grows hotter and the damp sack slowly catches fire, “Franz’s” grunts grow faster and more desperate, the figure wriggling until it finally falls still. The entire process takes a little less than five minutes once begun. 
-
-If the player agrees to complete Morgantha’s task, Bella unties the binding around the player’s hands and directs them to begin. As the player works, Morgantha praises them, saying, “Everything becomes as it should. The hero, bringing justice to the villain.” Throughout the process, Bella and Offalia giggle and clap their hands, encouraging the player to work faster and faster. 
-
-***The Second Task.*** When "Franz" finally dies, Morgantha claps the player on the shoulder and says, "Well done. How did it feel, dearie, to bring justice to a man like that?" 
-
-Regardless of the player's answer, Morgantha then provides the player with a pair of scissors and asks them to complete the second part of their deal: to willingly provide a lock of hair, nail clipping, or other small body part, and to convince their friends to do the same. 
-
-If the players fulfill this part of the deal, Morgantha distributes the body parts among three glass vials, with each vial carrying a piece of each player’s contribution. A hag wearing such a vial is under the effects of a permanent *sanctuary* spell against any creature whose body parts are contained within it. 
-
-Morgantha distributes the vials to herself and her daughters, and then directs Bella and Offalia to release the players and lead them down to the kitchen.
-
-> [!abstract]+ **A Twinge of Conscience**
->
-> If the player refuses to complete Morgantha’s task, intentionally delays the process, or attempts to flee, the coven attacks. As the player falls into unconsciousness, Morgantha strokes their hair and whispers, "A pity. I'd thought of you as stronger stock. We'll have to try again tomorrow." The player later awakens back in the attic with the others. Proceed to **Escaping the Windmill** below.
-
-***The Bargain.*** If the player completes Morgantha’s request and successfully delivers the body parts she needs to craft her protective amulets, she is willing to lend them her hearthstone for a period of three days in exchange for a promise to undertake a particular task. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable. 
-
-The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
-
-Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
-
-As a form of insurance to ensure the players’ compliance, Morgantha takes their dreams as collateral once they accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
-
-Morgantha warns the players that, if they fail to complete her task within fourteen days, fail to return the heartstone within three days, or betray her, she will immediately devour their dreams, preventing them from gaining the benefits of a long rest forever. (Morgantha can devour the players’ dreams as an action while the vial is in her possession.)
-
-If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
-### Escaping the Windmill
-If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
-
-* The creatures guarding the players are **dretches**—dull-witted, repulsive demons with an ability to exude a fetid cloud of disgusting green gas when disturbed, which will surely alert the hags if triggered. However, the only language they speak is Abyssal, and their sense of hearing is quite poor, allowing the players and Majesto to scheme without the dretches noticing. (Majesto, a devil, finds the dretches disgusting and unpleasantly uncivilized.)
-* Lady Wachter, her cultists, and (if he wasn’t captured) [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] are hidden in a grove a short ways away from the windmill. They’re glad to help the players escape if possible, though Lady Wachter isn’t confident in their ability to face the hags in open combat. 
-* While he’s here, Majesto is glad to serve as a distraction or helping hand, whichever the players require. (Majesto is quite selfish, however, and will refuse any course of action that might lead to his death—despite Lady Wachter’s ability to resummon him—unless the players remind him of their mission to save Stella Wachter and succeed on a DC 15 Charisma (Persuasion) check.)
+- Les créatures qui gardent les joueurs sont des **dretchs** - des démons stupides et répugnants avec la capacité d'émettre un nuage de gaz vert dégoûtant lorsqu'ils sont dérangés, qui alertera sûrement les guenaudes s'il est déclenché. Cependant, la seule langue qu'ils parlent est l'abyssal, et leur sens de l'ouïe est assez médiocre, permettant aux joueurs et à Majesto de comploter sans que les dretchs ne le remarquent. (Majesto, un diablotin, trouve les dretchs dégoûtants et désagréablement non civilisés.)
+- Dame Wachter, ses cultistes et (s'il n'a pas été capturé) [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] sont cachés dans un bosquet à courte distance du moulin. Ils sont heureux d'aider les joueurs à s'échapper si possible, bien que Dame Wachter ne soit pas confiante dans leur capacité à affronter les guenaudes en combat ouvert.
+- Pendant qu'il est là, Majesto est heureux de servir comme distraction ou coup de main, selon ce dont les joueurs ont besoin. (Majesto est cependant assez égoïste et refusera toute action qui pourrait mener à sa mort - malgré la capacité de Dame Wachter à le réinvoquer - à moins que les joueurs ne lui rappellent leur mission de sauver Stella Wachter et réussissent un test de Charisme (Persuasion) DD 15.)
 
 Every twenty minutes, two of the six **dretches** guarding the players return to the barrel of ichor and dissolve, whereupon Morgantha knocks on the barrel, summoning them anew, and sends them back to guard the players. (This “recycling” process takes approximately five minutes each time.)
 
