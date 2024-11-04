@@ -22,7 +22,7 @@ This translation is heavily using AI translators. Here's the workflow I mainly u
 
 | Pages                                           | Translated | First QA pass | Second QA pass | Battle tested | Comments |
 | ----------------------------------------------- | ---------- | ------------- | -------------- | ------------- | -------- |
-| Version 2.0.8.3 and below                       | 🚧         | 🚧            | 🚧             | 🚧            |          |
+| Version 2.0.9.6 and below                       | 🚧         | 🚧            | 🚧             | 🚧            |          |
 | Acte I - Vers les Brumes                        | ✅<br>      | ✅             | 🚧             | 🚧            |          |
 | [[Acte I Résumé]]                               | ✅          | ✅             | ✅              | ✅             |          |
 | [[Arc A - L'Evasion de la Funeste Demeure]]     | ✅          | ✅             | ✅              | ✅             |          |
@@ -48,7 +48,7 @@ This translation is heavily using AI translators. Here's the workflow I mainly u
 | Appendices                                      | ✅          | ❌             | ❌              | ❌             |          |
 | [[Eclats d'Ambre]]                              | ✅          | ❌             | ❌              | ❌             |          |
 | [[Glossaire]]                                   | ✅          | ❌             | ❌              | ❌             |          |
-| [[Personnages Non-Joueurs]]                     | ✅          | ❌             | ❌              | ❌             |          |
+| [[Personnages Non-Joueurs]]                     | 🚧         | ❌             | ❌              | ❌             |          |
 | Chapitre 1 - Démarrer la Campagne               | ✅          | ❌             | ❌              | ❌             |          |
 | [[Création de Personnage]]                      | ✅          | ❌             | ❌              | ❌             |          |
 | [[Session Zero]]                                | ✅          | ❌             | ❌              | ❌             |          |

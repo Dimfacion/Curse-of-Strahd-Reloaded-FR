@@ -22,11 +22,10 @@ Si les joueurs tuent le monstre, la maison commence à s'effondrer, les forçant
 > Voir [[Histoire de la Barovie#Les Premiers Disciples de Strahd|Les Premiers Disciples de Strahd]] pour une redite complete de l'histoire malsaine de la Funeste Demeure.
 # A1. Daggerford
 
-#TODO
-> [!warning]+ **Keep Your Workload Low** 
-> _Curse of Strahd: Reloaded_ has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
+>[!warning]+ **Gardez Votre Charge de Travail Faible**
+> _Curse of Strahd : Reloaded_ a été intentionnellement écrit pour minimiser le temps passé hors table, visant à servir de campagne "zéro-préparation" dans la mesure du possible. Pour rendre cela possible, ce guide a été conçu pour orienter les joueurs vers des chemins spécifiques et sélectionnés à travers l'aventure, tout en fournissant des degrés de liberté intentionnels qui, bien que significatifs, ne changeront pas substantiellement l'issue finale de la campagne.
 > 
-> If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
+> Si vous souhaitez minimiser votre charge de travail, faites de votre mieux pour éviter d'apporter des changements ou des ajouts à ce guide. Le faire risque d'altérer la façon dont les joueurs interagissent avec sa narration et son gameplay, perturbant des piliers porteurs qui peuvent être difficiles à remarquer sans relire le guide complet plusieurs fois. (Par exemple, augmenter les distances entre les colonies baroviennes rend plusieurs quêtes des Actes II et III impossibles à accomplir sans une refonte complète de la chronologie de la campagne.) Toute modification — comme des changements aux délais, distances, statistiques, motivations des personnages ou événements — est faite aux risques du MJ, et peut mener à des TPK, des divergences importantes ou des histoires insatisfaisantes.
 
 ## A1a. Le Nightmare’s Bridle
 Si un ou plusieurs de vos joueurs utilisent l'accroche des [[Mener l'aventure#Adventure Hooks|Reliques Baroviennes]], lisez le texte suivant. Sinon, passez à [[#A2. Funeste Demeure]] ci-dessous.
@@ -348,7 +347,7 @@ Alors que les joueurs montent les escaliers en spirale jusqu'au troisième étag
 
 ### Palier
 
-<span class="citation"><em>Cette scène a lieu dans Annexe B: Zone 11.</span>
+<span class="citation"><em>Cette scène a lieu dans Annexe B: Zone 11.</em></span>
 
 Cette pièce est en grande partie décrite dans <span class="citation">Palier (p. 214)</span>. Lorsque les joueurs entrent dans cette pièce, lisez :
 
@@ -632,12 +631,12 @@ Remplacez l'épée courte en argent dans le coffre **25E** par un livre relié d
 
 <span class="citation"><em>Cette scène se déroule dans l'Annexe B : Zone 26.</em></span>
 
-#TODO
-> [!combat]- **Balancing the Pit Trap** This trap is designed to be a threat for a party of five 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Équilibrer le Piège de la Fosse** 
+> Ce piège est conçu pour être une menace pour un groupe de cinq joueurs de niveau 2. Pour des groupes plus petits ou plus grands, modifiez la rencontre comme suit :
 > 
-> - _**Three Players.**_ . Reduce the damage to 1d6 bludgeoning and 2d4+1 piercing.
-> - _**Four Players**_. Reduce the damage to 1d6 bludgeoning and 2d6+1 piercing.
-> - _**Six Players**_. Increase the damage to 1d6 bludgeoning and 2d12+1 piercing.
+> - _**Trois Joueurs**_. Réduisez les dégâts à 1d6 contondants et 2d4+1 perforants.
+> - _**Quatre Joueurs**_. Réduisez les dégâts à 1d6 contondants et 2d6+1 perforants.
+> - _**Six Joueurs**_. Augmentez les dégâts à 1d6 contondants et 2d12+1 perforants.
 
 Cette pièce est largement conforme à la description donnée dans <span class="citation">Fosse à Piques Cachée (p. 218)</span>. Si les personnages entrent dans cette zone depuis les [[#Puits et Quartiers des Cultistes]], lisez :
 
@@ -998,10 +997,9 @@ _**Le Retour du Culte**_ Lorsque les joueurs atteignent pour la première fois l
 
 Les apparitions sont des illusions inoffensives et intangibles qui ne peuvent être endommagées, retournées ou dissipées. À la fin de chaque round, chaque joueur qui reste entre les apparitions doit réussir un jet de sauvegarde de Dextérité DD 10 ou subir 2 (1d4) dégâts contondants dus aux débris qui tombent.
 
-#TODO
-> [!combat]- **Balancing the Escape** This encounter is designed to be a threat for a party of five 2nd-level players. For parties of much smaller sizes, modify the encounter as follows:
-> 
-> - _**Three Players.**_ Reduce the damage per round to 1 bludgeoning.
+> [!combat]- **Équilibrer l'Évasion** 
+> Cette rencontre est conçue pour être une menace pour un groupe de cinq joueurs de niveau 2. Pour des groupes beaucoup plus petits, modifiez la rencontre comme suit :
+> - _**Trois Joueurs**_. Réduisez les dégâts par round à 1 contondant.
 
 # A3. Hors de la Funeste Demeure
 

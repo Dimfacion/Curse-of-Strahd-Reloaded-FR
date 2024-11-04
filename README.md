@@ -25,7 +25,7 @@ Cette traduction utilise massivement des traducteurs IA. Voici le flux de travai
 
 | Pages                                           | Traduit | Premier contrôle qualité | Deuxième contrôle qualité | Testé en situation réelle | Commentaires |
 | ----------------------------------------------- | ------- | ------------------------ | ------------------------- | ------------------------- | ------------ |
-| Version 2.0.8.3 et antérieur                    | 🚧      | 🚧                       | 🚧                        | 🚧                        |              |
+| Version 2.0.9.6 et antérieur                    | 🚧      | 🚧                       | 🚧                        | 🚧                        |              |
 | Acte I - Vers les Brumes                        | ✅<br>   | ✅                        | 🚧                        | 🚧                        |              |
 | [[Acte I Résumé]]                               | ✅       | ✅                        | ✅                         | ✅                         |              |
 | [[Arc A - L'Evasion de la Funeste Demeure]]     | ✅       | ✅                        | ✅                         | ✅                         |              |
@@ -51,7 +51,7 @@ Cette traduction utilise massivement des traducteurs IA. Voici le flux de travai
 | Appendices                                      | ✅       | ❌                        | ❌                         | ❌                         |              |
 | [[Eclats d'Ambre]]                              | ✅       | ❌                        | ❌                         | ❌                         |              |
 | [[Glossaire]]                                   | ✅       | ❌                        | ❌                         | ❌                         |              |
-| [[Personnages Non-Joueurs]]                     | ✅       | ❌                        | ❌                         | ❌                         |              |
+| [[Personnages Non-Joueurs]]                     | 🚧      | ❌                        | ❌                         | ❌                         |              |
 | Chapitre 1 - Démarrer la Campagne               | ✅       | ❌                        | ❌                         | ❌                         |              |
 | [[Création de Personnage]]                      | ✅       | ❌                        | ❌                         | ❌                         |              |
 | [[Session Zero]]                                | ✅       | ❌                        | ❌                         | ❌                         |              |

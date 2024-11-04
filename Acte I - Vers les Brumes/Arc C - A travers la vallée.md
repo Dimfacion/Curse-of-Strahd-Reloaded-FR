@@ -610,11 +610,10 @@ Si les joueurs acceptent la tâche de Madame Eva, elle hoche la tête avec appro
 
 Madame Eva refuse d'élaborer sur les lectures des joueurs ou de fournir des informations ou de l'aide supplémentaires. Si on le lui demande, elle dit seulement : "Les fils du Destin ne peuvent être appelés comme un serviteur ou conjurés comme un tour de magicien. Je ne vois que ce que les cartes me montrent, et rien de plus."
 
-#TODO
-Madam Eva declines to return with the players, preferring instead to linger at the crossroads. If asked why, she shares only that the place holds "special memories" for her, and that she will return to Tser Pool when she is ready. "Fear not," she rasps, a twinkle of amusement in her eyes. "I have little to fear from the creatures that prowl these woods, I assure you." If the players depart the crossroads and later return, they find that Madam Eva has vanished.
+Madame Eva refuse de retourner avec les joueurs, préférant s'attarder au carrefour. Si on lui demande pourquoi, elle partage seulement que l'endroit contient des "souvenirs spéciaux" pour elle, et qu'elle retournera au Bassin de Tser quand elle sera prête. "Ne craignez rien," murmure-t-elle, une lueur d'amusement dans les yeux. "Je n'ai pas grand-chose à craindre des créatures qui rôdent dans ces bois, je vous l'assure." Si les joueurs quittent le carrefour et y reviennent plus tard, ils découvrent que Madame Eva a disparu.
 
-> [!lore]+ **Why Madam Eva Remains** 
-> Adventurers who sought to kill Strahd are not the only ones buried at this cemetery. Madam Eva's mother, the Vistana with whom King Barov II had an affair, is buried in the woods a short distance away from the gallows. (It is common for Vistani to bury their dead at crossroads, believing that doing so frees the spirit to guide others who follow the paths they once traveled.)
+> [!lore]+ **Pourquoi Madame Eva Reste** 
+> Les aventuriers qui ont cherché à tuer Strahd ne sont pas les seuls à être enterrés dans ce cimetière. La mère de Madame Eva, la Vistani avec qui le Roi Barov II a eu une liaison, est enterrée dans les bois à une courte distance du gibet. (Il est courant pour les Vistani d'enterrer leurs morts aux carrefours, croyant que cela libère l'esprit pour guider d'autres qui suivent les chemins qu'ils ont autrefois parcourus.)
 
 **_Étape_**. Recevoir la lecture du Tarokka complète une étape de l'histoire. Lorsque le groupe sort de la tente de Madame Eva, accordez 500 XP à chaque joueur.
 
@@ -667,43 +666,42 @@ Le voyage du carrefour de la rivière Ivlis aux Chutes de Tser fait douze kilom�
 
 ## C7a. Le Ravin
 
-#TODO
-As the players continue down the road, read:
+Alors que les joueurs continuent le long de la route, lisez :
 
 Vous continuez le long de la route de montagne sinueuse, les pics acérés se dressant de façon menaçante dans le brouillard bien au-dessus de vous.
 
 L'air se refroidit alors que la route traverse une sombre forêt de conifères, le couvert dense bloquant de nouveau une grande partie de la faible lumière du ciel. Ici, la route se rétrécit, ses bords surplombant des pentes raides et rocheuses en contournant un éperon montagneux. Les seuls sons qui vous suivent sont le craquement des feuilles mortes et un bruissement occasionnel dans le sous-bois.
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+Si l'un des joueurs a un score de Sagesse (Perception) passive de 14 ou plus, ou si l'un des joueurs réussit un test de Sagesse (Perception) DD 14, ajoutez :
 
 Alors que vos pas s'enfoncent dans l'ancienne route boueuse, vous apercevez un mouvement dans le sous-bois : un éclat de fourrure grise, des yeux ambrés et des crocs blancs et acérés. Puis, aussi vite qu'il est apparu, il disparaît, se glissant dans les ombres.
 
-Le mouvement appartient à un loup, qui se retire rapidement dans les bois. Ses quatre compagnons de meute ne sont pas loin derrière, maintenant une distance de deux cents pieds alors qu'ils traquent les joueurs à travers les bois.
+Le mouvement appartient à un **loup**, qui se retire rapidement dans les bois. Ses quatre compagnons **loups** de meute ne sont pas loin derrière, maintenant une distance de deux cents pieds alors qu'ils traquent les joueurs à travers les bois.
 
-If the players continue, read:
+Si les joueurs continuent, lisez :
 
 Alors que la route contourne le bord de la montagne, les falaises à droite s'effacent, laissant place à une chute abrupte vers un ravin boisé en contrebas. La route, désormais large d'à peine trois mètres, tourne un peu plus loin, rebroussant chemin autour de ce ravin avant de plonger dramatiquement pour serpenter autour d'un sommet plus petit.
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+Si l'un des joueurs a un score de Sagesse (Perception) passive de 14 ou plus, ou si l'un des joueurs réussit un test de Sagesse (Perception) DD 14, ajoutez :
 
 Vous voyez trois ombres grises se faufiler dans le sous-bois devant vous. Deux autres apparaissent brièvement à la limite de votre vision, juste derrière vous.
 
-If one of the players has a passive Wisdom (Perception) score of 18 or higher, or if one of the players makes a successful DC 18 Wisdom (Perception) check, add:
+Si l'un des joueurs a un score de Sagesse (Perception) passive de 18 ou plus, ou si l'un des joueurs réussit un test de Sagesse (Perception) DD 18, ajoutez :
 
 Un sixième loup se dissimule dans le ravin à une quinzaine de mètres plus bas, suivant vos mouvements en se fondant dans les ombres des rochers.
 
-If the players pause, proceed, or attack, the five wolves in the woods strike. Read:
+Si les joueurs s'arretent, continuent ou attaquent, les cinq loups dans les bois attaquent. Lisez :
 
 Cinq ombres grondantes surgissent du sous-bois, crocs découverts et griffes tendues !
 
-> [!combat]- **Balancing the Wolves**  
+> [!combat]- **Equilibrer les loups**  
 > Cette rencontre est un affrontement sanglant contre un groupe de cinq joueurs de niveau 3, avec un allié de ND 1 (Ireena Kolyana), deux alliés de ND 1/4 (des nuées de corbeaux) et un allié de ND 0 (Muriel sous forme de corbeau), et consommera environ 58 % de leurs points de vie maximum au total. Pour des groupes de tailles différentes, modifiez la rencontre comme suit :
 > 
 > - **Trois joueurs** : Réduisez le nombre de loups à 3.
 > - **Quatre joueurs** : Réduisez le nombre de loups à 4.
 > - **Six joueurs** : Réduisez le nombre de loups à 1 et augmentez le nombre de loups-garous à 2.
 
-Replace the wolves' bite attack with the following action options:
+Remplacez les **morsure** par les actions suivantes :
 
  - **Mutilation.** Attaque d’arme au corps à corps : +4 pour toucher, portée de 1,5 mètre, une cible. Touché : 7 (2d4 + 2) dégâts perforants. Au lieu d’infliger des dégâts, le loup peut agripper la cible (DD 11 pour échapper).
  - **Griffes.** Attaque d’arme au corps à corps : +4 pour toucher, portée de 1,5 mètre, une cible. Touché : 6 (1d8 + 2) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force (DD 11). En cas d’échec, elle est projetée à terre ou repoussée de 1,5 mètre (au choix du loup).
@@ -714,12 +712,12 @@ Un joueur qui tombe dans le ravin dévale une pente de 15 mètres, subissant 17 
 
 Dès qu’un joueur tombe dans le ravin, le reste de la meute fuit dans les bois, puis descend dans le ravin par un autre chemin pour aider le sixième loup à tirer sa proie. La meute s'enfuit si quatre des six loups sont tués.
 
-> [!info]+ **Descending Into the Ravine**  
+> [!info]+ **Descendre dans le Ravin**  
 > Un joueur tentant de monter ou descendre le bord du ravin doit réussir un test de Force (Athlétisme) de difficulté 10. En cas de succès, le personnage se déplace à moitié vitesse vers le haut ou le bas du ravin, selon son intention. Sur un résultat de 6 à 9, le personnage ne progresse ni ne recule ; sur un résultat de 5 ou moins, le personnage tombe et subit 1d6 dégâts de chute par tranche de 3 mètres de chute, atterrissant à terre au fond du ravin.
 
-As the players depart this area, a player with a passive Wisdom (Perception) score of 13 or greater notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 20 Wisdom (Insight) check discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
+Alors que les joueurs quittent cette zone, un joueur avec un score de Sagesse (Perception) passive de 13 ou plus remarque deux loups, légèrement plus grands que les autres, qui les observent depuis le sommet d'un escarpement montagneux à l'est qui s'élève au-dessus de la cime des arbres. Un joueur qui réussit un test de Sagesse (Perspicacité) DD 20 discerne que les loups semblent les observer avec une intelligence patiente inhabituelle pour un loup. Les loups se retournent et disparaissent de vue s'ils sont remarqués ou si on interagit avec eux.
 
-> [!lore]+ **The Watching Wolves**  
+> [!lore]+ **Les éclaireurs loups**  
 > Les deux loups sont des loups-garous sous forme de loup. Brutes sanguinaires fidèles à Kiril Stoyanovich et Strahd von Zarovich, ils réapparaîtront pour traquer les joueurs dans **[[#C11. La Chasse des Loups-Garous]]**.
 
 ## C7b. Les Chutes de Tser
