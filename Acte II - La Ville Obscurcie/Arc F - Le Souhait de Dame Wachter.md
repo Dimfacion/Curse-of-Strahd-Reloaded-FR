@@ -126,6 +126,8 @@ Lady Wachter peut également répondre aux questions des joueurs comme suit :
 > - **_Argynvostholt._** Lady Wachter partage les informations dans <span class="citation">Légendes de Vallaki (p. 96)</span>.
 > - _**Le Temple d'Ambre.**_ Lady Wachter peut partager qu'elle a entendu parler d'un "ordre de chevaliers" qui habitait le manoir abandonné à l'ouest, dont on disait qu'il gardait un endroit appelé le "Temple d'Ambre." (Elle a appris cela de son mentor, la sorcière des marais Baba Lysaga, qu'elle ne désigne que sous le nom de "Lysa.") Cependant, elle n'en sait pas davantage.
 > - **_La Meute de Loups-garous._** "Un assortiment non civilisé de brutes assoiffées de sang. Leur agressivité s'est intensifiée ces derniers temps, je le crains, mais les murs de Vallaki et l'argent nous ont gardés en sécurité." (Lady Wachter ne sait pas où se trouve la tanière de la meute, et n'en sait pas assez pour spéculer.)
+
+
 > [!lore]+ **Qui est Lysa ?**
 > 
 > La véritable identité de "Lysa" est Baba Lysaga, la sorcière des marais de <span class="citation">Chapitre 10 : Les Ruines de Berez (p. 161)</span>. L'histoire de Fiona est vraie — jeune femme, elle s'est enfuie de chez elle et a trouvé refuge auprès de Baba Lysaga. Pendant six mois, elle a rejoint les rangs des sorcières en formation de Lysaga, dont beaucoup servent maintenant au plaisir de Strahd dans <span class="citation">K56. Chaudron</span> (p. 72) au Château Ravenloft. Durant cette période, Fiona a lutté sous le tutorat de Lysaga pour "entendre la voix" de Mère Nuit, une tâche qu'elle n'a finalement jamais réussie.
@@ -231,7 +233,7 @@ Si les joueurs insistent sur le fait que Madame Eva a prévu l'existence de l'_�
 > [!design]- **Notes de Conception : L'Arc de Lady Wachter** 
 > Lady Wachter est d'abord présentée comme une alliée cynique, mais serviable. Alors que les joueurs l'aident à libérer Vallaki de la tyrannie d'Izek, et plus tard l'aident à restaurer l'âme de sa fille dans [[Arc H - L'Âme Perdue]], Lady Wachter devient progressivement moins cynique et plus ouverte à l'espoir d'un avenir meilleur.
 > 
-> L'allumage du phare d'Argynvostholt par les joueurs dans [[Arc Q - Une Lumière dans les Ténèbres]] inspire à Lady Wachter l'espoir d'un avenir sans Strahd von Zarovich. Elle devient une alliée inébranlable dans la lutte contre Strahd après que les joueurs obtiennent l'_Épée Solaire_ dans [[Arc S - Le Temple d'Ambre]].
+> L'allumage du phare d'Argynvostholt par les joueurs dans [[Arc Q - A Shining Beacon]] inspire à Lady Wachter l'espoir d'un avenir sans Strahd von Zarovich. Elle devient une alliée inébranlable dans la lutte contre Strahd après que les joueurs obtiennent l'_Épée Solaire_ dans [[Arc S - Le Temple d'Ambre]].
 
 **_Accepter la Mission._** Si les joueurs acceptent la mission de Lady Wachter, elle promet qu'elle enverra l'un de ses associés les informer de l'emploi du temps d'Izek Strazni — et fournir la bouteille de vin empoisonné — le lendemain matin.
 
@@ -356,11 +358,14 @@ Si les joueurs demandent la vérité derrière la poupée à l'effigie d'Ireena,
 
 Si Ireena a accompagné les joueurs jusqu'au lac, Izek lui ordonne de se mettre à l'écart pendant qu'il "apprend les bonnes manières à ces vers". S'il est défié, il grogne de rage.
 
+![[Lake-Zarovich_Izek-Encounter_4k_NoGrid_40x30_102PPI_Gloom_Fog.jpg]]
+<span class="credit">"Lake Zarovich" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/29a5db8e9c/">here!</a></span>
+
 > [!warning]+ **Izek Empoisonné** 
 > N'oubliez pas qu'Izek reste **empoisonné** tant que l'effet dure. Changer de forme ne supprime pas cette condition (ni aucune autre).
 
 > [!warning]+ **N'Utilisez Pas de Tactiques !** 
-> Tous les ennemis dans ce guide, y compris les monstres de boss, ont été minutieusement testés et équilibrés en utilisant le système de construction de rencontre Challenge Ratings 2.0. Toutes les rencontres de boss majeurs, y compris le combat en deux phases avec l'**amas de chair**, ont été calibrées pour consommer la plupart ou la totalité des points de vie des joueurs, afin de créer un combat dangereux et passionnant.
+> Tous les ennemis dans ce guide, y compris les monstres de boss, ont été minutieusement testés et équilibrés en utilisant le système de construction de rencontre Challenge Ratings 2.0. Toutes les rencontres de boss majeurs ont été calibrées pour consommer la plupart ou la totalité des points de vie des joueurs, afin de créer un combat dangereux et passionnant.
 >
 > Cependant, ces blocs de statistiques de boss ont suffisamment de points de vie et infligent suffisamment de dégâts par round (DPR) pour s'assurer qu'ils peuvent présenter une menace appropriée sans tactiques ou stratégies spéciales. Dans la mesure où de telles stratégies existent, elles ont été intégrées dans le bloc de statistiques et ne nécessitent pas de stratégie supplémentaire de la part du Maître du Donjon.
 > 
@@ -489,7 +494,7 @@ Si Ireena a accompagné les joueurs jusqu'au lac, Izek lui ordonne de se mettre 
 > - **_Quatre Joueurs._** Réduisez les points de vie d'Izek à 92 dans chaque phase. Pour sa première phase, réduisez son attaque de hache de bataille argentée à 9 (1d8+5) dégâts, son attaque de jet de flamme et son action bonus de volée de flammes à 5 (1d10) dégâts, et son action bonus de tourbillon tranchant à 4 (1d8) dégâts. Pour sa deuxième phase, réduisez son attaque de hache de bataille argentée à 8 (1d6+5) dégâts tranchants plus 1 dégât de feu, son attaque de coup brûlant à 7 (1d4+5) dégâts contondants plus 1 dégât de feu, son action de vague enflammée à 9 (2d8) dégâts, ses actions bonus d'explosion de flammes et d'explosion explosive à 6 (1d12) dégâts, sa réaction de brûlure de représailles à 3 (1d6) dégâts de feu, et sa réaction d'étincelles de braise à 1 dégât de feu.
 > - **_Six Joueurs._** Augmentez les points de vie d'Izek à 128 dans chaque phase. Pour sa première phase, augmentez son attaque de hache de bataille argentée à 11 (1d12+5) dégâts et son action bonus de tourbillon tranchant à 6 (1d12) dégâts. Pour sa deuxième phase, augmentez son attaque de hache de bataille argentée à 10 (1d10+5) dégâts tranchants plus 2 (1d4) dégâts de feu, son attaque de coup brûlant à 9 (1d8+5) dégâts contondants plus 2 (1d4) dégâts de feu, son action de vague enflammée à 13 (2d12) dégâts, et sa réaction de brûlure de représailles à 5 (1d10) dégâts de feu.
 
-Si les joueurs fouillent le corps d'Izek après sa mort, ils peuvent récupérer sa hache de bataille argentée, une bourse contenant 35 po, et un éclat d'ambre de Seriach, le Maître des Chiens des Enfers. (Voir l'annexe **Éclat d'Ambre** pour plus d'informations sur les éclats d'ambre.)
+Si les joueurs fouillent le corps d'Izek après sa mort, ils peuvent récupérer sa hache de bataille argentée, une bourse contenant 35 po, et un éclat d'ambre de Seriach, le Maître des Chiens des Enfers. (Voir l'annexe [[Eclats d'Ambre]] pour plus d'informations sur les éclats d'ambre.)
 
 # F5. Conséquences de la Mission
 
@@ -568,7 +573,7 @@ La liste de sorts de Lady Wachter a été mise à jour pour inclure _zone de vé
 
 _Glas_, _Fléau_, _Cécité/Surdité_, et _Restauration inférieure_ ont également été ajoutés à la liste de sorts de Lady Wachter pour lui fournir des options supplémentaires dans le combat contre les **spectres** du Plan Éthéré et l'esprit de Leo Dilisnya dans [[Arc H - L'Âme Perdue]].
 
-L'introduction de Stella a été ajoutée comme prélude au dîner pour humaniser Lady Wachter et encourager les joueurs à éprouver de la sympathie pour elle, et pour préfigurer le destin de Stella dans [[Arc I - L'Âme Perdue.]]
+L'introduction de Stella a été ajoutée comme prélude au dîner pour humaniser Lady Wachter et encourager les joueurs à éprouver de la sympathie pour elle, et pour préfigurer le destin de Stella dans [[Arc H - L'Ame Perdue]]
 
 La connexion de Lady Wachter avec Baba Lysaga et la mort tragique de sa famille ont été ajoutées pour lui fournir un lien avec l'esprit de Leo Dilisnya, et un moyen de piéger les sorcières du Vieux Bonegrinder dans [[Arc I - L'Âme Perdue]].
 

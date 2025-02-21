@@ -59,7 +59,7 @@ L'église est largement comme décrite dans <span class="citation">N1. Église d
 > 
 > Vestige d'une époque révolue, Volenta savait que les restes de Saint Andral procuraient à l'église sa protection bénie. Elle ordonna à Henrik de trouver et de voler ces ossements avant la nuit de la Fête de Saint Andral - par tous les moyens nécessaires.
 > 
-> Étant donné sa profession, Henrik avait rencontré Milivoj - le gardien de l'église - à plus d'une occasion. Il savait que Milivoj connaissait bien les occupants et la disposition de l'église, que Milivoj pensait peu de la foi du Seigneur de l'Aube, et - plus important encore - que Milivoj avait une foule de jeunes frères et sœurs qu'il était désespéré de nourrir.
+> Étant donné sa profession, Henrik avait rencontré Milivoj-le gardien de l'église-à plus d'une occasion. Il savait que Milivoj connaissait bien les occupants et la disposition de l'église, que Milivoj pensait peu de la foi du Seigneur de l'Aube, et - plus important encore - que Milivoj avait une foule de jeunes frères et sœurs qu'il était désespéré de nourrir.
 > 
 > Puisant dans ses propres économies pour se financer, Henrik approcha Milivoj avec une histoire et une offre. Saint Andral, prétendit Henrik, était un ancêtre de la propre famille d'Henrik - et un dont Henrik était anxieux de réclamer les restes. "En ces temps sombres," dit Henrik solennellement, "nous voulons tous que nos familles soient à portée de main."
 > 
@@ -339,7 +339,7 @@ Volenta utilise les deux rejetons de vampire avec elle comme couverture, les pla
 > **Six Joueurs.*** Augmentez le nombre de rejetons de vampire à trois.
 
 > [!warning]+ **Lumière du soleil à Barovia** 
-> N'oubliez pas que les vampires et autres créatures à Barovia ne sont pas affectés par la lumière du soleil, comme décrit dans <span class="citation">Lumière du soleil à Barovia (p. 24)</span>.
+> N'oubliez pas que les vampires et autres créatures de Barovie ne sont pas affectés par la lumière du soleil, comme décrit dans <span class="citation">Lumière du soleil à Barovia (p. 24)</span>.
 
 > [!warning]+ **Les Vampires ne sont pas Humanoïdes** 
 > N'oubliez pas que les **rejetons de vampire**, y compris Volenta, ont le type **mort-vivant**, plutôt que le type **humanoïde**. En tant que tels, les sorts et effets qui ne ciblent que les humanoïdes, comme _immobilisation de personne_, ou qui ne peuvent pas affecter les morts-vivants, comme _injonction_, n'ont aucun effet sur Volenta et les vampires qui l'accompagnent.
@@ -447,7 +447,7 @@ Volenta utilise les deux rejetons de vampire avec elle comme couverture, les pla
    <p><strong><em>Frénésie sanguinaire.</em></strong> Volenta a un avantage aux jets d'attaque au corps à corps contre toute créature qui n'a pas tous ses points de vie.</p>
    <h3>Actions</h3>
    <p><strong><em>Attaques multiples.</em></strong> Volenta effectue deux attaques, dont une seule peut être une attaque de morsure.</p>
-   <p><strong><em>Morsure.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 au toucher, portée 1,5 m, une créature consentante, ou une créature agrippée par Volenta, incapable d'agir ou entravée. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis, et Volenta récupère un nombre de points de vie égal à ce montant. La réduction dure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.</p>
+   <p><strong><em>Morsure.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 pour toucher, portée 1,5 m, une créature consentante, ou une créature qui est agrippée par Volenta, incapable d'agir ou entravée. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis, et Volenta récupère un nombre de points de vie égal à ce montant. La cible meurt si cet effet réduit son maximum de points de vie à 0. Chaque fois que la cible termine un repos long sans être mordue à nouveau, elle peut lancer un de ses dés de vie et ajouter son modificateur de Constitution. Le maximum de points de vie de la cible augmente d'un montant égal au résultat. (Cette augmentation ne peut pas faire monter les points de vie de la cible au-dessus de son maximum d'origine.)</p>
    <p><strong><em>Griffes.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 au toucher, portée 1,5 m, une créature. <em>Touché :</em> 8 (2d4 + 3) dégâts tranchants. Au lieu d'infliger des dégâts, Volenta peut agripper la cible (évasion DD 13).</p>
    <h3>Actions bonus</h3>
    <p><strong><em>Bond.</em></strong> Volenta se déplace jusqu'à sa vitesse sans provoquer d'attaques d'opportunité. Ce faisant, elle peut remplacer 3 mètres de mouvement par un saut en hauteur de 3 mètres.</p>

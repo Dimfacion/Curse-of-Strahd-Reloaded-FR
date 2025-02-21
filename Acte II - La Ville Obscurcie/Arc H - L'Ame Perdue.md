@@ -32,7 +32,7 @@ Si les joueurs réussissent à obtenir un cœur-de-pierre par l'assaut ou la né
 > 
 > Ni Stella ni Victor ne pouvaient le savoir, mais les Brumes de Barovia formaient une barrière métaphysique unique contre le cercle de téléportation de Victor. Le sort a échoué - et le contrecoup psychique a brièvement exposé l'âme de Stella aux énergies brutes du Plan Éthéré.
 > 
-> Là, l'esprit vengeur de Leo Dilisnya, un **orateur des potences** attiré par le signal magique du sort de Victor, a senti la présence de son ancien ennemi et a frappé, séparant l'âme de Stella de son corps.
+> Là, l'esprit vengeur de Leo Dilisnya, un **orateur des gibets** attiré par le signal magique du sort de Victor, a senti la présence de son ancien ennemi et a frappé, séparant l'âme de Stella de son corps.
 > 
 > Avant que Leo ne puisse la tuer, cependant, le fantôme d'Erasmus van Richten l'a rapidement emmenée, la dissimulant à sa vue.
 > 
@@ -146,7 +146,7 @@ Si les joueurs manifestent leur intérêt, Victor est ravi de leur prêter son e
 > Pour combattre leurs natures intrinsèquement égoïstes, les guenaudes d'un sabbat doivent conclure un contrat écrit avec les autres, signé du vrai nom de chaque guenaude. Les guenaudes d'un sabbat gardent jalousement leur contrat, le scellant souvent au cœur de leur repaire, toujours prudentes pour empêcher leurs noms de tomber entre les mains ennemies.
 
 >[!info]+ **Récolte des Araignées de Phase** 
->Les joueurs rencontreront plus tard des **araignées de phase** à Argynvostholt et auront l'opportunité de récolter leurs crocs et leur venin pour combattre les **guerriers fantômes** qui rôdent là-bas. Voir [[Arc M - Le Phare d'Argynvost#M4c. Salle de Bal des Araignées|Arc M - Le Manoir au Dragon]] pour plus d'informations concernant la récolte et l'utilisation des parties d'araignées de phase.
+>Les joueurs rencontreront plus tard des **araignées de phase** à Argynvostholt et auront l'opportunité de récolter leurs crocs et leur venin pour combattre les **guerriers fantômes** qui rôdent là-bas. Voir [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom]] pour plus d'informations concernant la récolte et l'utilisation des parties d'araignées de phase.
 # H3. Le Camp des Réfugiés
 
 Si cela fait au moins six heures depuis l'inauguration de Dame Wachter dans [[Arc F - Le Souhait de Dame Wachter]], le camp de réfugiés a été relocalisé vers <span class="citation">N8. Place de la Ville (p. 119)</span>. (Les réfugiés vivent toujours sous des tentes, cependant, pendant que Dame Wachter travaille à leur trouver un logement convenable.)
@@ -810,536 +810,526 @@ Si Morgantha abandonne les joueurs dans le grenier du moulin, ils sont approché
 - Dame Wachter, ses cultistes et (s'il n'a pas été capturé) [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] sont cachés dans un bosquet à courte distance du moulin. Ils sont heureux d'aider les joueurs à s'échapper si possible, bien que Dame Wachter ne soit pas confiante dans leur capacité à affronter les guenaudes en combat ouvert.
 - Pendant qu'il est là, Majesto est heureux de servir comme distraction ou coup de main, selon ce dont les joueurs ont besoin. (Majesto est cependant assez égoïste et refusera toute action qui pourrait mener à sa mort - malgré la capacité de Dame Wachter à le réinvoquer - à moins que les joueurs ne lui rappellent leur mission de sauver Stella Wachter et réussissent un test de Charisme (Persuasion) DD 15.)
 
-Every twenty minutes, two of the six **dretches** guarding the players return to the barrel of ichor and dissolve, whereupon Morgantha knocks on the barrel, summoning them anew, and sends them back to guard the players. (This “recycling” process takes approximately five minutes each time.)
+Toutes les vingt minutes, deux des six **dretchs** qui gardent les joueurs retournent au baril d'ichor et se dissolvent, après quoi Morgantha frappe sur le baril, les invoquant à nouveau, et les renvoie garder les joueurs. (Ce processus de "recyclage" prend environ cinq minutes à chaque fois.)
 
-Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
+Peu après le crépuscule, Morgantha disparaît du moulin, entrant dans le Plan Éthéré pour tourmenter Franz dans le camp des réfugiés baroviens. Bella et Offalia restent dans **O3. Chambre** pour garder Myrtle et Fyodor, les tourmentant avec des récits de leur mort imminente et terrible pour passer le temps.
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Contrairement à leur mère, Bella et Offalia sont facilement distraites. Elles peuvent être attirées vers <span class="citation">O2. Le Moulin à Os (p. 127)</span> ou <span class="citation">O4. Le Grenier en Dôme (p. 127)</span> avec un test réussi de Charisme (Représentation) DD 13 et n'importe quel moyen raisonnablement pertinent (par exemple, un sort de _illusion mineure_). Si secourus, Fyodor et Myrtle n'ont aucune connaissance particulière d'Ireena ou Ismark, et souhaitent seulement être rendus à leur père, Franz.
 
-If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
-### Finding a Cure
-As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease of cackle fever can be cured in one of two ways:
+Si les joueurs ne s'échappent pas et ne sauvent pas Myrtle et Fyodor avant minuit, Morgantha revient peu après et utilise ses actions de repaire pour endormir les enfants. Bella et Offalia leur tranchent alors la gorge, les écorchent et broient leurs os entre les meules dans **O2. Le Moulin à Os**. Pendant ce temps, les pales du moulin tournent, fouettant l'air glacial de la nuit au sommet de la colline tandis que les guenaudes accomplissent leur sinistre besogne.
+### Trouver un Remède
 
-* By making successful Constitution saving throws each night until the saving throw DC for the disease drops to 0.
-* By using magic capable of curing diseases, such as a paladin’s ***lay on hands*** or a **deva’s** ***healing touch.***
+Comme indiqué dans **Fièvre du Rire** (_Guide du Maître_, p. 257), la maladie de la fièvre du rire peut être guérie de deux façons :
 
-> [!info]+ **If the Players Escape**
->
-> If Bella or Offalia find that the players and children have successfully escaped Old Bonegrinder, the two hags split up to search the woods around the windmill, desperate to avoid Morgantha’s wrath when she learns that her playthings have been lost. If attacked, however, Bella and Offalia immediately withdraw into the Ethereal Plane and return to the windmill to await their mother’s instructions.
->
-> That night, and each night thereafter, the three hags scry the players’ current location, using hair clippings taken from one of the players while they were unconscious in the attic.
->
-> Whenever the coven successfully scries the players’ location, the hags proceed to use their **_nightmare haunting_** features on three separate players. As they do, the hags whisper through the nightmares that the players can end their torment by returning Fyodor and Myrtle to the windmill. (If the players do so, the hags honor their word and cease haunting the party thereafter.)
+- En réussissant des jets de sauvegarde de Constitution chaque nuit jusqu'à ce que le DD du jet de sauvegarde pour la maladie tombe à 0.
+- En utilisant de la magie capable de guérir les maladies, comme l'_**imposition des mains**_ d'un paladin ou le _**toucher guérisseur**_ d'un **déva**.
 
-The players can identify these remedies, as well as the symptoms of cackle fever, with a successful DC 15 Wisdom (Medicine) check or by asking Lady Wachter for a diagnosis.
-
-Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]], [[Personnages Non-Joueurs#Urwin Martikov|Urwin Martikov]], [[Personnages Non-Joueurs#Danika Dorakova|Danika Dorakova]], and [[Personnages Non-Joueurs#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
-
-If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
-# H8. The Ritual
-Once the players have obtained a *heartstone*, they will need a location at which to perform the *etherealness* and restoration rituals, which must take place on the night of the full moon. 
-![[Heartstone.png]]
-<span class="credit">"Heartstone" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
-
-If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
-
-The inside of the chamber is largely as described in **N4t. Cult Headquarters**. However, modify the descriptive text to read as follows:
-
-<div class="description">
-<p>Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair.</p>
-<p>Thousands of gouges and scratches line the stone walls around the circle, many stained with faded blood centuries old. The far wall of the chamber bears a three-foot tall carving of a dagger with a curved hilt, with the phrase <em>In Silence, Death</em> carved in twelve-inch letters immediately below it. As you take in the scratches along the walls and ceiling, you notice that most form a particular word, endlessly repeated in the ancient stonework: <em>Traitor.</em></p>
-</div>
-
-![[Leo's Dagger.png]]
-<span class="credit">"Leo's Dagger" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-Leo Dilisnya used his vampiric claws to carve these words and images into the stone. The phrase “In Silence, Death” is the motto of the Ba’al Verzi, the secret assassins’ guild to which Leo belonged.
-
-Lady Wachter can inform the players that, when she was a child, her parents warned her of a monster that dwelled in the cellar: a terrible creature of ancient hungers and hatreds that longed to be set free. When she inherited the estate following her family’s deaths and descended to the basement, however, Lady Wachter found the room to be empty, with no evidence of any creature but the scratches on the walls. 
-
-Lady Wachter has been unable to remove the scratches and carvings, despite her best efforts. Though she has no great love for the chamber, she has confirmed that the carvings and stones conceal no magic or hostile creatures, and has found it to be a useful and indispensably secure location.
-## H8a. The *Etherealness* Ritual
-<span class="citation"><em>This scene takes place in Chapter 5: Area N4t.</em></span>
-
-If Lady Wachter is not with the players, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] expresses surprise at the presence of the pentagram, noting with some awe that he could easily repurpose it for the purposes of the *etherealness* ritual. If [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] is with the players, she offers the pentagram for use in the ritual, which Victor gladly accepts.
-
-Victor then places the *heartstone* at the center of the pentagram and directs the players to stand just inside the edge of the pentagram circle. If Lady Wachter is with the players, she rolls up her sleeves and enters the circle with them. If challenged, she gives the players a cool, steely look and says, “Of course I’m coming to get my little girl.”
-
-> [!abstract]+ **Fiona's Absence**
-> If the players attempt the ritual without Lady Wachter's assistance, the *etherealness* ritual fails. However, the disturbance draws Lady Wachter to the scene, where she can inform the players—if told and persuaded of their mission—that Wachterhaus's protective circle must first be lowered in order to allow creatures to pass into and out of the Ethereal Plane.
-
-When the players are ready to begin, Victor retrieves his copy of *Ethereal Entities* from a pocket in his cloak, using his *mage hand* spell to hold it open before him. Read:
-
-<div class="description">
-<p>Victor stands just inside the edge of the runic circle, his head bowed as he reads aloud from the old tome that floats before him. Though his right hand shakes and trembles, his left is steady and precise as he draws delicate patterns through the musty air, leaving spiraling trails of pale white light in his finger's wake.</p>
-<p>He begins to chant under his breath—slowly, at first, then slowly rising in volume and speed. At the center of the circle, the hag's heartstone seems to hum with a subsonic energy that you feel rather than hear.</p>
-<p>Suddenly, you feel it—a deep shudder of the world beneath your feet, as if the stone floor had momentarily rippled like quicksilver. A thin, white light, mottled with black, inky shadow begins to shine forth from the cracks between the cobblestones, pulsing as if beating in time to a deep, distant heart.</p>
-<p>The heartstone trembles, then snaps to a perfect, unnatural angle, perfectly perpendicular to the ground below. Its obsidian sheen is replaced by a spectral luminescence that flickers in rhythm with the words of the ritual. Victor's voice grows louder, stronger, ringing clearly through the air as the world seems to quiet around him, the air bending closer as if to listen.</p>
-<p>The heartstone begins to lift into the air, its surface flashing with a brilliant pearlescence. Even as it does, however, mist roils at the corners of the room, inaudible whispers echoing from its wispy depths. The room begins to quake, the brightness beneath the stone floor flickering between shadow and light.</p>
-<p>Suddenly, a dark shadow flashes across the walls—a wispy, humanoid shape. It is tall, gaunt, and hooded, its limbs unnaturally long as it reaches its dark claws out toward the circle. Sweat beads across Victor's forehead and his voice quavers, nearly slipping. But he continues to read, his left hand a blur of motion and light as the ritual reaches a crescendoing peak.</p>
-<p>Victor's voice cuts through the air, uttering a final, triumphant syllable. The clawed shadow vanishes—just as the arcane power in the air surges.</p>
-<p>The next moment is not so much a step as a lurch, a sensation like being jerked forward by your navel. Your vision warps as if you've plunged underwater, and you can feel your form shifting and rising into the air, like drifting in a dream.</p>
-<p>And then—the disorientation ends, and the world settles back into place. The chamber around you remains, but now it seems ethereal, faded, and near-translucent. The air around you feels thinner, almost intangible, and clouds of silver-gray mist hang like veils in every direction.</p>
-</div>
-
-The players have arrived in the Ethereal Plane. 
-
-Neither Victor nor Lady Wachter know what the dark shadow was, though Victor can confirm that it appeared to be attempting to interfere with the ritual somehow. There’s no sign of it now, however.
-
-> [!info]+ **Welcome to the Ethereal Plane**
->
-> While the players are in the Ethereal Plane, the following rules govern their vision and movement:
->
-> - All solid objects in the Material Plane, such as furniture and walls, have a translucent, semi-intangible reflection in the Ethereal Plane. Moving the object in the Ethereal Plane moves the object in the Material Plane as well.
-> - Walls and other solid objects reflected in the Ethereal Plane provide light obscurement and half-cover to creatures behind them. A creature in the Ethereal Plane can move through those reflections as if they were difficult terrain, but take 5 (1d10) force damage if it ends its turn inside an object.
-> - A creature in the Ethereal Plane gains a fly (hover) speed equal to its normal speed.
+> [!info]+ **Si les Joueurs s'Échappent**
 > 
-> In addition, incorporeal creatures such as **ghosts** or **specters** become corporeal while in the Ethereal Plane, and lose any damage resistances to acid, cold, fire, lightning, thunder, bludgeoning, piercing, or slashing damage. (These creatures can still pass through the ghostly reflections of objects in the Ethereal Plane, like any other creature.)
-## H8b. The Restoration Ritual
-After a few moments have passed, the players hear a teenaged girl's voice behind them, joyous and triumphant as it exclaims, "*Victor!*"
-
-The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who floats down to the players from ten feet above the ground. Stella appears largely as she does in life, though her body is translucent and her legs below the knees have begun to fade into mist.
-
-> [!profile]+ **Stella Wachter**
-> **Roleplaying Information.**
-> ***Resonance.*** Stella should inspire sympathy for her guilt over causing such anxiety and pain to her family and Victor; endearment for her chipper, optimistic attitude; and gratitude for her steadfast faith in the players.
+> Si Bella ou Offalia découvrent que les joueurs et les enfants se sont échappés avec succès du Vieux Moulin à Os, les deux guenaudes se séparent pour fouiller les bois autour du moulin, désespérées d'éviter la colère de Morgantha quand elle apprendra que ses jouets ont été perdus. Si elles sont attaquées, cependant, Bella et Offalia se retirent immédiatement dans le Plan Éthéré et retournent au moulin pour attendre les instructions de leur mère.
 > 
-> ***Emotions.*** Stella most often feels curious, excited, apprehensive, thoughtful, cheerful, or determined.
+> Cette nuit-là, et chaque nuit par la suite, les trois guenaudes scrutent la position actuelle des joueurs, utilisant des mèches de cheveux prélevées sur l'un des joueurs pendant qu'ils étaient inconscients dans le grenier.
 > 
-> ***Motivations.*** Stella wants to help Victor master his magic and help her family escape Barovia.
+> Chaque fois que le sabbat réussit à scruter la position des joueurs, les guenaudes procèdent à utiliser leurs traits de **_tourment cauchemardesque_** sur trois joueurs différents. Ce faisant, les guenaudes murmurent à travers les cauchemars que les joueurs peuvent mettre fin à leur tourment en ramenant Fyodor et Myrtle au moulin. (Si les joueurs le font, les guenaudes honorent leur parole et cessent de hanter le groupe par la suite.)
+
+Les joueurs peuvent identifier ces remèdes, ainsi que les symptômes de la fièvre du rire, avec un test réussi de Sagesse (Médecine) DD 15 ou en demandant à Dame Wachter un diagnostic.
+
+Bien que les joueurs ne puissent pas trouver de magie de guérison capable de soigner la fièvre du rire à Vallaki, [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]], [[Personnages Non-Joueurs#Urwin Martikov|Urwin Martikov]], [[Personnages Non-Joueurs#Danika Dorakova|Danika Dorakova]], et [[Personnages Non-Joueurs#Père Lucian Petrovich|Père Lucian Petrovich]] peuvent tous les informer que l'Abbé de l'Abbaye de Sainte Markovia à Krezk est réputé être un guérisseur exceptionnel - peut-être même capable de guérir leur maladie par des moyens magiques.
+
+Si les joueurs choisissent de voyager à Krezk, ils devront d'abord gagner le passage à travers ses portes. Voir [[Arc I - Les Murs de Krezk]] pour plus d'informations concernant le voyage des joueurs vers Krezk et les moyens par lesquels ils peuvent gagner l'entrée dans le village.
+# H8. Le Rituel
+
+Une fois que les joueurs ont obtenu un _cœur-de-pierre_, ils auront besoin d'un endroit où effectuer les rituels d'_éthéréalité_ et de restauration, qui doivent avoir lieu la nuit de la pleine lune. ![[Heartstone.png]] <span class="credit">"Cœur-de-pierre" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] informe les joueurs qu'il aura besoin d'accéder à une ligne de force - une source de magie naturelle - afin d'alimenter le rituel d'_éthéréalité_. Si elle est présente, [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] informe les joueurs que la cave de la maison Wachter a été construite au-dessus d'une telle ligne de force, et offre son utilisation pour le rituel. Sinon, Victor informe timidement les joueurs qu'il a identifié une ligne de force qui traverse Vallaki - et qu'il pense qu'elle se trouve quelque part sous la maison Wachter.
+
+Si présente, Dame Wachter désactive d'abord le cercle de protection autour de la maison Wachter afin de permettre aux créatures de traverser la frontière du Plan Éthéré. Elle conduit ensuite les joueurs et Victor à <span class="citation">N4t. Quartier Général du Culte (p. 114)</span>, plaçant ses **fanatiques de culte** pour garder les entrées de la cave. Sinon, les joueurs doivent gagner l'accès à la cave de la maison Wachter par eux-mêmes, après quoi Victor les mène à **N4t. Quartier Général du Culte** pour effectuer le rituel.
+
+L'intérieur de la chambre est largement tel que décrit dans **N4t. Quartier Général du Culte**. Cependant, modifiez le texte descriptif pour lire comme suit :
+
+<div class="description"> <p>Des chandelles dans des supports en fer remplissent cette pièce de lumière et d'ombres. Cette salle a un plafond de trois mètres de haut et un grand pentagramme noir inscrit sur le sol de pierre. À chaque pointe du pentagramme repose une chaise en bois.</p> <p>Des milliers d'entailles et de rayures parsèment les murs de pierre autour du cercle, beaucoup tachées de sang séché vieux de plusieurs siècles. Le mur du fond de la chambre porte une gravure d'un mètre de haut représentant une dague à la garde courbée, avec la phrase <em>Dans le Silence, la Mort</em> gravée en lettres de trente centimètres juste en dessous. En observant les rayures le long des murs et du plafond, vous remarquez que la plupart forment un mot particulier, répété sans fin dans l'ancienne maçonnerie : <em>Traître.</em></p> </div>
+
+![[Leo's Dagger.png]] <span class="credit">"La Dague de Leo" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+Leo Dilisnya a utilisé ses griffes vampiriques pour graver ces mots et ces images dans la pierre. La phrase "Dans le Silence, la Mort" est la devise des Ba'al Verzi, la guilde secrète d'assassins à laquelle Leo appartenait.
+
+Dame Wachter peut informer les joueurs que, quand elle était enfant, ses parents l'avaient mise en garde contre un monstre qui habitait dans la cave : une terrible créature aux faims et aux haines anciennes qui aspirait à être libérée. Quand elle a hérité du domaine après la mort de sa famille et est descendue au sous-sol, cependant, Dame Wachter a trouvé la pièce vide, sans aucune preuve d'une quelconque créature hormis les rayures sur les murs.
+
+Dame Wachter n'a pas réussi à effacer les rayures et les gravures, malgré ses meilleurs efforts. Bien qu'elle n'ait pas une grande affection pour cette chambre, elle a confirmé que les gravures et les pierres ne dissimulent ni magie ni créatures hostiles, et l'a trouvée utile comme lieu indispensablement sûr.
+## H8a. Le Rituel d'_Éthéréalité_
+
+<span class="citation">Cette scène se déroule dans le Chapitre 5 : Zone N4t.</span>
+
+Si Dame Wachter n'est pas avec les joueurs, [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] exprime sa surprise face à la présence du pentagramme, notant avec un certain émerveillement qu'il pourrait facilement le réutiliser pour les besoins du rituel d'_éthéréalité_. Si [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] est avec les joueurs, elle offre le pentagramme pour utilisation dans le rituel, ce que Victor accepte avec plaisir.
+
+Victor place alors le _cœur-de-pierre_ au centre du pentagramme et dirige les joueurs pour qu'ils se tiennent juste à l'intérieur du bord du cercle du pentagramme. Si Dame Wachter est avec les joueurs, elle remonte ses manches et entre dans le cercle avec eux. Si on la défie, elle lance aux joueurs un regard froid et acéré et dit : "Bien sûr que je viens chercher ma petite fille."
+
+> [!abstract]+ **L'Absence de Fiona** 
+> Si les joueurs tentent le rituel sans l'aide de Dame Wachter, le rituel d'_éthéréalité_ échoue. Cependant, la perturbation attire Dame Wachter sur les lieux, où elle peut informer les joueurs - si on lui dit et la persuade de leur mission - que le cercle de protection de la maison Wachter doit d'abord être abaissé afin de permettre aux créatures de passer dans et hors du Plan Éthéré.
+
+Quand les joueurs sont prêts à commencer, Victor récupère son exemplaire d'_Entités Éthérées_ d'une poche de sa cape, utilisant son sort de _main du mage_ pour le tenir ouvert devant lui. Lisez :
+
+<div class="description"> <p>Victor se tient juste à l'intérieur du bord du cercle runique, la tête baissée tandis qu'il lit à voix haute dans le vieux tome qui flotte devant lui. Bien que sa main droite tremble et vacille, sa gauche est stable et précise alors qu'il trace des motifs délicats dans l'air poussiéreux, laissant des traînées de lumière blanche pâle dans le sillage de son doigt.</p> <p>Il commence à psalmodier sous son souffle - lentement, au début, puis progressivement en augmentant le volume et la vitesse. Au centre du cercle, le cœur-de-pierre de la guenaude semble vibrer avec une énergie subsonique que vous ressentez plutôt que vous n'entendez.</p> <p>Soudain, vous le sentez - un profond frémissement du monde sous vos pieds, comme si le sol de pierre avait momentanément ondulé comme du vif-argent. Une mince lumière blanche, tachetée d'ombre noire et encreuse, commence à briller à travers les fissures entre les pavés, pulsant comme si elle battait au rythme d'un cœur lointain et profond.</p> <p>Le cœur-de-pierre tremble, puis se fixe à un angle parfait, absolument perpendiculaire au sol en dessous. Son éclat d'obsidienne est remplacé par une luminescence spectrale qui scintille au rythme des paroles du rituel. La voix de Victor devient plus forte, plus puissante, résonnant clairement dans l'air alors que le monde semble se taire autour de lui, l'air se penchant plus près comme pour écouter.</p> <p>Le cœur-de-pierre commence à s'élever dans les airs, sa surface brillant d'une péarlescence éclatante. Même alors, cependant, la brume tourbillonne aux coins de la pièce, des murmures inaudibles faisant écho depuis ses profondeurs vaporeuses. La pièce commence à trembler, la luminosité sous le sol de pierre vacillant entre ombre et lumière.</p> <p>Soudain, une sombre ombre traverse les murs - une forme brumeuse et humanoïde. Elle est grande, décharnée et encapuchonnée, ses membres anormalement longs alors qu'elle tend ses griffes sombres vers le cercle. La sueur perle sur le front de Victor et sa voix vacille, manquant presque de trébucher. Mais il continue de lire, sa main gauche devenant floue de mouvement et de lumière alors que le rituel atteint un crescendo culminant.</p> <p>La voix de Victor déchire l'air, prononçant une dernière syllabe triomphante. L'ombre aux griffes disparaît - juste au moment où la puissance arcanique dans l'air monte en flèche.</p> <p>Le moment suivant n'est pas tant un pas qu'une secousse, une sensation comme être tiré en avant par le nombril. Votre vision se déforme comme si vous aviez plongé sous l'eau, et vous pouvez sentir votre forme changer et s'élever dans les airs, comme flottant dans un rêve.</p> <p>Et puis - la désorientation prend fin, et le monde se remet en place. La chambre autour de vous demeure, mais elle semble maintenant éthérée, décolorée et presque translucide. L'air autour de vous semble plus mince, presque intangible, et des nuages de brume gris-argenté pendent comme des voiles dans toutes les directions.</p> </div>
+
+Les joueurs sont arrivés dans le Plan Éthéré.
+
+Ni Victor ni Dame Wachter ne savent ce qu'était l'ombre sombre, bien que Victor puisse confirmer qu'elle semblait tenter d'interférer avec le rituel d'une manière ou d'une autre. Il n'y a cependant plus aucun signe d'elle maintenant.
+
+> [!info]+ **Bienvenue dans le Plan Éthéré**
 > 
-> ***Inspirations.*** When playing Stella, channel Rapunzel (*Tangled*), Ariel (*The Little Mermaid*), and Anna (*Frozen*).
+> Pendant que les joueurs sont dans le Plan Éthéré, les règles suivantes gouvernent leur vision et leurs mouvements :
 > 
-> **Character Information**
-> ***Persona.*** To the world, Stella is a polite, quiet, and docile—if fidgety—young noblewoman. To her family and friends, Stella is a bright and inquisitive mind with a fierce optimism and an unwavering dedication to those she cares about.
+> - Tous les objets solides du Plan Matériel, comme les meubles et les murs, ont un reflet translucide et semi-intangible dans le Plan Éthéré. Déplacer l'objet dans le Plan Éthéré déplace également l'objet dans le Plan Matériel.
+> - Les murs et autres objets solides reflétés dans le Plan Éthéré procurent une visibilité réduite et un abri partiel aux créatures derrière eux. Une créature dans le Plan Éthéré peut traverser ces reflets comme s'ils étaient un terrain difficile, mais subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet.
+> - Une créature dans le Plan Éthéré gagne une vitesse de vol (stationnaire) égale à sa vitesse normale.
 > 
-> ***Morale.*** In a fight, Stella would plead for peace, then attempt to flee.
+> De plus, les créatures incorporelles comme les **fantômes** ou les **spectres** deviennent corporelles dans le Plan Éthéré, et perdent toutes leurs résistances aux dégâts d'acide, de froid, de feu, de foudre, de tonnerre, contondants, perforants ou tranchants. (Ces créatures peuvent toujours traverser les reflets fantomatiques des objets dans le Plan Éthéré, comme n'importe quelle autre créature.)
+## H8b. Le Rituel de Restauration
+
+Après que quelques instants se soient écoulés, les joueurs entendent une voix de jeune fille derrière eux, joyeuse et triomphante alors qu'elle s'exclame : "_Victor !_"
+
+La voix appartient au **spectre** de Stella Wachter, âgée de seize ans, qui flotte vers les joueurs depuis trois mètres au-dessus du sol. Stella apparaît largement comme elle est dans la vie, bien que son corps soit translucide et que ses jambes sous les genoux aient commencé à se fondre en brume.
+
+> [!profile]+ **Profil : Stella Wachter** 
+> **Informations de Roleplay** 
+> _**Résonance.**_ Stella devrait inspirer de la sympathie pour sa culpabilité d'avoir causé tant d'anxiété et de douleur à sa famille et Victor ; de l'attachement pour son attitude optimiste et enjouée ; et de la gratitude pour sa foi inébranlable envers les joueurs.
 > 
-> ***Relationships.*** Stella is Lady Fiona Wachter's daughter and youngest child, the best (and only) friend of Victor Vallakovich, and a friend of the ghost Erasmus van Richten.
-
-The following sequence then unfolds, unless the players intervene:
-
-* Stella attempts to throw her arms around [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] for a hug—but fails, her arms passing through his body. “Oh,” Stella says, sadly. Victor’s eyes widen, and he begins rummaging through his cloak. “You're losing your tangibility faster than I thought,” he says. “We need to get you back to your body as quickly as possible.” He retrieves a piece of chalk and begins drawing a modified teleportation circle on the ground.
-* If she is present, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] approaches Stella as well. “Mother?” Stella says, uncertainly. “Is that really you?” Lady Wachter nods, her face pale, but as hard as stone. “We’re going to get you out of here, Stella. I promise it.”
-* While Victor continues his preparations, Stella’s spirit floats over to the players. She thanks them for all of their help, and for supporting Victor in a difficult time. “He gets so determined sometimes,” she says quietly, watching him work. “I was so scared that he would hurt himself in his efforts to help me. Thank you for being there for him.”
-### The Ghost of Erasmus van Richten
-Just as [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] is completing his modified teleportation circle, the ghost of Erasmus van Richten (using the statistics of a **poltergeist** without its ***invisibility*** feature) appears to the players. Read:
-
-<div class="description">
-<p>A soft, boyish laugher echoes through the ethereal fog. A faint, spectral light flickers into being beyond the gray mists, coalescing into a slender, humanoid shadow.</p>
-</div>
-
-If one of the players moves to attack, Erasmus shouts, “Wait! I don’t mean to hurt you!” In either case, continue to read the following:
-
-<div class="description">
-<p>The spectral silhouette grows in brightness and definition until it assumes a more solidified shape: the ethereal form of a ghostly young man. He appears to be no more than fourteen, his form shimmering with a warm, inviting light that seems to soften the gray monotone of his surroundings.</p>
-<p>He wears short pants, a loose shirt, and a vest, though his body becomes wisps of curling fog not far below his knees. His eyes glitter with mirth, and an elfin smile plays across his face as his unkempt hair drifts lazily amidst the gloom. When he speaks, his voice is cheery and light, and his fingers twitch with excitement. “Stella! You brought your friends!”</p>
-</div>
-
-Erasmus greets the players and Victor warmly, and Stella introduces him using his full name as he stands beside her. Victor greets Erasmus somewhat stiffly, and a DC 10 Wisdom (Insight) check reveals that he is slightly jealous of the younger ghost. (Though Victor has no romantic interest in Stella, he has had few friends throughout his life, and fears losing his only friend to the cheerier, sunnier Erasmus.)
-
-Erasmus can share the following information, either at the players’ request or of his own volition:
-
-* Erasmus has been helping Stella navigate and remain hidden within the Ethereal Plane since shortly after she arrived. She’s proven a quick study, though Erasmus is wary of her slow disappearance into the Deep Ethereal, and agrees that the players need to get her out of the Ethereal Plane and back to her body sooner than later.
-* The lost spirits of the Ethereal Plane are more active than usual, and seem to have realized that something important is happening. Most of these spirits have lost much of their minds and memories, so the players will need to be wary of them.
-* Erasmus wasn’t the shadow that the players saw during the *etherealness* ritual, nor does he know what cast it. However, it matches the description of the **gallows speaker** that attacked Stella when she first arrived in the Ethereal Plane. 
-
-If asked, Erasmus can confirm that his father is Dr. Rudolph van Richten, whom he followed into Barovia to watch and protect. (Erasmus is, however, understandably uncomfortable reminiscing upon the full story of his death. If asked how he came to be a ghost, his smile turns sad, and he briskly attempts to change the subject.)
-
-Erasmus can also teach the players how to move in the Ethereal Plane. (See **Welcome to the Ethereal Plane** above.)
-
-When the conversation with Erasmus concludes, Victor directs Stella to stand in the center of the circle. As he takes up a position beside her, Victor informs the players that, once it begins, the ritual will take 10 minutes to complete. 
-
-During that time, Erasmus adds, the circle’s magic will blaze like a beacon, attracting wayward spirits that might seek to take Stella’s place and return to life by inhabiting her soulless body. 
-
-As such, Erasmus asks the players and (if present) Lady Wachter to aid him in guarding Stella’s soul until the ritual is complete.
-### The Wayward Souls
-One minute after Victor begins reading the ritual’s incantation from his spellbook, five **specters** appear from the clouds of mist that surround the players in the Ethereal Plane. (While in the Ethereal Plane, these specters have no damage resistances and lose their ***incorporeal movement*** feature).
-
-The specters drift through the air toward Stella, reaching out to seize her as they whisper the following phrases in haunted, rasping tones:
-
-* “The scent of life. It smells so sweet . . .”
-* “The veil flickers. It’s so close . . .”
-* “Please. Please. *Please* . . .”
-
-Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
-
-> [!combat]- **Balancing the Specters**
-> Due to the specters fleeing, this is a **mild** combat encounters against a party of five 5th-level players, a CR 1 ally (Majesto), and two CR 2 allies (Erasmus van Richten, Fiona Wachter), and will consume approximately 5% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> _**Émotions.**_ Stella se sent le plus souvent curieuse, excitée, appréhensive, réfléchie, joyeuse ou déterminée.
 > 
-> * ***Three Players.*** Reduce the number of specters to four.
-> * ***Four Players.*** Reduce the number of specters to four.
-> * ***Six Players.*** Increase the number of specters to six.
+> _**Motivations.**_ Stella veut aider Victor à maîtriser sa magie et aider sa famille à s'échapper de Barovia.
+> 
+> _**Inspirations.**_ Pour jouer Stella, canalisez Raiponce (_Tangled_), Ariel (_La Petite Sirène_), et Anna (_La Reine des Neiges_).
+> 
+> **Informations sur le Personnage** 
+> _**Persona.**_ Pour le monde, Stella est une jeune noble polie, calme et docile - bien qu'agitée. Pour sa famille et ses amis, Stella est un esprit vif et curieux avec un optimisme féroce et un dévouement inébranlable envers ceux dont elle se soucie.
+> 
+> _**Moral.**_ Dans un combat, Stella supplierait pour la paix, puis tenterait de fuir.
+> 
+> _**Relations.**_ Stella est la fille de Dame Fiona Wachter et sa plus jeune enfant, la meilleure (et seule) amie de Victor Vallakovich, et une amie du fantôme Erasmus van Richten.
 
-***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+La séquence suivante se déroule alors, sauf si les joueurs interviennent :
 
-* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
-* 1st level (4 slots): _command, sanctuary, bane_ 
-* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
-* 3rd level (2 slots): _animate dead, spirit guardians_*
+- Stella tente de jeter ses bras autour de [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] pour un câlin - mais échoue, ses bras passant à travers son corps. "Oh," dit Stella, tristement. Les yeux de Victor s'écarquillent, et il commence à fouiller frénétiquement dans sa cape. "Tu perds ta tangibilité plus vite que je ne le pensais," dit-il. "Nous devons te ramener dans ton corps aussi vite que possible." Il sort un morceau de craie et commence à dessiner un cercle de téléportation modifié sur le sol.
+- Si elle est présente, [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] s'approche aussi de Stella. "Mère ?" dit Stella, incertaine. "Est-ce vraiment vous ?" Dame Wachter hoche la tête, son visage pâle, mais dur comme la pierre. "Nous allons te sortir d'ici, Stella. Je te le promets."
+- Pendant que Victor continue ses préparatifs, l'esprit de Stella flotte vers les joueurs. Elle les remercie pour toute leur aide, et pour avoir soutenu Victor dans un moment difficile. "Il devient si déterminé parfois," dit-elle doucement, le regardant travailler. "J'avais tellement peur qu'il se blesse dans ses efforts pour m'aider. Merci d'avoir été là pour lui."
+### Le Fantôme d'Erasmus van Richten
 
-In battle, Lady Wachter also gains the following reaction:
+Juste au moment où [[Personnages Non-Joueurs#Victor Vallakovich|Victor]] termine son cercle de téléportation modifié, le fantôme d'Erasmus van Richten (utilisant les statistiques d'un **poltergeist** sans son trait d'_**invisibilité**_) apparaît aux joueurs. Lisez :
 
-* ***Sentinel of the Veil.*** As a reaction when another creature she can see within 30 feet suffers a critical hit, Lady Wachter can turn that hit into a normal hit.
+<div class="description"> <p>Un doux rire enfantin fait écho à travers la brume éthérée. Une faible lueur spectrale scintille au-delà des brumes grises, se condensant en une ombre humanoïde élancée.</p> </div>
 
-### The Ghost of Leo Dilisnya
-At the end of the first round of combat with the specters, any surviving specters flee. The ghost of Leo Dilisnya—in the form of a **gallows speaker** (*Van Richten’s Guide to Ravenloft*, p. 234) appears a few moments thereafter. Read:
+Si l'un des joueurs fait un geste pour attaquer, Erasmus crie : "Attendez ! Je ne veux pas vous faire de mal !" Dans les deux cas, continuez à lire ce qui suit :
 
-<div class="description">
-<p>A chill wind rushes in, carrying with it an unmistakable pallor of death and despair. A low, rattling breath rumbles through the air, and, mere feet before you, a figure begins to coalesce in the air above, its form writhing and shifting from the ethereal mist.</p>
-<p>It is a being of bone and tattered robes, its face a skull that betrays neither emotion nor mercy. Dark, vacant eye sockets stare out into nothingness, its skeletal, claw-tipped hands flexing as it glides silently through the air—the same clawed hands, you realize, as the dark shadow that appeared as you entered the Ethereal Plane.</p>
-<p>As it moves, its long, flowing cloak billows around it, revealing humanoid visages woven into the fabric itself. Each face in this tapestry bears an ever-shifting expression of pain, sorrow, fear, regret, anger, or despair, their dark mouths whispering a mournful, maddening cacophony.</p>
-<p>From the clouds of mist bob five wispy balls of light, flickering with soft golden glows as they flank the cloaked figure two to a side, with the final wisp hovering above the figure’s head. Faint and distant whispers ride on a cold and hungry wind beside them, belying the evident warmth promised by their small, lamp-light forms.</p>
-<p>Between them, the ghostly figure's skeletal jaw opens, its hollow eye sockets a dark, unending void. When it speaks, its hateful voice reverberates through the Ethereal Plane, the sound cutting through the mists like the grinding of bone against bone.</p>
-<p>"I am Leo Dilisnya," the figure rasps. "And we have come for the blood that is owed." One of its skeletal hands tightens its grasp around a lump upon its chest—an old, leather-bound tome, its cover a deep, crimson red inset with platinum filigree. The figure then reaches out another skeletal hand—a single clawed finger pointing directly at Stella Wachter.</p>
-</div>
+<div class="description"> <p>La silhouette spectrale gagne en luminosité et en définition jusqu'à ce qu'elle prenne une forme plus solide : la forme éthérée d'un jeune homme fantomatique. Il ne semble pas avoir plus de quatorze ans, sa forme scintillant d'une lumière chaleureuse et accueillante qui semble adoucir la monotonie grise de son environnement.</p> <p>Il porte un pantalon court, une chemise ample et un gilet, bien que son corps se transforme en volutes de brume tourbillonnante peu en dessous des genoux. Ses yeux brillent de joie, et un sourire espiègle joue sur son visage tandis que ses cheveux ébouriffés flottent paresseusement dans la pénombre. Quand il parle, sa voix est joyeuse et légère, et ses doigts s'agitent d'excitation. "Stella ! Tu as amené tes amis !"</p> </div>
+
+![[Erasmus.png]]
+<span class="credit">"Erasmus van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Erasmus salue chaleureusement les joueurs et Victor, et Stella le présente en utilisant son nom complet alors qu'il se tient à côté d'elle. Victor salue Erasmus de manière un peu raide, et un test de Sagesse (Perspicacité) DD 10 révèle qu'il est légèrement jaloux du fantôme plus jeune. (Bien que Victor n'ait aucun intérêt romantique pour Stella, il a eu peu d'amis tout au long de sa vie, et craint de perdre sa seule amie au profit du plus gai et plus solaire Erasmus.)
+
+Erasmus peut partager les informations suivantes, soit à la demande des joueurs soit de sa propre initiative :
+
+- Erasmus aide Stella à naviguer et à rester cachée dans le Plan Éthéré depuis peu après son arrivée. Elle s'est révélée être une élève rapide, bien qu'Erasmus soit inquiet de sa lente disparition dans le Plan Éthéré Profond, et convient que les joueurs doivent la faire sortir du Plan Éthéré et la ramener dans son corps le plus tôt possible.
+- Les esprits perdus du Plan Éthéré sont plus actifs que d'habitude, et semblent avoir réalisé que quelque chose d'important se passe. La plupart de ces esprits ont perdu une grande partie de leur esprit et de leurs souvenirs, donc les joueurs devront se méfier d'eux.
+- Erasmus n'était pas l'ombre que les joueurs ont vue pendant le rituel d'_éthéréalité_, et il ne sait pas non plus ce qui l'a projetée. Cependant, elle correspond à la description de l'**orateur des potences** qui a attaqué Stella lors de sa première arrivée dans le Plan Éthéré.
+
+Si on le lui demande, Erasmus peut confirmer que son père est le Dr Rudolph van Richten, qu'il a suivi en Barovia pour le surveiller et le protéger. (Erasmus est cependant, compréhensiblement, mal à l'aise de se remémorer l'histoire complète de sa mort. Si on lui demande comment il est devenu un fantôme, son sourire devient triste, et il tente rapidement de changer de sujet.)
+
+Erasmus peut aussi enseigner aux joueurs comment se déplacer dans le Plan Éthéré. (Voir **Bienvenue dans le Plan Éthéré** ci-dessus.)
+
+Quand la conversation avec Erasmus se termine, Victor dirige Stella pour qu'elle se tienne au centre du cercle. Alors qu'il prend position à côté d'elle, Victor informe les joueurs que, une fois commencé, le rituel prendra 10 minutes à compléter.
+
+Pendant ce temps, ajoute Erasmus, la magie du cercle brillera comme un phare, attirant des esprits errants qui pourraient chercher à prendre la place de Stella et retourner à la vie en habitant son corps sans âme.
+
+En conséquence, Erasmus demande aux joueurs et (si présente) à Dame Wachter de l'aider à protéger l'âme de Stella jusqu'à ce que le rituel soit terminé.
+### Les Âmes Errantes
+
+Une minute après que Victor commence à lire l'incantation du rituel dans son grimoire, cinq **spectres** apparaissent des nuages de brume qui entourent les joueurs dans le Plan Éthéré. (Dans le Plan Éthéré, ces spectres n'ont aucune résistance aux dégâts et perdent leur trait de _**déplacement incorporel**_).
+
+Les spectres flottent dans l'air vers Stella, tendant les bras pour la saisir alors qu'ils murmurent les phrases suivantes d'un ton hanté et râpeux :
+
+- "L'odeur de la vie. Elle sent si doux..."
+- "Le voile vacille. C'est si proche..."
+- "S'il vous plaît. S'il vous plaît. _S'il vous plaît_..."
+
+Les yeux paniqués de Victor se tournent vers les joueurs, et Stella se recroqueville sur elle-même, la peur évidente sur son visage. Erasmus et [[Personnages Non-Joueurs#Dame Fiona Wachter|Dame Wachter]] (si présente) attaquent les spectres dès qu'ils s'approchent à moins de 4,5 mètres de l'esprit de Stella, exhortant les joueurs à les rejoindre.
+
+> [!combat]- **Équilibrer les Spectres** 
+> En raison de la fuite des spectres, il s'agit d'une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 5, un allié de FP 1 (Majesto) et deux alliés de FP 2 (Erasmus van Richten, Fiona Wachter), et consommera environ 5% de leur total maximum de points de vie. Pour les groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+> 
+> - _**Trois Joueurs.**_ Réduisez le nombre de spectres à quatre.
+> - _**Quatre Joueurs.**_ Réduisez le nombre de spectres à quatre.
+> - _**Six Joueurs.**_ Augmentez le nombre de spectres à six.
+
+_**Dame Wachter.**_ Dame Wachter conserve les statistiques d'un **prêtre**. Cependant, elle a une liste différente de sorts préparés :
+
+- Tours de magie (à volonté) : _lumière, glas funèbre, thaumaturgie_
+- Niveau 1 (4 emplacements) : _injonction, sanctuaire, fléau_
+- Niveau 2 (3 emplacements) : _cécité/surdité, zone de vérité, immobilisation de personne_
+- Niveau 3 (2 emplacements) : _animation des morts, esprits gardiens_*
+
+En combat, Dame Wachter gagne également la réaction suivante :
+
+- _**Sentinelle du Voile.**_ Par une réaction lorsqu'une autre créature qu'elle peut voir dans un rayon de 9 mètres subit un coup critique, Dame Wachter peut transformer ce coup critique en un coup normal.
+
+### Le Fantôme de Leo Dilisnya
+
+À la fin du premier round de combat avec les spectres, tous les spectres survivants s'enfuient. Le fantôme de Leo Dilisnya - sous la forme d'un **orateur des potences** (_Guide de Van Richten sur Ravenloft_, p. 234) apparaît quelques instants après. Lisez :
+
+<div class="description"> <p>Un vent glacial s'engouffre, portant avec lui une indéniable aura de mort et de désespoir. Un souffle bas et rauque gronde dans l'air, et, à quelques pas devant vous, une silhouette commence à se matérialiser dans l'air au-dessus, sa forme se tordant et changeant depuis la brume éthérée.</p> <p>C'est un être fait d'os et de robes en lambeaux, son visage un crâne qui ne trahit ni émotion ni pitié. Des orbites sombres et vides fixent le néant, ses mains squelettiques aux griffes acérées se contractant alors qu'il glisse silencieusement dans l'air - les mêmes mains griffues, réalisez-vous, que l'ombre sombre qui est apparue lorsque vous êtes entrés dans le Plan Éthéré.</p> <p>Alors qu'il se déplace, sa longue cape flottante tourbillonne autour de lui, révélant des visages humanoïdes tissés dans le tissu même. Chaque visage dans cette tapisserie porte une expression en constante évolution de douleur, de chagrin, de peur, de regret, de colère ou de désespoir, leurs bouches sombres murmurant une cacophonie lugubre et démente.</p> <p>Depuis les nuages de brume flottent cinq boules vaporeuses de lumière, scintillant d'une douce lueur dorée alors qu'elles encadrent la silhouette encapuchonnée deux de chaque côté, la dernière lueur planant au-dessus de la tête de la silhouette. De faibles et lointains murmures chevauchent un vent froid et affamé à leurs côtés, démentant la chaleur apparente promise par leurs petites formes de lumière de lanterne.</p> <p>Entre eux, la mâchoire squelettique de la silhouette fantomatique s'ouvre, ses orbites creuses un vide sombre et sans fin. Quand il parle, sa voix haineuse résonne à travers le Plan Éthéré, le son tranchant à travers les brumes comme le grincement d'os contre os.</p> <p>"Je suis Leo Dilisnya," râle la silhouette. "Et nous sommes venus pour le sang qui nous est dû." Une de ses mains squelettiques resserre sa prise sur une masse sur sa poitrine - un vieux tome relié en cuir, sa couverture d'un rouge profond incrustée de filigranes de platine. La silhouette tend alors une autre main squelettique - un seul doigt griffu pointant directement vers Stella Wachter.</p> </div>
 
 ![[Gallows Speaker.png]]
-<span class="credit">"Gallows Speaker" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Orateur des Potences" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *Tome of Strahd*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance.
+L'**orateur des potences** est une agglomération de l'esprit de Leo Dilisnya avec les esprits des dizaines de gardes du château que Strahd a massacrés le jour du mariage de Sergei. Le livre serré contre sa poitrine est le _Tome de Strahd_, que Leo a volé de la maison Wachter après avoir tué les parents de Dame Wachter pendant leur séance.
 
-> [!lore]+ **What Happened to the Tome?**
-> One hundred years ago, Strahd used his Tome as a repository for his secret plans involving the Grand Conjunction and the Fanes of Barovia. When he began his hibernation amidst the crypts of Ravenloft, he did his best to hide his Tome away, safe from prying eyes. Nonetheless, it was found—by the **wereraven** Livius, who was searching for the legendary _Sigil of the Sun_ (later renamed the _Holy Symbol of Ravenkind_) while Lugdana and Ismark Antonovich kept the guardians of the castle occupied.
+> [!lore]+ **Qu'est-il arrivé au Tome ?** 
+> Il y a cent ans, Strahd a utilisé son Tome comme dépôt pour ses plans secrets concernant la Grande Conjonction et les Cercles de Barovia. Quand il a commencé son hibernation dans les cryptes de Ravenloft, il a fait de son mieux pour cacher son Tome, à l'abri des regards indiscrets. Néanmoins, il a été trouvé - par le **corbeauraven** Livius, qui cherchait le légendaire _Sceau du Soleil_ (plus tard renommé le _Symbole Sacré du Corbeau_) pendant que Lugdana et Ismark Antonovich occupaient les gardiens du château.
 > 
-> When the trio escaped the castle, Livius shared with them the Tome, wondering aloud which of Strahd’s secrets it might hold. Because they could not open its magical lock, however, Lugdana took the Tome to a bookbinder in Vallaki with a reputation for puzzle-solving and lockpicking, hoping that he might be able to open it instead.
+> Quand le trio s'est échappé du château, Livius a partagé avec eux le Tome, se demandant à voix haute quels secrets de Strahd il pourrait contenir. Comme ils ne pouvaient pas ouvrir son verrou magique, cependant, Lugdana a apporté le Tome à un relieur de Vallaki réputé pour résoudre des énigmes et crocheter des serrures, espérant qu'il pourrait l'ouvrir à la place.
 > 
-> Lugdana, however, was betrayed. The bookbinder’s apprentice—a scion of House Wachter—overheard their conversation and made plans to steal the Tome instead. The apprentice hid the Tome away in the bookbinder’s desk, then returned that night to steal it. The Tome remained locked away in Wachterhaus until the gallows speaker stole it on the night the Wachters died. (Because her parents died while she was still a teenager, Lady Fiona Wachter never learned of the Tome’s true origins.)
+> Lugdana a cependant été trahie. L'apprenti du relieur—un descendant de la Maison Wachter—a surpris leur conversation et a fait des plans pour voler le Tome à la place. L'apprenti a caché le Tome dans le bureau du relieur, puis est revenu cette nuit-là pour le voler. Le Tome est resté enfermé dans la Wachterhaus jusqu'à ce que l'orateur des potences le vole la nuit où les Wachter sont morts. (Comme ses parents sont morts alors qu'elle était encore adolescente, Dame Fiona Wachter n'a jamais appris les véritables origines du Tome.)
 
-The gallows speaker shares freely that it intends to kill Stella’s spirit, followed by Lady Wachter. Once it has done so, it intends to cross over into the Material Plane, where it will kill Lady Wachter’s sons, Nikolai and Karl.
+L'orateur des potences partage librement qu'il a l'intention de tuer l'esprit de Stella, suivi par Dame Wachter. Une fois cela fait, il a l'intention de traverser vers le Plan Matériel, où il tuera les fils de Dame Wachter, Nikolai et Karl.
 
-If the players obstruct the gallows speaker, it attempts to persuade them to stand aside, providing the following information in support of its argument:
+Si les joueurs font obstacle à l'orateur des potences, il tente de les persuader de s'écarter, fournissant les informations suivantes pour appuyer son argument :
 
-* In life, it was Leo Dilisnya, a guard of Castle Ravenloft. When Strahd killed his brother, Sergei, and pursued Sergei’s bride, Tatyana, through the castle gardens, it was Leo who gave the order for the guards to kill Strahd to defend Tatyana and avenge Sergei’s death.
-* When Strahd became a vampire, he slaughtered his castle guards in a bloody and gruesome massacre. Lady Lovina Wachter née Dilisnya, Leo’s sister and a faithful devotee of Strahd von Zarovich, directed her bodyguards to assist Strahd in the bloodshed.
-* Leo himself barely escaped, and hid himself away in the deserted Abbey of Saint Markovia on a spur of Mount Baratok. However, Strahd and Lovina eventually found him—and when they did, they turned him into a **vampire spawn** and sealed him in a lightless stone vault beneath Wachterhaus. 
-* They left him there to starve for four hundred years, slowly growing mad as the bloodthirst destroyed his mind and his hatred sharpened and burned. (“Do you have *any* idea what that’s like?” the gallows speaker snarls, the faces within its cloak moaning with a chorus of mournful wails. “*Feeling* your sanity slip away, year by year, as the hunger within you twists and grows, never to be sated?”)
-* More than thirty years ago, Leo finally died, his spirit arising as a **ghost** that reunited with the tormented spirits of the castle guards, forming a **gallows speaker.** As he lurked unseen among Wachterhaus, he came to learn that he had been granted the release of death on the same night that Fiona Wachter—then a teenager—had fled her family estate, destroying an enchanted ruby gemstone that Strahd had given Lovina’s family as security should Leo ever escape.
-* Not long after his death, Leo killed the Wachters that remained at Wachterhaus, but was unable to finish the job when Fiona Wachter sealed him out. Now, however, Leo seeks to “rip out the poisoned Wachter family tree, root and branch,” and finally “see justice done.”
+- Dans la vie, il était Leo Dilisnya, un garde de Château Ravenloft. Quand Strahd a tué son frère, Sergei, et poursuivi la mariée de Sergei, Tatyana, à travers les jardins du château, c'est Leo qui a donné l'ordre aux gardes de tuer Strahd pour défendre Tatyana et venger la mort de Sergei.
+- Quand Strahd est devenu un vampire, il a massacré ses gardes du château dans un carnage sanglant et horrible. Dame Lovina Wachter née Dilisnya, la sœur de Leo et une fidèle dévote de Strahd von Zarovich, a ordonné à ses gardes du corps d'assister Strahd dans le carnage.
+- Leo lui-même s'est à peine échappé et s'est caché dans l'Abbaye déserte de Sainte Markovia sur un éperon du Mont Baratok. Cependant, Strahd et Lovina l'ont finalement trouvé—et quand ils l'ont fait, ils l'ont transformé en **rejeton vampirique** et l'ont enfermé dans un caveau de pierre sans lumière sous la Wachterhaus.
+- Ils l'ont laissé là pour qu'il meure de faim pendant quatre cents ans, devenant lentement fou alors que la soif de sang détruisait son esprit et que sa haine s'aiguisait et brûlait. ("Avez-vous la _moindre_ idée de ce que c'est ?" grogne l'orateur des potences, les visages dans sa cape gémissant d'une chorale de lamentations lugubres. "_Sentir_ votre sanité s'échapper, année après année, alors que la faim en vous se tord et grandit, sans jamais être assouvie ?")
+- Il y a plus de trente ans, Leo est finalement mort, son esprit s'élevant comme un **fantôme** qui s'est réuni avec les esprits tourmentés des gardes du château, formant un **orateur des potences**. Alors qu'il rôdait invisible dans la Wachterhaus, il a appris qu'on lui avait accordé la délivrance de la mort la même nuit où Fiona Wachter—alors adolescente—s'était enfuie de la propriété familiale, détruisant un rubis enchanté que Strahd avait donné à la famille de Lovina comme garantie si Leo s'échappait un jour.
+- Peu après sa mort, Leo a tué les Wachter qui restaient à la Wachterhaus, mais n'a pas pu terminer le travail quand Fiona Wachter l'a scellé à l'extérieur. Maintenant, cependant, Leo cherche à "arracher l'arbre généalogique empoisonné des Wachter, racine et branche", et finalement "voir justice rendue."
 
-A player who makes a successful DC 15 Wisdom (Insight) check discerns that the gallows speaker’s words are a half-truth at best. If challenged, it reveals the truth: 
+Un joueur qui réussit un test de Sagesse (Perspicacité) DD 15 discerne que les paroles de l'orateur des potences sont au mieux une demi-vérité. Si on le met au défi, il révèle la vérité :
 
-* In life, Leo was an assassin of the Ba’al Verzi who betrayed his order’s vows when he sought to kill Strahd in vengeance for the death of his brother, Reinhold, who Strahd knowingly sent to die to win a battle against the Order of the Silver Dragon. 
-* On the morning of Sergei’s wedding, Leo climbed to the window of Strahd’s royal chambers, carrying with him a cursed Ba’al Verzi dagger that prevented its victims from being resurrected.
-* When Lovina Wachter’s bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to “betray” him and Reinhold’s memory.
+- Dans la vie, Leo était un assassin des Ba'al Verzi qui a trahi les vœux de son ordre quand il a cherché à tuer Strahd pour venger la mort de son frère, Reinhold, que Strahd a sciemment envoyé à la mort pour gagner une bataille contre l'Ordre du Dragon d'Argent.
+- Le matin du mariage de Sergei, Leo a grimpé jusqu'à la fenêtre des appartements royaux de Strahd, portant avec lui une dague maudite des Ba'al Verzi qui empêchait ses victimes d'être ressuscitées.
+- Quand les gardes du corps de Lovina Wachter ont affronté les gardes du château pour défendre Strahd, c'est Leo qui a donné l'ordre de tuer les Wachter eux-mêmes, furieux que sa sœur ait choisi de le "trahir" lui et la mémoire de Reinhold.
 
-If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
-### Fighting the Gallows Speaker
-If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
+Si les joueurs posent des questions sur le tome serré contre sa poitrine, l'orateur des potences partage que c'est un registre de l'hubris et des crimes du seigneur des Wachter, et un rappel de la haine qui a attisé la force de l'orateur. Il ne peut être persuadé de céder le _Tome_, même temporairement.
 
-> [!info]+ **How Long Does Leo Speak?**
-> Unless the players immediately attack it, assume the conversation with the gallows speaker takes more than one minute, but fewer than ten minutes (e.g., for the purposes of determining spell duration).
+### Combat contre l'Orateur des Potences
 
-***Erasmus van Richten.*** In battle, Erasmus fights by hurling furniture at the gallows speaker from range through the use of his ***telekinetic thrust*** feature.
+Si les joueurs refusent de permettre à l'orateur des potences de tuer les Wachter, il jure de les déchirer pendant que Stella et Dame Wachter regardent. Il attaque alors avec sa forme d'**Orateur des Potences**. Dame Wachter bondit pour aider les joueurs, grognant de défi.
 
-***Lady Fiona Wachter.*** [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] begins by casting *spirit guardians* (radiant damage), which takes the form of thirteen swirling fog-like entities that attack with misty tendrils. On subsequent turns, she casts *blindness/deafness* or uses her ***divine eminence*** feature as she pursues the gallows speaker with her mace.
+> [!info]+ **Combien de temps Leo parle-t-il ?** 
+> À moins que les joueurs ne l'attaquent immédiatement, considérez que la conversation avec l'orateur des potences dure plus d'une minute, mais moins de dix minutes (par exemple, pour déterminer la durée des sorts).
 
-***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it.
+_**Erasmus van Richten.**_ Au combat, Erasmus se bat en lançant des meubles sur l'orateur des potences à distance grâce à l'utilisation de sa capacité _**poussée télékinétique**_.
 
-In its first phase, the **Speaker of the Gallows**, the gallows speaker never retreats, nor does it reposition except to pursue a target. 
+_**Dame Fiona Wachter.**_ [[Personnages Non-Joueurs#Lady Fiona Wachter|Dame Wachter]] commence par lancer _gardiens spirituels_ (dégâts radiants), qui prend la forme de treize entités brumeuses tourbillonnantes qui attaquent avec des vrilles brumeuses. Lors des tours suivants, elle lance _cécité/surdité_ ou utilise sa capacité _**éminence divine**_ alors qu'elle poursuit l'orateur des potences avec sa masse d'armes.
 
-In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
+_**L'Orateur des Potences.**_ Tout au long du combat, l'orateur des potences nargue Dame Wachter, discourant longuement sur les souffrances qu'il infligera à elle et sa famille. Cependant, il n'attaque jamais ni Dame Wachter, ni Stella, ni Victor, préférant concentrer son attention sur les joueurs qui l'ont défié.
 
-When reduced to 0 hit points in its second phase, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
+Dans sa première phase, l'**Orateur des Potences**, l'orateur des potences ne bat jamais en retraite et ne se repositionne que pour poursuivre une cible.
 
-When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#H9. The Tome of Strahd]] for more information about the *Tome* and its contents.
+Dans sa deuxième phase, le **Vengeur Ba'al Verzi**, l'orateur des potences devient mobile, tentant d'agripper la cible qui semble la plus coriace avec sa capacité **étreinte de la tombe*** et de la traîner dans les étages supérieurs de la maison, tout en utilisant son **hurlement des abandonnés*** chaque fois qu'il se recharge et ses _**dagues Ba'al Verzi**_ pour attaquer à distance.
+
+Quand il est réduit à 0 point de vie dans sa deuxième phase, l'orateur des potences nargue les joueurs dans son dernier souffle, râlant : "Quand j'ai échoué à le tuer, Zarovich m'a pris ma lame maudite. Peut-être aurai-je encore ma satisfaction quand il l'utilisera pour _arracher vos cœurs de vos poitrines !_" Il se jette alors en avant, ses griffes squelettiques cherchant la gorge de Stella—et se dissipe en brume, les murmures fous des nombreux esprits dans sa cape s'évanouissant dans le silence.
+
+Quand l'orateur des potences meurt, le _Tome de Strahd_ tombe au sol. Voir [[#H9. Le Tome de Strahd]] pour plus d'informations sur le _Tome_ et son contenu.
 
 <div class="statblock">
-<h2>Speaker of the Gallows</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Orateur des Potences</h2>
+<em>Mort-vivant de taille M, neutre mauvais</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe d'Armure</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (35d8)
+<strong>Points de Vie</strong> 157 (35d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<strong>Vitesse</strong> 0 m, vol 12 m (stationnaire)
 <hr>
 <table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>8 (-1)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>10 (+0)</td>
-      <td>12 (+1)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
+   <thead>
+      <tr>
+         <th>FOR</th>
+         <th>DEX</th>
+         <th>CON</th>
+         <th>INT</th>
+         <th>SAG</th>
+         <th>CHA</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>8 (-1)</td>
+         <td>16 (+3)</td>
+         <td>10 (+0)</td>
+         <td>10 (+0)</td>
+         <td>12 (+1)</td>
+         <td>18 (+4)</td>
+      </tr>
+   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>Jets de Sauvegarde</strong> Dex +7, Sag +5, Cha +8<br>
+<strong>Compétences</strong> Perception +5<br>
+<strong>Immunités aux Dégâts</strong> nécrotiques, poison<br>
+<strong>Immunités aux États</strong> charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi<br>
+<strong>Sens</strong> vision véritable 18 m, Perception passive 15<br>
+<strong>Langues</strong> abyssal, commun<br>
+<strong>Facteur de Puissance</strong> 11<br>
+<strong>Bonus de Maîtrise</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong><em>Résistance Légendaire (1/jour).</em></strong> Si l'orateur des potences rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
+<p><strong><em>Sens de Divination.</em></strong> L'orateur des potences peut voir à 18 mètres dans le Plan Éthéré quand il est sur le Plan Matériel et vice versa.</p>
+<p><strong><em>Colère du Traître.</em></strong> Si l'orateur des potences est réduit à 0 point de vie, les volutes dorées autour de lui s'éteignent, révélant cinq dagues aux lames ondulées et aux manches laqués de rouge, noir et or. Tous les effets actuels de l'orateur des potences se terminent, et ses statistiques sont instantanément remplacées par celles du <strong>Vengeur Ba'al Verzi</strong>. Son initiative reste la même. Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais il conserve tous les états qu'il avait dans sa forme précédente.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Foretelling Touch.</em></strong> <em>Melee Spell Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</p>
-<p><strong><em>Will-o'-Wisp.</em></strong> <em>Ranged Spell Attack:</em> +8 to hit, range 30 ft., one creature. <em>Hit:</em> 13 (3d8) necrotic damage.</p>
-<p><strong><em>Deathly Visions.</em></strong> The gallows speaker forces a creature that it can see within 30 feet to make a DC 16 Wisdom saving throw, flooding its mind with terrifying images of its own violent death. On a failure, that creature is paralyzed until the start of the gallows speaker’s next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures that the gallows speaker can see within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
-<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point it can see within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
-<h3>Reactions</h3>
-<p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
-<p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
+<p><strong><em>Attaques Multiples.</em></strong> L'orateur des potences effectue deux attaques.</p>
+<p><strong><em>Toucher de Présage.</em></strong> <em>Attaque de Sort au Corps à Corps :</em> +8 pour toucher, portée 1,5 m, une créature. <em>Touché :</em> 15 (2d10 + 4) dégâts psychiques, et la cible doit lancer un d4 et soustraire le nombre obtenu de son prochain jet d'attaque ou de sauvegarde avant le début du prochain tour de l'orateur des potences.</p>
+<p><strong><em>Feu Follet.</em></strong> <em>Attaque de Sort à Distance :</em> +8 pour toucher, portée 9 m, une créature. <em>Touché :</em> 13 (3d8) dégâts nécrotiques.</p>
+<p><strong><em>Visions de Mort.</em></strong> L'orateur des potences force une créature qu'il peut voir dans un rayon de 9 mètres à effectuer un jet de sauvegarde de Sagesse DD 16, inondant son esprit d'images terrifiantes de sa propre mort violente. En cas d'échec, cette créature est paralysée jusqu'au début du prochain tour de l'orateur des potences.</p>
+<h3>Actions Bonus</h3>
+<p><strong><em>Fouet des Âmes.</em></strong> Des chaînes éthérées jaillissent autour de l'orateur des potences, forçant jusqu'à deux créatures dans un rayon de 1,5 mètre à réussir un jet de sauvegarde de Force DD 16 ou subir 9 (2d8) dégâts nécrotiques et être entravées jusqu'au début du prochain tour de l'orateur des potences. Une créature qui réussit le jet de sauvegarde subit la moitié des dégâts et n'est pas entravée.</p>
+<p><strong><em>Éclat de Lumière Spectrale.</em></strong> L'orateur des potences dirige un de ses feux follets vers un point dans un rayon de 9 mètres, où il explose d'une lumière dorée. Chaque créature dans un rayon de 1,5 mètre de ce point doit réussir un jet de sauvegarde de Constitution DD 16 ou subir 14 (4d6) dégâts radiants et être aveuglée jusqu'au début du prochain tour de l'orateur des potences. Une créature qui réussit le jet de sauvegarde subit la moitié des dégâts et n'est pas aveuglée.</p>
+<h3>Réactions</h3>
+<p>L'orateur des potences peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. S'il devait perdre ses réactions et n'est pas neutralisé, il perd une réaction à la place.</p>
+<p><strong><em>Révélation de la Mort.</em></strong> En réponse aux dégâts subis par une créature à portée, l'orateur des potences attaque cette créature avec son <strong><em>toucher de présage</em></strong> ou son <strong><em>feu follet</em></strong>.</p>
+<p><strong><em>Pas Spectral.</em></strong> En réponse aux dégâts subis, l'orateur des potences se téléporte jusqu'à 4,5 mètres. Il peut alors immédiatement forcer chaque créature dans un rayon de 1,5 mètre de sa nouvelle position à effectuer un jet de sauvegarde de Sagesse DD 16. Chaque créature qui échoue au jet de sauvegarde est effrayée jusqu'à la fin de son prochain tour.</p>
 </div>
+<br>
 <br>
 <div class="statblock">
-<h2>Ba’al Verzi Avenger</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Vengeur Ba'al Verzi</h2>
+<em>Mort-vivant de taille M, neutre mauvais</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe d'Armure</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (35d8)
+<strong>Points de Vie</strong> 157 (35d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<strong>Vitesse</strong> 0 m, vol 12 m (stationnaire)
 <hr>
 <table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>8 (-1)</td>
-      <td>16 (+3)</td>
-      <td>10 (+0)</td>
-      <td>10 (+0)</td>
-      <td>12 (+1)</td>
-      <td>18 (+4)</td>
-    </tr>
-  </tbody>
+   <thead>
+      <tr>
+         <th>FOR</th>
+         <th>DEX</th>
+         <th>CON</th>
+         <th>INT</th>
+         <th>SAG</th>
+         <th>CHA</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>8 (-1)</td>
+         <td>16 (+3)</td>
+         <td>10 (+0)</td>
+         <td>10 (+0)</td>
+         <td>12 (+1)</td>
+         <td>18 (+4)</td>
+      </tr>
+   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus</strong> +4<br>
+<strong>Jets de Sauvegarde</strong> Dex +7, Sag +5, Cha +8<br>
+<strong>Compétences</strong> Perception +5<br>
+<strong>Immunités aux Dégâts</strong> nécrotiques, poison<br>
+<strong>Immunités aux États</strong> charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi<br>
+<strong>Sens</strong> vision véritable 18 m, Perception passive 15<br>
+<strong>Langues</strong> abyssal, commun<br>
+<strong>Facteur de Puissance</strong> 11<br>
+<strong>Bonus de Maîtrise</strong> +4<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If the gallows speaker fails a saving throw, it can choose to succeed instead.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
+<p><strong><em>Résistance Légendaire (1/jour).</em></strong> Si le vengeur rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
+<p><strong><em>Sens de Divination.</em></strong> Le vengeur peut voir à 18 mètres dans le Plan Éthéré quand il est sur le Plan Matériel et vice versa.</p>
+<p><strong><em>Déplacement Incorporel.</em></strong> Le vengeur peut se déplacer à travers les autres créatures et les objets comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it. Leo doesn't gain disadvantage on an attack roll made with this attack due to being within 5 feet of a hostile creature.</p>
-<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
-<h3>Reactions</h3>
-<p>The avenger can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
-<p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
-<p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
+<p><strong><em>Attaques Multiples.</em></strong> Le vengeur effectue deux attaques.</p>
+<p><strong><em>Dague Ba'al Verzi.</em></strong> <em>Attaque d'Arme à Distance :</em> +8 pour toucher, portée 9 mètres, une créature. <em>Touché :</em> 7 (1d6 + 4) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Sagesse DD 16, subissant 14 (4d6) dégâts nécrotiques et devenant maudite jusqu'au début du prochain tour du vengeur en cas d'échec. En cas de réussite, la cible subit la moitié des dégâts nécrotiques et n'est pas maudite. Tant qu'elle est maudite de cette façon, une créature se déplace à demi-vitesse et ne peut pas regagner de points de vie, et le vengeur a l'avantage aux jets d'attaque effectués contre elle. Leo ne subit pas de désavantage sur un jet d'attaque effectué avec cette attaque en raison de sa présence à 1,5 mètre d'une créature hostile.</p>
+<p><strong><em>Étreinte de la Tombe.</em></strong> <em>Attaque d'Arme au Corps à Corps :</em> +8 pour toucher, portée 1,5 m, une créature. <em>Touché :</em> 18 (4d8) dégâts nécrotiques et la cible est agrippée jusqu'à ce que le vengeur perde sa concentration (comme s'il se concentrait sur un sort) ou jusqu'à ce que la cible utilise son action pour se libérer (évasion DD 16). (Tirer cette cible ne fait pas se déplacer le vengeur plus lentement.) Le vengeur peut alors immédiatement se déplacer jusqu'à la moitié de sa vitesse sans provoquer d'attaques d'opportunité. Jusqu'à ce que cette empoignade se termine, la cible est entravée et subit 9 (2d8) dégâts nécrotiques supplémentaires au début de chacun de ses tours, et le vengeur ne peut pas utiliser <strong><em>étreinte de la tombe</em></strong> sur une autre cible.</p>
+<h3>Actions Bonus</h3>
+<p><strong><em>Âmes Hurlantes.</em></strong> Un linceul d'esprits gémissants entoure chaque créature dans un rayon de 1,5 mètre du vengeur. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 16 ou subir 9 (2d8) dégâts nécrotiques et être hébétée jusqu'au début du prochain tour du vengeur. (Une créature hébétée peut se déplacer ou effectuer une action lors de son tour, mais pas les deux. Elle ne peut pas non plus effectuer d'action bonus ou de réaction.)</p>
+<p><strong><em>Hurlement des Abandonnés (Recharge 5-6).</em></strong> Les esprits dans la cape du vengeur poussent un cri fou et bouillonnant. Chaque créature dans un rayon de 18 mètres doit réussir un jet de sauvegarde de Sagesse DD 16 ou être effrayée jusqu'au début du prochain tour du vengeur.</p>
+<h3>Réactions</h3>
+<p>Le vengeur peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. S'il devait perdre ses réactions et n'est pas neutralisé, il perd une réaction à la place.</p>
+<p><strong><em>Prémonition Macabre.</em></strong> En réponse à une attaque ou un sort qui le cible et qui nécessite un jet de sauvegarde, le vengeur impose un désavantage au jet d'attaque ou s'octroie l'avantage au jet de sauvegarde. Après le jet, le vengeur peut immédiatement se déplacer jusqu'à la moitié de sa vitesse sans provoquer d'attaques d'opportunité.</p>
+<p><strong><em>Nœud Coulant du Traître.</em></strong> En réponse à une attaque au corps à corps qui le cible, le vengeur fait apparaître un nœud coulant spectral qui pend mollement autour du cou de l'attaquant, le forçant à effectuer un jet de sauvegarde de Sagesse DD 16. En cas d'échec, l'attaquant est rempli d'une rage brève et aveuglante envers une autre créature au choix du vengeur, et doit à la place utiliser immédiatement sa réaction, si disponible, pour se déplacer de toute sa vitesse vers cette créature et effectuer la même attaque au corps à corps contre cette créature. Le nœud coulant disparaît ensuite.</p>
+<p><strong><em>Échos Hantés.</em></strong> En réponse aux dégâts subis par une créature, le vengeur force cette créature à effectuer un jet de sauvegarde de Sagesse DD 16. En cas d'échec, cette créature subit 10 (4d4) dégâts psychiques et a un désavantage au prochain jet d'attaque ou test de caractéristique qu'elle effectue avant le début de son prochain tour.</p>
 </div>
 
-> [!combat]- **Balancing the Gallows Speaker**
-> Due to the phase mechanic, this is a series of two consecutive **bloody** combat encounters against a party of five 5th-level players and two CR 2 allies (Erasmus van Richten and Lady Fiona Wachter), which will each consume approximately 42% of the party's total maximum hit points (for a total of 84% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Équilibrage de l'Orateur des Potences** 
+> En raison du mécanisme de phases, il s'agit d'une série de deux rencontres de combat **éprouvantes** consécutives contre un groupe de cinq joueurs de niveau 5, un allié de FD 6 (Victor Vallakovich), un allié de FD 1 (Majesto) et un allié de FD 2 (Fiona Wachter), et chacune consommera environ 28% de leurs points de vie maximum totaux (pour un total de 56% de leurs points de vie maximum). Pour les groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+> - _**Trois Joueurs.**_ Réduisez les points de vie de Leo à 92 dans chaque phase. Pour sa première phase, réduisez les dégâts de son attaque de toucher de présage à 11 (2d8+2), son attaque de feu follet à 10 (3d6), son action bonus fouet des âmes à 7 (2d6), et son action bonus éclat de lumière spectrale à 10 (4d4). Pour sa deuxième phase, réduisez son attaque de dague Ba'al Verzi à 5 (1d6+2) dégâts perforants et 10 (4d4) dégâts nécrotiques, son attaque étreinte de la tombe à 14 (4d6) dégâts initiaux et 7 (2d6) dégâts continus, son action bonus âmes hurlantes à 7 (2d6), et ses échos hantés à 7 (3d4).
+> - _**Quatre Joueurs.**_ Réduisez les points de vie de Leo à 109 dans chaque phase. Pour sa première phase, réduisez son attaque de toucher de présage à 13 (2d8+4), son attaque de feu follet à 11 (2d10), son action bonus fouet des âmes à 7 (2d6), et son action bonus éclat de lumière spectrale à 12 (5d4). Pour sa deuxième phase, réduisez son attaque de dague Ba'al Verzi à 6 (1d4+4) dégâts perforants et 12 (5d4) dégâts nécrotiques, son attaque étreinte de la tombe à 15 (6d4) dégâts initiaux et 7 (3d4) dégâts continus, son action bonus âmes hurlantes à 7 (2d6), et sa réaction échos hantés à 9 (2d8).
+> - _**Six Joueurs.**_ Augmentez les points de vie de Leo à 143 dans chaque phase. Pour sa première phase, augmentez son attaque de toucher de présage à 17 (2d12+4), son attaque de feu follet à 15 (6d4), et son action bonus éclat de lumière spectrale à 16 (3d10). Pour sa deuxième phase, augmentez son attaque de dague Ba'al Verzi à 8 (1d8+4) dégâts perforants et 16 (3d10) dégâts nécrotiques, son attaque étreinte de la tombe à 20 (8d4) dégâts initiaux et 10 (4d4) dégâts continus, son action bonus âmes hurlantes à 10 (4d4), et ses échos hantés à 11 (2d10).
+### Retour au Plan Matériel
+
+Alors que le rituel de téléportation touche à sa fin, des perles de lumière éthérées émergent autour de la forme spectrale de Stella, s'accrochant à sa robe et ses cheveux et scintillant comme des lucioles. La séquence suivante se déroule alors, sauf si les joueurs interviennent :
+
+- Erasmus dérive vers le bord du cercle de téléportation. "Es-tu prête ?" demande-t-il doucement. Stella hoche timidement la tête, répondant "Je crois. Un peu effrayée."
+- Erasmus sourit tristement. "Ne le sois pas," dit-il. "Victor et tes amis prendront bien soin de toi. Et même si tu ne peux pas me voir ou m'entendre, je ne serai jamais loin."
+- Stella a un hoquet, des larmes brillant aux coins de ses yeux. "Merci," dit-elle, tendant une main. "Pour tout." Erasmus déglutit et tend sa main en retour. "Stella," dit-il, rayonnant à travers ses larmes. "C'était un honneur." Pendant un bref instant, leurs doigts se touchent—puis les perles de lumière autour de Stella explosent en un éclat radieux. Elle disparaît, laissant Erasmus ne touchant plus que le vide.
+
+Après un moment, Erasmus essuie ses yeux sur sa manche spectrale et se tourne pour faire ses adieux aux joueurs. Si les joueurs tentent de le réconforter, il insiste qu'il va bien. "Je suis heureux pour elle," dit-il doucement. "Elle a une seconde chance. Tout le monde n'a pas cette opportunité." Si elle est présente, [[Personnages Non-Joueurs#Lady Fiona Wachter|Dame Wachter]] fixe Erasmus d'un long regard illisible, avant que son regard ne s'adoucisse brusquement, une lueur de chaleur dans ses yeux.
+
+Dame Wachter fait alors planer une main au-dessus de l'épaule d'Erasmus et dit : "Merci d'avoir protégé ma fille. La Maison Wachter a envers vous une dette inoubliable. Si jamais vous vous trouvez en présence de la Wachterhaus, sachez que vous y serez toujours le bienvenu." Erasmus sourit et la remercie.
+
+[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] demande alors aux joueurs s'ils sont prêts à partir pour le Plan Matériel. Avant qu'ils ne partent, cependant, Erasmus leur offre les avertissements suivants :
+
+- D'étranges araignées géantes passent dans et hors du Plan Éthéré parmi les ruines de la ville au sud-ouest de Vallaki. Si les joueurs voyagent là-bas, ils devraient être prudents. (Victor reconnaît celles-ci comme des **araignées de phase**, décrites plus en détail dans _Entités Éthérées_.)
+- Strahd von Zarovich visite occasionnellement le Plan Éthéré monté sur un cheval démoniaque à la robe noire comme le charbon et à la crinière enflammée. (Victor reconnaît cela comme un **cauchemar**, décrit plus en détail dans _Entités Éthérées_.)
+
+Quand les joueurs ont fait leurs adieux, Victor se tourne vers Erasmus et lui fait un signe de tête reconnaissant, qu'Erasmus lui retourne. Victor prononce alors une seule syllabe, et le Plan Éthéré disparaît dans un éclat de lumière blanche.
+
+Les joueurs se retrouvent alors de retour dans le quartier général du culte sous la Wachterhaus. Victor se dirige immédiatement vers la sortie de la cave, appelant frénétiquement le nom de Stella alors qu'il monte vers <span class="citation">N4r. Entrée de la Cave (p. 114)</span> et passe à travers <span class="citation">N4d. Débarras (p. 112)</span> et <span class="citation">N4c. Cuisine (p. 112)</span>.
+
+Si les joueurs suivent, ils peuvent observer Victor et Stella se rencontrer au pied de <span class="citation">N4b. Escalier (p. 110)</span>. Victor prend Stella dans ses bras et tous deux s'agenouillent au sol, sanglotant de joie. La séquence suivante se déroule alors, à moins que les joueurs n'interviennent :
+
+- "Je suis tellement désolé," sanglote Victor, serrant Stella fort. "J'avais tellement peur de t'avoir perdue, et c'était entièrement ma faute."
+- Stella pleure sur l'épaule de Victor, hoquetant à plusieurs reprises alors qu'elle agrippe ses manches. "Ce n'était pas ta faute," dit-elle. "Tu m'as _sauvée_."
+- Si elle est présente, Dame Wachter s'avance, visiblement hésitante et incertaine. Stella lève les yeux vers elle, relâche sa prise sur Victor, et se jette dans les bras de sa mère. Dame Wachter se raidit, puis se détend, levant une main incertaine pour caresser doucement les cheveux de Stella. Stella déglutit, tout son corps tremblant alors qu'elle enfouit son visage dans l'épaule de sa mère. "Je suis désolée," sanglote-t-elle. "C'était ma faute—s'il te plaît, ne blâme pas Victor." Dame Wachter serre Stella fort. "Chut," murmure-t-elle. "Tout va bien. Je suis là."
+- Quand Dame Wachter la relâche enfin, Stella s'avance vers les joueurs—et trébuche, son pied manquant de se dérober sous elle. Victor et Dame Wachter se précipitent pour la rattraper. "Tu as été hors de ton corps trop longtemps," la prévient Victor. "Tu dois te réhabituer à avoir des jambes."
+- Stella hoche la tête, puis regarde autour d'elle vers les joueurs, ses yeux brillant de gratitude. "Merci," dit-elle. "C'était si silencieux là-dedans—si _froid._ Mais grâce à vous, je peux _ressentir_ à nouveau. Je peux entendre le monde à nouveau. Merci—du fond du cœur, _merci._"
+
+En reconnaissance des efforts des joueurs, Dame Wachter leur offre une _lanterne de révélation_, ainsi qu'une invitation permanente à chercher son aide ou ses conseils chaque fois qu'ils se trouvent à Vallaki, tant que leurs efforts ne risquent pas de nuire à la ville ou à ses habitants.
+
+_**Étape clé.**_ Restaurer l'âme de Stella dans son corps complète une étape clé de l'histoire. Si les joueurs la sauvent avec succès du Plan Éthéré, accordez à chaque joueur 1 750 PX.
+
+> [!item]+ **Miroir Spirituel**
 > 
-> * ***Three Players.*** Reduce Leo’s hit points to 92 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage.
-> * ***Four Players.*** Reduce Leo’s hit points to 109 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage.
->  * ***Six Players.*** Increase Leo’s hit points to 143 in each phase. For his first phase, increase his foretelling touch attack to to 17 (2d12+4) damage, his will-o’-wisp attack to 15 (6d4) damage, and his wisplight flare bonus action to 16 (3d10) damage. For his second phase, increase his Ba’al Verzi dagger attack to 8 (1d8+4) piercing and 16 (3d10) necrotic damage, his grasp of the grave attack to 20 (8d4) initial damage and 10 (4d4) continual damage, his shrieking souls bonus action to 10 (4d4) damage, and his haunting echoes to 11 (2d10) damage.
-### Return to the Material Plane
-As the teleportation ritual draws to a close, ethereal beads of light emerge around Stella’s ghostly form, clinging to her dress and hair and flickering like fireflies. The following sequence then unfolds unless the players intervene:
+> _Objet merveilleux, rare_
+> 
+> En plus de son plan actuel, ce miroir de bronze orné reflète également l'emplacement correspondant dans le Plan Éthéré jusqu'à une distance de 18 mètres.
+> 
+> Une fois par jour, vous pouvez utiliser une action pour le faire rétrécir à la taille d'un miroir à main ou le faire grandir à la taille d'un miroir en pied.
 
-* Erasmus drifts toward the edge of the teleportation circle. “Are you ready?” he asks quietly. Stella nods shyly, replying, “I think so. A bit afraid.”
-* Erasmus smiles sadly. “Don’t be,” he says. “Victor and your friends will take good care of you. And even if you can’t see or hear me, I’ll never be far away.”
-* Stella hiccups, tears glittering at the corners of her eyes. “Thank you,” she says, reaching out a hand. “For everything.” Erasmus swallows, and reaches out toward her hand in turn. “Stella,” he says, beaming through tears. “It was my honor.” For a brief instant, their fingers touch—and then the beads of light around Stella burst into radiant brilliance. She vanishes, leaving Erasmus touching nothing more than empty air.
+> [!abstract]+ **Van Richten & le Miroir Spirituel** 
+> La malédiction du Dr. Rudolph van Richten l'empêche de percevoir son fils, Erasmus, dans le _miroir spirituel_. Voir [[Arc S - Les Meurtres au Clair de Lune]] pour plus d'informations sur la levée de la malédiction de Van Richten.
 
-After a moment, Erasmus wipes his eyes on his spectral sleeve and turns to bid the players farewell. If the players attempt to comfort him, he insists that he is fine. “I’m happy for her,” he says softly. “She’s getting a second chance. Not everyone gets that.” If she is present, [[Personnages Non-Joueurs#Lady Fiona Wachter|Lady Wachter]] affixes Erasmus with a long, unreadable look, before her gaze abruptly softens, a flicker of warmth in her eyes. 
+# H9. Le Tome de Strahd
 
-Lady Wachter then hovers a hand over Erasmus’s shoulder and says, “Thank you for protecting my daughter. House Wachter owes you an unforgettable debt. Should you ever be in the presence of Wachterhaus, know that you will always be welcome there.” Erasmus smiles and thanks her.
+Le _Tome de Strahd_ est maintenu fermé par un fermoir en acier enchanté avec un sort de _verrou magique_ lancé au niveau 5. La phrase de passe pour le supprimer est "Je viens en mémoire de Dostron." (Seuls Strahd et sa plus ancienne épouse, Sasha Ivliskova, connaissent cette phrase de passe. Voir [[Arc O - Dîner avec le Diable]] pour plus d'informations sur Sasha Ivliskova.) Le _verrou magique_ peut aussi être supprimé normalement avec un sort de _déblocage_, un sort de _dissipation de la magie_, ou une magie similaire (par exemple, le _champ antimagie_ entourant <span class="citation">Chapitre 11. La Tour de Van Richten (p. 167)</span>).
 
-[[Personnages Non-Joueurs#Victor Vallakovich|Victor]] then asks the players if they are ready to depart for the Material Plane. Before they leave, however, Erasmus offers them the following warnings:
+Le fermoir nécessite normalement un test de Force DD 15 réussi pour être brisé, mais nécessite à la place un test de Force DD 25 réussi sous les effets du sort. De même, la serrure elle-même nécessite normalement un test de Dextérité (Outils de voleur) DD 15 pour être ouverte, mais nécessite à la place un test de Dextérité (Outils de voleur) DD 25 réussi sous les effets du sort. Une tentative de crocheter la serrure prend 1 minute.
+## H9a. Lecture du Tome
 
-* Strange giant spiders pass in and out of the Ethereal Plane amidst the ruins of the town to the southwest of Vallaki. If the players ever travel there, they should be careful. (Victor recognizes these as **phase spiders**, described further in *Ethereal Entities.*)
-* Strahd von Zarovich occasionally visits the Ethereal Plane astride a demonic horse with a charcoal-black coat and a burning, fiery mane. (Victor recognizes this as a **nightmare**, described further in *Ethereal Entities.*)
+Une fois ouvert avec succès, le contenu du _Tome_ se lit maintenant comme suit :
 
-When the players have bid their farewells, Victor turns to Erasmus and gives him a grateful, knowing nod, which Erasmus returns. Victor then speaks a single syllable, and the Ethereal Plane vanishes in a flare of white light.
+<div class="description">
+<p>Je suis l'Ancien. Je suis la Terre. Mes origines se perdent dans les ténèbres du passé. J'étais le guerrier, j'étais bon et juste. Je tonnais à travers la terre comme la colère d'un dieu juste, mais les années de guerre et les années de tuerie ont usé mon âme comme le vent use la pierre en sable.</p> 
+<p>Toute bonté a quitté ma vie. J'ai trouvé ma jeunesse et ma force disparues, et tout ce qu'il me restait était la mort. Mon armée s'est établie dans la vallée de Barovia et a pris le pouvoir sur le peuple au nom d'un dieu juste, mais sans aucune de la grâce ou de la justice d'un dieu.</p>
+<p>J'ai appelé ma famille, depuis longtemps déchue de leurs trônes ancestraux, et je les ai fait venir ici pour s'installer dans le château Ravenloft. Ils sont venus avec un de mes jeunes frères, Sergei. Il était beau et jeune. Je le haïssais pour les deux.</p> 
+<p>Parmi les familles de la vallée, un esprit brillait au-dessus de tous les autres : une beauté rare, qu'on appelait 'perfection', 'joie' et 'trésor'. Son nom était Tatyana, et je désirais ardemment qu'elle soit mienne. Mais 'Ancien' était mon nom pour elle—'aîné' et 'frère' aussi. Son cœur est allé à Sergei. Ils se sont fiancés. La date a été fixée.</p> 
+<p>Avec des mots elle m'appelait "frère", mais quand je regardais dans ses yeux ils reflétaient un autre nom : "mort". C'était la mort du vieillard qu'elle voyait en moi. Elle aimait sa jeunesse et en profitait, mais j'avais gaspillé la mienne. Et ainsi j'en suis venu à haïr la mort—ma mort.</p> 
+<p>Mais je ne serais pas appelé "mort" si tôt. J'ai conclu un pacte avec la Mort. Le jour du mariage, j'ai tué Sergei, mon frère, et j'ai scellé mon pacte avec son sang.</p> 
+<p>J'ai trouvé Tatyana pleurant dans le jardin à l'est de la chapelle. Elle a fui loin de moi, et je l'ai poursuivie. Finalement, dans le désespoir, elle s'est jetée des murs de Ravenloft, et j'ai regardé tout ce que j'avais jamais voulu tomber hors de ma portée pour toujours.</p> 
+<p>C'était une chute de trois cents mètres à travers les brumes. Aucune trace d'elle n'a jamais été trouvée, et même moi je ne connais pas son destin final. Les flèches des gardes du château m'ont percé jusqu'à l'âme, mais je ne suis pas mort. Je ne vivais pas non plus. Je suis devenu mort-vivant, pour toujours.</p>
+<p>J'ai beaucoup étudié depuis lors. 'Vampyr' est mon nouveau nom. Je désire toujours la vie et la jeunesse, et je maudis les vivants qui me les ont prises. Même le soleil est contre moi, mais peu d'autres choses peuvent me nuire maintenant. Même un pieu dans mon cœur ne me tue pas, bien qu'il m'empêche de bouger. Mais l'épée, cette épée maudite que Sergei a apportée ! Je dois me débarrasser de cet horrible outil ! Je la crains et la hais autant que le soleil.</p> 
+<p>J'ai aussi beaucoup appris sur cette terre de Barovia. Anciennes sont ses voies, anciennes au-delà de la connaissance des simples gens de la vallée. D'anciens dieux habitaient cette vallée bien avant ma venue, et trois sanctuaires cachés rendent encore hommage à leurs mémoires. J'ai visité le Sanctuaire du Marais, le Sanctuaire de la Forêt et le Sanctuaire de la Montagne, et j'ai revendiqué leur pouvoir pour moi-même. Leurs serviteurs me servent maintenant, et ainsi je suis devenu la Terre.</p> 
+<p>Depuis mon passage vers l'éternité, j'ai souvent chassé Tatyana. Je l'ai même sentie à ma portée, bien qu'elle m'ait fui une fois de plus. Mais elle ne peut pas fuir éternellement—et je n'ai que du temps.</p> 
+<p>J'écris ceci maintenant pour cristalliser ma rage face aux vents amers du temps. Alors que le froid de la tombe étreint mon cœur, je sens tout ce que j'étais me quitter—la mort de l'homme, et la naissance de l'immortel. Pourtant cette mémoire persistera, un rejeton de cette fureur vertueuse. J'enterrerai le passé, et ainsi commencerai à nouveau.</p> 
+<p>Je réside maintenant loin sous Ravenloft. Je vis parmi les morts et dors sous les pierres mêmes de ce château creux du désespoir. J'ai abandonné les richesses de mes conquêtes sous le son du beffroi, scellées derrière un rappel du trésor que j'ai autrefois perdu. Pourtant un jour, je me lèverai à nouveau des cendres de ma gloire et reprendrai ce qui est légitimement mien.</p>
+</div>
 
-The players then find themselves returned to the cult headquarters beneath Wachterhaus. Victor immediately moves for the exit to the cellar, frantically calling Stella’s name as he climbs toward <span class="citation">N4r. Cellar Entrance. (p. 114)</span> and passes through <span class="citation">N4d. Storage Room (p. 112)</span> and <span class="citation">N4c. Kitchen (p. 112)</span>.
+Les pages suivant le texte lisible sont remplies de diagrammes, d'équations et de milliers de symboles étranges. Les symboles ne sont pas un langage écrit, mais un code conçu par Strahd pour dissimuler ses plans secrets. (Seul la **liche** Exethanter connaît la clé pour décoder le code de Strahd. Voir [[Arc T - Le Temple d'Ambre]] pour plus d'informations sur Exethanter.) Plusieurs diagrammes semblent représenter un grand cœur humain cristallin, tandis que d'autres représentent des cercles de pierres levées.
 
-If the players follow, they can observe as Victor and Stella meet each other at the foot of <span class="citation">N4b. Staircase (p. 110)</span>. Victor throws his arms around Stella and the two kneel to the floor, sobbing with joy. The following sequence then unfolds, assuming the players do not intervene:
+Les joueurs qui lisent ces sections trouvent de nombreuses annotations faisant référence (en Commun) à un individu nommé Exethanter. De multiples instances du nom d'Exethanter sont accompagnées du symbole du Temple d'Ambre : un triangle équilatéral à bordure épaisse contenant un triangle équilatéral inversé, qui contient à son tour une ligne ondulée verticale. (Le triangle représente le dieu des secrets, le triangle inversé les sarcophages d'ambre, et la ligne ondulée les vestiges scellés à l'intérieur.)
 
-* “I’m so sorry,” Victor sobs, holding Stella tight. “I was so afraid I’d lost you, and it was all my fault.”
-* Stella cries into Victor’s shoulder, hiccuping repeatedly as she clutches his sleeves. “It wasn’t your fault,” she says. “You *saved* me.” 
-* If present, Lady Wachter steps forward, obviously hesitant and unsure. Stella looks up toward her, releases her grip on Victor, and launches herself into her mother’s embrace. Lady Wachter stiffens, then relaxes, lifting an uncertain hand to gently stroke Stella’s hair. Stella swallows, her whole body trembling as she burrows her face into her mother’s shoulder. “I’m sorry,” she sobs. “It was my fault—please, don’t blame Victor.” Lady Wachter holds Stella tight. “Hush,” she murmurs. “It’s all right. I’ve got you.”
-* When Lady Wachter finally releases her, Stella steps forward toward the players—and stumbles, her foot nearly falling out from under her. Victor and Lady Wachter swiftly move to catch her. “You’ve been out of your body for too long,” Victor cautions her. “You need to get used to having legs again.”
-* Stella nods, then looks around at the players, her eyes shining with gratitude. “Thank you,” she says. “It was so quiet in there—so *cold.* But because of you, I can *feel* again. I can hear the world again. Thank you—from the bottom of my heart, *thank you.*” 
+> [!abstract]+ **Le Symbole**
+> 
+> Le symbole du Temple d'Ambre peut être identifié par l'elfe crépusculaire Kasimir Velikov (qui l'a vu dans ses rêves), par le revenant Sir Godfrey Gwilym (qui a autrefois gardé le Temple), ou par Victor Vallakovich (qui a vu le symbole dans son grimoire). Parmi ces trois personnes, seuls Kasimir et Godfrey savent ce qu'est le Temple d'Ambre et où il peut être trouvé, et seul Kasimir—une fois que les joueurs auront complété [[Arc M - The Dragon's Manor]]—est disposé à leur dire comment s'y rendre.
 
-In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of revealing*, as well as a standing invitation to seek her aid or counsel whenever they find themselves in Vallaki, so long as their efforts do not risk harm to the town or its people.
+# Notes de Conception : L'Âme Perdue
 
-***Milestone.*** Restoring Stella’s soul to her body completes a story milestone. If the players successfully rescue her from the Ethereal Plane, award each player 1,750 XP.
+Le module original présente plusieurs idées et mises en scène intéressantes—le cercle de sorcières à Vieux Broyeur d'Os, les drogués aux gâteaux de rêve, le cercle de téléportation de Victor Vallakovich, l'étrange maladie de Stella Wachter, et la trahison de Leo Dilisnya—mais échoue finalement à en faire quelque chose d'intéressant ou de significatif.
 
-> [!item]+ **Spirit Mirror**
->
-> *Wondrous item, rare (requires attunement)*
->
-> In addition to its current plane, this ornate bronze mirror also reflects the corresponding location in the Ethereal Plane out to a distance of 60 feet.
->
-> Once per day while attuned, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
+Dans le module original, les joueurs n'ont [](Arc%20M%20-%20Le%20Phare%20d'Argynvost.md)à s'intéresser à aucun de ces éléments, et ceux qui présentent des accroches narratives (par exemple, l'apparition de Morgantha dans le village de Barovia) offrent peu de profondeur narrative à explorer.
 
-> [!abstract]+ **Van Richten & the Spirit Mirror**
-> Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.
-# H9. The Tome of Strahd
-The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
+Ainsi, cet arc vise à retravailler de manière exhaustive ces éléments narratifs épars en un ensemble plus cohérent qui reste néanmoins fidèle à l'intention et à l'ambiance du module original.
 
-The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
-## H9a. Reading the Tome
-Once successfully opened, the contents of the *Tome* now read as follows: <sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/i4euxw/plaything_of_darkness_a_philosophy_students_take/">6</a></sup>
+- Victor Vallakovich, que la plupart des groupes jouant _La Malédiction de Strahd_ finissent inévitablement par considérer comme un ami malgré son alignement ostensiblement Mauvais, a été modifié pour être un personnage beaucoup plus sympathique.
+- Stella Wachter, dont la maladie déconcerte et amuse inévitablement les joueurs de _La Malédiction de Strahd_, a été modifiée pour fournir un lien direct avec les sorcières de Vieux Broyeur d'Os et les fantômes du Plan Éthéré. (Les fantômes en particulier sont un aspect de l'horreur gothique qui est tristement sous-développé dans le module original.)
+- Les joueurs ont maintenant une véritable opportunité d'être témoins et d'intervenir dans la souffrance causée par les guenaudes nocturnes sur leurs victimes, et de détruire leur corruption une fois pour toutes.
+- Enfin, les joueurs ont maintenant une chance d'en apprendre davantage sur l'histoire sombre de Leo Dilisnya, renforçant les thèmes développés dans le _Tome de Strahd_, préfigurant l'utilisation par Strahd de la dague Ba'al Verzi de Leo pour sceller les sangsues corrompant les Sanctuaires de Barovia, et apportant une conclusion émotionnelle à l'arc narratif de Dame Wachter concernant ses parents et son frère décédés.
 
-<div class="description"><p>I am the Ancient. I am the Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears stone into sand.</p>
-<p>All goodness slipped from my life. I found my youth and strength gone, and all I had left was death. My army settled in the valley of Barovia and took power over the people in the name of a just god, but with none of a god's grace or justice.</p>
-<p>I called for my family, long unseated from their ancient thrones, and brought them here to settle in the castle Ravenloft. They came with a younger brother of mine, Sergei. He was handsome and youthful. I hated him for both.</p>
-<p>From the families of the valley, one spirit shone above all others: a rare beauty, who was called 'perfection,' 'joy,' and 'treasure.' Her name was Tatyana, and I longed for her to be mine. But 'Old One' was my name to her—'elder' and 'brother' also. Her heart went to Sergei. They were betrothed. The date was set.</p>
-<p>With words she called me "brother," but when I looked into her eyes they reflected another name: "death." It was the death of the aged that she saw in me. She loved her youth and enjoyed it, but I had squandered mine. And so I came to hate death—my death. </p>
-<p>But I would not be called "death" so soon. I made a pact with Death. On the day of the wedding, I killed Sergei, my brother, and sealed my pact with his blood.</p>
-<p>I found Tatyana weeping in the garden east of the chapel. She fled from me, and I pursued. Finally, in despair, she flung herself from the walls of Ravenloft, and I watched everything I ever wanted fall from my grasp forever.</p>
-<p>It was a thousand feet through the mists. No trace of her was ever found, and not even I know her final fate. Arrows from the castle guards pierced me to my soul, but I did not die. Nor did I live. I became undead, forever.</p>
-<p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. But the sword, that cursed sword that Sergei brought! I must dispose of that awful tool! I fear and hate it as much as the sun.</p>
-<p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
-<p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, though she fled from me once again. But she cannot run forever—and I have nothing but time.</p>
-<p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
-<p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
+Cet arc sert également à cimenter l'alliance de Dame Wachter avec les joueurs, renforçant les thèmes de résonance et d'unité qui parcourent l'aventure et fournissant une progression narrative claire à leur relation dans [[Arc F - Le Souhait de Dame Wachter]].
 
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc T - The Amber Temple]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+_**La Supplique d'Erasmus.**_ La visite d'Erasmus a été ajoutée pour fournir une accroche de secours à cet arc si les joueurs le manquent ou le déclinent ailleurs. La présence d'Erasmus dans cette partie de l'aventure sert également à fournir aux joueurs des explications concernant l'**orateur des potences** chassant l'âme de Stella, et à continuer de développer la tragédie de la famille Van Richten qui a commencé dans [[Arc E - La Vistana Disparue]].
 
-Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
+_**Manoir du Bourgmestre.**_ Le _miroir spirituel_ a été ajouté comme moyen d'expliquer la communication de Victor avec Stella, et comme récompense éventuelle pour les joueurs après avoir restauré l'âme de Stella.
 
-> [!abstract]+ **The Symbol**
->
-> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc M - Argynvost's Beacon]]—is willing to tell them how to get there.
-# Design Notes: The Lost Soul
-The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
+L'attaque de l'**orateur des potences** sur Stella a été ajoutée pour introduire explicitement Leo Dilisnya comme un antagoniste pour cet arc (même si son identité est actuellement inconnue des joueurs).
 
-In the original module, the players have [](Arc%20M%20-%20Argynvost's%20Beacon.md) to take an interest in any of these elements, and those that *do* present any hooks (e.g., Morgantha's appearance in the village of Barovia) provide little narrative depth to actually explore.
+Le lien faiblissant de Stella a été ajouté pour fournir un décompte clair pour la question dramatique de cet arc, avec ses souvenirs qui s'estompent et ses étranges visions servant à préfigurer l'existence de la réincarnation à Barovia (un élément narratif clé dans l'arc narratif d'Ireena, exploré plus en détail dans [[Arc X - L'Héritage de Tatyana]]).
 
-As such, this arc aims to comprehensively rework these stray narrative elements into a more cohesive whole that still remains true to the intent and flavor of the original module. 
+Le cercle de téléportation de Victor est maintenant fonctionnel pour (1) faire comprendre clairement aux joueurs que l'évasion magique de Barovia n'est pas possible, et (2) s'assurer que les joueurs voient Victor comme un mage compétent, plutôt qu'incompétent.
 
-* Victor Vallakovich, who most *Curse of Strahd* playgroups inevitably befriend despite his ostensibly Evil alignment, has been altered to be a far more sympathetic character. 
-* Stella Wachter, whose illness inevitably confounds and amuses *Curse of Strahd* players, has been altered to provide a direct tie-in to the hags of Old Bonegrinder and the ghosts of the Ethereal Plane. (Ghosts in particular are an aspect of gothic horror that is sorely undeveloped in the original module.) 
-* The players now have a true opportunity to witness and intervene in the suffering wrought by night hags upon their victims, and to destroy their corruption once and for all.
-* Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the Fanes of Barovia, and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
+Le rituel d'_éthéréalité_ a été ajouté pour donner aux joueurs une raison d'enquêter sur les **guenaudes nocturnes** de Vieux Broyeur d'Os.
 
-This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc G - Lady Wachter's Wish.]]
+La nuit de la pleine lune a été intentionnellement placée la nuit du sixième jour complet des joueurs à Barovia afin de leur donner suffisamment de temps pour accomplir d'autres quêtes dans l'Acte II (et donc atteindre le niveau 5) avant d'affronter les sorcières de Vieux Broyeur d'Os et l'**orateur des potences** de Leo Dilisnya—deux adversaires exceptionnellement puissants.
 
-***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc F - The Missing Vistana.]]
+_**Le Camp de Réfugiés.**_ Franz et ses enfants ont été ajoutés pour fournir aux joueurs une raison émotionnelle de détester le cercle de sorcières, pour confirmer que Morgantha est une guenaude nocturne, pour ajouter une complication supplémentaire dans les efforts des joueurs pour vaincre ou négocier avec le cercle, pour ajouter des enjeux supplémentaires à la défaite du cercle, et pour fournir aux joueurs un moyen d'identifier l'emplacement du contrat du cercle (et donc d'apprendre les vrais noms des sorcières pour les lier).
 
-***Burgomaster's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
+_**Matrones de la Malveillance.**_ Le chapitre extrait sur les guenaudes nocturnes dans le livre de Mordenkainen, _Entités Éthérées : Habitants du Plan Invisible_ a été écrit pour informer les joueurs que (1) les guenaudes nocturnes sont vulnérables à l'argent et résistantes aux dégâts magiques et d'armes non magiques, (2) les guenaudes nocturnes sont des créatures particulièrement rusées, mais arrogantes, (3) les guenaudes nocturnes sont disposées à conclure des marchés et on peut leur faire confiance pour respecter leur part du marché, (4) les guenaudes nocturnes peuvent instantanément et facilement s'échapper dans le Plan Éthéré grâce à l'utilisation de leurs pierres de cœur, (5) les guenaudes nocturnes peuvent lancer _dissipation de la magie_ une fois par jour lorsqu'elles sont en cercle, et (6) le contrat d'un cercle de guenaudes nocturnes contient leurs vrais noms, et elles le gardent donc précieusement.
 
-The **gallows speaker**'s attack on Stella has been added to explicitly introduce Leo Dilisnya as an antagonist for this arc (even if his identity is currently unknown to the players). 
+_**Le Plan de Victor.**_ Victor a reçu le sort _envoi_ à la place du sort _lever une malédiction_ afin de préserver la tension dramatique de la malédiction de la lycanthropie (et ainsi encourager les joueurs affectés à chercher de l'aconit à Krezk afin d'obtenir l'élixir calmant de Van Richten, comme décrit dans [[Arc E - La Vistani Disparue]]).
 
-Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in Ireena's character arc, explored further in [[Arc X - Tatyana's Legacy]]).
+Ce guide donne intentionnellement aux joueurs le choix entre tuer et négocier avec les sorcières. Le cercle de liaison a été ajouté pour fournir aux joueurs le moyen de tuer le cercle (plutôt que de leur permettre de s'échapper dans le Plan Éthéré une fois menacées).
 
-Victor's teleportation circle is now a functional one to (1) make clear to the players that magical escape from Barovia is not possible, and (2) to ensure that the players view Victor as a competent mage, rather than an incompetent one.
+_**La Découverte de Stella.**_ Le plan du moulin a été ajouté pour permettre aux joueurs de localiser le contrat du cercle et donc d'apprendre les vrais noms des sorcières pour le rituel de liaison.
 
-The *etherealness* ritual has been added to provide the players with a reason to investigate the **night hags** of Old Bonegrinder.
+Le cercle de protection autour de la Wachterhaus a été ajouté pour préfigurer la menace de l'esprit de Leo Dilisnya, et pour signaler clairement aux joueurs que Dame Wachter est une alliée puissante dans leur effort pour sauver l'âme de Stella.
 
-The night of the full moon has been intentionally placed on the night of the players' sixth full day in Barovia in order to provide the players with sufficient time to complete other quests in Act II (and therefore reach 5th level) before doing battle with hags of Old Bonegrinder and the **gallows speaker** of Leo Dilisnya—two exceptionally powerful foes.
+La ligne tellurique sous la Wachterhaus a été placée là pour s'assurer que les joueurs effectuent le rituel d'_éthéréalité_ dans l'ancienne prison de Leo Dilisnya—le quartier général du culte de Dame Wachter—qui est autrement un endroit inquiétant et inconfortable.
 
-***The Refugee Camp.*** Franz and his children have been added to provide the players with an emotional reason to dislike the night hag coven, to confirm that Morgantha is a night hag, to provide an additional complication in the players' efforts to defeat or bargain with the coven, to add additional stakes to the coven's defeat, and to provide the players with a means of identifying the location of the coven's contract (and therefore learn the hags' true names in order to bind them).
+_**Le Cercle Protecteur de la Wachterhaus.**_ La tentative d'assassinat de Leo a été ajoutée pour fournir à Strahd un incident déclencheur qui l'a poussé à prendre conscience de sa propre mortalité, le conduisant ainsi à accepter le pacte des Puissances Obscures le jour du mariage de Sergei.
 
-***Matrons of Malevolence.*** The excerpted chapter on night hags in Mordenkainen's book, *Ethereal Entities: Denizens of the Unseen Plane* has been written to inform the players that (1) night hags are vulnerable to silver and resistant to magic and nonmagical weapon damage, (2) night hags are particularly cunning, yet arrogant creatures, (3) night hags are willing to make bargains and can be trusted to uphold their end of a deal, (4) night hags can instantly and easily escape into the Ethereal Plane through the use of their heartstones, (5) night hags can cast *dispel magic* once per day when in a coven, and (6) a night hag coven's contract contains their true names, and they therefore guard it carefully.
+L'emprisonnement de Leo sous la Wachterhaus—un élément des anciennes éditions de _Ravenloft_—et sa hantise subséquente du domaine ont été ajoutés afin de montrer l'étendue de la cruauté de Strahd, de créer un antagoniste clair s'opposant au sauvetage de Stella, et de créer un incident déclencheur qui a poussé Dame Wachter à quitter l'apprentissage de Baba Lysaga et à retourner à Vallaki.
 
-***Victor's Plan.*** Victor has been given the *sending* spell in place of the *remove curse* spell in order to preserve the dramatic tension of the curse of lycanthropy (and thereby encourage afflicted players to seek out wolfsbane in Krezk in order to secure Van Richten's calming elixir, as described in [[Arc E - La Vistana Disparue]]).
+Le refus de Dame Wachter d'aider Frederich Wachter sert à créer un "fil laissé en suspens" dans son histoire, lui donnant un besoin de résolution émotionnelle et un besoin de vengeance motivé par la culpabilité contre l'esprit de Leo Dilisnya.
 
-This guide intentionally has Victor give the players a choice between killing and bargaining with the hags. The binding circle has been added to provide the players with the means of killing the coven (rather than allowing them to escape into the Ethereal Plane once threatened).
+_**Wachterhaus.**_ Le doute de Dame Wachter concernant le sort de Stella est l'un des deux éléments narratifs ajoutés pour s'assurer que la barrière protectrice autour de la Wachterhaus est levée avant le final, permettant ainsi à l'esprit de Leo Dilisnya d'attaquer les joueurs pendant le point culminant de l'arc. (L'autre élément narratif est la ligne tellurique sous la Wachterhaus, qui nécessite que la barrière soit abaissée pour que Stella puisse participer au rituel de restauration de son âme.)
 
-***Stella's Discovery.*** The blueprint of the windmill has been added to provide the players with the ability to locate the coven's contract and therefore learn the hags' true names for the binding ritual. 
+La dépendance de Dame Wachter envers les membres de son culte pour le rituel de liaison a été ajoutée pour présenter le culte aux joueurs, et pour décourager les joueurs de tenter de tels rituels de liaison par eux-mêmes à l'avenir (par exemple, dans une tentative d'immobiliser Strahd ou son **cauchemar**, Beucephalus).
 
-The binding circle around Wachterhaus has been added to foreshadow the threat of Leo Dilisnya's spirit, and to clearly signal to the players that Lady Wachter is a powerful ally in their effort to save Stella's soul.
+_**La Vieille Route Svalich.**_ La rencontre aléatoire du **druide** a été ajoutée pour introduire la faction du Peuple de la Forêt avant leur présence officielle dans [[Arc J - La Gemme Volée]], et pour préfigurer davantage les relations de Dame Wachter avec Baba Lysaga et Leo Dilisnya.
 
-The leyline beneath Wachterhaus has been placed there to ensure that the players carry out the *etherealness* ritual within Leo Dilisnya's former prison—Lady Wachter's cult headquarters—which is otherwise a foreboding and uncomfortable location.
+_**Marché avec les Sorcières.**_ Cette brève voie alternative est proposée pour les groupes qui pourraient souhaiter utiliser une solution diplomatique plutôt qu'hostile, nonobstant la prédation de Franz et ses enfants par les sorcières. La sangsue d'âme a été ajoutée pour fournir aux joueurs une motivation supplémentaire pour faire un raid sur le Château Ravenloft dans [[Arc P - Le Casse de Ravenloft]] et pour susciter un intérêt plus proche pour Rahadin, le chambellan de Strahd.
 
-***Wachterhaus's Protective Circle.*** Leo's assassination attempt has been added to provide Strahd with an inciting incident that spurred the latter to take note of his own mortality, thereby driving him to accept the Dark Powers' pact on the day of Sergei's wedding.
+Ce guide renonce intentionnellement aux marchés alternatifs que les sorcières pourraient chercher à conclure, comme diriger les joueurs pour vendre des gâteaux de rêve ou kidnapper des enfants pour elles. Ces marchés alternatifs échouent pour plusieurs raisons :
 
-Leo's imprisonment beneath Wachterhaus—an artifact of older editions of *Ravenloft*—and his subsequent haunting of the estate have been added in order to convey the depths of Strahd's cruelty, to create a clear antagonist opposing Stella's rescue, and to create an inciting incident that drove Lady Wachter to depart Baba Lysaga's tutelage and return to Vallaki.
+1. Il n'y a pas de fin narrative satisfaisante à un tel arc de "corruption" en dehors de tuer les sorcières elles-mêmes (le résultat même que les joueurs essayaient d'éviter),
+2. Les sorcières n'ont aucun moyen de faire respecter un tel marché,
+3. Bien que de tels dilemmes moraux puissent faire de grands médias, peu de joueurs sont disposés (et encore moins enthousiastes) à jouer à un JDR impliquant le trafic d'enfants/la vente de drogue, et
+4. Les joueurs entreprennent ces tâches sous la contrainte (c'est-à-dire pour sauver Stella), et ne "choisissent" donc pas véritablement de tomber dans la corruption à la satisfaction des sorcières.
 
-Lady Wachter's rejection of Frederich Wachter's request for aid serves to create a "loose end" in her history, providing her with a need for emotional closure and a guilt-fueled need for vengeance against Leo Dilisnya's spirit.
+_**Les Mégalithes.**_ Le Sanctuaire de la Montagne a été placé près de Vieux Broyeur d'Os en raison de sa proximité avec les montagnes Balinok orientales (qui forment une chaîne de montagnes groupées autour du Château Ravenloft) et avec la résidence actuelle de Madame Eva à la Mare de Tser (qui fournit aux joueurs un moyen facile d'obtenir la troisième gemme enchantée de la cave à vin de sa tente afin de restaurer le Sanctuaire de la Montagne dans [[Arc Y - Les Dames des Sanctuaires]].)
 
-***Wachterhaus.*** Lady Wachter's doubt regarding Stella's fate is one of two narrative elements added to ensure that the protective barrier around Wachterhaus is dropped before the finale, therefore allowing the spirit of Leo Dilisnya to attack the players during the arc's climax. (The other narrative element is the leyline beneath Wachterhaus, which requires the barrier to be lowered in order for Stella to participate in the ritual to restore her soul.)
+Les brumes vampiriques ont été ajoutées pour décourager les joueurs de s'attarder dans cette zone, pour créer une barrière supplémentaire au demi-plan de la sangsue, et pour suggérer aux joueurs que ce site n'est pas tout ce qu'il semble être.
 
-Lady Wachter's reliance upon the members of her cult for the binding ritual has been added to introduce the cult to the players, and to discourage the players from attempting any such binding rituals on their own in the future (e.g., in an effort to incapacitate Strahd or his **nightmare**, Beucephalus).
+La pierre d'onyx qui dissimule le demi-plan de la sangsue a été ajoutée pour empêcher les joueurs de restaurer le Sanctuaire avant qu'ils n'obtiennent la dague maudite de Leo Dilisnya dans [[Arc U - Le Temple d'Ambre]].
 
-***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
+_**Vieux Broyeur d'Os.**_ L'action légendaire de _**dissipation de la magie**_ du cercle (et la réponse de _contresort_ de Victor) ont été ajoutées pour s'assurer que les joueurs combattent les sorcières à courte portée, plutôt que de spammer des sorts de _boule de feu_ à longue distance.
 
-***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc P - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
+L'exigence du vrai nom pour le rituel de liaison de Dame Wachter a été ajoutée pour fournir aux joueurs une tâche supplémentaire à accomplir avant que le cercle ne puisse être vaincu, obligeant ainsi les joueurs à "gagner" le droit d'utiliser l'expertise en sorts de Dame Wachter (et préservant ainsi l'autonomie des joueurs). Le contrat du cercle a été ajouté pour fournir aux joueurs un moyen réalisable d'acquérir les vrais noms des sorcières.
 
-This guide intentionally foregoes alternative bargains that the hags might seek to make, such as directing the players to sell dream pastries or kidnap children for them. These alternative bargains fail for multiple reasons:
+Le _charme d'héroïsme de masse_ a été ajouté pour fournir aux joueurs un bonus supplémentaire dans un combat de boss difficile avec beaucoup de jets de sauvegarde.
 
-1. There is no satisfying narrative end to such a "corruption" arc short of killing the hags themselves (the very outcome that the players were trying to avoid), 
+Freek a été renommé Fyodor pour supprimer les connotations négatives associées au nom "Freek".
 
-2. The hags have no way of enforcing such a bargain, 
-3. While such moral dilemmas may make for great media, few players are willing (let alone eager) to play a child-trafficking/drug-dealing TTRPG, and 
-4. The players are undertaking such tasks under duress (i.e., to save Stella), and are therefore not truly "choosing" to fall into corruption to the hags' satisfaction.
+L'utilisation par Morgantha des potions _Rire_ et _Lait Maternel_ (qui existent aussi dans le module original) a été ajoutée pour empêcher les joueurs de s'échapper facilement de leurs liens ou de se battre pour se libérer s'ils subissent un TPK face au cercle. La maladie de _fièvre du ricanement_ intensifie également le poids du TPK du groupe, s'assurant que les joueurs n'oublient pas de sitôt les conséquences de l'échec s'ils s'échappent.
 
-***The Megaliths.*** The Mountain Fane has been placed by Old Bonegrinder due to its proximity to the eastern Balinok Mountains (which form a clustered mountain range around Castle Ravenloft) and to Madam Eva's current residence at Tser Pool (which provides the players with an easy means of obtaining the third enchanted winery gemstone from her tent in order to restore the Mountain Fane in [[Arc Y - Ladies of the Fanes]].) 
+Les statistiques séparées des **guenaudes nocturnes** du cercle ont été remplacées par un seul bloc de statistiques unifié en deux phases pour éliminer le risque d'une "spirale de la mort"—soit pour les joueurs (à cause du spam d'_éclair_ des sorcières) soit pour les sorcières (car une seule **guenaude nocturne** est triviale à tuer avec des tirs concentrés, détruisant ainsi le cercle).
 
-The vampiric mists have been added to discourage the players from lingering in this area, to create an additional barrier to the leech's demiplane, and to hint to the players that this site is not all that it seems.
+La liste de sorts du cercle a été remplacée pour minimiser le caractère aléatoire des sorts de "réussite-ou-échec" et pour s'assurer que la santé des joueurs s'érode lentement avec chaque attaque, garantissant que les joueurs se sentent constamment menacés. Le cercle a également reçu plusieurs options supplémentaires viables pour infliger des dégâts afin de s'assurer que les sorcières ont un moyen réel de conclure la rencontre une fois qu'elles ont réussi à affaiblir les joueurs ou à manipuler le champ de bataille.
 
-The onyx stone that conceals the leech's demiplane has been added to prevent the players from restoring the Fane until after they obtain Leo Dilisnya's cursed dagger in [[Arc U - The Amber Temple.]]
+La phase **Trio de Cauchemar** du cercle a été ajoutée pour développer le sort de _métamorphose_ du cercle des Règles-Telles-Qu'Écrites, augmentant les enjeux et renforçant la nature monstrueuse des sorcières dans le point culminant de la rencontre.
 
-***Old Bonegrinder.*** The coven's ***dispel magic*** lair action (and Victor's *counterspell* response) have been added to ensure that the players fight the hags from close range, rather than spamming *fireball* spells from a long distance.
+Le bloc de statistiques du cercle, comme les autres blocs de statistiques de boss solo dans ce guide, a été révisé pour inclure des actions bonus et des réactions supplémentaires afin de promouvoir une expérience de combat dynamique et tactique pour le Maître du Donjon et les joueurs. La plupart des capacités ont été modifiées pour assurer une rencontre équilibrée, gagnable, mais stimulante pour les joueurs.
 
-The true name requirement of Lady Wachter's binding ritual has been added to provide the players with an additional task to complete before the coven can be defeated, thereby requiring the players to "earn" the right to use Lady Wachter's spellcasting expertise (and thereby preserving player agency). The coven's contract has been added to provide the players with a feasible means of acquiring the hags' true names.
+La négociation de Morgantha a été ajoutée pour fournir aux joueurs un dernier dilemme : épargner les sorcières et leur permettre de continuer leurs méfaits, ou accepter les informations de Morgantha et gagner un avantage potentiel sur Strahd. (Les secrets de Morgantha ont été soigneusement choisis pour faire _sentir_ aux joueurs qu'ils ont gagné des informations puissantes et secrètes, mais pour s'assurer qu'ils ne peuvent pas entreprendre d'action significative sur la base de ces informations avant plus tard dans la campagne.)
 
-The *charm of mass heroism* has been added to provide the players with an additional boost in a difficult, saving throw-heavy boss fight.
+_**Évasion de Vieux Broyeur d'Os.**_ Les exigences de Morgantha ont été ajoutées pour fournir aux joueurs un moyen plausible de négocier leur liberté d'une manière qui conserve le poids du TPK du groupe. Le sacrifice de "Franz" a été ajouté pour demander aux joueurs de franchir leurs limites morales (et donc promouvoir le développement des personnages au sein du groupe) d'une manière qui renonce intentionnellement à tout enjeu réel (permettant ainsi aux joueurs d'apprendre et de grandir à partir de leurs péchés plutôt que de se sentir liés par eux).
 
-Freek has been renamed to Fyodor remove the negative connotations associated with the name "Freek."
+La menace des sorcières de tuer les enfants et de les donner à manger aux joueurs le matin sous forme de gâteaux de rêve a été ajoutée pour créer une "horloge qui tourne" claire qui incite les joueurs à s'échapper rapidement.
 
-Morgantha's use of the *Laughter* and *Mother's Milk* potions (which also exist in the original module) has been added to prevent the players from easily escaping their bonds or fighting their way free should they TPK to the coven. The *cackle fever* disease also intensifies the weight of the party's TPK, ensuring that the players do not soon forget the consequences of failure should they escape.
+_**Le Rituel.**_ Les gravures sur les murs du quartier général du culte ont été ajoutées pour préfigurer l'emprisonnement de Leo Dilisnya, et pour introduire l'image de la dague Ba'al Verzi aux joueurs avant sa récupération dans [[Arc U - Le Temple d'Ambre]] et son utilisation dans [[Arc Y - Les Dames des Sanctuaires]].
 
-The coven's separate **night hag** statblocks have been replaced with a single, unified two-phase coven statblock to remove the risk of a "death spiral"—either for the players (due to the hags' *lightning bolt* spam) or for the hags (because a single **night hag** is trivially easy to kill with focus-fire, thereby destroying the coven). 
+Le fantôme d'Erasmus van Richten a été ajouté à cette rencontre pour fournir un soutien supplémentaire dans le combat des joueurs contre l'**orateur des potences** (un adversaire puissant), pour connecter cette histoire à l'implication du Dr Rudolph van Richten dans [[Arc E - La Vistana Disparue]], et pour faire progresser la connexion des joueurs avec la tragédie de la famille Van Richten.
 
-The coven's spell list has been replaced to minimize the "swinginess" of save-or-suck spells and to ensure that the players' health is being slowly whittled down with every attack, ensuring that the players feel constantly threatened. The coven has also been given multiple additional viable damage-dealing options in order to ensure that the hags have an actual means of bringing the encounter to a close once they've succesfully debuffed the players or otherwise manipulated the battlefield.
+L'attaque des **spectres** a été ajoutée pour épuiser partiellement les ressources des joueurs avant le combat avec l'**orateur des potences**, pour indiquer le risque pour l'âme de Stella si les joueurs échouent, et pour rendre l'orateur des potences plus impressionnant lors de son apparition subséquente.
 
-The coven's **Nightmare Three** phase has been added to build upon the Rules-As-Written coven's *polymorph* spell, raising the stakes and enhancing the hags' monstrous natures in the climax of the encounter.
+L'"argument" de Leo Dilisnya persuadant les joueurs de s'écarter est destiné à révéler l'histoire des clans Wachter et Dilisnya aux joueurs, dévoilant des parties importantes de l'histoire de Dame Wachter, établissant des enjeux clairs pour le combat à venir, et indiquant les profondeurs de la tyrannie et de la cruauté de Strahd. (Cette conversation révèle également la nature des dagues des Ba'al Verzi, que les joueurs rencontreront plus tard dans [[Arc U - Le Temple d'Ambre]].)
 
-The coven's statblock, like other solo boss statblocks in this guide, has been revised to include additional bonus actions and reactions in order to promote a dynamic and tactical combat experience for the Dungeon Master and players. Most abilities have been modified to ensure a balanced, winnable, yet challenging encounter for the players.
-
-Morgantha's parley has been added to provide the players with a final dilemma: to spare the hags and allow them to continue their evil ways, or to accept Morgantha's information and gain a potential advantage over Strahd. (Morgantha's secrets have been carefully chosen to make the players *feel* that they have gained powerful, secret information, but to ensure that the players cannot take any meaningful action on the basis of that information until later on in the campaign.)
-
-***Escape From Old Bonegrinder.*** Morgantha's demands have been added to provide the players with a feasible way of bargaining for their freedom in a manner that retains the weight of the party's TPK. "Franz's" sacrifice has been added to ask the players to cross their moral boundaries (and therefore promote intra-party character development) in a way that intentionally foregos any real stakes (therefore allowing players to learn and grow from their sins rather than feeling beholden to them).
-
-The hags' threat to kill the children and feed them to the players in the morning as dream pastries has been added to create a clear "ticking clock" that incentivizes the players to promptly escape.
-
-***The Ritual.*** The carvings on the walls of the cult headquarters have been added to foreshadow Leo Dilisnya's imprisonment, and to introduce the image of the Ba'al Verzi dagger to the players prior to its recoery in [[Arc U - The Amber Temple]] and its use in[[Arc Y - Ladies of the Fanes.]]
-
-The ghost of Erasmus van Richten has been added to this encounter to provide additional support in the players' battle against the **gallows speaker** (a powerful foe), to connect this storyline to Dr. Rudolph van Richten's involvement in [[Arc E - La Vistana Disparue]], and to advance the players' connection with the tragedy of the Van Richten family.
-
-The attack by the **specters** has been added to partially deplete the players' resources prior to the battle with the **gallows speaker**, to indicate the risk to Stella's soul should the players fail, and to make the gallows speaker more impressive when it subsequently appears.
-
-Leo Dilisnya's "argument" persuading the players to stand aside is intended to reveal the history of the Wachter and Dilisnya clans to the players, revealing significant portions of Lady Wachter's history, setting clear stakes for the ensuing combat, and indicating the depths of Strahd's tyranny and cruelty. (This conversation also reveals the nature of the daggers of the Ba'al Verzi, which the players will later encounter in [[Arc U - The Amber Temple]].)
-
-***Return to the Material Plane.*** Erasmus's warnings regarding the **phase spiders** of Berez and Strahd's **nightmare** steed have been added to provide the players with an additional reward upon completing this arc.
+_**Retour au Plan Matériel.**_ Les avertissements d'Erasmus concernant les **araignées de phase** de Berez et la monture **cauchemar** de Strahd ont été ajoutés pour fournir aux joueurs une récompense supplémentaire après avoir complété cet arc.

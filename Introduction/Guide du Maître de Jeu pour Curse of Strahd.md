@@ -112,7 +112,7 @@ Vous pouvez [[Comment utiliser ce guide|cliquer ici]] pour apprendre comment uti
 [[Arc F - Le Souhait de Dame Wachter]]. Les joueurs sont invités à rejoindre une dangereuse conspiration pour renverser le bourgmestre de Vallaki. 
 [[Arc G - Les Frères et Sœurs Strazni]]. Les joueurs rencontrent les sombres rêves du Capitaine de la Garde de Vallaki. 
 [[Arc H - L'Ame Perdue]]. Les joueurs aident les enfants de deux maisons nobles rivales à organiser un audacieux sauvetage fantomatique. 
-[[Arc I - The Walls of Krezk]]. Les joueurs se rendent dans les ruines de Berez pour gagner le passage jusqu'au village de Krezk.
+[[Arc I - Les Murs de Krezk]]. Les joueurs se rendent dans les ruines de Berez pour gagner le passage jusqu'au village de Krezk.
 
 ## Acte III - La Terre Brisée
 
@@ -131,20 +131,23 @@ Vous pouvez [[Comment utiliser ce guide|cliquer ici]] pour apprendre comment uti
 > 
 > Alternativement, si vous souhaitez lire les brouillons, les plans et les notes des versions à venir, vous pouvez le faire en devenant un supporter payant du [Patreon](https://www.patreon.com/DragnaCarta) de DragnaCarta. Cela vous permet également de rejoindre une communauté Discord exclusive de nouveaux et d'expérimentés MJ qui mènent _Reloaded_ eux-mêmes.
 > 
-> Le guide devrait être terminé durant l'automne 2024, avec des ajouts et révisions réguliers publiés approximativement une fois par mois. Si vous souhaitez consulter une liste des mises à jour les plus récentes, vous pouvez également consulter le [[Changelog|journal des changements]] du guide. Si vous souhaitez fournir des suggestions, des commentaires ou des critiques concernant la version actuelle du guide, vous pouvez le faire [ici](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
+> Le guide devrait être terminé durant le printemps 2025, avec des ajouts et révisions réguliers publiés approximativement une fois par mois. Si vous souhaitez consulter une liste des mises à jour les plus récentes, vous pouvez également consulter le [[Changelog|journal des changements]] du guide. Si vous souhaitez fournir des suggestions, des commentaires ou des critiques concernant la version actuelle du guide, vous pouvez le faire [ici](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
 
-## Acte IV - Les Secrets de l'Ancien
+## Acte IV - Secrets de l'Ancien
 
-[[Résumé de l'Acte IV]]. À venir. 
-[[Arc R - Les Épreuves de la Montagne]]. À venir. 
-[[Arc S - Le Temple Ambre]]. À venir. 
-[[Arc T - Le Chasseur de Monstres]]. À venir. 
-[[Arc U - Les Dames des Sanctuaires]]. À venir.
+[[Résumé de l'Acte IV]]. À venir.
+[[Arc R - Les Épreuves de la Montagne]]. Les joueurs gravissent le périlleux Col de Tsolenka tout en survivant aux prédations de Strahd.
+[[Arc S - Une Épée de Lumière]]. À venir.
+[[Arc T - La Caverne des Lumières]]. À venir.
 
 ## Acte V - La Malédiction de Strahd
 
 [[Résumé de l'Acte V]]. À venir. 
-[[Arc V - La Malédiction de Strahd]]. À venir. 
+[[Arc U - The Monster Hunter]]. Coming soon.
+[[Arc V - The Witch of Berez]]. Coming soon.
+[[Arc W - The Ladies of the Fanes]]. Coming soon.
+[[Arc V - The Whispering Wall]]. Coming soon.
+[[Arc X - The Curse of Strahd]]. Coming soon.
 [[Épilogue]]. À venir.
 
 ## Annexes
@@ -162,7 +165,7 @@ Ce guide gratuit non officiel est mis à disposition conformément à la [Politi
 Ce travail contient du matériel tiré du Système de Référence 5.1 ("SRD 5.1") de Wizards of the Coast LLC, disponible [ici](https://dnd.wizards.com/resources/systems-reference-document). Le SRD 5.1 est sous licence Creative Commons Attribution 4.0 International disponible [ici](https://creativecommons.org/licenses/by/4.0/legalcode). 
 _**Art.**_ Couverture et illustrations d'arrière-plan par [JamesRPGArt](https://jamesrpgart.com/), disponible sur [Patreon](https://www.patreon.com/jamesrpgart). Illustrations supplémentaires par [Caleb Cleveland](https://calebisdrawing.com/). Diagrammes de cartes de combats réalisés à l'aide de [Dungeon Scrawl](https://app.dungeonscrawl.com/). 
 _**Remerciements spéciaux à**_ **Twi**, dont la réflexion et la créativité ont rendu cette révision possible ; **Ziopliukas** et **Paintknight** pour leur encouragement et leur soutien ; **Cheese** et **Nancy** pour leur aide à l'équilibrage et aux tests des rencontres ; **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza** et **Scarfe** pour leurs conseils et leurs commentaires fréquents ; et [**GPT-4**](https://chat.openai.com/) et [Claude 3.5 Sonnet](https://claude.ai/) pour son aide à la réflexion et à la révision. 
-_**Remerciements supplémentaires à**_ a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, Alcibiades, AlexanderThulin, Alfie, alfie104, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Awox, Az, beau_motion, BeaverBoy99, Ben, BenD, Berzingh, BetaMax-Arcana, boganlanks, Booyahg, Bous237, boxfriend, Bruuneri, calebisdrawing, cesargm, chroma900, ClanRedHead, cleo, continuity, corrinisacat, CrackedSkeleton, CrazyEnough1757, Crazymajor, Cryptid, CSEngineAlt, Daeplin, Dakota Official, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Elijah-Rafael, Ella, ELQUEMANDA4, Ep, Eradu, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FriendlyInstance5722, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, GodSpeeD, Goldorgh, gr4v3dgr, Gray, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, Knight of the Nine, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Merfie, Miata07, MikaFirefly, Milvus, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, NerfWesPls, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, pirate_femme, PJ, PM_me_your_PhDs, pookmeister, presley, Pugs, Pyrosophy, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, ShapKees, Shard, Sherlock, Sigmarius, sigmarius, Silent Scribe, Silver, SkroxiousDM, SnackoSaurusRex, snarkycatboy, snickduck, sodneu, Søren, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Theatretech37, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yakei, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
+_**Remerciements supplémentaires à**_ a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, Alcibiades, AlexanderThulin, Alfie, alfie104, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Awox, Az, beau_motion, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, boganlanks, Booyahg, Bous237, boxfriend, Bruuneri, calebisdrawing, cesargm, chroma900, ClanRedHead, cleo, continuity, corrinisacat, CrackedSkeleton, CrazyEnough1757, Crazymajor, Crimson-1, Cryptid, CSEngineAlt, Daeplin, Dakota Official, DanPrime, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Elijah-Rafael, Ella, ELQUEMANDA4, Ep, Eradu, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FriendlyInstance5722, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, gmbenjamin, GodSpeeD, Goldorgh, gr4v3dgr, Gray, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, Knight of the Nine, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Merfie, Miata07, MikaFirefly, Milvus, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, Neokke, NerfWesPls, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, pirate_femme, PJ, PM_me_your_PhDs, pookmeister, presley, Pugs, Pyrosophy, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, ShapKees, Shard, Sherlock, Sigmarius, sigmarius, Silent Scribe, Silver, SkroxiousDM, SnackoSaurusRex, snarkycatboy, snickduck, sodneu, Søren, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Theatretech37, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yakei, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
 
 # À Propos de l'Auteur
 

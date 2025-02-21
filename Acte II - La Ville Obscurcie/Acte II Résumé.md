@@ -1,12 +1,10 @@
-Voici la traduction du texte :
-
 Dans cet acte, les joueurs sont amenés à explorer la ville ombragée de Vallaki - une localité barovienne qui s'est retrouvée embourbée dans la tension, la tragédie et l'intrigue suite au réveil de Strahd.
 
-Alors que les joueurs cherchent à remplir leurs obligations en suspens - escorter Ireena à l'église Saint-Andral dans [[Arc D - La Fête de Saint-Andral]] et livrer un jouet à l'enfant vistani Arabelle dans [[Arc E - La Vistana Disparue]] - ils rencontreront de nouveaux alliés et ennemis, notamment Victor Vallakovich, le fils du baron Vargas Vallakovich ; Lady Fiona Wachter, la rivale du baron pour le pouvoir ; le père Lucian Petrovich, le prêtre de l'église Saint-Andral ; Luvash et Arrigal, les chefs du camp vistani de Vallaki ; et le Dr Rudolph van Richten, le chasseur de vampires vétéran et seul survivant de la rébellion de Doru.
+Alors que les joueurs cherchent à remplir leurs obligations en suspens - escorter Ireena à l'église Saint-Andral dans [[Arc D - Le festin de Saint-Andral]] et livrer un jouet à l'enfant vistani Arabelle dans [[Arc E - La Vistana Disparue]] - ils rencontreront de nouveaux alliés et ennemis, notamment Victor Vallakovich, le fils du baron Vargas Vallakovich ; Lady Fiona Wachter, la rivale du baron pour le pouvoir ; le père Lucian Petrovich, le prêtre de l'église Saint-Andral ; Luvash et Arrigal, les chefs du camp vistani de Vallaki ; et le Dr Rudolph van Richten, le chasseur de vampires vétéran et seul survivant de la rébellion de Doru.
 
 À l'église Saint-Andral, les joueurs seront chargés de récupérer les os volés de Saint-Andral avant la nuit de la fête de Saint-Andral afin de maintenir les défenses sacrées de l'église. Au campement vistani de Vallaki, on demandera aux joueurs de retrouver et de secourir Arabelle suite à sa mystérieuse disparition.
 
-Peu après l'arrivée des joueurs à Vallaki, Lady Wachter pourrait les inviter à dîner personnellement dans sa propriété familiale, Wachterhaus, cherchant à les recruter dans une dangereuse conspiration dans [[Arc F - Le Souhait de Lady Wachter]]. Pendant ce temps, Izek Strazni rôde dans les rues de Vallaki à la recherche de sa sœur perdue depuis longtemps, Ireena, dans [[Arc G - Les Frères et Sœurs Strazni]]. Et suite à une rencontre rapprochée avec l'esprit d'Erasmus van Richten, les joueurs seront chargés d'obtenir une _pierre de cœur_ auprès des guenaudes nocturnes du Vieux Bonegrinder - une mission qui culminera finalement dans un combat éthéré avec le fantôme vengeur de Leo Dilisnya et la récupération du _Tome de Strahd_ dans [[Arc H - L'Âme Perdue]].
+Peu après l'arrivée des joueurs à Vallaki, Lady Wachter pourrait les inviter à dîner personnellement dans sa propriété familiale, Wachterhaus, cherchant à les recruter dans une dangereuse conspiration dans [[Arc F - Le Souhait de Dame Wachter]]. Pendant ce temps, Izek Strazni rôde dans les rues de Vallaki à la recherche de sa sœur perdue depuis longtemps, Ireena, dans [[Arc G - Les Frères et Sœurs Strazni]]. Et suite à une rencontre rapprochée avec l'esprit d'Erasmus van Richten, les joueurs seront chargés d'obtenir une _pierre de cœur_ auprès des guenaudes nocturnes du Vieux Bonegrinder - une mission qui culminera finalement dans un combat éthéré avec le fantôme vengeur de Leo Dilisnya et la récupération du _Tome de Strahd_ dans [[Arc H - L'Ame Perdue]].
 
 L'Acte II se termine le lendemain matin de la première pleine lune que les joueurs passent à Vallaki. (Voir [[#Étapes]] ci-dessous.) Cependant, les joueurs peuvent toujours terminer les arcs non résolus de cet acte même après le début de l'Acte III - en supposant, bien sûr, que ces arcs soient encore possibles à compléter.
 
@@ -42,7 +40,7 @@ Cette nuit-là, le fossoyeur de l'église, Milivoj, vole les os de Saint-Andral 
 
 ## Neyavr 3
 
-À l'aube, le père Lucian Petrovich découvre la disparition des os. Les joueurs qui amènent Ireena à l'église Saint-Andral après ce point commencent [[Arc D - La Fête de Saint-Andral]].
+À l'aube, le père Lucian Petrovich découvre la disparition des os. Les joueurs qui amènent Ireena à l'église Saint-Andral après ce point commencent [[Arc D - Le festin de Saint-Andral]].
 
 Izek Strazni et deux **gardes** affichent des affiches sur la place de la ville de Vallaki annonçant le Festival du Soleil Flamboyant. Les joueurs qui amènent Ireena sur la place de la ville à ce moment-là commencent [[Arc G - Les Frères et Sœurs Strazni]] si Izek n'a pas déjà vu Ireena.
 
@@ -56,7 +54,7 @@ Izek Strazni et deux **gardes** affichent des affiches sur la place de la ville 
 > 
 > Si les joueurs sont présents à cette réunion et se lient d'amitié ou s'antagonisent avec le Baron, il réagit comme décrit dans <span class="citation">Jouer le rôle de la famille Vallakovich (p. 105)</span>. Il se vante également auprès des joueurs du prochain Festival du Soleil Flamboyant, au cours duquel il prévoit de faire des offrandes brûlées au Seigneur du Matin dans un gigantesque soleil en osier - viandes séchées, encens, bijoux, etc. "Les cieux verront notre joie et notre richesse et nous regarderont favorablement", se vante-t-il. "Par notre bonne humeur, nous nous rapprocherons toujours plus de notre liberté face à cette sombre obscurité."
 
-Cette nuit-là, si les joueurs ont défié le Baron Vallakovich ou aidé Willemina Rikalova lors de leur première matinée à Vallaki, les joueurs reçoivent une invitation laissée par Ernst Larnak les invitant à dîner avec Lady Fiona Wachter à Wachterhaus. Les joueurs qui acceptent l'invitation de Lady Wachter à ce moment-là commencent [[Arc F - Le Souhait de Lady Wachter]].
+Cette nuit-là, si les joueurs ont défié le Baron Vallakovich ou aidé Willemina Rikalova lors de leur première matinée à Vallaki, les joueurs reçoivent une invitation laissée par Ernst Larnak les invitant à dîner avec Lady Fiona Wachter à Wachterhaus. Les joueurs qui acceptent l'invitation de Lady Wachter à ce moment-là commencent [[Arc F - Le Souhait de Dame Wachter]].
 ## 4 Neyavr
 
 La fête du nom d'Arabelle a lieu au campement Vistani. (Si les joueurs ne l'ont pas encore sauvée dans [[Arc E - La Vistana Disparue]], elle est absente et aucune célébration n'a lieu.)
@@ -67,11 +65,11 @@ Si Izek Strazni a vu Ireena à l'extérieur de l'Auberge de l'Eau Bleue le premi
 
 Si les joueurs ont accepté la mission de Lady Wachter de tuer Izek Strazni, Ernst Larnak les rencontre à l'Auberge de l'Eau Bleue avec une bouteille de vin empoisonnée et un sac de jute pour la tête d'Izek.
 
-Cette nuit-là, si les joueurs ont terminé [[Arc E - La Vistana Disparue]] et n'ont pas encore commencé [[Arc H - L'Âme Perdue]], l'esprit d'Erasmus van Richten apparaît aux joueurs sous forme de **poltergeist** et les invite à rencontrer Victor Vallakovich.
+Cette nuit-là, si les joueurs ont terminé [[Arc E - La Vistana Disparue]] et n'ont pas encore commencé [[Arc H - L'Ame Perdue]], l'esprit d'Erasmus van Richten apparaît aux joueurs sous forme de **poltergeist** et les invite à rencontrer Victor Vallakovich.
 
 ## 6 Neyavr
 
-Pendant l'absence des joueurs, si ceux-ci n'ont pas vaincu Izek Strazni dans [[Arc F - Le Souhait de Lady Wachter]], Izek enlève Ireena et l'emmène au manoir du Bourgmestre comme décrit dans [[Arc G - Les Frères et Sœurs Strazni]].
+Pendant l'absence des joueurs, si ceux-ci n'ont pas vaincu Izek Strazni dans [[Arc F - Le Souhait de Dame Wachter]], Izek enlève Ireena et l'emmène au manoir du Bourgmestre comme décrit dans [[Arc G - Les Frères et Sœurs Strazni]].
 
 ## 7 Neyavr
 
@@ -85,9 +83,9 @@ Si les protections de l'église de St. Andral n'ont pas été restaurées, la ma
 
 ## 8 Neyavr
 
-Si les joueurs n'ont pas réussi à empêcher l'attaque de Volenta ou à défendre l'église de St. Andral dans [[Arc D - La Fête de St. Andral]], une foule en colère se forme devant le manoir du Baron Vallakovich. Le chasseur Szoldar Szoldarovich trouve également Milivoj, le gardien de l'église, pendu à un arbre à l'extérieur de Vallaki - apparemment suicidé - et ramène son corps à sa famille.
+Si les joueurs n'ont pas réussi à empêcher l'attaque de Volenta ou à défendre l'église de St. Andral dans [[Arc D - Le festin de Saint-Andral]], une foule en colère se forme devant le manoir du Baron Vallakovich. Le chasseur Szoldar Szoldarovich trouve également Milivoj, le gardien de l'église, pendu à un arbre à l'extérieur de Vallaki - apparemment suicidé - et ramène son corps à sa famille.
 
-Peu après le coucher du soleil, si les joueurs n'ont pas réussi à empêcher l'attaque de Volenta ou à défendre l'église de St. Andral dans [[Arc D - La Fête de St. Andral]], la foule en colère assaille le manoir, capture le Baron et le lynche sur la place de la ville. Victor Vallakovich s'échappe, se réfugiant dans une des maisons abandonnées jouxtant les murs ouest de Vallaki. S'il est toujours en vie, Izek Strazni s'échappe également, se réfugiant dans <span class="citation">Q9. Quartiers des Serviteurs (p. 133)</span> à Argynvostholt.
+Peu après le coucher du soleil, si les joueurs n'ont pas réussi à empêcher l'attaque de Volenta ou à défendre l'église de St. Andral dans [[Arc D - Le festin de Saint-Andral]], la foule en colère assaille le manoir, capture le Baron et le lynche sur la place de la ville. Victor Vallakovich s'échappe, se réfugiant dans une des maisons abandonnées jouxtant les murs ouest de Vallaki. S'il est toujours en vie, Izek Strazni s'échappe également, se réfugiant dans <span class="citation">Q9. Quartiers des Serviteurs (p. 133)</span> à Argynvostholt.
 
 Au coucher du soleil, la **pleine lune** se lève sur Vallaki. (En raison de l'étrange cosmologie de Barovia, la prochaine pleine lune arrivera dans seulement deux semaines.)
 
@@ -112,22 +110,22 @@ Les quêtes de l'Acte II deviennent disponibles et sont résolues comme indiqué
 Le chemin le plus courant à travers l'Acte II est le suivant :
 
 - **2 Neyavr.** Les joueurs arrivent à Vallaki et réservent des chambres à l'Auberge de l'Eau Bleue.
-- **3 Neyavr.** Les joueurs terminent [[Arc D - La Fête de St. Andral]] et reçoivent une invitation de Lady Fiona Wachter dans [[Arc F - Le Souhait de Lady Wachter]] (🔶).
-- **4 Neyavr.** Les joueurs terminent [[Arc E - La Vistana Disparue]] et dînent avec Lady Fiona Wachter dans [[Arc F - Le Souhait de Lady Wachter]] (🔶). Izek Strazni attaque l'Auberge de l'Eau Bleue dans [[Arc G - Les Frères et Sœurs Strazni]] (🔶).
-- **5 Neyavr.** Les joueurs assassinent Izek Strazni dans [[Arc F - Le Souhait de Lady Wachter]]. La nuit, les joueurs sont visités par le fantôme d'Erasmus van Richten dans [[Arc H - L'Âme Perdue]] (🔶).
-- **6 Neyavr.** Les joueurs parlent avec Victor Vallakovich et les réfugiés baroviens dans [[Arc H - L'Âme Perdue]] et assistent à l'inauguration de Lady Wachter dans [[Arc F - Le Souhait de Lady Wachter]].
-- **7 Neyavr.** Les joueurs vainquent les guenaudes d'Old Bonegrinder dans [[Arc H - L'Âme Perdue]], puis se rendent à Krezk dans [[Arc I - Les Murs de Krezk]] avant de retourner à Vallaki.
-- **8 Neyavr.** Les joueurs se rendent à Berez puis retournent à Krezk dans [[Arc I - Les Murs de Krezk]], puis retournent à Vallaki et vainquent l'esprit de Leo Dilisnya dans [[Arc H - L'Âme Perdue]] la nuit de la pleine lune.
+- **3 Neyavr.** Les joueurs terminent [[Arc D - Le festin de Saint-Andral]] et reçoivent une invitation de Lady Fiona Wachter dans [[Arc F - Le Souhait de Dame Wachter]] (🔶).
+- **4 Neyavr.** Les joueurs terminent [[Arc E - La Vistana Disparue]] et dînent avec Lady Fiona Wachter dans [[Arc F - Le Souhait de Dame Wachter]] (🔶). Izek Strazni attaque l'Auberge de l'Eau Bleue dans [[Arc G - Les Frères et Sœurs Strazni]] (🔶).
+- **5 Neyavr.** Les joueurs assassinent Izek Strazni dans [[Arc F - Le Souhait de Dame Wachter]]. La nuit, les joueurs sont visités par le fantôme d'Erasmus van Richten dans [[Arc H - L'Ame Perdue]] (🔶).
+- **6 Neyavr.** Les joueurs parlent avec Victor Vallakovich et les réfugiés baroviens dans [[Arc H - L'Ame Perdue]] et assistent à l'inauguration de Lady Wachter dans [[Arc F - Le Souhait de Dame Wachter]].
+- **7 Neyavr.** Les joueurs vainquent les guenaudes d'Old Bonegrinder dans [[Arc H - L'Ame Perdue]], puis se rendent à Krezk dans [[Arc I - Les Murs de Krezk]] avant de retourner à Vallaki.
+- **8 Neyavr.** Les joueurs se rendent à Berez puis retournent à Krezk dans [[Arc I - Les Murs de Krezk]], puis retournent à Vallaki et vainquent l'esprit de Leo Dilisnya dans [[Arc H - L'Ame Perdue]] la nuit de la pleine lune.
 
 Alternativement, des joueurs particulièrement rapides pourraient suivre le chemin suivant à travers l'Acte II :
 
 - **2 Neyavr.** Les joueurs arrivent à Vallaki et réservent des chambres à l'Auberge de l'Eau Bleue.
-- **3 Neyavr.** Les joueurs terminent [[Arc D - La Fête de St. Andral]] et [[Arc E - La Vistana Disparue]] et reçoivent une invitation de Lady Fiona Wachter dans [[Arc F - Le Souhait de Lady Wachter]] (🔶).
-- **4 Neyavr.** Les joueurs se rendent à Krezk et Berez dans [[Arc I - Les Murs de Krezk]], puis retournent à Vallaki pour dîner avec Lady Fiona Wachter dans [[Arc F - Le Souhait de Lady Wachter]]. Izek Strazni attaque l'Auberge de l'Eau Bleue dans [[Arc G - Les Frères et Sœurs Strazni]] (🔶).
-- **5 Neyavr.** Les joueurs assassinent Izek Strazni dans [[Arc F - Le Souhait de Lady Wachter]]. La nuit, les joueurs sont visités par le fantôme d'Erasmus van Richten dans [[Arc H - L'Âme Perdue]] (🔶).
-- **6 Neyavr.** Les joueurs parlent avec Victor Vallakovich et les réfugiés baroviens dans [[Arc H - L'Âme Perdue]] et assistent à l'inauguration de Lady Wachter dans [[Arc F - Le Souhait de Lady Wachter]]. Les joueurs, Victor et Lady Wachter vainquent les guenaudes d'Old Bonegrinder dans [[Arc H - L'Âme Perdue]].
-- **7 Neyavr.** Les joueurs retournent à Krezk dans [[Arc I - Les Murs de Krezk]], puis visitent Argynvostholt dans [[Arc M - Le Manoir au Dragon]] (Acte III) avant de retourner à Vallaki.
-- **8 Neyavr.** Les joueurs prennent un jour de repos à Vallaki avant de vaincre l'esprit de Leo Dilisnya dans [[Arc H - L'Âme Perdue]] la nuit de la pleine lune.
+- **3 Neyavr.** Les joueurs terminent [[Arc D - Le festin de Saint-Andral]] et [[Arc E - La Vistana Disparue]] et reçoivent une invitation de Lady Fiona Wachter dans [[Arc F - Le Souhait de Dame Wachter]] (🔶).
+- **4 Neyavr.** Les joueurs se rendent à Krezk et Berez dans [[Arc I - Les Murs de Krezk]], puis retournent à Vallaki pour dîner avec Lady Fiona Wachter dans [[Arc F - Le Souhait de Dame Wachter]]. Izek Strazni attaque l'Auberge de l'Eau Bleue dans [[Arc G - Les Frères et Sœurs Strazni]] (🔶).
+- **5 Neyavr.** Les joueurs assassinent Izek Strazni dans [[Arc F - Le Souhait de Dame Wachter]]. La nuit, les joueurs sont visités par le fantôme d'Erasmus van Richten dans [[Arc H - L'Ame Perdue]] (🔶).
+- **6 Neyavr.** Les joueurs parlent avec Victor Vallakovich et les réfugiés baroviens dans [[Arc H - L'Ame Perdue]] et assistent à l'inauguration de Lady Wachter dans [[Arc F - Le Souhait de Dame Wachter]]. Les joueurs, Victor et Lady Wachter vainquent les guenaudes d'Old Bonegrinder dans [[Arc H - L'Ame Perdue]].
+- **7 Neyavr.** Les joueurs retournent à Krezk dans [[Arc I - Les Murs de Krezk]], puis visitent Argynvostholt dans [[Arc M - The Dragon's Manor]] (Acte III) avant de retourner à Vallaki.
+- **8 Neyavr.** Les joueurs prennent un jour de repos à Vallaki avant de vaincre l'esprit de Leo Dilisnya dans [[Arc H - L'Ame Perdue]] la nuit de la pleine lune.
 ## Chemins Divergents
 
 La ville de Vallaki peut être un enchevêtrement de chemins variés dans le module original. Bien que ce guide vise à la présenter de manière plus rationalisée et prévisible, les MJ peuvent encore trouver que le nombre d'événements, de personnages et de résultats possibles est écrasant. Pour vous aider à digérer cet acte, deux des nombreux chemins potentiels ont été fournis ci-dessous pour vous guider dans la compréhension de la façon dont les choix de vos joueurs pourraient faire avancer le récit.
@@ -142,17 +140,17 @@ Après avoir réservé des chambres à l'Auberge de l'Eau Bleue lors de leur pre
 
 ### 3 Neyavr
 
-Lors de leur première rencontre avec Izek Strazni et le Baron Vargas Vallakovich, les joueurs prennent la défense de Willemina Rikalova, manquant de provoquer une bagarre générale jusqu'à ce que le Père Lucian Petrovich intervienne pour calmer la tension. Leur décision d'agir attire l'attention de Lady Fiona Wachter dans [[Arc F - Le Souhait de Lady Wachter]].
+Lors de leur première rencontre avec Izek Strazni et le Baron Vargas Vallakovich, les joueurs prennent la défense de Willemina Rikalova, manquant de provoquer une bagarre générale jusqu'à ce que le Père Lucian Petrovich intervienne pour calmer la tension. Leur décision d'agir attire l'attention de Lady Fiona Wachter dans [[Arc F - Le Souhait de Dame Wachter]].
 
-Les joueurs et Ireena accompagnent le Père Petrovich à l'Église de St. Andral, où ils reçoivent l'accroche pour [[Arc D - La Fête de St. Andral]]. Après avoir enquêté et interrogé Milivoj, les joueurs recrutent le Père Petrovich et se rendent à la boutique du fabricant de cercueils, où ils affrontent Volenta Popofsky et récupèrent les ossements volés.
+Les joueurs et Ireena accompagnent le Père Petrovich à l'Église de St. Andral, où ils reçoivent l'accroche pour [[Arc D - Le festin de Saint-Andral]]. Après avoir enquêté et interrogé Milivoj, les joueurs recrutent le Père Petrovich et se rendent à la boutique du fabricant de cercueils, où ils affrontent Volenta Popofsky et récupèrent les ossements volés.
 
 Plus tard dans l'après-midi, les joueurs visitent les Jouets de Blinsky pour acheter un jouet pour Arabelle, puis se rendent au campement Vistani. Là, ils apprennent l'existence de [[Arc E - La Vistana Disparue]] et acceptent l'anneau-sceau de Kasimir Velikov.
 
-Cette nuit-là, les joueurs s'introduisent dans le Manoir du Baron, espérant enquêter sur l'histoire de l'anneau, mais sont surpris par Victor Vallakovich, qui les conduit à son atelier et les informe de la tour de Khazan au lac Baratok. L'aperçu fortuit de la silhouette de Stella Wachter dans le _miroir spirituel_ de Victor déclenche une conversation, et les joueurs commencent [[Arc H - L'Âme Perdue]].
+Cette nuit-là, les joueurs s'introduisent dans le Manoir du Baron, espérant enquêter sur l'histoire de l'anneau, mais sont surpris par Victor Vallakovich, qui les conduit à son atelier et les informe de la tour de Khazan au lac Baratok. L'aperçu fortuit de la silhouette de Stella Wachter dans le _miroir spirituel_ de Victor déclenche une conversation, et les joueurs commencent [[Arc H - L'Ame Perdue]].
 
 ### 4 Neyavr
 
-Les joueurs reçoivent une invitation à dîner de Lady Fiona Wachter à l'Auberge de l'Eau Bleue, commençant ainsi [[Arc F - Le Souhait de Lady Wachter]]. En attendant le retour de Szoldar et Yevgeni, les joueurs visitent le camp de réfugiés baroviens à l'extérieur des murs de Vallaki, rencontrant le réfugié Franz et apprenant la véritable nature de **guenaude nocturne** de Morgantha dans [[Arc H - L'Âme Perdue]].
+Les joueurs reçoivent une invitation à dîner de Lady Fiona Wachter à l'Auberge de l'Eau Bleue, commençant ainsi [[Arc F - Le Souhait de Dame Wachter]]. En attendant le retour de Szoldar et Yevgeni, les joueurs visitent le camp de réfugiés baroviens à l'extérieur des murs de Vallaki, rencontrant le réfugié Franz et apprenant la véritable nature de **guenaude nocturne** de Morgantha dans [[Arc H - L'Ame Perdue]].
 
 Après avoir trouvé une excuse pour parler à nouveau avec Victor, les joueurs se rendent au nord à la cabane de Szoldar et Yevgeni pour obtenir des directions vers le lac Baratok dans [[Arc E - La Vistana Disparue]]. Les joueurs s'aventurent seuls et découvrent rapidement la véritable identité de Rictavio. Les joueurs retournent à Vallaki en soirée, confrontant le Dr. Rudolph van Richten et Arrigal dans la Cour des Arasek, où ils entendent la prophétie d'Arabelle.
 
@@ -162,23 +160,23 @@ Cependant, en retournant à l'Auberge de l'Eau Bleue, les joueurs la trouvent sa
 
 ### 5 Neyavr
 
-Les joueurs poursuivent [[Arc F - Le Souhait de Lady Wachter]] en rencontrant Ernst Larnak dans la salle commune de l'Auberge de l'Eau Bleue, où ils reçoivent le vin empoisonné destiné à Izek. Les joueurs s'infiltrent dans le Manoir du Baron et persuadent Tereska, la cuisinière du Baron, d'inclure le vin empoisonné comme "cadeau" pour Izek. Les joueurs traquent Izek le reste de la journée, finissant par le tuer sur les rives du lac Zarovich et livrant sa tête tranchée à Lady Wachter. Cette nuit-là, Lady Wachter intimide le Baron Vallakovich pour qu'il cède le pouvoir.
+Les joueurs poursuivent [[Arc F - Le Souhait de Dame Wachter]] en rencontrant Ernst Larnak dans la salle commune de l'Auberge de l'Eau Bleue, où ils reçoivent le vin empoisonné destiné à Izek. Les joueurs s'infiltrent dans le Manoir du Baron et persuadent Tereska, la cuisinière du Baron, d'inclure le vin empoisonné comme "cadeau" pour Izek. Les joueurs traquent Izek le reste de la journée, finissant par le tuer sur les rives du lac Zarovich et livrant sa tête tranchée à Lady Wachter. Cette nuit-là, Lady Wachter intimide le Baron Vallakovich pour qu'il cède le pouvoir.
 
 ### 6 Neyavr
 
-Les joueurs apprennent le rituel de liaison des **guenaudes nocturnes** de Victor dans [[Arc H - L'Âme Perdue]]. Après le discours de Lady Wachter sur la place de la ville à la fin de l'Arc G - Le Souhait de Lady Wachter, les joueurs la convainquent d'abaisser le cercle de protection autour de Wachterhaus, permettant à l'esprit de Stella Wachter de s'y manifester et recrutant Lady Wachter comme alliée.
+Les joueurs apprennent le rituel de liaison des **guenaudes nocturnes** de Victor dans [[Arc H - L'Ame Perdue]]. Après le discours de Lady Wachter sur la place de la ville à la fin de l'Arc G - Le Souhait de Lady Wachter, les joueurs la convainquent d'abaisser le cercle de protection autour de Wachterhaus, permettant à l'esprit de Stella Wachter de s'y manifester et recrutant Lady Wachter comme alliée.
 
 Avec Lady Wachter et ses **fanatiques de culte**, les joueurs partent pour Old Bonegrinder. Là, ils volent le contrat du couvent de **guenaudes nocturnes**, permettant à Lady Wachter de lier les guenaudes au Plan Matériel. Les joueurs vainquent les guenaudes et prennent leurs pierres de cœur pour les utiliser dans le rituel d'_éthéréalité_ de Victor.
 
 ### 7 Neyavr
 
-Avec la pleine lune - et, dans [[Arc H - L'Âme Perdue]], le rituel d'_éthéréalité_ de Victor - à un peu plus de vingt-quatre heures, les joueurs font une excursion d'une journée au village de Krezk dans [[Arc I - Les Murs de Krezk]], espérant cueillir de l'aconit que le Dr. Rudolph van Richten pourra utiliser pour apaiser la malédiction de lycanthropie pour l'un d'entre eux.
+Avec la pleine lune - et, dans [[Arc H - L'Ame Perdue]], le rituel d'_éthéréalité_ de Victor - à un peu plus de vingt-quatre heures, les joueurs font une excursion d'une journée au village de Krezk dans [[Arc I - Les Murs de Krezk]], espérant cueillir de l'aconit que le Dr. Rudolph van Richten pourra utiliser pour apaiser la malédiction de lycanthropie pour l'un d'entre eux.
 
 Après avoir reçu la quête du Baron Krezkov, les joueurs voyagent vers le sud jusqu'aux ruines de Berez, où la sorcière Baba Lysaga scrute Ilya Krezkov en échange du cadeau du Baron Krezkov. Les joueurs retournent ensuite à Krezk pour cueillir de l'aconit. Étant donné la proximité de l'Abbaye de Saint Markovia, les joueurs montent également jusqu'aux portes de l'Abbaye, où ils rencontrent l'Abbé et sont informés de revenir dans deux jours pour rencontrer Ezmerelda d'Avenir, leur alliée prédite dans _**Arc M : L'Ennemi de Strahd**_.
 
 ### 8 Neyavr
 
-Les joueurs retournent à Vallaki et passent une journée de repos à explorer la ville et à acquérir de l'équipement. Cette nuit-là, les joueurs rejoignent Victor et Lady Wachter pour voyager dans le Plan Éthéré dans [[Arc H - L'Âme Perdue]], où ils affrontent l'esprit de Leo Dilisnya pendant que Victor restaure l'âme de Stella dans son corps.
+Les joueurs retournent à Vallaki et passent une journée de repos à explorer la ville et à acquérir de l'équipement. Cette nuit-là, les joueurs rejoignent Victor et Lady Wachter pour voyager dans le Plan Éthéré dans [[Arc H - L'Ame Perdue]], où ils affrontent l'esprit de Leo Dilisnya pendant que Victor restaure l'âme de Stella dans son corps.
 
 ## Les Explorateurs Prudents
 
@@ -192,7 +190,7 @@ Après avoir réservé des chambres à l'Auberge de l'Eau Bleue lors de leur pre
 
 Lors de leur première rencontre avec Izek Strazni et le Baron Vargas Vallakovich, les joueurs restent silencieux sur le côté, ne voulant pas risquer leur peau pour un étranger.
 
-Les joueurs amènent Ireena à l'Église de St. Andral, où le Père Petrovich leur donne l'accroche pour [[Arc D - La Fête de St. Andral]]. Convenant que la nuit de la fête est loin dans le futur, les joueurs laissent Ireena à l'église et partent pour les Jouets de Blinsky, suivis du campement Vistani à l'extérieur de Vallaki, où ils commencent [[Arc E - La Vistana Disparue]].
+Les joueurs amènent Ireena à l'Église de St. Andral, où le Père Petrovich leur donne l'accroche pour [[Arc D - Le festin de Saint-Andral]]. Convenant que la nuit de la fête est loin dans le futur, les joueurs laissent Ireena à l'église et partent pour les Jouets de Blinsky, suivis du campement Vistani à l'extérieur de Vallaki, où ils commencent [[Arc E - La Vistana Disparue]].
 
 Après avoir accepté l'anneau-sceau de Kasimir Velikov, les joueurs visitent le manoir du Baron pour rechercher ses origines. Là, le Baron Vallakovich accepte de leur donner accès à sa bibliothèque en échange de leur enquête sur une série d'événements paranormaux qui ont récemment tourmenté le manoir.
 
@@ -204,11 +202,11 @@ En fin d'après-midi, les joueurs se rendent à la cabane de Szoldar et Yevgeni,
 
 Les joueurs et Szoldar voyagent vers l'ouest jusqu'au lac Baratok, où ils découvrent la véritable identité de Rictavio. Ils retournent à Vallaki et confrontent le Dr. Rudolph van Richten et Arrigal dans la Cour des Arasek, où ils entendent la prophétie d'Arabelle.
 
-Cet après-midi-là, les joueurs retournent à l'Église de St. Andral dans [[Arc D - La Fête de St. Andral]]. Après avoir enquêté et interrogé Milivoj, les joueurs recrutent le Père Petrovich et se rendent à la boutique du fabricant de cercueils, où ils affrontent Volenta Popofsky et récupèrent les ossements volés.
+Cet après-midi-là, les joueurs retournent à l'Église de St. Andral dans [[Arc D - Le festin de Saint-Andral]]. Après avoir enquêté et interrogé Milivoj, les joueurs recrutent le Père Petrovich et se rendent à la boutique du fabricant de cercueils, où ils affrontent Volenta Popofsky et récupèrent les ossements volés.
 
 ### 5 Neyavr
 
-Les joueurs se rendent seuls à Old Bonegrinder, où ils tentent de négocier avec la **guenaude nocturne** Morgantha pour l'emprunt de sa pierre de cœur dans [[Arc H - L'Âme Perdue]]. Cependant, comme les joueurs ne sont pas disposés à payer son prix, Morgantha les congédie sans conclure d'accord. Les joueurs tentent de prendre sa pierre de cœur par la force, mais sont facilement vaincus par le couvent, qui les enferme dans le grenier et les infecte avec la fièvre du ricanement.
+Les joueurs se rendent seuls à Old Bonegrinder, où ils tentent de négocier avec la **guenaude nocturne** Morgantha pour l'emprunt de sa pierre de cœur dans [[Arc H - L'Ame Perdue]]. Cependant, comme les joueurs ne sont pas disposés à payer son prix, Morgantha les congédie sans conclure d'accord. Les joueurs tentent de prendre sa pierre de cœur par la force, mais sont facilement vaincus par le couvent, qui les enferme dans le grenier et les infecte avec la fièvre du ricanement.
 
 Cette nuit-là, les joueurs s'échappent d'Old Bonegrinder et retournent à Vallaki, où ils apprennent que l'Abbé de l'Abbaye de Saint Markovia à Krezk peut guérir leur fièvre du ricanement.
 
@@ -222,7 +220,7 @@ Les joueurs retournent ensuite à Krezk et montent à l'Abbaye de Saint Markovia
 
 Les joueurs retournent à Vallaki et découvrent qu'Ireena a été enlevée par Izek Strazni dans [[Arc G - Les Frères et Sœurs Strazni]]. Les joueurs pénètrent dans le manoir du Baron avec l'aide de Victor et affrontent Izek dans les couloirs du manoir.
 
-Avec Ireena libérée, les joueurs et Victor discutent de la perspective de vaincre le couvent de **guenaudes nocturnes** par un rituel de liaison dans [[Arc H - L'Âme Perdue]]. Les joueurs visitent Wachterhaus et convainquent Lady Wachter d'abaisser le cercle de protection autour de Wachterhaus, permettant à l'esprit de Stella Wachter de s'y manifester et recrutant Lady Wachter comme alliée.
+Avec Ireena libérée, les joueurs et Victor discutent de la perspective de vaincre le couvent de **guenaudes nocturnes** par un rituel de liaison dans [[Arc H - L'Ame Perdue]]. Les joueurs visitent Wachterhaus et convainquent Lady Wachter d'abaisser le cercle de protection autour de Wachterhaus, permettant à l'esprit de Stella Wachter de s'y manifester et recrutant Lady Wachter comme alliée.
 
 ### 8 Neyavr
 

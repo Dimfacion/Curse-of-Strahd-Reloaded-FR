@@ -1,66 +1,71 @@
-In this act, which begins the morning after the players’ first full moon in Vallaki, the players receive a pair of invitations.
+Dans cet acte, qui commence le matin après la première pleine lune des joueurs à Vallaki, les joueurs reçoivent deux invitations.
 
-The first, a plea from Urwin Martikov, asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[Arc J - The Stolen Gem]].
+La première, une supplique d'Urwin Martikov, demande aux joueurs de se rendre à la vinerie du Magicien des Vins à l'ouest pour enquêter sur une mystérieuse pénurie de vin dans [[Arc J - Le Joyau Volé]].
 
-The second, a letter from Strahd von Zarovich himself, invites the players to dine at Castle Ravenloft with him and his court on the night before the new moon in [[Arc O - Dinner with the Devil]].
+La seconde, une lettre de Strahd von Zarovich lui-même, invite les joueurs à dîner au château de Ravenloft avec lui et sa cour la nuit avant la nouvelle lune dans [[Arc O - Dîner avec le Diable]].
 
-Should the players accept the Martikovs’ mission in [[Arc J - The Stolen Gem]], they gain two companions for the journey: Muriel Vinshaw, a **wereraven** agent of the Keepers of the Feather; and Ireena Kolyana, who asks to join the players permanently in the fight against Strahd. The players must rescue the winery from the Forest Folk **druids** who have conquered it and, once they have done so, retrieve an enchanted gem from Yester Hill to the south before the Wizard of Wines falls to destruction.
+Si les joueurs acceptent la mission des Martikovs dans [[Arc J - Le Joyau Volé]], ils gagnent deux compagnons pour le voyage : Muriel Vinshaw, une **corneille garou** agent des Gardiens de la Plume ; et Ireena Kolyana, qui demande à se joindre définitivement aux joueurs dans leur lutte contre Strahd. Les joueurs doivent secourir la vinerie des **druides** Folk de la Forêt qui s'en sont emparés et, une fois fait, récupérer un joyau enchanté de la colline d'Yester au sud avant que le Magicien des Vins ne soit détruit.
 
-Meanwhile, as the players explore other leads across the western half of the Barovia, they can recruit the Vistana monster hunter Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]], investigate the werewolf pack in [[Arc L - The Den of Wolves]], and uncover the mysteries of Argynvostholt in [[Arc M - The Dragon's Manor]].
+Pendant ce temps, alors que les joueurs explorent d'autres pistes dans la moitié ouest de Barovia, ils peuvent recruter la chasseuse de monstres vistana Ezmerelda d'Avenir dans [[Arc K - L'Abbaye Déchue]], enquêter sur la meute de loups-garous dans [[Arc L - La Tanière des Loups]], et découvrir les mystères d'Argynvostholt dans [[Arc M - Le Manoir du Dragon]].
 
-In the process, they’ll obtain multiple reasons to journey to Castle Ravenloft: to recover the *Icon of Ravenloft* to cleanse the Abbot’s corruption in [[Arc K - The Fallen Abbey]]; to rescue the **werewolf** Emil Toranescu in exchange for the *Holy Symbol of Ravenloft* in [[Arc L - The Den of Wolves]]; and to steal the skull of the dragon Argynvost to bring hope to the land once more in [[Arc M - The Dragon's Manor]].
+Ce faisant, ils obtiendront de multiples raisons de se rendre au château de Ravenloft : récupérer l'*Icône de Ravenloft* pour purifier la corruption de l'Abbé dans [[Arc K - L'Abbaye Déchue]] ; secourir le **loup-garou** Emil Toranescu en échange du *Symbole Sacré de Ravenloft* dans [[Arc L - La Tanière des Loups]] ; et voler le crâne du dragon Argynvost pour ramener l'espoir sur ces terres dans [[Arc M - Le Manoir du Dragon]].
 
-On the last night before the new moon, the players can dine with Strahd von Zarovich and the members of his court in [[Arc O - Dinner with the Devil]]. There, they’ll learn that Strahd will be gone from the castle the following night, creating the perfect opportunity to infiltrate the castle in [[Arc P - Ravenloft Heist]]. Once they have done so, the players must then return to the western valley to purify the Abbot’s soul, defeat the **werewolf** Kiril Stoyanovich, and relight the beacon of Argynvostholt.
+La dernière nuit avant la nouvelle lune, les joueurs peuvent dîner avec Strahd von Zarovich et les membres de sa cour dans [[Arc O - Dîner avec le Diable]]. Là, ils apprendront que Strahd sera absent du château la nuit suivante, créant l'opportunité parfaite pour s'infiltrer dans le château dans [[Arc P - Le Cambriolage de Ravenloft]]. Une fois fait, les joueurs doivent retourner dans la vallée ouest pour purifier l'âme de l'Abbé, vaincre le **loup-garou** Kiril Stoyanovich, et rallumer le phare d'Argynvostholt.
 
-This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[Arc P - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
-# Milestones
-The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
+Cet acte se termine au crépuscule de la première nuit après que les joueurs se sont infiltrés au château de Ravenloft dans [[Arc P - Le Cambriolage de Ravenloft]]. Cependant, les joueurs peuvent toujours compléter les arcs non résolus de cet acte même après le début de l'Acte IV - à condition, bien sûr, que ces arcs soient encore réalisables.
 
-* defeat the druids occupying the Wizard of Wines winery (2,000 XP)
-* retrieve the stolen gem from Yester Hill (2,500 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,250 XP)
-* bargain with Zuleika Toranescu at the Werewolf Den (2,000 XP)
-* receive Argynvost’s mission at Argynvostholt (2,500 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (1,500 XP)
-* return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
-* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (1,000 XP)
-* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (1,000 XP)
-* rescue Emil Toranescu from Ravenloft’s dungeons (1,000 XP)
-* rescue Gertruda from the master bedroom of Castle Ravenloft (500 XP)
-* raid Strahd’s hidden treasury in Castle Ravenloft (500 XP)
-* purify the Abbot’s soul (2,000 XP)
-* rescue Ilya Krezkov (1,000 XP)
-* obtain the *Holy Symbol of Ravenkind* (2,000 XP)
-* light the beacon of Argynvostholt (3,000 XP)
-# Timeline
-The quests of Act III become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable.)
+# Jalons
+Les joueurs commencent cet acte au niveau 5 et devraient le terminer au niveau 8, gagnant l'XP de jalon lorsqu'ils réussissent à faire l'une des choses suivantes :
 
-| Arc \ Day of Neyavr      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
-| :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| J: The Stolen Gem        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| K: The Fallen Abbey      | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| L: The Den of Wolves     | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| M: Argynvost's Beacon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| N: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
-| O: Dinner with the Devil | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
-| P: Ravenloft Heist       | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
+* vaincre les druides occupant le vignoble du Magicien des Vins (2 000 XP)
+* récupérer le joyau volé de la colline de Yester (2 500 XP)
+* recruter Ezmerelda d'Avenir à l'Abbaye de St. Markovia (1 000 XP)
+* négocier avec Zuleika Toranescu au Repaire des Loups-Garous (1 500 XP)
+* libérer Ilya et Zuleika du repaire (250 XP)
+* recevoir la mission d'Argynvost à Argynvostholt (2 500 XP)
+* apaiser le fantôme de Varushka et trouver sa cachette dans le Château de Ravenloft (500 XP)
+* revenir du Château de Ravenloft après le dîner avec Strahd (3 500 XP)
+* voler le crâne d'Argynvost dans la Salle des Ossements de Ravenloft (4 000 XP)
+* récupérer l'Icône de Ravenloft dans les catacombes de Ravenloft (250 XP)
+* obtenir la Lance de la Chasseresse du caveau du roi Dostron (250 XP)
+* secourir Emil Toranescu des cachots de Ravenloft (250 XP)
+* secourir Gertruda de la chambre principale du Château de Ravenloft (250 XP)
+* piller le trésor caché de Strahd dans le Château de Ravenloft (250 XP)
+* vaincre l'Abbé (2 000 XP)
+* racheter l'Abbé après l'avoir vaincu (500 XP)
+* vaincre Kiril Stoyanovich (2 000 XP)
+* allumer le phare d'Argynvostholt (3 000 XP)
 
-The most common path through Act III is as follows:
+# Chronologie
+Les quêtes de l'Acte III deviennent disponibles et sont résolues comme indiqué dans le tableau ci-dessous. (🟢 signifie un jour où la quête reste disponible, 🔶 signifie un jour où un événement important se produit, 🟥 signifie une date limite pour la quête, et ❌ signifie un jour où la quête n'est pas disponible.)
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶).
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 13.** The players dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 14 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 15.** The players light the beacon of Argynvostholt in [[Arc M - The Dragon's Manor]] and defeat the werewolf Kiril Stoyanovich in [[Arc L - The Den of Wolves]].
+| Arc \ Jour de Neyavr | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|:----------------------|---|---|---|---|---|---|---|---|
+| J : Le Joyau Volé     | 🔶| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢|
+| K : L'Abbaye Déchue   | —| —| 🔶| 🟢| 🟢| 🟢| 🟢| 🟢|
+| L : Le Repaire des Loups| —| —| —| 🟢| 🟢| 🟢| 🟢| 🟢|
+| M : Le Phare d'Argynvost| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢|
+| N : Contes de Vallaki | —| —| —| —| —| —| —| —|
+| O : Dîner avec le Diable| —| —| —| —| —| 🔶| ❌| ❌|
+| P : Le Cambriolage de Ravenloft| —| —| —| —| —| —| 🔶| ❌|
 
-Alternately, particularly swift players might take the following path through Act III instead:
+Le chemin le plus courant à travers l'Acte III est le suivant :
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶), then investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players take a day of downtime.
-* **Neyavr 13.** The players take a day of downtime, then dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 14 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 15.** The players light the beacon of Argynvostholt in [[Arc M - The Dragon's Manor]] and defeat the werewolf Kiril Stoyanovich in [[Arc L - The Den of Wolves]].
+* **Neyavr 9.** Les joueurs reçoivent la demande d'Urwin Martikov pour compléter [[Arc J - Le Joyau Volé]] (🔶).
+* **Neyavr 10.** Les joueurs se rendent au vignoble du Magicien des Vins et vainquent les druides du Peuple de la Forêt dans [[Arc J - Le Joyau Volé]].
+* **Neyavr 11.** Les joueurs se rendent à la colline de Yester à l'aube et interrompent le rituel pour invoquer le **fléau arboricole** Wintersplinter dans [[Arc J - Le Joyau Volé]]. Les joueurs rencontrent ensuite Ezmerelda d'Avenir dans le village de Krezk et mènent une séance à l'Abbaye de St. Markovia dans [[Arc K - L'Abbaye Déchue]], puis font une surveillance du repaire des loups-garous la nuit dans [[Arc L - Le Repaire des Loups]].
+* **Neyavr 12.** Les joueurs enquêtent sur Argynvostholt dans [[Arc M - Le Manoir du Dragon]].
+* **Neyavr 13.** Les joueurs dînent avec Strahd au crépuscule dans [[Arc O - Dîner avec le Diable]] (🔶).
+* **Neyavr 14 (Nouvelle Lune).** Les joueurs s'infiltrent dans le Château de Ravenloft au crépuscule, puis s'échappent par le brasero de téléportation dans [[Arc P - Le Cambriolage de Ravenloft]] (🔶).
+* **Neyavr 15.** Les joueurs allument le phare d'Argynvostholt dans [[Arc M - Le Manoir du Dragon]] et vainquent le loup-garou Kiril Stoyanovich dans [[Arc L - Le Repaire des Loups]].
+
+Alternativement, des joueurs particulièrement rapides pourraient emprunter le chemin suivant à travers l'Acte III :
+
+* **Neyavr 9.** Les joueurs reçoivent la demande d'Urwin Martikov de compléter [[Arc J - Le Joyau Volé]] (🔶), puis d'enquêter sur Argynvostholt dans [[Arc M - Le Manoir du Dragon]].
+* **Neyavr 10.** Les joueurs se rendent à la vinerie du Magicien des Vins et défont les druides du Peuple de la Forêt qui s'y trouvent dans [[Arc J - Le Joyau Volé]].
+* **Neyavr 11.** Les joueurs se rendent à la Colline d'Hier à l'aube et empêchent le rituel d'invocation du **fléau arboricole** Filbuissard dans [[Arc J - Le Joyau Volé]]. Les joueurs rencontrent ensuite Ezmerelda d'Avenir et mènent une séance dans [[Arc K - L'Abbaye Déchue]], puis guettent le repaire des loups-garous dans [[Arc L - La Tanière des Loups]].
+* **Neyavr 12.** Les joueurs prennent une journée de repos.
+* **Neyavr 13.** Les joueurs prennent une journée de repos, puis dînent avec Strahd au crépuscule dans [[Arc O - Dîner avec le Diable]] (🔶).
+* **Neyavr 14 (Nouvelle Lune).** Les joueurs s'infiltrent dans le Château de Ravenloft au crépuscule, puis s'échappent à travers le brasier de téléportation dans [[Arc P - Cambriolage de Ravenloft]] (🔶).
+* **Neyavr 15.** Les joueurs allument le phare d'Argynvostholt dans [[Arc M - Le Manoir du Dragon]] et défont le loup-garou Kiril Stoyanovich dans [[Arc L - La Tanière des Loups]].
+

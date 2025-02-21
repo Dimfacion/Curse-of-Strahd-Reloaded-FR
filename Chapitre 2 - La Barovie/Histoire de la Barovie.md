@@ -4,7 +4,7 @@ _Toutes les dates sont données selon le calendrier barovien, où "A.U." signifi
 
 ## Origines de la Vallée
 
-Il y a près de quatre millénaires, la terre de Barovia était une vallée paisible habitée par le Premier Peuple : une société nomade de chasseurs-cueilleurs. Lorsqu'ils arrivèrent dans la vallée - qu'ils nommèrent "Cerunnos", signifiant "terre fertile" - le Premier Peuple apporta avec lui le culte d'un quartet de déesses fées mineures qu'ils appelaient les _Rozana_ - les Dames.
+Il y a près de quatre millénaires, la terre de Barovia était une vallée paisible habitée par le Premier Peuple : une société nomade de chasseurs-cueilleurs. Lorsqu'ils arrivèrent dans la vallée - qu'ils nommèrent "Girvisa", signifiant "terre fertile" - le Premier Peuple apporta avec lui le culte d'un quartet de déesses fées mineures qu'ils appelaient les _Rozana_ - les Dames.
 
 Chacune des quatre sœurs déesses supervisait une saison particulière :
 
@@ -447,7 +447,7 @@ Le Baron Metus chargea Madame Radanavich d'enlever des victimes et des compagnes
 
 Les Radanavich amenèrent Radovan à Rudolph, qui se révéla incapable de le sauver. Lorsque Radovan mourut, Madame jura vengeance sur la famille de Rudolph et enleva son fils, Erasmus, avant de le vendre au Baron Metus. Leur terrible tâche accomplie, les Radanavich se séparèrent des d'Avenir et s'enfuirent à travers les Brumes vers Barovia, où ils croyaient que ni Van Richten ni Metus ne pourraient les suivre.
 
-Rudolph retrouva et interrogea les parents d'Ezmerelda avant de partir à la recherche de son fils, mais il arriva trop tard, perdant non seulement Erasmus, mais aussi Ingrid. (Voir <span class="citation">Ezmerelda d'Avenir (p. 231)</span> et <span class="citation">Rictavio (p. 238)</span>.) Rudolph détruisit Metus dans sa fureur et adopta une vie de chasse aux monstres — et de vengeance contre les Vistani.
+Rudolph retrouva et interrogea les parents d'Ezmerelda avant de partir à la recherche de son fils, mais il arriva trop tard, perdant non seulement Erasmus, mais aussi sa femme Ingrid. (Voir <span class="citation">Ezmerelda d'Avenir (p. 231)</span> et <span class="citation">Rictavio (p. 238)</span>.) Rudolph détruisit Metus dans sa fureur et adopta une vie de chasse aux monstres — et de vengeance contre les Vistani.
 
 Pendant trois ans, Rudolph voyagea à la recherche des Vistani qui l'avaient lésé. Ayant appris l'emplacement des Radanavich grâce aux d'Avenir, Rudolph chercha en vain un moyen de traverser les Brumes vers Barovia. Après avoir obtenu un _talisman de brume_ — un anneau de platine qui avait autrefois appartenu à Khazan — auprès d'une diseuse de bonne aventure, Rudolph suivit l'attraction de l'anneau jusqu'à une grotte de montagne profondément enfouie dans la nature sauvage.
 

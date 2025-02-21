@@ -1,3 +1,142 @@
+# Patch 2.0.10.4 (February 13th, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Revised XP rewards to match milestone levels
+* Added images for Anastrasya second phase, Doru's notes on Castle Ravenloft, Van Richten's notes on Castle Ravenloft, Ismark the Great, Ithuriel, the Wolf's Head Jamboree, the Keeper's Whistle, Ludmilla's second phase, Rudoph van Richten, the Talisman of Echoes, the Twilight Crest, and the Martikovs of the Blue Water Inn
+* Added maps for the Village of Barovia, and Lake Zarovich 
+* Added blindsight to Strahd von Zarovich when casting fog bank
+# Patch 2.0.10.3 (January 12, 2025)
+* Amended various typos and errors in formatting
+* Amended inconsistencies across various statblocks
+* Amended Zuleika's surname to Toranescu
+* Clarified how much attention the players garner if they try and steal the skull in [[Arc O - Dinner with the Devil]]
+* Added foreshadowing of Baba Lysaga by Zuleika, Ludmilla, and Diavola
+* Amended inconsistencies of wolf and werewolf numbers in [[Arc L - The Den of Wolves]]
+* Clarified that if all players die in Varushka's nightmare in [[Arc O - Dinner with the Devil]] that they die in reality
+* Removed attunement requirement for the spirit mirror in [[Arc H - The Lost Soul]]
+* Added details of Godfrey being ordered by Vladimir to not speak to players upon their return in [[Arc Q - A Shining Beacon]]
+* Amended Muriel's stat block and added a reminder on NPC allies falling to death saves in [[Arc C - Into the Valley]]
+* Removed Resurrection Madness mechanics from the guide in [[Lore of Barovia]]
+* Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[Strahd von Zarovich]]
+* Added necrotic resistance to the Abbot's stat blocks in [[Arc Q - A Shining Beacon]]
+# Hotfix 2.0.10.2 (December 20, 2024)
+* Amended the bodaks' combat strategy in [[Arc R - Trials of the Mountain]]
+# Hotfix 2.0.10.1 (December 19, 2024)
+* Removed Strahd's *Father of the Night* ability from [[Strahd von Zarovich]] 
+# Version 2.0.10 (December 16, 2024)
+* Added [[Act IV Summary]]
+* Added [[Arc R - Trials of the Mountain]]
+* Updated the Table of Contents in [[A DM's Guide to Curse of Strahd|Introduction]]
+# Patch 2.0.9.7 (November 19, 2024)
+* Fixed assorted typos and inconsistencies
+* Removed outdated references in Madam Eva's tarokka reading in [[Arc C - Into the Valley]]
+* Added tactics to vine blights at the spiked pit trap in [[Arc J - The Stolen Gem]]
+* Added further description of the Holy Symbol of Ravenkind to bring attention to it in [[Arc L - The Den of Wolves]]
+* Added a shaft of moonlight to illuminate the Holy Symbol of Ravenkind in [[Arc L - The Den of Wolves]]
+* Added reasoning for Vladimir to be dismissive of players mentioning Argynvost's spirit in [[Arc M - The Dragon's Manor]]
+* Added information on Lief Lipsiege to [[Arc O - Dinner with the Devil]]
+* Added Great Taar Haak's amber shard to the Ravenloft treasury in [[Arc P - Ravenloft Heist]]
+* Amended which round the wraith and hell hounds manifest in [[Arc P - Ravenloft Heist]]
+* Clarified what Kiril can do with his leap ability in [[Arc Q - A Shining Beacon]]
+* Clarified how many revenants appear at different times in [[Arc Q - A Shining Beacon]]
+* Brought Vladimir's flame trap in line with action economy in [[Arc Q - A Shining Beacon]]
+# Hotfix 2.0.9.6 (October 22, 2024)
+* Fixed assorted typos and inconsistencies
+# Patch 2.0.9.5 (October 21, 2024)
+* Fixed assorted typos and inconsistencies 
+* Amended Strahd's statblock to accurately reflect his proficiency bonus as a CR 21 enemy
+* Amended Strahd's statblock to include dispel magic, and fane-specific lair actions
+* Amended Strahd's bite attack to include a new max hit point recovery mechanic 
+* Amended Ithuriel's statblock to be in line with ability scores and proficiency bonus
+* Added additional artwork by artist Caleb Cleveland
+* Added additional detail about spider venom and holy water both being able to coat any weapon or ammunition
+* Clarified that areas K73-76 in Castle Ravenloft are difficult terrain
+* Revised the flesh mound's immunities to include prone and grappled
+* Revised the flesh mound's features to include a variance of the amorphous feature
+* Clarified that the pool in the ritual chamber is difficult terrain for medium or smaller creatures.
+* Revised wording on Ludmilla's grease and web spells
+* Added new rebalancing details for the pit trap in [[Arc A - Escape From Death House]] 
+* Added new rebalancing details for the escape in [[Arc A - Escape From Death House]] 
+* Added new rebalancing details for the town square in [[Arc B - Welcome to Barovia]]
+* Added new rebalancing details for the siege in [[Arc B - Welcome to Barovia]]
+* Added new rebalancing details for the wolves in [[Arc C - Into the Valley]]
+* Added new rebalancing details for the mass grave in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the spiders' ballroom in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the trapped hallway in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for Vladimir in [[Arc M - The Dragon's Manor]]
+* Added new rebalancing details for the entryway in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the ravenous spawn in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guardian vermin in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the guest landing in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the witches in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the tomb of the darklord in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the north tower rooftop in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for the thirty-fifth crypt in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ludmilla in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Anastrasya in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Volenta in [[Arc P - Ravenloft Heist]]
+* Added new rebalancing details for Ithuriel in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for the return to the foyer in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Kiril in [[Arc Q - A Shining Beacon]]
+* Added new rebalancing details for Vladimir in [[Arc Q - A Shining Beacon]]
+
+# Hotfix 2.0.9.4 (October 1, 2024)
+* Revised the introductory text regarding player expectations in [[Session Zero]]
+# Hotfix 2.0.9.3 (September 3, 2024)
+* Removed Kiril's ***weak grip*** feature and added a warning callout box regarding movement speed while grappled in [[Arc Q - A Shining Beacon]]
+# Hotfix 2.0.9.2 (September 2, 2024)
+* Nerfed Kiril's hit points and ***corrupted miasma*** bonus action in [[Arc Q - A Shining Beacon]]
+# Hotfix 2.0.9.1 (September 1, 2024)
+* Removed Belviews from combat with the Abbot and removed unconsciousness from Abbot's ***frightful presence*** in [[Arc Q - A Shining Beacon]]
+# Version 2.0.9 (August 29, 2024)
+* Added [[Arc Q - A Shining Beacon]]
+*  Fixed assorted typos & inconsistencies
+* Revised [[History of Barovia]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]].
+* Added a milestone XP chart in [[Adventure Summary]]
+* Added an additional warning regarding homebrewing or modifications/additions in [[Arc A - Escape From Death House]]
+* Addressed the possibility of players visiting the church early in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
+* Modified the *fire bottles* to use distilled wine in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
+* Clarified Muriel's behavior during a *speak with animals* spell in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Clarified that infected lycanthropes must kill an innocent to embrace the curse in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Changed Tatyana from Strahd's "true love" to his "true desire" in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Fixed Kerez and Korga not recognizing the players in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Moved the Tarokka reading to the Ivlis River Crossroad and removed Madam Eva's teleportation in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Clarified that the strix doesn't target Muriel in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Added a response for Strahd if the players ask to be released from Barovia in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]
+* Modified Madam Eva's reading regarding the *Tome of Strahd* in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] to prevent players from mistaking the skeletal rider for the "wandering soul" in her foretelling
+* Added an additional **wolf** encounter in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] and revised the **wolf** statblock
+* Replaced some wolves in the Werewolf's Hunt encounter in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] with an additional werewolf
+* Clarified in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] that the werewolf pack did not hunt humans before Kiril's rise to power
+* Clarified that Ezmerelda's map of Barovia doesn't mark locations other than settlements in [[Arc E - The Missing Vistana]]
+* Added an NPC profile for Van Richten in [[Arc E - The Missing Vistana]]
+* Explained how Van Richten responds if the players attempt to recruit him in [[Arc E - The Missing Vistana]]
+* Expanded Ireena's response if the players refuse to bring her to fight Izek in [[Arc G - The Strazni Siblings]]
+* Added rules regarding the destruction of the hag coven's contract in [[Arc H - The Lost Soul]]
+* Made it more difficult to accidentally trigger combat with the hag coven in [[Arc H - The Lost Soul]]
+* Added a fail-forward plotline for players defeated by Baba Lysaga in [[Arc I - The Walls of Krezk]]
+* Clarified that *spirit guardians* damages the roots in [[Arc J - The Stolen Gem]]
+* Clarified how Ezmerelda responds upon learning that the players stole from her wagon in [[Arc K - The Fallen Abbey]]
+* Reworked [[Arc L - The Den of Wolves]] to remove Kiril's return and add additional evil werewolves loyal to Kiril
+* Made Vladimir Horngaard's flame attacks deal fire damage instead of cold damage in [[Arc M - The Dragon's Manor]]
+* Added additional locations to encounter Rahadin in [[Arc P - Ravenloft Heist]]
+* Clarified what *detect magic* and *identify* reveal about amber shards in [[Amber Shards]]
+* Allowed players to continue using stage-two corruption spells in stage three of an amber shard's corruption, subject to exhaustion, in [[Amber Shards]]
+# Version 2.0.8.10 (August 15, 2024)
+* Clarified that Rahadin retreats upon activating the *amulet of Ravenloft* in [[Arc P - Ravenloft Heist]]
+# Version 2.0.8.9 (August 12, 2024)
+* Reduced Rahadin's hit points in each form to 180 and swapped his phase one ***parry*** and ***riposte*** reactions with his phase two ***vengeful strike*** and ***disarm*** reactions in [[Arc P - Ravenloft Heist]]
+# Version 2.0.8.8 (August 9, 2024)
+* Removed Rahadin's phase-one _misty step_ bonus action, decreased his _misty step_ reaction to once per round, and expanded his phase-two _amulet of Ravenloft_ reaction to trigger upon reaching 50 hit points or fewer in [[Arc P - Ravenloft Heist]]
+* Changed Vladimir's oathbind to only apply to Strahd in [[Arc M - The Dragon's Manor]]
+# Version 2.0.8.7 (August 2, 2024)
+* Removed reference to outdated version of Arc N in [[Act III Summary]]
+# Version 2.0.8.6 (July 28, 2024)
+* Increased dungeon hall trapdoor recharge time to 24 hours in [[Arc P - Ravenloft Heist]]
+# Version 2.0.8.5 (July 25, 2024)
+* Clarified how often and how many times the clock chimes in [[Arc O - Dinner with the Devil]]
+* Replaced a reference to Ludmilla's ***vengeful ward*** with her ***shroud of shadows*** in [[Arc J - The Stolen Gem]]
+# Version 2.0.8.4 (July 21, 2024)
+* Revised Ludmilla's second-phase claws, mist shards, dissipate, asphyxiate, poison mist, and ambush features in [[Arc P - Ravenloft Heist]]
+* Changed the title of Arc M to [[Arc M - The Dragon's Manor]]
 # Version 2.0.8.3 (July 20, 2024)
 * Removed Ludmilla's fly speed, changed her ***vengeful ward*** feature to a ***shroud of shadows*** bonus action, and modified the text of her ***shroud of shadows*** and ***mage's reprisal*** abilities in [[Arc J - The Stolen Gem]] and [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.2 (July 20, 2024)
@@ -21,8 +160,8 @@
 * Added information regarding Lady Wachter's knowledge and character arc in [[Arc F - Le Souhait de Dame Wachter]]
 * Moved Erasmus's plea to arrive just before dawn in [[Arc H - L'Ame Perdue]]
 * Added information regarding the players' failure to return a heartstone in [[Arc H - L'Ame Perdue]]
-* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Arc H - L'Ame Perdue]], [[Arc I - The Walls of Krezk]] and [[Arc J - The Stolen Gem]].
-* Added information regarding other areas of Berez in [[Arc I - The Walls of Krezk]]
+* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Arc H - L'Ame Perdue]], [[Arc I - Les Murs de Krezk]] and [[Arc J - The Stolen Gem]].
+* Added information regarding other areas of Berez in [[Arc I - Les Murs de Krezk]]
 * Redistributed milestone XP in [[Act III Summary]]
 * Added additional reason for the players to return to Kavan's cairn in [[Arc J - The Stolen Gem]]
 * Added NPC profiles for Otto and Zygfrek Belview in [[Arc K - The Fallen Abbey]]
@@ -141,7 +280,7 @@
 * Clarified the hags' lair actions are centered on the windmill
 * Added the hags' ***claw*** attack to their statblock
 
-[[Arc I - The Walls of Krezk]]
+[[Arc I - Les Murs de Krezk]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added NPC profile for Baron Dmitri Krezkov
 * Added travel times
@@ -367,10 +506,10 @@
 * Revised Franz's story to be more sympathetic.  
 * Required Fiona to deactivate the protective circle to allow Victor to enter the Ethereal Plane  
 
-**[[Arc I - The Walls of Krezk]]**
+**[[Arc I - Les Murs de Krezk]]**
 * Added a scene in which the Abbot cures the players' lycanthropy by Krezk's blessed pool
 # Version 2.0.4 (Aug. 23, 2023)
-* Added [[Arc D - The Tome of Strahd]], [[Arc D - Le festin de Saint-Andral]], [[Arc E - La Vistana Disparue]], [[Arc F - Le Souhait de Dame Wachter]], [[Arc G - Les Frères et Sœurs Strazni]], [[Arc H - L'Ame Perdue]], [[Arc I - The Walls of Krezk]], and the [[Eclats d'Ambre]] appendix
+* Added [[Arc D - The Tome of Strahd]], [[Arc D - Le festin de Saint-Andral]], [[Arc E - La Vistana Disparue]], [[Arc F - Le Souhait de Dame Wachter]], [[Arc G - Les Frères et Sœurs Strazni]], [[Arc H - L'Ame Perdue]], [[Arc I - Les Murs de Krezk]], and the [[Eclats d'Ambre]] appendix
 * added all-new splash art by artist Caleb Cleveland
 * changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword’s hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
 * changed Rahadin to be Kasimir’s cousin-in-law and the son of Prince Erevan Lowenhart

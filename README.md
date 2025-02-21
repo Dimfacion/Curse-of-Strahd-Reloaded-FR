@@ -11,6 +11,9 @@ Cette traduction vise à traduire tout le matériel créé par DragnaCarta (vous
 
 Merci beaucoup à DragnaCarta pour cette réécriture ! N'hésitez pas à visiter sa page [patreon](https://www.patreon.com/DragnaCarta) ! 
 
+## Version en cours 
+2.0.10.4
+
 ## Workflow
 
 Cette traduction utilise massivement des traducteurs IA. Voici le flux de travail principal utilisé :
@@ -38,7 +41,7 @@ Cette traduction utilise massivement des traducteurs IA. Voici le flux de travai
 | [[Arc F - Le Souhait de Dame Wachter]]          | ✅       | ❌                        | ❌                         | ❌                         |              |
 | [[Arc G - Les Frères et Sœurs Strazni]]         | ✅       | ❌                        | ❌                         | ❌                         |              |
 | [[Arc H - L'Ame Perdue]]                        | 🚧      | ❌                        | ❌                         | ❌                         |              |
-| [[Arc I - The Walls of Krezk]]                  | ❌       | ❌                        | ❌                         | ❌                         |              |
+| [[Arc I - Les Murs de Krezk]]                  | ❌       | ❌                        | ❌                         | ❌                         |              |
 | Arc III - Une contrée Brisée                    | ❌       | ❌                        | ❌                         | ❌                         |              |
 | [[Act III Summary]]                             | ❌       | ❌                        | ❌                         | ❌                         |              |
 | [[Arc J - The Stolen Gem]]                      | ❌       | ❌                        | ❌                         | ❌                         |              |

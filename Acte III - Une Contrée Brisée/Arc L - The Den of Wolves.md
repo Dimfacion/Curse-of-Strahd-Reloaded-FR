@@ -1,339 +1,331 @@
-_An adventure for five 6th-level characters._
 
-In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
 
-With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
+_Une aventure pour cinq personnages de niveau 6._
 
-There, the players meet Zuleika Krezkova—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that Kiril Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
-# L1. Finding the Den
-The players can locate the werewolves’ den in one of two ways:
+Dans cet arc, les joueurs doivent localiser la tanière de la meute de loups-garous baroviens, qui détient le *Saint Symbole de Ravenkind* comme prévu par Madame Eva. Si les joueurs ont précédemment découvert l'emplacement d'Ilya, le fils du baron Dmitri Krezkov, dans ***Arc I : Les Murs de Krezk***, le baron Krezkov leur demande également de le sauver des griffes des loups-garous, promettant un refuge et une aide s'ils le font.
 
-* They can recruit the monster hunter Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]]. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
-* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] or [[Arc E - The Missing Vistana]] to lead them to the den.
+Avec l'aide d'Ezmerelda d'Avenir, les joueurs peuvent pister la tanière des loups-garous jusqu'à un promontoire tranquille sur la rive nord-ouest du lac Baratok. Lors d'une surveillance nocturne à la lisière de la forêt de Svalich, les joueurs doivent attendre que la meute sorte pour chasser, puis s'introduire dans la tanière et contourner ou vaincre les gardes restants avant de pénétrer dans le sanctuaire de la Mère Nuit.
 
-In the former case, before she leads the players to the den, Ezmerelda proposes the following plan:
+Là, les joueurs rencontrent Zuleika Toranescu, une clerge **louve-garou** de la Mère Nuit et la sœur aînée du baron Dmitri Krezkov. Zuleika est la compagne d'Emil Toranescu, l'ancien chef de meute **loup-garou** que Kiril Stoyanovich a déposé lorsque Strahd s'est réveillé de sa torpeur. Zuleika accepte de lever la protection de la Mère Nuit du sanctuaire et de permettre aux joueurs de récupérer le *Saint Symbole de Ravenkind* et de libérer Ilya s'ils la libèrent également et promettent de sauver Emil des donjons du château Ravenloft.
 
-* First, she will lead the players to her wagon at Lake Baratok to retrieve some supplies—specifically, a *spell scroll of major image* (in case they need a distraction), a *spell scroll of remove curse* (in case any of them is bitten), a spyglass (to keep watch), and 10 silvered crossbow bolts (to restock their quivers).
-* Second, she and the players will set up camp in the hollow and wait until nightfall for the werewolf pack to exit the den to hunt.
-* Third, once the werewolf pack has left the den, she and the players will infiltrate the werewolf den to rescue Ilya from his captivity.
 
-> [!abstract]+ **Robbing Ez**
-> If the players stole from Ezmerelda's wagon in [[Arc E - The Missing Vistana]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
-# L2. Lake Baratok
-If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Arc E - The Missing Vistana]]. 
 
-When the players arrive, Ezmerelda enters the wagon via the hidden trapdoor in its underbelly. Shortly after doing so, she informs the players—sounding shocked—that someone has been inside the wagon and stolen several of her belongings, including the two spell scrolls, a lyre, and three vials of perfume.
+Alors que les joueurs s'approchent de la source de la musique, ils peuvent entendre les trois strophes suivantes d'une lamentation obsédante.
 
-Each player with a passive Wisdom (Perception) score of 12 or higher then notices the faint sound of music emanating from the far side of the tower. A player can also make a DC 14 Wisdom (Survival) check to identify a set of recent humanoid footprints leading from the wagon toward the source of the music—left no longer than an hour ago.
-
-As the players approach the source of the music, they can hear the following three stanzas of a haunting lament.
-
-> [!info]+ **Bianca’s Lament**
-> Bianca’s song can be sung to the melody of *Lament of Orpheus* from the video game *Hades*.
+Un chant de lamentations de Bianca peut être chanté sur l'air de *Lament of Orpheus* du jeu vidéo *Hades*.
 
 <div class="description" style="text-align: center;">
-<p>Hear, O stars, my yearning plea,
-<br>To feel his arms upon me.
+<p>Entendez, ô étoiles, ma prière ardente,
+<br>De sentir ses bras sur moi.
 <br>
-<br>Lost beneath the starlit sea,
-<br>His light it waits, haunting me
-<br>Draw his whispers close to me,
-<br>That in his shade, I might see
+<br>Perdue sous la mer étoilée,
+<br>Sa lumière m'attend, me hantant. 
+<br>Attirez ses murmures près de moi,
+<br>Pour que dans son ombre, je puisse voir
 <br>
-<br>Heed, heed his call.
+<br>Écoutez, écoutez son appel.
 <br>Ooh.</p>
 </div>
 
-The source of the music is Bianca, a **werewolf** in human form sitting on the rocky shore of the causeway. When the players first see her, read:
+La source de la musique est Bianca, une **loup-garou** sous forme humaine assise sur la rive rocheuse de la chaussée. Quand les joueurs la voient pour la première fois, lisez :
 
 <div class="description">
-<p>A woman sits alone on the rocky shore, clad in finely sewn animal skins and cradling a lyre in her arms. Her hair, a pale, lustrous white, cascades over her shoulders, and her eyes rest closed as she plucks the lyre's strings. A haunting refrain parts her lips as her body gently sways, her song continuing without acknowledgment for your approach.</p>
+<p>Une femme est assise seule sur la rive rocheuse, vêtue de peaux d'animaux finement cousues et tenant une lyre dans ses bras. Ses cheveux, d'un blanc pâle et lustré, cascadent sur ses épaules, et ses yeux sont clos tandis qu'elle pince les cordes de la lyre. Un refrain obsédant s'échappe de ses lèvres alors que son corps se balance doucement, sa chanson se poursuivant sans tenir compte de votre approche.</p>
 </div>
 
-If the players approach, they can see the two stolen spell scrolls and the three vials of perfume sitting on a rock next to her. One of the vials has been uncorked, but seems otherwise unused.
+Si les joueurs s'approchent, ils peuvent voir les deux parchemins de sorts volés et les trois flacons de parfum posés sur un rocher à côté d'elle. L'un des flacons a été débouché, mais semble par ailleurs inutilisé.
 
-If the players allow Bianca to finish, her song concludes:
+Si les joueurs laissent Bianca terminer, sa chanson se conclut :
 
 <div class="description" style="text-align: center;">
-<p>Near enough, his amber eye gleams
-<br>My feet betray the better of me
-<br>A silver-lit path that wanders my dreams
-<br>His shadowed gaze shall guide me
+<p>Assez proche, son œil ambré brille
+<br>Mes pieds me trahissent au pire
+<br>Un chemin argenté qui erre dans mes rêves
+<br>Son regard ombragé me guidera
 <br>
-<br>Ever on.
+<br>Toujours.
 <br>
-<br>Run
-<br>Leap
-<br>Still he flees
-<br>But now the sky's around us
-<br>We're soaring
-<br>Falling
+<br>Cours 
+<br>Saute
+<br>Toujours il fuit
+<br>Mais maintenant le ciel nous entoure
+<br>Nous planons
+<br>Tombons
 <br>
-<br>Don't look down
-<br>Don't look down
-<br>Don't look down
-<br>Don't look down
-<br>Don't look down</p>
+<br>Ne regarde pas en bas
+<br>Ne regarde pas en bas
+<br>Ne regarde pas en bas
+<br>Ne regarde pas en bas
+<br>Ne regarde pas en bas</p>
 </div>
 
-Whether the players interrupt her or allow her to finish, Bianca greets them with some surprise and warmth and asks whether they’re the owners of the wagon beside the tower.
+Que les joueurs l'interrompent ou la laissent terminer, Bianca les salue avec surprise et chaleur, et demande s'ils sont les propriétaires du chariot à côté de la tour.
 
-![[Bianca Stoyanovich.png]]
-<span class="credit">"Bianca Stoyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Si les joueurs s'identifient eux-mêmes ou Ezmerelda comme propriétaires du chariot, Bianca s'excuse profusément pour le vol. "Je ne voulais pas être une voleuse," dit-elle, l'air penaud. "J'étais juste curieuse."
 
-> [!profile]+ **Profile: Bianca Stoyanovich**
-> **Roleplaying Information**
-> ***Resonance.*** When the players first meet her, Bianca should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
-> 
-> ***Emotions.*** Bianca most often feels melancholy, cheerful, amused, thoughtful, curious, desperate, or anxious.
-> 
-> ***Motivations.*** Bianca wants to keep Kiril safe, happy, and sane while protecting the pack and innocent Barovians from his wrath, hunger, and ambitions.
-> 
-> ***Inspirations.*** When playing Bianca, channel Yennefer of Vengerberg (*The Witcher*), Rogue (*X-Men*), and Princess Amidala (*Star Wars*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, Bianca is an excitable, albeit surprisingly refined woman. To those she trusts, Bianca is anxious and desperate to bring Kiril back from the brink of madness. Deep down, Bianca wonders if she regrets joining Kiril as a **werewolf**.
-> 
-> ***Morale.*** In a fight, Bianca would attempt to negotiate or flee, but fight savagely if cornered.
-> 
-> ***Relationships.*** Bianca is Kiril's mate and wife, and the disinherited daughter of a noble family outside of Barovia.
+Bianca peut partager les informations suivantes si on le lui demande :
 
-If the players identify themselves or Ezmerelda as the owner of the wagon, Bianca apologizes profusely for stealing from it. "I didn't mean to be a thief," she says, looking abashed. "I was just curious."
+* Son nom est Bianca. Elle est une herboriste qui vit dans les bois à proximité avec son mari, Kiril. (C'est une demi-vérité. Bien que Bianca soit experte et habile dans l'utilisation des herbes, un jet de Sagesse (Perspicacité) réussi de DD 14 indique que Bianca hésite légèrement en s'identifiant comme une "herboriste".) Si les joueurs lui demandent comment elle se défend, Bianca produit soigneusement un poignard argenté de sa botte fourrée et les assure qu'elle sait s'en servir.
+* Elle a vu le chariot d'Ezmerelda et était curieuse de son contenu. Au lieu d'ouvrir la porte, elle a fouillé davantage et a trouvé la trappe sur le dessous, qu'elle a utilisée pour entrer et explorer l'intérieur.
+* Elle a pris la lyre et le parfum car ils lui rappelaient des souvenirs d'autrefois - "d'avant que je ne rencontre mon mari". Elle a pris les parchemins car elle a toujours été fascinée par les livres, mais a été déçue lorsqu'elle s'est avérée incapable de les déchiffrer. (C'est un mensonge. Un jet de Sagesse (Perspicacité) réussi de DD 14 révèle que les yeux de Bianca se tournent vers les parchemins lorsqu'elle mentionne son incapacité à les déchiffrer.)
+* La chanson qu'elle chantait s'intitule "La Complainte du Lunatique" et parle d'une femme qui tombe amoureuse de la lune et la poursuit jusqu'à tomber d'une falaise, trouvant finalement la mort. Après une pause, elle ajoute doucement : "Êtes-vous déjà tombé amoureux de quelqu'un, et vous êtes-vous demandé si vous aviez fait une erreur ?"
 
-Bianca can share the following information if asked:
+Si les joueurs lui demandent des informations sur son mari, elle est prête à partager ce qui suit :
 
-* Her name is Bianca. She is an herbalist who lives in the woods nearby with her husband, Kiril. (This is a half-truth. While Bianca is knowledgeable about and skilled with the use of herbs, a successful DC 14 Wisdom (Insight) check indicates that Bianca falters slightly upon identifying herself as an “herbalist.") If the players ask how she defends herself, Bianca carefully produces a sheathed silver dagger from her furred boot, and assures them she knows how to use it. 
-* She saw Ezmerelda’s wagon and was curious about its contents. Rather than open the door, she investigated further and found the trapdoor on its bottom, which she used to enter and explore its interior.
-* She took the lyre and perfume because they reminded her of memories she had from long ago—"from before I met my husband." She took the scrolls because she has always been fascinated by books, but was disappointed when she proved unable to decipher them. (This is a lie. A successful DC 14 Wisdom (Insight) check reveals that Bianca’s eyes flicker toward the scrolls when she mentions her inability to decipher them.)
-* The song she was singing is titled “The Lunatic’s Lament," and is about a woman who falls in love with the moon and chases it off a cliff, ultimately falling to her death. After pausing for a moment, she adds, softly: "Have you ever fallen in love with someone, and wondered if you made a mistake?"
+* Il y a treize ans, Bianca était la fille d'une famille aisée. Cependant, elle a renoncé à son héritage lorsqu'elle est tombée amoureuse d'un jeune bûcheron robuste et séduisant nommé Kiril Stoyanovich. Contre la volonté de ses parents, elle a fui sa vie confortable pour vivre avec lui dans un chalet dans les bois à proximité.
+* Lorsque "le vampire" dormait, les étendues sauvages étaient plus paisibles - mais depuis que Strahd s'est réveillé, Kiril est "hanté - non par un fantôme, mais par sa propre rage". (Si les joueurs demandent ce qui met Kiril en rage, Bianca déclare simplement et gravement : "Un manque de pouvoir. Une absence de contrôle".)
+* Bianca est horrifiée si l'un des joueurs suggère - même implicitement - que Kiril pourrait lui avoir fait du mal, jurant qu'il "ne lui ferait jamais de mal". Elle avoue cependant qu'il semble être "piégé dans un tourbillon d'autodestruction, s'en prenant à lui-même et aux autres".
+* "Chaque semaine, cette... rage semble le dévorer un peu plus", ajoute-t-elle doucement. "Je ne sais pas combien il reste encore de l'homme que j'ai épousé à l'intérieur."
 
-If the players ask about Bianca's husband, she is willing to share the following information:
+Si les joueurs expriment leur intérêt à le faire, Bianca sollicite leurs conseils, leur demandant ce qu'ils feraient à sa place. Bien qu'elle ne soit pas prête à abandonner Kiril, elle apprécie les conseils qu'ils pourraient lui donner et les remercie sincèrement. (Bianca n'est pas prête à conduire les joueurs à la rencontre de Kiril, mais leur assure qu'elle les recherchera si elle n'arrive pas à calmer sa colère par elle-même.)
 
-* Thirteen years ago, Bianca was the daughter of a wealthy family. She forfeited her inheritance, however, when she fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents' wishes, she fled from her comfortable life to live with him in a cottage in the nearby woods.
-* While "the vampire" slept, the wilds were more peaceful—but ever since Strahd awoke, Kiril has been "haunted—not by any ghost, but by his own rage." (If the players ask what Kiril is enraged by, Bianca states simply and soberly: "A lack of power. An absence of control.")
-* Bianca is horrified if any of the players suggest—even implicitly—that Kiril might have harmed her, vowing that he "would *never* harm a hair on her head." She confesses, however, that he seems to be "trapped in a whirlwind of self-destruction, lashing out at himself and others." 
-* "Every week, that . . . rage seems to devour ever-more of him," she adds quietly. "I don't know how much of the man I married is still left inside."
+Bianca est heureuse de rendre le parfum et les parchemins, mais demande, dans une requête sincère et émouvante, qu'on lui permette de garder la lyre. "Cela fait si longtemps que je n'ai pas pu jouer de vraie musique", implore-t-elle. Si les joueurs le lui permettent, elle en est profondément reconnaissante. (Si Ezmerelda est avec le groupe, elle attend que les joueurs répondent. Si les joueurs lui demandent de décider, elle n'a pas d'objection à céder la lyre, sauf si le groupe a montré une réticence à faire confiance à Bianca.)
 
-If the players express an interest in doing so, Bianca requests their counsel, asking what they would do in her position. While she isn't willing to leave Kiril behind, she appreciates any advice they might lend, and thanks them sincerely for doing so. (Bianca isn't willing to lead the players to meet Kiril, but assures them that she'll seek them out if she's unable to quell his anger on her own.)
+Que les joueurs lui permettent de garder la lyre ou non, Bianca leur fait ses adieux et s'éloigne sur le chemin du nord, loin du lac, disparaissant dans les arbres peu après.
 
-Bianca is happy to relinquish the perfume and scrolls, but asks, in a heartfelt and mournful request, that she be allowed to keep the lyre. “It’s been so long since I’ve been able to play real music," she pleads. If the players allow her to do so, she is deeply grateful. (If Ezmerelda is with the party, she waits for the players to respond. If the players ask her to decide, she doesn't mind relinquishing the lyre unless the party has shown a reluctance to trust Bianca.)
 
-Whether the players allow her to keep the lyre or not, Bianca bids them farewell and departs for the northern path away from the lake, vanishing into the trees shortly thereafter.
 
-> [!abstract]+ **Bianca's Secret**
-> If suspicious players determine that Bianca is a threat, she can be persuaded to reveal her true nature as a **werewolf** with a successful DC 15 Charisma (Intimidation) check, provided the players provide sufficient assurances of her safety if she does. 
-> 
-> If the players attack Bianca, she pleads for their mercy and honestly assures them that she means them no harm. If refused, she attempts to flee, first in her humanoid form, then in her **wolf** form as soon as she reaches the tree line.
-> 
-> Players who convince Bianca to reveal her true lycanthropic nature can convince her to share the following information about the werewolf den with a successful DC 20 Charisma (Intimidation) check:
-> * The pack is led by Kiril, her husband and a powerful werewolf, who seized power when the old leader stepped down.
-> * Prisoners are kept in Mother Night's shrine, which lies toward the rear of the cave.
-> * When the pack leaves to hunt, only Bianca and Skennis, the pack's old leader, remain behind. (Bianca has little desire to see Kiril transformed following his deals with the "swamp witch" of Berez.)
-> 
-> Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Charisma (Persuasion) check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Charisma (Persuasion) check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
+> [!abstract]+ **Le Secret de Bianca**
+> Si les joueurs soupçonneux déterminent que Bianca représente une menace, elle peut être persuadée de révéler sa véritable nature de **loup-garou** avec un jet de Charisme (Intimidation) réussi de DD 15, à condition que les joueurs lui assurent suffisamment sa sécurité si elle le fait.
+>  
+> Si les joueurs attaquent Bianca, elle supplie leur merci et les assure honnêtement qu'elle ne leur veut aucun mal. Si elle est refusée, elle tente de fuir, d'abord sous sa forme humanoïde, puis sous sa forme de **loup** dès qu'elle atteint la lisière des arbres.
+>  
+> Les joueurs qui convainquent Bianca de révéler sa véritable nature lycanthrope peuvent la convaincre de partager les informations suivantes sur le repaire des loups-garous avec un jet de Charisme (Intimidation) réussi de DD 20 :
+> * La meute est menée par Kiril, son mari et un puissant loup-garou, qui a pris le pouvoir lorsque l'ancien chef s'est retiré.
+> * Les prisonniers sont gardés dans le sanctuaire de la Mère Nuit, qui se trouve vers l'arrière de la caverne.
+> * Lorsque la meute part chasser, Bianca et Skennis, l'ancien chef de la meute, restent derrière. (Bianca a peu envie de voir Kiril se transformer à la suite de ses accords avec la "sorcière des marais" de Berez.)
+> * De plus, quatre loups-garous restent également pour garder le repaire, leur garde étant assurée par rotation par paires. (Les quatre loups-garous, Azianka, Davanka, Kobal et Radovan ont été récemment infectés par Kiril et lui obéissent servilement.)
+> * Alors que tous les autres loups-garous seront à la chasse, environ une demi-douzaine de loups restent encore au repaire.
+>  
+> Les joueurs qui font preuve de sympathie et de compassion pour les problèmes conjugaux de Bianca, partagent leurs propres expériences dans une situation similaire et réussissent un jet de Charisme (Persuasion) de DD 20 peuvent la convaincre de partager les informations dans **La Chute de Bianca** ci-dessous. (Bianca ne connaît pas les informations concernant Ezmerelda, Ludmilla ou ce que Kiril a fait à Berez.) Les joueurs qui réussissent ensuite un jet supplémentaire de Charisme (Persuasion) de DD 15 peuvent également convaincre Bianca de les guider jusqu'au sanctuaire de la Mère Nuit lorsqu'ils entreront dans le repaire.
+> [!lore]+ **La Chute de Bianca**
+> Il y a treize ans, Bianca, une noble de vingt et un ans, est tombée amoureuse d'un jeune bûcheron robuste et vigoureux nommé Kiril Stoyanovich.
+Contre la volonté de ses parents, elle a fui sa vie de privilège et de richesse pour devenir l'épouse de Kiril, vivant avec lui dans une petite et humble chaumière dans les bois voisins.
+Ils étaient pauvres, mais heureux... ou du moins c'est ce que Bianca pensait.
+>  
+> Il y a onze ans, Kiril a été mordu par un loup-garou déserteur - un transfuge de la meute barovienne de loups-garous - et infecté par la malédiction de la lycanthropie.
+Désespérée de percer le voile de culpabilité et de dégoût de soi de Kiril, Bianca l'a pistécette nuit de sa transformation et s'est laissée mordre par lui, attrapant ainsi la malédiction à son tour.
+>  
+> Peu de temps après, ils ont été trouvés par Skennis, le chef vieillissant de la meute barovienne de loups-garous, qui avait emmené la meute au-delà des Brumes.
+Sur l'invitation de Skennis, Bianca et Kiril sont retournés avec la meute à Barovia, où Emil et Zuleika Toranescu - un couple né loup-garou - ont tenté de leur apprendre à contrôler leur malédiction.
+>  
+> Bianca a fait des progrès lents mais réguliers, et Zuleika a loué ses efforts.
+Kiril, jaloux et impatient, a cependant trouvé l'entraînement d'Emil trop lent à son goût.
+Après avoir appris le secret de la maîtrise de sa malédiction auprès de l'une des sorcières de Baba Lysaga, Kiril a secrètement tué et dévoré un marchand voyageant sur la route de Vallaki à Krezk.
+>  
+> À partir de ce moment, Kiril contrôlait sa malédiction avec facilité.
+Emil et Zuleika avaient leurs propres soupçons sur ses progrès accélérés, mais ont choisi de ne pas les soulever par crainte d'attiser la division.
+>  
+> Il y a cinq ans, lorsque Skennis a abandonné le leadership de la meute des loups-garous, Emil était son héritier choisi pour le remplacer.
+Cependant, Kiril, jaloux et ivre de sa propre soif de sang et de sa force, a défié Emil dans un combat pour décider du prochain chef.
+Emil a gagné - mais de justesse.
+>  
+> Enragé par sa défaite, Kiril a semé une traînée sanglante à travers les terres au-delà des brumes.
 
-> [!lore]+ **Bianca’s Fall**
-> Thirteen years ago, Bianca—a twenty-one-year-old **noble**—fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents’ wishes, she fled from her life of privilege and wealth and became Kiril’s wife, living with him in a small, humble cottage in the nearby woods. They were poor, but happy—or so Bianca thought.
+
+
+Comme il l'a fait, il a acquis le surnom de "la Terreur noire" - ainsi nommé pour sa fourrure distinctive couleur charbon - et a attiré l'attention de la novice chasseuse de monstres Ezmerelda d'Avenir.
+Ezmerelda a suivi Kiril jusqu'à Barovia et a cherché à le piéger, mais Kiril l'a déjoué et lui a dévoré la jambe.
+Seule l'arrivée opportune de Dmitri et Anna Krezkov a sauvé la vie d'Ezmerelda, repoussant Kiril tandis qu'il se retirait dans la tanière des loups-garous.
+
+Il y a trois mois, lorsque Strahd s'est réveillé et qu'Emil a commencé à évoquer l'abandon de Barovia pour des pâturages plus verts, Kiril a vu s'ouvrir devant lui une porte d'opportunité.
+Il est retourné une fois de plus au village de Berez, où il a supplié Baba Lysaga de la faveur de Strahd et de la force de revendiquer la place d'Emil.
+
+Espionnant une opportunité de placer la meute de loups-garous fermement sous la coupe de Strahd, Lysaga a accordé à Kiril un breuvage de sorcière qui lui a conféré une transformation monstrueuse, renforçant grossièrement sa malédiction de loup-garou tout en attisant son orgueil et sa soif de sang à de nouveaux sommets terrifiants.
+Avec l'aide de Ludmilla Vilisevic, une des épouses vampires de Strahd, elle a également gagné la loyauté d'une meute de loups redoutables de Strahd, qui l'ont flanqué à son retour dans la tanière.
+
+Là, Kiril a une fois de plus défié Emil pour la direction de la meute - et cette fois, Kiril a gagné.
+La victoire n'a cependant pas rassasié l'appétit de Kiril.
+Au lieu de cela, Bianca l'a vu sombrer de plus en plus dans un brouillard de jalousie, de rage et de paranoïa.
+Elle craint pour lui, pour elle-même et pour tous les habitants de Barovia qui pourraient tomber proie à sa folie.
+
+Bianca connaît bien la véritable nature des parchemins de sorts d'Ezmerelda et soupçonne fortement que le chariot appartient à la prétendue "chasseuse de monstres" vistana dont on dit qu'elle a tué des loups et des morts-vivants dans les bois environnants.
+Alors qu'elle a pris le parfum et la lyre par nostalgie de son ancienne vie, elle a pris les parchemins dans l'espoir qu'ils pourraient contenir des remèdes à sa lycanthropie et à celle de Kiril.
+
+Cependant, en réalisant qu'un seul parchemin contenait le sort "lever la malédiction", elle a brièvement envisagé de l'utiliser sur elle-même avant de finalement refuser de le faire.
+Abandonner Kiril, du moins pour l'instant, n'est pas une voie qu'elle est prête à emprunter.
+
+Une fois qu'elle aura obtenu tous les matériaux utiles de son chariot, Ezmerelda conseille aux joueurs de se poster en embuscade près de la tanière jusqu'au départ de la meute pour la nuit, puis de se dépêcher pour déterminer si Ilya Krezkov est emprisonné à l'intérieur. (Si les joueurs suggèrent une attaque directe, Ezmerelda les avertit avec ironie que défier une meute d'une douzaine de loups-garous et une fois et demie autant de loups ordinaires serait au mieux une entreprise insensée, et au pire suicidaire.)
+
+À l'approche du crépuscule, Ezmerelda peut conduire les joueurs dans un creux sombre et tranquille du Bois de Svalich à l'ouest du Lac Baratok. Lire :
+
+Ezmerelda vous conduit au bord d'un petit creux - une dépression naturelle dans le sol de la forêt. Ses rebords sont encadrés par de grands arbres, leurs troncs noirs offrant des aperçus de la rive rocheuse du lac Baratok. Le mont Baratok domine le paysage au loin, ses falaises et ses éperons rocheux d'un gris sombre se détachant sur les cimes assombries des arbres.
+
+Le sol au fond du creux est recouvert d'une fine nappe de brume sur un tapis de feuilles mortes et de mousse. Sur son côté nord, un réseau complexe de grosses racines d'arbres noueuses crée une structure en forme de voûte, comme une caverne.
+
+L'air est frais et humide ici, transportant l'odeur terreuse de sol détrempé et de feuilles en décomposition. Le creux lui-même est silencieux, à l'exception du léger bruissement des feuilles et du clapotis lointain de l'eau contre la rive.
+
+Ezmerelda conseille aux joueurs qu'ils peuvent rester cachés dans le creux tout en s'en servant comme point d'observation pour surveiller le terrier des loups-garous. Si on le lui demande, elle indique l'entrée du terrier, qui se trouve le long de la rive nord-ouest du lac et comme décrit dans <span class="citation">Approcher le Terrier (p. 201)</span>.
+
+En descendant dans le creux, Ezmerelda demande aux joueurs de rassembler du bois de chauffage et des brindilles. Une fois qu'un petit feu de camp a été préparé, elle sort une petite pierre à feu et un briquet de sa sacoche - un *allume-feu furtif* (voir ci-dessous) - et s'en sert pour allumer un petit feu de camp chaleureux sous la caverne de racines.
+
+Le feu de camp ne produit aucune fumée, et sa lumière ne s'étend pas au-delà des bords du creux. Si on lui demande la raison pour laquelle elle l'a allumé, Ezmerelda rappelle aux joueurs que les loups-garous peuvent voir dans le noir. "Si nous avons la malchance qu'ils nous trouvent", note-t-elle en souriant, "nous voudrons annuler tous les avantages qu'ils pourraient avoir." (Bien qu'Ezmerelda puisse lancer le sort *vision dans le noir*, elle préfère éviter de dépenser des emplacements de sorts sans raison, surtout si elle pourrait en avoir besoin pour combattre des loups-garous et surtout quand elle est accompagnée d'autres personnes.)
+
+> [!item]+ **Allume-feu furtif**
+> *Objet merveilleux, peu commun*
 >
-> Eleven years ago, Kiril was bitten by a rogue **werewolf**—a defector from the Barovian werewolf pack—and infected with the curse of lycanthropy. Bianca, desperate to pierce Kiril’s shroud of guilt and self-loathing, tracked him down on the night of his transformation and allowed him to bite her, spreading the curse to her as well.
->
-> It wasn’t long after that the two were found by Skennis, the aging leader of the Barovian werewolf pack, who had taken the pack beyond the Mists. At Skennis’s invitation, Bianca and Kiril returned with the pack to Barovia, where Emil and Zuleika Toranescu—a mated pair of born werewolves—attempted to teach them how to control their curse.
->
-> Bianca made slow, but steady progress, and Zuleika praised her efforts. A jealous and impatient Kiril, however, found Emil’s training too slow for his liking. After learning of the secret of mastering his curse from one of Baba Lysaga’s witches, however, Kiril secretly killed and devoured a merchant traveling the road from Vallaki to Krezk.
->
-> From that point forward, Kiril controlled his curse with ease. Emil and Zuleika harbored their own suspicions about his expedited growth, but chose not to raise them for fear of stoking division.
->
-> Five years ago, when Skennis relinquished his leadership of the werewolf pack, Emil was his chosen heir to replace him. Kiril, however, jealous and drunk on his own bloodthirst and strength, challenged Emil to a brawl to decide the next leader. Emil won—but only just. 
->
-> Enraged by his defeat, Kiril cut a bloody swathe across the lands beyond the mists. As he did, he acquired the nickname “the Black Terror"—so named for his distinctive charcoal-colored fur—and drew the attention of novice monster hunter Ezmerelda d’Avenir. Ezmerelda tracked Kiril to Barovia and sought to trap him, but Kiril outwitted her and devoured her leg. Only the timely arrival of Dmitri and Anna Krezkov saved Ezmerelda’s life, driving Kiril off as he retreated to the werewolves’ den.
->
-> Three months ago, when Strahd awoke and Emil began discussing abandoning Barovia for greener pastures, Kiril saw a door of opportunity opening to him. He returned once more to the village of Berez, where he begged Baba Lysaga for Strahd’s favor and the strength to claim Emil’s place. 
->
-> Spying an opportunity to place the werewolf pack squarely beneath Strahd’s thumb, Lysaga granted Kiril a witch’s brew that bestowed upon him a monstrous transformation, grossly empowering his werewolf’s curse while driving his pride and bloodlust to new, terrifying heights. Through the aid of Ludmilla Vilisevic, one of Strahd’s vampiric brides, she also won Kiril the loyalty of a pack of Strahd’s **dire wolves**, which flanked him upon his return to the den.
->
-> There, Kiril once more challenged Emil for the leadership of the pack—and this time, Kiril won. Victory did not sate Kiril’s appetite, however. Instead, Bianca has watched him sink ever-deeper into a haze of jealousy, rage, and paranoia. She fears for him, for herself, and for all of the people of Barovia who might fall prey to his madness.
->
-> Bianca is well-aware of the true nature of Ezmerelda’s spell scrolls, and strongly suspects that the wagon belongs to the rumored Vistana “monster-hunter" who has been reported killing wolves and undead in the nearby woods. While she took the perfume and lyre out of nostalgia for her old life, she took the scrolls in the hopes that they might contain cures to her and Kiril’s lycanthropy. 
->
-> Upon realizing that only one scroll contained the *remove curse* spell, however, she briefly pondered using it upon herself before ultimately declining to do so. Abandoning Kiril, at least for now, is not a path she’s willing to take.
+> Cet ensemble finement ouvragé de pierre à feu et de briquet porte de petites runes gravées sur les côtés des deux pièces. Lorsque l'ensemble est utilisé pour enflammer un matériau combustible, la flamme qui en résulte émet une vive lumière dans un rayon de 3 mètres, n'émet aucune lumière faible et ne produit pas de fumée. Tant qu'il se trouve à moins de 9 mètres d'une flamme créée de cette manière, l'utilisateur peut prononcer un mot de commande pour éteindre instantanément la flamme.
 
-> [!lore]+ **The Pack's Dispensation**
-> Long ago, before he entered his most recent hibernation more than a century ago, Strahd granted Barovia's werewolf pack his standing permission to depart Barovia through the Mists freely. The pack retains this special dispensation today under Kiril's leadership.
+Ezmerelda suggère qu'un membre du groupe se poste au bord du creux pour surveiller le départ de la meute. Si les joueurs ne le suggèrent pas, Ezmerelda propose de faire des tours de garde d'une heure pour éviter la fatigue.
+### L3a. Contes au coin du feu
+À la tombée de la nuit, Ezmerelda invite les joueurs et Ireena à partager des histoires sur eux-mêmes, et offre de raconter sa propre histoire à son tour. "Après tout", dit-elle, "si nous devons travailler ensemble, j'aimerais savoir à côté de qui je me bats."
 
-Once she has obtained any useful materials from her wagon, Ezmerelda advises the players that they will need to stake out the den until the pack has departed for the night, then move quickly to determine whether Ilya Krezkov is imprisoned inside. (If the players suggest a direct assault, Ezmerelda wryly advises them that challenging a pack of nearly a dozen werewolves and half again as many ordinary wolves would be a fool’s errand at best, and suicidal at worst.
-# L3. Svalich Woods
-As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in the Svalich Wood to the west of Lake Baratok. Read:
+Au choix des joueurs, Ezmerelda peut raconter une ou les deux histoires suivantes quand son tour arrive : l'histoire de la façon dont elle a rencontré le Dr Rudolph van Richten, ou l'histoire de la façon dont elle a perdu sa jambe.
+
+***Rudolph van Richten.*** Ezmerelda raconte l'histoire comme suit :
 
 <div class="description">
-<p>Ezmerelda leads you to the brink of a small hollow—a natural depression in the forest floor. Its edges are framed by towering trees, their black trunks framing glimpses of Lake Baratok's rocky shore. Mount Baratok looms above the landscape in the distance, its cliffs and rocky spurs a stark gray against the darkened treetops.</p>
-<p>The ground at the base of the hollow is covered by a thin shroud of mist over a blanket of fallen leaves and moss. On its northern side, an intricate network of large, gnarled tree roots creates an arched, cave-like structure. </p>
-<p>The air is cool and damp here, carrying the earthy scent of wet soil and decaying leaves. The hollow itself is silent, save for the faint rustling of leaves and the distant lapping of water against the shore.</p>
+<p>"C'était il y a près de deux décennies que je l'ai vu pour la première fois. Ma famille voyageait avec la caravane Vistani Radanavich quand un enfant Radanavich est tombé gravement malade. Les parents de l'enfant l'ont emmené chez un médecin local - un homme du nom de Rudolph van Richten.</p>
+<p>"Van Richten a fait tout ce qu'il a pu pour garder le garçon en vie. Trois jours plus tard, cependant, il est décédé - et son père, un chef parmi les Radanaviches, a blâmé Van Richten pour la mort de son enfant. Cette nuit-là, aidé par quatre autres, il s'est introduit dans la maison familiale de Van Richten et a enlevé le propre fils de Van Richten par vengeance.  Mes parents m'ont réveillée à minuit, et nous sommes partis sur-le-champ. Ce n'est que plus tard que j'ai appris quelle cargaison nous transportions - et que mes propres parents avaient aidé à l'acquérir.</p>
+<p>"Van Richten lui-même, désespéré de le sauver, a retrouvé notre caravane et a attaché mes parents à un arbre. Après avoir extrait l'emplacement de son fils, cependant, il est parti sans verser une goutte de leur sang - un acte de miséricorde que je n'ai jamais oublié.</p>
+<p>"Dix ans plus tard, j'ai fui la maison, cherchant à suivre les traces de Van Richten. Je l'ai trouvé changé - meurtri et hanté par les années qui s'étaient écoulées. Sa gentillesse, cependant, n'avait jamais faibli, et il a accepté de me prendre comme élève. J'ai passé deux ans avec lui, apprenant tout ce que je pouvais sur les monstres et la façon de les combattre, avant que nous ne nous séparions finalement."</p>
 </div>
 
-Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in <span class="citation">Approaching the Den (p. 201)</span>.
+Après avoir terminé son histoire, l'expression d'Ezmerelda s'assombrit. "La nuit où j'ai quitté sa compagnie, nous avons échangé des paroles dures - des paroles que je préfère oublier." Elle soupire. "Même ainsi, quand j'ai reçu sa dernière lettre, je suis venue immédiatement à Barovia, priant pour qu'il n'affronte pas Zarovich seul."
 
-Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
+Si on le lui demande, Ezmerelda peut partager que les Radanaviches ont vendu le fils de Van Richten, un garçon nommé Erasmus avec qui Ezmerelda avait brièvement joué aux cerceaux étant enfant, à un vampire cruel et odieux appelé le Baron Metus. "Je n'ai jamais appris ce qu'il est devenu après ça", dit-elle avec tristesse. "Le Dr. Van Richten ne voulait jamais en parler."
 
-The campfire produces no smoke, and its light does not extend beyond the edges of the hollow. If asked her reason for making it, Ezmerelda reminds the players that werewolves can see in the dark. “Should we be unlucky enough for them to find us," she notes, grinning, “we’ll want to nullify every advantage they can get." (While Ezmerelda can cast the *darkvision* spell, she prefers to avoid spending spell slots without cause, especially if she might need them to fight werewolves and especially when accompanied by others.)
+***La Terreur Noire.*** Ezmerelda raconte l'histoire comme suit :
 
-> [!item]+ **Furtive Firestarter**
-> *Wondrous item, uncommon*
+<div class="description">
+<p>"C'était un an après que j'aie quitté le Dr. Van Richten, et j'avais l'impression qu'aucun monstre ne pouvait me défier. C'est alors que j'ai entendu des murmures sur une bête connue sous le nom de Terreur Noire - un loup-garou qui était la terreur de plusieurs villages bordant les sombres forêts de Darkon. J'ai juré de le traquer et de mettre fin à son règne de terreur.</p>
+<p>"Il m'a fallu plusieurs nuits d'enquête et de recherche, mais j'ai finalement aperçu la bête au bord d'un marais ombragé, ses crocs tachés du sang de son dernier repas. Mon cœur battait la chamade pendant que je la regardais se glisser dans les brumes - pas un brouillard ordinaire, mais le voile qui cache les mondes eux-mêmes - et je savais que si j'échouais à la poursuivre, je serais peut-être forcée de recommencer ma chasse.</p>
+<p>Dans mon arrogance, je pensais pouvoir gérer tout ce qui se trouvait au-delà. J'étais une Vistani - une errante née des Brumes - et une élève de Rudolph van Richten lui-même. Je me suis précipitée sans réfléchir une seconde - et la Terreur Noire m'a tendu une embuscade, bondissant de l'obscurité avec griffes et crocs. Elle m'a arraché la jambe sous le genou, mon sang éclatant tachant sa fourrure noire comme le charbon.</p>
+<p>À ce moment-là, j'ai su que j'allais mourir, seule et impuissante - jusqu'à ce que Dmitri et Anna émergent des bois, de l'argent froid brillant dans leurs mains. Le loup-garou a fui, et les Krezkov m'ont ramenée chez eux, où ils m'ont soignée. Quand je me suis rétablie, ils m'ont emmenée à Vallaki et ont fait appel au fabricant de jouets local, un homme brillant appelé Blinsky, pour me fabriquer une nouvelle jambe. Aujourd'hui encore, cette jambe me rappelle l'importance de la prudence - et les dangers du zèle excessif.</p>
+</div>
+
+Quand son histoire se termine, Ezmerelda fixe les flammes du regard. "Je dois une dette que je ne pourrai jamais rembourser aux Krezkov", dit-elle doucement. "Mais retrouver Ilya et le ramener chez lui, sain et sauf - ce serait un début."
+
+Ezmerelda n'est pas sûre que la Terreur Noire erre encore à Barovia. "J'espère presque qu'il est là", dit-elle, un sourire narquois sur les lèvres. Sa prise se resserre autour de sa hache d'armes argentée. "J'ai un cadeau que j'aimerais lui offrir."
+# L4. Le Repaire des Loups-garous
+Une heure après la tombée de la nuit, la majorité de la meute de loups-garous quitte le repaire. Lisez :
+
+<div class="description">
+<p>La nuit s'anime lorsque plusieurs grandes formes sombres émergent des crevasses sous la montagne. L'une d'entre elles domine les autres, son corps massif faisant facilement deux fois leur taille.</p>
+<p>La meute se dirige vers le sud, puis l'ouest, trottant le long de la rive du Lac Baratok jusqu'à ce que ses membres disparaissent dans les arbres sombres et touffus de la Forêt de Svalich.</p>
+</div>
+
+
+
+> [!lore]+ **Membres de la Meute**
+> Au moment où les joueurs arrivent pour la première fois à la tanière des loups-garous, la meute contient les loups-garous suivants :
 >
-> This finely crafted set of flint and steel bears small runes etched along the sides of both pieces. When the set is used to ignite a combustible material, the resulting flame sheds bright light in a 10-foot radius, sheds no dim light, and produces no smoke. While within thirty feet of a flame created in this way, the user can speak a command word to instantly extinguish the flame.
-
-Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. If the players don't suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
-### L3a. Campfire Tales
-As night falls, Ezmerelda invites the players and Ireena to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
-
-At the players’ choice, Ezmerelda can share one or both of the following stories when her turn arises: the tale of how she came to know Dr. Rudolph van Richten, or the tale of how she lost her leg.
-
-***Rudolph van Richten.*** Ezmerelda tells the story as follows:
-
-<div class="description">
-<p>"It was nearly two decades ago that I first saw him. My family was travelling with the Radanavich clan—a Vistani caravan—when a Radanavich child fell deathly ill. The child’s parents took him to a local doctor—a man by the name of Rudolph van Richten.</p>
-<p>"Van Richten did all he could to keep the boy alive. Three days later, however, he passed away—and his father, a leader among the Radanaviches, blamed Van Richten for his child's death. That night, aided by four others, he stole into Van Richten's family home and kidnapped Van Richten's own son in vengeance.  My parents awoke me at midnight, and we departed at once. It was only later that I learned what cargo we were carrying—and that my own parents had helped acquire him.</p>
-<p>"Van Richten himself, desperate to rescue him, tracked our caravan down and bound my parents to a tree. After extracting his son's location, however, he departed without shedding a drop of their blood—an act of mercy I have never forgotten.</p>
-<p>"Ten years later, I ran from home, seeking to follow in Van Richten's footsteps. I found him a man changed—scarred and haunted by the years that had passed. His kindness, however, had never faded, and he agreed to take me on as his student. I spent two years with him, learning all I could about monsters and how to fight them, before we ultimately parted ways."</p>
-</div>
-
-After finishing her story, Ezmerelda's expression darkens. "The night I departed his company, we exchanged harsh words—words I'd prefer to forget." She sighs. "Even so, when I received his final letter, I came at once to Barovia, praying that he would not face Zarovich alone."
-
-If asked, Ezmerelda can share that the Radanaviches sold Van Richten’s son—a boy named Erasmus, with whom Ezmerelda had briefly played hoops as a child—to a cruel and hateful vampire called Baron Metus. “I never learned what became of him after that," she says, mournfully. “Dr. Van Richten never wished to speak of it."
-
-***The Black Terror.*** Ezmerelda tells the story as follows:
-
-<div class="description">
-<p>"It was a year after I'd parted ways with Dr. Van Richten, and I felt as though no monster could challenge me. That's when I heard whispers of a beast known as the Black Terror—a werewolf that was the bane of several villages skirting the dark forests of Darkon. I vowed to track it and put an end to its reign of terror.</p>
-<p>"It took many nights of investigation and research, but I finally caught sight of the beast at the edge of a shadowed swamp, its fangs stained red with the blood of its latest meal. My heart raced as I watched it slip into the mists—no ordinary fog, but the veil that shrouds the worlds themselves—and I knew that if I failed to pursue it, I might be forced to begin my hunt anew.</p>
-<p>In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.</p>
-<p>In that moment, I knew I would die, alone and powerless—until Dmitri and Anna emerged from the woods, cold silver flashing in their hands. The werewolf fled, and the Krezkovs brought me back to their home, where they nursed me back to health. When I recovered, they took me to Vallaki and commissioned the local toymaker, a brilliant man called Blinsky, to craft me a new leg. To this day, this leg reminds me of the importance of caution—and the dangers of unchecked zeal.</p>
-</div>
-
-When her story ends, Ezmerelda gazes into the flames. "I owe the Krezkovs a debt I can never repay," she says softly. "But finding Ilya and returning him home, safe and sound—that would be a start."
-
-Ezmerelda isn’t sure whether the Black Terror still lingers in Barovia. “I very nearly hope he does," she says, a wry smile on her lips. Her grip tightens around her silvered handaxe. “I have a gift I’d like to give him."
-# L4. Werewolf Den
-One hour after nightfall, the majority of the werewolf pack departs the den. Read:
-
-<div class="description">
-<p>The night stirs as several large, dark shapes emerge from beneath the mountain crags. One among them towers above the others, its bulky body easily twice the size of theirs.</p>
-<p>The pack turns south, then west, loping along the shoreline of Lake Baratok until its members vanish into the dark, clustered trees of the Svalich Wood.</p>
-</div>
-
-> [!lore]+ **Members of the Pack**
-> At the time the players first arrive at the werewolf den, the pack contains the following werewolves:
-> 
-> * Kiril Stoyanovich, the pack leader, and his wife, Bianca Stoyanovich
-> * Six long-time members of the pack formerly loyal to Emil Toranescu, who now follow Kiril out of fear of him and Strahd
-> * Four werewolves infected by Kiril within the past ten weeks, who follow Kiril slavishly and who embraced the curse through cannibalizing innocent humans as he did.
-> 
-> When leaving Barovia, Kiril takes only the long-time members of the pack with him to hunt, leaving his four bloodthirsty lackeys behind to supervise and protect the den. Kiril doesn't allow the long-time members of the pack to eat everything they hunt, and has threatened to dismember or kill them if they dare touch anything more than the scraps he leaves behind.
-
-As the players approach, the exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
-
-<div class="description">
-<p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
-</div>
-
-A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
-
-> [!info]+ **Interior Lighting**
-> No torches line the walls of the cave. Instead, small clusters of glowing yellow fungus line the walls in their place, each cluster providing dim light in a 5-foot-radius.
-## L4a. Cave Mouth & Guard Post
-<span class="citation"><em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em></span>
-
-This area is largely as described in <span class="citation">Z1. Cave Mouth (p. 203)</span> and <span class="citation">Z2. Guard Post (p. 203)</span>. However, revise the description of this area to read as follows:
-
-<div class="description">
-<p>The open jaws of the wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock. The ceiling rises to a height of twenty feet inside the cave. Small clusters of amber light dot the walls, casting a faint glow across the cavern floor.</p>
-<p>Up ahead, the cave splits to the left and right around it. You can hear the faint sound of trickling water echoing from the right-side passage. Standing crouched on a five-foot-high ledge between the divide are two feral-looking women wearing shredded clothing and clutching spears.<p>
-<p>
-</div>
-
-Azianka and Davanka are bored, inattentive, and irritated at not being allowed to accompany Kiril beyond the Mists, and are currently arguing over whether goats or elk taste better. (If the players listen in, Azianka and Davanka eventually agree that men taste better than either goats *or* elk.)
-
-Azianka and Davanka are restless, and can easily be lured from the cave mouth by an illusion, an annoying **wereraven** in raven form summoned by the *Keeper's whistle*, or any other nonthreatening distraction. (If the players use the *Keeper’s Whistle* to summon a **wereraven** to assist them, a gregarious and excitable **wereraven** named Stefan Zalenski appears two minutes thereafter to assist them.) Unless otherwise distracted, the women return to the cave once ten minutes have passed.
-
-If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two werewolves then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
-
-The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolves and **werewolf brawlers** in [[#L4d. Deep Caves]], who arrive after 1 round to investigate.
-## L4b. Underground Spring
-<span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
-
-This area is largely as described in <span class="citation">Z4. Underground Spring (p. 203)</span>. However, the area is lit by yellow clumps of fungus, not torches.
-
-Additionally, if the players linger or delve deeper into this chamber, read:
-
-<div class="description">
-<p>A soft ripple runs across the surface of the dark pool.</p>
-</div>
-
-A creature that approaches the pool sees its reflection distorted. Instead of its own reflection, the creature sees a monstrous image that reflects its worst impulses, urges, and desires. For example:
-
-* Ezmerelda sees her own reflection, but with black sclera and golden irises, predatory canines, and oily black fur covering her skin, with a terrible snarl splitting her face (literally) from ear to ear. (This image reflects Ezmerelda’s hatred of monsters, and her subconscious fear that her protective nature will turn to cruelty and zealotry.)
-* Ireena sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.)
-## L4c. Wolf Den
-<span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
-
-This area is largely as described in <span class="citation">Z3. Wolf Den (p. 203)</span>. However, add the following text to the end of the area’s description:
-
-<div class="description">
-<p>An old, scrawny wolf lies curled up by the fire, its head turned away from you.</p>
-</div>
-
-The wolf is Skennis, an old, blind **werewolf** with 36 hit points in wolf form. No other **wolves** are in this cave.
-
-> [!lore]+ **Skennis**
-> Skennis was the leader of the werewolf pack until Emil succeeded him five years ago. Skennis’s health has deteriorated in his old age, however, claiming his sight and much of his mobility. Unable to hunt, Skennis relied on the rest of the pack for food—until Kiril claimed power three months ago.
+> * Kiril Stoyanovich, le chef de la meute, et son épouse, Bianca Stoyanovich
+> * Six membres de longue date de la meute autrefois loyaux envers Emil Toranescu, qui suivent maintenant Kiril par peur de lui et de Strahd
+> * Quatre loups-garous infectés par Kiril au cours des dix dernières semaines, qui suivent Kiril de manière servile et qui ont embrassé la malédiction en se livrant au cannibalisme sur des humains innocents comme lui.
 >
->  Since then, Kiril has kept Skennis confined to the den, and forbidden the other werewolves from feeding him (and any other “weak" wolves), still jealous and resentful of Skennis’s selection of Emil to succeed him instead of Kiril. A few sympathetic pack members continue to slip Skennis enough scraps to keep him alive, but it’s unclear whether Skennis’s bitterness, spite, and small shreds of hope will allow him to cling to life much longer.
+> Lorsqu'il quitte Barovia, Kiril n'emmène que les membres de longue date de la meute pour chasser, laissant ses quatre laquais assoiffés de sang pour superviser et protéger la tanière. Kiril n'autorise pas les membres de longue date de la meute à tout manger de ce qu'ils chassent, et les a menacés de les démembrer ou de les tuer s'ils osent toucher à autre chose que les restes qu'il laisse derrière lui.
 
-If a player approaches or inspects the wolf, read:
-
-<div class="description">
-<p>The wolf's breaths are shallow and slow, sending small puffs of steam into the chilly air. Its dull, grey fur is matted and dirty, and its ribs are visible beneath its thin hide.<p>
-</div>
-
-Skennis is not asleep, only dozing. The players must succeed on a group DC 14 Dexterity (Stealth) check to pass without alerting him. If the group check fails, read:
+Au fur et à mesure que les joueurs approchent, l'extérieur de la tanière est largement tel que décrit dans <span class="citation">Approche de la Tanière (p. 201)</span>. Cependant, ajoutez le texte suivant à la fin de cette description :
 
 <div class="description">
-<p>The old wolf's head snaps upwards, revealing three swollen cuts that slice across its cheek, their edges crusted with dried blood. Its eyes, milky white and unseeing, stare blankly ahead as its nostrils flare, its scarred ears twitching rapidly as it sniffs the cold air. Its ears flatten against its skull, and it releases a low, cautious growl.</p>
+<p>La carcasse d'une énorme bête gît de travers au bas de la falaise, à côté de l'entrée de la caverne - un énorme élan, aussi grand que deux hommes debout l'un sur les épaules de l'autre. Une grande partie de la chair a été arrachée de ses os, et sa gorge entière a été déchirée.</p>
 </div>
 
-The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
+Un jet de Sagesse (Médecine) réussi avec une DC de 12 révèle que la gorge de l'élan a été arrachée par une seule et massive mâchoire, assez grande pour avaler entièrement le torse d'un humanoïde.
 
-If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the nine **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
+> [!info]+ **Éclairage Intérieur**
+> Aucune torche ne tapisse les murs de la caverne. À la place, de petits amas de champignons lumineux jaunes bordent les murs, chaque amas projetant une faible lumière dans un rayon de 1,5 mètre.
+## L4a. Bouche de la Caverne et Poste de Garde
+<span class="citation"><em>Cette zone correspond à Z1. Bouche de la Caverne (p. 203) et Z2. Poste de Garde (p. 203).</em></span>
 
-If the players remain in Skennis’s cave without feeding, healing, pacifying, incapacitating, or hiding from him, his growl escalates to a rumbling snarl. One round later, he releases a sharp, piercing howl that echoes across the walls of the cave and into the valley beyond.
+Cette zone est en grande partie telle que décrite dans <span class="citation">Z1. Bouche de la Caverne (p. 203)</span> et <span class="citation">Z2. Poste de Garde (p. 203)</span>. Cependant, révisez la description de cette zone pour lire comme suit :
 
-Skennis’s howl alerts Ilya and Zuleika in [[#L4e. Shrine of Mother Night]], the two **werewolf brawlers** and six **wolves** in [[#L4d. Deep Caves]], Bianca in **Z8. Ring of Stone**, and Azianka and Davanka (if still alive and within earshot of the den). The werewolf brawlers and wolves arrive after one round, Azianka and Davanka arriving at least two rounds later.
-## L4d. Deep Caves
-<span class="citation"><em>This area corresponds to Z5. Deep Caves (p. 203).</em></span>
+<div class="description">
+<p>La gueule ouverte de la tête de loup forme un auvent rocheux de 4,5 mètres de haut sur l'entrée de la caverne, soutenu par des piliers de roche naturels. Le plafond s'élève à une hauteur de 6 mètres à l'intérieur de la caverne. De petits amas de lumière ambrée parsèment les murs, projetant une faible lueur sur le sol de la caverne.</p>
+<p>Devant, la caverne se divise à gauche et à droite. Vous pouvez entendre le faible son de l'eau qui ruisselle provenant du passage de droite. Accroupies sur un rebord haut de 1,5 mètre entre les deux passages se tiennent deux femmes d'allure féroce, vêtues de hardes en lambeaux et brandissant des lances.</p>
+</div>
 
-This area is largely as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>.
+Azianka et Davanka s'ennuient, sont inattentives et irritées de ne pas être autorisées à accompagner Kiril au-delà des Brumes. Elles se disputent pour savoir si les chèvres ou les élans ont meilleur goût. (Si les joueurs les écoutent, Azianka et Davanka finissent par convenir que les hommes ont meilleur goût que les chèvres ou les élans.)
 
-Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by nine alert **wolves** loyal to Strahd and Kiril.
+Azianka et Davanka sont agitées et peuvent facilement être attirées hors de l'entrée de la caverne par une illusion, un **corvidé-garou** agaçant sous forme de corbeau invoqué par le *Sifflet du Gardien*, ou toute autre distraction non menaçante. (Si les joueurs utilisent le *Sifflet du Gardien* pour invoquer un **corvidé-garou** pour les aider, un **corvidé-garou** grégaire et enthousiaste nommé Stefan Zalenski apparaît deux minutes plus tard pour les assister.) À moins d'être distraites, les femmes reviennent dans la caverne au bout de dix minutes.
 
-To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
 
+
+Si les joueurs entrent dans l'entrée de la grotte alors qu'Azianka et Davanka sont présentes, les deux femmes leur demandent de s'identifier, puis les remercient d'avoir apporté de la "chair fraîche" directement à leur porte. (En raison des caractéristiques d'ouïe et d'odorat aiguisés des loup-garous, les créatures invisibles ne peuvent pas se cacher des loup-garous à moins d'être également protégées par passer sans trace ou une magie similaire.) Les deux loup-garous jettent alors leurs lances, prennent leurs formes hybrides et attaquent. Au compte d'initiative 20 du combat, les deux femmes hurlent également pour donner l'alerte, faisant venir les deux lutteurs loup-garous et six loups depuis les Grottes profondes, qui arrivent après 1 round.
+
+Les sons du combat ici, ou à moins de 6 mètres de l'entrée de la grotte, alertent les loups et les lutteurs loup-garous dans les Grottes profondes, qui arrivent après 1 round pour enquêter.
+
+Remplacez l'attaque de morsure des loups par les options d'action suivantes :
+
+* Maltraiter. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,5 m, une cible. Touché : 7 (2d4 + 2) dégâts perforants. Au lieu d'infliger des dégâts, le loup peut agripper la cible (DD 11 pour se libérer).
+* Griffes. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,5 m, une cible. Touché : 6 (1d8 + 2) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 ou être jetée à terre ou repoussée de 1,5 m (au choix du loup).
+
+L4b. Source souterraine
+Cette zone correspond à Z4. Source souterraine (p. 203).
+
+Cette zone est en grande partie telle que décrite dans Z4. Source souterraine (p. 203). Cependant, la zone est éclairée par des amas jaunes de champignons, et non par des torches.
+
+De plus, si les joueurs s'attardent ou s'aventurent plus profondément dans cette chambre, lisez :
+
+Une douce ondulation parcourt la surface de la sombre mare.
+
+Une créature qui s'approche de la mare voit son reflet déformé. Au lieu de son propre reflet, la créature voit une image monstrueuse qui reflète ses pires impulsions, pulsions et désirs. Par exemple :
+
+* Ezmerelda voit son propre reflet, mais avec des sclérotiques noires et des iris dorés, des canines prédatrices, et une fourrure noire et huileuse recouvrant sa peau, avec un terrible rictus fendant (littéralement) son visage d'une oreille à l'autre. (Cette image reflète la haine d'Ezmerelda pour les monstres, et sa peur inconsciente que sa nature protectrice ne se transforme en cruauté et en fanatisme.)
+* Ireena voit son propre reflet, mais avec des orbites vides et sanglantes ; une chair pâle et cendrée ; les lèvres cousues ensemble ; des chaînes brumeuses liant ses poignets ; et sa propre rapière la transperçant au ventre. (Cette image reflète la passivité d'Ireena, et sa peur inconsciente que le sacrifice de soi soit sa seule échappatoire face à un destin terrible.)
+
+L4c. Tanière des loups
+Cette zone correspond à Z3. Tanière des loups (p. 203).
+
+Cette zone est en grande partie telle que décrite dans Z3. Tanière des loups (p. 203). Cependant, ajoutez le texte suivant à la fin de la description de la zone :
+
+Un vieux loup maigre est recroquevillé près du feu, la tête détournée de vous.
+
+Le loup est Skennis, un vieux loup-garou aveugle avec 36 points de vie sous forme de loup. Aucun autre loup n'est présent dans cette grotte.
+
+Skennis était le chef de la meute de loup-garous jusqu'à ce qu'Emil le remplace il y a cinq ans. Cependant, la santé de Skennis s'est détériorée avec l'âge, lui faisant perdre la vue et une grande partie de sa mobilité. Incapable de chasser, Skennis comptait sur le reste de la meute pour se nourrir - jusqu'à ce que Kiril prenne le pouvoir il y a trois mois.
+
+Depuis lors, Kiril a confiné Skennis dans la tanière, et a interdit aux autres loup-garous de le nourrir (ainsi que tout autre loup "faible"), jaloux et rancunier que Skennis ait choisi Emil pour lui succéder plutôt que lui. Quelques membres de la meute compatissants continuent de glisser à Skennis assez de restes pour le garder en vie, mais il n'est pas clair si l'amertume, le dépit et les faibles bribes d'espoir de Skennis lui permettront de s'accrocher à la vie beaucoup plus longtemps.
+
+Si un joueur s'approche ou inspecte le loup, lisez :
+
+
+
+<div class="description">
+<p>Les respirations du loup sont superficielles et lentes, envoyant de petits nuages de vapeur dans l'air glacial. Sa fourrure terne et grise est emmêlée et sale, et ses côtes sont visibles sous sa peau fine.</p>
+</div>
+
+Skennis n'est pas endormi, seulement somnolent. Les joueurs doivent réussir un test de groupe de Dextérité (Discrétion) CD 14 pour passer sans l'alerter. Si le test de groupe échoue, lisez :
+
+<div class="description">
+<p>La tête du vieux loup se redresse brusquement, révélant trois coupures gonflées qui lui zèbrent la joue, leurs rebords croûtés de sang séché. Ses yeux, d'un blanc laiteux et aveugles, fixent le vide tandis que ses naseaux se dilatent, ses oreilles cicatrisées tressautant rapidement pendant qu'il renifle l'air froid. Ses oreilles se plaquent contre son crâne, et il laisse échapper un grognement bas et prudent.</p>
+</div>
+
+Ce son alerte Skennis de la présence d'intrus, mais pas de leurs identités ou de leurs emplacements. Les joueurs doivent réussir un test de groupe supplémentaire de Dextérité (Discrétion) CD 15 pour quitter la pièce sans attirer l'attention ou la colère de Skennis. Sinon, les joueurs peuvent calmer Skennis en soignant ses coupures ou en lui offrant de la nourriture, qu'il accepte avec un gémissement doux et reconnaissant. (Les coupures ont été infligées par Kiril, qui a "puni" Skennis pour avoir tenté de voler une bouchée de viande de chèvre la nuit précédente.)
+
+Si les joueurs le traitent avec gentillesse - plutôt que de simplement tenter de l'apaiser - Skennis (restant sous forme de loup) leur fait signe d'attendre, puis passe par [[#L4d. Grottes Profondes]], remonte le tunnel derrière <span class="citation">Z6. La Grotte de Kiril (p. 204)</span>, et émerge dans <span class="citation">Z8. L'Anneau de Pierre (p. 205)</span>. Une fois arrivé là, il fait une brève pause, puis aboie plusieurs fois en fausse alerte, appelant les six **loups** de [[#L4d. Grottes Profondes]]. (Les deux **brawlers loups-garous** présents sont réveillés par le dérangement, mais continuent à somnoler dans leur grotte, abaissant le CD de tout test de Dextérité (Discrétion) pour éviter d'attirer leur attention à 11.)
+
+Si les joueurs restent dans la grotte de Skennis sans le nourrir, le soigner, l'apaiser, le mettre hors d'état de nuire ou se cacher de lui, son grognement s'intensifie en un grondement menaçant. Un round plus tard, il pousse un hurlement perçant qui résonne sur les murs de la grotte et jusque dans la vallée au-delà.
+
+Le hurlement de Skennis alerte Ilya et Zuleika dans [[#L4e. Le Sanctuaire de la Mère Nuit]], les deux **brawlers loups-garous** et six **loups** dans [[#L4d. Grottes Profondes]], Bianca dans **Z8. L'Anneau de Pierre**, ainsi qu'Azianka et Davanka (s'ils sont encore en vie et à portée d'oreille du repaire). Les brawlers loups-garous et les loups arrivent après un round, Azianka et Davanka arrivant au moins deux rounds plus tard.
+## L4d. Grottes Profondes
+<span class="citation"><em>Cette zone correspond à Z5. Grottes Profondes (p. 203).</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">Z5. Grottes Profondes (p. 203)</span>. Cependant, remplacez le mot "torchlit" dans la description par "éclairé de jaune". De plus, les joueurs qui passent par cette zone peuvent voir une lueur de torches émaner de <span class="citation">Z7. Le Sanctuaire de la Mère Nuit (p. 204)</span>.
+
+Bianca, Wensencia et Kellen ne sont pas présents à l'arrivée des joueurs. Au lieu de cela, <span class="citation">Z5a. La Grotte Sud (p. 203)</span> est occupée par deux **brawlers loups-garous** endormis sous forme de loups nommés Kobal Mironovich et Radovan Lipsiege, tandis que <span class="citation">Z5b. La Grotte Nord (p. 203)</span> est occupée par six **loups** alertes, loyaux à Strahd et Kiril.
+
+Pour se faufiler dans cette zone sans déranger les loups, les joueurs doivent réussir un test de Dextérité (Discrétion) CD 19, effectué avec désavantage comme décrit dans <span class="citation">Z5. Grottes Profondes (p. 203)</span>. S'ils entendent ou voient un éventuel intrus, les loups commencent à grogner et à aboyer, réveillant Kobal et Radovan. Les loups-garous et les loups se mettent alors à enquêter sur la source du dérangement. Une fois qu'ils ont acculé les éventuels intrus, Kobal et Radovan prennent leurs formes hybrides et attaquent.
 <div class="statblock">
-<h2>Werewolf Brawler</h2>
-<em>Medium Humanoid, Chaotic Evil</em>
+<h2>Brawler Loup-Garou</h2>
+<em>Humanoïde de taille Moyenne, Mauvais Chaotique</em>
 <hr>
-<strong>Armor Class</strong> 14 in humanoid form, 15 (natural armor) in wolf or hybrid form
+
+<strong>Classe d'Armure</strong> 14 sous forme humanoïde, 15 (armure naturelle) sous forme de loup ou hybride
 <br>
-<strong>Hit Points</strong> 142 (20d8 + 60)
+<strong>Points de vie</strong> 142 (20d8 + 60)
 <br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Vitesse</strong> 9 m (12 m sous forme de loup)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
@@ -349,184 +341,160 @@ To sneak through this area without disturbing the wolves, the players must succe
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +6, Con +6<br>
-<strong>Skills</strong> Athletics +6, Intimidation +4, Perception +6, Stealth +4<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 16<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 7, or 6 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +3<br>
+<strong>Jets de sauvegarde</strong> For +6, Con +6<br>
+<strong>Compétences</strong> Athlétisme +6, Intimidation +4, Perception +6, Discrétion +4<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 16<br>
+<strong>Langues</strong> Commun (ne peut pas parler sous forme de loup)<br>
+<strong>Niveau de difficulté</strong> 7, ou 6 sans sa régénération<br>
+<strong>Bonus de maîtrise</strong> +3<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Brute.</em></strong> A melee weapon deals one extra die of its damage when the werewolf hits with it (included in the attack).</p>
-<p><strong><em>Unarmored Defense.</em></strong> While the werewolf is wearing no armor, its AC includes its Constitution modifier.</p>
+<p><strong><em>Ouïe et odorat aiguisés.</em></strong> Le loup-garou est avantagé sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.</p>
+<p><strong><em>Tactique de meute.</em></strong> Le loup-garou est avantagé lors d'un jet d'attaque contre une créature si au moins un de ses alliés se trouve à 1,5 m ou moins de la créature et que cet allié n'est pas neutralisé.</p>
+<p><strong><em>Régénération.</em></strong> Le loup-garou récupère 10 points de vie au début de son tour. Si le loup-garou subit des dégâts nécrotiques ou des dégâts contondants, perforants ou tranchants d'une arme en argent, ce trait ne fonctionne pas au début du prochain tour du loup-garou. Le loup-garou meurt uniquement s'il commence son tour avec 0 point de vie et ne régénère pas.</p>
+<p><strong><em>Brute.</em></strong> Une arme de corps à corps inflige un dé de dégâts supplémentaire de sa catégorie de dégâts lorsque le loup-garou touche avec celle-ci (inclus dans l'attaque).</p>
+<p><strong><em>Défense à mains nues.</em></strong> Tant que le loup-garou ne porte pas d'armure, sa CA inclut son modificateur de Constitution.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks with its spear (humanoid form) or one attack with its bite and two attacks with its claws (wolf or hybrid form). It can replace one claws attack with a lob.</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. Additionally, if the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be grappled.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<p><strong><em>Lob.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Strength saving throw. On a failure, the creature is thrown 10 feet and falls prone. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-<p><strong><em>Crushing Grip.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Constitution saving throw. The creature takes 10 (3d6) bludgeoning damage on a failure, and half as much damage on a success. A creature that fails the saving throw by 5 or more is also dazed until the end of its next turn. (The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.)
-</div>
+<p><strong><em>Attaques multiples.</em></strong> Le loup-garou effectue deux attaques avec sa lance (forme humanoïde) ou une attaque avec sa morsure et deux attaques avec ses griffes (forme de loup ou hybride). Il peut remplacer une attaque de griffes par un lancer.</p>
+<p><strong><em>Morsure (forme de loup ou hybride uniquement).</em></strong> Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,5 m, une cible. Touché : 14 (2d10 + 3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Force DD 14 ou être jetée au sol. De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 14 ou être maudite par la lycanthropie du loup-garou.</p>
+<p><strong><em>Griffes (forme de loup ou hybride uniquement).</em></strong> Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,5 m, une cible. Touché : 12 (2d8 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 ou être saisie.</p>
+<p><strong><em>Lance (forme humanoïde uniquement).</em></strong> Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,5 m ou portée 6/18 m, une cible. Touché : 10 (2d6 + 3) dégâts perforants, ou 12 (2d8 + 3) dégâts perforants si utilisée à deux mains pour une attaque au corps à corps.</p>
+<p><strong><em>Lancer.</em></strong> Le loup-garou force une créature qu'il a saisie à réussir un jet de sauvegarde de Force DD 14. En cas d'échec, la créature est projetée à 3 m et tombe au sol. Si la cible ne peut pas parcourir la distance totale, elle subit 1d6 dégâts contondants supplémentaires par tranche de 1,5 m non parcourue.</p>
+<h3>Actions bonus</h3>
+<p><strong><em>Changeforme.</em></strong> Le loup-garou se métamorphose en un hybride loup-humanoïde ou en un loup, ou reprend sa véritable forme humanoïde. Ses statistiques, à l'exception de sa CA, sont les mêmes sous chaque forme. Tout équipement porté ou transporté se fond dans la nouvelle forme. Il reprend sa véritable forme s'il meurt.</p>
+<p><strong><em>Étreinte écrasante.</em></strong> Le loup-garou force une créature qu'il a saisie à réussir un jet de sauvegarde de Constitution DD 14.
 
-> [!info]+ **Where Wolves?**
-> When the players first infiltrate the Werewolf Den, Bianca is sitting alone in <span class="citation">Z8. Ring of Stone (p. 205)</span>, descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
+La créature subit 10 (3d6) dégâts contondants en cas d'échec, et la moitié des dégâts en cas de succès.
+Une créature qui échoue son jet de sauvegarde par 5 ou plus est également étourdie jusqu'à la fin de son prochain tour.
+(La créature peut se déplacer ou effectuer une action à son tour, mais pas les deux.
+Elle ne peut également pas effectuer une action bonus ou une réaction.)
 
-## L4e. Shrine of Mother Night
-<span class="citation"><em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em></span>
-
-This area is largely as described in <span class="citation">Z7. Shrine of Mother Night</span>. However, there is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. Additionally, revise the area's description to read as follows:
-
-<div class="description">
-<p>Rough-hewn stairs lead down to a torchlit cave. A crude wooden statue stands against the far wall, bearing the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. A gleaming medallion hangs around its neck, and mounds of gold, silver, and gemstones are piled high around its base. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall. Gold coins have been driven into the empty sockets where their eyes should be.</p>
-<p>Two wooden cages flank the statue, their lids held shut with heavy rocks. In the left-side cage kneels a youth with sunken eyes and loose, tattered clothing, a rotting human leg laid across the ground before his cage. In the right-side cage, an amber-eyed woman wearing shredded clothes sits with her legs crossed, her shaggy, rope-like strands of hair tied back behind a black bandana. Silver collars around their necks are chained to the wall behind them, each collar’s band carved with patterns of wicked-looking thorns.</p>
-</div>
-
-The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a fourteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
-
-Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s Bedroom|Arc K - The Fallen Abbey]] recognize her as the woman in the picture.
-
-![[Ilya Krezkov.png]]
-
-![[Zuleika Toranscu.png]]
-
-<span class="credit">"Ilya Krezkov" and "Zuleika Toranescu" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!lore]+ **Kiril’s Prisoners**
-> ***Zuleika.*** When Kiril usurped Emil’s position as leader of the werewolf pack, an enraged Zuleika attacked him. Kiril easily dispatched her, however, and locked her away in Mother Night’s shrine as punishment. Kiril also took Zuleika’s holy symbol—a carved wooden crescent strung from a leather-corded necklace—to prevent her from calling on Mother Night’s power to escape. 
+> [!lore]+ **Les Prisonniers de Kiril**
+> ***Zuleika.*** Lorsque Kiril a usurpé la position d'Emil en tant que leader de la meute de loups-garous, une Zuleika enragée l'a attaqué. Kiril l'a cependant facilement maîtrisée et enfermée dans le sanctuaire de Mère la Nuit en guise de punition. Kiril a également pris le symbole sacré de Zuleika - un croissant de lune en bois sculpté suspendu à un collier de cordes en cuir - pour l'empêcher d'invoquer le pouvoir de Mère la Nuit pour s'échapper.
 >
-> Although Kiril has forbidden the other members of the pack from feeding her, Mother Night sends rats each night bearing scraps for Zuleika to eat—not enough to keep her from starving, but enough to keep her from death.
-> 
-> ***Ilya.*** When Ilya’s rampage left him unconscious and alone in the Svalich Wood, Kiril and the werewolf pack smelled the curse of lycanthropy on him and dragged him back to the Werewolf Den to question him. When Ilya awoke, he swiftly recognized Zuleika from the Abbot’s disguise and accused her of causing his predicament.
+> Bien que Kiril ait interdit aux autres membres de la meute de la nourrir, Mère la Nuit envoie chaque nuit des rats portant des restes pour que Zuleika puisse manger - pas assez pour l'empêcher de mourir de faim, mais assez pour la garder en vie.
 >
-> Upon learning that Ilya was Zuleika’s nephew, Kiril crafted a cruel plan. He imprisoned Ilya in a collar and cage and began to starve him of food, as he had Skennis and Zuleika. Eventually, Kiril knew, Ilya would have no choice but to consume the human flesh that had been left by his cage—and, when Ilya was ready, kill and devour a human captive, thereby embracing his curse the same way Kiril had.
-
-> [!item]+ **Silverthorn Collar**
-> Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by Baba Lysaga, the swamp witch of Berez. While worn by a lycanthrope, the lycanthrope can't regenerate. In addition, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
+> ***Ilya.*** Lorsque la fureur d'Ilya l'a laissé inconscient et seul dans le bois de Svalich, Kiril et la meute de loups-garous ont senti la malédiction de la lycanthropie sur lui et l'ont ramené au Repaire des Loups-Garous pour l'interroger. Lorsqu'Ilya s'est réveillé, il a rapidement reconnu Zuleika sous le déguisement de l'Abbé et l'a accusée d'être à l'origine de sa situation.
 >
-> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 17 Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
+> Après avoir appris qu'Ilya était le neveu de Zuleika, Kiril a élaboré un plan cruel. Il a emprisonné Ilya dans un collier et une cage et a commencé à l'affamer, comme il l'avait fait avec Skennis et Zuleika. Éventuellement, savait Kiril, Ilya n'aurait d'autre choix que de consommer la chair humaine qui avait été laissée près de sa cage - et, une fois prêt, tuer et dévorer un captif humain, embrassant ainsi sa malédiction de la même manière que Kiril l'avait fait.
+
+> [!item]+ **Collier d'Argent Épineux**
+> Zuleika et Ilya portent tous deux des *colliers d'argent épineux*, des objets magiques façonnés pour Kiril par Baba Lysaga, la sorcière des marais de Berez. Lorsqu'il est porté par un loup-garou, celui-ci ne peut pas se régénérer. De plus, l'intérieur d'un *collier d'argent épineux* émet de minuscules épines d'argent chaque fois que le loup-garou tente de se transformer, infligeant 1 point de dégât perforant et empêchant la transformation.
 >
-> The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
-
-> [!info]+ **The Chains**
-> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in <span class="citation">Player's Handbook, p. 151)</span>, with an AC of 19. 
-
-When the two prisoners first notice the players, Ilya presses himself against the back of his cage, clearly terrified, while Zuleika watches quietly. Ilya demands to know who the players are and whether they’re members of the werewolf pack.
-
-If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
-
-* He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
-* He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
-
-If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."
-
-If the players ask why she and Ilya have been imprisoned, she tells them truthfully that they have been imprisoned here by Kiril Stoyanovich, “the leader of this pack." If recognized as Dmitri Krezkov’s sister, she admits to being Ilya’s aunt. "Although," she notes dryly, with a sideways glance toward Ilya, “until recently, I had not seen him in quite some time."
-
-If identified as a werewolf, Zuleika freely admits to being one. If her humanity is questioned as a result, she tilts her head and asks, curiously, “You judge me for a condition that I did not ask for, and which I have never used in malice?"
-
-If Ilya is identified as a werewolf, he flinches and heatedly denies it. (As he does, Zuleika regards him with sympathy and pity.)
-
-If told that the players have been sent on behalf of Dmitri and Anna Krezkov, Ilya anxiously asks whether his parents and sister are well. He is visibly relieved if told that his family is still alive; however, if told of Kala’s condition, his lower lips trembles and he begins to sob.
-#### What Ilya Knows
- If the players treat Ilya with kindness and succeed on a DC 10 Charisma (Persuasion) check, they can convince him to share the following information, which he relays with quiet horror and shame:
-
-* Three weeks ago, a woman resembling Zuleika approached him at the Shrine of the White Sun in Krezk. She identified herself as Zuleika Krezkova, his long-absent aunt, and told him that his father was secretly a **werewolf**—and that his curse had passed to Ilya as well. (Zuleika has steadfastly denied doing so, and insists that someone imitated her appearance for their own purposes—a claim that Ilya has come to believe.)
-* “Zuleika" told Ilya that his curse was a mighty weapon against Strahd von Zarovich and the servants of darkness, but warned him that his parents would soon attempt to suppress that “blessing" before it could emerge. She told him to refuse any *potions of wolfsbane* his parents attempted to feed him, then departed from Krezk.
-* Ilya didn’t believe her, but soon changed his mind when his parents revealed the truth of his heritage mere days later. Determined to keep his family safe from Strahd and his minions, he secretly poured out the *potion of wolfsbane* his parents gave him before his mother locked him and his father away in their cottage’s secret basement.
-* Ilya doesn’t remember what happened next. All he knows is that he awoke in a cage in the den the following morning, with blood staining his mouth. He’s been haunted ever since by the thought of those he may have harmed.
-
-Ilya blames the false “Zuleika" for his current predicament, and somewhat blames his parents for concealing the truth from him, but blames no one more than himself for the injuries he may have caused. Ilya doesn't blame the real Zuleika for his fate, and is deeply grateful to her for her reassurances and efforts to keep him comfortable.
-### What Zuleika Knows
-If questioned, Zuleika can share the following information:
-
-* She is a descendant of the Krezkov line, which has long been cursed with werewolf lycanthropy. Thirteen years ago, she met Emil Toranescu, another **werewolf** who taught her to see the beauty in her condition, and to master the beast within through meditation and prayer. When her family rejected her efforts, she fled Krezk and came to live as Emil’s wife as a member of Barovia’s werewolf pack—and, as her spiritual efforts progressed, a priestess to Mother Night, the divine patron of lycanthropes.
-* Until recently, the werewolf pack ranged far and wide through the Mists for its hunts. In those days, the pack was a refuge—a family—for those who had been outcast from society for fear of their curse.
-* One of those outcasts was Kiril Stoyanovich, a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
-* Although she was never able to prove Kiril had done so, his rapid progress roused her suspicions, and she watched warily as he became ever-more reckless, bloodthirsty, and cruel, often ranging far afield to go hunting on his own. Zuleika pitied his wife, Bianca, who often struggled to calm Kiril’s dark moods and rages. “I never asked where she came from," Zuleika says softly. “When we join the pack, we are born anew, leaving the ash of our old lives behind. But I know she gave up much to be with us—and even more to be with him."
-* Five years ago, the pack’s leader—an old **werewolf** named Skennis—stepped down from his position. Although Skennis had chosen Emil, Zuleika’s husband, to succeed him, Kiril challenged Emil for control of the pack. Emil swiftly defeated him, however, and Kiril nursed a grudge against Emil ever since.
-* Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. “He beat Emil within an inch of his life," Zuleika murmurs, “and bade the dire wolves to carry him away to the castle dungeons, to be punished for his disloyalty." When Zuleika attempted to stop him, Kiril defeated her as well, seizing her holy symbol and imprisoning her in her own shrine.
-
-If asked about the collars, or if the players offer or attempt to remove them, Zuleika can share the following information:
-
-* The collars bear the stink of the swamp witch, Baba Lysaga. Each time she attempts to transform, they form magical silver thorns that pierce her neck, extinguishing her strength. Each time she or Ilya attempts to remove them, the collars form larger spikes, which dig deep into their necks and threaten to rip out their throats.
-* Only Kiril has the key to their collars, which he wears on a cord around his neck made of tanned human sinews beside Zuleika’s wooden holy symbol. He never parts with them or removes them from his neck.
-
-If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or if the players attempt to retrieve the treasure or *Holy Symbol*, Zuleika can share the following warning:
-
-* The werewolves call themselves the Children of Mother Night, and have offered her treasures and gifts for many generations. The hoard, however, is cursed: a creature that steals from Mother Night will lose its life in the process.
-* When Strahd first awoke, he sent two **vampire spawn** to inform the pack of his revival. When those spawn attempted to collect some of the pack’s “treasure" as a tax to Strahd, the curse froze them and devoured their life force, rotting their bodies away until they died of necrosis. Emil then ordered their corpses bolted to the wall behind the shrine, as a warning to those who would steal from Mother Night. (“For all his efforts," Zuleika notes smugly, “Kiril has been quite unable to remove them. Even he fears Mother Night’s wrath, as well he should.")
-* Zuleika doesn’t know what the *Holy Symbol of Ravenkind* is—only that the statue of Mother Night has worn it for decades. 
-
-> [!info]+ **The Curse of Mother Night**
-> Items in Mother Night’s hoard, including the *Holy Symbol of Ravenkind* and the statue of Mother Night, can’t be moved or removed without permission. Additionally, a creature that attempts to physically retrieve an item from the hoard without permission, must make a DC 25 Wisdom saving throw or be incapacitated until it releases the item.
+> Chaque collier est magiquement verrouillé et porte un petit trou de serrure, la clé que Kiril porte au bout d'un cordon autour de son cou. Un collier verrouillé peut également être ouvert avec un jet de Force réussi de DD 25 ou un jet de Dextérité (Outils de voleur) réussi de DD 25. Cependant, chaque fois qu'une créature tente d'ouvrir un collier sans d'abord le déverrouiller, ou tente de crocheter la serrure sans utiliser la clé appropriée, elle doit réussir un jet de sauvegarde de Dextérité DD 17 ou subir 7d8 dégâts perforants. Que la créature réussisse ou non son jet de sauvegarde, le porteur du collier subit également immédiatement 31 (7d8) dégâts perforants lorsque le collier émet de grandes épines qui percent son cou.
 >
-> While incapacitated in this way, the creature can't move any part of its body except for its hands and face, and can't remove its hand from the hoard except by releasing the item taken. Additionally, the creature must make a DC 25 Constitution saving throw at the end of each turn it remains incapacitated, taking 8d8 necrotic damage on a failure or half as much on a success.
-> 
-> A cleric of Mother Night can grant a creature permission to take an item from the shrine. However, this permission has no effect if the cleric is being manipulated or coerced.
+> Les sorts *Dissipation de la magie* et *Déverrouillage* n'ont aucun effet sur ces colliers. De plus, si un prisonnier se téléporte en portant le collier, le collier se téléporte avec lui.
 
-Zuleika is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of Castle Ravenloft and help him reclaim his position as packleader from Kiril. 
+> [!info]+ **Les Chaînes**
+> Les chaînes reliant les colliers d'Ilya et Zuleika au mur de la caverne ont les statistiques d'une *chaîne (3 mètres)*, telles que décrites dans le <span class="citation">Manuel des Joueurs, p. 151</span>, avec une CA de 19.
 
-Zuleika warns the players that, should they fail to keep their oath by the moon's first light after the next new moon, their vitality and strength will sap each night that their oath remains unfulfilled. (See **Oath of the New Moon** below for details.)
+Lorsque les deux prisonniers remarquent les joueurs pour la première fois, Ilya se presse contre le fond de sa cage, clairement terrifié, tandis que Zuleika observe calmement. Ilya demande à savoir qui sont les joueurs et s'ils font partie de la meute de loups-garous.
 
-> [!info]+ **Oath of the New Moon**
-> Zuleika is willing to allow the players to take the *Holy Symbol of Ravenkind* only if all of them, including any NPC companions, swear the Oath of the New Moon before the statue of Mother Night.
-> 
-> The next new moon takes place on Neyavr 14th—the seventh day after the last full moon. Each time the moon rises after the new moon, beginning at nightfall on Neyavr 15th, each player that swore the oath suffers the following effects: their maximum hit points are reduced by one-seventh their original maximum (rounded up), and they gain a cumulative -1 to ability checks and saving throws. (A character dies if this effect reduces their hit point maximum to 0. These reductions last until removed by a *wish* spell or similar magic.) 
-> 
-> A cleric of Mother Night, including Zuleika, can use their action to release a character from their oath and remove any penalties they've suffered for failing to fulfill it. (Zuleika won't do so unless the players free Emil from Castle Ravenloft.) This action has no effect if the cleric is being manipulated or coerced.
+Si les joueurs se présentent et se montrent aimables envers lui, Ilya accepte de partager les informations suivantes :
 
-If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ravenkind*, it has been revised as follows:
+* Il est Ilya Krezkov, le fils du bourgmestre de Krezk. (Si elle est présente, Ezmerelda le reconnaît et est horrifiée par son état actuel.)
+* Il a été enlevé par un loup-garou et amené ici en tant que prisonnier. (C'est une demi-vérité. Un joueur qui réussit un jet de Sagesse (Intuition) de DD 10 voit Ilya jeter un bref coup d'œil sur le côté et remarque des gouttes de sueur sur son front.)
 
-> [!item]+ **Holy Symbol of Ravenkind**
-> 
-> *Wondrous item, legendary (requires attunement by a creature of good alignment)*
-> 
-> The holy symbol has 5 charges for the following properties. It regains 1d4 + 1 charges daily at dawn.
-> 
-> **_Dawn's Embrace._** As a reaction, when a creature you can see within 60 feet of you would be reduced to 0 hit points, you can expend 1 charge to cause that creature to drop to 1 hit point instead. That creature gains immunity to all damage until the start of its next turn.
-> 
-> **_Light of Hope._** As an action, you can expend 1 charge and choose one creature you can see within 30 feet of you. All of the following conditions on that creature end: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
-> 
-> **_Sun’s Blessing._** As an action, you can expend 2 charges to cause holy power to radiate from the symbol in a 30-foot radius for 1 minute. Nonhostile creatures in that radius deal an extra 1d4 radiant damage when they hit with a weapon attack.
-> 
-> You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
-### Bianca’s Return
-Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
+Si les joueurs demandent à Zuleika, elle se présente comme Zuleika Toranescu, bien qu'elle les exhorte à parler à voix basse. "Le chef de la meute est peut-être parti pour sa chasse", siffle-t-elle. "Mais d'autres peuvent encore rôder plus profondément dans le repaire."
 
-Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
 
-If Bianca doesn’t notice the players, she proceeds as follows, assuming the players listen in and don’t interrupt:
 
-* She descends to the shrine and spares a hesitant glance for Zuleika and Ilya before kneeling before the statue of Mother Night
-* A few moments later, Zuleika rasps: “No stomach for Kiril’s hunts, Bianca?"
-* Bianca turns toward Zuleika and spits: “I don’t need your insults. Especially not from a dog in a cage."
-* Zuleika eyes Bianca with sympathy. “I may be caged, but at least my spirit is free."
-* Bianca snarls, stands, and steps toward Zuleika’s cage, using her ***shapechange*** feature to assume her white-furred hybrid form. “I don’t need your pity, either," she growls.
-* Zuleika grimaces. “Not pity," she says. “Only the words of a friend."
-* Bianca bares her teeth and growls again. “I made my choice. He needs me."
-* Zuleika grasps the bars of her cage. “He made his choice long ago. You can still find a different path."
-* Bianca lunges for Zuleika’s cage and wraps her claws around the bars, thrusting her muzzle between them. “I gave up *everything* for him. Do you have any idea what I’ve sacrificed to be here?"
-* Zuleika meets Bianca’s gaze without flinching. She then replies, softly, “Do you?"
-* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to <span class="citation">Z6. Kiril's Cave (p. 204)</span>, where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
+Si les joueurs lui demandent pourquoi elle et Ilya ont été emprisonnés, elle leur dit honnêtement qu'ils ont été emprisonnés ici par Kiril Stoyanovich, "le chef de cette meute". Si elle est reconnue comme la sœur de Dmitri Krezkov, elle admet être la tante d'Ilya. "Bien que," note-t-elle sèchement, jetant un regard de côté vers Ilya, "jusqu'à récemment, je ne l'avais pas vu depuis un bon moment."
 
-If Bianca notices and confronts the players, or if the players make no efforts to conceal themselves or escape, she demands, in a quiet, deadly tone, that they depart the den immediately and never return. If they fail to do so, she threatens to break the _crystal of alarm_ around her neck, summoning Kiril and the rest of the pack back to Barovia. “When Kiril returns," she warns breathlessly, “he’ll skin you alive."
+Si elle est identifiée comme une loup-garou, Zuleika l'admet librement. Si son humanité est remise en question à cause de cela, elle penche la tête et demande, curieuse : "Vous me jugez pour une condition que je n'ai pas demandée et que je n'ai jamais utilisée avec malice ?"
 
-> [!item]+ **Crystal of Alarm**
-> Bianca wears a _crystal of alarm_, which resembles a small bauble of fragile, yellow-gold crystalline glass in the shape of a wolf's fang. The crystal has a magical bond to Kiril, who immediately knows if the crystal has been broken.
+Si Ilya est identifié comme un loup-garou, il sursaute et le nie avec véhémence. (Pendant ce temps, Zuleika le regarde avec sympathie et pitié.)  
 
-If the players attack Bianca, she immediately shatters the crystal. (See **Kiril’s Return** below for more information on Kiril’s arrival.) Bianca also shatters the crystal if the players fail to distract or satisfy her within a reasonable period of time. Bianca assumes her wolf form and flees if the players continue to attack.
+Si on lui dit que les joueurs ont été envoyés de la part de Dmitri et Anna Krezkov, Ilya demande anxieusement si ses parents et sa sœur vont bien. Il est visiblement soulagé si on lui dit que sa famille est encore en vie. Cependant, si on lui parle de l'état de Kala, sa lèvre inférieure tremble et il commence à sangloter.
 
-The players can convince Bianca to stand down with a successful DC 20 Charisma (Intimidation) check or, if they invoke her troubled relationship with Kiril and treat her with kindness, a successful DC 10 Charisma (Persuasion) check. The Charisma (Persuasion) check automatically succeeds if the players befriended Bianca at Lake Baratok. In either case, Bianca takes no action against the players as they conclude their conversation with Ilya and Zuleika, though she quietly calls Zuleika and the players “fools" for their defiance of Kiril’s will. 
+#### Ce qu'Ilya sait
+Si les joueurs traitent Ilya avec gentillesse et réussissent un jet de Charisme (Persuasion) DC 10, ils peuvent le convaincre de partager les informations suivantes, qu'il relate avec horreur et honte :
 
-If asked for the source of her fear, Bianca shudders and says only, “He’s always had a hot temper. But it’s far worse than it’s ever been, and he’s so much stronger now than he was before. If he returns and finds you here, you have no idea what he’ll do to you." (Bianca is confident that Kiril would never harm her. However, she fears the players’ gruesome fates if Kiril returns and finds them, and prefers not to have such horrors on her conscience.)
-## L4f. Kiril’s Return
-If Bianca breaks the _crystal of alarm_, the werewolf pack returns to the den after 10 minutes. The pack includes eighteen **wolves**, eight **werewolves**, and [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]].
+* Il y a trois semaines, une femme ressemblant à Zuleika l'a approché au Sanctuaire du Soleil Blanc à Krezk. Elle s'est identifiée comme Zuleika Krezkova, sa tante disparue depuis longtemps, et lui a dit que son père était secrètement un **loup-garou** - et que sa malédiction était passée à Ilya également. (Zuleika a fermement nié avoir fait cela, et insiste que quelqu'un a imité son apparence à leurs propres fins - une affirmation qu'Ilya a fini par croire.)
+* Cette "Zuleika" a dit à Ilya que sa malédiction était une puissante arme contre Strahd von Zarovich et les serviteurs des ténèbres, mais l'a averti que ses parents tenteraient bientôt de supprimer cette "bénédiction" avant qu'elle n'émerge. Elle lui a dit de refuser toute *potion d'aconit* que ses parents tenteraient de lui faire boire, puis est partie de Krezk.
+* Ilya ne l'a pas crue, mais a changé d'avis lorsque ses parents ont révélé la vérité sur son héritage quelques jours plus tard. Déterminé à garder sa famille en sécurité de Strahd et de ses sbires, il a secrètement déversé la *potion d'aconit* que ses parents lui ont donnée avant que sa mère ne l'enferme avec son père dans le sous-sol secret de leur chaumière.
+* Ilya ne se souvient de rien d'autre. Tout ce qu'il sait, c'est qu'il s'est réveillé dans une cage dans le repaire le lendemain matin, avec du sang maculant sa bouche. Depuis, il est hanté par la pensée de ceux qu'il aurait pu blesser.
 
-If the players remain at the den, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
+Ilya blâme la fausse "Zuleika" pour sa situation actuelle, et un peu ses parents pour lui avoir caché la vérité, mais il ne blâme personne plus que lui-même pour les blessures qu'il aurait pu causer. Ilya ne blâme pas la vraie Zuleika pour son sort, et lui est profondément reconnaissant pour ses réconforts et ses efforts pour le garder à l'aise.
 
-If the players have departed the den, but failed to conceal their trail with magic (e.g., *pass without trace* or *dimension door*), Kiril and the pack pursue them. If the players remain outside of a settlement's walls, they must succeed on a DC 19 group Dexterity (Stealth) check to evade the pack's notice. If the pack finds the players, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
+### Ce que Zuleika sait
+Si interrogée, Zuleika peut partager les informations suivantes :
 
-***Milestone.*** Meeting Ilya and Zuleika completes a story milestone. If the players successfully escape the werewolf den after making a deal with Zuleika, award each player 1,500 XP. If the players also free Ilya and Zuleika from the den, award each player an additional 250 XP.
+
+
+* Elle est une descendante de la lignée Krezkov, qui a longtemps été maudite par la lycanthropie loup-garou. Il y a treize ans, elle a rencontré Emil Toranescu, un autre loup-garou qui lui a appris à voir la beauté dans sa condition et à maîtriser la bête intérieure par la méditation et la prière. Lorsque sa famille a rejeté ses efforts, elle a fui Krezk et est venue vivre en tant qu'épouse d'Emil en tant que membre de la meute de loups-garous de Barovia - et, à mesure que ses efforts spirituels progressaient, une prêtresse de la Mère Nuit, la divine patronne des lycanthropes.
+* Jusqu'à récemment, la meute de loups-garous parcourait les Brumes pour ses chasses. En ces jours-là, la meute était un refuge - une famille - pour ceux qui avaient été bannis de la société par crainte de leur malédiction.
+* L'un de ces bannis était Kiril Stoyanovich, un jeune loup-garou qui s'est joint à la meute aux côtés de sa femme, Bianca. Là où Zuleika avait enduré des années de méditation pour maîtriser sa malédiction, Kiril était cependant impatient et assoiffé de faire ses preuves. "Il existe un moyen pour un loup-garou d'embrasser pleinement sa malédiction", murmure-t-elle, "sans sagesse ni réserve. C'est une chose sombre et interdite, et elle exige de son porteur qu'il commette le tabou ultime : tuer un innocent - quelqu'un qui ne vous a rien fait - et consommer sa chair."
+* Bien qu'elle n'ait jamais pu prouver que Kiril l'avait fait, ses progrès rapides ont éveillé ses soupçons, et elle l'a surveillé avec méfiance alors qu'il devenait de plus en plus imprudent, assoiffé de sang et cruel, partant souvent chasser seul au loin. Zuleika a eu pitié de sa femme, Bianca, qui a souvent lutté pour calmer les sombres humeurs et les rages de Kiril. "Je n'ai jamais demandé d'où elle venait", dit doucement Zuleika. "Lorsque nous rejoignons la meute, nous renaissons, laissant derrière nous les cendres de notre ancienne vie. Mais je sais qu'elle a beaucoup sacrifié pour être avec nous - et encore plus pour être avec lui."
+* Il y a cinq ans, le chef de la meute - un vieux loup-garou nommé Skennis - a renoncé à son poste. Bien que Skennis ait choisi Emil, le mari de Zuleika, pour lui succéder, Kiril a défié Emil pour le contrôle de la meute. Emil l'a cependant vaincu rapidement, et Kiril a depuis nourri une rancune contre Emil.
+* Il y a trois mois, peu après que Strahd se soit réveillé de sa longue torpeur, Emil a commencé à discuter d'un plan pour partir à travers les Brumes, avant que Strahd ne les y emprisonne pour toujours. Peu après, Kiril a disparu de la meute pendant sept jours complets. Lorsqu'il est revenu, il était flanqué de six des loups terribles de Strahd - et sa force lycanthrope avait muté et grandi, faisant de lui une force terrible à laquelle il fallait se mesurer. "Il puait le marais", grogne Zuleika, la lèvre retroussée, "et la sorcellerie fétide et souillée." (Si on le lui demande, Zuleika peut confirmer qu'elle soupçonne Baba Lysaga - la sorcière de Berez - d'avoir été impliquée d'une manière ou d'une autre dans la transformation de Kiril, qui, selon elle, "l'a laissé plus malédiction qu'homme".)
+* À son retour, Kiril a convoité le pouvoir. "Il a battu Emil à un cheveu de la mort", murmure Zuleika, "et a ordonné aux loups terribles de l'emmener dans les cachots du château, pour être puni pour son manque de loyauté." Lorsque Zuleika a tenté de l'arrêter, Kiril l'a également vaincue, s'emparant de son symbole sacré et l'emprisonnant dans son propre sanctuaire...
+
+Si on lui demande à propos des colliers, ou si les joueurs proposent ou tentent de les retirer, Zuleika peut partager les informations suivantes :
+
+* Les colliers portent la puanteur de la sorcière des marais, Baba Lysaga. Chaque fois qu'elle tente de se transformer, ils forment des épines d'argent magiques qui lui percent le cou, éteignant sa force. Chaque fois qu'elle ou Ilya tente de les retirer, les colliers forment des piques plus grandes, qui s'enfoncent profondément dans leurs cous et menacent d'arracher leurs gorges.
+* Seul Kiril a la clé de leurs colliers, qu'il porte sur un cordon autour du cou fait de tendons humains tannés, à côté du symbole sacré en bois de Zuleika. Il ne s'en sépare jamais et ne les retire jamais de son cou.
+
+Si on lui demande à propos du sanctuaire, des cadavres, du trésor ou du Symbole Sacré de Ravenkind, ou si les joueurs tentent de récupérer le trésor ou le Symbole Sacré, Zuleika peut partager l'avertissement suivant :
+
+
+
+* Les loups-garous s'appellent eux-mêmes les Enfants de la Mère Nuit, et lui ont offert des trésors et des cadeaux pendant de nombreuses générations. Le trésor, cependant, est maudit : une créature qui vole à la Mère Nuit perdra sa vie dans le processus.
+* Lorsque Strahd s'est réveillé pour la première fois, il a envoyé deux **vampires engendrés** pour informer la meute de sa résurrection. Lorsque ces engendrés ont tenté de prélever une partie du "trésor" de la meute en guise de taxe pour Strahd, la malédiction les a gelés et a dévoré leur force vitale, faisant pourrir leurs corps jusqu'à ce qu'ils meurent de nécrose. Emil a alors ordonné que leurs cadavres soient cloués au mur derrière le sanctuaire, en guise d'avertissement pour ceux qui voudraient voler à la Mère Nuit. ("Malgré tous ses efforts", note Zuleika avec suffisance, "Kiril n'a pas réussi à les enlever. Même lui craint la colère de la Mère Nuit, et il a bien raison.")
+* Zuleika ne sait pas ce qu'est le *Symbole Sacré de Ravenkind* - seulement que la statue de la Mère Nuit le porte depuis des décennies.
+
+> [!info]+ **La Malédiction de la Mère Nuit**
+> Les objets dans le trésor de la Mère Nuit, y compris le *Symbole Sacré de Ravenkind* et la statue de la Mère Nuit, ne peuvent pas être déplacés ou enlevés sans permission. De plus, une créature qui tente de récupérer physiquement un objet du trésor sans permission doit réussir un jet de sauvegarde de Sagesse DD 25 ou être neutralisée jusqu'à ce qu'elle relâche l'objet.
+>
+> Pendant qu'elle est neutralisée de cette manière, la créature ne peut pas bouger une partie de son corps, sauf ses mains et son visage, et ne peut pas retirer sa main du trésor sauf en lâchant l'objet pris. De plus, la créature doit réussir un jet de sauvegarde de Constitution DD 25 à la fin de chacun de ses tours pendant qu'elle reste neutralisée, subissant 8d8 dégâts nécrotiques en cas d'échec ou la moitié en cas de réussite.
+>
+> Un clerc de la Mère Nuit peut accorder à une créature la permission de prendre un objet du sanctuaire. Cependant, cette permission n'a aucun effet si le clerc est manipulé ou contraint.
+
+Zuleika est prête à accorder aux joueurs la permission de prendre le *Symbole Sacré de Ravenkind* - et aucun autre trésor - si les joueurs jurent un serment à la Mère Nuit de secourir Emil des donjons du Château de Ravenloft et de l'aider à retrouver sa position de meneur de meute face à Kiril.
+
+Zuleika avertit les joueurs que, s'ils ne tiennent pas leur serment à la première lueur de la lune après la prochaine nouvelle lune, leur vitalité et leur force diminueront chaque nuit où leur serment restera non tenu. (Voir **Serment de la Nouvelle Lune** ci-dessous pour plus de détails.)
+
+> [!info]+ **Serment de la Nouvelle Lune**
+> Zuleika acceptera de laisser les joueurs prendre le *Symbole Sacré de Ravenkind* seulement si tous, y compris tout compagnon PNJ, prêtent le Serment de la Nouvelle Lune devant la statue de la Mère Nuit.
+>
+> La prochaine nouvelle lune aura lieu le 14 Neyavr - le septième jour après la dernière pleine lune. Chaque fois que la lune se lèvera après la nouvelle lune, à partir du crépuscule du 15 Neyavr, chaque joueur ayant prêté serment subira les effets suivants : ses points de vie maximum seront réduits d'un septième de leur maximum initial (arrondi au supérieur), et il subira un cumul de -1 aux jets de caractéristique et aux jets de sauvegarde. (Un personnage meurt si cet effet réduit ses points de vie maximum à 0. Ces réductions durent jusqu'à ce qu'elles soient supprimées par un sort *souhait* ou une magie similaire.)
+>
+> Un clerc de la Mère Nuit, y compris Zuleika, peut utiliser son action pour libérer un personnage de son serment et supprimer toutes les pénalités subies pour ne pas l'avoir tenu. (Zuleika ne le fera que si les joueurs libèrent Emil du Château de Ravenloft.) Cette action n'a aucun effet si le clerc est manipulé ou contraint.
+
+Si les joueurs acceptent de prêter le serment de Zuleika et de récupérer le *Symbole Sacré de Ravenkind*, il a été révisé comme suit :
+
+> [!item]+ **Symbole Sacré de Ravenkind**
+>
+> *Objet merveilleux, légendaire (nécessite l'harmonisation par une créature de bon alignement)*
+>
+> Le symbole sacré possède 5 charges pour les propriétés suivantes. Il récupère 1d4 + 1 charges chaque jour à l'aube.
+>
+> **_Étreinte de l'Aube_**. Comme une réaction, lorsqu'une créature que vous pouvez voir à moins de 9 mètres de vous serait réduite à 0 point de vie, vous pouvez dépenser 2 charges pour faire en sorte que cette créature tombe à 1 point de vie à la place. Cette créature gagne l'immunité contre tous les dégâts jusqu'au début de son prochain tour.
+>
+> **_Lumière d'Espoir_**. Avec une action, vous pouvez dépenser 1 charge et choisir une créature que vous pouvez voir à moins de 9 mètres de vous. Toutes les conditions suivantes sur cette créature prennent fin : aveuglé, charmé, assourdi, effrayé, paralysé, empoisonné et étourdi.
+>
+> **_Bénédiction du Soleil_**. Avec une action, vous pouvez dépenser 2 charges pour faire rayonner un pouvoir sacré du symbole dans un rayon de 9 mètres pendant 1 minute. Les créatures non hostiles dans ce rayon infligent 1d4 dégâts radiants supplémentaires lorsqu'elles touchent avec une attaque d'arme.
+>
+> Vous pouvez également utiliser le symbole sacré comme focaliseur de sorts pour vos sorts de clerc et de paladin. Vous bénéficiez d'un bonus de +1 aux jets d'attaque de sort et aux DD de sauvegarde de vos sorts de clerc et de paladin.
+
+
+
+Si Bianca remarque et confronte les joueurs, ou si les joueurs ne font aucun effort pour se cacher ou s'échapper, elle exige, sur un ton calme et mortel, qu'ils quittent immédiatement le repaire et n'y reviennent jamais. Si ils échouent à le faire, elle menace de briser le _cristal d'alarme_ autour de son cou, convoquant Kiril et le reste de la meute à Barovia. "Quand Kiril reviendra", avertit-elle à bout de souffle, "il vous arrachera la peau du corps."
+
+> [!item]+ **Cristal d'Alarme**
+> Bianca porte un _cristal d'alarme_, qui ressemble à une petite breloque de verre cristallin jaune-or fragile en forme de croc de loup. Le cristal a un lien magique avec Kiril, qui sait immédiatement si le cristal a été brisé.
+
+Si les joueurs attaquent Bianca, elle brise immédiatement le cristal. (Voir **Le Retour de Kiril** ci-dessous pour plus d'informations sur l'arrivée de Kiril.) Bianca brise également le cristal si les joueurs ne parviennent pas à la distraire ou à la satisfaire dans un délai raisonnable. Bianca prend sa forme de loup et s'enfuit si les joueurs continuent à l'attaquer.
+
+Les joueurs peuvent convaincre Bianca de se calmer avec un jet de Charisme (Intimidation) réussi de DD 20 ou, s'ils invoquent sa relation troublée avec Kiril et la traitent avec gentillesse, un jet de Charisme (Persuasion) réussi de DD 10. Le jet de Charisme (Persuasion) réussit automatiquement si les joueurs se sont liés d'amitié avec Bianca au Lac Baratok. Dans les deux cas, Bianca ne prend aucune mesure contre les joueurs lorsqu'ils concluent leur conversation avec Ilya et Zuleika, bien qu'elle traite silencieusement Zuleika et les joueurs de "fous" pour leur défiance de la volonté de Kiril.
+
+Si on lui demande la source de sa peur, Bianca frissonne et dit seulement : "Il a toujours eu un tempérament ardent. Mais c'est bien pire que ça ne l'a jamais été, et il est tellement plus fort maintenant qu'avant. S'il revient et vous trouve ici, vous n'avez aucune idée de ce qu'il vous fera." (Bianca est convaincue que Kiril ne lui ferait jamais de mal. Cependant, elle craint les destins atroces des joueurs si Kiril revenait et les trouvait, et préfère ne pas avoir de telles horreurs sur la conscience.)
+
+## L4f. Le Retour de Kiril
+Si Bianca brise le _cristal d'alarme_, la meute de loups-garous revient au repaire après 10 minutes. La meute comprend dix-huit **loups**, huit **loups-garous** et [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]].
+
+Si les joueurs restent au repaire, Kiril ordonne aux loups et aux loups-garous de les attaquer comme décrit dans [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - Un Phare Brillant]].
+
+Si les joueurs ont quitté le repaire, mais n'ont pas réussi à dissimuler leurs traces avec la magie (par ex. *passer sans trace* ou *porte dimensionnelle*), Kiril et la meute les poursuivent. Si les joueurs restent à l'extérieur des murs d'un village, ils doivent réussir un jet de groupe de Dextérité (Discrétion) de DD 19 pour éviter d'être repérés par la meute. Si la meute trouve les joueurs, Kiril ordonne aux loups et aux loups-garous de les attaquer comme décrit dans [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - Un Phare Brillant]].
+
+***Jalon.*** Rencontrer Ilya et Zuleika complète un jalon de l'histoire. Si les joueurs parviennent à s'échapper du repaire des loups-garous après avoir conclu un marché avec Zuleika, accordez 1 500 XP à chaque joueur. Si les joueurs libèrent également Ilya et Zuleika du repaire, accordez 250 XP supplémentaires à chaque joueur.
+

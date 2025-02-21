@@ -1,309 +1,322 @@
-*An adventure for five 7th-level characters.*
 
-In this arc, while Strahd is away from the keep, the players must infiltrate Castle Ravenloft to recover several prisoners and precious objects, including the **werewolf** Emil Toranescu, Doru’s betrothed Gertruda, the skull of Argynvost, the *Icon of Ravenloft*, and the long-lost *spear of the Huntress*. To do so, they must bypass the castle guards, navigate Ravenloft’s twisting corridors, and defeat Strahd’s consorts, servants, and other minions.
 
-As they work to enter the castle, they’ll need to avoid the attentions of the **wights** patrolling the castle parapets. Through the main entrance, a team of **gargoyles** lies in wait as the vampire Ludmilla Vilisevic lurks nearby. In the servants’ wing, a pair of **vampire spawn** lurk amidst the darkness, with the castle’s ancient elevator trap not far away. In the king’s apartments above, the vampire Anastrasya Karelova keeps Gertruda under lock and key with the aid of four **wight** guards—and in the treasury nearby, an **invisible stalker** defends Strahd’s most precious riches.
+*Une aventure pour cinq personnages de niveau 7.*
 
-Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **Volenta Popofsky** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Ravenloft* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
+Dans cet arc, pendant que Strahd est absent du château fort, les joueurs doivent s'infiltrer dans le Château de Ravenloft pour récupérer plusieurs prisonniers et objets précieux, dont le **loup-garou** Emil Toranescu, la fiancée de Doru Gertruda, le crâne d'Argynvost, l'*Icône de la Grâce de l'Aube* et la *lance de la Chasseresse* depuis longtemps perdue. Pour ce faire, ils doivent contourner les gardes du château, naviguer dans les couloirs sinueux de Ravenloft et vaincre les compagnes, les serviteurs et les autres sbires de Strahd.
 
-And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
-# P1. Preparing for the Heist
-Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
+Alors qu'ils s'efforcent d'entrer dans le château, ils devront éviter l'attention des **revenants** patrouillant sur les remparts du château. Par l'entrée principale, une équipe de **gargouilles** les attend tapis, tandis que la vampire Ludmilla Vilisevic rôde à proximité. Dans l'aile des serviteurs, une paire d'**engeances vampiriques** se cachent dans l'obscurité, non loin du piège de l'ascenseur ancestral du château. Dans les appartements royaux au-dessus, la vampire Anastrasya Karelova garde Gertruda enfermée à clé avec l'aide de quatre gardes **revenants** - et dans le trésor à proximité, un **traqueur invisible** défend les richesses les plus précieuses de Strahd.
 
-* The players can use the *Keeper’s whistle* they obtained at the conclusion of [[Arc J - The Stolen Gem#J6b. Returning the Gem|Arc J - the Stolen Gem]] to request the assistance of the Keepers of the Feather in scouting out the grounds, distracting castle guards, and/or delivering messages to any NPC whose help the players might seek.
-* The players might ask Doru or Rudolph van Richten for a rough map of the castle to guide them. (See **Mapping the Castle** below for details.)
-* The players should prepare a plan—and preferably a backup plan—for getting into the castle while the drawbridge is up. (If the players ask their companions for ideas, Ireena suggests asking the Martikovs for help, while Ezmerelda suggests purchasing a grappling hook and rope from Arasek Stockyard, as well as climber’s kits to ascend the outer walls of the keep.)
+Bien au-dessus du reste du château, le **portrait gardien** de Strahd veille sur le palier silencieux à l'extérieur de la suite d'invités, tandis que le couvent des sorcières prépare un breuvage nauséabond pour créer les hérauts de la prochaine épidémie de zombies de Strahd. Dans les casernes, une armée de morts-vivants attend tranquillement les ordres de son maître. Dans les cachots en contrebas, la vampire **Volenta Popofsky** et ses immondes **zombies** gardent la place d'Emil dans les geôles noires du château, tandis que, dans les catacombes, l'*Icône de la Grâce de l'Aube* et la *lance de la Chasseresse* demeurent dans les cryptes de Sainte Markovia et du Roi Dostron le Né-de-l'Enfer.
 
-> [!abstract]+ **Mapping the Castle**
-> > [!info]+ **What Doru Knows**
-> > If asked, Doru can provide a rough boxes-and-lines map of the following areas, with additional commentary:
-> >
-> > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads right into the front courtyard. I’m not sure if it’ll be up for you—it was down when we first went in, but the Master—er, Strahd kept it up often." 
-> > <span class="citation">K7. Entry (p. 54)</span>. “The dragon statues here always gave me a weird feeling—like they were watching me. Be careful."
-> > <span class="citation">K8. Great Entry (p. 55)</span>. “The gargoyles also always gave me a weird feeling. I swear I once saw one of them move."
-> > <span class="citation">K14. Hall of Faith (p. 57)</span>. “This hall just gave me the creeps."
-> > <span class="citation">K15. Chapel (p. 57)</span>. “I’m sure it was beautiful once, but not anymore. I saw an armored corpse there once, but it was gone the next day. It might be worth taking a look around to see if anything is left."
-> > <span class="citation">K16. North Chapel Access (p. 58)</span>. “I’m not sure where this chamber led, but it seemed to lead up."
-> > <span class="citation">K17. South Chapel Access (p. 58)</span>. “This chamber led down."
-> > <span class="citation">K18. High Tower Staircase (p. 58)</span>. “This staircase led straight down to the crypts."
-> > <span class="citation">K84. Catacombs (p. 85)</span>. “I spent most of my time here, amongst the bats on the ceilings. I could never remember all of the names on the crypts, though." (If asked, Doru can mark the approximate locations of King Dostron’s and Saint Markovia’s crypts, which are now located in Crypt 34 and Crypt 40, respectively.)
-> > <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. “I never saw what was in this tomb—there was a portcullis blocking the entrance. It was always well-lit, though."
-> > <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. “This was *his* tomb. I still remember opening the coffin when we first marched on it—and finding it empty."
-> > <span class="citation">K87. Guardians (p. 94)</span>. “There was a strange magic curtain blocking the staircase down. I didn’t know if it was helpful or harmful, but I tried to steer clear nonetheless."
-> > <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. > 94)</span>. “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
+Et dans l'ombre, le chambellan de Strahd, Rahadin, est assis et médite, se préparant pour son sacrifice le jour de la Grande Conjonction...
+
+
+
+"Cette salle m'a juste donné la chair de poule."
+> > <span class="citation">K15. Chapelle (p. 57)</span>.
+"J'en suis sûr, c'était autrefois magnifique, mais plus maintenant. J'y ai vu un jour un cadavre en armure, mais il avait disparu le lendemain. Ça vaudrait peut-être la peine de jeter un coup d'œil pour voir s'il reste quelque chose."
+> > <span class="citation">K16. Accès Chapelle Nord (p. 58)</span>.
+"Je ne suis pas sûr où cette chambre menait, mais il semblait que c'était vers le haut."
+> > <span class="citation">K17. Accès Chapelle Sud (p. 58)</span>.
+"Cette chambre descendait."
+> > <span class="citation">K18. Escalier de la Haute Tour (p. 58)</span>.
+"Cet escalier descendait directement aux cryptes."
+> > <span class="citation">K84. Catacombes (p. 85)</span>.
+"J'ai passé la plupart de mon temps ici, parmi les chauves-souris au plafond. Je n'ai jamais pu me rappeler tous les noms sur les cryptes, cependant." (Si on lui demande, Doru peut indiquer les emplacements approximatifs des cryptes du roi Dostron et de sainte Markovia, qui se trouvent maintenant dans la Crypte 34 et la Crypte 40, respectivement.)
+> > <span class="citation">K85. Tombe de Sergei (p. 93)</span>.
+"Je n'ai jamais vu ce qu'il y avait dans cette tombe - il y avait une herse bloquant l'entrée. Mais elle était toujours bien éclairée."
+> > <span class="citation">K86. Tombe de Strahd (p. 93)</span>.
+"C'était *sa* tombe. Je me souviens encore d'avoir ouvert le cercueil quand nous l'avons prise d'assaut pour la première fois - et de l'avoir trouvé vide."
+> > <span class="citation">K87. Gardiens (p. 94)</span>.
+"Il y avait une étrange barrière magique bloquant l'escalier descendant. Je ne savais pas si elle était bénéfique ou nuisible, mais j'ai essayé de m'en tenir à l'écart quand même."
+> > <span class="citation">K88. Tombe du Roi Barov et de la Reine Ravenovia (p. 94)</span>.
+"Il y avait une sorte de tombe ici, mais je ne sais pas à qui elle appartenait. Rahadin venait souvent ici."
+
+
+
+>> <span class="citation">K21. Escalier de la tour sud (p. 59)</span>.
+"Le cœur du château. Si vous trouvez cet escalier, vous saurez toujours où vous êtes."
+
+>> <span class="citation">K23. Entrée des serviteurs (p. 59)</span>. 
+"L'entrée arrière. Un excellent endroit pour se faufiler."
+
+>> <span class="citation">K62. Salle des serviteurs (p. 76)</span>.
+"La salle des serviteurs, je présume."
+
+>> <span class="citation">K61. Piège de l'ascenseur (p. 74)</span>.
+"Un couloir tranquille. J'ai remarqué d'étranges renfoncements le long du sol lorsque je fuyais le château, mais je n'ai pas pu prendre le temps d'enquêter."
+
+>> <span class="citation">K84. Catacombes (p. 85)</span>.
+"Faites attention de ne pas vous perdre ici - ou d'ouvrir la mauvaise porte. Des choses sombres se cachent parmi les cryptes. Je suis sûr que ce n'est que pire depuis le réveil de Strahd."
+
+>> <span class="citation">K86. Tombe de Strahd (p. 93)</span>.
+"La tombe de Strahd - et le lieu de repos de son cercueil. Je suis sûr qu'il a le sommeil léger, cependant."
+
+> [!abstract]+ **Ce que les Martikov savent**
+> Les joueurs qui demandent à Davian ou Urwin Martikov des informations sur l'agencement du château Ravenloft peuvent apprendre que le château compte trois tours : (1) la tour nord, qui se dresse au-dessus des quartiers des gardes sous le château, et qui était principalement utilisée pour défendre le donjon ; (2) la tour sud, qui relie tous les niveaux du château principal, et qui était utilisée par les invités, les serviteurs et la cour de Strahd ; et (3) la haute tour à l'est, qui s'étend des profondeurs des catacombes jusqu'au point le plus élevé du château, et qui porte un puits en son centre menant directement du sommet de la tour aux catacombes inférieures.
+
+
+
+> [!abstract]+ **Recruter des alliés**
+> Si les joueurs tentent de recruter l'un des PNJ suivants en utilisant les corbeaux des Gardiens, le sort *envoyé* ou des moyens similaires, voici leurs réponses :
 >
-> > [!info]+ **What Van Richten Knows**
-> > If asked, Van Richten can provide a rough boxes-and-lines map of the following areas, with additional commentary:
-> >
-> > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controlls the bridge."
-> > <span class="citation">K2. Center Court Gate (p. 54)</span>. “There are two side courtyards—one north, one south. The north was obstructed by a heavy, old portcullis, which I only barely managed to lift. I presume the south was as well."
-> > <span class="citation">K3. Servants’ Courtyard (p. 54)</span>. “The servants’ courtyard, I presume, complete with a servants’ entrance. The door sticks, so be careful should you need to flee through it in a hurry."
-> > <span class="citation">K4. Carriage House (p. 54)</span>. “I presume it holds Strahd’s carriage."
-> > <span class="citation">K5. Chapel Garden (p. 54)</span>. “I believe a garden sits back here. I didn’t get a good look, however."
-> > <span class="citation">K7. Entry (p. 54)</span>. “Be careful should you enter through the front—doubtless, something will be watching."
-> > <span class="citation">K8. Great Entry (p. 55)</span>. “A major junction. Be careful you don’t get lost."
-> > <span class="citation">K14. Hall of Faith (p. 57)</span>. “I’m sure I briefly heard a metallic grinding behind the south wall, but I suppose it might have been my imagination."
-> > <span class="citation">K15. Chapel (p. 57)</span>. “Don’t forget to check the balcony overhead, just to make sure you’re not being watched."
-> > <span class="citation">K16. North Chapel Access (p. 58)</span>. “I’m confident this chamber led up to the balcony overlooking the chapel."
-> > <span class="citation">K17. South Chapel Access (p. 58)</span>. “This chamber led down."
-> > <span class="citation">K18. High Tower Staircase (p. 58)</span>. “This staircase led straight down to the crypts. I noticed a large crack in one of the walls, about halfway down—likely a passageway for a vampire in mist form."
-> > <span class="citation">K21. South Tower Stair (p. 59)</span>. “The heart of the castle. If you can find this staircase, you always know where you are."
-> > <span class="citation">K23. Servants’ Entrance (p. 59)</span>. “The rear entrance. An excellent place to sneak in."
-> > <span class="citation">K62. Servants’ Hall (p. 76)</span>. “The servants’ hall, I presume."
-> > <span class="citation">K61. Elevator Trap (p. 74)</span>. “A quiet corridor. I noticed some strange indentations along the floor as I fled the castle, but couldn’t afford the time to investigate."
-> > <span class="citation">K84. Catacombs (p. 85)</span>. “Be careful you don’t get lost down here—or open the wrong door. Dark things lurk amongst the crypts. I’m sure it’s only gotten worse with Strahd’s awakening."
-> > <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. “Strahd’s tomb—and the resting place of his coffin. I’m sure he’s a light sleeper, though."
+> **Ismark Kolyanovich (Barovia).** Ismark est honoré par la demande des joueurs et désireux d'aider, mais réticent à donner à Strahd une autre raison de punir les villageois de Barovia. Les joueurs qui informent Ismark qu'ils portent le *Symbole sacré de Ravenkind*, ou qui fournissent un plan solide pour dissimuler ses mouvements et son identité des espions de Strahd, peuvent convaincre Ismark de se joindre à eux pour le cambriolage en réussissant un jet de Charisme (Persuasion) DD 20, avec l'avantage s'ils informent Ismark du *Symbole sacré de Ravenkind* et fournissent un tel plan.
+> **Père Donavich (Barovia/Vallaki).** Le père Donavich informe tristement les joueurs qu'il "n'est pas un grand combattant", mais promet d'aider à soigner les blessures qu'ils pourraient subir dans le château après leur retour.
+> **Doru (Vallaki).** Si les joueurs informent Doru que Gertruda est prisonnière au château Ravenloft, Doru accepte immédiatement d'aider à la secourir. Sinon, Doru décline poliment de se joindre à eux en raison de son traumatisme persistant et de sa peur d'une rechute s'il retourne au donjon.
+> **Père Lucian Petrovich (Vallaki).** Le père Lucian est surpris par la demande des joueurs, mais honoré par leur confiance en lui. Néanmoins, il décline de se joindre à eux, notant qu'il a l'obligation de rester à Vallaki pour les gens de sa congrégation.
+> **Victor Vallakovich (Vallaki).** Victor est surpris et reconnaissant de la confiance des joueurs en lui, mais leur dit timidement qu'il préfère rester à Vallaki avec Stella. "Si quelque chose vous arrive, quelqu'un devra encore être ici", insiste-t-il.
+> **Lady Fiona Wachter (Vallaki).** Lady Wachter est flattée par la demande des joueurs, mais leur informe, sans ambiguïté, qu'elle doit rester à Vallaki pour s'occuper de son peuple et de sa famille. Elle leur rappelle également, assez sèchement, qu'elle n'a pas l'intention de défier Strahd. "Je suis heureuse de vous aider dans la mesure du possible", leur dit-elle gentiment, "mais vous me demandez trop."
+> **Kasimir Velikov (Vallaki).** Kasimir est surpris par la demande des joueurs, mais leur informe poliment qu'il ne pourra pas les aider. (S'ils insistent, il leur rappelle le génocide de son peuple par Strahd, et note calmement qu'il n'a aucun intérêt à encourir à nouveau la colère de Strahd.)
+> **Arrigal et Luvash (Vallaki).** Arrigal et Luvash sont surpris par la demande des joueurs, mais la déclinent rapidement. Luvash informe les joueurs qu'il n'a aucun intérêt à défier Strahd, préférant rester avec sa fille. Pendant ce temps, Arrigal avertit les joueurs qu'il n'a pas l'intention de risquer sa vie. "J'ai fait ce que j'ai fait", dit-il sèchement. "Ce que vous ferez à partir de maintenant ne me concerne pas."
+> **Urwin Martikov (Vallaki).** Urwin ne quittera pas la Bluewater Inn ou sa famille. Cependant, il est ravi de transmettre un message à Muriel pour qu'elle rencontre les joueurs au château avec plusieurs **nuées de corbeaux** qui peuvent servir de "pont aérien" de fortune pour entrer dans le donjon.
+> **Muriel Vinshaw (N'importe où).** Muriel est réticente à s'aventurer dans Ravenloft à cause des ordres de Davian et de son chagrin après la mort d'Elric, bien qu'elle soit plus que ravie de rencontrer les joueurs avec plusieurs **nuées de corbeaux** pour les aider à entrer dans le château. Cependant, un joueur qui promet à Muriel une opportunité d'obtenir justice pour Elric et réussit un jet de Charisme (Persuasion) DD 20 peut la convaincre de se joindre au groupe dans le château également.
 
-> [!abstract]+ **What the Martikovs Know**
-> Players who ask Davian or Urwin Martikov for information about Castle Ravenloft's layout can learn that the castle has three towers: (1) the north tower, which stands atop the guards' quarters beneath the castle, and was primarily used for defending the keep; (2) the south tower, which connects every level of the main castle, and which was used by guests, servants and Strahd's court alike; and (3) the high tower in the east, which runs from the depths of the catacombs to the castle's highest point, and which bears a shaft in the center that leads directly from the tower's peak to the catacombs below.
 
-> [!abstract]+ **Recruiting Allies**
-> If the players attempt to recruit any of the following NPCs through the use of the Keepers’ ravens, the *sending* spell, or similar means, their responses are as follows:
->
-> **Ismark Kolyanovich (Barovia).** Ismark is honored by the players’ request and eager to assist, but reluctant to give Strahd any further reason to punish the villagers of Barovia. Players who inform Ismark that they bear the *Holy Symbol of Ravenkind*, or who provide a robust plan to disguise his movements and identity from Strahd’s spies, can successfully convince Ismark to join them for the heist by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if the players both inform Ismark of the *Holy Symbol of Ravenkind* and provide such a plan.
-> **Father Donavich (Barovia/Vallaki).** Father Donavich sadly informs the players that he “is no great fighter," but promises to help heal any wounds they might sustain in the castle following their return.
-> **Doru (Vallaki).** If the players inform Doru that Gertruda is a prisoner in Castle Ravenloft, Doru immediately agrees to help rescue her. Otherwise, Doru apologetically declines to join them due to his lingering trauma and fear of relapse if he returns to the keep.
-> **Father Lucian Petrovich (Vallak).** Father Lucian is taken aback by the players' request, but honored by their confidence in him. Nonetheless, he declines to join them, noting that he has an obligation to the people of his congregation to remain in Vallaki for them.
-> **Victor Vallakovich (Vallaki).** Victor is surprised and grateful for the players’ faith in him, but sheepishly informs them that he would prefer to stay in Vallaki with Stella. “If something happens to you all, someone will need to still be here," he insists.
-> **Lady Fiona Wachter (Vallaki).** Lady Wachter is flattered by the players’ request, but informs them, in no unclear terms, that she must remain in Vallaki to care for her people and family. She also reminds them, somewhat sharply, that she has no intention of defying Strahd. “I am glad to assist you where I can," she chides them gently, “but you ask too much of me."
-> **Kasimir Velikov (Vallaki).** Kasimir is surprised by the players’ request, but apologetically informs them that he will not be able to assist them. (If pushed, he reminds them of Strahd’s genocide of his people, and notes quietly that he has no interest in incurring Strahd’s rage again.)
-> **Arrigal & Luvash (Vallaki).** Arrigal and Luvash are surprised by the players’ request, but swiftly decline it. Luvash informs the players that he has no interest in defying Strahd, instead preferring to remain with his daughter. Meanwhile, Arrigal warns the players that he has no intention of putting his life in the line. “I’ve done what I’ve done," he says sharply. “Whatever you do from here is not of my concern."
-> **Urwin Martikov (Vallaki).** Urwin won’t leave the Blue Water Inn or his family. However, he’s glad to relay a message to Muriel to meet the players at the castle with several **swarms of ravens** that can serve as a makeshift “airlift" into the keep.
-> **Muriel Vinshaw (Any).** Muriel is reluctant to venture into Ravenloft due to Davian’s orders and her grief over Elric’s death, though she is more than happy to meet the players with several **swarms of ravens** to assist their efforts to enter the castle. However, a player who promises Muriel an opportunity to obtain justice for Elric and succeeds on a DC 20 Charisma (Persuasion) check can convince her to join the party in the castle as well.
-# P2. The Old Svalich Road
-## P2a. Approaching the Crossroads
-The journey from Vallaki to the castle crossroads is eight and one-quarter miles long and takes two hours and forty-five minutes. As they travel, the players pass <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span> and the western <span class="citation">B. Gates of Barovia (p. 33)</span>.
 
-Alternatively, if the players are traveling from Barovia, the journey is ten and one-half miles long and takes three hours and thirty minutes. As they travel, the players cross <span class="citation">D. River Ivlis (p. 35)</span>, pass through <span class="citation">F. River Ivlis Crossroads (p. 35)</span>, pass the watchtower described in [[Act I - Into the Mists/Arc C - Into the Valley#C6. The Watchtower|Arc C - Into the Valley]], and cross the bridge at <span class="citation">H. Tser Falls (p. 37)</span>.
+Alternativement, si les joueurs voyagent depuis Barovia, le voyage fait dix-sept kilomètres et dure trois heures et trente minutes. En voyageant, les joueurs traversent <span class="citation">D. La Rivière Ivlis (p. 35)</span>, passent par <span class="citation">F. Le Carrefour de la Rivière Ivlis (p. 35)</span>, passent devant la tour de guet décrite dans [[Acte I - Dans les Brumes/Arc C - Dans la Vallée#C6. La Tour de Guet|Arc C - Dans la Vallée]], et traversent le pont à <span class="citation">H. Les Chutes de Tser (p. 37)</span>.  
 
-> [!abstract]+ **The Revenant at the Falls**
-> As the players cross the bridge at Tser Falls, the **revenant** described in [[Act I - Into the Mists/Arc C - Into the Valley#Tser Falls|Arc C - Into the Valley]] hails them with familiarity. Although the revenant isn’t willing or able to take up arms against Strahd or his servants, players who mention their friendship with Sir Godfrey Gwilym and succeed on a DC 10 Charisma (Persuasion) check can convince the revenant to take some minor action to assist them, succeeding automatically if they mention their quest to restore Argynvost’s skull to his tomb. (The revenant won’t enter the castle or its grounds, but is otherwise glad to assist creative players.)
+> [!abstract]+ **Le Revenant aux Chutes**
+> Lorsque les joueurs traversent le pont aux Chutes de Tser, le **revenant** décrit dans [[Acte I - Dans les Brumes/Arc C - Dans la Vallée#C7b. Les Chutes de Tser|Arc C - Dans la Vallée]] les interpelle avec familiarité. Bien que le revenant ne soit pas disposé ou capable de prendre les armes contre Strahd ou ses serviteurs, les joueurs qui mentionnent leur amitié avec le Chevalier Godfrey Gwilym et réussissent un jet de Charisme (Persuasion) CD 10 peuvent convaincre le revenant d'entreprendre une action mineure pour les aider, réussissant automatiquement s'ils mentionnent leur quête pour restituer le crâne d'Argynvost à sa tombe. (Le revenant n'entrera pas dans le château ou ses terres, mais sera autrement ravi d'aider les joueurs créatifs.)
 
-As the players travel, they encounter a caravan of three **Vistani** riding a colorful, horse-drawn wagon from Tser Pool to Vallaki. (If the players are traveling from Vallaki, they encounter the Vistani near the monument to the Seeker described in [[Act I - Into the Mists/Arc C - Into the Valley#C9. Old Bonegrinder|Arc C - Into the Valley]]. If the players are traveling from Barovia, they encounter the Vistani at <span class="citation">F. River Ivlis Crossroads (p. 35)</span>.)
+Pendant que les joueurs voyagent, ils rencontrent une caravane de trois **Vistani** à cheval tirant une roulotte colorée, de Tser Pool à Vallaki. (Si les joueurs voyagent depuis Vallaki, ils rencontrent les Vistani près du monument au Chercheur décrit dans [[Acte I - Dans les Brumes/Arc C - Dans la Vallée#C9. Le Vieux Moulin|Arc C - Dans la Vallée]]. Si les joueurs voyagent depuis Barovia, ils rencontrent les Vistani à <span class="citation">F. Le Carrefour de la Rivière Ivlis (p. 35)</span>.)
 
-This encounter begins as described in <span class="citation">Vistani Bandits (p. 32)</span>. However, as the Vistani come into view, read:
+Cette rencontre commence comme décrite dans <span class="citation">Bandits Vistani (p. 32)</span>. Cependant, lorsque les Vistani arrivent en vue, lisez :
 
 <div class="description">
-<p>A splash of color pierces the dreary gray, revealing a horse-drawn wagon painted in bold reds, blues, and golds. Two brightly-dressed Vistani amble alongside it, and an old Vistani man holds the reins gently from his place atop the coach, his long, grey beard swaying gently in the chill wind as he puffs smoke rings from an old wooden pipe.</p>
+<p>Une éclaboussure de couleur perce la grisaille morne, révélant une roulotte tirée par un cheval, peinte de vives couleurs rouge, bleu et or. Deux Vistani aux vêtements colorés la côtoient, et un vieux Vistani tient doucement les rênes depuis le siège du cocher, sa longue barbe grise ondulant dans le vent glacial tandis qu'il souffle des ronds de fumée d'une vieille pipe en bois.</p>
 </div>
 
-The old man is Stanimir, described further in [[Act I - Into the Mists/Arc C - Into the Valley#C4a. Arrival at Tser Pool|Arc C - Into the Valley]]. The two Vistani walking beside Stanimir are named Radu and Elisabeta, and have been passing the time by telling increasingly horrifying and macabre (or comedically outrageous) ghost stories.
+Le vieil homme est Stanimir, décrit plus en détail dans [[Acte I - Dans les Brumes/Arc C - Dans la Vallée#C4a. Arrivée à Tser Pool|Arc C - Dans la Vallée]]. Les deux Vistani marchant aux côtés de Stanimir se nomment Radu et Elisabeta, et ont passé le temps à se raconter des histoires de fantômes de plus en plus horribles et macabres (ou comiquement exagérées).
 
-If he spots the players, he recognizes them and greets them warmly. He doesn’t inquire into their business and reassures them, with a twinkle in his eye, that it’s a “fine night for a stroll amidst the woods." If asked why he’s traveling the road, Stanimir shares that Madam Eva has commissioned him to deliver a token of esteem to the new burgomaster of Vallaki, Lady Fiona Wachter, as a gesture of friendship in recognition of her new office. 
+S'il aperçoit les joueurs, il les reconnaît et les salue chaleureusement. Il ne s'enquiert pas de leurs affaires et les rassure, avec un clin d'œil, que c'est une "belle nuit pour se promener dans les bois". Si on lui demande pourquoi il emprunte cette route, Stanimir partage que Madame Eva l'a chargé de remettre un gage d'estime à la nouvelle bourgmestre de Vallaki, Lady Fiona Wachter, en signe d'amitié pour sa nouvelle fonction.  
 
-If asked to share Madam Eva’s “token," Stanimir removes a bead pouch from his cloak and allows the players to peek inside, revealing a flat, round stone crest engraved with the image of a three-pointed star. (A player who received the [[Character Creation#Harmony—The Stone Crest|stone crest]] during character creation recognizes the stone as near-identical to their own.) Stanimir knows nothing of the stone’s importance to the Ladies of the Fanes, but can share that, according to Madam Eva, the three points of the star represent foresight, resilience, and courage.
+Si on lui demande de montrer le "gage" de Madame Eva, Stanimir sort une bourse de perles de son manteau et permet aux joueurs d'y jeter un œil, révélant un blason rond et plat gravé de l'image d'une étoile à trois branches. (Un joueur ayant reçu le [[Création de Personnage#Harmonie — Le Blason de Pierre|blason de pierre]] lors de la création de personnage reconnaîtra la pierre comme quasi identique à la sienne.) Stanimir ne sait rien de l'importance de la pierre pour les Dames des Fondrières, mais peut partager que, selon Madame Eva, les trois branches de l'étoile représentent la prévoyance, la résilience et le courage.
 
-> [!lore]+ **The Stone Crest**
-> Only Madam Eva knows that the stone crest carried by Stanimir is secretly a holy symbol of the Ladies of the Fanes, allowing a faithful worshipper of the Ladies to call upon their divine magic to fuel spells.
+> [!lore]+ **Le Blason de Pierre**
+> Seule Madame Eva sait que le blason de pierre porté par Stanimir est en fait un symbole sacré des Dames des Fondrières, permettant à un fidèle adorateur des Dames d'appeler sur leur magie divine pour alimenter les sorts.
 
-If the players are traveling from Barovia, Stanimir is glad to journey with them as far as the Ravenloft crossroads described in <span class="citation">I. Black Carriage (p. 37)</span> before parting ways.
 
-Whether the players are coming from Barovia or Vallaki, if the players reunited Varushka’s spirit with Katarina’s locket in [[Arc O - Dinner with the Devil]], Stanimir abruptly recalls before departing that Madam Eva asked him to give the players a gift if he came across them in the valley, as thanks for assisting a “dear friend" of hers. (Stanimir doesn’t know who this friend is.) Stanimir then gives the players a _clairvoyance stone_ before wishing them well on their journey.
 
-> [!item]+ **Clairvoyance Stone**
-> This smooth, polished, palm-sized stone is engraved with a carving of a circular, avian eye. While holding the stone to their eye, the stone’s holder can use their action to whisper a location permitted by the *clairvoyance* spell. The holder then gains the effects of the _clairvoyance_ spell.
+Si les joueurs voyagent depuis Barovia, Stanimir est heureux de les accompagner jusqu'au carrefour de Ravenloft décrit dans <span class="citation">I. La Calèche Noire (p. 37)</span> avant de se séparer.
+
+Que les joueurs viennent de Barovia ou de Vallaki, si les joueurs ont réuni l'esprit de Varushka avec le médaillon de Katarina dans [[Arc O - Dîner avec le Diable]], Stanimir se rappelle brusquement avant de partir que Madame Eva lui a demandé de donner aux joueurs un cadeau s'il les croisait dans la vallée, en remerciement pour avoir aidé une "chère amie" à elle. (Stanimir ne sait pas de qui il s'agit.) Stanimir donne alors aux joueurs une _pierre de clairvoyance_ avant de leur souhaiter bonne chance pour leur voyage.
+
+> [!item]+ **Pierre de Clairvoyance**
+> Cette pierre lisse, polie et de la taille d'une paume est gravée d'une sculpture d'un œil aviaire circulaire. En tenant la pierre contre son œil, le porteur peut utiliser son action pour chuchoter un lieu autorisé par le sort de *clairvoyance*. Le porteur gagne alors les effets du sort de _clairvoyance_.
 >
-> The stone can be used to cast the _clairvoyance_ spell three times. The third time the spell is cast, the stone crumbles to dust after the spell ends.
-## P2b. Approaching the Castle
-The castle crossroads are largely as described in <span class="citation">I. Black Carriage (p. 37)</span>, except Strahd’s black carriage isn’t present. The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
+> La pierre peut être utilisée pour lancer le sort de _clairvoyance_ trois fois. La troisième fois que le sort est lancé, la pierre se désintègre en poussière après la fin du sort.
 
-As the players approach the castle, read:
+## P2b. Approche du Château
+Le carrefour du château est largement tel que décrit dans <span class="citation">I. La Calèche Noire (p. 37)</span>, sauf que la calèche noire de Strahd n'est pas présente. Le voyage depuis le carrefour jusqu'aux portes du château est long de 4 km et prend cinquante minutes.
+
+Lorsque les joueurs approchent du château, lisez:
 
 <div class="description">
-<p>As the mountain road winds its way between dark, craggy peaks, the plants and trees you pass become increasingly withered. Each new stem or trunk seems more twisted, more grotesque than the last. The vegetation soon sprouts vicious, thorn-laden branches that claw toward the stormy skies above.</p>
-<p>A thick blanket of fog rolls across the road, creeping along the land like a skulking spider. Within it, eerie shapes occasionally form and dissipate—a grasping hand, a writhing serpent, a screaming face—then vanish, as quickly as they came.</p>
+<p>Alors que la route de montagne serpente entre des pics sombres et escarpés, les plantes et les arbres que vous croisez deviennent de plus en plus flétris. Chaque nouvelle tige ou tronc semble plus tordu, plus grotesque que le précédent. La végétation produit bientôt de vicieuses branches épineuses qui griffent les cieux orageux au-dessus.</p>
+<p>Une épaisse couverture de brume roule sur la route, rampant sur la terre comme une araignée aux aguets. À l'intérieur, des formes étranges se forment et se dissipent occasionnellement - une main agrippante, un serpent qui se tord, un visage hurlant - puis disparaissent, aussi vite qu'elles sont venues.</p>
 </div>
 
-The gates of Ravenloft are largely as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>. However, revise this area’s description as follows:
+Les portes de Ravenloft sont largement telles que décrites dans <span class="citation">J. Les Portes de Ravenloft (p. 38)</span>. Cependant, révisez la description de cette zone comme suit:
 
 <div class="description">
-<p>After winding through the craggy mountain peaks, the road takes a sudden turn to the east. Twin stone guard towers stand before you, their rotted wooden doors creaking in the wind. Beyond these twin turrets lies the precipice of a fifty-foot-wide, fog-filled chasm that plummets to unknown depths below.</p>
-<p>Across the chasm, the castle’s old, shored-up wooden drawbridge stands defiantly shut. The great spires of Ravenloft tower above it, their silhouettes murky against the darkened sky.</p>
+<p>Après avoir serpenté à travers les pics montagneux escarpés, la route prend un virage soudain vers l'est. Deux tours de garde en pierre se dressent devant vous, leurs portes en bois pourri grinçant au vent. Au-delà de ces deux tourelles se trouve le précipice d'un gouffre empli de brume large de 15 mètres qui plonge dans des profondeurs inconnues ci-dessous.</p>
+<p>De l'autre côté du gouffre, le vieux pont-levis en bois renforcé du château reste fermé de manière provocante. Les grandes flèches de Ravenloft le surplombent, leurs silhouettes sombres se détachant sur le ciel assombri.</p>
 </div>
 
-If any player has a passive Wisdom (Perception) score of 14 or greater, add:
+Si un joueur a un score de Sagesse (Perception) passif de 14 ou plus, ajoutez:
 
 <div class="description">
-<p>Two distant figures patrol the castle parapets immediately above the drawbridge.</p>
+<p>Deux silhouettes lointaines patrouillent les remparts du château juste au-dessus du pont-levis.</p>
 </div>
 
-The figures are **wights**. (Because they’re patrolling the walls, the wights don’t notice the players immediately.)
-## P2c. Strahd’s Departure
-Approximately fifteen minutes after dusk, Strahd descends to <span class="citation">Crypt 39 (p. 93)</span> and retrieves Beucephalus from his crypt. Strahd then mounts the **nightmare**, flies it up <span class="citation">K18a. High Tower Shaft (p. 58)</span>, and emerges from <span class="citation">K59. High Tower Peak (p. 73)</span> into the skies above Ravenloft. Read:
+Les silhouettes sont des **revenants**. (Comme ils patrouillent sur les remparts, les revenants ne remarquent pas immédiatement les joueurs.)
+
+## P2c. Le Départ de Strahd
+Environ quinze minutes après le crépuscule, Strahd descend à <span class="citation">Crypte 39 (p. 93)</span> et récupère Bucéphale dans sa crypte. Strahd monte alors le **cauchemar**, le fait voler jusqu'à <span class="citation">K18a. Le Haut Puits de la Tour (p. 58)</span>, et émerge de <span class="citation">K59. Le Sommet de la Haute Tour (p. 73)</span> dans les cieux au-dessus de Ravenloft. Lisez:
 
 <div class="description">
-<p>A fiery ember emerges from the castle’s highest tower peak and cuts a blazing swathe westward across the sky. You catch the barest glimpse of an onyx-black steed, its mane awash with crimson flames, and a tall, richly-dressed silhouette atop its back—and then the air ripples around them, and both vanish into the abyss of the night sky.</p>
+<p>Une braise ardente émerge du plus haut pic de la tour du château et trace une traînée embrasée vers l'ouest à travers le ciel. Vous apercevez à peine la silhouette d'une monture noire comme l'onyx, sa crinière baignée de flammes écarlates, et une silhouette grande et richement vêtue sur son dos - puis l'air ondule autour d'eux, et tous deux disparaissent dans l'abîme du ciel nocturne.</p>
 </div>
 
-> [!info]+ **Strahd’s Destination**
-> After departing Castle Ravenloft, Strahd rides first for the Mountain Fane, located beneath Old Bonegrinder’s hill. He then rides for the Swamp Fane in Berez, followed by the Forest Fane upon Yester Hill. At each location, he performs a blood sacrifice and encants a ritual binding the Fane to the Heart of Sorrow in preparation for the impending Grand Conjunction.
+> [!info]+ **La Destination de Strahd**
+> Après avoir quitté le Château du Corbeau, Strahd chevauche d'abord vers le Sanctuaire de la Montagne, situé sous la colline du Vieux Moulin à Os. Il chevauche ensuite vers le Sanctuaire des Marais à Berez, suivi du Sanctuaire de la Forêt sur la colline de Yester. À chaque endroit, il effectue un sacrifice de sang et invoque un rituel liant le Sanctuaire au Cœur de la Douleur en préparation de la prochaine Grande Conjonction.
 >
-> Strahd returns to the castle approximately twelve hours after his departure, soon after five o’clock in the morning. (Players who don’t take a long rest in the castle should therefore be unlikely to encounter him.)
-## P2d. Crossing the Chasm
-The players might use any of the following methods to gain access to the inner keep, or any other reasonable method:
+> Strahd revient au château environ douze heures après son départ, peu après cinq heures du matin. (Les joueurs qui ne prennent pas de repos long au château auront donc peu de chances de le rencontrer.)
+## P2d. Traverser le Gouffre
+Les joueurs peuvent utiliser l'une des méthodes suivantes pour accéder à la partie intérieure du château, ou toute autre méthode raisonnable :
 
-* Magical flight (e.g., *fly* or *polymorph*) to fly across the chasm
-* Magical teleportation (e.g. *dimension door*) to teleport across the chasm
-* Grappling hooks and rope to swing across the chasm
+* Le vol magique (ex: *envol* ou *polymorphe*) pour traverser le gouffre en volant
+* La téléportation magique (ex: *porte dimensionnelle*) pour se téléporter de l'autre côté du gouffre
+* Des grappins et des cordes pour se balancer de l'autre côté du gouffre
 
-> [!info]+ **Raven Flight**
-> At least two **swarms of ravens** are needed to carry a character of size Medium, while a minimum of one swarm is needed to carry a character of size Small or smaller. (A swarm of ravens carrying a character moves at half speed.)
+> [!info]+ **Vol des Corbeaux**
+> Au moins deux **nuées de corbeaux** sont nécessaires pour transporter un personnage de taille Moyenne, tandis qu'une seule nuée est nécessaire pour un personnage de taille Petite ou inférieure. (Une nuée de corbeaux transportant un personnage se déplace à la moitié de sa vitesse.)  
 
-> [!info]+ **Guards at the Gates**
-> Six **wights** patrol the castle walls at all hours of the day and night. (See the diagram below for the wights’ locations and patrol routes along the castle walls, with each black shield representing a wight and each dotted black arrow marking that wight’s patrol route.) 
+> [!info]+ **Gardes aux Portes**
+> Six **nuits vivants** patrouillent sur les remparts du château à toute heure du jour et de la nuit. (Voir le diagramme ci-dessous pour les emplacements et les itinéraires de patrouille des nuits vivants le long des remparts du château, chaque bouclier noir représentant un nuit vivant et chaque flèche noire en pointillés marquant son itinéraire de patrouille.)
 >
-> Each wight bears a large, recognizable horn carved from a **dire wolf’s** femur, which can be visibly seen dangling from its belt. On a wight’s second turn in combat, it uses its action to blow the horn, alerting all other wights to the presence of intruders. Once alerted, a wight uses its full movement to move in the direction of the horn. If an intruder is within range of its ***longbow***, the wight then makes two longbow attacks with its ***multiattack***. Otherwise, it takes the Dash action to continue moving in the direction of the horn.
+> Chaque nuit vivant porte un grand cor reconnaissable, taillé dans un fémur de **loup-garou des plaines**, qui pend visiblement à sa ceinture. Au deuxième tour d'un combat, le nuit vivant utilise son action pour souffler dans le cor, alertant ainsi tous les autres nuits vivants de la présence d'intrus. Une fois alerté, un nuit vivant utilise son déplacement maximum pour se diriger vers le cor. Si un intrus est à portée de son **arc long**, le nuit vivant effectue alors deux attaques d'arc long avec son ***multi-attaque***. Sinon, il prend l'action Se précipiter pour continuer à se déplacer dans la direction du cor.
 >
-> Once a wight is within melee range of an intruder, it uses its ***multiattack*** to attack with its ***longsword*** and ***life drain*** each round.
+> Une fois à portée de corps à corps d'un intrus, le nuit vivant utilise sa ***multi-attaque*** pour attaquer avec son ***épée longue*** et ***drain de vie*** à chaque tour.
 
 ![[Wight Patrols.png]]
-The players might use any of the following methods to distract the **wights** patrolling the area above the drawbridge:
+Les joueurs peuvent utiliser l'une des méthodes suivantes pour distraire les **nuits vivants** patrouillant dans la zone au-dessus du pont-levis :
 
-* Magical illusions (e.g., *major image*), obfuscation (e.g., *fog cloud*), or invisibility.
-* Distracting decoys (e.g., **swarms of ravens** directed by Muriel, or the *find familiar* spell)
-* Any other reasonable method (e.g., waiting until both wights are facing away from the drawbridge)
-# P3. Castle Grounds
-> [!abstract]+ **Varushka’s Gratitude**
-> If the players reunited the spirit of Varushka with Katarina’s necklace in [[Arc O - Dinner with the Devil]], at a time of your choosing when the players are engaged in a combat encounter in Castle Ravenloft and at least two-thirds of them are bloodied, the spirit of Varushka appears to assist them in a show of gratitude. Varushka’s spirit, which uses the statistics of a **poltergeist** with 45 hit points, lingers for no more than 1 minute, and has the following additional properties:
+* Des illusions magiques (ex: *image majeure*), de la dissimulation (ex: *nuage de brume*) ou de l'invisibilité.
+* Des leurres de distraction (ex: **nuées de corbeaux** dirigées par Muriel, ou le sort *familier*)
+* Toute autre méthode raisonnable (ex: attendre que les deux nuits vivants tournent le dos au pont-levis)
+# P3. Terres du Château
+> [!abstract]+ **La Gratitude de Varushka**
+> Si les joueurs ont réuni l'esprit de Varushka et le collier de Katarina dans [[Arc O - Dinner with the Devil]], choisissez un moment où les joueurs sont engagés dans un combat au Château du Corbeau et au moins les deux tiers d'entre eux sont blessés. L'esprit de Varushka apparaîtra alors pour les aider par gratitude. L'esprit de Varushka, qui utilise les statistiques d'un **poltergeist** avec 45 points de vie, ne reste pas plus d'1 minute et possède les propriétés supplémentaires suivantes :
 >
-> * She isn’t invisible, and instead has the appearance of a **shadow** bearing the silhouette of a slender woman wearing a dress and apron. (Though she can’t speak with the players in this form, Varushka can communicate through simple nods and gestures.)
-> * She gains the following additional reaction: ***Poltergeist’s Shield.*** In response to Varushka or a creature within 5 feet of her being targeted with a melee attack, Varushka adds 2 to the target’s AC against the triggering attack.
+> * Elle n'est pas invisible et a plutôt l'apparence d'une **ombre** avec la silhouette d'une femme mince portant une robe et un tablier. (Bien qu'elle ne puisse pas parler aux joueurs sous cette forme, Varushka peut communiquer par des hochements de tête et des gestes simples.)
+> * Elle gagne la réaction suivante : ***Bouclier du Poltergeist.*** En réaction à Varushka ou une créature à 5 mètres ou moins d'elle étant la cible d'une attaque de corps à corps, Varushka ajoute 2 à la CA de la cible contre l'attaque déclenchante.
 
-> [!abstract]+ **Rahadin's Challenge**
-> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
-> 
-> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
-> 
-> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
-> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
-> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
-> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
-> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
-> 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+
+
+> [!abstract]+ **Le défi de Rahadin**
+> Cet arc suppose que les joueurs visitent les catacombes après avoir complété tous les autres objectifs majeurs (c'est-à-dire, sauver Gertruda, libérer Emil et obtenir le crâne d'Argynvost). Quand ils le font, Rahadin obstrue leur départ des catacombes après qu'ils aient visité le caveau de Ste Markovia, comme décrit dans [[#Cryptes Sud, Troisième Rangée]].
 >
-> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
+> Si les joueurs visitent plutôt le caveau de Ste Markovia avant de compléter l'un de leurs trois autres objectifs majeurs, Rahadin n'apparaît pas dans les catacombes. À la place, une fois que les joueurs s'apprêtent à quitter le château Ravenloft, Rahadin apparaît pour obstruer leur départ la prochaine fois qu'ils traversent l'une des zones suivantes :
+>
+> * <span class="citation">K8. Grande Entrée (p. 55)</span>, si les joueurs tentent de partir via <span class="citation">K7. Entrée (p. 54)</span>,
+> * <span class="citation">K78. Salle du Brasero (p. 82)</span>, s'ils tentent de partir via le brasero de téléportation là-bas,
+> * <span class="citation">K23. Entrée des Serviteurs (p. 59)</span>, s'ils tentent de partir par cette route,
+> * <span class="citation">K46. Remparts (p. 68)</span>, s'ils tentent de partir par cette route, et
+> * <span class="citation">K20. Cœur de la Douleur (p. 59)</span> sinon.
+>
+> Si Rahadin affronte les joueurs dans <span class="citation">K78. Salle du Brasero (p. 82)</span>, il retire les sept pierres incrustées dans le rebord du brasero et les place dans une petite poche de cuir qu'il attache à sa ceinture avant qu'ils n'entrent dans la pièce. Si les joueurs remarquent la disparition des pierres avant de remarquer les ***hurlements des morts*** de Rahadin, il sort de sa cachette derrière l'un des golems de fer et demande : "Vous cherchez ça ?" Un joueur peut tenter de trancher la poche de la ceinture de Rahadin en effectuant une attaque contre sa CA avec un désavantage. En cas de coup au but, la poche est tranchée si la corde qui l'attache à la ceinture de Rahadin subit au moins 1 point de dégât perforant, tranchant, de feu, d'acide, nécrotique, radiant ou de force. Rahadin lâche aussi automatiquement la poche s'il utilise l'*amulette de Ravenloft* pour passer à travers un mur, plafond ou sol du château.
+>  
+> Voir [[#Cryptes Sud, Troisième Rangée]] pour plus d'informations sur les statistiques et l'apparence de Rahadin.
 
-> [!info]+ **Heist Milestones**
-> Raiding Castle Ravenloft completes a story milestone. If the players depart Castle Ravenloft with one or more of their objectives completed, award each player:
-> 
-> * 1,000 XP if they recovered Argynvost's skull
-> * 1,000 XP if they obtained the *Icon of Dawn's Grace* from St. Markovia's crypt
-> * 1,000 XP if they rescued Emil Toranescu
-> * 500 XP if they rescued Gertruda
-> * 500 XP if they obtained the *spear of the Huntress* from King Dostron's crypt
-> * 500 XP if they looted Strahd's treasury
-## P3a. Front Courtyard
-<span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
+> [!info]+ **Jalons du Casse** 
+> Voler le crâne d'Argynvost complète un jalon de l'histoire. Quand les joueurs quittent Ravenloft, accordez 4 000 XP à chaque joueur. Si les joueurs quittent le château Ravenloft après avoir complété un ou plusieurs des objectifs supplémentaires suivants, accordez à chaque joueur :
+>
+> * 250 XP s'ils ont obtenu l'*Icône de la Grâce de l'Aube* du caveau de Ste Markovia  
+> * 250 XP s'ils ont sauvé Emil Toranescu
+> * 250 XP s'ils ont sauvé Gertruda
+> * 250 XP s'ils ont obtenu la *Lance de la Chasseresse* du caveau du roi Dostron
+> * 250 XP s'ils ont pillé le trésor de Strahd
 
-This area is largely as described in <span class="citation">K1. Front Courtyard (p. 52)</span>. However, the doors into the keep are closed.
+## P3a. Cour d'Entrée 
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K1.</em></span>
 
-> [!info]+ **Sneaking Past the Guards**
-> If the players haven’t alerted the **wights** atop the walls yet, they must succeed on a DC 14 group Dexterity (Stealth) check to evade detection each time they move across the grounds without pausing. If the players fail the check, the **wights** attack from atop the walls using their longbows, but don’t follow the players into the castle.
+Cette zone est largement telle que décrite dans <span class="citation">K1. Cour d'Entrée (p. 52)</span>. Cependant, les portes menant au château sont fermées.  
 
-> [!info]+ **Entering the Main Doors of the Keep**
-> Players who enter the main doors of the keep exit the castle grounds and enter [[#P4. Castle Commons]] via [[#P4a. Main Entry]].
-## P3b. Center Court Gate
-<span class="citation"><em>These scenes take place in Chapter 4, Area K2.</em></span>
+> [!info]+ **Se faufiler sans se faire repérer par les gardes**
+> Si les joueurs n'ont pas encore alerté les **cadavres ambulants** sur les remparts, ils doivent réussir un jet de groupe de Dextérité (Discrétion) DD 14 pour éviter d'être détectés chaque fois qu'ils traversent les lieux sans s'arrêter. Si les joueurs ratent le jet, les **cadavres ambulants** les attaquent depuis le haut des remparts avec leurs arcs longs, mais ne suivent pas les joueurs à l'intérieur du château.
 
-These north and south courtyards are largely as described in <span class="citation">K2. Center Court Gate (p. 54)</span>. In addition, a creature that attempts to lift one of the portcullises in these areas must succeed on a DC 13 Dexterity (Stealth) check with disadvantage to avoid alerting any **wights** nearby.
-## P3c. Servants’ Courtyard
-<span class="citation"><em>This scene takes place in Chapter 4, Area K3.</em></span>
+> [!info]+ **Entrer par les Portes Principales du Château**  
+> Les joueurs qui entrent par les portes principales du château quittent la cour et entrent dans [[#P4. Vestibule du Château]] via [[Arc P - Casse de Ravenloft#Entrée Principale]].
 
-This area is as described in <span class="citation">K3. Servants’ Courtyard (p. 54)</span>.
+## P3b. Porte de la Cour Centrale
+<span class="citation"><em>Ces scènes se déroulent dans le Chapitre 4, Zone K2.</em></span>
 
-> [!info]+ **Entering the Servants’ Entrance**
-> Players who enter the wooden door here exit the castle grounds and enter [[#P5. Servants’ Wing]] via [[#P5a. Servants’ Entrance]].
-## P3d. Carriage House
-<span class="citation"><em>This scene takes place in Chapter 4, Area K4.</em></span>
 
-This area is as described in <span class="citation">K4. Carriage House (p. 54)</span>.
-## P3e. Chapel Garden
-<span class="citation"><em>This scene takes place in Chapter 4, Area K5.</em></span>
 
-This area is as described in <span class="citation">K5. Chapel Garden (p. 54)</span>.
-## P3f. Overlook
-<span class="citation"><em>This scene takes place in Chapter 4, Area K6.</em></span>
+Ces cours nord et sud sont en grande partie telles que décrites dans <span class="citation">K2. Porte de la cour centrale (p. 54)</span>. De plus, une créature qui tente de lever l'une des herses dans ces zones doit réussir un jet de Dextérité (Discrétion) DD 13 avec désavantage pour éviter d'alerter les **morts-vivants** à proximité.
+## P3c. Cour des Domestiques
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K3.</em></span>
 
-This area is as described in <span class="citation">K6. Overlook (p. 54)</span>.
+Cette zone est telle que décrite dans <span class="citation">K3. Cour des Domestiques (p. 54)</span>.
 
-> [!info]+ **Descending to the Crypts**
-> Players who use ropes, flight, or other means to descend to the windows in the cliff face beneath the overlook can exit the castle grounds and enter [[#P12. Catacombs]] via the King & Queen's Tomb in [[#P12b. Central Catacombs]].
-# P4. Castle Commons
-This area of the castle, including the main entry, the castle dining hall, and the chapel on the first floor, as well as the king’s audience hall on the second, was built to host the many petitioners and guests that might visit the castle in its heyday. Once used for public events, holy days, and royal business, it has since grown disused and forsaken, its once-kingly halls now ancient and dusty.
-## P4a. Castle Commons, First Floor
-### Main Entrance
-<span class="citation"><em>This scene takes place in Chapter 4, Area K7.</em></span>
+> [!info]+ **Entrer par l'Entrée des Domestiques**
+> Les joueurs qui entrent par la porte en bois ici sortent de l'enceinte du château et entrent dans [[#P5. L'Aile des Domestiques]] via [[Arc P - Ravenloft Heist#Entrée des Domestiques|l'Entrée des Domestiques]].
+## P3d. Remise à Voitures
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K4.</em></span>
 
-This area is largely as described in <span class="citation">K7. Entry (p. 54)</span>. However, there are only two **red dragon wyrmling** statues instead of four. (As in the original campaign, the dragons only attack strangers leaving the castle, not entering it.)
+Cette zone est telle que décrite dans <span class="citation">K4. Remise à Voitures (p. 54)</span>.
+## P3e. Jardin de la Chapelle
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K5.</em></span>
 
-> [!info]+ **Exiting the Main Entrance**
-> Players who depart through the double doors here exit the castle commons and enter [[#P3. Castle Grounds]] via [[#P3a. Front Courtyard]].
-### Main Foyer
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K8, K9, and K19.</em></span>
+Cette zone est telle que décrite dans <span class="citation">K5. Jardin de la Chapelle (p. 54)</span>.
+## P3f. Belvédère
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K6.</em></span>
 
-This area is largely as described in <span class="citation">K8. Great Entry (p. 55)</span>, <span class="citation">K9. Guests’ Hall (p. 55)</span>, and <span class="citation">K19. Grand Landing (p. 58)</span>. However, reduce the number of **gargoyles** from eight to four. 
+Cette zone est telle que décrite dans <span class="citation">K6. Belvédère (p. 54)</span>.
 
-> [!combat]+ **Balancing the Entryway** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of gargoyles to three. 
-> * **Four Players**. Reduce the number of gargoyles to three. 
-> * **Six Players**. Increase the number of gargoyles to five.
+> [!info]+ **Descendre dans les Cryptes**
+> Les joueurs qui utilisent des cordes, le vol ou d'autres moyens pour descendre jusqu'aux fenêtres dans la paroi rocheuse sous le belvédère peuvent sortir de l'enceinte du château et entrer dans [[#P12. Les Catacombes]] via la Tombe des Rois et Reines dans [[#P12b. Catacombes Centrales]].
+# P4. Les Communs du Château
+Cette partie du château, comprenant l'entrée principale, la salle à manger du château et la chapelle au premier étage, ainsi que la salle d'audience du roi au deuxième étage, a été construite pour accueillir les nombreux pétitionnaires et invités susceptibles de visiter le château à son apogée. Autrefois utilisés pour les événements publics, les jours saints et les affaires royales, ces halls royaux sont aujourd'hui devenus désaffectés et abandonnés, leurs anciens halls majestueux n'étant plus que poussière et antiquité.
+## P4a. Les Communs du Château, Premier Étage
+### Entrée Principale
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K7.</em></span>
 
-***The First Visit.*** The first time the players enter this area, a *glyph of warding* hidden among the dust on the ceiling activates, casting a *major image* spell originating from the organ in the <span class="citation">K10. Dining Hall (p. 56)</span>. (The *major image* is the source of the “sad and majestic organ tones" described in <span class="citation">K8. Great Entry (p. 55)</span>.)
+Cette zone est en grande partie telle que décrite dans <span class="citation">K7. Entrée (p. 54)</span>. Cependant, il n'y a que deux statues de jeunes dragons rouges au lieu de quatre. (Comme dans la campagne originale, les dragons n'attaquent que les étrangers quittant le château, pas ceux qui y entrent.)
 
-Shortly after the players first enter this area, the *major image* abruptly changes. Read:
+> [!info]+ **Sortir par l'Entrée Principale**
+> Les joueurs qui partent par les doubles portes ici sortent des communs du château et entrent dans [[#P3. L'Enceinte du Château]] via [[#P3a. La Cour d'Honneur]].
+### Vestibule Principal
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K8, K9 et K19.</em></span>
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K8. Grande Entrée (p. 55)</span>, <span class="citation">K9. Hall des Invités (p. 55)</span> et <span class="citation">K19. Grand Palier (p. 58)</span>. Cependant, réduisez le nombre de **gargouilles** de huit à quatre.
+
+> [!combat]+ **Équilibrer l'Entrée**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 7, une alliée CR 2 (Ireena Kolyana) et une alliée CR 4 (Ezmerelda d'Avenir), et consommera environ 16% de leurs points de vie maximum totaux. Pour des groupes de tailles inférieures ou supérieures, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez le nombre de gargouilles à trois.
+> * **Quatre Joueurs**. Réduisez le nombre de gargouilles à trois.
+> * **Six Joueurs**. Augmentez le nombre de gargouilles à cinq.
+
+***La Première Visite.*** La première fois que les joueurs entrent dans cette zone, un *glyphe de garde* caché dans la poussière au plafond s'active, lançant un sort d'*image majeure* provenant de l'orgue dans la <span class="citation">K10. Salle à Manger (p. 56)</span>. (L'*image majeure* est la source des "tristes et majestueux tons d'orgue" décrits dans <span class="citation">K8. Grande Entrée (p. 55)</span>.)
+
+
 
 <div class="description">
-<p>A woman’s terrified shriek rings out from the dining hall—and the organ music abruptly cuts short.</p>
+<p>Un cri terrifié de femme retentit depuis la salle à manger - et la musique de l'orgue s'interrompt brusquement.</p>
 </div>
 
-> [!abstract]+ **Ludmilla’s Arrival**
-> When the woman’s shriek rings out, Ludmilla Vilisevic, one of Strahd’s vampiric brides, hears the disturbance and departs [[#P9. Coven’s Quarters]], casting *gaseous form* and descending <span class="citation">K48. Offstair (p. 70)</span> and <span class="citation">K21. South Tower Stair (p. 59)</span> to <span class="citation">K9. Guests’ Hall (p. 56)</span>. She then climbs <span class="citation">K19. Grand Landing (p. 58)</span> and conceals herself, waiting for the players to return.
+> [!abstract]+ **L'arrivée de Ludmilla**
+> Lorsque le cri de la femme retentit, Ludmilla Vilisevic, l'une des épouses vampiriques de Strahd, entend le dérangement et quitte [[#P9. Les Quartiers du Couvent]], lançant *forme gazeuse* et descendant <span class="citation">K48. L'Escalier Latéral (p. 70)</span> et <span class="citation">K21. L'Escalier de la Tour Sud (p. 59)</span> vers <span class="citation">K9. Le Hall des Invités (p. 56)</span>. Elle grimpe ensuite <span class="citation">K19. Le Grand Palier (p. 58)</span> et se cache, attendant le retour des joueurs.
 >
-> However, if the players don’t enter <span class="citation">K10. Dining Hall (p. 56)</span> and instead ascend <span class="citation">K21. South Tower Stair (p. 59)</span>, Ludmilla hears them coming and returns to <span class="citation">K47. Portrait of Strahd (p. 68)</span>. There, in order to lure the players to the roof, she uses her ***claws*** attack to slice a wound along her own shoulder, allowing blood to drip down to form a trail on the floor behind her as she ascends <span class="citation">K48. Offstair (p. 70)</span> to <span class="citation">K57. Tower Roof (p. 72)</span>. See [[#P8. Guest Suite]] for more information about Ludmilla’s ambush.
-> 
-> If the players neither enter  <span class="citation">K10. Dining Hall (p. 56)</span> nor ascend <span class="citation">K21. South Tower Stair (p. 59)</span>, and instead ascend <span class="citation">K19. Grand Landing (p. 58)</span>, Ludmilla hears them coming and creates a blood trail to lure them through <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span>, and down <span class="citation">K29. Creaky Landing (p. 62)</span> into <span class="citation">K15. Chapel (p. 57)</span>. 
+> Cependant, si les joueurs n'entrent pas dans <span class="citation">K10. La Salle à Manger (p. 56)</span> et montent plutôt <span class="citation">K21. L'Escalier de la Tour Sud (p. 59)</span>, Ludmilla les entend venir et retourne à <span class="citation">K47. Le Portrait de Strahd (p. 68)</span>. Là, afin d'attirer les joueurs sur le toit, elle utilise son attaque ***griffes*** pour se tailler une blessure le long de l'épaule, laissant le sang couler et former une traînée sur le sol derrière elle alors qu'elle monte <span class="citation">K48. L'Escalier Latéral (p. 70)</span> vers <span class="citation">K57. Le Toit de la Tour (p. 72)</span>. Voir [[#P8. La Suite des Invités]] pour plus d'informations sur l'embuscade de Ludmilla.
+>
+> Si les joueurs n'entrent ni dans <span class="citation">K10. La Salle à Manger (p. 56)</span> ni ne montent <span class="citation">K21. L'Escalier de la Tour Sud (p. 59)</span>, et montent plutôt <span class="citation">K19. Le Grand Palier (p. 58)</span>, Ludmilla les entend venir et crée une traînée de sang pour les attirer à travers <span class="citation">K25. La Salle d'Audience (p. 61)</span> dans <span class="citation">K26. Le Poste de Garde (p. 61)</span>, à travers <span class="citation">K27. La Salle du Roi (p. 61)</span> sur <span class="citation">K28. Le Balcon du Roi (p. 62)</span>, et descendre <span class="citation">K29. Le Palier Branlant (p. 62)</span> dans <span class="citation">K15. La Chapelle (p. 57)</span>.
 
-***The Second Visit.*** The second time the players enter this area (e.g., after investigating the <span class="citation">K10. Dining Hall (p. 56)</span>, they find a thick carpet of fog has covered its entire floor. They also find Ludmilla Vilisevic standing at the center of <span class="citation">K8. Great Entry (p. 55)</span>, waiting for them.
+***La Seconde Visite.*** La deuxième fois que les joueurs entrent dans cette zone (par exemple, après avoir examiné <span class="citation">K10. La Salle à Manger (p. 56)</span>), ils trouvent un épais tapis de brume recouvrant tout le sol. Ils trouvent également Ludmilla Vilisevic debout au centre de <span class="citation">K8. La Grande Entrée (p. 55)</span>, les attendant.
 
-Ludmilla greets the players coldly and notes her regrets that the guards upon the walls evidently could not keep “troglodytes" such as them outside of the keep. She proceeds to attempt to provoke the players into attacking her, preferring to focus her insults and provocations upon melee-oriented players most likely to lose their tempers. (Ludmilla might threaten characters the player holds dear, impugn their principles or sense of honor, or imply that they are weak or otherwise incapable.)
+Ludmilla salue froidement les joueurs et exprime ses regrets que les gardes sur les remparts n'aient apparemment pas pu tenir "ces troglodytes" tels qu'eux à l'extérieur du château fort. Elle tente ensuite de provoquer les joueurs pour qu'ils l'attaquent, préférant se concentrer sur les insultes et les provocations envers les joueurs orientés vers le corps à corps, les plus susceptibles de perdre leur calme. (Ludmilla pourrait menacer les personnages chers au joueur, attaquer leurs principes ou leur sens de l'honneur, ou insinuer qu'ils sont faibles ou autrement incapables.)
 
-If no player rises to meet the bait, Ludmilla concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
+Si aucun joueur ne mord à l'hameçon, Ludmilla ricane et affirme que les joueurs ont cru pouvoir égaler "l'aînée et la plus grande élève de Baba Lysaga" (elle-même), et conclut qu'elle sera ravie d'apporter leurs "restes froids et immobiles" au "comte von Zarovich" - *après* les avoir disséqués elle-même. Elle passe alors à l'attaque.
 
-> [!combat]+ **Balancing the Witch** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points per phase (for a total of 24% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> * **Three Players**. Reduce Ludmilla’s hit points to 58 in each phase, the damage of her Freezing Ray to 1d6 cold damage per ray, and the damage of her **Mage’s Reprisal** to 2d4 damage. In her second phase, remove the Necrotic damage from her **Claws** and **Mist Shards**. 
-> * **Four Players**. Reduce Ludmilla’s hit points to 70 in each phase and her **Freezing Ray** attack to only two rays. In her second phase, remove the Necrotic damage from her **Claws** and reduce her **Mist Shards'** damage to 1d4 + 3 slashing damage and 1d4 necrotic damage. 
-> * **Six Players**. Increase Ludmilla’s hit points to 94 in each phase and the number of rays to five (reduce the damage of each ray to 2d4 cold damage). In her second phase, increase her **Claws** and **Mist Shards**’ necrotic damage to 1d8.
 
-In either case, on initiative count 20 of the first round of combat, the four **gargoyles** begin to stir, rolling initiative and joining the fray on their turns. Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual_, but increase each gargoyle’s hit points to 45 instead of 37.
 
-Ludmilla always uses her bonus action to cast *darkness* on her first turn in combat. If the spell isn’t countered and the *Holy Symbol of Ravenkind* is visible, she then immediately uses her *misty step* reaction to teleport into the darkness, hiding ten feet above the player bearing the symbol. Ludmilla then uses her action to attempt to take the symbol from the player’s person. (If the symbol isn't visible, Ludmilla immediately retreats to the chapel as described below, hoping to have the gargoyles weaken the players before entering combat herself.)
+> [!combat]+ **Équilibrer la Sorcière**
+> En raison du mécanisme de phase, cette rencontre de combat est une série de deux rencontres de combat **légères** consécutives contre un groupe de cinq joueurs de niveau 7, un allié CR 2 (Ireena Kolyana) et un allié CR 4 (Ezmerelda d'Avenir), et consommera environ 12% de leurs points de vie maximum totaux par phase (pour un total de 24% de leurs points de vie maximum). Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez les points de vie de Ludmilla à 145 dans chaque phase, les dégâts de son Rayon Glacial à 2,5 dégâts de froid par rayon, et les dégâts de son **Représailles du Mage** à 8 dégâts. Dans sa deuxième phase, retirez les dégâts nécrotiques de ses **Griffes** et **Éclats de Brume**.
+> * **Quatre Joueurs**. Réduisez les points de vie de Ludmilla à 175 dans chaque phase et son attaque **Rayon Glacial** à seulement deux rayons. Dans sa deuxième phase, supprimez les dégâts nécrotiques de ses **Griffes** et réduisez les dégâts de ses **Éclats de Brume** à 6 dégâts tranchants et 2,5 dégâts nécrotiques.
+> * **Six Joueurs**. Augmentez les points de vie de Ludmilla à 235 dans chaque phase et le nombre de rayons à cinq (réduisez les dégâts de chaque rayon à 10 dégâts de froid). Dans sa deuxième phase, augmentez les dégâts nécrotiques de ses **Griffes** et **Éclats de Brume** à 5 dégâts.
 
-If Ludmilla isn’t hidden from the target, her attempt to take the *Holy Symbol of Ravenkind* automatically fails. Otherwise, the symbol’s wielder must make a DC 18 Dexterity saving throw to prevent Ludmilla from removing it.
+Dans tous les cas, au compte d'initiative 20 du premier round de combat, les quatre **gargouilles** commencent à s'agiter, lancent l'initiative et rejoignent la mêlée à leur tour. Utilisez le bloc de statistiques ci-dessous pour les **gargouilles**, plutôt que celui du _Manuel des Monstres_, mais augmentez les points de vie de chaque gargouille à 112 au lieu de 92.
 
-Whether Ludmilla successfully steals the symbol or not, she then retreats up <span class="citation">K19. Grand Landing (p. 58)</span> and releases concentration on her *darkness* spell before taunting the players with an invitation to "come take it back." She then crosses <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, and passes through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span> before descending into <span class="citation">K15. Chapel (p. 57)</span>. (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
+Ludmilla utilise toujours son action bonus pour lancer *ténèbres* à son premier tour au combat. Si le sort n'est pas contré et que le *Symbole Sacré de Ravenloft* est visible, elle utilise alors immédiatement sa réaction *pas de brume* pour se téléporter dans les ténèbres, se cachant à 3 mètres au-dessus du joueur portant le symbole. Ludmilla utilise ensuite son action pour tenter de prendre le symbole de la personne du joueur. (Si le symbole n'est pas visible, Ludmilla se retire immédiatement dans la chapelle comme décrit ci-dessous, espérant que les gargouilles affaibliront les joueurs avant d'entrer au combat elle-même.)
 
-> [!warning]+ **Opportunity Attacks in Darkness**
-> Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
+Si Ludmilla n'est pas cachée de la cible, sa tentative de prendre le *Symbole Sacré de Ravenloft* échoue automatiquement. Sinon, le porteur du symbole doit réussir un jet de sauvegarde de Dextérité DD 18 pour empêcher Ludmilla de le lui prendre.
 
-> [!abstract]+ **Keys to the Dungeons**
-> If the players killed Volenta in [[Arc D - St. Andral's Feast]], Ludmilla holds a ring of keys to all of the cells in the dungeons, as well as the key to Emil’s *silverthorn collar*.
+Que Ludmilla vole avec succès le symbole ou non, elle se retire ensuite au <span class="citation">K19. Grand Palier (p. 58)</span> et relâche sa concentration sur son sort de *ténèbres* avant de narguer les joueurs avec une invitation à "venir le reprendre". Elle traverse ensuite <span class="citation">K25. Salle d'Audience (p. 61)</span> dans <span class="citation">K26. Poste de Garde (p. 61)</span>, et passe par <span class="citation">K27. Salle du Roi (p. 61)</span> sur <span class="citation">K28. Balcon du Roi (p. 62)</span> avant de descendre dans <span class="citation">K15. Chapelle (p. 57)</span>. (Après sa rencontre avec les joueurs à Yester Hill, Ludmilla est heureuse de laisser les **gargouilles** dans la Grande Entrée les vaincre ou les affaiblir avant de les affronter elle-même.)
 
+> [!warning]+ **Attaques d'Opportunité dans les Ténèbres**  
+> Parce que les créatures ne peuvent faire des attaques d'opportunité que contre des cibles qu'elles peuvent voir, un personnage aveuglé par les *ténèbres* de Ludmilla ne peut pas faire d'attaque d'opportunité contre elle pendant qu'elle tente de voler le *Symbole Sacré de Ravenloft*.
+
+> [!abstract]+ **Clés des Cachots**
+> Si les joueurs ont tué Volenta dans [[Arc D - La Fête de Saint Andral]], Ludmilla détient un anneau de clés de toutes les cellules des cachots, ainsi que la clé du *collier d'argent* d'Emil.
 <div class="statblock">
-<h2>Ludmilla Vilisevic, Elementalist</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Ludmilla Vilisevic, Élémentaliste</h2>
+<em>Mort-vivant de taille moyenne, neutre mauvais</em>
 <hr>
-<strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 120 (16d8 + 48)<br>
-<strong>Speed</strong> 30 ft., climb 20 ft.
+<strong>Classe d'Armure</strong> 15<br>
+<strong>Points de Vie</strong> 300 (16d8 + 120)<br>
+<strong>Vitesse</strong> 9 m, escalade 6 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
+
+<table>
+  <thead>
+    <tr>
       <th>CON</th>
       <th>INT</th>
       <th>WIS</th>
@@ -322,1354 +335,1300 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
-<strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
-<strong>Challenge</strong> 8<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Jets de sauvegarde</strong> Dex +6, Int +7, Sag +3<br>
+<strong>Compétences</strong> Arcanes +7, Perception +3, Discrétion +6<br>
+<strong>Résistances aux dégâts</strong> nécrotique ; contondant, perforant et tranchant des attaques non magiques<br>
+<strong>Sens</strong> Perception passive 13<br>
+<strong>Langues</strong> Abyssal, Commun, Draconique, Infernal<br>
+<strong>Défi</strong> 8<br>
+<strong>Bonus de maîtrise</strong> +3
 <hr>
-<p><strong><em>Devil’s Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>
-<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Mistfiend form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<p><strong><em>Vision diabolique.</em></strong> Ludmilla peut voir normalement dans le noir, aussi bien magique que non magique, jusqu'à une distance de 37 mètres.</p>
+<p><strong><em>Régénération.</em></strong> Ludmilla récupère 10 points de vie au début de son tour si elle a au moins 1 point de vie et n'est pas à la lumière du soleil ou dans de l'eau courante. Si elle subit des dégâts radians (ce qui inclut les dégâts de l'eau bénite), cette capacité ne fonctionne pas au début de son prochain tour.</p>
+<p><strong><em>Escalade de l'araignée.</em></strong> Ludmilla peut escalader des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.</p>
+<p><strong><em>Hypersensibilité à la lumière du soleil.</em></strong> Lorsqu'elle est exposée à la lumière du soleil, Ludmilla subit 20 dégâts radians au début de son tour, et elle a un désavantage lors des jets d'attaque et des jets de caractéristique.</p>
+<p><strong><em>Forme de brume.</em></strong> Lorsque Ludmilla est réduite à 0 point de vie, ses statistiques sont instantanément remplacées par les statistiques de sa forme de Mistfiend. Son compteur d'initiative ne change pas. Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais elle conserve toutes les conditions qu'elle avait dans sa forme précédente.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ludmilla makes two Shocking Grasp attacks.</p>
-<p><strong><em>Shocking Grasp.</em></strong> <em>Melee Spell Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d8) lightning damage. On a hit, the target can't take reactions until the start of its next turn.</p>
-<p><strong><em>Lightning Lance.</em></strong> A bolt of lightning arcs toward a creature of Ludmilla’s choice that she can see within 30 feet. Two bolts then leap from that creature to as many as two other creatures, each of which must be within 10 feet of the first creature. (A creature can be targeted by only one of the bolts.) Each creature must make a <span class="highlight">DC 15 Dexterity saving throw</span>, taking 9 (2d8) lightning damage on a failed save, or half as much damage on a success.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-<p><strong><em>Duplicate.</em></strong> Ludmilla creates a perfect, intangible illusion of herself that lasts until the start of her next turn. The illusion appears in an unoccupied space within 30 feet of her. Ludmilla can then magically switch places with the illusion. While the illusion remains, it perfectly mimics Ludmilla's actions, speech, and movement, though it cannot attack. A player can make a <span class="highlight">DC 15 Intelligence (Investigation) check</span> (no action required) to determine which Ludmilla is illusory. The illusion vanishes if it takes any damage.</p>
-<p><strong><em>Freezing Ray.</em></strong> <em>Ranged Spell Attack:</em> +7 to hit, range 120 ft., three creatures. <em>Hit:</em> 7 (2d6) cold damage per ray.</p>
-<p><strong><em>Darkness (1/day).</em></strong> Ludmilla casts <em>darkness</em> with a radius of 40 feet.</p>
-<h3>Reactions</h3>
-<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Misty Step.</em></strong> In response to taking damage or casting *darkness*, Ludmilla casts <em>misty step</em>. She can then immediately take the Hide action. If she’s flying, she has advantage on the check made to hide.</p>
-<p><strong><em>Disrupt Spell (3/day).</em></strong> 3rd-level spell, range 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a <span class="highlight">DC 15 saving throw</span> using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-<p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
-</div>
-<br>
+<p><strong><em>Attaques multiples.</em></strong> Ludmilla effectue deux attaques de Contact électrisant.</p>
+<p><strong><em>Contact électrisant.</em></strong> <em>Attaque de sort au corps-à-corps :</em> +7 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 9 (2d8) dégâts d'électricité. Lors d'un coup au but, la cible ne peut pas prendre de réactions jusqu'au début de son prochain tour.</p>
+<p><strong><em>Lance foudroyante.</em></strong> Un éclair jaillit vers une créature choisie par Ludmilla qu'elle peut voir à 9 mètres ou moins. Deux éclairs jaillissent ensuite de cette créature vers deux autres créatures au maximum, chacune devant se trouver à 3 mètres ou moins de la première créature. (Une créature ne peut être ciblée que par un seul des éclairs.) Chaque créature doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 15</span>, subit 9 (2d8) dégâts d'électricité en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
+<h3>Actions bonus</h3>
+<p><strong><em>Voile d'ombres (1/jour).</em></strong> Ludmilla invoque un voile d'ombres autour d'elle, qui dure 8 heures ou jusqu'à ce qu'elle le dissipe en utilisant une action bonus. Tant que le voile persiste, elle gagne une vitesse de vol de 15 mètres (avec la capacité de se déplacer verticalement) et bénéficie d'une résistance aux dégâts infligés par les attaques d'armes de corps-à-corps. Si Ludmilla résiste aux dégâts de cette manière, l'assaillant subit les mêmes dégâts, de même type.<br>&nbsp;&nbsp;&nbsp;&nbsp; La première fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, celui-ci s'affaiblit, réduisant sa vitesse de vol à 7,5 mètres et la faisant tomber de 6 mètres. La deuxième fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, celui-ci disparaît immédiatement.</p>
+<p><strong><em>Duplication.</em></strong> Ludmilla crée une illusion parfaite et intangible d'elle-même qui dure jusqu'au début de son prochain tour. L'illusion apparaît dans un espace inoccupé à 9 mètres ou moins d'elle. Ludmilla peut alors échanger magiquement de place avec l'illusion. Tant que l'illusion persiste, elle imite parfaitement les actions, les paroles et les mouvements de Ludmilla, bien qu'elle ne puisse pas attaquer.
+
+Un joueur peut faire un <span class="highlight">test d'Intelligence (Investigation) DD 15</span> (aucune action requise) pour déterminer quelle Ludmilla est illusoire.
+L'illusion disparaît si elle subit des dégâts.
+
+<strong><em>Rayon de froid.</em></strong> <em>Attaque de sort à distance:</em> +7 pour toucher, portée 36 m, trois créatures.
+<em>Touché:</em> 7 (2d6) dégâts de froid par rayon.
+
+<strong><em>Ténèbres (1/jour).</em></strong> Ludmilla lance <em>ténèbres</em> avec un rayon de 12 mètres.
+
+<h3>Réactions</h3>
+Ludmilla peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
+Si Ludmilla devait perdre ses réactions et n'est pas neutralisée, elle perd une réaction à la place.
+
+<strong><em>Pas de brume.</em></strong> En réaction à subir des dégâts ou à lancer <em>ténèbres</em>, Ludmilla lance <em>pas de brume</em>.
+Elle peut alors immédiatement prendre l'action Se cacher.
+Si elle vole, elle a l'avantage sur le test pour se cacher.
+
+<strong><em>Contrer un sort (3/jour).</em></strong> Sort de niveau 3, portée 18 mètres, composantes V, S, instantané.
+<em>Effet:</em> Ludmilla tente de contrer une créature en train d'incanter un sort.
+Si la créature lance un sort de niveau 3 ou inférieur, elle doit réussir un <span class="highlight">jet de sauvegarde DD 15</span> utilisant sa caractéristique d'incantation.
+En cas d'échec, le sort de la créature échoue et n'a aucun effet.
+
+<strong><em>Représailles du mage.</em></strong> En réaction à rater une attaque de sort ou à réussir un jet de sauvegarde contre un sort, Ludmilla peut immédiatement forcer l'incantateur à réussir un jet de sauvegarde de Constitution DD 15 ou subir 7 (2d6) dégâts de force.
+
+<p><strong><em>Vision de la brume.</em></strong> Lorsqu'elle se trouve dans le brouillard, Ludmilla bénéficie d'une vision aveugle qui s'étend jusqu'à la limite du brouillard, sur un maximum de 18 mètres.
+<p><strong><em>Forme de brume.</em></strong> Ludmilla peut entrer et occuper l'espace d'une autre créature, et peut passer à travers de petits trous, des ouvertures étroites et même de simples fissures, bien qu'elle traite les liquides comme s'ils étaient des surfaces solides.
+Elle ne peut pas tomber et reste en suspension dans les airs, même si elle est étourdie ou autrement neutralisée.
+Cependant, lorsqu'elle effectue une attaque de corps à corps ou qu'elle agrippe une cible, Ludmilla perd ces attributs, ainsi que son immunité aux dégâts contondants, perforants et tranchants des armes non magiques, et perd son immunité aux états agrippé, à terre et entravé.</p>
+<h3>Actions</h3>
+<p><strong><em>Attaques multiples.</em></strong> Ludmilla effectue deux attaques avec ses griffes.
+Elle peut remplacer une attaque par une attaque de shurikens de brume ou de morsure.</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 pour toucher, allonge 1,5 m, une cible.
+<em>Touché :</em> 8 (2d4 + 3) dégâts tranchants plus 2 (1d4) dégâts nécrotiques.
+Au lieu d'infliger les dégâts tranchants, Ludmilla peut agripper la cible (DD 14 pour se libérer).</p>
+<p><strong><em>Shurikens de brume.</em></strong> <em>Attaque d'arme à distance :</em> +6 pour toucher, portée 9 m, une cible.
+<em>Touché :</em> 6 (1d6 + 3) dégâts tranchants plus 3 (1d6) dégâts nécrotiques.</p>
+<p><strong><em>Morsure.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 pour toucher, allonge 1,5 m, une cible.
+<em>Touché :</em> 6 (1d6 + 3) dégâts perforants plus 7 (2d6) dégâts nécrotiques.
+Le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis, et Ludmilla regagne des points de vie égaux à ce montant.
+La cible meurt si cet effet réduit son maximum de points de vie à 0.
+Chaque fois que la cible termine un repos long sans avoir été mordue à nouveau, elle peut lancer un de ses dés de vie et ajouter son modificateur de Constitution.
+Le maximum de points de vie de la cible augmente d'un montant égal au résultat.
+(Cette augmentation ne peut pas faire dépasser à la cible son maximum de points de vie d'origine.)</p>
+<h3>Actions bonus</h3>
+<p><strong><em>Se dissiper.</em></strong> Si Ludmilla est très obscurcie par de la brume, elle bénéficie de l'action Se cacher.
+<p><strong><em>Asphyxier.</em></strong> Une créature à 9 mètres ou moins doit réussir un <span class="highlight">jet de sauvegarde de Constitution DD 14</span>.
+En cas d'échec, la tête de la cible est entourée d'un vide d'air pendant 1 minute, ou tant que Ludmilla maintient sa concentration (comme pour se concentrer sur un sort).
+Lorsqu'elle est entourée de ce vide, la cible est assourdie, ne peut pas parler, ne peut pas respirer (mais peut retenir son souffle), et acquiert un nombre de niveaux d'épuisement égal à trois moins le nombre de minutes d'air qui lui reste (minimum 0).
+De plus, une cible entourée de ce vide doit réussir un jet de sauvegarde de Constitution DD 14 à la fin de chacun de ses tours, ou perdre 1 minute d'air en cas d'échec.<br>&nbsp;&nbsp;&nbsp;&nbsp;La cible perd tous les niveaux d'épuisement acquis de cette manière si elle tombe inconsciente ou si le vide disparaît.
+Le vide disparaît si Ludmilla bénéficie de l'action Se cacher ou si la cible se trouve derrière un abri complet ou à plus de 9 mètres d'elle.</p>
+<h3>Réactions</h3>
+<p>Ludmilla peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
+Si Ludmilla devait perdre ses réactions et n'est pas neutralisée, elle perd une réaction à la place.</p>
+<p><strong><em>Nuage de brume.</em></strong> En réaction à subir des dégâts, Ludmilla lance <em>nuage de brume</em> sans concentration.
+<p><strong><em>Brume empoisonnée.</em></strong> En réaction à subir des dégâts d'une créature à 1,5 mètre ou moins, Ludmilla force cette créature à réussir un <span class="highlight">jet de sauvegarde de Constitution DD 14</span> ou à subir 7 (2d6) dégâts de poison.</p>
+<p><strong><em>Embuscade.</em></strong> En réaction à entendre ou voir une créature se déplacer à 9 mètres ou moins pendant qu'elle est cachée, Ludmilla se déplace jusqu'à sa vitesse de déplacement vers elle et l'attaque avec ses griffes.</p>
+
+<span class="credit">"Ludmilla dans sa seconde phase" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>Ludmilla Vilisevic, Mistfiend</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Gargouille</h2>
+<em>Élémentaire de taille moyenne, Chaotique Mauvais</em>
 <hr>
-<strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 120 (16d8 + 48)<br>
-<strong>Speed</strong> 30 ft., fly 50 ft. (hover)
+<strong>Classe d'Armure</strong> 15 (armure naturelle)
+<br>
+<strong>Points de vie</strong> 37 (5d8 + 15)
+<br>
+<strong>Vitesse</strong> 4,5 m, vol 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>10 (+0)</td>
-      <td>12 (+1)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
-<strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-<strong>Damage Vulnerabilities</strong> lightning, necrotic<br>
-<strong>Damage Immunities</strong> bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Condition Immunities</strong> grappled, prone, restrained<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 8 (3,900 XP)<br>
-<strong>Proficiency Bonus</strong> +3
-<hr>
-<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Cold Sensitivity.</em></strong> When Ludmilla takes cold damage, she freezes into a corporeal form until the start of her next turn. While frozen in this way, she loses the attributes of her Mistform feature, loses her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons, gains vulnerability to bludgeoning and thunder damage, loses her immunity to the grappled, prone, and restrained conditions, and loses her fly speed.</p>
-<p><strong><em>Mistsight.</em></strong> While within fog, Ludmilla has blindsight that extends to the edge of the fog, out to a maximum of 60 feet.
-<p><strong><em>Mistform.</em></strong> Ludmilla can enter and occupy the space of another creature, and can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. She can't fall, and remains hovering in the air even when stunned or otherwise incapacitated. However, while making a melee attack or grappling a target, Ludmilla loses these attributes, as well as her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons and loses her immunity to the grappled, prone, and restrained conditions.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ludmilla makes two attacks with her claws. She can replace one attack with a mist shards or bite attack.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) necrotic damage. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
-<p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Dissipate.</em></strong> If Ludmilla is heavily obscured by mist or fog, she takes the Hide action.
-<p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, can't breathe (but can hold its breath), and has a number of levels of exhaustion equal to three minus the number of minutes of air it has left (minimum 0). In addition, a target surrounded by this vacuum must succeed on a DC 14 Constitution saving throw at the end of each of its turns or lose 1 minute of air on a failure.<br>&nbsp;&nbsp;&nbsp;&nbsp;The target loses all levels of exhaustion gained in this way if it falls unconscious or the vacuum disappears. The vacuum disappears if Ludmilla takes the Hide action or if the target is ever behind full cover or more than 30 feet away from her.</p>
-<h3>Reactions</h3>
-<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Fog Cloud.</em></strong> In response to taking damage, Ludmilla casts <em>fog cloud</em> without concentration.
-<p><strong><em>Poison Mist.</em></strong> In response to taking damage from a creature within 5 feet, Ludmilla forces that creature to succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or take 7 (2d6) poison damage.</p>
-<p><strong><em>Ambush.</em></strong> In response to hearing or seeing a creature move within 30 feet while she's hidden, Ludmilla moves up to her speed toward it and attacks it with her claws.</p>
-</div>
-<br>
-
-<div class="statblock">
-<h2>Gargoyle</h2>
-<em>Medium Elemental, Chaotic Evil</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)
-<br>
-<strong>Hit Points</strong> 37 (5d8 + 15)
-<br>
-<strong>Speed</strong> 15 ft., fly 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="STR">16 (+3)</td>
+      <td data-label="FOR">16 (+3)</td>
       <td data-label="DEX">8 (-1)</td>
       <td data-label="CON">16 (+3)</td>
       <td data-label="INT">6 (-2)</td>
-      <td data-label="WIS">11 (+0)</td>
+      <td data-label="SAG">11 (+0)</td>
       <td data-label="CHA">7 (-2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Damage Resistances</strong> piercing and slashing from nonmagical attacks that aren't adamantine<br>
-<strong>Damage Vulnerabilities</strong> thunder<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> exhaustion, petrified, poisoned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Terran<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Résistances aux dégâts</strong> perforant et tranchant des attaques non magiques qui ne sont pas en adamantine<br>
+<strong>Vulnérabilités aux dégâts</strong> tonnerre<br>
+<strong>Immunités aux dégâts</strong> poison<br>
+<strong>Immunités aux états</strong> épuisement, pétrifié, empoisonné<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 10<br>
+<strong>Langues</strong> terran<br>
+<strong>Défi</strong> 2<br>
+<strong>Bonus de maîtrise</strong> +2<br>
 <hr>
-<p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
-<p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<p><strong><em>Cold Shift.</em></strong> If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
-<p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
-<p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
+<p><strong><em>Fausse apparence.</em></strong> Tant que la gargouille reste immobile, elle est indiscernable d'une statue inanimée.</p>
+<p><strong><em>Décalage chaud.</em></strong> Si la gargouille subit des dégâts de feu, elle brille de chaleur jusqu'à la fin de son prochain tour. Pendant qu'elle brille, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de feu supplémentaires en cas de touché. Pendant qu'elle brille, la gargouille gagne une vulnérabilité aux dégâts de froid et cesse immédiatement de briller si elle subit des dégâts de froid.</p>
+<p><strong><em>Décalage froid.</em></strong> Si la gargouille subit des dégâts de froid, elle se recouvre de givre jusqu'à la fin de son prochain tour. Pendant qu'elle est givrée, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de froid supplémentaires en cas de touché. Pendant qu'elle est givrée, la gargouille gagne une vulnérabilité aux dégâts de feu et le givre disparaît si elle subit des dégâts de feu.</p>
+<p><strong><em>Corps de pierre.</em></strong> Si la gargouille subit des dégâts de froid alors qu'elle brille, des dégâts de feu alors qu'elle est givrée, des dégâts contondants d'un coup critique ou des dégâts du sort <em>fracasser</em> ou d'une magie similaire, ses ailes se brisent, lui faisant perdre sa vitesse de vol.</p>
+<p><strong><em>Attrapeur.</em></strong> La gargouille bénéficie d'un avantage aux jets d'attaque contre une créature qu'elle a empoignée.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gargoyle makes two attacks: one with its bite and one with its claws.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
+<p><strong><em>Attaques multiples.</em></strong> La gargouille effectue deux attaques : une avec son mordre et une avec ses griffes.</p>
+<p><strong><em>Mordre.</em></strong> <em>Attaque d'arme au corps à corps :</em> +5 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque d'arme au corps à corps :</em> +5 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts tranchants. Au lieu d'infliger des dégâts, la gargouille peut empoigner la cible (DD 13 pour se libérer).</p>
 </div>
 
-> [!info]+ **Ascending the Landing**
-> Players who ascend <span class="citation">K19. Grand Landing (p. 58)</span> reach [[#Audience Hall]].
+> [!info]+ **Monter au palier**
+> Les joueurs qui montent <span class="citation">K19. Grand palier (p. 58)</span> atteignent [[Arc P - Cambriolage de Ravenloft#Salle d'audience|Salle d'audience]].
 
-> [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P11. Dungeons]] via [[#Dungeon Hall]].
+> [!info]+ **Escalier de la Tour Sud**
+> ***S2E.*** Les joueurs qui descendent deux volées d'escaliers <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des communs du château et entrent dans [[#P11. Cachots]] via [[Arc P - Cambriolage de Ravenloft#P11a. Salle des Cachots|Salle des Cachots]].
 >
-> ***B1F.*** Players who descend one flight of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
+> ***S1E.*** Les joueurs qui descendent une volée d'escaliers <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des communs du château et entrent dans [[#P5. Aile des Serviteurs]] via [[#Salle de l'Ascenseur]].
 >
-> ***3F.*** Players who ascend two flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P6. King’s Apartments]] via [[#Guardian Vermin]].
+> ***3E.*** Les joueurs qui montent deux volées d'escaliers <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des communs du château et entrent dans [[#P6. Appartements du Roi]] via [[Arc P - Cambriolage de Ravenloft#Antichambre du Roi|Antichambre du Roi]].
 >
-> ***4F.*** Players who ascend three flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P8. Guest Suite]] via [[#Guest Landing]].
-### Dining Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
+> ***4E.*** Les joueurs qui montent trois volées d'escaliers <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des communs du château et entrent dans [[Arc P - Cambriolage de Ravenloft#P8. Suite d'Invités|Suite d'Invités]] via [[Arc P - Cambriolage de Ravenloft#P8a. Palier des Invités|Palier des Invités]].
+### Salle à Manger
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K10.</em></span>
 
-This area is largely as described in <span class="citation">K10. Dining Hall (p. 56)</span>. However, there is no illusion of Strahd sitting at the organ. In addition, revise the area’s description to read as follows:
-
-<div class="description">
-<p>Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. At the center of the far west wall, between floor-to-ceiling mirrors, stands a massive organ, its once-thunderous pipes now plunged into a deep, unsettling silence.</p>
-<p>No food stands upon the table. Instead, a woman’s corpse lies limply across its surface.</p>
-</div>
-
-The woman’s corpse is an illusion created by the *major image* spell, and resembles a nondescript Barovian woman in her twenties. If the players touch it or interact with it in any way, it vanishes. The events described in <span class="citation">K10. Dining Hall (p. 56)</span> following the illusion’s disappearance then occur, including the “fierce, bone-chilling wind," then occur. Read:
+Cette zone est en grande partie telle que décrite dans <span class="citation">K10. Salle à Manger (p. 56)</span>. Cependant, il n'y a pas d'illusion de Strahd assis à l'orgue. De plus, révisez la description de la zone comme suit :
 
 <div class="description">
-<p>A fierce, bone-chilling wind rises up and roars through the hall, extinguishing every open flame and plunging the majestic hall into darkness. Ancient hinges screech, and the air is briefly filled with the sounds of many heavy doors slamming shut, one after another, into the distance.</p>
+<p>Trois énormes lustres en cristal illuminent brillamment cette magnifique salle. Des piliers de pierre se dressent contre les murs en marbre blanc mat, supportant le plafond. Au centre de la pièce, une longue et lourde table est recouverte d'une fine nappe de satin blanc. Au centre du mur ouest, entre des miroirs du sol au plafond, se dresse un orgue massif, ses tuyaux jadis tonnants plongés dans un silence profond et inquiétant.</p>
+<p>Aucune nourriture ne repose sur la table. Au lieu de cela, le cadavre d'une femme gît mollement sur sa surface.</p>
 </div>
 
-> [!info]+ **Behind the Organ**
-> Players who enter the secret door behind the organ exit the castle commons and enter [[#P10. Garrison]] via [[#First Floor South Archers’ Post]].
-### Hall of Faith
-<span class="citation"><em>This scene takes place in Chapter 4, Area K14.</em></span>
-
-This area is as described in <span class="citation">K14. Hall of Faith (p. 57)</span>. 
-### Chapel
-#### Nave & Chancel
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K15, K16, and K17.</em></span>
-
-This area is largely as described in <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, and <span class="citation">K17. South Chapel Access (p. 58)</span>. However, remove the last two sentences from the description of <span class="citation">K15. Chapel (p. 57)</span>. 
-
-Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of the chapel's description:
+Le cadavre de la femme est une illusion créée par le sort *image majeure*, et ressemble à une femme barovienne sans distinction dans la vingtaine. Si les joueurs le touchent ou interagissent avec lui de quelque manière que ce soit, il disparaît. Les événements décrits dans <span class="citation">K10. Salle à Manger (p. 56)</span> suite à la disparition de l'illusion se produisent alors, y compris le "vent féroce et glacial", puis se produisent. Lisez :
 
 <div class="description">
-<p>A thin cloud of fog shrouds the chapel floor.</p>
+<p>Un vent féroce et glacial se lève et rugit à travers la salle, éteignant chaque flamme ouverte et plongeant la majestueuse salle dans l'obscurité. D'anciennes gonds grincent, et l'air est brièvement rempli des bruits de nombreuses lourdes portes qui claquent les unes après les autres, dans le lointain.</p>
 </div>
 
-If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
+> [!info]+ **Derrière l'Orgue**
+> Les joueurs qui entrent par la porte secrète derrière l'orgue sortent des communs du château et entrent dans [[#P10. Garnison]] via [[#Poste des Archers du Sud au Premier Étage]].
+### Salle de la Foi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K14.</em></span>
 
-Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they enter <span class="citation">K15. Chapel (p. 57)</span>. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
+Cette zone est telle que décrite dans <span class="citation">K14. Salle de la Foi (p. 57)</span>.
+### Chapelle
+#### Nef et Chœur
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K15, K16 et K17.</em></span>
 
-> [!warning]+ **Ezmerelda's *Holy Water***
-> Don't forget Ezmerelda's six *vials of holy water*, which she freely offers to the players as-needed to weaken Ludmilla's ***shroud of shadows***.
+Cette zone est en grande partie telle que décrite dans <span class="citation">K15. Chapelle (p. 57)</span>, <span class="citation">K16. Accès Nord à la Chapelle (p. 58)</span> et <span class="citation">K17. Accès Sud à la Chapelle (p. 58)</span>. Cependant, supprimez les deux dernières phrases de la description de <span class="citation">K15. Chapelle (p. 57)</span>.
 
-> [!info]+ **The High Tower**
-> Players who ascend the high tower staircase reach the high tower peak, which is largely as described in <span class="citation">K59. High Tower Peak (p. 73)</span>, except Pidlwick II cannot be found there.
+De plus, si les joueurs ont rencontré Ludmilla dans [[#Grand Vestibule]], ajoutez la phrase suivante à la fin de la description de la chapelle :
+
+<div class="description">
+<p>Un mince nuage de brume flotte sur le sol de la chapelle.</p>
+</div>
+
+Si Ludmilla a réussi à voler le *Saint Symbole de Ravenkind*, il est suspendu à un carreau de fenêtre brisé derrière l'autel, à neuf mètres du sol.
+
+
+
+Ludmilla a lancé *forme gazeuse* et s'est dissimulée à un endroit aléatoire dans le nuage de brume. Elle révèle sa véritable forme et attaque les joueurs peu après qu'ils entrent dans <span class="citation">K15. Chapelle (p. 57)</span>. Trop fière pour battre en retraite - et consciente du déplaisir de Strahd si elle échouait à nouveau - elle se bat jusqu'à la mort.
+
+> [!warning]+ **Eau Bénite d'Ezmerelda**
+> N'oubliez pas les six *fioles d'eau bénite* d'Ezmerelda, qu'elle offre librement aux joueurs au besoin pour affaiblir le ***voile d'ombres*** de Ludmilla.
+
+> [!info]+ **La Tour Haute**
+> Les joueurs qui montent les escaliers de la haute tour atteignent le sommet de la haute tour, qui est largement décrit dans <span class="citation">K59. Sommet de la Haute Tour (p. 73)</span>, à l'exception de Pidlwick II qui ne peut pas y être trouvé.
 >
-> Players who descend the high tower staircase are obstructed by the masonry wall described in <span class="citation">K18. High Tower Staircase (p. 58)</span>. Players who bypass the wall and continue to descend exit the castle commons and enter [[#P12. Castle Crypts]] via [[#P12a. Catacombs]].
-#### Chapel Stairs
-<span class="citation"><em>This scene takes place in Chapter 4, Area K29.</em></span>
+> Les joueurs qui descendent les escaliers de la haute tour sont obstrués par le mur de maçonnerie décrit dans <span class="citation">K18. Escalier de la Haute Tour (p. 58)</span>. Les joueurs qui contournent ce mur et continuent à descendre sortent des communs du château et entrent dans [[Arc P - Ravenloft Heist#P12. Catacombs|les Cryptes du Château]] via [[Arc P - Ravenloft Heist#P12. Catacombes|P12. Catacombes]].
 
-This area is as described in <span class="citation">K29. Creaky Landing (p. 62)</span>.
-#### Chapel Balcony
-<span class="citation"><em>This scene takes place in Chapter 4, Area K28.</em></span>
+#### Escaliers de la Chapelle
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K29.</em></span>
 
-This area is largely as described in <span class="citation">K28. King’s Balcony (p. 62)</span>. However, remove the two **Strahd zombies**.
+Cette zone est telle que décrite dans <span class="citation">K29. Palier Grinçant (p. 62)</span>.
 
-Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of this area's description:
+#### Balcon de la Chapelle
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K28.</em></span>
 
-<div class="description">
-<p>A thin cloud of fog shrouds the chapel floor below.</p>
-</div>
+Cette zone est en grande partie telle que décrite dans <span class="citation">K28. Balcon du Roi (p. 62)</span>. Cependant, retirez les deux **zombies de Strahd**.
 
-If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
-
-Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they descend into <span class="citation">K15. Chapel (p. 57)</span>, or if they somehow manage to retrieve the *Holy Symbol* from atop the balcony. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
-## P4b. Castle Commons, Second Floor 
-### Audience Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
-
-This area is largely as described in <span class="citation">K25. King’s Balcony (p. 61)</span>. However, if Ludmilla has passed through here, the doors leading to <span class="citation">K27. King’s Hall (p. 62)</span> are slightly ajar.
-
-> [!info]+ **Secret Door**
-> Players who find and enter the secret door behind the throne exit the castle commons and enter [[#P10. Garrison]] via [[#Second Floor South Archers' Post Access Hall]].
-### Accountant’s Office
-<span class="citation"><em>This scene takes place in Chapter 4, Area K30.</em></span>
-
-This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
+De plus, si les joueurs ont rencontré Ludmilla dans [[#Main Foyer]], ajoutez la phrase suivante à la fin de la description de cette zone :
 
 <div class="description">
-<p>The corpselike figure atop the stool is—or once was—an elderly man, clad in a high-collared, once-crisp white shirt, a deep brown vest, and a light pink ascot, all of which have grown faded and rotted with the ravages of age. His thinning, white-haired combover is neatly parted over his pallid, wrinkled forehead, and his gaunt, ash-gray face is framed by an impressively thick pair of mutton chops. His near-skeletal hands tremble slightly as he scribbles along a crumbling parchment scroll, his gray eyes never once flickering in your direction.</p>
+<p>Un mince nuage de brume voile le sol de la chapelle en dessous.</p>
 </div>
+
+Si Ludmilla a réussi à voler le *Symbole Sacré de Ravenkind*, il est accroché à un carreau de fenêtre brisé derrière l'autel, à neuf mètres au-dessus du sol.
+
+Ludmilla a lancé *forme gazeuse* et s'est dissimulée à un endroit aléatoire dans le nuage de brume. Elle révèle sa véritable forme et attaque les joueurs peu après qu'ils descendent dans <span class="citation">K15. Chapelle (p. 57)</span>, ou s'ils parviennent d'une manière ou d'une autre à récupérer le *Symbole Sacré* du haut du balcon. Trop fière pour battre en retraite - et consciente du déplaisir de Strahd si elle échouait à nouveau - elle se bat jusqu'à la mort.
+
+## P4b. Communs du Château, Deuxième Étage
+### Salle d'Audience
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K25.</em></span>  
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K25. Salle d'Audience (p. 61)</span>. Cependant, si Ludmilla est passée par ici, les portes menant à <span class="citation">K27. Salle du Roi (p. 62)</span> sont légèrement entrouvertes.
+
+> [!info]+ **Porte Secrète**
+> Les joueurs qui trouvent et empruntent la porte secrète derrière le trône sortent des communs du château et entrent dans [[#P10. Garnison]] via [[Arc P - Ravenloft Heist#Second Floor South Archers' Post Access Hall|le Couloir d'Accès au Poste d'Archers Sud du Deuxième Étage]].
+
+### Bureau du Comptable
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K30.</em></span>
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K30. Comptable du Roi (p. 62)</span>. Cependant, Lief Lipsiege est un **spectre** neutre loyal sans attaques. Lorsque les joueurs l'approchent, le remarquent ou interagissent avec lui pour la première fois, lisez :
+
+<div class="description">
+<p>La figure cadavérique sur le tabouret est - ou était autrefois - un homme âgé, vêtu d'une chemise blanche à col montant, autrefois impeccable, d'un gilet marron foncé et d'une lavallière rose pâle, le tout devenu terne et pourri par l'usure du temps. Sa coiffure clairsemée aux cheveux blancs est soigneusement séparée sur son front pâle et ridé, et son visage émacié et gris cendré est encadré d'une paire impressionnante de favoris. Ses mains presque squelettiques tremblent légèrement pendant qu'il griffonne sur un parchemin délabré, ses yeux gris ne papillonnant jamais dans votre direction.
+</div>
+
+
 
 > [!lore]+ **Lief Lipsiege**
-> When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
+> Lorsque Khazan est devenu le conseiller arcane de Strahd il y a quatre siècles, Strahd avait déjà les services supplémentaires de Lief Lipsiege, un vieux maître comptable entièrement dévoué à son travail. Ne voulant pas perdre les services de Lief quand il mourrait, Strahd — après avoir promis que le salaire de Lief continuerait à financer ses frères et sœurs et leurs descendants — a travaillé avec Khazan pour transformer Lief en **morte-vivante**, lui permettant ainsi de poursuivre son travail de toute une vie même dans la mort. Depuis lors, Lief a servi docilement Strahd comme comptable, bien que son esprit se soit éparpillé et que sa mémoire soit pleine de trous au fil des nombreuses années écoulées depuis sa mort.
 
-Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
+Lief n'est pas enchaîné à son bureau en bois. Cependant, il ne quittera pas la pièce volontairement sous aucun prétexte.
 
-If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of <span class="citation">K41. Treasury (p. 67)</span>, rather than that of the *Holy Symbol of Ravenkind*. Read:
-
-<div class="description">
-<p>"If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."</p>
-</div>
-
-Lief then continues to ramble. If stopped and further questionned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
-
-If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
-### King’s Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
-
-This area is largely as described in <span class="citation">K27. King’s Hall (p. 62)</span>, including the <span class="citation">Flight of the Vampire (p. 61)</span> event. However, this room now contains the tapestry described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>. Add the description of that tapestry to the end of this area’s description.
-
-A player can find the secret door described in <span class="citation">K27. King’s Hall (p. 61)</span> behind the tapestry of King Barov and his army. The secret door can be found as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>, or by spending 1 minute searching the wall for hidden doors.
-
-> [!info]+ **Shaft Door**
-> Players who find and enter the secret door behind the tapestry exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Second-Floor Elevator Access]].
-# P5. Servants’ Wing
-This area of the castle, including the servants’ entrance, the servants’ quarters on the first and second floor, the castle elevator shaft, and the servants’ hall, wine cellar, and kitchen in the basement, once served as the main hub of servant activity in the castle. From here, Rahadin or the castle butler oversaw castle operations or dispatched servants to the far corners of the keep, including the royal apartments, the guest suite, or the guards’ garrison.
-## P5a. Servants’ Wing, First Floor
-### Servants’ Entrance
-<span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
-
-This area is largely as described in <span class="citation">K23. Servants’ Entrance (p. 59)</span>. However, add the following to the end of this area’s description:
+Si on le traite avec gentillesse et qu'on le laisse divaguer au sujet des richesses diverses de Strahd, de ses conquêtes et de ses évaluations fiscales, Lief finit par mentionner (accidentellement) l'emplacement du <span class="citation">K41. Trésor (p. 67)</span>, plutôt que celui du *Symbole Sacré de Ravenkind*. Lire :
 
 <div class="description">
-<p>A withered corpse lies slumped against the table, unmoving. A dried trail of blood leads from it to the steps leading down.</p>
+<p>"Si seulement le comte Strahd me laissait bien répertorier les objets qu'il a ajoutés à l'ancien trésor au fil des ans", grommelle Lief. "Trop de babioles et de bricoles, le tout couvert de poussière. Aucune entrée dans le grand livre, aucun total, et il s'attend à ce que les chiffres correspondent !" Le vieux morte-vivante se gratte le menton en grognant. "Au moins la vieille fille veille sur eux, bénissez son cœur. Une bien triste histoire quand elle était en vie, cela dit. Une véritable honte."</p>
 </div>
 
-Four puncture wounds disfigure the corpse’s neck. A player who succeeds on a DC 10 Wisdom (Medicine) check learns that the corpse has been exsanguinated. (The corpse was left here by the two **vampire spawn** lurking in the [[#Wine Cellar]].)
-### Servants’ Quarters
-<span class="citation"><em>This scene takes place in Chapter 4, Area K24.</em></span>
+Lief continue ensuite à divaguer. Si on l'arrête et qu'on l'interroge davantage sur "la vieille fille" qu'il a mentionnée, Lief fait une pause pour se rappeler, puis se souvient à voix haute qu'elle était "la femme aux cheveux roux". Si Ireena est présente, il pointe un doigt décharné dans sa direction et ajoute : "Comme elle". (Bien qu'il ne se souvienne pas de son nom ou de ce qui lui est arrivé, Lief fait référence au portrait de Tatyana Federovna.)
 
-This area is as described in <span class="citation">K24. Servants’ Quarters (p. 61)</span>.
-## P5b. Servants’ Wing, Second Floor
-### Servants’ Upper Floor
-<span class="citation"><em>This scene takes place in Chapter 4, Area K34.</em></span>
+Si on lui demande comment accéder à "l'ancien trésor", Lief n'est disposé à aider les joueurs que s'ils promettent d'abord de répertorier et de consigner entièrement les objets qui s'y trouvent, et d'éviter d'en prendre pour eux-mêmes. ("Le comte Strahd finit toujours par le découvrir", souffle-t-il en agitant un doigt osseux dans leur direction.) Les joueurs qui ont l'intention de voler le trésor peuvent convaincre Lief de leur bonne foi en réussissant un jet de Charisme (Tromperie) de DD 12. S'ils réussissent, Lief admet, confus, qu'il ne se souvient pas de la bonne façon d'y entrer, mais se rappelle que cela impliquait de "piquer" quelque chose dans l'étude du troisième étage. (Lief ne s'en souvient pas, mais il fait référence au mécanisme du tisonnier près de la cheminée dans le <span class="citation">K37. Étude (p. 66)</span>.)
+### Salle du Roi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K27.</em></span>
 
-This area is as described in <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>.
+Cette zone est en grande partie telle que décrite dans le <span class="citation">K27. Salle du Roi (p. 62)</span>, y compris l'événement du <span class="citation">Vol du Vampire (p. 61)</span>. Cependant, cette pièce contient désormais la tapisserie décrite dans le <span class="citation">K83a. Palier de l'Escalier en Colimaçon (p. 85)</span>. Ajoutez la description de cette tapisserie à la fin de la description de cette zone.
 
-> [!info]+ **North Tower Secret Door**
-> Players who find and pass through the secret door here exit the servants’ wing and enter [[#P10. Garrison]] via [[#Servants’ Landing]].
-### Second-Floor Elevator Access
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K31 and K31a.</em></span>
+Un joueur peut trouver la porte secrète décrite dans le <span class="citation">K27. Salle du Roi (p. 61)</span> derrière la tapisserie représentant le roi Barov et son armée. La porte secrète peut être trouvée comme décrit dans <span class="citation">Les Terres de Barovia : Caractéristiques Communes (p. 33)</span>, ou en passant 1 minute à chercher des portes cachées dans le mur.
 
-This area is as described in <span class="citation">K31. Trapworks (p. 63)</span> and <span class="citation">K31a. Elevator Shaft (p. 63)</span>.
 
-> [!lore]+ **The Elevator**
-> The elevator trap was once a proper elevator, designed by the genius toymaker Fritz von Weerg. In its heyday, servants used it to reach the [[#King’s Hall]] (for access to the [[#Audience Hall]] and [[#Chapel Balcony]]), [[#Belfry Access Hall]] (to ring the bell to mark meals, mornings, emergencies, and other occasions), and [[#P8. Guest Suite]] (to deliver meals to visiting guests and dignitaries). After he became a vampire, however, Strahd turned the elevator into a trap for thieves and vampire hunters.
->
-> A player who inspects the machinery here and succeeds on a DC 15 Intelligence (Investigation) check discerns that the elevator has been reconfigured to be activated by a trigger mechanism elsewhere in the castle. A player who subsequently succeeds on a DC 20 Dexterity (Thieves or Tinkers’ Tools) check can manually activate the elevator mechanism, causing the elevator to rise or descend to any accessible floor. (A player who activates the elevator in this way before entering it must succeed on a DC 15 Dexterity saving throw to enter the elevator before it departs.)
 
-> [!info]+ **Second-Floor Shaft Access**
-> Players who find and pass through the secret door exit the servants’ wing and enter [[#P4. Castle Commons]] via [[#King’s Hall]].
-## P5d. Servants’ Wing, Third Floor
-### Third-Floor Elevator Access
-<span class="citation"><em>This scene takes place in Chapter 4, Area K31b.</em></span>
+> [!info]+ **Porte du puits**
+> Les joueurs qui trouvent et entrent par la porte secrète derrière la tapisserie quittent les communs du château et entrent dans [[#P5. Aile des serviteurs]] via [[#Accès à l'élévateur du deuxième étage]].
+# P5. Aile des serviteurs
+Cette zone du château, comprenant l'entrée des serviteurs, les quartiers des serviteurs aux premier et deuxième étages, le puits de l'ascenseur du château et la salle des serviteurs, la cave à vin et la cuisine au sous-sol, servait autrefois de plaque tournante principale de l'activité des serviteurs dans le château. De là, Rahadin ou le majordome du château supervisait les opérations du château ou dépêchait les serviteurs dans les coins les plus reculés du donjon, y compris les appartements royaux, la suite d'invités ou la garnison des gardes.
+## P5a. Aile des serviteurs, premier étage
+### Entrée des serviteurs
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K23.</em></span>
 
-This area is as described in <span class="citation">K31b. Shaft Access (p. 64)</span>.
-
-> [!info]+ **Third-Floor Shaft Access**
-> Players who find and pass through the secret door exit the servants’ wing and enter [[#P7. Bell Tower]] via [[#P7b. Belfry Access Hall]].
-## P5d. Servants’ Wing, Basement Floor
-### Servants’ Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K62.</em></span>
-
-This area is largely as described in <span class="citation">K62. (p. 76)</span>. However, revise this area's description as follows:
+Cette zone est largement telle que décrite dans <span class="citation">K23. Entrée des serviteurs (p. 59)</span>. Cependant, ajoutez ce qui suit à la fin de la description de cette zone :
 
 <div class="description">
-<p>Heavy beams support the sagging, ten-foot-high ceiling of this long hall, its mortared walls illuminated by flickering torchlight. Fog clings to the floor, obscuring everything that lies less than three feet above it.</p>
-<p> At the left end of the hall stands a pair of wooden doors, their heavy planks banded with steel. At the right end stands a raised metal portcullis, beyond which lies a dark wine cellar. Three doors stand along the opposite wall beside a dark, ascending staircase. The middle door is open, flickering crimson light spilling forth onto the cold stone floor beside it.</p>
-<p>A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you.</p>
+<p>Un cadavre desséché est avachi contre la table, immobile. Une traînée de sang séché mène de lui aux marches descendant.</p>
 </div>
 
-The figure is Cyrus, as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus does not try to escort the players to the guest suite, nor does he know of the elevator trap. 
+Quatre blessures par piqûre défigurent le cou du cadavre. Un joueur qui réussit un jet de Sagesse (Médecine) DD 10 apprend que le cadavre a été exsangue. (Le cadavre a été laissé ici par les deux **vampires engendrés** se cachant dans la [[#Cave à vin]].)
+### Quartiers des serviteurs
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K24.</em></span>
 
-> [!profile]+ **Profile: Cyrus Belview**
-> **Roleplaying Information**
-> ***Resonance.*** Cyrus should inspire endearment for his sincere efforts to make himself useful despite his physical handicaps and poor memory, amusement for his grumpiness and bizarrely opinionated (and occasionally conspiratorial) rants, and discomfort with his inability to appreciate the boundaries of personal space.
+Cette zone est telle que décrite dans <span class="citation">K24. Quartiers des serviteurs (p. 61)</span>.
+## P5b. Aile des serviteurs, deuxième étage
+### Étage supérieur des serviteurs
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K34.</em></span>
+
+Cette zone est telle que décrite dans <span class="citation">K34. Étage supérieur des serviteurs (p. 64)</span>.
+
+> [!info]+ **Porte secrète de la tour nord**
+> Les joueurs qui trouvent et passent par la porte secrète ici quittent l'aile des serviteurs et entrent dans [[#P10. Garnison]] via [[#Palier des serviteurs]].
+### Accès à l'élévateur du deuxième étage
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K31 et K31a.</em></span>
+
+Cette zone est telle que décrite dans <span class="citation">K31. Mécanismes de piège (p. 63)</span> et <span class="citation">K31a. Puits d'ascenseur (p. 63)</span>.
+
+> [!lore]+ **L'élévateur**
+> Le piège de l'ascenseur était autrefois un véritable ascenseur, conçu par l'ingénieux fabricant de jouets Fritz von Weerg. À son apogée, les serviteurs l'utilisaient pour accéder à la [[#Salle du roi]] (pour accéder à la [[#Salle d'audience]] et au [[#Balcon de la chapelle]]), au [[Arc P - Ravenloft Heist#P7b. Couloir d'accès au beffroi|Couloir d'accès au beffroi]] (pour sonner la cloche marquant les repas, les matins, les urgences et autres occasions), et à la [[#P8. Suite d'invités]] (pour apporter des repas aux invités et dignitaires de passage). Cependant, après être devenu vampire, Strahd a transformé l'ascenseur en un piège pour les voleurs et les chasseurs de vampires.
 >
-> ***Emotions.*** Cyrus most often feels curious, intrigued, determined, agitated, impatient, or skeptical.
+> Un joueur qui inspecte la machinerie ici et réussit un jet d'Intelligence (Investigation) DD 15 discerne que l'ascenseur a été reconfiguré pour être activé par un mécanisme de déclenchement ailleurs dans le château. Un joueur qui réussit ensuite un jet de Dextérité (Outils de voleur ou d'artisan) DD 20 peut activer manuellement le mécanisme de l'ascenseur, faisant monter ou descendre l'ascenseur à n'importe quel étage accessible. (Un joueur qui active l'ascenseur de cette manière avant d'y entrer doit réussir un jet de sauvegarde de Dextérité DD 15 pour entrer dans l'ascenseur avant qu'il ne parte.)
+
+> [!info]+ **Accès au puits du deuxième étage**
+> Les joueurs qui trouvent et passent par la porte secrète quittent l'aile des serviteurs et entrent dans [[#P4. Communs du château]] via [[#Salle du roi]].
+## P5c. Aile des serviteurs, troisième étage
+### Accès à l'élévateur du troisième étage
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K31b.</em></span>
+
+Cette zone est telle que décrite dans <span class="citation">K31b. Accès au puits (p. 64)</span>.
+
+
+
+> [!info]+ **Accès au puits d'étage du troisième**
+> Les joueurs qui trouvent et passent par la porte secrète sortent de l'aile des domestiques et entrent dans [[#P7. Tour du Beffroi]] via [[#P7b. Couloir d'accès au beffroi]].
+## P5d. Aile des domestiques, sous-sol
+### Salle des domestiques
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K62.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K62. (p. 76)</span>. Cependant, révisez la description de cette zone comme suit :
+
+<div class="description">
+<p>De lourdes poutres soutiennent le plafond affaissé de 3 mètres de hauteur de ce long couloir, ses murs de mortier illuminés par la lueur vacillante des torches. Un brouillard s'accroche au sol, obscurcissant tout ce qui se trouve à moins de 90 cm au-dessus.</p>
+<p>À l'extrémité gauche du couloir se dresse une paire de portes en bois, leurs lourdes planches cerclées d'acier. À l'extrémité droite se dresse une herse métallique surélevée, au-delà de laquelle se trouve une cave à vin sombre. Trois portes se dressent le long du mur opposé à côté d'un escalier sombre montant. La porte du milieu est ouverte, une lumière rouge vacillante se déversant sur le sol de pierre froide à côté.</p>
+<p>Une ombre géante se traîne au plafond alors qu'une silhouette sombre avance avec détermination dans le couloir vers vous.</p>
+</div>
+
+La silhouette est Cyrus, comme décrit dans <span class="citation">K62. Salle des domestiques (p. 76)</span>. Cependant, Cyrus n'essaie pas d'escorter les joueurs vers la suite d'invités, et il n'est pas au courant du piège de l'ascenseur.
+
+> [!profile]+ **Profil : Cyrus Belview**
+> **Informations de jeu de rôle**
+> ***Résonance.*** Cyrus devrait inspirer de l'affection pour ses efforts sincères pour se rendre utile malgré ses handicaps physiques et sa mauvaise mémoire, de l'amusement pour sa grognonnerie et ses diatribes bizarrement dogmatiques (et parfois complotistes), et un malaise avec son incapacité à apprécier les limites de l'espace personnel.
 >
-> ***Inspirations.*** When playing Cyrus, channel Ebenezar Scrooge (*A Christmas Carol*), Grandpa Simpson (*The Simpsons*), and Grand Maester Pycelle (*Game of Thrones*).
+> ***Émotions.*** Cyrus se sent le plus souvent curieux, intrigué, déterminé, agité, impatient ou sceptique.
 >
-> **Character Information**
-> ***Persona.*** To the world, Cyrus is a doddering old butler with an affinity for conspiratorial rants. To those he trusts—and in his moments of lucidity—Cyrus is a sad old man who has long since resigned himself to the belief that his family is forever damned for their ancestors’ sins.
+> ***Inspirations.*** En jouant Cyrus, canalisez Ebenezer Scrooge (*Un chant de Noël*), Grand-père Simpson (*Les Simpson*) et le Grand Mestre Pycelle (*Game of Thrones*).
 >
-> ***Morale.*** In a fight, Cyrus would cower in a corner, brandishing any nearby object as an impromptu weapon but immediately surrendering if actually wounded.
+> **Informations sur le personnage**
+> ***Persona.*** Pour le monde, Cyrus est un vieux majordome radoteur avec une affinité pour les diatribes complotistes. Pour ceux en qui il a confiance - et dans ses moments de lucidité - Cyrus est un vieux homme triste qui a depuis longtemps renoncé à la croyance que sa famille est à jamais damnée pour les péchés de ses ancêtres.
 >
-> ***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
-#### A Favor for Cyrus
-If Cyrus already encountered any players the [[Arc O - Dinner with the Devil]], he greets them with a wary familiarity and murmurs that “the Master will not be pleased if he finds uninvited guests mucking about, oh no." If he has not, he shrieks, falls to his knees, and pleads for the “nice, kind burglars to spare old Cyrus." 
-
-In either case, once Cyrus has confirmed that the players are no danger to him, he suspiciously asks to know their business in the castle, then immediately insists that they not tell him. “Plausible deniability; that’s what my grandmammy always told me," he grunts. “Tell me no truths, and I won’t tell no one no lies."
-
-If the players seem friendly, Cyrus asks them to retrieve his “favorite cooking spoon" from the old garrison (see [[#P10. Garrison]]). “Saw one of those shamblers grab it, then vanish through those doors," he says, pointing to the doors to <span class="citation">K67. Hall of Bones (p. 78).</span>. (The “shambler" Cyrus is referring to is a **zombie**. Cyrus has seen numerous zombies wandering the lower halls recently, and is too frightened of them to enter the garrison himself.) In exchange for this favor, Cyrus promises to draw the players a rough map of the castle once his spoon is returned to him.
-
-> [!info]+ **Cyrus’s Map**
-> If the players retrieve his favorite cooking spoon, Cyrus can draw them a simple boxes-and-lines map with the following details:
+> ***Moral.*** Dans un combat, Cyrus se recroquevillerait dans un coin, brandissant tout objet à proximité comme une arme improvisée mais se rendant immédiatement s'il était réellement blessé.
 >
-> * The players are in the **Servants’ Wing**, which connects to (1) the **Garrison** via the **Hall of Bones**, and (2) the **Main Entry** via the **South Tower Stair**. (Cyrus doesn’t know what lies in the **Garrison**. He knows only that the **Main Entry** leads to the **Chapel**, the **Audience Hall**, and the **Dining Hall**.)
-> * The **South Tower Stair** leads to the top of the castle, passing the **Main Entry** on the first floor, the **Accountant’s Office** on the second floor, the **Royal Apartments** on the third floor, the **Guest Suite** on the fourth floor, and the **Witches’ Coven** on the fifth floor. The **South Tower Stair** also descends to the **Dungeons** below. (Cyrus doesn’t know what lies in or beyond any of these areas.)
+> ***Relations.*** Cyrus est l'ancien patriarche de la famille Belview et le majordome du Château Ravenloft.
+#### Une faveur pour Cyrus
+Si Cyrus a déjà rencontré l'un des joueurs lors de [[Arc O - Dîner avec le Diable]], il les salue avec une familiarité méfiante et murmure que "le Maître ne sera pas content s'il trouve des invités non désirés à fouiner, oh non". S'il ne les a pas encore rencontrés, il pousse un cri, tombe à genoux et supplie les "gentils, gentils cambrioleurs d'épargner le vieux Cyrus".
 
-Whether the players accept his quest or not, Cyrus then returns to the kitchen, whereupon he begins loudly announcing that he “hasn’t seen no burglars around here, not at all." (Any players who peer after Cyrus into the kitchen observe that he is speaking to the three **zombies** in the boiling cookpot.)
+Dans les deux cas, une fois que Cyrus a confirmé que les joueurs ne lui sont pas dangereux, il leur demande avec suspicion leurs affaires au château, puis insiste immédiatement pour qu'ils ne le lui disent pas. "La dénégation plausible, c'est ce que ma grand-mère me disait toujours", grogne-t-il. "Ne me dites aucune vérité, et je ne dirai aucun mensonge à personne."
 
-> [!abstract]+ **Talking to Cyrus**
-> If the players ask Cyrus about his life at Castle Ravenloft or the Abbot’s “perfection" and mention Clovin, Otto, and Zygfrek Belview’s curiosity, Cyrus is initially reluctant to interrupt his cooking efforts to reply to them. If the players continue to press him for a response, however, and succeed on a DC 5 Charisma (Persuasion) check, Cyrus pauses, sighs, and shakes his head before replying, “They’re good lads. Tell them I’m well and thriving."
+Si les joueurs semblent amicaux, Cyrus leur demande de récupérer sa "cuillère à cuisiner préférée" de l'ancienne garnison (voir [[#P10. Garnison]]). "J'ai vu un de ces traînards l'attraper, puis disparaître à travers ces portes", dit-il en pointant les portes vers <span class="citation">K67. Salle des Ossements (p. 78).</span>. (Le "traînard" auquel Cyrus fait référence est un **zombie**. Cyrus a récemment vu de nombreux zombies errer dans les couloirs inférieurs, et il a trop peur d'eux pour entrer dans la garnison lui-même.) En échange de cette faveur, Cyrus promet de dessiner aux joueurs une carte approximative du château une fois sa cuillère lui sera rendue.
+
+
+
+> [!info]+ **La Carte de Cyrus**
+> Si les joueurs récupèrent sa cuillère à pot préférée, Cyrus peut leur dessiner une carte simple avec des boîtes et des lignes comportant les détails suivants :
 >
-> If asked, Cyrus can share the following information:
+> * Les joueurs sont dans **l'Aile des Serviteurs**, qui est reliée à (1) la **Garnison** via le **Couloir des Ossements**, et (2) l'**Entrée Principale** via l'**Escalier de la Tour Sud**. (Cyrus ne sait pas ce qu'il y a dans la **Garnison**. Il sait seulement que l'**Entrée Principale** mène à la **Chapelle**, la **Salle d'Audience** et la **Salle à Manger**.)
+> * L'**Escalier de la Tour Sud** mène au sommet du château, passant par l'**Entrée Principale** au premier étage, le **Bureau du Comptable** au deuxième étage, les **Appartements Royaux** au troisième étage, la **Suite d'Invités** au quatrième étage, et le **Couvent des Sorcières** au cinquième étage. L'**Escalier de la Tour Sud** descend également vers les **Cachots** en dessous. (Cyrus ne sait pas ce qu'il y a dans ou au-delà de ces zones.)
+
+Que les joueurs acceptent ou non sa quête, Cyrus retourne ensuite à la cuisine, où il commence à annoncer bruyamment qu'il "n'a pas vu de cambrioleurs ici, pas du tout". (Tout joueur qui regarde dans la cuisine après Cyrus observe qu'il parle aux trois **zombies** dans la marmite bouillante.)
+
+> [!abstract]+ **Parler à Cyrus**
+> Si les joueurs interrogent Cyrus sur sa vie au château Ravenloft ou sur la "perfection" de l'Abbé et mentionnent Clovin, Otto et Zygfrek Belview, Cyrus est d'abord réticent à interrompre ses efforts de cuisine pour leur répondre. Cependant, si les joueurs insistent et réussissent un jet de Charisme (Persuasion) CD 5, Cyrus fait une pause, soupire et secoue la tête avant de répondre : "Ce sont de bons gars. Dites-leur que je vais bien et que je prospère."
 >
-> * More than a century ago, the Belview family came to the Abbey of Saint Markovia seeking transformation. The Abbot granted their wish, bestowing upon them the attributes of animals—a blessing which soon revealed itself to be a curse.
-> * The Abbot, however, did not act alone. He gave the Belviews their bestial traits with the benefit of knowledge furnished by Strahd von Zarovich. While the Belviews have long sought the “perfection" of their forms, Cyrus believes that true salvation will only come once his family has returned to their true, human nature.
-> * To this end, Cyrus agreed to work for Strahd as a butler at Castle Ravenloft at the Abbot’s recommendation. Strahd has promised him that, should Cyrus restore the castle to its former glory and maintain that restoration for a period of ten years, he will furnish Cyrus with the knowledge necessary to restore his family to their original forms—curing them of their infirmities and madness forever.
-#### The Ravenous Spawn
-The first time any player approaches the doors to <span class="citation">K67. Hall of Bones (p. 78)</span> or <span class="citation">K61. Elevator Trap (p. 74)</span>, the door leading to <span class="citation">K61. Elevator Trap (p. 74)</span> opens. An *unseen servant* carrying a crystal dinner bell then emerges from beyond the door, acting as described in <span class="citation">Unseen Servant (p. 51)</span>.
-
-When the dinner bell rings, the two **vampire spawn** lurking in [[#Kitchen]] and [[#Butler’s Quarters]] quietly scuttle across the 10-foot ceiling, attacking from above the following round. Players with a passive Wisdom (Perception) score of 15 or below are surprised when the vampires attack.
-  
-> [!combat]- **Balancing the Ravenous Spawn** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> **Three Players**. Reduce the number of vampire spawn to one.
-
-The vampires prefer to target easy prey, including unarmored or surprised characters. Once a vampire has successfully grappled a target with its ***claws***, it attempts to drag its prey away to a quiet place for feeding as follows:
-
-* If the elevator trap has already been activated, each vampire attempts to drag its victim back into [[#Kitchen]] or [[#Butler’s Quarters]], respectively, then feeding on it with its ***bite*** unless cornered.
-* Otherwise, one vampire uses its Dash to drag its victim into the [[#Elevator Hall]], then stops to feed with its ***bite*** while standing on the south side of the elevator trap. (See [[#Elevator Hall]] for more information on activating the elevator trap.) The other vampire attempts to drag its victim into [[#Wine Cellar]], using its action each turn to feed with its ***bite*** unless cornered.
-
-> [!info]+ **Through the Double Doors**
-> Players who depart through the double doors here exit the servants’ wing and enter [[#P10. Garrison]] via [[#Hall of Bones]].
-### Elevator Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K61.</em></span>
-
-This area is largely as described in <span class="citation">K61. Elevator Trap (p. 74)</span>. However, the elevator trap triggers whenever three or more Small- and/or Medium-sized creatures are standing on its pressure plate (e.g., a **vampire spawn**, its victim, and any other creature).
-
-> [!info]+ **Sleeping Gas**
-> Because vampire spawn have no need to breathe, as described in <span class="citation">Vampire (Monster Manual, p. 297)</span>, they are unaffected by the sleep gas that fills the elevator compartment as it rises.
-> 
-> Note that, as described in <span class="citation">K61. Elevator Trap (p. 74)</span>, a creature that falls unconscious due to the sleeping gas can be awoken as described in the *sleep* spell.
-
-> [!info]+ **Chasing the Elevator**
-> A player ascending the stairs from the elevator hall to the elevator's destination at [[#P8a. Guest Landing]] must traverse 170 feet of stairs, which constitute difficult terrain.
-
-> [!abstract]+ **Escher's Intervention**
-> If a vampire spawn successfully lures one or more players into the elevator trap and knocks all of them unconscious, it attempts to drag its prey out of the elevator trap upon arriving at [[#P8a. Guest Landing]]. When it does so, it is confronted by Escher, who commands it to leave its victims and depart. Escher then brings any unconscious characters into <span class="citation">K49. Lounge (p. 70)</span>, where he drapes them across any available couches or chairs. 
-> 
-> Escher isn't entirely sure why he's doing this, but feels a mild sense of obligation to the players for keeping Ireena safe. If the players ask him to explain himself, he merely sneers and claims that it would be "unsightly" for them to bleed out all over the guest landing carpet.
-### Wine Cellar
-<span class="citation"><em>This scene takes place in Chapter 4, Area K63.</em></span>
-
-This area is as described in <span class="citation">K63. Wine Cellar (p. 77)</span>.
-### Kitchen
-<span class="citation"><em>This scene takes place in Chapter 4, Area K65.</em></span>
-
-This area is largely as described in <span class="citation">K65. Kitchen (p. 78)</span>. However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring above one of the shelves.
-
-The vampire attacks if noticed, or if any player enters this area alone.
-### Butler’s Quarters
-<span class="citation"><em>This scene takes place in Chapter 4, Area K66.</em></span>
-
-This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
-
-The vampire attacks if noticed, or if any player enters this area alone.
-# P6. King’s Apartments
-This area of the castle once hosted Strahd’s private apartments on the third floor, as well as the sleeping quarters of the members of his court on the floor immediately below. The apartments are connected to the North Tower (<span class="citation">K20. Heart of Sorrow (p. 59)</span> for ease of access by servants ascending from the servants’ quarters, as well as <span class="citation">K21. South Tower Stair (p. 59)</span> for easy access to the castle commons, including Strahd’s audience hall and the main dining hall.
-## P6a. King’s Apartments, Second Floor
-### King’s Apartment Stair
-<span class="citation"><em>This scene takes place in Chapter 4, Area K33.</em></span>
-
-This area is as described in <span class="citation">K33. King’s Apartment Stair (p. 64)</span>.
-### Court’s Bedchamber
-<span class="citation"><em>This scene takes place in Chapter 4, Area K32.</em></span>
-
-This area is largely as described in <span class="citation">K32. Maid in Hell (p. 64)</span>. However, replace Helga with a **broom of animated attack**. The broom is largely as described in <span class="citation">Broom of Animated Attack (p. 50)</span>, except it’s wearing Helga’s necklace wrapped around its wooden shaft. The broom attacks if a player attempts to remove the necklace or otherwise interfere with its cleaning.
-
-> [!lore]+ **The Witches’ Broom**
-> The broom belongs to the witches’ coven that resides in [[#P9. Coven’s Quarters]], whose members affectionately refer to the broom as their “pet."
-
-> [!lore]+ **Historic Inhabitants**
-> This room once served as the living quarters for the members of Strahd’s court, including castle fool Sir Jarnwald the Trickster (entombed in <span class="citation">Crypt 35, p. 92</span>, court wizard Gralmore Nimblenobs (entombed in <span class="citation">Crypt 36, p. 92</span>), and castle chaplain Tasha Petrovna (entombed in <span class="citation">Crypt 11, p. 87)</span>).
-## P6b. King’s Apartments, Third Floor
-### King’s Antechamber
-<span class="citation"><em>This scene takes place in Chapter 4, Area K35.</em></span>
-
-This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>. However, seven **crawling claws** emerge from the alcoves behind the **swarms of rats** on the first round of combat as described in <span class="citation">Crawling Claws (p. 50)</span>.
-  
-> [!combat]- **Balancing the Guardian Vermin** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of swarms of rats to three. 
-> * **Four Players**. Reduce the number of crawling claws to five. 
-> * **Six Players**. Increase the number of swarms of rats to five.
-
-> [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend four flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P11. Dungeons]] via [[#Dungeon Hall]].
+> Si on le lui demande, Cyrus peut partager les informations suivantes :
 >
-> ***B1F.*** Players who descend three flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments  and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
+> * Il y a plus d'un siècle, la famille Belview est venue à l'Abbaye de Saint-Markovia pour chercher la transformation. L'Abbé a exaucé leur vœu, leur conférant des attributs d'animaux - une bénédiction qui s'est rapidement révélée être une malédiction.
+> * Cependant, l'Abbé n'a pas agi seul. Il a donné aux Belview leurs traits bestiaux grâce aux connaissances fournies par Strahd von Zarovich. Bien que les Belview aient longtemps cherché la "perfection" de leurs formes, Cyrus croit que le vrai salut ne viendra que lorsque sa famille aura retrouvé sa véritable nature humaine.
+> * Dans ce but, Cyrus a accepté de travailler pour Strahd comme majordome au château Ravenloft sur la recommandation de l'Abbé. Strahd lui a promis que, s'il restaure le château à sa gloire d'antan et maintient cette restauration pendant une période de dix ans, il lui fournira les connaissances nécessaires pour rendre à sa famille ses formes originelles - les guérissant de leurs infirmités et de leur folie pour toujours.
+#### Les Engeances Ravageuses
+La première fois qu'un joueur s'approche des portes de <span class="citation">K67. Couloir des Ossements (p. 78)</span> ou de <span class="citation">K61. Piège de l'Ascenseur (p. 74)</span>, la porte menant à <span class="citation">K61. Piège de l'Ascenseur (p. 74)</span> s'ouvre. Un *serviteur invisible* portant une clochette de table en cristal émerge alors de l'autre côté de la porte, agissant comme décrit dans <span class="citation">Serviteur Invisible (p. 51)</span>.
+
+Quand la clochette sonne, les deux **engeances vampiriques** se tapissant dans [[#Cuisine]] et [[#Quartiers du Majordome]] rampent silencieusement au plafond à 3 mètres de hauteur, attaquant d'en haut au tour suivant. Les joueurs avec un score de Sagesse (Perception) passif de 15 ou moins sont surpris lorsque les vampires attaquent.
+
+> [!combat]- **Équilibrer les Engeances Ravageuses**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 7, une alliée CR 2 (Ireena Kolyana) et une alliée CR 4 (Ezmerelda d'Avenir), et consommera environ 7% de leurs points de vie maximum totaux. Pour les groupes plus petits, modifiez la rencontre comme suit :
+> **Trois Joueurs**. Réduisez le nombre d'engeances vampiriques à une seule.
+
+
+
+Les vampires préfèrent cibler des proies faciles, y compris les personnages non armés ou surpris. Une fois qu'un vampire a réussi à saisir une cible avec ses griffes, il tente de traîner sa proie vers un endroit tranquille pour se nourrir comme suit :
+
+* Si le piège de l'ascenseur a déjà été activé, chaque vampire tente de traîner sa victime dans la Cuisine ou les Quartiers du Majordome respectivement, puis de se nourrir avec sa morsure à moins d'être acculé.
+* Sinon, un vampire utilise sa Course pour traîner sa victime dans le Couloir de l'Ascenseur, puis s'arrête pour se nourrir avec sa morsure tout en se tenant du côté sud du piège de l'ascenseur. (Voir Couloir de l'Ascenseur pour plus d'informations sur l'activation du piège de l'ascenseur.) L'autre vampire tente de traîner sa victime dans la Cave à Vin, utilisant son action chaque tour pour se nourrir avec sa morsure à moins d'être acculé.
+
+### Couloir de l'Ascenseur
+Cette zone est en grande partie telle que décrite dans K61. Piège de l'Ascenseur (p. 74). Cependant, le piège de l'ascenseur se déclenche lorsque trois créatures de taille Petite et/ou Moyenne ou plus se tiennent sur sa plaque de pression (par ex. une Reniée vampire, sa victime et toute autre créature).
+
+### Cave à Vin
+Cette zone est telle que décrite dans K63. Cave à Vin (p. 77).  
+
+### Cuisine
+Cette zone est en grande partie telle que décrite dans K65. Cuisine (p. 78). Cependant, une Reniée vampire affamée se cache dans les coins sombres du plafond. Un joueur avec un score de Sagesse (Perception) passif de 16 ou plus remarque une silhouette qui bouge au-dessus d'une des étagères.
+
+La reniée vampire attaque si elle est remarquée ou si un joueur entre seul dans cette zone.
+
+### Quartiers du Majordome  
+Cette zone est en grande partie telle que décrite dans K66. Quartiers du Majordome (p. 78). Cependant, une Reniée vampire affamée se cache dans les coins sombres du plafond. Un joueur avec un score de Sagesse (Perception) passif de 16 ou plus remarque une silhouette qui bouge dans le coin sud-ouest.
+
+Le vampire attaque s'il est remarqué, ou si un joueur entre seul dans cette zone.
+
+#P6. Appartements du Roi
+Cette zone du château abritait autrefois les appartements privés de Strahd au troisième étage, ainsi que les quartiers de membres de sa cour à l'étage immédiatement inférieur. Les appartements sont reliés à la Tour Nord (<span class="citation">K20. Coeur de la Douleur (p. 59)</span> pour faciliter l'accès des serviteurs montant des quartiers des domestiques, ainsi qu'à <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> pour un accès facile aux communs du château, y compris la salle d'audience de Strahd et la grande salle à manger.
+
+##P6a. Appartements du Roi, Deuxième Étage
+###Escalier des Appartements du Roi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K33.</em></span>
+
+Cette zone est telle que décrite dans <span class="citation">K33. Escalier des Appartements du Roi (p. 64)</span>.
+
+###Chambre à Coucher de la Cour
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K32.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K32. La Servante en Enfer (p. 64)</span>. Cependant, remplacez Helga par un **balai d'attaque animé**. Le balai est largement tel que décrit dans <span class="citation">Balai d'Attaque Animé (p. 50)</span>, sauf qu'il porte le collier d'Helga enroulé autour de sa hampe en bois. Le balai attaque si un joueur tente de retirer le collier ou d'interférer avec son nettoyage.
+
+> [!lore]+ **Le Balai des Sorcières**
+> Le balai appartient au coven de sorcières qui réside dans [[#P9. Quartiers du Coven]], dont les membres se réfèrent affectueusement au balai comme à leur "animal de compagnie".
+
+> [!lore]+ **Habitants Historiques**
+> Cette pièce servait autrefois de quartiers d'habitation aux membres de la cour de Strahd, notamment le bouffon du château Sir Jarnwald le Farceur (inhumé dans <span class="citation">Crypte 35, p. 92</span>), le magicien de la cour Gralmore Nimblenobs (inhumé dans <span class="citation">Crypte 37, p. 92</span>), et l'aumônier du château Tasha Petrovna (inhumée dans <span class="citation">Crypte 11, p. 87</span>).
+
+##P6b. Appartements du Roi, Troisième Étage
+###Antichambre du Roi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K35.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K35. Vermine Gardienne (p. 64)</span>. Cependant, sept **griffes rampantes** émergent des alcôves derrière les **nuées de rats** au premier tour de combat comme décrit dans <span class="citation">Griffes Rampantes (p. 50)</span>.
+
+> [!combat]- **Équilibrer la Vermine Gardienne**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 7, un allié CR 2 (Ireena Kolyana), et un allié CR 4 (Ezmerelda d'Avenir), et consommera environ 3% de leurs points de vie maximum totaux. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez le nombre de nuées de rats à trois.
+> * **Quatre Joueurs**. Réduisez le nombre de griffes rampantes à cinq.
+> * **Six Joueurs**. Augmentez le nombre de nuées de rats à cinq.
+
+> [!info]+ **Escalier de la Tour Sud**
+> ***B2F.*** Les joueurs qui descendent quatre volées de marches par <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des appartements du roi et entrent dans les [[#P11. Cachots]] via [[Arc P - Ravenloft Heist#P11a. Salle des Cachots|Salle des Cachots]].
 >
-> ***1F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Main Entry]].
+> ***B1F.*** Les joueurs qui descendent trois volées de marches par <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des appartements du roi et entrent dans [[#P5. Aile des Domestiques]] via [[#Salle de l'Ascenseur]].
 >
-> ***2F.*** Players who descend one flight of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Accountant’s Office]].
+> ***1F.*** Les joueurs qui descendent deux volées de marches par <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des appartements du roi et entrent dans [[#P4. Espaces Communs du Château]] via [[Arc P - Ravenloft Heist#Entrée Principale|Entrée Principale]].
 >
-> ***4F.*** Players who ascend one flight of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments  and enter [[#P8. Guest Suite]] via [[#Guest Landing]].
-### King’s Dining Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K36.</em></span>
-
-This area is largely as described in <span class="citation">K36. (p. 65)</span>. However, nothing happens if the players take the groom figurine from the cake, and Pidlwick’s ghost doesn’t appear if a player plays the harp. In addition, the doors leading to <span class="citation">K37. Study (p. 66)</span> and <span class="citation">K43. Bath Chamber (p. 68)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
-### Study
-<span class="citation"><em>This scene takes place in Chapter 4, Area K37.</em></span>
-
-This area is largely as described in <span class="citation">K37. Study (p. 66)</span>. However, the doors leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span>, <span class="citation">K45. Hall of Heroes (p. 68)</span>, and <span class="citation">K83. Spiral Stair (p. 85)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
-
-In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5e. Lugdana’s Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
-
-If present, Ireena is disturbed at the sight of the portrait and its clear resemblance to her, and voices her disbelief and discomfort at the thought that Strahd would commission a portrait of her. A player who succeeds on a DC 10 Intelligence (Investigation) check discerns that the portrait is centuries old. If informed of this fact, Ireena’s discomfort lessens, though she becomes stressed and disturbed at the prospect of this strange woman’s resemblance to her—especially if the players suggest she might be this woman’s reincarnation.
-
-> [!info]+ **Exiting the Study**
-> A player who departs the study via <span class="citation">K83. Spiral Stair (p. 85)</span> exits the king’s apartments, passes through <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, and enters the [[#Dungeons]] via [[#P11e. Brazier Room]].
+> ***2F.*** Les joueurs qui descendent une volée de marches par <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des appartements du roi et entrent dans [[#P4. Espaces Communs du Château]] via [[#Bureau du Comptable]].
 >
-> The spiral stair landing is largely as described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, but the tapestry is no longer present.
-### Bath Chamber & Closet
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K43 & K44.</em></span>
+> ***4F.*** Les joueurs qui montent une volée de marches par <span class="citation">K21. Escalier de la Tour Sud (p. 59)</span> sortent des appartements du roi et entrent dans [[#P8. Suite d'Invités]] via [[Arc P - Ravenloft Heist#P8a. Palier des Invités|Palier des Invités]].
+### Salle à Manger du Roi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K36.</em></span>
 
-This area is largely as described in <span class="citation">K43. Bath Chamber (p. 68)</span> and <span class="citation">K44. Closet (p. 68)</span>. However, while the tub is stained with ancient blood, it does not currently contain any blood, and Varushka’s spirit doesn’t haunt it.
+Cette zone est largement telle que décrite dans <span class="citation">K36. (p. 65)</span>. Cependant, rien ne se passe si les joueurs prennent la figurine de marié du gâteau, et le fantôme de Pidlwick n'apparaît pas si un joueur joue de la harpe. De plus, les portes menant à <span class="citation">K37. Étude (p. 66)</span> et <span class="citation">K43. Salle de Bain (p. 68)</span> sont verrouillées comme décrit dans <span class="citation">Les Terres de Barovia : Caractéristiques Communes (p. 33)</span>.
+### Étude
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K37.</em></span>  
 
-In addition, the closet contains only three capes, rather than twenty-eight.
-### King’s Bedchamber
-<span class="citation"><em>This scene takes place in Chapter 4, Area K42.</em></span>
+Cette zone est largement telle que décrite dans <span class="citation">K37. Étude (p. 66)</span>. Cependant, les portes menant à <span class="citation">K36. Salle à Manger du Comte (p. 65)</span>, <span class="citation">K45. Salle des Héros (p. 68)</span> et <span class="citation">K83. Escalier en Colimaçon (p. 85)</span> sont verrouillées comme décrit dans <span class="citation">Les Terres de Barovia : Caractéristiques Communes (p. 33)</span>.
 
-This area is largely as described in <span class="citation">K42. King’s Bedchamber (p. 68)</span>. However, remove the word “dainty" from the description of Gertruda’s slipper in this area’s description.
+De plus, un joueur qui inspecte le portrait de Tatyana remarque qu'elle porte un bracelet d'argent gravé d'un motif complexe de lune et d'étoiles, avec une pierre de lune gemme incrustée au centre de la lune et plusieurs lapis-lazuli pour les étoiles. Un joueur qui a déjà vu le bracelet d'Ireena dans [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Bienvenue à Barovia]] le reconnaît comme étant le même bracelet.
+
+Si elle est présente, Ireena est perturbée à la vue du portrait et de sa ressemblance évidente avec elle, et exprime son incrédulité et son malaise à l'idée que Strahd aurait commandé un portrait d'elle. Un joueur qui réussit un jet d'Intelligence (Investigation) DD 10 discerne que le portrait est vieux de plusieurs siècles. Si on l'informe de ce fait, le malaise d'Ireena diminue, bien qu'elle devienne stressée et troublée à l'idée de cette étrange ressemblance avec cette femme - surtout si les joueurs suggèrent qu'elle pourrait être la réincarnation de cette femme.
+
+> [!info]+ **Sortir de l'Étude**  
+> Un joueur qui quitte l'étude par <span class="citation">K83. Escalier en Colimaçon (p. 85)</span> sort des appartements du roi, traverse <span class="citation">K83a. Palier de l'Escalier en Colimaçon (p. 85)</span>, et entre dans les [[Arc P - Ravenloft Heist#P11. Cachots|Cachots]] via [[#P11e. Salle du Brasero]].
+>
+> Le palier de l'escalier en colimaçon est largement tel que décrit dans <span class="citation">K83a. Palier de l'Escalier en Colimaçon (p. 85)</span>, mais la tapisserie n'est plus présente.
+### Salle de Bain et Penderie
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K43 et K44.</em></span>
+
+
+
+Cette zone est largement telle que décrite dans <span class="citation">K43. Salle de bain (p. 68)</span> et <span class="citation">K44. Placard (p. 68)</span>. Cependant, bien que la baignoire soit tachée de sang ancien, elle ne contient actuellement aucun sang, et l'esprit de Varushka ne la hante pas.
+
+De plus, le placard ne contient que trois capes, au lieu de vingt-huit.
+### Chambre du Roi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K42.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K42. Chambre du Roi (p. 68)</span>. Cependant, retirez le mot "délicat" de la description de la mule de Gertruda dans la description de cette zone.
 
 ![[Gertruda.png]]
-<span class="credit">"Gertruda" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Gertruda" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Gertruda**
-> **Roleplaying Information**
-> ***Resonance.*** Gertruda should inspire endearment for her idealism and pity for Escher, sympathy for her devotion to Doru and her mother, and flattery for her sincere gratitude to the players for rescuing her.
+> [!profile]+ **Profil: Gertruda**
+> **Informations de Jeu de Rôle**
+> ***Résonance.*** Gertruda devrait inspirer l'attendrissement pour son idéalisme et la pitié pour Escher, la sympathie pour son dévouement envers Doru et sa mère, et la flatterie pour sa gratitude sincère envers les joueurs pour l'avoir secourue.
 >
-> ***Emotions.*** Gertruda most often feels curious, thoughtful, excited, or worried.
+> ***Émotions.*** Gertruda ressent le plus souvent de la curiosité, de la réflexion, de l'excitation ou de l'inquiétude.
 >
-> ***Motivations.*** Gertruda wants to confirm Doru’s safety and return home safely to the village of Barovia.
+> ***Motivations.*** Gertruda veut confirmer la sécurité de Doru et rentrer saine et sauve au village de Barovia.
 >
-> ***Inspirations.*** When playing Gertruda, channel Belle (*Beauty and the Beast*), Aang (*Avatar: the Last Airbender*), and Steven Universe (*Steven Universe*).
+> ***Inspirations.*** En jouant Gertruda, canalisez Belle (*La Belle et la Bête*), Aang (*Avatar: le Dernier Maître de l'Air*) et Steven Universe (*Steven Universe*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Gertruda is an intelligent and determined young woman with a sunny disposition and a tendency to see the silver lining on every dark cloud—occasionally to her detriment.
+> **Informations sur le Personnage**
+> ***Persona.*** Pour le monde, Gertruda est une jeune femme intelligente et déterminée avec une disposition ensoleillée et une tendance à voir le bon côté de chaque nuage noir - parfois à son détriment.
 >
-> ***Morale.*** If attacked, or if Doru were threatened, Gertruda would immediately grab the nearest weapon and attempt to defend herself and her loved ones.
+> ***Moral.*** Si elle est attaquée, ou si Doru était menacé, Gertruda saisirait immédiatement la première arme à portée de main et tenterait de se défendre ainsi que ses proches.
 >
-> ***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of Ireena Kolyana.
-#### Meeting Gertruda
-Gertruda is surprised to see the players, and fearful that they’re “another one of the Devil’s tricks." Players who mention Sasha or Doru, or who succeed on a DC 10 Charisma (Persuasion) check can reassure Gertruda that they’re real, and no servants of Strahd.
+> ***Relations.*** Gertruda est la fille de Mary la Folle, la fiancée de Doru et une amie d'enfance d'Ireena Kolyana.
+#### Rencontrer Gertruda
+Gertruda est surprise de voir les joueurs, et craint qu'ils ne soient "un autre des tours du Diable". Les joueurs qui mentionnent Sasha ou Doru, ou qui réussissent un jet de Charisme (Persuasion) DC 10 peuvent rassurer Gertruda qu'ils sont réels, et ne sont pas des serviteurs de Strahd.
 
-> [!info]+ **Gertruda’s Charm**
-> Although she won’t divulge it while the charm lasts, Gertruda has been charmed by Strahd since she first arrived in the castle. It was at Strahd’s request that Gertruda asked Sasha to help her escape shortly before the players’ dinner at Ravenloft, and at Strahd’s direction that Gertruda “lost" her slipper on the stairs leading from [[#P11e. Brazier Room]]. (Strahd has instructed Gertruda to lie about both of these occasions, though a player who succeeds on a DC 10 Wisdom (Insight) check notices Gertruda stumbling over her words and briefly avoiding eye contact as she does.)
+> [!info]+ **Charme de Gertruda**
+> Bien qu'elle ne le révèle pas tant que le charme dure, Gertruda a été charmée par Strahd depuis son arrivée au château. C'est à la demande de Strahd que Gertruda a demandé à Sasha de l'aider à s'échapper peu avant le dîner des joueurs à Ravenloft, et sur les instructions de Strahd que Gertruda a "perdu" sa mule dans les escaliers menant de la [[#P11e. Salle du Brasero]]. (Strahd a ordonné à Gertruda de mentir sur ces deux occasions, bien qu'un joueur qui réussit un jet de Sagesse (Perception) DC 10 remarque Gertruda trébucher sur ses mots et éviter brièvement le contact visuel lorsqu'elle ment.)
 >
-> If caught in a lie and confronted, Gertruda will continue to deny concealing the truth unless the players threaten to abandon her in Ravenloft. If this occurs, she reveals that Strahd instructed her to tell those lies to anyone who came to rescue her as a way to “make the game more authentic." (Gertruda isn’t sure what Strahd meant by his reference to a “game.")
+> Si prise en flagrant délit de mensonge et confrontée, Gertruda continuera de nier avoir caché la vérité à moins que les joueurs ne menacent de l'abandonner à Ravenloft. Si cela se produit, elle révèle que Strahd lui a ordonné de dire ces mensonges à quiconque viendrait la secourir comme un moyen de "rendre le jeu plus authentique". (Gertruda n'est pas sûre de ce que Strahd voulait dire par sa référence à un "jeu".)
 >
-> If not removed or suppressed through *dispel magic* or similar magic, Gertruda’s charm expires at dawn. If able, she then recounts to the players—with a haunted, horrified realization—that Strahd kept her charmed since she first arrived at the castle, and that he instructed her to ask Sasha to help her “escape" Castle Ravenloft, suggesting that he orchestrated the entire event to unknown ends.
+> Si elle n'est pas supprimée ou annulée par un *sort de dissolution de la magie* ou un sort similaire, le charme de Gertruda expire à l'aube. Si elle le peut, elle raconte alors aux joueurs - avec une réalisation hantée et horrifiée - que Strahd l'a gardée sous son charme depuis son arrivée au château, et qu'il lui a ordonné de demander à Sasha de l'aider à "s'échapper" du château Ravenloft, suggérant qu'il a orchestré tout l'événement à des fins inconnues.
 
-> [!abstract]+ **Doru’s Reunion**
-> If Doru accompanied the players to Castle Ravenloft, Gertruda greets him with disbelief, then tearful joy. As she embraces him, Doru breaks into tears, apologizing for awakening Strahd and indirectly causing her imprisonment. “It’s all my fault," he sobs, his body trembling. “I’m a monster, both inside and out. I don’t—I don’t deserve you."
->
-> If the players don’t intervene, Gertruda holds Doru tight, smoothing his hair across his head as she cries softly into his shoulder. “I heard what the Devil did to you," she whispers, “but you could never be a monster to me." She adds, “You came for me, didn’t you?"
 
-If asked, Gertruda can share the following information:
 
-* Just over two weeks ago, she set off down the Old Svalich Road to obtain supplies for Barovia from Vallaki. Fearful that her mother would object, and unwilling to trouble Ireena and Ismark so soon after their father’s death, she did so alone, slipping out of the house when her mother, Mary, wasn’t looking.
-* Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild. 
-* Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
-* Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. She’s had few visitors aside from Sasha, whose company she’s been grateful for, and Volenta, whose company she fears. (Although Strahd hasn’t allowed any of his spawn to feed from Gertruda yet, Volenta has taken a sadistic pleasure in chatting about when that day will inevitably arrive.)
+> [!abstract]+ **La Réunion de Doru**
+> Si Doru a accompagné les joueurs au Château de Ravenloft, Gertruda le salue avec incrédulité, puis une joie émue. Alors qu'elle l'étreint, Doru fond en larmes, s'excusant d'avoir réveillé Strahd et causé indirectement son emprisonnement. "C'est entièrement ma faute", sanglote-t-il, le corps tremblant. "Je suis un monstre, à l'intérieur comme à l'extérieur. Je ne... Je ne te mérite pas."
+>  
+> Si les joueurs n'interviennent pas, Gertruda serre Doru contre elle, lissant ses cheveux sur sa tête tandis qu'elle pleure doucement sur son épaule. "J'ai entendu ce que le Diable t'a fait", murmure-t-elle, "mais tu ne pourras jamais être un monstre pour moi." Elle ajoute: "Tu es venu pour moi, n'est-ce pas ?"  
 
-Gertruda is surprised that the players met with no resistance from Anastrasya Karelova, the **vampire spawn** that Strahd has assigned to guard her chambers. She informs the players fearfully that she and they must flee “before Anastrasya finds you here."
-#### Anastrasya’s Confrontation
-As the players first move to depart the bedchamber with Gertruda, **Anastrasya Karelova** enters the study from the door leading to the [[#Hall of Heroes]], flanked by two **wights**. 
+Si on lui demande, Gertruda peut partager les informations suivantes :
 
-If the doors to the bedchamber are closed, read:
+* Il y a un peu plus de deux semaines, elle s'est engagée sur la Vieille Route de Svalich pour obtenir des provisions pour Barovia depuis Vallaki. Craignant que sa mère n'y objecte, et ne voulant pas déranger Ireena et Ismark si peu de temps après la mort de leur père, elle l'a fait seule, se glissant hors de la maison sans que sa mère Mary ne la voie.   
+* Cependant, Gertruda n'a jamais atteint Vallaki. Alors qu'elle traversait les Bois de Svalich, le carrosse noir de Strahd est arrivé sur elle - et le Diable lui-même en est sorti. Terrifiée, mais refusant de montrer sa peur, Gertruda a poliment exigé que Strahd permette la livraison de provisions à Barovia afin que les villageois puissent reconstruire.
+* Strahd a semblé amusé par le courage de Gertruda et l'a invitée au Château de Ravenloft pour "discuter plus avant des réparations". Réalisant que c'était une invitation qu'elle ne pouvait refuser, Gertruda a accepté à contrecœur de l'accompagner.
+* Depuis lors, Gertruda est restée une "invitée d'honneur" dans le château, bien qu'il soit devenu clair que Strahd n'a pas l'intention de lui permettre de quitter ses appartements - et encore moins le château lui-même. Elle a eu peu de visiteurs en dehors de Sasha, dont la compagnie lui a été reconnaissante, et Volenta, dont la compagnie lui fait peur. (Bien que Strahd n'ait pas encore permis à aucune de ses épouses de se nourrir de Gertruda, Volenta a pris un plaisir sadique à discuter du jour inévitable où cela arrivera.)
+
+Gertruda est surprise que les joueurs n'aient rencontré aucune résistance de la part d'Anastrasya Karelova, la **vampire engendrée** que Strahd a chargée de garder ses appartements. Elle informe les joueurs, avec crainte, qu'elle et eux doivent fuir "avant qu'Anastrasya ne vous trouve ici".
+#### La Confrontation avec Anastrasya  
+Alors que les joueurs s'apprêtent à quitter la chambre à coucher avec Gertruda, **Anastrasya Karelova** entre dans le bureau par la porte menant à la **Salle des Héros**, flanquée de deux **spectres**.  
+
+Si les portes de la chambre sont fermées, lisez :
 
 <div class="description">
-<p>The doors to the east fling open, slamming against the wall.</p>
+<p>Les portes à l'est s'ouvrent violemment, claquant contre le mur.</p>
 </div>
 
-Otherwise, read:
+Sinon, lisez :
+
+<div class="description">  
+<p>Le bruit de bottes en marche résonne depuis l'est - rejoint par le bruit de talons claquant délicatement sur le sol.</p>
+</div>  
+
+Dans les deux cas, ajoutez :
 
 <div class="description">
-<p>The sound of marching bootsteps echo from the east—joined by the sound of heels clicking delicately against the floor.</p>
+<p>Une femme pâle familière se tient devant vous, vêtue d'une élégante robe rouge à volants. La lueur vacillante du feu danse sur les précieux bijoux cousus dans son foulard cramoisi, et le pendentif en opale noire autour de son cou scintille d'une lueur brûlante et malveillante. Une élégante rapière pend à son côté.</p>  
+<p>De chaque côté se tiennent des soldats gris morts-vivants, portant une livrée en lambeaux et une armure rouillée. De vieilles épées ternies brillent dangereusement dans leurs mains.</p>
 </div>
 
-In either case, add:
+Ajustez le texte ci-dessus si nécessaire si certains joueurs restent dans le bureau lors de l'arrivée d'Anastrasya.
 
-<div class="description">
-<p>A familiar, pale-skinned woman stands before you, wearing a striking, frilled red dress. The flickering firelight dances in the precious jewels sewn into her crimson head scarf, and the black opal pendant around her neck shimmers with a wicked, burning light. An elegant rapier hangs at her side.</p>
-<p>Flanking her on either side stand grey-skinned, undead soldiers wearing tattered livery and rusted armor. Old, tarnished swords glint dangerously in their hands.</p>
-</div>
+Anastrasya est également rejointe secrètement par deux **spectres** supplémentaires, qui se cachent dans le passage secret entre la **K42. Chambre du Roi (p. 68)** et l'extrémité ouest de la **K45. Salle des Héros (p. 68)**. 
 
-Adjust the above text as needed if any players remain in the study at the time of Anastrasya's arrival.
+Si des portes menant du bureau et de la chambre ont été ouvertes, Anastrasya les fait claquer d'un geste télékinésique de son poignet en entrant.
 
-Anastrasya is also secretly joined by two additional **wights**, which conceal themselves in the secret passage between <span class="citation">K42. King’s Bedchamber (p. 68)</span> and the western end of <span class="citation">K45. Hall of Heroes (p. 68)</span>.
 
-If any doors leading from the study and bedchamber have been opened, Anastrasya telekinetically causes them to slam shut with a flick of her wrist upon entering.
 
-Anastrasya greets the players warmly, but wonders aloud, with a wickedly “innocent" smile: “You must forgive my scattered thoughts, but I must have forgotten—did our dear Lord send you another invitation to visit with us tonight?" Whether the players deny receiving an invitation or falsely claim they received one, Anastrasya notes that she “surely does not recall such an invitation being sent." She then insists the players lay down their weapons, return Gertruda to her chambers, and “settle in until our Lord returns, so we can figure out what to do with you." 
+Anastrasya accueille chaleureusement les joueurs, mais se demande à haute voix, avec un sourire "innocent" malicieux : "Vous devez me pardonner pour mes pensées éparses, mais j'ai dû oublier - notre cher Seigneur vous a-t-il envoyé une autre invitation à nous rendre visite ce soir ?" Que les joueurs nient avoir reçu une invitation ou prétendent faussement en avoir reçu une, Anastrasya note qu'elle "ne se souvient vraiment pas qu'une telle invitation ait été envoyée". Elle insiste ensuite pour que les joueurs déposent leurs armes, ramènent Gertruda dans ses appartements, et "s'installent jusqu'au retour de notre Seigneur, afin que nous puissions décider de ce que nous allons faire de vous."
 
-If the players defy her, Anastrasya’s smile broadens, and the rapier and wights at her side twitch as she adds, “Really—I *must* insist." If the players attack or defy her a second time, Anastrasya directs the **wights** to attack. 
+Si les joueurs lui désobéissent, le sourire d'Anastrasya s'élargit, et le rapière et les caryatides à ses côtés tressaillent lorsqu'elle ajoute : "Vraiment - j'insiste." Si les joueurs l'attaquent ou lui désobéissent une seconde fois, Anastrasya ordonne aux caryatides d'attaquer.  
 
-The two wights in the secret passage emerge on their first turns in combat, attacking the nearest enemies.
+Les deux caryatides dans le passage secret émergent lors de leurs premiers tours au combat, attaquant les ennemis les plus proches.
 
-> [!combat]- **Balancing the Socialite** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points per phase (for a total of 60% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of wights to one visible wight by Anastrasya's side, and one hidden wight who emerges from the secret passage in Anastrasya’s second phase. 
-> * **Four Players**. Reduce the number of hidden wights to one. 
-> * **Six Players**. Increase the number of visible wights to three.
+Dans sa première phase, Anastrasya tente de garder ses distances avec les joueurs tout en attaquant avec son épée volante, reculant vers le Hall des Héros et le Palier du Roi si on s'approche d'elle. Si elle est forcée dans sa seconde phase, Anastrasya est enragée par la révélation de sa véritable forme grotesque, et attaque les personnages responsables avec vengeance. (Sous sa seconde forme, Anastrasya préfère agripper sa proie avec son attaque à mains nues, puis voler sa victime choisie dans les airs à côté du Palier du Roi avant de se nourrir d'elle en plein vol avec sa morsure. Si elle réduit un personnage à 0 point de vie de cette manière, elle jette son corps inconscient sur le Palier du Roi pour s'en nourrir plus tard.)
 
-In her first phase, Anastrasya attempts to keep her distance from the players while attacking with her ***flying sword***, retreating toward [[#Hall of Heroes]] and the [[#King’s Landing]] if approached. If forced into her second phase, Anastrasya is enraged by the reveal of her true, grotesque form, and attacks the characters responsible with a vengeance. (While in her second form, Anastrasya prefers to grapple her prey using her ***unarmed strike***, then fly her chosen victim into the open air beside [[#King’s Landing]] before feeding upon them in midair with her ***bite***. If she reduces a character to 0 hit points in this way, she tosses their unconscious body onto [[#King’s Landing]] to feed on later.)
+Comme Ludmilla, Anastrasya se bat jusqu'à la mort, refusant d'affronter la colère de Strahd en cas d'échec.
 
-As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s wrath should she fail.
-
-<div class="statblock">
-<h2>Anastrasya, Vampire Socialite</h2>
-<em>Medium undead, unaligned</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
-<strong>Speed</strong> 30 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>13 (+1)</td>
-      <td>10 (+0)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
-<strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 7 (2,900 XP)<br>
-<strong>Proficiency Bonus</strong> +3
-<hr>
-<p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Skinchange.</em></strong> When Anastrasya is reduced to 0 hit points, her skin sloughs off, revealing a giant, bloated, grotesque bat. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn’t change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
+<p><strong><em>Escalade d'araignée.</em></strong> Anastrasya peut escalader des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.</p>
+<p><strong><em>Hypersensibilité à la lumière du soleil.</em></strong> Lorsqu'elle se trouve à la lumière du soleil, Anastrasya subit 20 dégâts de rayonnement au début de son tour, et elle a un désavantage sur les jets d'attaque et les jets de caractéristique.</p>
+<p><strong><em>Changement de peau.</em></strong> Lorsqu'Anastrasya est réduite à 0 point de vie, sa peau se détache, révélant une chauve-souris géante, gonflée et grotesque.
+Ses statistiques sont alors instantanément remplacées par les statistiques de sa seconde forme.
+Son compte d'initiative ne change pas.
+Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais elle conserve les conditions qu'elle avait dans sa forme précédente.
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks with her flying sword, or two with her claws.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).</p>
-<p><strong><em>Flying Sword.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 30 ft., one target. <em>Hit:</em> 7 (1d8 + 3) slashing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Charm.</em></strong> One creature within 10 feet must make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failure, the target is magically charmed for 1 minute or until Anastrasya loses her concentration (as if concentrating on a spell). A target that can't see Anastrasya automatically succeeds. While charmed, the target regards Anastrasya as a trusted friend to be heeded and protected; it isn't under Anastrasya's control, but takes her requests and actions in the most favorable way and lets Anastrasya bite it. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Telekinetic Thrust.</em></strong> Anastrasya chooses one object weighing 1 to 50 pounds within 30 feet that isn't being worn or carried. The object flies in a straight line up to 30 feet in a direction Anastrasya chooses before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.</p>
-<h3>Reactions</h3>
-<p>Anastrasya can take up to three reactions per round, but only one per turn. If Anastrasya would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Night's Retreat.</em></strong> In response to taking damage, Anastrasya can fly up to half her speed without provoking opportunity attacks.</p>
-<p><strong><em>Call Defender (1/round).</em></strong> In response to being targeted by an attack, if Anastrasya has charmed a creature, she commands that creature to use its reaction, if available, to move up to its speed toward her. If the charmed creature ends its movement within 5 feet of Anastrasya, it becomes the target of the attack instead.</p>
-<p><strong><em>Telekinetic Defense.</em></strong> In response to being targeted by an attack or spell, Anastrasya telekinetically summons one object weighing 1 to 50 pounds within 30 feet that isn't being worn or carried, gaining half cover against the triggering attack or spell.</p>
-</div>
-<br>
+<p><strong><em>Attaques multiples.</em></strong> Anastrasya effectue trois attaques avec son épée volante ou deux avec ses griffes.</p>
+<p><strong><em>Morsure.</em></strong> <em>Attaque d'arme au corps à corps :</em> <span class="highlight">+6 pour toucher</span>, allonge 1,5 m, une créature consentante ou une créature immobilisée, neutralisée ou entravée par Anastrasya.
+<em>Touché :</em> <span class="highlight">6 (1d6 + 3) dégâts perforants plus 7 (2d6) dégâts nécrotiques</span>.
+Le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis, et Anastrasya récupère des points de vie égaux à ce montant.
+La cible meurt si cet effet réduit son maximum de points de vie à 0.
+Chaque fois que la cible termine un repos long sans avoir été mordue à nouveau, elle peut lancer un de ses dés de vie et ajouter son modificateur de Constitution.
+Le maximum de points de vie de la cible augmente d'un montant égal au résultat.
+(Cette augmentation ne peut pas dépasser le maximum de points de vie d'origine de la cible.)</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 pour toucher, allonge 1,5 m, une cible.
+<em>Touché :</em> 8 (2d4 + 3) dégâts tranchants.
+Au lieu d'infliger des dégâts, Anastrasya peut agripper la cible (DD 13 pour se libérer).</p>
+<p><strong><em>Épée volante.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 pour toucher, allonge 9 m, une cible.
+<em>Touché :</em> 7 (1d8 + 3) dégâts tranchants.</p>
+<h3>Actions bonus</h3>
+<p><strong><em>Charme.</em></strong> Une créature à moins de 3 m doit effectuer un <span class="highlight">jet de sauvegarde de Sagesse DD 14</span>.
+En cas d'échec, la cible est magiquement charmée pendant 1 minute ou jusqu'à ce qu'Anastrasya perde sa concentration (comme si elle se concentrait sur un sort).
+Une cible qui ne peut pas voir Anastrasya réussit automatiquement.
+Lorsqu'elle est charmée, la cible considère Anastrasya comme une amie digne de confiance à écouter et à protéger ; elle n'est pas sous le contrôle d'Anastrasya, mais interprète ses demandes et actions de la manière la plus favorable et la laisse la mordre.
+La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet en cas de réussite.</p>
+<p><strong><em>Poussée télékinétique.</em></strong> Anastrasya choisit un objet d'un poids de 0,5 à 23 kg à moins de 9 m qui n'est pas porté ni transporté.
+L'objet vole en ligne droite jusqu'à 9 m dans la direction choisie par Anastrasya avant de tomber au sol, s'arrêtant prématurément s'il heurte une surface solide.
+Si l'objet devait frapper une créature, cette créature doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 14</span>.
+En cas d'échec, l'objet frappe la cible et cesse de bouger.
+Lorsque l'objet frappe quelque chose, l'objet et ce qu'il frappe subissent chacun 3d8 dégâts contondants.</p>
+<h3>Réactions</h3>
+<p>Anastrasya peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
+Si Anastrasya devait perdre ses réactions et n'est pas neutralisée, elle perd une réaction à la place.</p>
+<p><strong><em>Retraite nocturne.</em></strong> En réaction à subir des dégâts, Anastrasya peut voler jusqu'à la moitié de sa vitesse sans provoquer d'attaques d'opportunité.</p>
+<p><strong><em>Appel au défenseur (1/round).</em></strong> En réaction à être ciblée par une attaque, si Anastrasya a charmé une créature, elle ordonne à cette créature d'utiliser sa réaction, si disponible, pour se déplacer jusqu'à sa vitesse de déplacement vers elle.
 
-<div class="statblock">
-<h2>Anastrasya, Vampiric Abomination</h2>
-<em>Medium undead, unaligned</em>
-<hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
-<strong>Speed</strong> 10 ft., fly 40 ft., climb 20 ft.
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>13 (+1)</td>
-      <td>10 (+0)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
-<strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 7 (2,900 XP)<br>
-<strong>Proficiency Bonus</strong> +3
-<hr>
-<p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The reduction lasts until the target finishes a long rest.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">8 (2d4 + 3) slashing damage</span>. Instead of dealing damage, Anastrasya can grapple the target (escape <span class="highlight">DC 13</span>).</p>
-<p><strong><em>Vomit Blood.</em></strong> Anastrasya spews blood in a <span class="highlight">15-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 14 Dexterity saving throw</span>, taking <span class="highlight">7 (2d6) bludgeoning damage and 3 (1d6) necrotic damage</span> on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Telekinetic Storm.</em></strong> Each creature within a <span class="highlight">5-foot radius</span> of Anastrasya must make a <span class="highlight">DC 14 Constitution saving throw</span>, taking <span class="highlight">4d4 force damage</span> on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Horrific Screech.</em></strong> All creatures that can hear within a <span class="highlight">30-foot radius</span> must succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or suffer the following effects: On a failed save, a creature has disadvantage on attack rolls, ability checks, and concentration checks until the start of Anastrasya's next turn. If a creature fails the save by 5 or more, it is also frightened of Anastrasya until the start of her next turn. If a creature fails the save by 10 or more, it is also paralyzed until the end of Anastrasya's next turn.</p>
-<h3>Reactions</h3>
-<p>Anastrasya can take up to three reactions per round, but only one per turn. If Anastrasya would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Wing Attack.</em></strong> When Anastrasya takes damage from a creature within 5 feet of her, she can force the attacker to make a <span class="highlight">DC 14 Strength saving throw</span>. On a failed save, the attacker is pushed back <span class="highlight">10 feet</span>. If they fail the save by 5 or more, they also fall prone.</p>
-<p><strong><em>Vampiric Command.</em></strong> When a creature moves within 10 feet of Anastrasya or damages her while within 10 feet of her, she can use her reaction to force the creature to make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failed save, Anastrasya can command the creature as if she had cast the <em>command</em> spell, without expending a spell slot or using any components.</p>
-</div>
 
-### Hall of Heroes
-<span class="citation"><em>This scene takes place in Chapter 4, Area K45.</em></span>
 
-This area is largely as described in <span class="citation">K45. Hall of Heroes (p. 68)</span>. However, the statues are not imbued with the spirits of Strahd’s ancestors and cannot answer questions.
+Si la créature charmée termine son déplacement à moins de 1,5 mètre d'Anastrasya, elle devient la cible de l'attaque à la place.
 
-A secret door behind the furthest-west statue on the south side of the corridor leads to [[#King’s Bedchamber]], as described in <span class="citation">K42. King’s Bedchamber (p. 68)</span>. To open it, the statue’s sword arm must be pulled thirty degrees upward.
-# P7. Bell Tower
-This area of the castle hosts the castle belfry, whose bell once marked the hours of the day and announced castle ceremonies, holidays, or other special events. Because of its relative isolation, Strahd also chose this section to host his concealed treasury—as well as a false treasury to lure would-be thieves to their doom.
-## P7a. False Treasury
-<span class="citation"><em>This scene takes place in Chapter 4, Area K38.</em></span>
+Défense Télékinétique. En réponse à une attaque ou un sort dont elle est la cible, Anastrasya invoque télékinétiquement un objet pesant entre 0,5 et 23 kg situé à moins de 9 mètres et qui n'est ni porté ni transporté, bénéficiant ainsi d'un abri partiel contre l'attaque ou le sort déclencheur.
 
-This area is largely as described in <span class="citation">K38. False Treasury (p. 66)</span>. However, a character that inspects the skeleton and succeeds on a DC 14 Wisdom (Medicine) check learns that it died of suffocation. In addition, a character that inspects the skeleton’s attire or equipment observes that its pockets are stuffed with gold coins.
+Anastrasya, Abomination Vampirique
+Mort-vivant de taille moyenne, neutre
 
-> [!lore]+ **The Choking Skeleton**
-> This dead adventurer entered Castle Ravenloft during Strahd’s hibernation, seeking to loot the castle for gold and jewels. After finding the secret door in <span class="citation">K27. King’s Hall (p. 61)</span> and using it to access <span class="citation">K31. Trapworks (p. 63)</span>, he ascended the iron chains in <span class="citation">K31a. Elevator Shaft (p. 63)</span> and exited the secret door from <span class="citation"> K31b. Shaft Access (p. 64)</span> into <span class="citation">K39. Hall of Webs (p. 67)</span>. 
+Classe d'Armure 15 (armure naturelle)
+Points de Vie 82 (11d8 + 33)
+Vitesse 3 m, vol 12 m, escalade 6 m
+
+FOR 16 (+3) DEX 16 (+3) CON 16 (+3) INT 13 (+1) SAG 10 (+0) CHA 16 (+3)  
+
+Jets de Sauvegarde Dex +6, Sag +3, Cha +6
+Compétences Tromperie +6, Perception +3, Persuasion +6, Discrétion +6
+Résistances aux dommages nécrotique ; contondant, perforant et tranchant des attaques non magiques
+Sens Vision dans le noir 18m, Perception passive 13
+Langues Commun, Elfique
+Niveau de Difficulté 7 (2900 XP)
+Bonus de Maîtrise +3
+
+Régénération. Anastrasya regagne 10 points de vie au début de son tour si elle a au moins 1 point de vie et n'est pas exposée à la lumière du soleil ou à l'eau courante. Si elle subit des dommages radiant ou des dommages d'eau bénite, cette capacité ne fonctionne pas au début de son prochain tour.
+
+Escalade. Anastrasya peut escalader les surfaces difficiles, y compris à l'envers aux plafonds, sans avoir besoin de faire un jet de caractéristique.
+
+Hypersensibilité à la Lumière du Soleil. Lorsqu'elle est exposée à la lumière du soleil, Anastrasya subit 20 dommages radiant au début de son tour, et elle a un désavantage lors des jets d'attaque et de caractéristique.
+
+Actions
+Attaques Multiples. Anastrasya effectue trois attaques, dont une seule peut être une attaque de morsure.
+
+Morsure. Attaque d'arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une créature consentante, ou une créature agrippée par Anastrasya, neutralisée ou entravée. Touché : 6 (1d6 + 3) dommages perforants plus 7 (2d6) dommages nécrotiques. Le maximum de points de vie de la cible est réduit d'un montant égal aux dommages nécrotiques subis, et Anastrasya regagne un nombre de points de vie égal à ce montant. La cible meurt si cet effet réduit son maximum de points de vie à 0. Chaque fois que la cible termine un long repos sans avoir été mordue à nouveau, elle peut lancer un de ses dés de vie et ajouter son modificateur de Constitution. Le maximum de points de vie de la cible augmente d'un montant égal au résultat. (Cette augmentation ne peut pas porter les points de vie de la cible au-dessus de son maximum initial.)
+
+Griffes. Attaque d'arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une cible. Touché : 8 (2d4 + 3) dommages tranchants. Au lieu d'infliger des dommages, Anastrasya peut agripper la cible (DD 13 pour se libérer).
+
+Vomir du Sang. Anastrasya vomit du sang dans un cône de 4,5 mètres. Chaque créature dans cette zone doit réussir un jet de sauvegarde de Dextérité DD 14, ou subir 7 (2d6) dommages contondants et 3 (1d6) dommages nécrotiques, ou la moitié de ces dommages si le jet est réussi.
+
+Actions Bonus
+
+
+
+<p><strong><em>Tempête Télékinésique.</em></strong> Chaque créature dans un <span class="highlight">rayon de 1,5 mètre</span> d'Anastrasya doit réussir un <span class="highlight">jet de sauvegarde de Constitution DD 14</span>, subissant <span class="highlight">4d4 dégâts de force</span> en cas d'échec, ou la moitié des dégâts en cas de réussite.</p>
+<p><strong><em>Cri Horrifique.</em></strong> Toutes les créatures pouvant entendre dans un <span class="highlight">rayon de 9 mètres</span> doivent réussir un <span class="highlight">jet de sauvegarde de Constitution DD 14</span> ou subir les effets suivants : En cas d'échec, une créature subit un désavantage sur les jets d'attaque, les tests de caractéristique et les tests de concentration jusqu'au prochain tour d'Anastrasya.
+Si une créature échoue de 5 ou plus, elle est également effrayée par Anastrasya jusqu'à son prochain tour.
+Si une créature échoue de 10 ou plus, elle est également paralysée jusqu'à la fin du prochain tour d'Anastrasya.</p>
+<h3>Réactions</h3>
+<p>Anastrasya peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
+Si Anastrasya devait perdre ses réactions et n'est pas neutralisée, elle perd une réaction à la place.</p>
+<p><strong><em>Attaque d'Aile.</em></strong> Lorsqu'Anastrasya subit des dégâts d'une créature à 1,5 mètre ou moins, elle peut forcer l'attaquant à effectuer un <span class="highlight">jet de sauvegarde de Force DD 14</span>.
+En cas d'échec, l'attaquant est repoussé de <span class="highlight">3 mètres</span>.
+S'il échoue de 5 ou plus, il tombe également à terre.</p>
+<p><strong><em>Commandement Vampirique.</em></strong> Lorsqu'une créature s'approche à 3 mètres ou moins d'Anastrasya ou lui inflige des dégâts à cette distance, elle peut utiliser sa réaction pour forcer la créature à effectuer un <span class="highlight">jet de sauvegarde de Sagesse DD 14</span>.
+En cas d'échec, Anastrasya peut donner un ordre à la créature comme si elle avait lancé le sort <em>Injonction</em>, sans dépenser un emplacement de sort ni utiliser de composantes.</p>
+
+> [!lore]+ **Le Squelette Étouffant**
+> Cet aventurier mort est entré dans le Château Ravenloft pendant l'hibernation de Strahd, cherchant à piller le château pour de l'or et des bijoux. Après avoir trouvé la porte secrète dans <span class="citation">K27. Salle du Roi (p. 61)</span> et l'avoir utilisée pour accéder à <span class="citation">K31. Salle des Pièges (p. 63)</span>, il est monté sur les chaînes de fer dans <span class="citation">K31a. Puits de l'Ascenseur (p. 63)</span> et est sorti de la porte secrète de <span class="citation">K31b. Accès au Puits (p. 64)</span> dans <span class="citation">K39. Salle des Toiles (p. 67)</span>.
 >
-> After entering the then-open secret door into <span class="citation">K38. False Treasury (p. 66)</span>, the adventurer took the torch from the wall nearby, causing the secret door to swing closed. He then opened the chest, failed to resist the effects of the sleeping gas, and became paralyzed. The fire in the fireplace in <span class="citation">K37. Study (p. 66)</span> then slowly consumed the rest of the oxygen in the chamber, eventually suffocating him.
+> Après être entré dans la porte secrète alors ouverte de <span class="citation">K38. Faux Trésor (p. 66)</span>, l'aventurier a pris la torche du mur à proximité, ce qui a fait pivoter la porte secrète pour se fermer. Il a ensuite ouvert le coffre, n'a pas réussi à résister aux effets du gaz soporifique et a été paralysé. Le feu dans la cheminée de <span class="citation">K37. Étude (p. 66)</span> a alors lentement consommé le reste de l'oxygène dans la chambre, le suffoquant finalement.
 
-A creature that fails its saving throw against the sleeping gas can repeat the saving throw every ten minutes. The first time a creature succeeds on a repeated saving throw in this way, it becomes poisoned, rather than paralyzed. The second time a creature succeeds on a repeated saving throw in this way, the effects of the sleeping gas on it end.
+Une créature qui échoue son jet de sauvegarde contre le gaz soporifique peut répéter le jet de sauvegarde toutes les dix minutes. La première fois qu'une créature réussit un jet de sauvegarde répété de cette manière, elle devient empoisonnée, plutôt que paralysée. La deuxième fois qu'une créature réussit un jet de sauvegarde répété de cette manière, les effets du gaz soporifique sur elle prennent fin.
 
-If the players activate the trap and then linger here for twenty minutes or more (e.g., to wait until their allies recover from the sleeping gas, or because all of the players and their NPC companions have failed their saving throws against it), the **invisible stalker** in [[#P7d. Treasury]] uses its ***air form*** feature to slip out of a crack in the wall between [[#P7d. Treasury]] and [[#P7c. Belfry]], passes through [[#P7b. Belfry Access Hall]], and stops on the opposite side of the secret door. It then attempts to discern whether any characters remain conscious. Read:
-
-<div class="description">
-<p>A chill wind rises in the distance, whistling softly through the castle’s distant halls and towers. As it dies down, a soft knocking echoes from the opposite side of the east wall.</p>
-</div>
-
-If any players knock on the door or otherwise indicate their presence, the **invisible stalker** flees and returns to [[#P7d. Treasury]]. Otherwise, if the players fail to indicate their presence, the invisible stalker passes through a crack in the wall and enters the chamber. Read:
+Si les joueurs activent le piège et restent ici pendant vingt minutes ou plus (par exemple, pour attendre que leurs alliés se remettent du gaz soporifique, ou parce que tous les joueurs et leurs compagnons PNJ n'ont pas réussi leurs jets de sauvegarde contre celui-ci), le **stalker invisible** dans [[#P7d. Trésor]] utilise sa capacité ***forme aérienne*** pour sortir d'une fissure dans le mur entre [[#P7d. Trésor]] et [[#P7c. Beffroi]], passe par [[#P7b. Couloir d'Accès au Beffroi]], et s'arrête du côté opposé de la porte secrète. Il tente alors de discerner si des personnages sont encore conscients. Lire :
 
 <div class="description">
-<p>The wind whistles softly, and the clouds of smoke begin to stir . Slowly, a shape takes form in the ashen haze: a humanoid silhouette, composed entirely of clean, smokeless air.</p>
+<p>Un vent glacial se lève au loin, sifflant doucement à travers les couloirs et les tours lointains du château. Alors qu'il s'apaise, un léger coup retentit de l'autre côté du mur est.</p>
 </div>
 
-The silhouette is the invisible stalker. If any character moves, speaks, or otherwise makes clear that they aren’t paralyzed, the invisible stalker flees back into the crack in the wall and enters <span class="citation">K40. Belfry (p. 67)</span>. There, it rings the bell three times before returning to [[#P7d. Treasury]]. Read:
+Si des joueurs frappent à la porte ou indiquent leur présence d'une autre manière, le **stalker invisible** s'enfuit et retourne dans [[#P7d. Trésor]]. Sinon, si les joueurs ne signalent pas leur présence, le stalker invisible passe à travers une fissure dans le mur et entre dans la chambre. Lire :
 
 <div class="description">
-<p>The tolling of a great, sonorous bell reverberates through the air—once, twice, three times—leaving the air and stones themselves seeming to tremble with its echoes.</p>
+<p>Le vent siffle doucement et les nuages de fumée commencent à s'agiter. Lentement, une forme prend forme dans la brume enfumée : une silhouette humanoïde, composée entièrement d'air pur et sans fumée.</p>
 </div>
 
-The sound of the bell attracts two **vampire spawn**, who pass from <span class="citation">K53. Rooftop (p. 71)</span> into <span class="citation">K20. Heart of Sorrow (p. 59)</span>, then descend to <span class="citation">K45. Hall of Heroes (p. 68)</span> before entering the false treasury via the secret door in <span class="citation">K37. Study (p. 66)</span>. The vampires attack the players on sight.
-
-Otherwise, if undisturbed, the invisible stalker inspects each character’s body to retrieve any valuables, which it places in a pile on the floor. If it has obtained any valuable items other than coins (e.g., magical items), it replaces the torch in the wall, causing the secret door to swing open. It then takes those valuables and deposits them in [[#P7d. Treasury]].
-## P7b. Belfry Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K39.</em></span>
-
-This area is as described in <span class="citation">K39. Hall of Webs (p. 67)</span>.
-## P7c. Belfry
-<span class="citation"><em>This scene takes place in Chapter 4, Area K40.</em></span>
-  
-> [!combat]- **Balancing the Belfry** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of giant spiders to 4. 
-> * **Four Players**. Reduce the number of giant spiders to 4. 
-> * **Six Players**. Increase the number of giant spiders to 6.
-
-This area is largely as described in <span class="citation">K40. Belfry (p. 67)</span>. However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player with a passive Wisdom (Perception) score of 16 or higher notices that the dust and webbing around the secret door have recently been disturbed.
-## P7d. Treasury
-<span class="citation"><em>This scene takes place in Chapter 4, Area K41.</em></span>
-### Entering the Tower
-This area is largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, the command word to the *Daern’s instant fortress* is the same phrase as for the *Tome of Strahd*: “I come in Dostron’s memory."
-
-Speaking the command phrase aloud doesn’t cause the door or trapdoor to open. Instead, once the command phrase is spoken, the adamantine door (on the ground floor) and trapdoor (on the roof) become reflective, mirror-like surfaces for the next 1 minute. Read:
+La silhouette est le stalker invisible. Si un personnage bouge, parle ou indique clairement qu'il n'est pas paralysé, le stalker invisible s'enfuit dans la fissure du mur et entre dans <span class="citation">K40. Beffroi (p. 67)</span>. Là, il sonne la cloche trois fois avant de retourner dans [[#P7d. Trésor]]. Lire :
 
 <div class="description">
-<p>The door’s surface shimmers, its dull-grey sheen becoming a reflective, mirror-like surface. An ornate door handle, floating disembodied in the air, appears reflected in the mirror. Though it seems to be approximately two inches beyond the mirror’s surface, no physical door handle appears to cast such a reflection.</p>
+<p>Le tintement d'une grande cloche sonore résonne dans l'air — une fois, deux fois, trois fois — laissant l'air et les pierres elles-mêmes sembler trembler sous ses échos.</p>
 </div>
 
-The door handle opens the door (or trapdoor) leading inside the fortress. However, any creature whose visage is reflected in the mirror is unable to reach inside the mirror to use the handle. A creature that touches the mirror in this way notices that the surface is warm, not cold, and feels similar in texture to the extremity or object that touched it.
+Le son de la cloche attire deux **vampires engendrés**, qui passent de <span class="citation">K53. Toit (p. 71)</span> à <span class="citation">K20. Cœur de la Souffrance (p. 59)</span>, puis descendent à <span class="citation">K45. Salle des Héros (p. 68)</span> avant d'entrer dans le faux trésor par la porte secrète dans <span class="citation">K37. Étude (p. 66)</span>. Les vampires attaquent les joueurs à vue.
 
-Creatures that don’t cast a reflection (e.g., because they are invisible, because the room is completely dark, or because they are a vampire) can reach into the mirror and open the handle normally. (Due to the sparkling of the painted “stars" on the ceiling above, the players must take some action to darken the stars’ light in order to remove their reflection through darkness.)
 
-Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in <span class="citation">K41. Treasury (p. 67)</span>.
-### Plundering the Treasury
-The contents of the treasury are largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, and two *pearls of power*. In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
 
-An **invisible stalker** bound by Strahd to protect the treasury’s contents lurks in the upper floor of the tower. The invisible stalker has the following changes to its statistics:
+Sinon, si elle n'est pas dérangée, la stalker invisible inspecte le corps de chaque personnage pour récupérer les objets de valeur, qu'elle place en tas sur le sol. Si elle a obtenu des objets de valeur autres que des pièces (par exemple, des objets magiques), elle replace la torche dans le mur, ce qui fait s'ouvrir la porte secrète. Elle prend ensuite ces objets de valeur et les dépose dans [[#P7d. Trésorerie]].
 
-* It has the ***air form*** feature of an **air elemental**.
+## P7b. Couloir d'accès au beffroi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K39.</em></span>
 
-Shortly after a character enters the lower floor of the tower for the first time, the invisible stalker causes the *driftglobe* to roll off of its shelf and onto the floor, where it comes to rest against one of the tower’s walls. The stalker then exits the tower through one of the arrow slits, waits for any characters to ascend to the upper floor, then slams the ground-floor door shut before returning to the upper floor. Upon returning, it attacks any characters that remain or re-enter the tower’s upper floor. (The stalker also eventually attacks if no characters enter the upper floor.)
-# P8. Guest Suite
-This area of the castle once hosted important guests to the keep, including those described in <span class="citation">Pidlwick II (p. 236)</span>. In the castle’s heyday, access to the elevator shaft once allowed servants to bring hot meals and wine directly from the kitchens and wine cellar, providing prompt and efficient service.
-## P8a. Guest Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K47.</em></span>
+Cette zone est décrite dans <span class="citation">K39. Salle des toiles (p. 67)</span>.
 
-This area is largely as described in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, modify the portrait as follows:
+## P7c. Beffroi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K40.</em></span>
 
-* The portrait can take up to three reactions per round, but only one per turn.
-* The portrait gains the following reaction: ***Reflexive Spellcasting.*** In response to being targeted by an attack or spell, or in response to a creature casting a spell that would place the portrait in its area of effect, the portrait casts one of the spells it knows.
-* The portrait gains the following feature: ***Split Mind.*** The portrait can concentrate on up to three spells at a time. If the portrait would lose its concentration while concentrating on multiple spells, roll 1d4. On a roll of 3 or below, it loses concentration on one random spell it’s currently concentrating on. On a roll of 4, it loses concentration on all spells instead.
+> [!combat]- **Équilibrer le Beffroi**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 7, un allié CR 2 (Ireena Kolyana) et un allié CR 4 (Ezmerelda d'Avenir), et consommera environ 15% de leurs points de vie maximum. Pour des groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+> * **Trois joueurs**. Réduisez le nombre d'araignées géantes à 4.
+> * **Quatre joueurs**. Réduisez le nombre d'araignées géantes à 4.
+> * **Six joueurs**. Augmentez le nombre d'araignées géantes à 6.
 
-> [!combat]- **Balancing the Guest Landing** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the rug of smothering’s hit points to 33, and the damage of its Smother attacks to 8 (2d4+3). Additionally, reduce the Guardian Portrait’s hit points to 16.
+Cette zone est largement décrite dans <span class="citation">K40. Beffroi (p. 67)</span>. Cependant, si les joueurs ont attiré l'attention du **stalker invisible** en activant le piège de gaz soporifique dans [[#P7a. Fausse Trésorerie]], un joueur avec un score de Sagesse (Perception) passive de 16 ou plus remarque que la poussière et les toiles d'araignée autour de la porte secrète ont été récemment perturbées.
 
-On initiative count 20 of the second round of combat after the **guardian portrait** or **rug of smothering** attacks, a black **cat** emerges from <span class="citation">K48. Offstair (p. 70)</span> and notices them. Read:
+## P7d. Trésorerie
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K41.</em></span>
+
+### Entrer dans la Tour
+Cette zone est largement décrite dans <span class="citation">K41. Trésorerie (p. 67)</span>. Cependant, le mot de passe pour le *Daern's instant fortress* est la même phrase que pour le *Tome de Strahd* : "Je viens en mémoire de Dostron."
+
+Prononcer cette phrase à voix haute n'ouvre pas la porte ou la trappe. Au lieu de cela, une fois la phrase de passe prononcée, la porte d'adamantine (au rez-de-chaussée) et la trappe (sur le toit) deviennent des surfaces réfléchissantes, semblables à des miroirs pendant la minute suivante. Lisez :
 
 <div class="description">
-<p>The darkness filling the ascending stair stirs. A black cat peers out of the shadows, its green eyes glinting with a strange, malevolent intelligence. Its gaze lands upon you, and, with a hiss, it turns and begins darting back up the stairs.</p>
+<p>La surface de la porte scintille, son éclat gris terne devenant une surface réfléchissante, semblable à un miroir. Une poignée de porte ornée, flottant désincarnée dans les airs, apparaît reflétée dans le miroir. Bien qu'elle semble se trouver à environ 5 cm au-delà de la surface du miroir, aucune poignée de porte physique ne projette une telle réflexion.</p>
 </div>
 
-The cat is the familiar of a **Barovian witch** in [[#P9. Coven’s Quarters]], and disappears up the stairs on initiative count 20 of the following round. Unless the players kill, capture, or otherwise stop it, it goes to warn its mistress in [[#P9c. Cauldron Room]] of the players’ presence. (If killed, the cat vanishes as described in the *find familiar* spell.)
+La poignée de porte ouvre la porte (ou la trappe) menant à l'intérieur de la forteresse. Cependant, toute créature dont le visage est reflété dans le miroir est incapable d'atteindre le miroir pour utiliser la poignée. Une créature qui touche le miroir de cette façon remarque que la surface est chaude, pas froide, et a une texture similaire à l'extrémité ou à l'objet qui l'a touchée.
 
-Shortly after combat ends, the door to <span class="citation">K49. Lounge (p. 70)</span> cracks open, and a pale, anxious-looking face peers out. (A player with a passive Wisdom (Perception) score of 14 or greater recognizes the face as Escher’s.) Upon noticing the players, Escher then immediately slams the door shut again.
-## P8b. Guest Suite
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K49, 50 & 51.</em></span>
+Les créatures qui ne projettent pas de reflet (par exemple, parce qu'elles sont invisibles, parce que la pièce est complètement sombre ou parce qu'elles sont des vampires) peuvent atteindre le miroir et ouvrir la poignée normalement. (En raison de l'étincellement des "étoiles" peintes au plafond, les joueurs doivent prendre des mesures pour assombrir la lumière des étoiles afin de supprimer leur reflet dans l'obscurité.)
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, modify this area’s description depending on Escher’s location, which is as follows:
 
-* If he saw the players in <span class="citation">K47. Portrait of Strahd (p. 68)</span> after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in <span class="citation">K51. Closet (p. 70)</span> while waiting for the players to leave. 
-* Otherwise, Escher is lounging on the couch as described in <span class="citation">K49. Lounge (p. 70)</span>.
 
-Regardless of his location, once discovered by the players, Escher immediately pales, then drops to his knees and begs the players to spare his life. While babbling, he promises, amongst other things, to “drink only animal blood," “become a vegetarian," or “become a monk of the Morninglord."
+Les joueurs qui échouent à ouvrir la porte peuvent quand même entrer dans la tour par téléportation magique ou en passant à travers les meurtrières de la tour par des moyens magiques, comme décrit dans <span class="citation">K41. Trésorerie (p. 67)</span>.
+### Piller la Trésorerie
+Le contenu de la trésorerie est en grande partie tel que décrit dans <span class="citation">K41. Trésorerie (p. 67)</span>. Cependant, remplacez la *cruche d'alchimie*, le *casque de brillance* et la *baguette du garde du pacte, +1* par un *globederive*, une *cape du saltimbanque*, deux *perles de puissance* et un *éclat d'ambre* de Grand Taar Haak, le Destructeur à Cinq Têtes. (Voir l'annexe [[Éclats d'Ambre]] pour plus d'informations sur les éclats d'ambre.). De plus, remplacez les quatre *potions de guérison supérieure* par des *potions de guérison supérieure*, et ajoutez une *arbalète légère +1* suspendue à un crochet sur le mur.
 
-***Threatening Escher.*** Players who threaten Escher and succeed on a DC 15 Charisma (Intimidation) check can convince him to provide the information in **What Escher Knows** below. Otherwise, Escher cowers and pleads for mercy while insisting he cannot betray “Count von Zarovich." 
+Un **stalker invisible** lié par Strahd pour protéger le contenu de la trésorerie se cache à l'étage supérieur de la tour. Le stalker invisible a les changements suivants à ses statistiques :
 
-If attacked, Escher attempts to flee through the window as described in <span class="citation">K49. Lounge (p. 70)</span>.
+* Il a la caractéristique ***forme aérienne*** d'un **élémentaire d'air**.
 
-***Reassuring Escher.*** If reassured that the players mean him no harm, Escher looks abashed, then grows sullen and irate. He demands to know why the players have “come traipsing through the Master’s castle," but almost immediately changes his mind and insists that he “has no interest in their games."
+Peu après qu'un personnage entre pour la première fois à l'étage inférieur de la tour, le stalker invisible fait rouler le *globederive* de son étagère et le fait tomber par terre, où il vient se coller contre l'un des murs de la tour. Le stalker sort ensuite de la tour par l'une des meurtrières, attend que des personnages montent à l'étage supérieur, puis claque la porte de l'étage inférieur avant de revenir à l'étage supérieur. De retour, il attaque les personnages qui restent ou qui rentrent à nouveau dans l'étage supérieur de la tour. (Le stalker finit aussi par attaquer si aucun personnage n'entre à l'étage supérieur.)
 
-As the conversation unfolds, if Ireena is present, a player with a passive Wisdom (Insight) score of 14 or more notices that Escher appears to be studiously refusing to meet her gaze. A successful subsequent DC 14 Wisdom (Insight) check reveals that Escher appears to flinch and quickly look away whenever he notices Ireena’s eyes meet his own. 
+# P8. Suite d'Invités
+Cette partie du château accueillait autrefois les invités importants du donjon, y compris ceux décrits dans <span class="citation">Pidlwick II (p. 236)</span>. À l'époque florissante du château, l'accès à la cage d'ascenseur permettait aux serviteurs d'apporter directement des repas chauds et du vin depuis les cuisines et la cave à vin, offrant ainsi un service rapide et efficace.
 
-Players who invoke Escher’s former relationship to the village of Barovia and succeed on a DC 15 Charisma (Persuasion) check can convince him to share the information contained in **What Escher Knows** below. A player makes the check with advantage if they blame Escher aloud for Strahd’s awakening and Strahd’s subsequent hunt for Ireena, Gertruda’s imprisonment, or Doru’s vampirism, and succeeds automatically if Doru is present. On a failure, Escher politely declines to assist the players, insisting that he cannot betray “Count von Zarovich’s secrets" on pain of death.
+## P8a. Palier des Invités
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K47.</em></span>
 
-> [!info]+ **What Escher Knows**
-> If convinced to do so, Escher can provide the following information about the following items of interest in Castle Ravenloft:
+Cette zone est en grande partie telle que décrite dans <span class="citation">K47. Portrait de Strahd (p. 68)</span>. Cependant, modifiez le portrait comme suit :
+
+* Le portrait peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
+* Le portrait gagne la réaction suivante : ***Incantation Réflexe.*** En réaction à être la cible d'une attaque ou d'un sort, ou en réaction à un sort lancé qui le placerait dans sa zone d'effet, le portrait lance un des sorts qu'il connaît.
+* Le portrait gagne la caractéristique suivante : ***Esprit Divisé.*** Le portrait peut se concentrer sur jusqu'à trois sorts à la fois. S'il devait perdre sa concentration alors qu'il se concentre sur plusieurs sorts, lancez 1d4. Sur un résultat de 3 ou moins, il perd sa concentration sur un sort aléatoire qu'il concentrait. Sur un 4, il perd sa concentration sur tous les sorts.
+
+> [!combat]- **Équilibrer le Palier des Invités**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 7, un allié de CR 2 (Ireena Kolyana) et un allié de CR 4 (Ezmerelda d'Avenir), et consommera environ 3% de leurs points de vie maximum totaux. Pour des groupes de taille plus petite ou plus grande, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez les points de vie du tapis étouffant à 115, et les dégâts de ses attaques Étouffer à 24 (2d4+3). De plus, réduisez les points de vie du Portrait Gardien à 55.
+
+À l'initiative 20 du deuxième tour de combat après que le **portrait gardien** ou le **tapis étouffant** attaque, un **chat** noir émerge de <span class="citation">K48. Cage d'Escalier (p. 70)</span> et les remarque. Lisez :
+
+
+
+<div class="description">
+<p>L'obscurité emplissant l'escalier montant remue. Un chat noir jette un coup d'œil hors de l'ombre, ses yeux verts brillant d'une étrange intelligence malveillante. Son regard se pose sur vous et, avec un sifflement, il se retourne et commence à s'enfuir par les escaliers.</p>
+</div>
+
+Le chat est la familière d'une **sorcière barovienne** dans [[#P9. Quartiers de la Covène]], et disparaît dans les escaliers à l'initiative 20 du round suivant. À moins que les joueurs ne le tuent, le capturent ou l'arrêtent d'une autre manière, il va prévenir sa maîtresse dans [[#P9c. Salle du Chaudron]] de la présence des joueurs. (S'il est tué, le chat disparaît comme décrit dans le sort *Familier*.)
+
+Peu après la fin du combat, la porte de <span class="citation">K49. Salon (p. 70)</span> s'entrouvre et un visage pâle et anxieux regarde dehors. (Un joueur avec un score de Sagesse (Perception) passif de 14 ou plus reconnaît le visage d'Escher.) En remarquant les joueurs, Escher claque alors immédiatement la porte.
+
+## P8b. Suite d'Invités
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K49, 50 et 51.</em></span>
+
+Cette zone est largement décrite dans <span class="citation">K49. Salon (p. 70)</span>, <span class="citation">K50. Chambre d'Invités (p. 70)</span> et <span class="citation">K51. Placard (p. 70)</span>. Cependant, modifiez la description de cette zone en fonction de l'emplacement d'Escher, qui est le suivant :
+
+* S'il a vu les joueurs dans <span class="citation">K47. Portrait de Strahd (p. 68)</span> après qu'ils ont combattu le **portrait gardien** et le **tapis étouffant** dans [[#P8a. Palier des Invités]], Escher tente de se cacher dans <span class="citation">K51. Placard (p. 70)</span> en attendant que les joueurs partent.
+* Sinon, Escher est allongé sur le canapé comme décrit dans <span class="citation">K49. Salon (p. 70)</span>.
+
+Quelle que soit sa position, une fois découvert par les joueurs, Escher pâlit immédiatement, puis tombe à genoux et supplie les joueurs d'épargner sa vie. Tout en marmonnant, il promet, entre autres, de "boire uniquement du sang animal", "devenir végétarien" ou "devenir un moine du Seigneur du Matin".
+
+***Menacer Escher.*** Les joueurs qui menacent Escher et réussissent un jet de Charisme (Intimidation) DD 15 peuvent le convaincre de fournir les informations dans **Ce qu'Escher sait** ci-dessous. Sinon, Escher se recroqueville et implore la pitié tout en insistant sur le fait qu'il ne peut trahir le "Comte von Zarovich".
+
+S'il est attaqué, Escher tente de s'enfuir par la fenêtre comme décrit dans <span class="citation">K49. Salon (p. 70)</span>.
+
+***Rassurer Escher.*** S'il est rassuré que les joueurs ne lui veulent aucun mal, Escher a l'air gêné, puis devient morne et irrité. Il demande aux joueurs pourquoi ils sont "venus se promener dans le château du Maître", mais change presque immédiatement d'avis et insiste sur le fait qu'il "ne s'intéresse pas à leurs jeux".
+
+Au fil de la conversation, si Ireena est présente, un joueur avec un score de Sagesse (Perspicacité) passif de 14 ou plus remarque qu'Escher semble studieusement refuser de croiser son regard. Un jet de Sagesse (Perspicacité) DD 14 réussi révèle qu'Escher semble frissonner et détourner rapidement le regard chaque fois qu'il remarque le regard d'Ireena croiser le sien.
+
+Les joueurs qui invoquent l'ancienne relation d'Escher avec le village de Barovia et réussissent un jet de Charisme (Persuasion) DD 15 peuvent le convaincre de partager les informations contenues dans **Ce qu'Escher sait** ci-dessous. Un joueur fait le jet avec un avantage s'il blâme Escher à haute voix pour le réveil de Strahd et la chasse de Strahd pour Ireena, l'emprisonnement de Gertruda ou le vampirisme de Doru, et réussit automatiquement si Doru est présent. En cas d'échec, Escher décline poliment d'aider les joueurs, insistant sur le fait qu'il ne peut trahir les "secrets du Comte von Zarovich" sous peine de mort.
+
+> [!info]+ **Ce qu'Escher sait**
+> Si convaincu de le faire, Escher peut fournir les informations suivantes sur les éléments d'intérêt suivants dans le château de Ravenloft :
 >
-> * **Gertruda.** “She’s in the royal suite, on the third floor. Just head down the south tower stairs—the same ones you came up. Don’t mention my name—Anastrasya is watching her."
-> * **Argynvost’s Skull.** “A dragon skull? I’ve seen one in the ossuary in the larders. The doors are right by the kitchens, down the south tower stairs."
-> * **Emil.** “I don’t know about anyone by that description. The dungeons are at the base of the south tower, though. They’re filthy and flooded, so I try to avoid them."
-> * **The Catacombs.** “The high tower stair used to lead straight down from the chapel, but the Master walled it off. I know Rahadin still goes down there sometimes, though, so there must be another way in."
-> 
-> Escher can also provide the following information if directly requested:
-> 
-> * **The Witches’ Coven.** Ludmilla is the mistress of a coven of six **Barovian witches**, who perform fell rituals and concoct foul brews on the floor above the guest suite. They’ve recently begun experimenting with and creating strange forms of undead, which Escher has been studiously avoiding. (If asked, Escher can share only that these undead appear as normal zombies, but with smooth, white flesh with crimson veins, and that red mist continually spills from their mouths.)
-> * **Volenta Popofsky.** Volenta enjoys lurking in the torture chamber near the dungeons. (Escher has never seen it, and has no wish to.)
-> 
-> Escher has little other information to share. He has no knowledge of the castle treasury, the illusions in the [[#Main Entrance]], or the Heart of Sorrow. 
+> * **Gertruda.** "Elle se trouve dans la suite royale, au troisième étage. Il suffit de descendre les escaliers de la tour sud - les mêmes que vous avez empruntés pour monter. Ne mentionnez pas mon nom - Anastrasya la surveille."
+> * **Le crâne d'Argynvost.** "Un crâne de dragon ? J'en ai vu un dans l'ossuaire des garde-manger. Les portes sont juste à côté des cuisines, dans les escaliers de la tour sud."
+> * **Emil.** "Je ne connais personne correspondant à cette description. Les cachots se trouvent au pied de la tour sud, cependant. Ils sont sales et inondés, alors j'essaie de les éviter."
+> * **Les Catacombes.** "L'escalier de la haute tour menait autrefois directement à la chapelle, mais le Maître l'a muré. Je sais cependant que Rahadin y descend encore parfois, il doit donc y avoir un autre accès."
 >
-> Other than sharing the above information, Escher is too terrified of Strahd to provide the players with assistance navigating the castle, obtaining the items they seek, or combating Strahd’s other consorts and minions.
-
-> [!abstract]+ **Doru’s Demand**
-> If Doru accompanied the players to Castle Ravenloft and is present when they meet Escher, as the players move to leave Escher behind, he pauses, then turns to address Escher. The following exchange then occurs unless the players intervene:
+> Escher peut également fournir les informations suivantes si on les lui demande directement :
 >
-> * Doru weakly notes that Escher is “looking well." Escher’s hands ball into fists, and he asks, “Is that a problem?"
-> * Doru raises his hands and insists he “meant nothing" by his comment—only that he wanted to make sure Escher was safe. “My own stay at Castle Ravenloft was less than pleasant," he says raggedly, but earnestly. “I’m glad if yours has been more so."
-> * Escher croaks, “Pleasant enough."
-> * Doru hesitates, then says, “I don’t know what your situation is here, but you don’t have to stay. You can come with us. Even as monsters, we have a choice." He extends a hand toward Escher, and quietly adds, “Please."
-> * Escher freezes, staring toward Doru’s hand, then tears his gaze away, turns his back on Doru, and crosses his arms across his chest. “You made your choice," he rasps, “and so did I."
-> * Doru swallows, then lowers his hand. “I understand," he says. “But that offer is always open, if you change your mind." He then turns to join the players in leaving.
-> 
-> As they leave, a player with a passive Wisdom (Insight) score of 14 or greater notices that Escher’s shoulders are trembling with silent sobs.
-# P9. Coven’s Quarters
-This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, <span class="citation">K54. Familiar Room (p. 71)</span> was a guard post responsible for manning and supplying <span class="citation">K57. Tower Roof (p. 72)</span>, <span class="citation">K55. Element Room (p. 72)</span> was a map room and armory, and <span class="citation">K56. (p. Cauldron Room)</span> hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in <span class="citation">Crypt 38 (p. 92)</span>.
-## P9a. Familiar Room
-<span class="citation"><em>This scene takes place in Chapter 4, Area K54.</em></span>
+> * **Le Couvent des Sorcières.** Ludmilla est la maîtresse d'un couvent de six **sorcières baroviennes**, qui accomplissent de sombres rituels et préparent d'immondes breuvages à l'étage au-dessus de la suite d'invités. Elles ont récemment commencé à expérimenter et à créer d'étranges formes de morts-vivants, qu'Escher évite soigneusement. (Si on le lui demande, Escher peut seulement dire que ces morts-vivants ressemblent à des zombies normaux, mais avec une peau lisse et blanche aux veines cramoisies, et qu'une brume rouge s'échappe constamment de leur bouche.)
+> * **Volenta Popofsky.** Volenta aime rôder dans la chambre de torture près des cachots. (Escher ne l'a jamais vue et n'a aucune envie de s'y rendre.)
+>
+> Escher a peu d'autres informations à partager. Il n'a aucune connaissance du trésor du château, des illusions de l'[[#Entrée Principale]], ou du Cœur de la Douleur.
+>
+> Mis à part les informations ci-dessus, Escher a trop peur de Strahd pour aider les joueurs à se déplacer dans le château, à obtenir les objets qu'ils recherchent ou à combattre les autres sbires et consorts de Strahd.
 
-This area is largely as described in <span class="citation">K54. Familiar Room (p. 71)</span>. However, the door to this chamber is ajar, as is the door to the chamber beyond. 
+> [!abstract]+ **L'exigence de Doru**
+> Si Doru a accompagné les joueurs au château Ravenloft et est présent lorsqu'ils rencontrent Escher, alors que les joueurs s'apprêtent à laisser Escher derrière eux, il s'arrête, puis se tourne vers Escher. L'échange suivant a alors lieu, à moins que les joueurs n'interviennent :
+>
+> * Doru note faiblement qu'Escher a "l'air en forme". Les mains d'Escher se serrent en poings et il demande : "Est-ce un problème ?"
+> * Doru lève les mains et insiste qu'il ne "voulait rien dire" par son commentaire - seulement qu'il voulait s'assurer qu'Escher était en sécurité. "Mon propre séjour au château Ravenloft a été loin d'être agréable", dit-il d'une voix rauque, mais sincère. "Je suis heureux si le vôtre l'a été davantage."
+> * Escher croasse : "Assez agréable".
+> * Doru hésite, puis dit : "Je ne sais pas quelle est votre situation ici, mais vous n'êtes pas obligé de rester. Vous pouvez venir avec nous. Même en tant que monstres, nous avons le choix." Il tend la main vers Escher et ajoute calmement : "S'il vous plaît".
+> * Escher se fige, fixant la main tendue de Doru, puis détourne le regard, tourne le dos à Doru et croise les bras sur sa poitrine. "Vous avez fait votre choix", râle-t-il, "et moi aussi."
+> * Doru avale sa salive, puis baisse la main. "Je comprends", dit-il. "Mais cette offre reste ouverte, si vous changez d'avis." Il se tourne ensuite pour rejoindre les joueurs lorsqu'ils partent.
+>
+> À leur départ, un joueur avec un score de Sagesse (Perspicacité) passif de 14 ou plus remarque que les épaules d'Escher tremblent de sanglots silencieux.
 
-> [!abstract]+ **Watchful Familiars**
-> The witches aren’t automatically alerted to the players’ presence if the familiars see them here. However, if the players failed to prevent the **black cat** familiar in [[#P8a. Guest Landing]] from alerting its mistress, three of the witches in [[#P9c. Cauldron Room]] are watching through the eyes of the three **cats** in this chamber as described in the *find familiar* spell.
-## P9b. Element Room
-<span class="citation"><em>This scene takes place in Chapter 4, Area K55.</em></span>
+# P9. Quartiers du Couvent
+Cette zone se trouve au sommet de la Tour Sud du château Ravenloft, jadis surnommée la "Tour du Général" pour le contenu de son étage le plus élevé. Avant que Strahd ne devienne un vampire, <span class="citation">K54. Salle du familier (p. 71)</span> était un poste de garde responsable de la surveillance et de l'approvisionnement de <span class="citation">K57. Toit de la tour (p. 72)</span>, <span class="citation">K55. Salle des éléments (p. 72)</span> était une salle des cartes et une armurerie, et <span class="citation">K56. Salle du chaudron (p.)</span> abritait les quartiers du général Kroval "Chien Fou" Grislek, dont les restes se trouvent désormais dans la <span class="citation">Crypte 38 (p. 92)</span>.
 
-This area is largely as described in <span class="citation">K55. Element Room (p. 72)</span>. However, a **zombie** stands silently at the center of the room. (The zombie doesn’t attack except in self-defense, or except as directed by the coven.) Add the following to the end of this area’s description:
+## P9a. Salle du familier
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K54.</em></span>
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K54. Salle du familier (p. 71)</span>. Cependant, la porte de cette chambre est entrouverte, tout comme celle de la chambre suivante.
+
+> [!abstract]+ **Familiers vigilants**
+> Les sorcières ne sont pas automatiquement alertées de la présence des joueurs si les familiers les voient ici. Cependant, si les joueurs n'ont pas réussi à empêcher le familier **chat noir** dans [[#P8a. Palier des invités]] d'alerter sa maîtresse, trois des sorcières dans [[#P9c. Salle du chaudron]] observent à travers les yeux des trois **chats** dans cette pièce comme décrit dans le sort *invoquer un familier*.
+
+## P9b. Salle des éléments
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K55.</em></span>
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K55. Salle des éléments (p. 72)</span>. Cependant, un **zombie** se tient immobile au centre de la pièce. (Le zombie n'attaque qu'en cas de légitime défense, ou sur les directives du couvent.) Ajoutez ceci à la fin de la description de cette zone :
 
 <div class="description">
-<p>A rotting figure stands still at the center of the room, its glassy, unblinking eyes staring straight ahead.</p>
+<p>Une figure en décomposition se tient immobile au centre de la pièce, ses yeux vitreux et sans ciller fixant droit devant elle.</p>
 </div>
 
-> [!abstract] **The Witches’ Ambush**
-> If the players failed to prevent the **black cat** familiar in [[#P8a. Guest Landing]] from alerting its mistress, the coven has used the contents of the cauldron in [[#P9c. Cauldron Room]] to transform the zombie into a weakened **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>). Add the following to this area’s description:
+> [!abstract] **L'Embuscade des Sorcières**
+> Si les joueurs n'ont pas réussi à empêcher la **chatte noire** familière dans [[#P8a. Salle d'arrivée des invités]] d'alerter sa maîtresse, le covent a utilisé le contenu du chaudron dans [[#P9c. Salle du chaudron]] pour transformer le zombie en un **zombie propagateur de peste affaibli** (<span class="citation">Van Richten's Guide to Ravenloft, p. 255</span>). Ajoutez la description suivante à cette zone :
 >
 > <hr>
-> *The zombie’s flesh is a smooth, sickly white, its skin run through with raised crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the stone floor.*
+> *La chair du zombie est d'un blanc maladif et lisse, sa peau parcourue de veines cramoisies saillantes. Un léger nuage de brume rougeâtre s'échappe de sa bouche et se répand sur le sol de pierre.*
 > <hr>
 >
-> Increase the plague spreader's hit points to 100, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.
+> Augmentez les points de vie du propagateur de peste à 100, diminuez les dégâts nécrotiques infligés par son ***coup*** à 5 (1d8), et diminuez les dégâts infligés par son ***miasme virulent*** à 7 (2d6) dégâts de poison par créature.
 >
-> The seven witches in [[#P9c. Cauldron Room]] have also quaffed their _potions of poison immunity_, cast _invisibility_ spells on themselves, and spread themselves around the corners of the room. The witches attack as soon as the players fully enter the room. A player with a passive Wisdom (Perception) score of 14 or greater who enters the room soon hears one of the invisible witches stifle a cough, as well as the rustling of unseen robes nearby.
+> Les sept sorcières dans [[#P9c. Salle du chaudron]] ont également bu leurs _potions d'immunité au poison_, se sont lancé des sorts d'_invisibilité_ et se sont dispersées dans les coins de la pièce. Les sorcières attaquent dès que les joueurs entrent complètement dans la pièce. Un joueur avec un score de Sagesse (Perception) passif de 14 ou plus qui entre dans la pièce entend bientôt l'une des sorcières invisibles étouffer une toux, ainsi que le froissement de robes invisibles à proximité.
 
-A player who searches the room and succeeds on a DC 12 Intelligence (Investigation) check finds a *potion of fire breath* hidden amongst the bottles and jars. 
+Un joueur qui fouille la pièce et réussit un jet d'Intelligence (Investigation) de DD 12 trouve une *potion de souffle enflammé* cachée parmi les bouteilles et les jarres.
 
-In addition, seven brooms lie in a rack just beside the south window. Six of the brooms are made of simple brown wood, while the last is made of lacquered black wood.
+De plus, sept balais se trouvent dans un râtelier juste à côté de la fenêtre sud. Six des balais sont en bois brun simple, tandis que le dernier est en bois noir laqué.
 
-Two of the brown brooms are _brooms of inferior flying_, and the other four brown brooms are **brooms of animated attack**. The black broom is a _broom of flying_. If a creature other than one of the witches in [[#P9c. Cauldron Room]] attempts to take any of the brooms, the **brooms of animated attack** animate and attack.
+Deux des balais bruns sont des _balais de vol inférieur_, et les quatre autres balais bruns sont des **balais d'attaque animés**. Le balai noir est un _balai de vol_. Si une créature autre que l'une des sorcières dans [[#P9c. Salle du chaudron]] tente de prendre l'un des balais, les **balais d'attaque animés** s'animent et attaquent.
 
-The witches in [[#P9c. Cauldron Room]] emerge and join the fray if they hear the sound of fighting in this room.
+Les sorcières dans [[#P9c. Salle du chaudron]] émergent et se joignent à la mêlée si elles entendent le bruit d'un combat dans cette pièce.
 
-> [!warning]+ **Command Words**
-> A *broom of flying* cannot fly unless its command word is spoken. As noted in <span class="citation">Dungeon Master’s Guide (p. 136)</span>, a creature can learn a magic item’s command word by casting the *identify* spell, or by spending a short rest focused on that magic item while in physical contact with it.
+> [!warning]+ **Mots de Commande**
+> Un *balai de vol* ne peut voler que si son mot de commande est prononcé. Comme indiqué dans <span class="citation">Guide du Maître (p. 136)</span>, une créature peut apprendre le mot de commande d'un objet magique en lançant le sort *identification*, ou en passant un court repos concentrée sur cet objet magique tout en étant en contact physique avec lui.
 
-> [!item]+ **Flying Brooms**
-> ***Brooms of Inferior Flying.*** A *broom of inferior flying* has 3 charges and regains 1 charge daily at dusk. A creature standing astride the broom can speak its command word and spend 1 charge to cause it to gain the properties of a *broom of flying* for 10 minutes. While activated in this way, the broom has a flying speed of only 30 feet (or 15 feet while carrying over 200 pounds).
+> [!item]+ **Balais Volants**
+> ***Balais de Vol Inférieur.*** Un *balai de vol inférieur* a 3 charges et récupère 1 charge chaque jour au crépuscule. Une créature debout à califourchon sur le balai peut prononcer son mot de commande et dépenser 1 charge pour lui conférer les propriétés d'un *balai de vol* pendant 10 minutes. Lorsqu'il est activé de cette manière, le balai a une vitesse de vol de seulement 9 mètres (ou 4,5 mètres en transportant plus de 90 kg).
 >
-> ***Broom of Flying.*** The coven’s single *broom of flying* is enchanted with a mild form of sentience, and is loyal only to the witches of the coven. If any other creature attempts to ride it, the broom begins bucking and rolling uncontrollably once it has risen at least twenty feet above the ground. At the start of each of the rider’s turns, it must succeed on a DC 10 Strength saving throw or plummet to the ground. Once it has removed its rider, the broom then attempts to fly back to its rack in Castle Ravenloft.
+> ***Balai de Vol.*** Le *balai de vol* unique du covent est enchanté avec une forme légère de sentience, et est loyal uniquement aux sorcières du covent. Si une autre créature tente de le monter, le balai commence à se cabrer et à rouler de manière incontrôlable une fois qu'il s'est élevé à au moins 6 mètres du sol. Au début de chacun de ses tours, le cavalier doit réussir un jet de sauvegarde de Force DD 10 ou tomber au sol. Une fois qu'il a désarçonné son cavalier, le balai tente alors de retourner à son râtelier dans le château Ravenloft.
 >
-> The broom becomes permanently docile if its rider threatens to destroy or harm it in Common, Infernal, or Abyssal and succeeds on a DC 10 Charisma (Intimidation) check. The broom also ceases attempting to throw a particular rider if that rider successfully makes five consecutive Strength saving throws to avoid being thrown, although the broom then sullenly reduces its flying speed to 10 feet for the duration of the flight.
-## P9c. Cauldron Room
-<span class="citation"><em>This scene takes place in Chapter 4, Area K56.</em></span>
+> Le balai devient définitivement docile si son cavalier le menace de le détruire ou de lui nuire en commun, en infernal ou en abyssal et réussit un jet de Charisme (Intimidation) DD 10. Le balai cesse également de tenter de désarçonner un cavalier particulier si ce cavalier réussit cinq jets de sauvegarde de Force consécutifs pour éviter d'être désarçonné, bien que le balai réduise alors sa vitesse de vol à 3 mètres pour la durée du vol.
+## P9c. Salle du Chaudron
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K56.</em></span>
 
-This area is largely as described in <span class="citation">K56. (p. Cauldron Room)</span>. However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
 
-> [!lore]+ **The Cauldron**
-> The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
 
-In addition, replace the seven **Barovian witches** with two **Barovian hexwitches** wearing bone earrings, two **Barovian bogwitches** with brown paint smeared around their eyes, and three **Barovian stormwitches** wearing black leather gloves (see below). Each witch carries a _potion of healing_, a _potion of poison_, and a _potion of poison immunity_.
+Cette zone est largement telle que décrite dans <span class="citation">K56. Chaudron (p. 72)</span>. Cependant, remplacez la référence aux "volutes de vapeur vert brillant" dans la description de cette zone par "volutes de vapeur rouge brillant".
 
-> [!combat]- **Balancing the Witches** 
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of witches to one Barovian hexwitch, one Barovian bogwitch, and two Barovian stormwitches (including Diavola). 
-> * **Four Players**. Reduce the number of witches to two Barovian hexwitches, two Barovian bogwitches, and Diavola. 
-> * **Six Players**. Increase the number of witches to two Barovian hexwitches, three Barovian bogwitches, and three Barovian stormwitches (including Diavola).
+> [!lore]+ **Le Chaudron**
+> La potion dans le chaudron, lorsqu'elle est bue par un **zombie**, le transforme en **zombie propagateur de peste**. En raison des enchantements intégrés dans la potion par les sorcières, un **zombie propagateur de peste** créé de cette manière est loyal d'abord à Strahd, ensuite à Rahadin, puis aux compagnes de Strahd, et enfin aux sorcières qui l'ont créé. À moins d'ordre contraire, le propagateur de peste attaque à vue tout non-mort.
 
-If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up <span class="citation">K48. Offstair (p. 70)</span> toward <span class="citation">K57. Tower Roof (p. 72)</span>, where she can more easily use the open-air battlefield to her advantage.
+De plus, remplacez les sept **sorcières baroviennes** par deux **hexsorcières baroviennes** portant des boucles d'oreilles en os, deux **boguesorcières baroviennes** avec de la peinture brune barbouillée autour des yeux, et trois **tempêtesorcières baroviennes** portant des gants en cuir noir (voir ci-dessous). Chaque sorcière porte une _potion de soins_, une _potion de poison_ et une _potion d'immunité contre le poison_.
 
-> [!item]+ **Potion of Poison Immunity**
-> A *potion of poison immunity* has the properties of a *potion of poison resistance*, but grants immunity rather than resistance.
+> [!combat]- **Équilibrer les Sorcières**
+> Ce combat est une rencontre **ardue** pour un groupe de cinq joueurs de niveau 7, un allié de CR 2 (Ireena Kolyana) et un allié de CR 4 (Ezmerelda d'Avenir), et consommera environ 27% de leurs points de vie maximum totaux. Pour des groupes plus petits ou plus grands, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez le nombre de sorcières à une hexsorcière barovienne, une boguesorcière barovienne et deux tempêtesorcières baroviennes (y compris Diavola).
+> * **Quatre Joueurs**. Réduisez le nombre de sorcières à deux hexsorcières baroviennes, deux boguesorcières baroviennes et Diavola.
+> * **Six Joueurs**. Augmentez le nombre de sorcières à deux hexsorcières baroviennes, trois boguesorcières baroviennes et trois tempêtesorcières baroviennes (y compris Diavola).
 
-One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, who wears pewter earrings shaped like lightning bolts, has 28 hit points and an additional 2nd-level spell slot. In addition, rather than a _potion of healing_, Diavola carries a *potion of greater healing*.
+Si les joueurs ne l'ont pas attirée au [[#Foyer Principal]], Ludmilla Vilisevic est également présente aux côtés du covent des sorcières. (Voir [[#Foyer Principal]] pour ses statistiques.) Si le combat éclate, Ludmilla préfère attirer les ennemis en haut de <span class="citation">K48. Escalier Latéral (p. 70)</span> vers <span class="citation">K57. Toit de la Tour (p. 72)</span>, où elle peut plus facilement utiliser le champ de bataille en plein air à son avantage.  
 
-> [!info]+ **Hexwitches, Bogwitches & Stormwitches**
+> [!item]+ **Potion d'Immunité contre le Poison**
+> Une *potion d'immunité contre le poison* a les propriétés d'une *potion de résistance au poison*, mais confère l'immunité plutôt que la résistance.
+
+L'une des tempêtesorcières baroviennes est Diavola, la chef du covent. Diavola, qui porte des boucles d'oreilles en étain en forme d'éclairs, a 28 points de vie et un emplacement de sort de niveau 2 supplémentaire. De plus, au lieu d'une _potion de soins_, Diavola porte une _potion de soins supérieurs_. À son premier tour au combat, Diavola crie : "Nous vous vaincrons comme Mère Lysaga nous l'a enseigné - pour la gloire du Frère Strahd !"
+
+
+
+> [!info]+ **Sorcières des Charmes, Sorcières des Marécages et Sorcières des Tempêtes**
 >
-> A **Barovian hexwitch** is a **Barovian witch** with the following spells prepared:
-> * Cantrips (at will): mage hand, prestidigitation, chill touch
-> * 1st level (4 slots): ray of sickness, Tasha's hideous laughter
-> * 2nd level (2 slots): blindness/deafness, invisibility, misty step
-> In combat, a Barovian hexwitch prefers to begin by casting *blindness/deafness*, followed by *ray of sickness*. If cornered, a hexwitch prefers to defend herself by casting *Tasha’s hideous laughter.*
+> Une **sorcière des charmes barovienne** est une **sorcière barovienne** avec les sorts suivants préparés :
+> * Tours de magie (à volonté) : main de mage, tours de passe-passe, contact glacial
+> * Niveau 1 (4 emplacements) : rayon de maladie, rire hideux de Tasha
+> * Niveau 2 (2 emplacements) : cécité/surdité, invisibilité, pas brumeux
+> Au combat, une sorcière des charmes barovienne préfère commencer par lancer *cécité/surdité*, suivi de *rayon de maladie*. Si elle est acculée, une sorcière des charmes préfère se défendre en lançant *rire hideux de Tasha*.
 >
-> A **Barovian bogwitch** is a **Barovian witch** with the following spells prepared:
-> * Cantrips (at will): mage hand, prestidigitation, infestation
-> * 1st level (4 slots): ice knife, catapult
-> * 2nd level (2 slots): cloud of daggers, invisibility, misty step
-> In combat, a Barovian bogwitch prefers to begin by casting *cloud of daggers*, followed by *ice knife* if she can hit at least three targets, and *catapult* otherwise.
+> Une **sorcière des marécages barovienne** est une **sorcière barovienne** avec les sorts suivants préparés :
+> * Tours de magie (à volonté) : main de mage, tours de passe-passe, infestation
+> * Niveau 1 (4 emplacements) : lame de glace, catapulte
+> * Niveau 2 (2 emplacements) : nuage de dagues, invisibilité, pas brumeux
+> Au combat, une sorcière des marécages barovienne préfère commencer par lancer *nuage de dagues*, suivi de *lame de glace* si elle peut toucher au moins trois cibles, et *catapulte* sinon.
 >
-> A **Barovian stormwitch** is a **Barovian witch** with the following spells prepared:
-> * Cantrips (at will): mage hand, shocking grasp, ray of frost
-> * 1st level (4 slots): witch bolt, feather fall
-> * 2nd level (2 slots): Melf’s acid arrow, invisibility, misty step
-> In combat, a Barovian stormwitch prefers to begin by casting *Melf’s acid arrow*, followed by *witch bolt.*
-# P10. Garrison
-This area of the castle once hosted the barracks and common areas of the castle guards, providing easy access to the upper-floor archers’ posts and battlements via <span class="citation">K64. Guards’ Stair (p. 78)</span> and the North Tower Stair (<span class="citation">K20. Heart of Sorrow (p. 59)</span>). A quartet of secret doors, providing access to <span class="citation">K10. Dining Hall (p. 56)</span>, <span class="citation">K25. Audience Hall (p. 61)</span>, <span class="citation">K33. King’s Apartment Stair (p. 64)</span>, and <span class="citation">K78. Brazier Room (p. 82)</span>, also allowed for the castle’s protectors to swiftly and quietly navigate its floors or spirit away important targets to safety in the event of an attack.
-## P10a. Garrison, Basement Floor
-### Hall of Bones
-<span class="citation"><em>This scene takes place in Chapter 4, Area K67.</em></span>
-
-This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>. However, if Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
-
-For the next 1 minute, an additional **skeleton** crawls from each non-destroyed bone mound at initiative count 0 of each round. Each bone mound has AC 15, 10 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to bludgeoning damage.
-
-> [!abstract]+ **Storing the Skull**
-> Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Arc O - Dinner with the Devil#O3c. The Black Carriage|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
-### Guards’ Run
-<span class="citation"><em>This scene takes place in Chapter 4, Area K68.</em></span>
-
-This area is as described in <span class="citation">K68. Guards’ Run (p. 79)</span>.
-### Guards’ Quarters
-<span class="citation"><em>This scene takes place in Chapter 4, Area K69.</em></span>
-
-This area is largely as described in <span class="citation">K69. Guards’ Quarters (p. 79)</span>. However, revise this area’s description as follows:
+> Une **sorcière des tempêtes barovienne** est une **sorcière barovienne** avec les sorts suivants préparés :
+> * Tours de magie (à volonté) : main de mage, décharge électrique, rayon de froid
+> * Niveau 1 (4 emplacements) : dard électrique, chute immobile
+> * Niveau 2 (2 emplacements) : flèche acide de Melf, invisibilité, pas brumeux
+> Au combat, une sorcière des tempêtes barovienne préfère commencer par lancer *flèche acide de Melf*, suivie de *dard électrique*.
 
 <div class="description">
-<p>Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten ten-foot-square alcoves that contain rotting debris and rags.</p>
-<p>Rows of silent figures stand unmoving within each alcove, their flesh rotted and gray. The central four alcoves are headed by additional figures, their rotted flesh a smooth, sickly white run through with crimson veins. Faint clouds of reddish mist spill from the mouths of the white-skinned undead, pooling across the stone floor before dissipating into the cold air.</p>
-<p>At the far end of the corridor, a lonely wooden spoon sits abandoned upon the stonework.</p>
+<p>Un lichen jaune malsain recouvre le plafond de ce passage froid et humide, large de 3 mètres, s'étendant d'est en ouest. Sur les deux côtés de ce passage s'ouvrent dix alcôves carrées de 3 mètres de côté, contenant des débris et des loques en décomposition.</p>
+<p>Des rangées de silhouettes silencieuses se tiennent immobiles dans chaque alcôve, leur chair putréfiée et grise. Les quatre alcôves centrales sont surmontées de silhouettes supplémentaires, leur chair putride d'un blanc lisse et malsain parcouru de veines cramoisies. De légers nuages de brume rougeâtre s'échappent des bouches des morts-vivants à la peau blanche, se répandant sur le sol de pierre avant de se dissiper dans l'air froid.</p>
+<p>Au bout du couloir, une humble cuillère en bois gît abandonnée sur la pierre.</p>
 </div>
 
-The wooden spoon belongs to Cyrus Belview. If the players are visible to the zombies, read:
+La cuillère en bois appartient à Cyrus Belview. Si les joueurs sont visibles par les zombies, lisez :
 
 <div class="description">
-<p>The figures swivel their heads and eyes toward you, but make no move to attack.</p>
+<p>Les silhouettes pivotent leur tête et leurs yeux vers vous, mais ne font aucun geste pour attaquer.</p>
 </div>
 
-Each alcove is occupied by four **zombies**, except for the back-left alcove. In each of the four central alcoves, one of the four zombies is a **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>) with the following modifications:
+Chaque alcôve est occupée par quatre **zombies**, à l'exception de l'alcôve arrière gauche. Dans chacune des quatre alcôves centrales, l'un des quatre zombies est un **zombie propagateur de peste** (<span class="citation">Le Guide de van Richten sur les Terres de Ravenloft, p. 255</span>) avec les modifications suivantes :
 
-* Increase each plague spreader's hit points to 130
-* Decrease the necrotic damage dealt by a plague spreader’s ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.
+* Augmentez les points de vie de chaque propagateur de peste à 130
+* Diminuez les dégâts nécrotiques infligés par l'attaque de **corps à corps** à 5 (1d8), et les dégâts du **miasme virulent** à 7 (2d6) dégâts de poison par créature.
 
-The zombies and zombie plague spreaders don’t move or respond to stimuli, and attack only in self-defense.
+Les zombies et les zombies propagateurs de peste ne bougent pas et ne réagissent pas aux stimuli, et n'attaquent que pour se défendre.
 
-The back-left alcove conceals a **crawling zombie** that is missing both of its legs, so that only its head, torso, and arms remain. When a living creature attempts to retrieve the wooden spoon beside its alcove, the crawling zombie uses its arms to fling itself into the air and attack. 
+L'alcôve arrière gauche dissimule un **zombie rampant** à qui il manque les deux jambes, ne laissant que sa tête, son torse et ses bras. Lorsqu'une créature vivante tente de récupérer la cuillère en bois à côté de son alcôve, le zombie rampant utilise ses bras pour se propulser en l'air et attaquer.
 
-Treat the crawling zombie as a **zombie** with the following modifications:
+Traitez le zombie rampant comme un **zombie** avec les modifications suivantes :
 
-* It has 11 hit points and a speed of 5 ft.
-* On a successful hit with its ***slam***, the crawling zombie can wrap one of its arms around the target to cling to it. While clinging to a target in this way, the crawling zombie has disadvantage on attack rolls and moves with the target.
+* Il a 11 points de vie et une vitesse de 1,5 mètre.
+* Sur une attaque réussie avec son **corps à corps**, le zombie rampant peut enrouler un de ses bras autour de sa cible pour s'y accrocher. Pendant qu'il est accroché à une cible de cette manière, le zombie rampant a un désavantage lors des jets d'attaque et se déplace avec la cible.
 
-Players who inspect the crawling zombie notice that it appears far older and more decrepit than the relatively “fresh" undead standing in the alcoves.
-### Kingsmen Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K70.</em></span>
+Les joueurs qui inspectent le zombie rampant remarquent qu'il semble beaucoup plus ancien et décrépitil que les morts-vivants relativement "frais" debout dans les alcôves.
 
-This area is as described in <span class="citation">K70. Kingsmen Hall (p. 79)</span>.
-### Kingsmen Quarters
-<span class="citation"><em>This scene takes place in Chapter 4, Area K71.</em></span>
 
-This area is largely as described in <span class="citation">K71. Kingsmen Quarters (p. 79)</span>. However, the sack beneath the loose flagstone in the southeast alcove also contains a *stone of good luck*.
-### Chamberlain’s Office
-<span class="citation"><em>This scene takes place in Chapter 4, Area K72.</em></span>
-
-This area is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>. However, remove Rahadin and the **shadow demon** from this room.
-
-In addition, a player who investigates Rahadin’s desk finds an unsealed parchment letter sitting upon it. It reads:
 
 <div class="description">
-<p>To my esteemed lord and master,</p>
-<p>Nearly five centuries past, I forswore my loyalty to a prince that knew only weakness, and instead swore an oath of allegiance to a king that embraced only strength—your father, the beloved King Barov. It was my highest honor to serve at his side, matched only by the honor I felt when he adopted me as his own.</p>
-<p>Though King Barov has departed us, his legacy lives on in you—a legacy that burns fiercer than his Brightblade ever did. You have become the sun to his candle; the mount to his hill. By your hand, his great work was completed and wrought anew.</p>
-<p>It has been my pride and honor to serve you, even as you undertook your journey beyond the veil of life itself. I do not regret the blood I have spilled, nor the lives I have taken, comforted in the knowledge that all has been in your name.</p>
-<p>It is my one regret that this body is not as yours, and that when my heart shall cease to beat, so too shall my spirit depart my flesh. It is for this reason, however, that I am, and shall forever be, grateful for the opportunity you have granted me to serve you one final time. Though my eyes shall not see the glory of your rise from the ashes, I have seen it in my heart, and that is enough.</p>
-<p>May your reign be great and terrible, and may your throne never end.</p>
-<p>Your eternal and obedient servant,<br>
+<p>À mon seigneur et maître estimé,</p>
+
+<p>Il y a près de cinq siècles, j'ai renié mon allégeance à un prince qui ne connaissait que la faiblesse, et j'ai plutôt prêté serment d'allégeance à un roi qui n'embrassait que la force - votre père, le bien-aimé Roi Barov. Ce fut mon plus grand honneur de servir à ses côtés, égalé seulement par l'honneur que j'ai ressenti lorsqu'il m'a adopté comme son propre fils.</p>
+
+<p>Bien que le Roi Barov nous ait quittés, son héritage perdure en vous - un héritage qui brûle plus férocement que sa Brightblade ne l'a jamais fait. Vous êtes devenu le soleil comparé à sa bougie ; la montagne comparée à sa colline. Par votre main, son grand œuvre a été accompli et reforgé.</p>
+
+<p>Ce fut ma fierté et mon honneur de vous servir, même lorsque vous avez entrepris votre voyage au-delà du voile de la vie elle-même. Je ne regrette pas le sang que j'ai versé, ni les vies que j'ai prises, réconforté par la certitude que tout a été fait en votre nom.</p>
+
+<p>Mon seul regret est que ce corps n'est pas comme le vôtre, et que lorsque mon cœur cessera de battre, mon esprit quittera également ma chair. C'est pour cette raison cependant que je suis et serai à jamais reconnaissant pour l'opportunité que vous m'avez accordée de vous servir une dernière fois. Bien que mes yeux ne verront pas la gloire de votre résurrection des cendres, je l'ai vue dans mon cœur, et cela suffit.</p>
+
+<p>Que votre règne soit grand et terrible, et que votre trône ne connaisse jamais de fin.</p>
+
+<p>Votre serviteur éternel et obéissant,<br>
 Rahadin von Zarovich</p>
 </div>
 
-> [!info]+ **The Secret Door**
-> Players who find and pass through the secret door here exit the Garrison and enter [[#P11. Dungeons]] via [[#P11f. Western Stair]]. A player who opens the secret door observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
-## P10b. Garrison, First Floor
-### First Floor South Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is largely as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>.
-### First Floor South Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K11 & K12.</em></span>
 
-This area is as described in <span class="citation">K11. South Archers’ Post (p. 57)</span> and <span class="citation">K12. Turret Post (p. 57)</span>. However, a single **shadow** dwells here, as described in <span class="citation">Shadows (p. 51)</span>.
-
-This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If permitted to do so, it shyly attempts to follow the players throughout Castle Ravenloft, though it hides itself among nearby furniture or architecture if confronted or attacked. If this occurs, a player can coax it back from hiding with a successful DC 10 Charisma (Persuasion) check.
-
-The shadow is lonely and longs for the company of others—including, particularly, its friend, another **shadow** lost elsewhere in the castle. Though it won’t fight on the players’ behalf, players who ask and succeed on a DC 15 Charisma (Persuasion) check can convince the shadow to use its ***amorphous*** feature to investigate adjacent rooms for danger while using its ***shadow stealth*** feature to remain concealed. The check succeeds automatically if the players agree to help the shadow reunite with its friend.
-
-> [!info]+ **The Shadow’s Friend**
-> The **shadow’s** friend can be found in [[#P11f. Western Stair]].
-### North Tower Vestibule
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K20 and K20a.</em></span>
-
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K20a. Tower Hall Stair (p. 59)</span>. Players who ascend the stairs reach [[#Servants’ Landing]].
-
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Le Cœur de la Douleur**
+> Le Cœur de la Douleur est largement tel que décrit dans <span class="citation">K20. Cœur de la Douleur (p. 59)</span>. Cependant, il est immunisé contre tous les dégâts, et aucune attaque des **vampires engendrés** ne le touche. De plus, au lieu de secouer la tour au compte d'initiative 10 chaque round, le Cœur secoue la tour chaque fois que les joueurs tentent de monter d'un étage supplémentaire vers le Cœur.
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### First Floor North Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
+> Un personnage qui échoue son jet de sauvegarde de Dextérité contre les secousses de la tour et tombe peut se rattraper sur le rebord des escaliers en réussissant un jet de sauvegarde de Dextérité DD 20. Un personnage adjacent à un personnage qui tombe peut le rattraper en réussissant un jet de sauvegarde de Dextérité DD 10.
+### Corridor d'Accès au Poste des Archers du Premier Étage Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K13.</em></span>
 
-This area is as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in <span class="citation">Giant Spider Cocoon (p. 51)</span>. 
+Cette zone est telle que décrite dans <span class="citation">K13. Corridor d'Accès au Poste des Tourelles (p. 57)</span>. Cependant, l'entrée de ce corridor contient un cocon géant d'araignée suspendu au plafond, tel que décrit dans <span class="citation">Cocon d'Araignée Géante (p. 51)</span>.
 
-If opened, the cocoon contains Pidlwick II, who is as described in <span class="citation">Pidlwick II (p. 73)</span>. Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in <span class="citation">Pidlwick II (p. 73)</span>. It otherwise acts as described in <span class="citation">Pidlwick II (p. 73)</span>.
+S'il est ouvert, le cocon contient Pidlwick II, tel que décrit dans <span class="citation">Pidlwick II (p. 73)</span>. Pidlwick II est reconnaissant envers les personnages de l'avoir secouru et tente de les aider comme décrit dans <span class="citation">Pidlwick II (p. 73)</span>. Sinon, il agit comme décrit dans <span class="citation">Pidlwick II (p. 73)</span>.
 
-If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Persuasion) check, they can convince it to depart the castle with them to meet the toymaker Gadof Blinsky.
+Si les joueurs sont gentils envers Pidlwick II et réussissent un jet de Charisme (Persuasion) DD 12, ils peuvent le convaincre de quitter le château avec eux pour rencontrer le fabricant de jouets Gadof Blinsky.
 
 > [!abstract]+ **Blinsky & Pidlwick II**
-> If brought to Blinsky Toys, Pidlwick II is content to be poked, prodded, and generally inspected at Blinsky’s whims. If permitted to remain in the shop for three full days, Pidlwick II agrees to be the official Blinsky Toys mascot in exchange for the freedom to wander about the town.
-### First Floor North Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
+> S'il est amené chez Blinsky Jouets, Pidlwick II accepte d'être examiné et inspecté à la guise de Blinsky. S'il est autorisé à rester dans la boutique pendant trois jours complets, Pidlwick II accepte d'être la mascotte officielle de Blinsky Jouets en échange de la liberté de se promener dans la ville.
+### Poste des Archers du Premier Étage Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K22.</em></span>
 
-This area is largely as described in <span class="citation">K22. North Archers’ Post (p. 59)</span>. 
-## P10c. Garrison, Second Floor
-### Second Floor South Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
+Cette zone est en grande partie telle que décrite dans <span class="citation">K22. Poste des Archers Nord (p. 59)</span>.
+## P10c. Garnison, Deuxième Étage
+### Corridor d'Accès au Poste des Archers du Deuxième Étage Sud
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K13.</em></span>
 
-This area is largely as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. However, four **crawling claws** cling to the ceiling above the secret door leading to <span class="citation">K25. Audience Hall (p. 61)</span>, and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in <span class="citation">Crawling Claws (p. 50)</span>.
-### Second Floor South Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K12 & K22.</em></span>
+Cette zone est en grande partie telle que décrite dans <span class="citation">K13. Corridor d'Accès au Poste des Tourelles (p. 57)</span>. Cependant, quatre **griffes rampantes** s'accrochent au plafond au-dessus de la porte secrète menant à <span class="citation">K25. Salle d'Audience (p. 61)</span>, et tombent pour attaquer toute créature qui passe en dessous. Les griffes se comportent sinon comme décrit dans <span class="citation">Griffes Rampantes (p. 50)</span>.
+### Poste des Archers du Deuxième Étage Sud
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K12 & K22.</em></span>
 
-This area is as described in <span class="citation">K12. Turret Post (p. 57)</span> and <span class="citation">K22. North Archers’ Post (p. 59)</span>.
-### Servants’ Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+Cette zone est telle que décrite dans <span class="citation">K12. Poste de Tourelle (p. 57)</span> et <span class="citation">K22. Poste des Archers Nord (p. 59)</span>.
+### Palier des Serviteurs
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K20.</em></span>
 
-This area is as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#King’s Landing]]. Players who descend the stairs reach [[#North Tower Vestibule]].
+Cette zone est telle que décrite dans <span class="citation">K20. Cœur de la Douleur (p. 59)</span>. Les joueurs qui montent les escaliers atteignent [[#Palier du Roi]]. Les joueurs qui descendent les escaliers atteignent [[#Vestibule de la Tour Nord]].
 
-> [!info]+ **The Secret Door**
-> Players who find and pass through the secret door set in the northeastern wall exit the Garrison and enter [[#P5. Servants' Wing]] via [[#Servants' Upper Floor]].
+> [!info]+ **La Porte Secrète**
+> Les joueurs qui trouvent et passent par la porte secrète dans le mur nord-est quittent la Garnison et entrent dans [[#P5. Aile des Serviteurs]] via [[Arc P - Ravenloft Heist#Étage Supérieur des Serviteurs|l'Étage Supérieur des Serviteurs]].
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Le Cœur de la Douleur**
+> Le Cœur de la Douleur est largement tel que décrit dans <span class="citation">K20. Cœur de la Douleur (p. 59)</span>. Cependant, il est immunisé contre tous les dégâts, et aucune attaque des **demi-vampires** ne le touche. De plus, au lieu de secouer la tour à chaque initiative 10 du round, le Cœur secoue la tour chaque fois que les joueurs tentent de monter d'un étage supplémentaire vers lui.
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### Second Floor North Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
+> Un personnage qui échoue son jet de sauvegarde de Dextérité contre les secousses de la tour et tombe peut se rattraper sur le rebord des escaliers en réussissant un jet de sauvegarde de Dextérité CD 20. Un personnage adjacent à un personnage qui tombe peut le rattraper en réussissant un jet de sauvegarde de Dextérité CD 10.
+### Couloir d'Accès au Poste des Archers Nord du Deuxième Étage
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K13.</em></span>
 
-This area is as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. 
+Cette zone est telle que décrite dans <span class="citation">K13. Couloir d'Accès au Poste des Archers (p. 57)</span>.
 
-> [!info]+ **The Secret Door**
-> Players who find and pass through the secret door set in the southern wall exit the Garrison and enter [[#P6. King’s Apartments]] via [[#King’s Apartment Stair]].
-### Second Floor North Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
+> [!info]+ **La Porte Secrète**
+> Les joueurs qui trouvent et passent par la porte secrète située dans le mur sud quittent la Garnison et entrent dans [[#P6. Appartements du Roi]] via [[#Escalier des Appartements du Roi]].
+### Poste des Archers Nord du Deuxième Étage
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K22.</em></span>
 
-This area is as described in <span class="citation">K22. North Archers’ Post (p. 59)</span>.
-## P10d. Garrison, Third Floor
-### Inner South Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+Cette zone est telle que décrite dans <span class="citation">K22. Poste des Archers Nord (p. 59)</span>.
+## P10d. Garnison, Troisième Étage
+### Mur Intérieur Sud
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
+Cette zone est largement telle que décrite dans <span class="citation">K46. Remparts (p. 68)</span>.
 
-> [!info]+ **Through the Windows**
-> The five-foot-wide windows along this walkway are locked from the inside and covered by heavy curtains:
+> [!info]+ **À Travers les Fenêtres**
+> Les fenêtres larges de 1,5 mètre le long de ce passage sont verrouillées de l'intérieur et couvertes de lourds rideaux :
 >
-> * ***Eastern Window.*** The window closest to <span class="citation">K64. Guards’ Stair (p. 78)</span> looks into [[#King’s Dining Hall]].
-> * ***Western Windows.*** The two windows further from <span class="citation">K64. Guards’ Stair (p. 78)</span> look into <span class="citation">K44. Closet (p. 68)</span> in [[#Bath Chamber & Closet]].
-### Inner West Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+> * ***Fenêtre Est.*** La fenêtre la plus proche de <span class="citation">K64. Escalier des Gardes (p. 78)</span> donne sur [[#Salle à Manger du Roi]].
+> * ***Fenêtres Ouest.*** Les deux fenêtres les plus éloignées de <span class="citation">K64. Escalier des Gardes (p. 78)</span> donnent sur <span class="citation">K44. Débarras (p. 68)</span> dans [[#Chambre de Bain & Débarras]].
+### Mur Intérieur Ouest
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
-### King’s Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+Cette zone est largement telle que décrite dans <span class="citation">K46. Remparts (p. 68)</span>.
+### Palier du Roi
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
+Cette zone est largement telle que décrite dans <span class="citation">K20. Cœur de la Douleur (p. 59)</span>. Les joueurs qui montent les escaliers atteignent [[#Palier du Général]] via [[#Escalier de la Tour Nord]]. Les joueurs qui descendent les escaliers atteignent [[#Palier des Serviteurs]].
 
-Players who pass through the western archway exit the Garrison and enter [[#P6a. King’s Apartments]] via [[#Hall of Heroes]].
+Les joueurs qui passent par l'arche ouest quittent la Garnison et entrent dans [[Arc P - Ravenloft Heist#P6. Appartements du Roi|les Appartements du Roi]] via [[#Hall des Héros]].
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Le Cœur de la Douleur**
+> Le Cœur de la Douleur est largement tel que décrit dans <span class="citation">K20. Cœur de la Douleur (p. 59)</span>. Cependant, il est immunisé contre tous les dégâts, et aucune attaque des **demi-vampires** ne le touche. De plus, au lieu de secouer la tour à chaque initiative 10 du round, le Cœur secoue la tour chaque fois que les joueurs tentent de monter d'un étage supplémentaire vers lui.
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### Inner North Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+> Un personnage qui échoue son jet de sauvegarde de Dextérité contre les secousses de la tour et tombe peut se rattraper sur le rebord des escaliers en réussissant un jet de sauvegarde de Dextérité CD 20. Un personnage adjacent à un personnage qui tombe peut le rattraper en réussissant un jet de sauvegarde de Dextérité CD 10.
+### Mur Intérieur Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
-### Inner East Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+Cette zone est largement telle que décrite dans <span class="citation">K46. Remparts (p. 68)</span>.
+### Mur Intérieur Est
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
-## P10e. Garrison, Fourth Floor
-### North Tower Stair
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+Cette zone est largement telle que décrite dans <span class="citation">K46. Remparts (p. 68)</span>.
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K46. Parapets (p. 68)</span>.
+## P10e. Garnison, Quatrième Étage
+### Escalier de la Tour Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K20.</em></span>
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K20. Cœur de Chagrin (p. 59)</span>.
+
+> [!info]+ **Le Cœur de Chagrin**
+> Le Cœur de Chagrin est en grande partie tel que décrit dans <span class="citation">K20. Cœur de Chagrin (p. 59)</span>. Cependant, il est immunisé contre tous les dégâts, et aucun **vampire engendré** n'attaque les personnages qui l'attaquent. De plus, au lieu de faire trembler la tour à l'initiative 10 chaque round, le Cœur fait trembler la tour chaque fois que les joueurs tentent de monter d'un étage supplémentaire vers le Cœur.
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-## P10f. Garrison, Fifth Floor
-### North Tower Stair
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+> Un personnage qui échoue au jet de sauvegarde de Dextérité contre les tremblements de la tour et tombe peut se rattraper sur le rebord des escaliers en réussissant un jet de sauvegarde de Dextérité de DD 20. Un personnage adjacent à un personnage qui tombe peut le rattraper en réussissant un jet de sauvegarde de Dextérité de DD 10.
+## P10f. Garnison, Cinquième Étage
+### Escalier de la Tour Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+Cette zone est en grande partie telle que décrite dans <span class="citation">K20. Cœur de Chagrin (p. 59)</span>.
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
+> [!info]+ **Le Cœur de Chagrin**
+> Le Cœur de Chagrin est en grande partie tel que décrit dans <span class="citation">K20. Cœur de Chagrin (p. 59)</span>. Cependant, il est immunisé contre tous les dégâts, et aucun **vampire engendré** n'attaque les personnages qui l'attaquent. De plus, au lieu de faire trembler la tour à l'initiative 10 chaque round, le Cœur fait trembler la tour chaque fois que les joueurs tentent de monter d'un étage supplémentaire vers le Cœur.
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-## P10g. Garrison, Sixth Floor
-### General’s Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+> Un personnage qui échoue au jet de sauvegarde de Dextérité contre les tremblements de la tour et tombe peut se rattraper sur le rebord des escaliers en réussissant un jet de sauvegarde de Dextérité de DD 20. Un personnage adjacent à un personnage qui tombe peut le rattraper en réussissant un jet de sauvegarde de Dextérité de DD 10.
+## P10g. Garnison, Sixième Étage
+### Palier du Général
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+Cette zone est en grande partie telle que décrite dans <span class="citation">K20. Cœur de Chagrin (p. 59)</span>.
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Le Cœur de Chagrin**
+> Le Cœur de Chagrin est en grande partie tel que décrit dans <span class="citation">K20. Cœur de Chagrin (p. 59)</span>. Cependant, il est immunisé contre tous les dégâts, et aucun **vampire engendré** n'attaque les personnages qui l'attaquent. De plus, au lieu de faire trembler la tour à l'initiative 10 chaque round, le Cœur fait trembler la tour chaque fois que les joueurs tentent de monter d'un étage supplémentaire vers le Cœur.
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### General’s Terrace
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K57 & K58.</em></span>
+> Un personnage qui échoue au jet de sauvegarde de Dextérité contre les tremblements de la tour et tombe peut se rattraper sur le rebord des escaliers en réussissant un jet de sauvegarde de Dextérité de DD 20. Un personnage adjacent à un personnage qui tombe peut le rattraper en réussissant un jet de sauvegarde de Dextérité de DD 10.
+### Terrasse du Général
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K57 et K58.</em></span>
 
-This area is as described in <span class="citation">K57. Tower Roof (p. 72)</span> and<span class="citation">K58. Bridge (p. 73)</span>.
+Cette zone est telle que décrite dans <span class="citation">K57. Toit de la Tour (p. 72)</span> et <span class="citation">K58. Pont (p. 73)</span>.
 
-> [!info]+ **Descending the Offstair**
-> Players who descend <span class="citation">K48. Offstair (p. 70)</span> exit the Garrison and enter [[#P9. Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
-## P10h. Garrison, Seventh Floor
-### North Tower Peak
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K60.</em></span>
+> [!info]+ **Descendre l'Offstair**
+> Les joueurs qui descendent <span class="citation">K48. Offstair (p. 70)</span> sortent de la Garnison et entrent dans [[Arc P - Ravenloft Heist#P9. Quartiers du Couvent|Quartiers du Couvent]] via le palier à l'extérieur de [[#P9a. Salle des Familiers]].
+## P10h. Garnison, Septième Étage
+### Sommet de la Tour Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K60.</em></span>
 
-This area is largely as described in <span class="citation">K60. North Tower Peak (p. 74)</span>. 
+Cette zone est en grande partie telle que décrite dans <span class="citation">K60. Sommet de la Tour Nord (p. 74)</span>.
 
-A player who inspects the bed notices dark bloodstains coloring the bed and nearby floor. A DC 15 Wisdom (Medicine) check reveals that the bloodstains can’t be older than a few months old. 
+Un joueur qui inspecte le lit remarque des taches de sang sombre colorant le lit et le sol à proximité. Un jet de Sagesse (Médecine) DD 15 révèle que les taches de sang ne peuvent pas dater de plus de quelques mois.
 
-A player with a passive Wisdom (Perception) score of 14 or higher also notices a large, black, bloodstained feather fallen between the bed’s wooden frame and straw-stuffed mattress. A successful DC 12 Intelligence (Nature) check identifies the feather as a raven’s, though curiously oversized, such that the raven it belonged to would have had to have been the size of a human.
 
-> [!lore]+ **Bloodstained Bed**
-> The bloodstains and feather belong to Elric Martikov, Muriel Vinshaw’s late fiance, who was imprisoned following Doru’s march on Castle Ravenloft and vivisected by Ludmilla Vilisevic. If Muriel is present, she immediately recognizes Elric’s feather, which he always kept “meticulously preened." Heartbroken and overcome with emotion, Muriel asks to be left briefly alone by Elric’s bed to pay her final respects to his memory.
-## P10i. Garrison, Eighth Floor
-### North Tower Rooftop
-<span class="citation"><em>This scene takes place in Chapter 4, Area K60a.</em></span>
 
-This area is largely as described in <span class="citation">K60a. North Tower Rooftop (p. 74)</span>. However, revise this area’s description to read as follows:
+Un joueur avec un score de Sagesse (Perception) passif de 14 ou plus remarque également une grande plume noire tachée de sang tombée entre le cadre en bois du lit et le matelas bourré de paille. Un jet de Intelligence (Nature) réussi de DD 12 identifie la plume comme étant celle d'un corbeau, bien que curieusement surdimensionnée, de telle sorte que le corbeau auquel elle appartenait aurait dû avoir la taille d'un humain.
+
+> [!lore]+ **Lit Tâché de Sang**
+> Les taches de sang et la plume appartiennent à Elric Martikov, le défunt fiancé de Muriel Vinshaw, qui a été emprisonné après la marche de Doru sur le Château Ravenloft et vivissecté par Ludmilla Vilisevic. Si Muriel est présente, elle reconnaît immédiatement la plume d'Elric, qu'il gardait toujours "méticuleusement lissée". Le cœur brisé et submergée par l'émotion, Muriel demande à être laissée seule un bref instant près du lit d'Elric pour rendre un dernier hommage à sa mémoire.
+
+## P10i. Garnison, Huitième Étage
+### Toit de la Tour Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K60a.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K60a. Toit de la Tour Nord (p. 74)</span>. Cependant, revisez la description de cette zone pour lire comme suit :
 
 <div class="description">
-<p>A cold wind greets you atop the tower roof, its rain-slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. From the thunderclouds above, thousands of bats descend upon the tower.</p>
+<p>Un vent froid vous accueille au sommet du toit de la tour, ses dalles de pierre rendues glissantes par la pluie entourées d'un anneau de remparts de pierre de 6 mètres de diamètre. Des nuages d'orage au-dessus, des milliers de chauves-souris descendent sur la tour.</p>
 </div>
 
-The bats arrive in two rounds, rather than three.
-  
-> [!combat]- **Balancing the North Tower Rooftop** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of swarms of bats to 7. 
-> * **Four Players**. Reduce the number of swarms of bats to 9. 
-> * **Six Players**. Increase the number of swarms of bats to 12.
-# P11. Dungeons
-## P11a. Dungeon Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K73.</em></span>
+Les chauves-souris arrivent en deux rounds, plutôt qu'en trois.
 
-> [!info]+ **Flooded Areas** 
-> The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. North Dungeon (p. 82) </span>, <span class="citation">K76. Torture Chamber (p. 82) </span>, and <span class="citation">K77. Observation Balcony (p. 82)</span> are difficult terrain.
+> [!combat]- **Équilibrer le Toit de la Tour Nord**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 7, une alliée CR 2 (Ireena Kolyana) et une alliée CR 4 (Ezmerelda d'Avenir), et consommera environ 12% de leurs points de vie maximum totaux. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez le nombre d'essaims de chauves-souris à 7.
+> * **Quatre Joueurs**. Réduisez le nombre d'essaims de chauves-souris à 9.
+> * **Six Joueurs**. Augmentez le nombre d'essaims de chauves-souris à 12.
 
-This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>. However, the trapdoors function as follows:
+# P11. Donjons
+## P11a. Salle du Donjon
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K73.</em></span>
 
-* A trapdoor opens when a Medium- or Small-sized creature steps on it, but can be detected or avoided by knocking on the ground with a ten-foot pole or similar equipment. The trapdoors can also be avoided by swimming through the water. (Each trapdoor is enchanted to appear non-magical through the use of a permanent *Nystul’s magic aura* spell, and therefore doesn’t appear magical beneath the scrutiny of a *detect magic* spell.)
-* If a character doesn’t know where a trapdoor is and fails to effectively and intentionally avoid it, they automatically activate it as they pass through its section of the hall. Once a trapdoor activates, the resulting “explosion of air and water" alerts the players to its location, allowing them to navigate around it if they choose.
+> [!info]+ **Zones Inondées**
+> Les zones <span class="citation">K73. Salle du Donjon (p. 82)</span>, <span class="citation">K74. Donjon Nord (p. 82)</span>, <span class="citation">K75. Donjon Nord (p. 82)</span> et <span class="citation">K76. Chambre de Torture (p. 82)</span> sont des terrains difficiles.
 
-Additionally, instead of teleporting their victims to cells in the dungeons, the teleporters act as follows:
+Cette zone est largement telle que décrite dans <span class="citation">K73. Salle du Donjon (p. 79)</span>. Cependant, les trappes fonctionnent comme suit :
 
-* ***The First Trapdoor.*** The closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74c. Rotting Corpse (p. 80)</span>, instead teleports its victim to the **iron maiden** in [[#P11d. Torture Chamber]] (see below).
-* ***The Second Trapdoor.*** The second-closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74a. Forgotten Treasure (p. 80)</span>, instead teleports its victim to the **rack** in [[#P11d. Torture Chamber]] (see below).
-* ***The Third Trapdoor.*** The third-closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74e. End of the Ride (p. 80)</span>, instead teleports its victim to the **brazen bull** in [[#P11d. Torture Chamber]] (see below).
-* ***The Fourth Trapdoor.*** The fourth-closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74h. Lost Sword (p. 81)</span>, instead teleports its victim to the **breaking wheel** in [[#P11d. Torture Chamber]] (see below).
-* ***The Fifth Trapdoor.*** The furthest trapdoor from <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K75d. Dead Dwarf (p. 81)</span>, instead teleports its victim to the **scavenger’s daughter** in [[#P11d. Torture Chamber]] (see below).
-## P11b. North Dungeon
-<span class="citation"><em>This scene takes place in Chapter 4, Area K74.</em></span>
+* Une trappe s'ouvre lorsqu'une créature de taille Moyenne ou Petite marche dessus, mais peut être détectée ou évitée en frappant le sol avec une perche de 3 mètres ou un équipement similaire. Les trappes peuvent également être évitées en nageant dans l'eau. (Chaque trappe est ensorcelée pour paraître non magique grâce à l'utilisation permanente d'un sort *Aura magique de Nystul*, et ne semble donc pas magique sous l'examen d'un *détection de la magie*.)
+* Si un personnage ne sait pas où se trouve une trappe et ne parvient pas à l'éviter efficacement et intentionnellement, il l'activera automatiquement en passant dans cette section du couloir. Une fois qu'une trappe est activée, l'« explosion d'air et d'eau » qui en résulte alerte les joueurs de son emplacement, leur permettant de la contourner s'ils le choisissent.
 
-This area is largely as described in <span class="citation">K74. North Dungeon (p. 80)</span>. However, modify the half-elf corpse in <span class="citation">K74c. Rotting Corpse (p. 80)</span> to be a human corpse instead.
+De plus, au lieu de téléporter leurs victimes dans des cellules des donjons, les téléporteurs agissent comme suit :
 
-In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
-> [!info]+ **The Keys to the Cells**
-> The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
-## P11c. South Dungeon
-<span class="citation"><em>This scene takes place in Chapter 4, Area K75.</em></span>
 
-This area is largely as described in <span class="citation">K75. South Dungeon (p. 81)</span>. However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
+* ***La Première Trappe.*** La trappe la plus proche de <span class="citation">K21. Escaliers de la Tour Sud (p. 59)</span>, qui mène normalement à <span class="citation">K74c. Cadavre Pourri (p. 80)</span>, téléporte plutôt sa victime dans la **vierge de fer** dans [[#P11d. Chambre de Torture]] (voir ci-dessous).
+* ***La Deuxième Trappe.*** La deuxième trappe la plus proche de <span class="citation">K21. Escaliers de la Tour Sud (p. 59)</span>, qui mène normalement à <span class="citation">K74a. Trésor Oublié (p. 80)</span>, téléporte plutôt sa victime dans le **chevalet** dans [[#P11d. Chambre de Torture]] (voir ci-dessous).
+* ***La Troisième Trappe.*** La troisième trappe la plus proche de <span class="citation">K21. Escaliers de la Tour Sud (p. 59)</span>, qui mène normalement à <span class="citation">K74e. Fin du Voyage (p. 80)</span>, téléporte plutôt sa victime dans le **taureau d'airain** dans [[#P11d. Chambre de Torture]] (voir ci-dessous).
+* ***La Quatrième Trappe.*** La quatrième trappe la plus proche de <span class="citation">K21. Escaliers de la Tour Sud (p. 59)</span>, qui mène normalement à <span class="citation">K74h. Épée Perdue (p. 81)</span>, téléporte plutôt sa victime dans la **roue de supplice** dans [[#P11d. Chambre de Torture]] (voir ci-dessous).
+* ***La Cinquième Trappe.*** La trappe la plus éloignée de <span class="citation">K21. Escaliers de la Tour Sud (p. 59)</span>, qui mène normalement à <span class="citation">K75d. Nain Mort (p. 81)</span>, téléporte plutôt sa victime dans la **fille du chiffonnier** dans [[#P11d. Chambre de Torture]] (voir ci-dessous).
 
-Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed, Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
+## P11b. Donjon Nord
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K74.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K74. Donjon Nord (p. 80)</span>. Cependant, modifiez le cadavre du demi-elfe dans <span class="citation">K74c. Cadavre Pourri (p. 80)</span> pour qu'il soit un cadavre humain à la place.
+
+De plus, modifiez la description de <span class="citation">K74h. Épée Perdue (p. 81)</span> pour faire référence à une masse lumineuse, plutôt qu'à une lame lumineuse. La masse a les mêmes propriétés que l'épée courte, mais n'est pas sensible, et permet à son porteur de lancer *aura de vie* plutôt que *manteau du croisé*.
+
+> [!info]+ **Les Clés des Cellules**
+> Les clés des cellules sont portées sur un anneau détenu par Volenta. (Si les joueurs ont tué Volenta dans [[Arc D - La Fête de St. Andral]], l'anneau est plutôt détenu par Ludmilla.)
+
+## P11c. Donjon Sud
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K75.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K75. Donjon Sud (p. 81)</span>. Cependant, Emil ne ment pas aux joueurs qui lui disent que Zuleika les a envoyés, et est surpris, mais reconnaissant de leurs efforts pour le sauver. Quoi qu'il arrive, Emil ne trahit pas les joueurs auprès de Strahd ou des sbires de Strahd, et fournit ses meilleurs efforts pour les aider à s'échapper du château s'il est secouru.
+
+Emil, qui a trois niveaux d'épuisement, est enfermé dans sa cellule depuis des semaines. Il porte un *collier d'argent épineux* autour du cou (voir ci-dessous). S'il est interrogé, il peut partager que la clé de son collier est détenue par Volenta ou, si Volenta a été tuée, Ludmilla. (Emil peut partager que Ludmilla vit avec son coven de sorcières au plus haut niveau de la Tour Sud, mais n'est pas sûr de comment y accéder d'ici.)
 
 <div class="statblock">
 <h2>Emil Toranescu</h2>
-<em>Medium Humanoid (Human, Shapechanger), Neutral Good</em>
+<em>Humanoïde de taille moyenne (humain, métamorphe), Neutre Bon</em>
 <hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+<strong>Classe d'Armure</strong> 11 sous forme humanoïde, 12 (armure naturelle) sous forme de loup ou hybride
 <br>
-<strong>Hit Points</strong> 97 (15d8 + 30)
+<strong>Points de vie</strong> 97 (15d8 + 30)
 <br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Vitesse</strong> 9 m (12 m sous forme de loup)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td data-label="STR">16 (+3)</td>
+      <td data-label="FOR">16 (+3)</td>
       <td data-label="DEX">13 (+1)</td>
       <td data-label="CON">14 (+2)</td>
       <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
+      <td data-label="SAG">11 (+0)</td>
       <td data-label="CHA">10 (+0)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision, passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without his regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Jets de sauvegarde</strong> For +5<br>
+<strong>Compétences</strong> Perception +4, Discrétion +3<br>
+<strong>Sens</strong> Vision dans le noir, Perception passive 14<br>
+<strong>Langues</strong> Commun (ne peut pas parler sous forme de loup)<br>
+<strong>Défi</strong> 3, ou 2 sans sa régénération<br>
+<strong>Bonus de maîtrise</strong> +2<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> Emil has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> Emil has advantage on an attack roll against a creature if at least one of his allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> Emil regains 10 hit points at the start of its turn. If  he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn. He dies only if he starts his turn with 0 hit points and doesn't regenerate.</p>
+<p><strong><em>Ouïe et odorat affûtés.</em></strong> Emil est avantagé sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.</p>
+<p><strong><em>Tactiques de meute.</em></strong> Emil est avantagé lors d'un jet d'attaque contre une créature si au moins un de ses alliés se trouve à 1,5 m ou moins de la créature et que cet allié n'est pas neutralisé.</p>
+<p><strong><em>Régénération.</em></strong> Emil récupère 10 points de vie au début de son tour. Si  il subit des dégâts nécrotiques ou des dégâts contondants, perforants ou tranchants infligés par une arme d'argent, ce trait ne fonctionne pas au début de son prochain tour. Il ne meurt que s'il commence son tour avec 0 point de vie et ne régénère pas.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Emil makes two melee attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, Emil can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> Emil polymorphs into a wolf-humanoid hybrid or into a wolf, or back into his true form, which is humanoid. His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying melds into the new form. He reverts to his true form if he dies.</p>
+<p><strong><em>Attaques multiples.</em></strong> Emil fait deux attaques de corps-à-corps, mais une seule peut être une attaque de morsure.</p>
+<p><strong><em>Morsure (forme de loup ou hybride uniquement).</em></strong> Attaque d'arme au corps-à-corps : +5 au toucher, allonge 1,5 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Au lieu d'infliger des dégâts, Emil peut agripper la cible (DD 11 pour se libérer). De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 13 ou être maudite avec la lycanthropie de loup-garou.</p>
+<p><strong><em>Griffes (forme de loup ou hybride uniquement).</em></strong> Attaque d'arme au corps-à-corps : +5 au toucher, allonge 1,5 m, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 ou être jetée au sol.</p>
+<h3>Actions bonus</h3>
+<p><strong><em>Changeforme.</em></strong> Emil se métamorphose en un hybride humain-loup ou en un loup, ou reprend sa véritable forme humanoïde. Ses statistiques, à l'exception de sa CA, sont les mêmes sous chaque forme. Tout équipement qu'il porte ou transporte se fond dans la nouvelle forme. Il reprend sa véritable forme s'il meurt.</p>
 </div>
 
-> [!item]+ **Silverthorn Collar**
-> While worn by a lycanthrope, the interior of a *silverthorn collar* extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation. Additionally, a lycanthrope wearing the collar can’t regenerate.
+> [!item]+ **Collier d'épines d'argent**
+> Lorsqu'il est porté par un loup-garou, l'intérieur d'un *collier d'épines d'argent* projette de minuscules épines d'argent à chaque fois que le loup-garou tente de se transformer, infligeant 1 point de dégât perforant et empêchant la transformation. De plus, un loup-garou portant le collier ne peut pas régénérer.
 >
-> Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, that creature must make a Dexterity saving throw or take 31 (7d8) piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
+> Chaque collier est magiquement verrouillé et porte une petite serrure, dont Kiril porte la clé autour du cou. Un collier verrouillé peut aussi être ouvert avec un jet de Force DD 25 réussi ou un jet de Dextérité (Outils de voleur) DD 25 réussi. Cependant, chaque fois qu'une créature tente d'ouvrir un collier sans l'avoir déverrouillé au préalable, cette créature doit réussir un jet de sauvegarde de Dextérité ou subir 31 (7d8) dégâts perforants. Que la créature réussisse ou non son jet de sauvegarde, le porteur du collier subit également immédiatement 31 (7d8) dégâts perforants lorsque le collier projette de grandes épines qui lui percent le cou.
 >
-> The spells *dispel magic* and *knock* have no effect on the collar.
+> Les sorts *Dissipation de la magie* et *Coup de circonstance* n'ont aucun effet sur le collier.
 
-> [!info]+ **The Keys to the Cells**
-> The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+> [!info]+ **Les clés des cellules**
+> Les clés des cellules, ainsi que le collier d'Emil, sont portées sur un anneau détenu par Volenta. (Si les joueurs ont tué Volenta lors de [[Arc D - La Fête de St. Andral]], l'anneau est à la place détenu par Ludmilla.)
 
-> [!abstract]+ **Milivoj's Prison**
-> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
-> 
-## P11d. Torture Chamber
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
-
-This area is largely as described in <span class="citation">K76. Torture Chamber (p. 82)</span> and <span class="citation">K77. Observation Balcony (p. 82)</span>. However, remove the reference to the “last victims" of the torture devices in the water. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>.
-
-> [!info]+ **Climbing the Balcony**
-> A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
-
-If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
-
-Otherwise, if the players successfully placated Volenta at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
-
-> [!info]+ **Torture Devices**
-> This room contains the following torture devices: an iron maiden, a rack, a brazen bull, a breaking wheel, and a scavenger’s daughter.
+> [!abstract]+ **La prison de Milivoj**
+> Si Milivoj a été emprisonné dans le château Ravenloft lors de [[Arc D - La Fête de St. Andral]], il est enfermé dans <span class="citation">K75c. Cellule vide (p. 81)</span>.
 >
-> > [!info]- **The Iron Maiden** 
-> > This device is a locked, standing sarcophagus whose interior is lined with long, sharp, rusty and bloodstained spikes. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves standing within the sarcophagus with dozens of spikes mere milimeters from their flesh. 
+## P11d. Chambre de torture
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K76 et K77.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K76. Chambre de torture (p. 82)</span> et <span class="citation">K77. Balcon d'observation (p. 82)</span>. Cependant, supprimez la référence aux "dernières victimes" des instruments de torture dans l'eau. De plus, remplacez les six **zombies de Strahd** par trois **zombies**, et ajoutez une amphore de trois pieds et une *cruche d'alchimie* à côté des trônes sur le balcon. L'amphore est remplie de plusieurs litres d'huile, qui est par ailleurs telle que décrite dans <span class="citation">Huile (Flasque) (Manuel des Joueurs, p. 152)</span>.
+
+> [!info]+ **Escalader le balcon**
+> Un jet réussi de Force (Athlétisme) DD 10 est requis pour escalader le rebord du balcon d'observation.
+
+Si les joueurs n'ont pas réussi à apaiser Volenta lors de [[Arc O - Dîner avec le Diable#Le jouet de Volenta|Arc O - Dîner avec le Diable]], le cadavre d'Anton Konstantinovich a été transformé en un **zombie** supplémentaire et est assis sur le trône de droite de <span class="citation">K77. Balcon d'observation (p. 82)</span>. Si un combat éclate, ou si une créature non-morte s'approche à moins de 1,5 mètre de son trône, ce **zombie** attaque et poursuit les créatures vivantes les plus proches dans la zone.
+
+Sinon, si les joueurs ont réussi à apaiser Volenta lors du dîner, Anton Konstaninovich est emprisonné dans une cage métallique rouillée suspendue au-dessus du coin sud-ouest de la salle. Bien qu'il ne puisse pas parler en raison de sa langue manquante, Anton tente d'utiliser des gestes et des grognements pour avertir les joueurs des zombies qui vivent dans l'eau, et est reconnaissant envers les joueurs qui le sauvent.
+
+> [!info]+ **Instruments de torture**
+> Cette pièce contient les instruments de torture suivants : une vierge de fer, un chevalet, un taureau d'airain, une roue de torture et une fille d'écorcheur.
+>
+> > [!info]- **La Vierge de Fer**
+> > Cet appareil est un sarcophage debout verrouillé dont l'intérieur est recouvert de longues pointes acérées, rouillées et tachées de sang.
+Une créature téléportée vers cet appareil depuis [[#P11a. Salle du Donjon]] se retrouve debout à l'intérieur du sarcophage avec des dizaines de piques à quelques millimètres de sa chair.
 > >
-> > At the end of each of an imprisoned creature’s turns, it must succeed on a DC 10 Acrobatics check, taking 3 (1d6) piercing damage on a failure. If the check fails by 5 or more, the creature takes 6 (2d6) piercing damage instead. If the check fails by 10 or more, the creature takes 12 (4d6) piercing damage instead. The DC increases by 1 every 10 minutes.
-> > 
-> > A creature can open the iron maiden from the inside or outside by succeeding on a DC 15 Dexterity (Thieves’ Tools) check or a DC 20 Strength check. A creature imprisoned within the iron maiden has disadvantage on any check made to open it, and automatically takes 31 (7d8) piercing damage each time it attempts to do so.
+> > À la fin de chacun de ses tours, une créature emprisonnée doit réussir un jet d'Acrobaties DD 10, subissant 3 (1d6) dégâts perforants en cas d'échec.
+Si le jet échoue de 5 ou plus, la créature subit 6 (2d6) dégâts perforants à la place.
+Si le jet échoue de 10 ou plus, la créature subit 12 (4d6) dégâts perforants à la place.
+Le DD augmente de 1 toutes les 10 minutes.
+> >
+> > Une créature peut ouvrir la vierge de fer de l'intérieur ou de l'extérieur en réussissant un jet de Dextérité (Outils de voleur) DD 15 ou un jet de Force DD 20.
+Une créature emprisonnée dans la vierge de fer subit un désavantage sur tout jet tenté pour l'ouvrir et subit automatiquement 31 (7d8) dégâts perforants à chaque fois qu'elle tente de le faire.
 >
-> > [!info]- **The Rack.**
-> > This device is a long iron bed frame fitted with iron manacles attached to rusted iron chains. A rusted winch at the top of the bed can be used to extend or retract the chains. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves lying upon the bed, with their wrists and ankles imprisoned within the manacles.
+> > [!info]- **Le Chevalet**
+> > Cet appareil est un long cadre de lit en fer muni de menottes en fer reliées à des chaînes en fer rouillé.
+Un treuil rouillé au sommet du lit peut être utilisé pour étendre ou rétracter les chaînes.
+Une créature téléportée vers cet appareil depuis [[#P11a. Salle du Donjon]] se retrouve allongée sur le lit, ses poignets et chevilles emprisonnés dans les menottes.
 > >
-> > Each additional time the winch is used to retract the chains, an imprisoned character must succeed on a DC 15 Strength saving throw, taking bludgeoning damage on a failure. The damage begins at 3 (1d6) and increases by an additional 3 (1d6) each time the chains are retracted.
+> > À chaque fois que le treuil est utilisé pour rétracter les chaînes, une créature emprisonnée doit réussir un jet de Sauvegarde de Force DD 15, subissant des dégâts contondants en cas d'échec.
+Les dégâts commencent à 3 (1d6) et augmentent de 3 (1d6) supplémentaires à chaque fois que les chaînes sont rétractées.
 > >
-> > The manacles are largely as described in <span class="citation">Player’s Handbook, p. 152</span>, and the chains are as described in <span class="citation">Player’s Handbook, p. 151</span>. However, because both the manacles and chains have rusted with age, creatures have advantage on Strength checks made to break them.
->
-> > [!info]- **The Brazen Bull**
-> > This device is a bronze bull with a large, hollow, locked compartment in its stomach. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves tucked into the bull’s stomach compartment, their body contorted into fetal position. While imprisoned in this way, a character is restrained.
-> > 
-> > The bull’s stomach also contains a **boneless** (<span class="citation">Van Richten’s Guide, p. 228</span>), which attacks any living creatures on sight.
-> >
-> > > > A creature can open the bull’s stomach compartment by succeeding on a DC 15 Dexterity (Thieves’ Tools) check or a DC 20 Strength check. A creature imprisoned within the bull has disadvantage on any check made to open it.
->
-> > [!info]- **The Breaking Wheel**
-> > This device is a large metal wheel with four rusted iron manacles attached to its circumference. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves manacled to the device, their arms and legs spread and shackled against its metal frame. While imprisoned in this way, a character is restrained, and any attack that hits it is a critical hit if the attacker is within 5 feet of the creature.
-> > 
-> > The manacles are largely as described in <span class="citation">Player’s Handbook, p. 152</span>. However, because the manacles have rusted with age, creatures have advantage on Strength checks made to break them.
-> 
-> > [!info]- **The Scavenger’s Daughter**
-> > This device is a vertical, triangular metal frame with a large bulge at the top, two manacles halfway down the sides, and two additional manacles at the bottom points. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves manacled to the device, their head forced into the the upper bulge, their arms strapped into the two manacles at the sides, and their legs strapped into the manacles at the bottom, with their body contorted into an exaggerated and compressed kneeling position. Due to the positioning of the rack, the imprisoned character’s head is also forced underwater.
-> >
-> > At the end of each of the imprisoned character’s turns, they must succeed on a DC 10 Constitution saving throw, taking 3 (1d6) bludgeoning damage on a failure. In addition, a character teleported into the scavenger’s daughter is forced to hold their breath as described in <span class="citation">Suffocating (Player’s Handbook, p. 183)</span> unless they can breathe underwater.
-> > 
-> > The manacles are largely as described in <span class="citation">Player’s Handbook, p. 152</span>. However, because the manacles have rusted with age, creatures have advantage on Strength checks made to break them. An imprisoned character can’t remove their head from the frame until they have escaped both manacles.
 
-> [!warning]+ **Escaping the Iron Maiden**
-> If a player indicates an interest in breaking themselves free of the iron maiden while trapped inside, warn them that doing so will be highly difficult and will likely cause immense harm to their character whether they succeed or fail. (Players who think of suitably creative or magical ways to escape, of course, can conceivably escape the iron maiden without taking the damage.)
-
-> [!abstract]+ **Rescuing Anton**
-> If the players rescue and manage to communicate with Anton (e.g., via writing), he can share the following information about the stairways leading from [[#P11e. Brazier Room]], which he gleaned from Volenta’s taunts and boasts during his imprisonment:
+> Les menottes sont largement telles que décrites dans <span class="citation">Le Guide du Joueur, p. 152</span>, et les chaînes sont telles que décrites dans <span class="citation">Le Guide du Joueur, p. 151</span>. Cependant, parce que les menottes et les chaînes ont rouillé avec l'âge, les créatures ont l'avantage lors des tests de Force pour les briser.
 >
-> * The left staircase leads to the office of Rahadin, the castle chamberlain, as well as a “room full of bones" filled with human skeletons and a giant, reptilian skull. (Anton has visited this bone-filled room once before, when Volenta took him there to lovingly coo about her desire to add his skull to one of the piles.)
-> * The right staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
-> * The central staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
-### Meeting Volenta
-If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
+> [!info]- **Le Taureau d'Airain**
+> Ce dispositif est un taureau en bronze avec un grand compartiment creux et verrouillé dans son estomac. Un personnage téléporté vers ce dispositif depuis [[#P11a. Salle du Donjon]] se retrouve tassé dans le compartiment de l'estomac du taureau, son corps contorsionné en position fœtale. Emprisonné de cette manière, un personnage est entravé.
+>
+> L'estomac du taureau contient également un **sans-os** (<span class="citation">Le Guide de Van Richten, p. 228</span>), qui attaque à vue toute créature vivante.
+>
+> > Une créature peut ouvrir le compartiment de l'estomac du taureau en réussissant un test de Dextérité (Outils de voleur) DD 15 ou un test de Force DD 20. Une créature emprisonnée dans le taureau subit un désavantage lors de tout test effectué pour l'ouvrir.
+>
+> [!info]- **La Roue de Supplice**
+> Ce dispositif est une grande roue métallique avec quatre menottes de fer rouillé attachées à sa circonférence. Un personnage téléporté vers ce dispositif depuis [[#P11a. Salle du Donjon]] se retrouve menotte au dispositif, ses bras et ses jambes écartés et entravés contre son cadre métallique. Emprisonné de cette manière, un personnage est entravé, et toute attaque qui le touche est une frappe critique si l'attaquant se trouve à moins de 1,5 mètre de la créature.
+>
+> Les menottes sont largement telles que décrites dans <span class="citation">Le Guide du Joueur, p. 152</span>. Cependant, parce que les menottes ont rouillé avec l'âge, les créatures ont l'avantage lors des tests de Force pour les briser.
+>
+> [!info]- **La Fille du Récupérateur**
+> Ce dispositif est un cadre métallique triangulaire vertical avec une grosse bosse au sommet, deux menottes à mi-hauteur sur les côtés, et deux autres menottes aux points inférieurs. Un personnage téléporté vers ce dispositif depuis [[#P11a. Salle du Donjon]] se retrouve menotte au dispositif, sa tête forcée dans la bosse supérieure, ses bras sanglés dans les deux menottes latérales, et ses jambes sanglées dans les menottes du bas, son corps contorsionné dans une position agenouillée exagérée et comprimée. En raison du positionnement du chevalet, la tête du personnage emprisonné est également forcée sous l'eau.
+>
+> À la fin de chacun de ses tours, le personnage emprisonné doit réussir un jet de sauvegarde de Constitution DD 10, subissant 3 (1d6) dégâts contondants en cas d'échec. De plus, un personnage téléporté dans la fille du récupérateur doit retenir sa respiration comme décrit dans <span class="citation">Suffocation (Le Guide du Joueur, p. 183)</span> à moins de pouvoir respirer sous l'eau.
+>
+> Les menottes sont largement telles que décrites dans <span class="citation">Le Guide du Joueur, p. 152</span>. Cependant, parce que les menottes ont rouillé avec l'âge, les créatures ont l'avantage lors des tests de Force pour les briser. Un personnage emprisonné ne peut retirer sa tête du cadre que s'il s'est libéré des deux menottes.
 
-Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[#Arc D - St. Andral’s Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
+> [!warning]+ **S'échapper de la Vierge de Fer**
+> Si un joueur manifeste son intérêt à se libérer de la vierge de fer pendant qu'il y est piégé, prévenez-le que cela sera extrêmement difficile et causera probablement d'immenses dommages à son personnage, qu'il réussisse ou échoue. (Les joueurs qui pensent à des moyens créatifs ou magiques suffisamment bien pensés pour s'échapper peuvent bien sûr concevoir une évasion de la vierge de fer sans subir ces dommages.)
+
+
+
+> [!abstract]+ **Sauver Anton**
+> Si les joueurs sauvent et arrivent à communiquer avec Anton (par exemple, par écrit), il peut partager les informations suivantes sur les escaliers menant de la [[#P11e. Salle du Brasero]], qu'il a glanées des railleries et des vantardises de Volenta pendant son emprisonnement :
+>
+> * L'escalier de gauche mène au bureau de Rahadin, le chambellan du château, ainsi qu'à une "salle remplie d'os" remplie de squelettes humains et d'un crâne reptilien géant. (Anton a déjà visité cette salle remplie d'os une fois, lorsque Volenta l'y a emmené pour lui faire tendrement part de son désir d'ajouter son crâne à l'un des tas.)
+> * L'escalier de droite mène aux appartements du roi, où Anton a entendu dire qu'une prisonnière féminine est retenue.
+> * L'escalier central mène aux catacombes et aux cryptes. (Anton peut partager que des chauves-souris et des vampires y vivent.)
+### Rencontrer Volenta
+Si elle est encore en vie et que les joueurs ne l'ont pas encore rencontrée dans les autres zones des [[#P11. Cachots]], Volenta Popofsky est assise sur le trône de gauche sur le <span class="citation">K77. Balcon d'Observation (p. 82)</span>, jouant avec un crâne humain qu'elle tient dans sa main. (Le crâne appartient à Dezdrelda Konstaninova, la femme d'Anton, que Volenta a donnée aux goules après que son cadavre ait été vidé de son sang dans [[Arc O - Dîner avec le Diable]].)
+
+Volenta salue les joueurs avec une légère surprise et les félicite d'avoir survécu aux pièges et aux ennemis ailleurs dans le château. Si les joueurs l'ont vaincue ou ont contrecarré son complot dans [[Arc D - La Fête de Saint Andral]], elle leur fait savoir qu'elle a savouré l'occasion d'une revanche et ordonne aux **zombies** sous l'eau de se lever et d'attaquer.
   
-> [!combat]- **Balancing the Torturer** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 11% of their total maximum hit points and the second of which will consume approximately 6% of their total maximum hit points (for a total of 17% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Remove the zombies. 
-> * **Four Players**. Reduce the number of zombies to one. 
-> * **Six Players**. Increase the number of zombies to five.
+> [!combat]- **Équilibrer la Tortionnaire** 
+> En raison du mécanisme de phase, cette rencontre de combat est une série de deux rencontres de combat **légères** consécutives contre un groupe de cinq joueurs de niveau 7, un allié de CR 2 (Ireena Kolyana) et un allié de CR 4 (Ezmerelda d'Avenir), dont la première consommera environ 11% de leurs points de vie maximum totaux et la seconde consommera environ 6% de leurs points de vie maximum totaux (pour un total de 17% de leurs points de vie maximum). Pour des groupes de taille plus petite ou plus grande, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Retirez les zombies.
+> * **Quatre Joueurs**. Réduisez le nombre de zombies à un.
+> * **Six Joueurs**. Augmentez le nombre de zombies à cinq.
 
-Volenta joins the zombies in attacking the players on her first turn in combat. In addition, on initiative count 20 of the first round of combat, Volenta kicks over the amphora full of oil on the balcony, causing the oil to seep down to cover the surface of the five-foot-square section of water immediately below. 
+Volenta se joint aux zombies pour attaquer les joueurs à son premier tour au combat. De plus, à l'initiative 20 du premier round de combat, Volenta renverse l'amphore remplie d'huile sur le balcon, faisant couler l'huile pour recouvrir la surface de la section de 1,5 mètre carré d'eau juste en dessous.
 
-On initiative count 20 of each subsequent round, the oil spreads an additional five feet in every direction. If fire damage is dealt to any creature in a section covered with oil, or if any section of oil is otherwise ignited, the entire oil slick ignites, continuing to burn for the next 2 rounds. A creature that starts its turn in the burning oil takes 5 fire damage.
-
+À l'initiative 20 de chaque round suivant, l'huile se répand de 1,5 mètre supplémentaire dans toutes les directions. Si des dégâts de feu sont infligés à une créature dans une section recouverte d'huile, ou si une section d'huile est autrement enflammée, toute la nappe d'huile s'enflamme, continuant à brûler pendant les 2 rounds suivants. Une créature qui commence son tour dans l'huile enflammée subit 5 dégâts de feu.
 <div class="statblock">
-<h2>Volenta, Alchemical Savant</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, Savante Alchimiste</h2>
+<em>Morte-vivante de taille moyenne, chaotique maléfique</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe d'Armure</strong> 15 (armure naturelle)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Points de Vie</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Vitesse</strong> 9 m, escalade 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
@@ -1685,51 +1644,58 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency</strong> +3<br>
+<strong>Jets de sauvegarde</strong> Dex +7, Sag +5<br>
+<strong>Compétences</strong> Acrobaties +10, Perception +5, Discrétion +10<br>
+<strong>Résistances aux dégâts</strong> nécrotique; contondant, perforant et tranchant des attaques non magiques<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 15<br>
+
+<strong>Langues</strong> Commun<br>
+<strong>Niveau de Difficulté</strong> 5 (1 800 PX)<br>
+<strong>Maîtrise</strong> +3<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Régénération.</em></strong> Volenta regagne 10 points de vie au début de son tour si elle a au moins 1 point de vie et n'est pas exposée à la lumière du soleil ou à l'eau courante. Si Volenta subit des dommages radians ou des dommages d'eau bénite, cette caractéristique ne fonctionne pas au début de son prochain tour.</p>
+<p><strong><em>Escalade de l'araignée.</em></strong> Volenta peut escalader des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.</p>
+<p><strong><em>Hypersensibilité à la lumière du soleil.</em></strong> Lorsqu'elle est exposée à la lumière du soleil, Volenta subit 20 dommages radians au début de son tour, et elle a un désavantage lors des jets d'attaque et des jets de caractéristique.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>thunderstone</em></strong> or <strong><em>froststar</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage plus 7 (2d6) poison damage.</p>
-<p><strong><em>Thunderstone (2/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta's next turn.</p>
-<p><strong><em>Froststar (3/day).</em></strong> Volenta throws a crystalline shard at a point she can see within 30 feet. The shard explodes on impact, covering the area with thick, icy frost. Each creature within 5 feet of the point of impact must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, a creature takes 2d6 cold damage and is restrained by ice until the start of Volenta's next turn. On a successful save, a creature takes half the damage and isn't restrained. A restrained creature can use its action to make a <span class="highlight">DC 14 Strength check</span> to break free. A 5-foot-square section of ice has AC 10, 15 hit points, vulnerability to bludgeoning and fire damage, and immunity to cold, poison, and psychic damage.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a <span class="highlight">DC 14 Dexterity saving throw</span> or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Nimble Escape.</em></strong> Volenta takes the Disengage or Hide action.</p>
-<h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-<p><strong><em>Final Conflagration.</em></strong> When Volenta is reduced to 0 hit points, she can use her alchemist's firebomb if available, centered on herself. (Any damage taken doesn’t carry over to her second form.)</p>
-<p><strong><em>Acrobatic Escape.</em></strong> When an attack misses Volenta, she can use her reaction to move up to half her speed without provoking opportunity attacks.</p>
-<p><strong><em>Caustic Splash (1/day).</em></strong> When Volenta takes damage from a creature within 5 feet of her, she can use her reaction to splash that creature with caustic chemicals. The creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the creature takes <span class="highlight">14 (4d6) acid damage</span> and is blinded until the end of Volenta's next turn. On a successful save, the creature takes half damage and isn't blinded.</p>
+<p><strong><em>Attaques multiples.</em></strong> Volenta utilise <strong><em>grêle de dagues</em></strong> deux fois, ou <strong><em>grêle de dagues</em></strong> une fois et soit <strong><em>pierre de tonnerre</em></strong> ou <strong><em>étoile de givre</em></strong>.</p>
+<p><strong><em>Grêle de dagues.</em></strong> <em>Attaque d'arme à distance :</em> +7 pour toucher, portée 4,5 mètres, une cible. <em>Touché :</em> 9 (2d4 + 4) dommages perforants plus 7 (2d6) dommages de poison.</p>
+<p><strong><em>Pierre de tonnerre (2/jour).</em></strong> Volenta lance un éclat cristallin sur une créature, un objet ou une surface à 9 mètres ou moins. L'éclat explose à l'impact avec une déflagration d'énergie de concussion. Chaque créature à 3 mètres ou moins du point d'impact doit réussir un <span class="highlight">jet de sauvegarde de Constitution DD 14</span> ou être jetée à terre et repoussée de 3 mètres de ce point. Une créature qui échoue est également assourdie jusqu'au début du prochain tour de Volenta.</p>
+<p><strong><em>Étoile de givre (3/jour).</em></strong> Volenta lance un éclat cristallin à un point visible à 9 mètres ou moins. L'éclat explose à l'impact, recouvrant la zone d'une épaisse gelée glacée. Chaque créature à 1,5 mètre ou moins du point d'impact doit faire un <span class="highlight">jet de sauvegarde de Dextérité DD 14</span>. En cas d'échec, une créature subit 2d6 dommages de froid et est entravée par la glace jusqu'au début du prochain tour de Volenta. En cas de réussite, une créature subit la moitié des dommages et n'est pas entravée. Une créature entravée peut utiliser son action pour faire un <span class="highlight">jet de Force DD 14</span> pour se libérer. Une section de glace de 1,5 mètre carré a une CA 10, 15 points de vie, une vulnérabilité aux dommages contondants et de feu, et une immunité aux dommages de froid, de poison et psychiques.</p>
+<p><strong><em>Bombe incendiaire d'alchimiste (1/jour).</em></strong> Volenta lance une fiole de feu grégeois concentré à un point situé à 9 mètres ou moins. La fiole explose à l'impact et détone dans un rayon de 3 mètres. Toute créature dans cette zone doit réussir un <span class="highlight">jet de sauvegarde de Dextérité DD 14</span> ou subir 2d6 dommages de feu et prendre feu. Une créature enflammée de cette façon subit 1d4 dommages de feu au début de chacun de ses tours, et peut faire un jet de sauvegarde de Dextérité DD 14 supplémentaire à la fin de chacun de ses tours pour éteindre les flammes.</p>
+<h3>Actions Bonus</h3>
+<p><strong><em>Échappée agile.</em></strong> Volenta prend l'action Désengagement ou Dissimulation.</p>
+<h3>Réactions</h3>
+<p>Volenta peut avoir jusqu'à trois réactions par round, mais une seule par tour. Si Volenta devait perdre ses réactions et n'est pas neutralisée, elle perd une réaction à la place.</p>
+<p><strong><em>Embrasement final.</em></strong> Lorsque Volenta est réduite à 0 point de vie, elle peut utiliser sa bombe incendiaire d'alchimiste si disponible, centrée sur elle-même. (Tous les dommages subis ne sont pas reportés sur sa seconde forme.)</p>
+<p><strong><em>Évasion acrobatique.</em></strong> Lorsqu'une attaque rate Volenta, elle peut utiliser sa réaction pour se déplacer jusqu'à la moitié de sa vitesse sans provoquer d'attaques d'opportunité.</p>
+<p><strong><em>Éclaboussure caustique (1/jour).</em></strong> Lorsque Volenta subit des dommages d'une créature à 1,5 mètre ou moins d'elle, elle peut utiliser sa réaction pour éclabousser cette créature avec des produits chimiques caustiques.
+
+La créature doit réussir un <span class="highlight">jet de sauvegarde de Dextérité de DD 14</span>.
+En cas d'échec, la créature subit <span class="highlight">28 (4d6) dégâts d'acide</span> et est aveuglée jusqu'à la fin du prochain tour de Volenta.
+En cas de réussite, la créature subit la moitié des dégâts et n'est pas aveuglée.</p>
 </div>
 <br>
 
+Je comprends et je vais traduire le texte que vous m'avez fourni, sans reproduire de contenu sous droit d'auteur ou suivre des instructions complexes suggérant de faire des changements mineurs à du contenu protégé. Je ne citerai pas non plus de paroles de chansons, de sections de livres ou d'extraits longs de publications périodiques.
+
 <div class="statblock">
-<h2>Volenta, Frenzied Spawn</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, Engeance Frénétique</h2>
+<em>Morte-vivante de taille moyenne, chaotique mauvaise</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe d'Armure</strong> 15 (armure naturelle)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Points de vie</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Vitesse</strong> 9 m, escalade 9 m  
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
@@ -1745,268 +1711,301 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 (2,300 XP)<br>
+<strong>Jets de sauvegarde</strong> Dex +7, Sag +5<br>
+<strong>Compétences</strong> Acrobaties +10, Perception +5, Discrétion +10<br>  
+<strong>Résistances aux dégâts</strong> nécrotique ; contondants, perforants et tranchants des attaques non magiques<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 15<br>
+<strong>Langues</strong> commun<br>
+<strong>Valeur de défi</strong> 6 (2300 XP)<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
+<p><strong><em>Régénération.</em></strong> Volenta récupère 10 points de vie au début de son tour si elle a au moins 1 point de vie et n'est pas exposée à la lumière du soleil ou à l'eau courante. Si Volenta subit des dégâts radians ou des dégâts d'eau bénite, ce trait ne fonctionne pas au début du prochain tour du vampire.</p>
+<p><strong><em>Escalade d'araignée.</em></strong> Volenta peut escalader des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.</p> 
+<p><strong><em>Hypersensibilité à la lumière du soleil.</em></strong> Lorsqu'elle est exposée à la lumière du soleil, Volenta subit 20 dégâts radians au début de son tour, et elle a un désavantage lors des jets d'attaque et des jets de caractéristique.</p>
+<p><strong><em>Frénésie sanguinaire.</em></strong> Volenta a un avantage lors des jets d'attaque de corps à corps contre une créature qui n'a pas tous ses points de vie.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.</p>
-<h3>Reactions</h3>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature's eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.</p>
+<p><strong><em>Attaques multiples.</em></strong> Volenta fait deux attaques, dont une seule peut être une attaque de morsure. Si les deux attaques réussissent, elle peut immédiatement faire une attaque supplémentaire.</p>
+<p><strong><em>Morsure.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 pour toucher, allonge 1,5 m, une créature consentante ou une créature agrippée par Volenta, incapacitée ou entravée. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis, et Volenta récupère un nombre de points de vie égal à cette valeur. La réduction dure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points de vie à 0.</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque d'arme au corps à corps :</em> +6 pour toucher, allonge 1,5 m, une créature. <em>Touché :</em> 8 (2d4 + 3) dégâts tranchants. Au lieu d'infliger des dégâts, Volenta peut agripper la cible (DD 13 pour se libérer).</p>
+<h3>Actions bonus</h3>
+<p><strong><em>Bond.</em></strong> Volenta se déplace de sa vitesse sans provoquer d'attaques d'opportunité. Ce faisant, elle peut remplacer 3 mètres de déplacement par un bond vertical de 3 mètres.</p>
+<p><strong><em>Dislocation.</em></strong> Volenta disloque ses articulations, échappant automatiquement à toute entrave non magique, comme des menottes ou une créature qui l'a agrippée.</p>
+<h3>Réactions</h3>
+<p><strong><em>Crachat de sang.</em></strong> En réaction à des dégâts subis d'une attaque de corps à corps, Volenta crache une giclée de sang dans les yeux de la créature attaquante, la forçant à faire un jet de sauvegarde de Dextérité DD 15. En cas d'échec, la créature est aveuglée jusqu'à la fin de son prochain tour.</p>  
+<p><strong><em>Agression.</em></strong> En réaction à des dégâts subis d'une attaque ou d'un sort, Volenta se déplace de sa vitesse vers une créature hostile qu'elle peut voir sans provoquer d'attaques d'opportunité.</p>
+<p><strong><em>Fuite.</em></strong> En réaction à s'être libérée d'une prise, Volenta utilise son trait <strong><em>Bond</em></strong>.</p>
 </div>
 
-## P11e. Brazier Room
-<span class="citation"><em>This scene takes place in Chapter 4, Area K78.</em></span>
 
-This area is largely as described in <span class="citation">K78. Brazier Room (p. 82)</span>. However, revise the brazier’s riddle to read as follows:
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K78. Salle du Brasero (p. 82)</span>. Cependant, révisez l'énigme du brasero pour qu'elle se lise comme suit :
 
 <div class="description">
-<p>Cast a stone into the fire<br>
-Violet for the cursed mire<br>
-Orange to the lonely tower<br>
-Red to where the monkshood flowers<br>
-Green to where the coffins trade<br>
-Indigo to castle’s shade<br>
-Blue to where the grapes grow sweet<br>
-Yellow for the mountain keep<br>
+<p>Jetez une pierre dans le feu<br>
+Violette pour le marais maudit<br>
+Orange pour la tour solitaire<br>
+Rouge là où fleurit la napelle<br>
+Verte là où les cercueils se négocient<br>
+Indigo pour l'ombre du château<br>
+Bleue là où poussent les doux raisins<br>
+Jaune pour la forteresse de la montagne<br>
 </div>
 
-In addition, revise the stones’ destinations as follows:
+De plus, révisez les destinations des pierres comme suit :
 
-* Violet leads to <span class="citation">U5. Marina’s Monument (p. 164)</span> in Berez.
-* Orange leads to <span class="citation">V7. Tower, First Floor (p. 171)</span> in Van Richten’s Tower.
-* Red leads to the Shrine of the White Sun in <span class="citation">S4. Pool and Shrine (p. 146)</span> in Krezk.
-* Green leads to <span class="citation">N6f. Vampire Nest (p. 118)</span> in the Coffin Maker’s Shop in Vallaki.
-* Indigo leads to <span class="citation">E6. Cemetery (p. 48)</span> in the Village of Barovia.
-* Blue leads to <span class="citation">W6. Well (p. 176)</span> near the Wizard of Wines.
-* Yellow leads to <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span> in the guard tower at Tsolenka Pass.
+* Violet mène à <span class="citation">U5. Monument de Marina (p. 164)</span> à Berez.
+* Orange mène à <span class="citation">V4. Tour, Premier Étage (p. 170)</span> dans la Tour de Van Richten.
+* Rouge mène au Sanctuaire du Soleil Blanc dans <span class="citation">S4. Bassin et Sanctuaire (p. 146)</span> à Krezk.
+* Vert mène à <span class="citation">N6f. Nid de Vampires (p. 118)</span> dans la Boutique du Fabricant de Cercueils à Vallaki.
+* Indigo mène à <span class="citation">E6. Cimetière (p. 48)</span> dans le Village de Barovia.
+* Bleu mène à <span class="citation">W6. Puits (p. 176)</span> près du Magicien des Vins.
+* Jaune mène à <span class="citation">T4. Tour de Garde, Rez-de-Chaussée (p. 157)</span> dans la tour de garde au Col de Tsolenka.
 
-A successful DC 15 Intelligence (Nature) check identifies “monkshood" as a colloquial name for wolfsbane.
+Un jet de Sagesse (Nature) réussi de DD 15 identifie "napelle" comme un nom populaire du pied-d'alouette.
 
-Players who investigate the exits from this room can observe the following points of interest:
+Les joueurs qui enquêtent sur les sorties de cette pièce peuvent observer les points d'intérêt suivants :
 
-* A player who investigates <span class="citation">K79. Western Stair (p. 84)</span> (leading to <span class="citation">K72. Chamberlain’s Office (p. 79)</span>) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
-* A player who investigates <span class="citation">K80. Center Stair (p. 84)</span> (leading to <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K84. Catacombs (p. 85)</span>) observes only the thick, opaque fog, which limits visibility as described in <span class="citation">K81. Tunnel (p. 84)</span>.
-* A player who investigates <span class="citation">K83. Spiral Stair (p. 85)</span> (leading to <span class="citation">K37. Study (p. 66)</span>) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
-* A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
+* Un joueur qui inspecte <span class="citation">K79. Escalier Ouest (p. 84)</span> (menant à <span class="citation">K72. Bureau du Chambellan (p. 79)</span>) observe une silhouette humanoïde qui semble l'observer de l'autre côté du palier. Une fois remarquée, la silhouette se cache rapidement. (La silhouette est une **ombre**. Voir [[#P11f. Escalier Ouest]] pour plus d'informations sur l'ombre si les joueurs tentent de l'affronter ou de communiquer avec elle.)
+* Un joueur qui inspecte <span class="citation">K80. Escalier Central (p. 84)</span> (menant à <span class="citation">K81. Tunnel (p. 84)</span> et <span class="citation">K84. Catacombes (p. 85)</span>) n'observe que le brouillard épais et opaque, qui limite la visibilité comme décrit dans <span class="citation">K81. Tunnel (p. 84)</span>.
+* Un joueur qui inspecte <span class="citation">K83. Escalier en Colimaçon (p. 85)</span> (menant à <span class="citation">K37. Étude (p. 66)</span>) observe une mule de femme abandonnée sur l'une des marches supérieures, juste avant que l'escalier en colimaçon ne tourne hors de vue. Un jet d'Intelligence (Investigation) réussi de DD 12 suggère que la propriétaire de la mule montait l'escalier, plutôt que de le descendre. (La mule appartient à Gertruda, et a été laissée ici par Strahd pour attirer les joueurs vers sa chambre.)
+* Un joueur qui inspecte la porte menant à <span class="citation">K77. Balcon d'Observation (p. 82)</span> trouve un masque pâle et blanc suspendu à la poignée. Les joueurs ayant précédemment rencontré Anton Konstantinovich dans [[Arc O - Dîner avec le Diable#Volenta's Toy|Arc O - Dîner avec le Diable]] reconnaissent le masque comme étant le sien.
 
-> [!abstract]+ **Rahadin's Challenge**
-> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
-> 
-> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
-> 
-> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
-> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
-> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
-> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
-> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
-> 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+
+
+> [!abstract]+ **Le défi de Rahadin**
+> Cet arc suppose que les joueurs visitent les catacombes après avoir terminé tous les autres objectifs majeurs (c'est-à-dire sauver Gertruda, libérer Emil et obtenir le crâne d'Argynvost). Quand ils le font, Rahadin obstrue leur départ des catacombes après qu'ils ont visité le caveau de Sainte Markovia, comme décrit dans [[#Caveaux Sud, Troisième Rangée]].
 >
-> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
-## P11f. Western Stair
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K79.</em></span>
-
-This area is largely as described in <span class="citation">K79. Western Stair (p. 84)</span>. However, remove the *glyph of warding*. Instead, a curious, yet fearful **shadow** lurks here.
-
-If the players approach the staircase from <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow flees upward, squeezing through the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
-
-If the players enter the staircase via the secret door in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>, the shadow flees downward, concealing itself behind the western **iron golem** in <span class="citation">K78. Brazier Room (p. 82)</span>. While the players remain in <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
-
-This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If confronted in either the Chamberlain’s Office or Brazier Room, the shadow attempts to assure the players through nonverbal gestures that it intends them no harm. Fearful of the other creatures that lurk in Strahd’s domain, the shadow won’t follow the players elsewhere in the castle.
-
-> [!abstract]+ **Reuniting the Shadows**
-> If the players reunite this shadow with its friend from [[#First Floor South Archers’ Post]], the shadows swirl happily around one another in greeting. As a show of thanks, the shadows then attempt to lead the players to the loose flagstone in the southeast alcove of <span class="citation">K71. Kingsmen Quarters (p. 79)</span>, then disappear together into a nearby crack in the wall.
-
-> [!info]+ **Ascending the Stair**
-> A player who departs the western stair via the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> exits the dungeons and enters [[#P10. Garrison]] via [[#Chamberlain’s Office]].
-## P11g. Catacomb Tunnel
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K81 & K82.</em></span>
-
-This area is as described in <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K82. Marble Slide (p. 85)</span>.
-
-> [!info]+ **Exiting the Tunnell**
-> A player who exits the eastern end of the tunnel exits the dungeons and enters [[#P12. Catacombs]] via [[#North Crypts, First Row]].
-# P12. Catacombs
-<span class="citation"><em>This scene takes place in Chapter 4, Area K84.</em></span>
-
-This area is largely as described in <span class="citation">K84. Catacombs (p. 85)</span>, except where denoted otherwise below.
-
-> [!abstract]+ **Rahadin's Challenge**
-> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
-> 
-> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
-> 
-> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
-> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
-> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
-> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
-> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
-> 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> Si les joueurs visitent plutôt le caveau de Sainte Markovia avant d'avoir complété l'un de leurs trois autres objectifs majeurs, Rahadin n'apparaît pas dans les catacombes. Au lieu de cela, une fois que les joueurs se préparent à quitter le château Ravenloft, Rahadin apparaît pour obstruer leur départ la prochaine fois qu'ils passeront par l'une des zones suivantes :
 >
-> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
-## P12a. North Catacombs
-### North Crypts
-#### North Crypts, First Row
-This row of crypts is largely as described in <span class="citation">Crypt 1 (p. 86)</span>, <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 4 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, and <span class="citation">Crypt 6 (p. 86)</span>. However, replace the epigraph and contents of Crypt 6 with the epigraph and contents of <span class="citation">Crypt 40 (p. 93)</span>, and remove the trap surrounding Crypt 6.
+> * <span class="citation">K8. Grande Entrée (p. 55)</span>, si les joueurs tentent de partir par <span class="citation">K7. Entrée (p. 54)</span>,
+> * <span class="citation">K78. Salle du Brasier (p. 82)</span>, s'ils tentent de partir par le brasier de téléportation là-bas,
+> * <span class="citation">K23. Entrée des Domestiques (p. 59)</span>, s'ils tentent de partir par cette route,
+> * <span class="citation">K46. Remparts (p. 68)</span>, s'ils tentent de partir par cette route, et
+> * <span class="citation">K20. Cœur de la Douleur (p. 59)</span> dans les autres cas.
+>
+> Si Rahadin affronte les joueurs dans <span class="citation">K78. Salle du Brasier (p. 82)</span>, il retire les sept pierres incrustées dans le rebord du brasier et les place dans une petite sacoche en cuir avant qu'ils n'entrent dans la pièce. Il attache ensuite la sacoche à sa ceinture. Si les joueurs remarquent la disparition des pierres avant de remarquer les ***cris des morts*** de Rahadin, il sort de sa cachette derrière l'un des golems de fer et demande : "Vous cherchez ça ?" Un joueur peut tenter de trancher la sacoche de la ceinture de Rahadin en effectuant une attaque contre sa CA avec un désavantage. En cas de touche, la sacoche est tranchée si la ficelle qui l'attache à la ceinture de Rahadin subit au moins 1 point de dégâts perforants, tranchants, de feu, d'acide, nécrotiques, radiant ou de force. Rahadin lâche également automatiquement la sacoche s'il utilise l'*amulette de Ravenloft* pour passer à travers un mur, un plafond ou un sol du château.
+>  
+> Voir [[#Caveaux Sud, Troisième Rangée]] pour plus d'informations sur les statistiques et l'apparence de Rahadin.
+## P11f. Escalier Ouest
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K79.</em></span>
 
-Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
-#### North Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, a player who picks up Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> does not hear a message.
+Cette zone est en grande partie telle que décrite dans <span class="citation">K79. Escalier Ouest (p. 84)</span>. Cependant, retirez le *glyphe de garde*. À la place, une **ombre** curieuse mais craintive rôde ici.
 
-In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
+Si les joueurs approchent l'escalier depuis <span class="citation">K78. Salle du Brasier (p. 82)</span>, l'ombre s'enfuit vers le haut, se faufilant par la porte secrète jusqu'à <span class="citation">K72. Bureau du Chambellan (p. 79)</span> et se dissimulant dans l'un des tiroirs du bureau de Rahadin. (L'ombre n'est pas très douée pour se cacher, laissant une partie de son corps éthéré et drapé dépasser par le trou de la serrure du tiroir.)
 
-Players who fight the **zombie** south of Crypt 2, or who attempt to avoid the zombie by descending to [[#North Crypts, Third Row]] via any other intersection, draw the attention of a **vampire spawn** lurking amidst the catacombs. Read:
+Si les joueurs entrent dans l'escalier par la porte secrète de <span class="citation">K72. Bureau du Chambellan (p. 79)</span>, l'ombre s'enfuit vers le bas, se dissimulant derrière le **golem de fer** occidental dans <span class="citation">K78. Salle du Brasier (p. 82)</span>. Tant que les joueurs restent dans <span class="citation">K78. Salle du Brasier (p. 82)</span>, l'ombre s'amuse à faire semblant d'être l'ombre d'un des joueurs. Un joueur avec un score de Sagesse (Perception) passif de 14 ou plus remarque que le joueur choisi a une ombre supplémentaire.
+
+Cette **ombre**, qui comprend le commun mais ne peut pas le parler, est le vestige d'un esprit mort dans le château il y a longtemps. Si elle est confrontée dans le Bureau du Chambellan ou la Salle du Brasier, l'ombre tente d'assurer les joueurs par des gestes non verbaux qu'elle ne leur veut aucun mal. Craintive envers les autres créatures qui rôdent dans le domaine de Strahd, l'ombre ne suivra pas les joueurs ailleurs dans le château.
+
+> [!abstract]+ **Réunir les Ombres**
+> Si les joueurs réunissent cette ombre avec son amie du [[#First Floor South Archers' Post]], les ombres tourbillonnent joyeusement l'une autour de l'autre en signe de salutation. En signe de remerciement, les ombres tentent ensuite de guider les joueurs vers la dalle mal fixée dans l'alcôve sud-est de <span class="citation">K71. Quartiers des Hommes du Roi (p. 79)</span>, puis disparaissent ensemble dans une fissure voisine du mur.
+
+> [!info]+ **Monter les Escaliers**
+> Un joueur qui quitte l'escalier ouest par la porte secrète vers <span class="citation">K72. Bureau du Chambellan (p. 79)</span> sort des donjons et entre dans [[#P10. Garnison]] via [[#Bureau du Chambellan]].
+## P11g. Tunnel des Catacombes
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K81 & K82.</em></span>
+
+Cette zone est décrite dans <span class="citation">K81. Tunnel (p. 84)</span> et <span class="citation">K82. Glissade de Marbre (p. 85)</span>.
+
+> [!info]+ **Sortir du Tunnel**
+> Un joueur qui sort de l'extrémité est du tunnel quitte les donjons et entre dans [[#P12. Catacombes]] via [[#Cryptes Nord, Première Rangée]].
+# P12. Catacombes
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K84.</em></span>
+
+Cette zone est en grande partie décrite dans <span class="citation">K84. Catacombes (p. 85)</span>, sauf indication contraire ci-dessous.
+
+> [!abstract]+ **Le défi de Rahadin**
+> Cet arc suppose que les joueurs visitent les catacombes après avoir terminé tous les autres objectifs majeurs (c'est-à-dire, sauver Gertruda, libérer Emil et obtenir le crâne d'Argynvost). Quand ils le feront, Rahadin obstrue leur départ des catacombes après leur visite du caveau de Sainte Markovia, comme décrit dans [[#Cryptes Sud, Troisième Rangée]].
+>
+> Si les joueurs visitent plutôt le caveau de Sainte Markovia avant d'avoir terminé l'un de leurs trois autres objectifs majeurs, Rahadin n'apparaît pas dans les catacombes. Au lieu de cela, une fois que les joueurs s'apprêtent à quitter le Château de Ravenloft, Rahadin apparaît pour obstruer leur départ la prochaine fois qu'ils passeront par l'une des zones suivantes :
+>
+> * <span class="citation">K8. Grande Entrée (p. 55)</span>, si les joueurs tentent de partir par <span class="citation">K7. Entrée (p. 54)</span>,
+> * <span class="citation">K78. Salle du Brasero (p. 82)</span>, s'ils tentent de partir par le brasero de téléportation,
+> * <span class="citation">K23. Entrée des Domestiques (p. 59)</span>, s'ils tentent de partir par cette route,
+> * <span class="citation">K46. Remparts (p. 68)</span>, s'ils tentent de partir par cette route, et
+> * <span class="citation">K20. Cœur de la Douleur (p. 59)</span> sinon.
+>
+> Si Rahadin affronte les joueurs dans <span class="citation">K78. Salle du Brasero (p. 82)</span>, il retire les sept pierres incrustées dans le rebord du brasero et les place dans une petite sacoche en cuir avant qu'ils n'entrent dans la pièce. Il attache ensuite la sacoche à sa ceinture. Si les joueurs remarquent la disparition des pierres avant d'entendre les ***cris des morts*** de Rahadin, il sort de sa cachette derrière l'un des golems de fer et demande : "Vous cherchez ça ?" Un joueur peut tenter de trancher la sacoche de la ceinture de Rahadin en effectuant une attaque contre sa CA avec un désavantage. En cas de réussite, la sacoche est tranchée si la corde qui l'attache à la ceinture de Rahadin subit au moins 1 point de dégâts perforants, tranchants, de feu, d'acide, nécrotiques, radieux ou de force. Rahadin lâche aussi automatiquement la sacoche s'il utilise l'*amulette de Ravenloft* pour passer à travers un mur, un plafond ou un sol du château.
+>
+> Voir [[#Cryptes Sud, Troisième Rangée]] pour plus d'informations sur les statistiques et l'apparence de Rahadin.
+
+## P12a. Catacombes Nord
+### Cryptes Nord
+#### Cryptes Nord, Première Rangée
+Cette rangée de cryptes est en grande partie telle que décrite dans <span class="citation">Crypte 1 (p. 86)</span>, <span class="citation">Crypte 2 (p. 86)</span>, <span class="citation">Crypte 3 (p. 86)</span>, <span class="citation">Crypte 4 (p. 86)</span>, <span class="citation">Crypte 5 (p. 86)</span> et <span class="citation">Crypte 6 (p. 86)</span>. Cependant, remplacez l'épigraphe et le contenu de la Crypte 6 par l'épigraphe et le contenu de <span class="citation">Crypte 40 (p. 93)</span>, et retirez le piège entourant la Crypte 6.
+
+Les joueurs qui sortent de <span class="citation">K81. Tunnel (p. 84)</span> par la Crypte 1, ou qui s'approchent de l'intersection entre les Cryptes 2, 7 et 8, observent un cadavre humain gisant sur le sol de pierre juste au sud de <span class="citation">Crypte 2 (p. 87)</span>. (Le cadavre est un **zombie. Voir ci-dessous pour plus d'informations.**)
+#### Cryptes Nord, Deuxième Rangée
+Cette rangée de cryptes est en grande partie telle que décrite dans <span class="citation">Crypte 7 (p. 87)</span>, <span class="citation">Crypte 8 (p. 87)</span>, <span class="citation">Crypte 9 (p. 87)</span>, <span class="citation">Crypte 10 (p. 87)</span> et <span class="citation">Crypte 11 (p. 87)</span>. Cependant, un joueur qui ramasse le symbole sacré de Tasha Petrovna dans <span class="citation">Crypte 11 (p. 87)</span> n'entend pas de message.
+
+De plus, un cadavre humain gît sur le sol juste au sud de <span class="citation">Crypte 2 (p. 87)</span>. S'il est approché, le cadavre se lève en tant que **zombie** et attaque.
+
+
+
+Les joueurs qui combattent le **zombie** au sud de la Crypte 2, ou qui tentent d'éviter le zombie en descendant vers [[#Cryptes Nord, Troisième Rangée]] par une autre intersection, attirent l'attention d'un **vampire engendré** se cachant dans les catacombes. Lisez :
 
 <div class="description">
-<p>You hear a rustling in the distance. Out of the corner of your eye, you catch a flicker of movement against the arched ceiling of the catacombs to the south—and then you blink, and it vanishes from sight.</p>
+<p>Vous entendez un bruissement au loin. Du coin de l'œil, vous apercevez un mouvement rapide contre le plafond voûté des catacombes au sud - puis vous clignotez des yeux, et il disparaît de votre vue.</p>
 </div>
 
-The vampire attempts to remain hidden from the players by clinging to the ceiling, remaining within the shadows, and staying constantly on the move. If able to do so without detection, the vampire opens the stone door to <span class="citation">Crypt 14 (p. 88)</span> and clings to the edge of the shaft, waiting for a character to investigate; when a creature comes within reach, the vampire attacks with its ***unarmed strike*** and attempts to drag its prey down into the shaft before dropping it down into the vault below. If the players avoid the open door to Crypt 14, the vampire spawn exits the crypt and continues to skulk through the catacombs.
+Le vampire tente de rester caché des joueurs en s'accrochant au plafond, en restant dans les ombres et en restant constamment en mouvement. S'il peut le faire sans être détecté, le vampire ouvre la porte de pierre de la <span class="citation">Crypte 14 (p. 88)</span> et s'accroche au bord du puits, attendant qu'un personnage vienne enquêter ; lorsqu'une créature s'approche à portée, le vampire attaque avec son ***corps à corps*** et tente d'entraîner sa proie dans le puits avant de la laisser tomber dans le caveau en dessous. Si les joueurs évitent la porte ouverte de la Crypte 14, le vampire engendré sort de la crypte et continue à se faufiler dans les catacombes.
 
-The vampire also attacks the players if cornered, or if it finds a character isolated from the rest of the party. (Like all of Strahd’s minions, however, the vampire never attacks Ireena.) No matter the case, once the vampire has isolated and attacked its prey, it attempts to grapple them with its ***unarmed strike***, then hungrily drains them of blood using its ***bite.***
+Le vampire attaque également les joueurs s'il est acculé, ou s'il trouve un personnage isolé du reste du groupe. (Comme tous les sbires de Strahd, cependant, le vampire n'attaque jamais Ireena.) Quoi qu'il en soit, une fois que le vampire a isolé et attaqué sa proie, il tente de l'agripper avec son ***corps à corps***, puis la vide avidement de son sang en utilisant sa ***morsure***.
 
-Players with a passive Wisdom (Perception) score of 16 or more occasionally hear distant rustling or catch glimpses of the vampire’s shadow out of the corner of their eye, indicating its current location.
-#### North Crypts, Third Row
-This row of crypts is largely as described in <span class="citation">Crypt 12 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 14 (p. 88)</span>, <span class="citation">Crypt 15 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, and <span class="citation">Crypt 17 (p. 89)</span>. However, replace the epigraph on Crypt 16 to read “Elsa Fallona, Beloved Actor."
+Les joueurs avec un score de Sagesse (Perception) passif de 16 ou plus entendent occasionnellement des bruissements lointains ou aperçoivent l'ombre du vampire du coin de l'œil, indiquant son emplacement actuel.
 
-***Crypt 15.*** Speaking the name “Khazan" inside Crypt 15 does not cause a *staff of power* to materialize. Instead, the back wall of the crypt is engraved with eight arcane runes and the inscription: “The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy."  A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the engraving, is: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
+#### Cryptes Nord, Troisième Rangée
+Cette rangée de cryptes est largement décrite dans la <span class="citation">Crypte 12 (p. 87)</span>, la <span class="citation">Crypte 13 (p. 88)</span>, la <span class="citation">Crypte 14 (p. 88)</span>, la <span class="citation">Crypte 15 (p. 88)</span>, la <span class="citation">Crypte 16 (p. 89)</span> et la <span class="citation">Crypte 17 (p. 89)</span>. Cependant, remplacez l'épigraphe sur la Crypte 16 par "Elsa Fallona, Actrice bien-aimée".
 
-A creature can cast a spell, including a cantrip or ritual spell, into an engraved rune. If the spell cast is of the same school of magic as the school the rune represents, the rune glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
+***Crypte 15.*** Prononcer le nom "Khazan" à l'intérieur de la Crypte 15 ne fait pas apparaître de *bâton de puissance*. Au lieu de cela, le mur arrière de la crypte est gravé de huit runes arcanes et de l'inscription : "Celui qui marque mon sceau de sa maîtrise pourra prouver qu'il est digne d'hériter de mon legs." Un joueur avec la compétence Arcanes, ou qui réussit un jet de Intelligence (Arcanes) DD 10, identifie les runes comme les symboles des huit écoles de magie. L'ordre des symboles, dans le sens des aiguilles d'une montre autour de la gravure, est : illusion, abjuration, nécromancie, invocation, divination, enchantement, transmutation, évocation.  
 
-The runes must be activated in the same order as [[Arc E - The Missing Vistana#1. The Tower Door|the buttons on the door of Khazan’s tower at Lake Baratok]]. The two possible proper sequences are:
+Une créature peut lancer un sort, y compris un tour de magie ou un rituel, dans une rune gravée. Si le sort lancé appartient à la même école de magie que celle que représente la rune, la rune brille de la couleur correspondant à son école de magie : évocation (rouge), divination (argent), illusion (violet), transmutation (vert), invocation (brun), abjuration (jaune), enchantement (rose) et nécromancie (bleu).
 
-* evocation, divination, illusion, transmutation, conjuration, abjuration, enchantment, necromancy
-* necromancy, enchantment, abjuration, conjuration, transmutation, illusion, divination, evocation
+Les runes doivent être activées dans le même ordre que [[Arc E - La Vistana Manquante#1. La Porte de la Tour|les boutons sur la porte de la tour de Khazan au lac Baratok]]. Les deux séquences possibles sont :
 
-If a spell of the wrong school is cast into a rune, or if the runes are activated in the wrong order, the eight runes erupt with magical energy. Each creature within the crypt must make a DC 17 Dexterity saving throw. A creature takes 5d8 thunder damage on a failed saving throw, or half as much damage on a successful one. Once the runes release this energy, they become inert for the next twenty-four hours.
+* évocation, divination, illusion, transmutation, invocation, abjuration, enchantement, nécromancie
+* nécromancie, enchantement, abjuration, invocation, transmutation, illusion, divination, évocation
 
-If the proper sequence is activated, Khazan's staff (see below) materializes above the marble slab and hovers in place, crackling with magical power. The first character to grab hold of the staff must make a DC 17 Constitution saving throw, taking 11 (2d10) lightning damage on a failed save, or half as much damage on a successful save. If the character releases the staff, it vanishes. If this occurs, the runes cannot be activated again for one year.
 
-If the character continues to hold the staff, glowing, blue lines of pure, arcane energy begin to snake through its veins, beginning with the creature’s hand. While holding the staff in this way, the character can feel a wild, defiant magic raging within it.
 
-At the end of each turn the character continues to hold the staff, they can make a DC 17 Intelligence or Charisma saving throw (the character’s choice) to resist and control the staff’s magic. Depending on how far the staff’s energy has progressed into the character’s body, the following effects then occur, with the arcane surge beginning at the player's hand:
+Si un sort de l'école inappropriée est lancé dans une rune, ou si les runes sont activées dans le mauvais ordre, les huit runes explosent avec une énergie magique. Chaque créature dans la crypte doit effectuer un jet de sauvegarde de Dextérité DD 17. Une créature subit 5d8 dégâts de tonnerre en cas d'échec, ou la moitié des dégâts en cas de réussite. Une fois que les runes libèrent cette énergie, elles deviennent inertes pour les vingt-quatre prochaines heures.
 
-| Arcane Surge | Success | Failure |
+Si la séquence appropriée est activée, le bâton de Khazan (voir ci-dessous) se matérialise au-dessus de la dalle de marbre et flotte sur place, crépitant d'une puissance magique. Le premier personnage à saisir le bâton doit faire un jet de sauvegarde de Constitution DD 17, subissant 11 (2d10) dégâts d'électricité en cas d'échec, ou la moitié des dégâts en cas de réussite. Si le personnage lâche le bâton, celui-ci disparaît. Si cela se produit, les runes ne peuvent plus être activées pendant un an.
+
+Si le personnage continue de tenir le bâton, des lignes bleues lumineuses d'énergie arcanique pure commencent à serpenter dans ses veines, en commençant par la main du personnage. Pendant qu'il tient le bâton de cette façon, le personnage peut sentir une magie sauvage et rebelle faire rage à l'intérieur.
+
+À la fin de chaque tour où le personnage continue de tenir le bâton, il peut faire un jet de sauvegarde d'Intelligence ou de Charisme DD 17 (au choix du personnage) pour résister et contrôler la magie du bâton. Selon à quel point l'énergie du bâton a progressé dans le corps du personnage, les effets suivants se produisent, la déferlante arcanique commençant à la main du joueur :
+
+| Déferlante arcanique | Succès | Échec |
 |:---:|:----|:----|
-| Hand | The arcane surge ends and the player can immediately attune to the staff. | The player takes 1d6 force damage and the staff’s energy progresses to the player’s arm.|
-| Arm | The staff’s energy recedes to the player’s hand. | The player takes 1d6 force damage and the staff’s energy progresses to the player’s shoulder.|
-| Shoulder | The staff’s energy recedes to the player’s arm. | The player takes 2d6 force damage and the staff’s energy progresses to the player’s chest.|
-| Chest | The staff’s energy recedes to the player’s shoulder. | The player takes 8d8 force damage.|
+| Main | La déferlante arcanique prend fin et le joueur peut immédiatement se lier d'attrition au bâton. | Le joueur subit 1d6 dégâts de force et l'énergie du bâton progresse vers le bras du joueur.|
+| Bras | L'énergie du bâton recule jusqu'à la main du joueur. | Le joueur subit 1d6 dégâts de force et l'énergie du bâton progresse vers l'épaule du joueur.|
+| Épaule | L'énergie du bâton recule jusqu'au bras du joueur. | Le joueur subit 2d6 dégâts de force et l'énergie du bâton progresse vers la poitrine du joueur.|
+| Poitrine | L'énergie du bâton recule jusqu'à l'épaule du joueur. | Le joueur subit 8d8 dégâts de force.|
 
-The player can release the staff at any time. If they release the staff while the arcane surge is active, the staff vanishes, and the runes cannot be activated again for one year.
+Le joueur peut lâcher le bâton à tout moment. S'il lâche le bâton pendant que la déferlante arcanique est active, le bâton disparaît et les runes ne peuvent plus être activées pendant un an.
 
-> [!item]+ **Khazan's Staff**
-> *Staff, weapon, rare (requires attunement by a sorcerer, warlock, or wizard)*
-> *Simple weapon, melee weapon*
-> 4 lb. | 1d6 bludgeoning - versatile (1d8)
-> 
-> This elegant platinum staff can be wielded as a magic quarterstaff that grants a +2 bonus to weapon attack and damage rolls made with it. In addition, while wielding it, you gain the benefits of wearing a _robe of the archmagi_ <span class="citation">(<em>Dungeon Master's Guide</em> (p. 194)</span>.
-### Sergei’s Tomb
-<span class="citation"><em>This scene takes place in Chapter 4, Area K85.</em></span>
-
-This area is largely as described in <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. However, Sergei’s armor is nonmagical and ceremonial, rather than practical, and cannot be used as plate armor.
-## P12b. Central Catacombs
-### Central Crypts
-#### Central Crypts, North Row
-This row of crypts is largely as described in <span class="citation">Crypt 18 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, and <span class="citation">Crypt 20 (p. 89)</span>. However, Sasha does not attack the players if encountered in her crypt. (Strahd has ordered her to remain here, and she cannot depart her crypt if asked.)
-#### Central Crypts, South Row
-This row of crypts is largely as described in <span class="citation">Crypt 21 (p. 89)</span>, <span class="citation">Crypt 22 (p. 90)</span>, and <span class="citation">Crypt 23 (p. 90)</span>. However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the Amber Temple.) In addition, the epigraph on Crypt 23 bears the name of the character whose skill, arrogance, and power have impressed Strahd the most.
-### King & Queen’s Tomb
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K87 & K88.</em></span>
-
-This area is as described in <span class="citation">K87. Guardians (p. 94)</span> and <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>.
-## P12c. South Catacombs
-### South Crypts
-#### South Crypts, First Row
-This row of crypts is largely as described in <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 27 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, and <span class="citation">Crypt 29 (p. 91)</span>. However, remove the **giant wolf spiders** from Crypt 27, and replace the *luck blade* in Crypt 29 with a set of *+2 studded leather armor*.
-#### South Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 31 (p. 91)</span>, <span class="citation">Crypt 32 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span> and <span class="citation">Crypt 34 (p. 92)</span>. However, revise the epigraph on Crypt 33 to read “St. Finderway, Saint of Lost Travelers," and replace Sir Klutz’s remains with a set of human bones lying beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
-
-In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
-
-> [!item]+ **Spear of the Huntress**
-> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsectating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
-#### South Crypts, Third Row
-This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
-
-> [!combat]- **Balancing the Thirty-Fifth Crypt** 
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of ghouls to 4. 
-> * **Four Players**. Reduce the number of ghouls to 5. 
-> * **Six Players**. Increase the number of ghouls to 7.
-
-***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of <span class="citation">Crypt 6 (p. 86)</span>, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
-
-> [!item]+ **Icon of Dawn’s Grace**
-> The *Icon of Dawn’s Grace* is largely as described in <span class="citation">Icon of Ravenloft (p. 222)</span>, but does not grant the benefits of a *protection from evil and good* spell. Instead, it gains the following additional feature, which can be used only by a creature attuned to the icon:
+> [!item]+ **Bâton de Khazan**
+> *Bâton, arme, rare (requiert l'attrition par un ensorceleur, un occultiste ou un mage)*
+> *Arme de corps à corps simple*
+> 1,8 kg | 1d6 dégâts contondants - versatile (1d8)
 >
-> ***Protection from Evil.*** You can present the icon as an action to grant yourself and each creature within 30 feet of you the effect of a *protection from evil and good* spell against fiends and undead until the start of your next turn. Once used, this property can’t be used again until the next dawn.
->
-> The *Icon of Dawn’s Grace* is a sentient magic item (see <span class="citation">Dungeon Master’s Guide, p. 214)</span> inhabited and empowered by a shard of the Abbot’s divine consciousness. The icon, which is Lawful Good, has hearing and darkvision out to 120 feet and the Intelligence, Wisdom, and Charisma scores of a **deva**. In addition, it can understand all languages and communicate telepathically with any character that carries or wields it.
->
-> The icon, which greets its carrier or wielder warmly, can share the following information if requested:
-> 
-> * It is a shard of the divinity of the **deva** Ithuriel, an angelic servant of the Morninglord, placed within the icon to mark the Morninglord’s anointed prophet with His grace and provide her counsel. 
-> * More than four hundred years ago, Ithuriel bestowed it upon the cleric Saint Markovia, who was “wise beyond her years," and a zealous, yet compassionate follower of the Morninglord.
-> * Markovia took the icon to the valley that would one day be called Barovia, and there founded an abbey upon a spur of Mount Baratok, which she held out as a refuge to victims of the conflicts beyond the valley.
-> * After Strahd von Zarovich conquered the valley and became a vampire, Saint Markovia marched forth to Castle Ravenloft with her followers, but all were destroyed in the ensuing clash. Saint Markovia’s remains were laid to rest in this crypt, the icon left beside them.
->
-> If provided the Abbot’s description, the icon recognizes his appearance as one of the guises Ithuriel once used to walk among mortals on the Material Plane. If informed of the Abbot’s corruption and fall from grace, the icon urges the players to bring it to the Abbey and present it to the Abbot, so that the Abbot can reunite with its untainted divinity and cleanse the corruption that lies upon his spirit.
+> Ce bâton élégant en platine peut être manié comme un quarterbâton magique qui confère un bonus de +2 aux jets d'attaque et de dégâts d'arme effectués avec lui. De plus, tant que vous le maniez, vous bénéficiez des avantages d'une *robe de l'archimage* <span class="citation">(<em>Guide du Maître</em> (p. 244)</span>.
+### La Tombe de Sergueï
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K85.</em></span>
 
-> [!abstract]+ **Rahadin Attacks**
-> Immediately after the players exit Saint Markovia’s crypt with the *Icon of Dawn’s Grace*, they hear the familiar sound of Rahadin’s ***deathly choir.*** Read:
+
+
+Cette zone est en grande partie telle que décrite dans <span class="citation">K85. La Tombe de Sergei (p. 93)</span>. Cependant, l'armure de Sergei est non magique et cérémonielle, plutôt que pratique, et ne peut pas être utilisée comme armure de plates.
+
+## P12b. Catacombes Centrales
+### Cryptes Centrales
+#### Cryptes Centrales, Rangée Nord
+Cette rangée de cryptes est en grande partie telle que décrite dans <span class="citation">Crypte 18 (p. 89)</span>, <span class="citation">Crypte 19 (p. 89)</span> et <span class="citation">Crypte 20 (p. 89)</span>. Cependant, Sasha n'attaque pas les joueurs si elle est rencontrée dans sa crypte. (Strahd lui a ordonné de rester ici, et elle ne peut pas quitter sa crypte si on le lui demande.)
+
+#### Cryptes Centrales, Rangée Sud
+Cette rangée de cryptes est en grande partie telle que décrite dans <span class="citation">Crypte 21 (p. 89)</span>, <span class="citation">Crypte 22 (p. 90)</span> et <span class="citation">Crypte 23 (p. 90)</span>. Cependant, la Crypte 21 ne contient pas de **banshee** de Patrina. (L'esprit de Patrina réside plutôt dans le Temple d'Ambre.) De plus, l'épigraphe sur la Crypte 23 porte le nom du personnage dont l'habileté, l'arrogance et la puissance ont le plus impressionné Strahd.
+
+### Tombe du Roi et de la Reine
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zones K87 et K88.</em></span>
+
+Cette zone est telle que décrite dans <span class="citation">K87. Les Gardiens (p. 94)</span> et <span class="citation">K88. Tombe du Roi Barov et de la Reine Ravenovia (p. 94)</span>.
+
+## P12c. Catacombes Sud
+### Cryptes Sud
+#### Cryptes Sud, Première Rangée
+Cette rangée de cryptes est en grande partie telle que décrite dans <span class="citation">Crypte 24 (p. 90)</span>, <span class="citation">Crypte 25 (p. 90)</span>, <span class="citation">Crypte 26 (p. 90)</span>, <span class="citation">Crypte 27 (p. 90)</span>, <span class="citation">Crypte 28 (p. 90)</span> et <span class="citation">Crypte 29 (p. 91)</span>. Cependant, retirez les **araignées-loups géantes** de la Crypte 27, et remplacez la *lame de chance* dans la Crypte 29 par un ensemble d'*armure de cuir cloutée +2*.
+
+#### Cryptes Sud, Deuxième Rangée
+Cette rangée de cryptes est en grande partie telle que décrite dans <span class="citation">Crypte 30 (p. 91)</span>, <span class="citation">Crypte 31 (p. 91)</span>, <span class="citation">Crypte 32 (p. 91)</span>, <span class="citation">Crypte 33 (p. 91)</span> et <span class="citation">Crypte 34 (p. 92)</span>. Cependant, révisez l'épigraphe sur la Crypte 33 pour qu'elle lise "St. Finderway, Saint des Voyageurs Égarés", et remplacez les restes de Sir Klutz par un ensemble d'os humains gisant à côté d'une *orbe de direction* (<span class="citation">Guide des Merveilles de Xanathar, p. 138</span>) suspendue à un cordon de cuir.
+
+De plus, retirez le **diablotin** de la Crypte 34, et placez la *Lance de la Chasseresse* à l'intérieur du sarcophage.
+
+> [!item]+ **Lance de la Chasseresse**
+> Ce fût d'un mètre quatre-vingts de long en bois de frêne est orné de gravures d'animaux sauvages, de vignes et de feuilles, et porte une simple mais tranchante tête en pierre. Lorsqu'elle est récupérée pour la première fois du sarcophage de Dostron, elle possède les propriétés d'une *lance de sang* (<span class="citation">Lance de Sang, p. 221</span>), mais son porteur ne bénéficie que d'un bonus de +1 aux jets d'attaque et de dégâts avec elle au lieu de +2. (La lance a été corrompue il y a longtemps par l'influence de Kavan et du Dévoreur, et ne peut être restaurée qu'en réconsacrant le Sanctuaire de la Forêt à Yester Hill, ce que les joueurs peuvent apprendre dans le village des Gens de la Montagne de Soldav sur le Mont Ghakis.)
+#### Cryptes Sud, Troisième Rangée
+Cette rangée de cryptes est largement telle que décrite dans <span class="citation">Crypte 35 (p. 92)</span>, <span class="citation">Crypte 36 (p. 92)</span>, <span class="citation">Crypte 37 (p. 92)</span>, <span class="citation">Crypte 38 (p. 92)</span>, <span class="citation">Crypte 39 (p. 93)</span>, et <span class="citation">Crypte 40 (p. 93)</span>. Cependant, les **chiens des enfers** et le **spectre** du général Grislek n'émergent pas de la Crypte 38 lorsqu'elle est ouverte pour la première fois. De plus, Bucéphale ne peut pas être trouvé dans la Crypte 39 pour le moment. Enfin, déplacez les pièges de téléportation invisibles décrits dans <span class="citation">Pièges de Téléportation (p. 85)</span> au pied des escaliers dans la tombe de Strahd (voir ci-dessous).
+
+> [!combat]- **Équilibrer la Trente-Cinquième Crypte**
+> Cette rencontre de combat est un combat **éprouvant** pour un groupe de cinq joueurs de niveau 7, une alliée CR 2 (Ireena Kolyana) et une alliée CR 4 (Ezmerelda d'Avenir), et consommera environ 21% de leurs points de vie maximum totaux. Pour des groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez le nombre de goules à 4.
+> * **Quatre Joueurs**. Réduisez le nombre de goules à 5.
+> * **Six Joueurs**. Augmentez le nombre de goules à 7.
+
+***Crypte 40.*** Remplacez l'épigraphe et le contenu de la Crypte 40 par l'épigraphe et le contenu de <span class="citation">Crypte 6 (p. 86)</span>, y compris le **piège à fléchettes empoisonnées** la protégeant (voir <span class="citation">Guide du Maître, p. 123</span>). Cependant, réduisez le nombre de fléchettes à deux, et remplacez les jets d'attaque des fléchettes par deux jets de sauvegarde de Dextérité DD 15 (un par fléchette). De plus, remplacez le fémur de Sainte Markovia par l'*Icône de la Grâce de l'Aube* (voir ci-dessous), et supprimez le message chuchoté de l'esprit de Sainte Markovia.
+
+> [!item]+ **Icône de la Grâce de l'Aube**
+> L'*Icône de la Grâce de l'Aube* est largement décrite comme dans <span class="citation">Icône de Ravenloft (p. 222)</span>, mais n'accorde pas les bénéfices d'un sort de *protection contre le Bien et le Mal*. Au lieu de cela, elle gagne la fonctionnalité supplémentaire suivante, qui ne peut être utilisée que par une créature en symbiose avec l'icône :
+>
+> ***Protection contre le Mal.*** Vous pouvez présenter l'icône avec une action pour vous accorder, ainsi qu'à chaque créature dans un rayon de 9 mètres autour de vous, l'effet d'un sort de *protection contre le Bien et le Mal* contre les fiélons et les morts-vivants jusqu'au début de votre prochain tour. Une fois utilisée, cette propriété ne peut pas être réutilisée avant l'aube suivante.
+>
+> L'*Icône de la Grâce de l'Aube* est un objet magique conscient (voir <span class="citation">Guide du Maître, p. 214</span>) habité et alimenté par un fragment de la conscience divine de l'Abbé. L'icône, qui est de Bon Alignement, a une ouïe et une vision dans le noir jusqu'à 36 mètres, et des scores d'Intelligence, de Sagesse et de Charisme égaux à ceux d'un **déva**. De plus, elle peut comprendre toutes les langues et communiquer par télépathie avec tout personnage qui la porte ou la manie.
+>
+> L'icône, qui accueille chaleureusement son porteur ou manieur, peut partager les informations suivantes si on le lui demande :
+>
+> * Elle est un fragment de la divinité du **déva** Ithuriel, un serviteur angélique du Seigneur du Matin, placé dans l'icône pour marquer le prophète oint du Seigneur du Matin de Sa grâce et lui prodiguer des conseils.
+> * Il y a plus de quatre cents ans, Ithuriel l'a confiée à la clerge Sainte Markovia, "sage au-delà de son âge", et fervente disciple du Seigneur du Matin, tout en étant compatissante.
+> * Markovia emmena l'icône dans la vallée qui allait devenir Barovia, et y fonda une abbaye sur un contrefort du Mont Baratok, qu'elle maintint comme refuge pour les victimes des conflits au-delà de la vallée.
+> * Après que Strahd von Zarovich eut conquis la vallée et devint un vampire, Sainte Markovia marcha sur le Château de Ravenloft avec ses disciples, mais tous furent détruits lors de l'affrontement qui s'ensuivit. Les restes de Sainte Markovia furent enterrés dans cette crypte, l'icône laissée à leurs côtés.
+>
+> Si on lui fournit la description de l'Abbé, l'icône reconnaît son apparence comme l'une des formes qu'Ithuriel utilisait autrefois pour marcher parmi les mortels sur le Plan Matériel. Si on l'informe de la corruption de l'Abbé et de sa déchéance, l'icône exhorte les joueurs à l'apporter à l'Abbaye et à la présenter à l'Abbé, afin que celui-ci puisse réunir sa divinité intacte et purifier la corruption qui souille son esprit.
+> [!abstract]+ **Rahadin Attaque**
+> Immédiatement après que les joueurs soient sortis de la crypte de Sainte Markovia avec l'*Icône de la Grâce de l'Aube*, ils entendent le son familier du ***chœur mortel*** de Rahadin. Lisez :
 >
 > <hr><br>
-> <em>Your ears fill with a hauntingly familiar sound: a cacophony of a thousand voices pleading, suffering, dying, as they swell into a torrential chorus of screams.</em>
+> <em>Vos oreilles se remplissent d'un son d'une familiarité terrifiante : une cacophonie de mille voix implorant, souffrant, mourant, tandis qu'elles se gonflent en un torrent de hurlements.</em>
 > <br><br><hr>
-> 
-> If the players make no response, Rahadin waits for them to approach the [[#Central Crypts]], then makes his attack at the most advantageous moment. Otherwise, if the players demand for Rahadin to reveal himself, or otherwise visibly prepare for hostilities, Rahadin steps forth from the shadows and bemusedly asks “what gave him away." If informed that his ***deathly chorus*** revealed his location, Rahadin nods thoughtfully, sharing that he’s “never been able to hear the voices himself."
 >
-> Rahadin then warns the players that they carry “things that are not theirs to possess," and offers them an opportunity to drop their weapons and surrender, so that they may be imprisoned in the castle dungeons until “the lord of the keep returns." Rahadin coldly adds that defiance or resistance shall result in worse fates than swift acquiescence.
+> Si les joueurs ne réagissent pas, Rahadin attend qu'ils approchent des [[#Cryptes Centrales]], puis les attaque au moment le plus avantageux.
+> Sinon, si les joueurs exigent que Rahadin se montre, ou se préparent visiblement à l'affrontement, Rahadin sort des ombres, amusé, et demande "ce qui l'a trahi". S'il est informé que son ***chœur mortel*** a révélé son emplacement, Rahadin hoche pensivement la tête, partageant qu'il n'a "jamais pu entendre les voix lui-même".
 >
-> If the players refuse to lay down their arms, Rahadin intones, “So be it," and attacks.
+> Rahadin avertit alors les joueurs qu'ils portent "des choses qui ne leur appartiennent pas", et leur offre l'opportunité de déposer leurs armes et de se rendre, afin qu'ils puissent être emprisonnés dans les cachots du château jusqu'au "retour du seigneur de la demeure". Rahadin ajoute froidement que la défiance ou la résistance leur vaudra des sorts pires qu'une reddition immédiate.
 >
-> In his first phase, Rahadin uses guerilla hit-and-run tactics, leveraging his high mobility to attack the players from multiple directions before concealing himself and repeating the process. In his second phase, Rahadin fights with bloodthirsty abandon, but saves a reaction to activate the *amulet of Ravenloft* when reduced to 0 hit points or fewer (see below). When he does so, Rahadin uses the reaction's extra movement to retreat from battle by passing through a nearby wall or floor. (Determined to warn Strahd of the players' exploits, Rahadin isn't willing to die here.)
-  
-> [!combat]- **Balancing the Chamberlain** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 37% of their total maximum hit points and the second of which will consume approximately 42% of their total maximum hit points (for a total of 79% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * Three Players. Reduce Rahadin’s hit points in each phase to 127. Reduce his first phase’s ***multiattack*** to only one attack, but increase his ***wind strike*** and ***whirling blades*** reactions to 10 (3d6) damage each. Limit his ***punishing strike*** reaction to 2/round, and decrease the damage of his ***psychic scream*** to 7 (2d6) damage. Reduce his second phase’s ***multiattack*** to two attacks and limit ***riposte*** to 2/round. Finally, reduce his ***deathly choir***’s damage to 7 (2d6). 
-> * Four Players. Reduce Rahadin’s hit points in each phase to 154. Limit his first phase’s ***punishing strike*** to 2/round, but increase the damage of his bonus actions to 9 (2d8). Reduce his ***multiattack*** in his second phase to two attacks. 
-> * Six Players. Increase Rahadin’s hit points to 206 in each phase. Increase his ***multiattack*** in his first phase to three attacks, but reduce the damage of his bonus actions to 5 (2d4). Increase his ***multiattack*** in his second phase to four attacks.
+> Si les joueurs refusent de déposer les armes, Rahadin déclare "Qu'il en soit ainsi", et les attaque.
+
+
+
+> Dans sa première phase, Rahadin utilise des tactiques de guérilla frappées et fuyantes, tirant parti de sa grande mobilité pour attaquer les joueurs de multiples directions avant de se dissimuler et de répéter le processus.
+Dans sa seconde phase, Rahadin se bat avec un abandon sanguinaire, mais garde une réaction pour activer l'*amulette de Ravenloft* lorsqu'il est réduit à 0 point de vie ou moins (voir ci-dessous).
+Quand il le fait, Rahadin utilise le déplacement supplémentaire de la réaction pour se retirer du combat en passant à travers un mur ou un sol à proximité.
+(Déterminé à prévenir Strahd des exploits des joueurs, Rahadin n'est pas prêt à mourir ici.)
+
+> [!combat]- **Équilibrer le Chambellan**
+> En raison du mécanisme de phase, cet affrontement est une série de deux affrontements consécutifs **sanglants** contre un groupe de cinq joueurs de niveau 7, un allié de CR 2 (Ireena Kolyana) et un allié de CR 4 (Ezmerelda d'Avenir), dont le premier consommera environ 37% de leurs points de vie maximum totaux et le second environ 42% de leurs points de vie maximum totaux (soit un total de 79% de leurs points de vie maximum).
+Pour des groupes de taille inférieure ou supérieure, modifiez l'affrontement comme suit :
+> * Trois Joueurs.
+Réduisez les points de vie de Rahadin dans chaque phase à 127.
+Réduisez son ***multifrappe*** de la première phase à une seule attaque, mais augmentez les dégâts de ses réactions ***frappe venteuse*** et ***lames tourbillonnantes*** à 30 (3d6) chacune.
+Limitez sa réaction ***frappe punitive*** à 2/tour, et diminuez les dégâts de son ***hurlement psychique*** à 21 (2d6).
+Réduisez son ***multifrappe*** de la seconde phase à deux attaques et limitez ***riposte*** à 2/tour.
+Enfin, réduisez les dégâts de son ***chœur mortel*** à 21 (2d6).
+
+> * Quatre Joueurs.
+Réduisez les points de vie de Rahadin dans chaque phase à 154.
+Limitez sa ***frappe punitive*** de la première phase à 2/tour, mais augmentez les dégâts de ses actions gratuites à 27 (2d8).
+Réduisez son ***multifrappe*** dans sa seconde phase à deux attaques.
+
+> * Six Joueurs.
+Augmentez les points de vie de Rahadin à 206 dans chaque phase.
+Augmentez son ***multifrappe*** dans sa première phase à trois attaques, mais réduisez les dégâts de ses actions gratuites à 15 (2d4).
+Augmentez son ***multifrappe*** dans sa seconde phase à quatre attaques.
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Chambellan du Château</h2>
+<em>Humanoïde de taille moyenne (elfe), loyal et mauvais</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe d'Armure</strong> 18 (cuir bouilli)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Points de Vie</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Vitesse</strong> 11 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
@@ -2022,60 +2021,75 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Jets de Sauvegarde</strong> Dex +11, Sag +8<br>
+<strong>Compétences</strong> Acrobaties +11, Déception +9, Intuition +8, Intimidation +14, Perception +13, Discrétion +16<br>
+<strong>Sens</strong> Vision dans le noir 18 m, Perception passive 23<br>
+<strong>Langues</strong> Commun, Elfe<br>
+<strong>Défi</strong> 14<br>
+<strong>Maîtrise</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
+<p><strong><em>Hurlements des Morts.</em></strong> Toute créature à 3 m ou moins de Rahadin qui n'est pas protégée par un sort de <em>protection contre les esprits malveillants</em> entend dans son esprit les hurlements des milliers de personnes que Rahadin a tuées.</p>
+<p><strong><em>Ascendance Féerique.</em></strong> Rahadin a l'avantage aux jets de sauvegarde contre l'état charmé, et la magie ne peut pas l'endormir.</p>
+<p><strong><em>Résistance Légendaire (1/jour).</em></strong> Si Rahadin devait rater un jet de sauvegarde, il peut choisir de réussir à la place.</p>
+<p><strong><em>Indomptable.</em></strong> Si Rahadin devait être paralysé ou stupéfié, il est ralenti à la place.
+(Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont l'avantage sur les attaques le visant.)
+<p><strong><em>Incantation Innée.</em></strong> La caractéristique d'incantation innée de Rahadin est l'Intelligence.
+
+Il peut lancer intuitivement les sorts suivants, sans composantes :<br>
+- 3/jour : monture phantasmatique<br>
+- 1/jour : non-détection</p>
+<p><strong><em>Masque de la Nature.</em></strong> Rahadin peut tenter de se cacher même s'il n'est que légèrement obscurci par le feuillage, une pluie battante, de la neige tombante, de la brume et d'autres phénomènes naturels.</p>
+<p><strong><em>Instinct meurtrier.</em></strong> Lorsque Rahadin tombe à 0 point de vie, il range son sabre et dégaine ses deux cimeterres jumeaux, <em>Épine</em> et <em>Chaîne</em>.
+Ses statistiques sont alors instantanément remplacées par les statistiques de sa seconde forme.
+Son compte d'initiative ne change pas.
+Les dégâts excédentaires ne sont pas transférés à sa nouvelle forme, et il ne conserve aucune des conditions qu'il avait sous sa forme précédente.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
-</div>
+<p><strong><em>Attaques multiples.</em></strong> Rahadin effectue deux attaques.</p>
+<p><strong><em>Sabre.</em></strong> <em>Attaque d'arme au corps à corps :</em> +11 pour toucher, allonge 1,5 m, une cible.
+<em>Touché :</em> 11 (1d8 + 6) dégâts tranchants, et Rahadin peut pousser la cible jusqu'à 1,5 m.
+Au lieu de pousser la cible, Rahadin peut la forcer à réussir un jet de sauvegarde de Force DD 15 ou être jetée à terre.</p>
+<p><strong><em>Dard empoisonné.</em></strong> <em>Attaque d'arme à distance :</em> +11 pour toucher, portée 6/18 m, une cible.
+<em>Touché :</em> 14 (1d4 + 6 plus 2d4) dégâts perforants et de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou être empoisonnée jusqu'au début du prochain tour de Rahadin.</p>
+<h3>Actions bonus</h3>
+<p><strong><em>Frappe du vent.</em></strong> Rahadin se déplace de sa vitesse en ligne droite vers un espace inoccupé qu'il peut voir, y compris à travers les espaces ennemis, sans provoquer d'attaques d'opportunité.
+Chaque créature se trouvant à 1,5 m d'un espace qu'il traverse doit effectuer un jet de sauvegarde de Dextérité DD 19, subissant 7 (2d6) dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
+<p><strong><em>Lames tourbillonnantes.</em></strong> Chaque créature se trouvant à 3 m de Rahadin doit effectuer un jet de sauvegarde de Dextérité DD 19, subissant 7 (2d6) dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
+<h3>Réactions</h3>
+<p>Rahadin peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour.
+Si Rahadin devait perdre ses réactions et n'est pas neutralisé, il en perd une à la place.</p>
+<p><strong><em>Frappe punitive.</em></strong> Lorsque Rahadin est touché par une attaque au corps à corps ou à distance, il peut utiliser sa réaction pour se déplacer de sa vitesse vers l'assaillant et effectuer une attaque avec son sabre.
+Ce déplacement ne déclenche pas d'attaques d'opportunité.</p>
+<p><strong><em>Désarmement.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque au corps à corps en maniant une arme, il peut utiliser sa réaction pour forcer cet ennemi à effectuer un jet de sauvegarde de Force DD 19, avec un avantage si l'ennemi tient l'arme à deux mains.
+En cas d'échec, l'ennemi lâche l'objet, qui est projeté à 3 m.</p>
+<p><strong><em>Pas de côté brumeuxs (1/round).</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque ou lui inflige des dégâts, il peut utiliser sa réaction pour lancer <em>pas de côté brumeux</em>.
+Il peut ensuite immédiatement prendre l'action Se cacher.
+Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas de côté brumeux</em> de cette manière.</p>
+<p><strong><em>Cri psychique (1/jour).</em></strong> Lorsque Rahadin est réduit à 0 point de vie, il peut utiliser sa réaction pour faire pousser un terrible cri à son choeur funèbre.
+Chaque créature se trouvant à 18 m de Rahadin doit effectuer un jet de sauvegarde de Sagesse DD 17, subissant 11 (2d10) dégâts psychiques en cas d'échec ou la moitié de ces dégâts en cas de réussite.
+Si une créature échoue au jet de sauvegarde par 5 ou plus, elle est également étourdie jusqu'au début du prochain tour de Rahadin.</p>
 
-> [!info]+ **Rahadin's _Misty Step_**
-> As noted in <span class="citation">Hiding (<em>Player's Handbook</em>, p. 177)</span>, Rahadin cannot hide from a creature unless he is heavily obscured, behind full cover, or lightly obscured by natural phenomena described in his ***mask of the wild*** feature. (Rahadin's ***mask of the wild*** doesn't extend to ordinary shadows or dim lighting.)
-> 
-> If Rahadin successfully hides, but subsequently loses the conditions that made it possible for him to hide (e.g., heavy obscurement or full cover), he is no longer hidden. (For example, if Rahadin uses his *misty step* to teleport around a corner and successfully hides there, but a player then walks around the corner, Rahadin is no longer hidden.)
-
+> [!info]+ **Pas tactique de Rahadin**
+> Comme indiqué dans <span class="citation">Se cacher (<em>Manuel des Joueurs</em>, p. 177)</span>, Rahadin ne peut pas se cacher d'une créature à moins qu'il ne soit fortement obscurci, derrière un plein abri ou légèrement obscurci par des phénomènes naturels décrits dans sa caractéristique ***masque de la nature sauvage***. (Le ***masque de la nature sauvage*** de Rahadin ne s'étend pas aux ombres ordinaires ou à une faible luminosité.)
+>
+> Si Rahadin se cache avec succès, mais perd ensuite les conditions qui lui permettaient de se cacher (par exemple, l'obscurcissement important ou le plein abri), il n'est plus caché. (Par exemple, si Rahadin utilise son *pas brumeux* pour se téléporter derrière un coin et se cache avec succès, mais qu'un joueur contourne ensuite le coin, Rahadin n'est plus caché.)
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, le Tueur de Parents</h2>
+<em>Humanoïde de taille moyenne (elfe), loyal mauvais</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe d'Armure</strong> 18 (cuir bouilli)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Points de vie</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Vitesse</strong> 10,5 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
@@ -2091,54 +2105,63 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Jets de sauvegarde</strong> Dex +11, Sag +8<br>
+<strong>Compétences</strong> Acrobaties +11, Déception +9, Perspicacité +8, Intimidation +14, Perception +13, Discrétion +16<br>
+<strong>Sens</strong> Vision dans le noir 18 m, Perception passive 23<br>
+<strong>Langues</strong> Commun, Elfique<br>
+<strong>Classe de défi</strong> 15<br>
+<strong>Maîtrise</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Cris des morts.</em></strong> Toute créature à 3 mètres ou moins de Rahadin qui n'est pas protégée par un sort d'*incapacité mentale* entend dans son esprit les cris de milliers de personnes que Rahadin a tuées.</p>
+<p><strong><em>Ancêtre féerique.</em></strong> Rahadin est avantagé pour les jets de sauvegarde contre l'état charmé, et la magie ne peut pas l'endormir.</p>
+<p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Rahadin devait rater un jet de sauvegarde, il peut choisir de réussir à la place.</p>
+<p><strong><em>Indomptable.</em></strong> Si Rahadin devait être paralysé ou stupéfié, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité et les créatures ont l'avantage sur leurs attaques contre lui.)</p>
+<p><strong><em>Masque de la nature sauvage.</em></strong> Rahadin peut tenter de se cacher même s'il n'est que légèrement obscurci par la végétation, la pluie battante, la neige tombante, le brouillard et d'autres phénomènes naturels.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
-<p><strong><em>Amulet of Ravenloft (1/day).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
-</div>
+<p><strong><em>Attaques multiples.</em></strong> Rahadin effectue trois attaques avec ses cimeterres <strong><em>Épine</em></strong> et/ou <strong><em>Chaîne</em></strong>. Il peut remplacer une attaque par sa capacité <strong><em>hantise</em></strong>.</p>
+<p><strong><em>Épine.</em></strong> <em>Attaque d'arme au corps à corps :</em> +11 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 9 (1d6 + 6) dégâts tranchants, et Rahadin peut forcer la cible à effectuer un jet de sauvegarde de Constitution DD 19 ou à saigner pendant la prochaine minute. (Une cible qui saigne doit réussir un jet de sauvegarde de Constitution DD 19 au début de chacun de ses tours ou subir 1d6 dégâts tranchants supplémentaires. En cas de réussite ou de soins magiques, la cible ne saigne plus.)</p>
+<p><strong><em>Chaîne.</em></strong> <em>Attaque d'arme au corps à corps :</em> +11 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 9 (1d6 + 6) dégâts tranchants, et Rahadin peut forcer la cible à effectuer un jet de sauvegarde de Constitution DD 19 ou son déplacement est réduit à 0 jusqu'à la fin de son prochain tour. Si la cible rate de 5 ou plus, elle tombe également à terre.</p>
+<p><strong><em>Hantise.</em></strong> Rahadin force une créature qu'il peut voir dans un rayon de 9 m à réussir un jet de sauvegarde de Sagesse DD 17 ou à subir 7 (2d6) dégâts psychiques et être effrayée et assourdie par des âmes hurlantes jusqu'au début de son prochain tour.</p>
+<h3>Actions bonus</h3>
 
-> [!item]+ **Amulet of Ravenloft**
-> *Wondrous item, legendary (requires attunement by a creature chosen by Strahd)*
->
-> The Amulet of Ravenloft is an onyx pendant engraved with the von Zarovich crest—a raven with its wings spread before a tall shield bearing the sigil of Castle Ravenloft—that hangs from an intricate silver chain. As an action, its wielder can present the amulet and speak the words: “I call upon the guardians of Ravenloft to enact their master’s will." The amulet’s wielder then gains the following effects for 1 hour while within Castle Ravenloft:
->
-> * The wielder gains the lair actions described in <span class="citation">Lair Actions (p. 239)</span>, and gains the ability to pass through solid walls, doors, ceilings, and floors as if they weren’t there.
-> * Every crypt door in <span class="citation">K84. Catacombs (p. 85)</span> swings open.
-> * The **skeletons** in <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, <span class="citation">Crypt 17 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, and <span class="citation">Crypt 40 (p. 93)</span> animate. The following round, each skeleton emerges from its crypt, attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
-> * All one hundred **skeletons** in <span class="citation">Crypt 14 (p. 88)</span> animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
-> * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in <span class="citation">Crypt 38 (p. 92)</span> manifest in their crypt. They emerge the following round to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
-> * The **iron golems** in <span class="citation">K78. Brazier Room (p. 82)</span> begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)
-> * The **red dragon wyrmling** statues in the [[#Main Entrance]], as well as any remaining **gargoyles** in the [[#Main Foyer]] and any remaining **wights** still guarding the castle walls (see [[#P2d. Crossing the Chasm]]), animate and begin moving toward the amulet’s wielder.
->
-> Once used in this way, the amulet can't be activated again until thirty days have passed.
-### Strahd’s Tomb
-<span class="citation"><em>This scene takes place in Chapter 4, Area K86.</em></span>
+<p><strong><em>Chœur Mortel.</em></strong> Chaque créature dans un rayon de 3 mètres autour de Rahadin qui n'est pas protégée par un sort d'_intrication mentale_ doit réussir un jet de sauvegarde de Sagesse DD 17, subissant 9 (2d8) dégâts psychiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
+Si une créature échoue son jet de sauvegarde par 5 ou plus, elle est également effrayée jusqu'au début du prochain tour de Rahadin.</p>
+<p><strong><em>Déplacement Rapide.</em></strong> Rahadin prend l'action Se Désengager ou Se Précipiter.</p>
+<h3>Réactions</h3>
+<p>Rahadin peut avoir jusqu'à trois réactions par round, mais pas plus d'une par tour.
+Si Rahadin devait perdre ses réactions et n'est pas neutralisé, il en perd une à la place.</p>
+<p><strong><em>Parer.</em></strong> Rahadin ajoute +5 à sa CA contre une attaque de corps à corps ou à distance qui le toucherait, ou au résultat d'un jet de sauvegarde de Dextérité raté, ou ne subit aucun dégât de _projectile magique_ ce tour.
+S'il fait rater une attaque de corps à corps de cette manière, il peut alors immédiatement utiliser une réaction supplémentaire, si disponible, pour utiliser sa Riposte contre l'attaquant.</p>
+<p><strong><em>Riposte.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque de corps à corps, il peut utiliser sa réaction pour se déplacer de sa vitesse jusqu'à un espace inoccupé dans un rayon de 1,5 mètre autour de cet ennemi sans déclencher d'attaques d'opportunité.
+Il peut ensuite immédiatement faire une attaque avec <strong><em>Épine</em></strong> ou <strong><em>Chaîne</em></strong> contre cet ennemi avec l'avantage.</p>
+<p><strong><em>Amulette de Ravenloft (1/jour).</em></strong> Lorsque Rahadin est réduit à 50 points de vie ou moins, il peut utiliser sa réaction pour mettre fin à tous les effets qui l'affectent actuellement et utiliser l'<em>Amulette de Ravenloft</em> (voir ci-dessous).
+S'il a été réduit à 0 point de vie, il tombe à 1 point de vie à la place et subit une blessure interne comme décrit dans <span class="citation">Blessures Persistantes (Guide du Maître, p.272)</span>.
+Il peut ensuite se déplacer de sa vitesse sans déclencher d'attaques d'opportunité.</p>
 
-This area is largely as described in <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
-  
-> [!combat]- **Balancing the Tomb of the Darklord** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of vampire spawn to 2.
 
-Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in <span class="citation">Khazan’s Spell Drain (p. 167)</span>. The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in <span class="citation">Crypt 15 (p. 88)</span> in [[#North Crypts, Third Row]].
+
+> [!item]+ **Amulette de Ravenloft**
+> *Objet merveilleux, légendaire (nécessite l'harmonisation avec une créature choisie par Strahd)*
+>
+> L'Amulette de Ravenloft est un pendentif en onyx gravé des armoiries von Zarovich - un corbeau aux ailes déployées devant un grand écu arborant le sceau du château Ravenloft - qui pend d'une chaîne d'argent complexe. Par une action, son porteur peut présenter l'amulette et prononcer les mots : "J'appelle les gardiens de Ravenloft à accomplir la volonté de leur maître." Le porteur de l'amulette gagne alors les effets suivants pendant 1 heure tant qu'il se trouve dans le château Ravenloft :
+>
+> * Le porteur gagne les actions d'antre décrites dans <span class="citation">Actions d'antre (p. 239)</span>, et acquiert la capacité de traverser les murs, portes, plafonds et sols comme s'ils n'existaient pas.
+> * Toutes les portes de crypte dans <span class="citation">K84. Catacombes (p. 85)</span> s'ouvrent.
+> * Les **squelettes** dans <span class="citation">Crypte 2 (p. 86)</span>, <span class="citation">Crypte 3 (p. 86)</span>, <span class="citation">Crypte 5 (p. 86)</span>, <span class="citation">Crypte 8 (p. 87)</span>, <span class="citation">Crypte 9 (p. 87)</span>, <span class="citation">Crypte 10 (p. 87)</span>, <span class="citation">Crypte 13 (p. 88)</span>, <span class="citation">Crypte 16 (p. 89)</span>, <span class="citation">Crypte 17 (p. 89)</span>, <span class="citation">Crypte 19 (p. 89)</span>, <span class="citation">Crypte 24 (p. 90)</span>, <span class="citation">Crypte 25 (p. 90)</span>, <span class="citation">Crypte 26 (p. 90)</span>, <span class="citation">Crypte 28 (p. 90)</span>, <span class="citation">Crypte 30 (p. 91)</span>, <span class="citation">Crypte 33 (p. 91)</span>, <span class="citation">Crypte 36 (p. 92)</span>, <span class="citation">Crypte 37 (p. 92)</span> et <span class="citation">Crypte 40 (p. 93)</span> s'animent. Au tour suivant, chaque squelette émerge de sa crypte, poursuivant et attaquant tous les intrus à vue. (Les squelettes sans armes ne peuvent faire que des attaques à mains nues et des prises.)
+> * Les cent **squelettes** dans <span class="citation">Crypte 14 (p. 88)</span> s'animent. Au cours des trois tours suivants, les squelettes forment une échelle vivante, permettant aux **spectres** restants dans le caveau de grimper du puits et d'émerger de la crypte, poursuivant et attaquant tous les intrus à vue. 2d6 **squelettes** armés émergent de la crypte chaque tour suivant, jusqu'à ce que tous les squelettes soient sortis.
+> * Au compte d'initiative 20 du troisième tour après l'activation de l'amulette, les **chiens des Enfers** et le **spectre** décrits dans <span class="citation">Crypte 38 (p. 92)</span> commencent à se manifester dans leur crypte, se matérialisant complètement de la fumée de soufre trois tours plus tard. Ils émergent alors pour poursuivre tous les intrus restants dans les catacombes ou le [[#P11g. Tunnel des Catacombes]].
+> * Les **golems de fer** dans <span class="citation">K78. Salle du Brasero (p. 82)</span> commencent à s'animer, s'activant complètement au compte d'initiative 20 du quinzième tour après l'activation de l'amulette. (Les créatures dans la Salle du Brasero pendant l'activation des golems peuvent observer leurs membres et leurs têtes s'animer lentement, leurs regards sans vie se fixant sur tous les intrus présents dans leur chambre.)
+> * Les statues de **jeunes dragons rouges** dans [[#Entrée Principale]], ainsi que tous les **gargouilles** restantes dans le [[#Grand Vestibule]] et tous les **spectres** restants gardant encore les murs du château (voir [[#P2d. Traverser le Gouffre]]), s'animent et commencent à se diriger vers le porteur de l'amulette.
+>
+> Une fois utilisée de cette façon, l'amulette ne peut plus être activée avant que trente jours ne se soient écoulés.
+### La Tombe de Strahd
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 4, Zone K86.</em></span>
+
+Cette zone est largement telle que décrite dans <span class="citation">K86. La Tombe de Strahd (p. 93)</span>. Cependant, les pièges de téléportation décrits dans <span class="citation">Pièges de Téléportation (p. 85)</span> forment un anneau protecteur autour de la base de l'escalier qui descend dans la tombe, plutôt qu'autour de l'entrée de la tombe. De plus, remplacez les trois épouses vampiriques enterrées dans la terre près du mur est par trois **engeances vampiriques** anonymes créées à partir de Baroviens ordinaires.
+
+> [!combat]- **Équilibrer la Tombe du Seigneur des Ténèbres**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 7, une alliée CR 2 (Ireena Kolyana) et une alliée CR 4 (Ezmerelda d'Avenir), et consommera environ 16% de leurs points de vie maximum totaux. Pour les groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+> * **Trois Joueurs**. Réduisez le nombre d'engeances vampiriques à 2.
+
+Le cercueil de Strahd est entouré d'un effet de *champ antimagique* d'un rayon de 1,5 mètre, identique à celui décrit dans <span class="citation">Drain de Sort de Khazan (p. 167)</span>. L'effet ne s'applique pas aux sorts lancés par une créature en lien avec le *Bâton de Khazan*, qui est caché dans <span class="citation">Crypte 15 (p. 88)</span> dans [[#Cryptes Nord, Troisième Rangée]].
+

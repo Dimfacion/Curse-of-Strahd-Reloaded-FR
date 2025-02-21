@@ -10,7 +10,7 @@ Les Puissances Obscures ne cherchent pas nécessairement à corrompre ceux qu'el
 
 Comme décrit dans <span class="citation">Les brumes de Ravenloft</span> et <span class="citation">La lumière du soleil en Barovie (p. 23-24)</span>, la terre de Barovie est entourée d'un brouillard mortel qui engloutit toute créature qui tente de partir, et n'a pas connu la lumière du soleil depuis des siècles.
 
-Les sorts lancés en Barovie fonctionnent comme décrit dans <span class="citation">Une magie Altérée</span> et <span class="citation">La folie de la Résurrection (p. 24)</span>, et peuvent être modifiés cosmétiquement de façon macabre comme décrit dans <span class="citation">Modifications cosmétiques des sorts (p. 24)</span>. Bien que les divinités et les patrons puissent toujours accorder du pouvoir aux clercs et aux sorciers qui se rendent en Barovie, leur capacité à intervenir directement — étant donné l'omnipotence limitée des Puissances Obscures au sein des Domaines de l'Effroi — est grandement restreinte.
+Les sorts lancés en Barovie fonctionnent comme décrit dans <span class="citation">Une magie Altérée</span>, et peuvent être modifiés cosmétiquement de façon macabre comme décrit dans <span class="citation">Modifications cosmétiques des sorts (p. 24)</span>. Bien que les divinités et les patrons puissent toujours accorder du pouvoir aux clercs et aux sorciers qui se rendent en Barovie, leur capacité à intervenir directement — étant donné l'omnipotence limitée des Puissances Obscures au sein des Domaines de l'Effroi — est grandement restreinte.
 
 # Géographie
 

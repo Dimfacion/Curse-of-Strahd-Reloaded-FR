@@ -12,18 +12,16 @@ Alors que les joueurs se rendent au camp de Madam Eva et à la ville voisine de 
 
 À leur arrivée à Vallaki, les joueurs peuvent trouver refuge à l'auberge du Blue Water Inn et - si elle les accompagne - aider Ireena à trouver refuge à l'Église St. Andral. L'acte se termine lorsque les joueurs prennent leur premier long repos à Vallaki.
 
-#TODO
-## Act I Milestones
-| Level | Arc | Milestone                                                          | XP    |
-| :---: | --- | ------------------------------------------------------------------ | ----- |
-|   2   | A   | The players access the secret stairs in Death House                | 200   |
-|   2   | A   | The players begin their first long rest after escaping Death House | 400   |
-|   3   | B   | The players defend and depart the village of Barovia               | 400   |
-|   3   | B   | The players aid Doru in passing his test of will                   | 100   |
-|   3   | B   | The players receive the Tarokka reading                            | 500   |
-|   3   | C   | The players arrive in Vallaki                                      | 1,000 |
-|   3   | C   | The players escort Ireena to Vallaki                               | 250   |
-
+## Étapes de l'Acte I
+| Niveau | Arc | Étape                                                           | PX    |
+| :---: | --- | --------------------------------------------------------------- | ----- |
+|   2   | A   | Les joueurs accèdent aux escaliers secrets dans la Maison de la Mort | 200   |
+|   2   | A   | Les joueurs commencent leur premier repos long après s'être échappés de la Maison de la Mort | 400   |
+|   3   | B   | Les joueurs défendent et quittent le village de Barovia        | 400   |
+|   3   | B   | Les joueurs aident Doru à réussir son test de volonté          | 100   |
+|   3   | B   | Les joueurs reçoivent la lecture du Tarokka                     | 500   |
+|   3   | C   | Les joueurs arrivent à Vallaki                                  | 1,000 |
+|   3   | C   | Les joueurs escortent Ireena jusqu'à Vallaki                    | 250   |
 # Acte II : La Ville Obscurcie
 
 <div class="subtitle"><em>Pour des personnages de niveau 4 et plus.</em></div> Dans cet acte, les joueurs sont laissés à explorer la ville obscurcie de Vallaki - une ville barovienne qui est tombée dans la tension et le conflit après le réveil de Strahd.
@@ -37,15 +35,14 @@ Pendant ce temps, l'un des joueurs commence à faire l'objet d'apparitions troub
 À travers tout cela, les joueurs auront l'occasion de chercher des indices menant à l'emplacement caché du _Tome de Strahd_, qui - selon la lecture tarokka qu'ils ont reçue - peut être caché dans la demeure du baron ou à Wachterhaus. Et alors que la date de la Fête du Soleil Éclatant approche, Izek Strazni et Ireena Kolyana se rapprochent d'une rencontre fatidique et tragique.
 
 L'Acte II se termine le matin après la première pleine lune des joueurs à Barovia, qui a lieu la sixième nuit après leur arrivée à Vallaki. Cependant, les joueurs peuvent toujours terminer les arcs non résolus de cet acte même après le début de l'Acte III - à condition, bien sûr, que ces arcs soient encore possibles à compléter.
-#TODO
 
-| Level | Arc   | Milestone                                                | XP    |
-| :---: | ----- | -------------------------------------------------------- | ----- |
-|   4   | D     | The players restore the bones of St. Andral              | 1,250 |
-|   4   | E     | The players find Arabelle and receive her prophecy       | 1,250 |
-|   4   | F / G | The players defeat Izek Strazni                          | 1,250 |
-|  4/5  | I     | The players gain safe passage through Krezk's gates      | 750   |
-|   5   | H     | The players rescue Stella's soul from the Ethereal Plane | 1,750 |
+| Niveau | Arc   | Étape                                                   | PX    |
+| :---: | ----- | ------------------------------------------------------- | ----- |
+|   4   | D     | Les joueurs restaurent les ossements de St. Andral      | 1,250 |
+|   4   | E     | Les joueurs trouvent Arabelle et reçoivent sa prophétie | 1,250 |
+|   4   | F / G | Les joueurs vainquent Izek Strazni                      | 1,250 |
+|  4/5  | I     | Les joueurs obtiennent un passage sûr à travers les portes de Krezk | 750   |
+|   5   | H     | Les joueurs sauvent l'âme de Stella du Plan Éthéré      | 1,750 |
 
 # Acte III : La Terre Brisée
 
@@ -57,7 +54,7 @@ Si les joueurs acceptent la requête d'Urwin dans [[Arc J - The Stolen Gem]], il
 
 Après avoir libéré la winery de l'emprise des druides, Davian leur demande de se rendre à Yester Hill au sud, où les druides complotent un sombre rituel menaçant la destruction du vignoble. Une fois que les joueurs auront récupéré le joyau volé de la winery et l'auront restitué à Davian Martikov, ils pourront apprendre la véritable nature des Gardiens de la Plume et acquérir les connaissances de Muriel sur la prédiction cryptique de Strahd.
 
-Si les joueurs acceptent l'invitation de Strahd à dîner à Ravenloft, ils auront une semaine pour explorer la vallée avant le début de l'événement. Ce faisant, ils pourront recruter la chasseuse de monstres Ezmerelda d'Avenir de Krezk dans [[Arc K - The Fallen Abbey]], enquêter sur le _Symbole Sacré de Ravenloft_ perdu dans [[Arc L - The Den of Wolves]], ou visiter la demeure hantée d'Argynvostholt dans [[Arc M - Argynvost's Beacon]].
+Si les joueurs acceptent l'invitation de Strahd à dîner à Ravenloft, ils auront une semaine pour explorer la vallée avant le début de l'événement. Ce faisant, ils pourront recruter la chasseuse de monstres Ezmerelda d'Avenir de Krezk dans [[Arc K - The Fallen Abbey]], enquêter sur le _Symbole Sacré de Ravenloft_ perdu dans [[Arc L - The Den of Wolves]], ou visiter la demeure hantée d'Argynvostholt dans [[Arc M - The Dragon's Manor]].
 
 À Krezk, les joueurs apprendront que l'Abbé de l'Abbaye St. Markovia est tombé dans la folie, et que la clé pour purifier son esprit divin se trouve parmi les cryptes du Château Ravenloft. Dans la Tanière des Loups-Garous, les joueurs recevront une offre de Zuleika, une prêtresse **louve-garou** de Mère Nuit : pour obtenir le _Symbole Sacré_, ils doivent d'abord sauver son compagnon des cachots du château. À Argynvostholt, les joueurs reçoivent un message solennel de l'esprit du dragon d'argent Argynvost : rapportez son crâne volé des terrains profanés des sous-sols du château et restaurez-le dans sa tombe légitime.
 
@@ -67,33 +64,31 @@ S'ils survivent, les joueurs sont libres de revenir le lendemain soir pour [[Arc
 
 L'Acte III se termine lorsque les joueurs recrutent l'elfe crépusculaire Kasimir pour se rendre au Temple Ambre. Lorsque l'acte se termine, le **fléau de l'arbre** Wintersplinter détruit la Winery du Sorcier des Vignes à moins que les joueurs n'aient arrêté le rituel des druides dans [[Arc J - The Stolen Gem]].
 
-#TODO
-
-| Starting Level | Arc | Milestone                                                                                    | XP    |
+| Niveau de départ | Arc | Étape | PX |
 | :------------: | --- | -------------------------------------------------------------------------------------------- | ----- |
-|       5        | J   | The players reclaim the winery from the druids of Yester Hill                                | 2,000 |
-|       5        | J   | The players defeat the druids of Yester Hill                                                 | 2,500 |
-|       6        | K   | The players recruit Ezmerelda d'Avenir                                                       | 1,250 |
-|       6        | L   | The players rescue Ilya Krezkov and Zuleika Toranescu from the werewolf den                  | 1,500 |
-|       6        | M   | The players hear the dragon gargoyle's prophecy in Argynvostholt                             | 2,000 |
-|       6        | O   | The players dine with Strahd and survive Varushka's spirit in Castle Ravenloft               | 4,000 |
-|       6        | O   | The players reunite Varushka with Katarina's necklace and retrieve Varushka's hidden cache   | 500   |
-|       7        | P   | The players recover Argynvost's skull from Castle Ravenloft                                  | 1,000 |
-|       7        | P   | The players recover the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft | 1,000 |
-|       7        | P   | The players rescue Emil Toranescu from the Castle Ravenloft dungeons                         | 1,000 |
-|       7        | P   | The players rescue Gertruda from Castle Ravenloft                                            | 500   |
-|       7        | P   | The players obtain the *spear of the Huntress* from King Dostron's crypt in Castle Ravenloft | 500   |
-|       7        | P   | The players loot Strahd's treasury in Castle Ravenloft                                       | 500   |
-|       7        | Q   | The players defeat the Abbot                                                                 | 2,000 |
-|       7        | Q   | The players redeem the Abbot after defeating him                                             | 500   |
-|       7        | Q   | The players defeat Kiril Stoyanovich                                                         | 3,000 |
-|       7        | Q   | The players light Argynvost's beacon                                                         | 3,000 |
+| 5 | J | Les joueurs reprennent la cave aux druides de la Colline d'Antan | 2,000 |
+| 5 | J | Les joueurs vainquent les druides de la Colline d'Antan | 2,500 |
+| 6 | K | Les joueurs recrutent Ezmerelda d'Avenir | 1,000 |
+| 6 | L | Les joueurs sauvent Ilya Krezkov et Zuleika Toranescu de l'antre des loups-garous | 1,500 |
+| 6 | M | Les joueurs entendent la prophétie de la gargouille dragon à Argynvostholt | 2,500 |
+| 6 | O | Les joueurs dînent avec Strahd et survivent à l'esprit de Varushka dans le Château Ravenloft | 3,500 |
+| 6 | O | Les joueurs réunissent Varushka avec le collier de Katarina et récupèrent la cache cachée de Varushka | 500 |
+| 7 | P | Les joueurs récupèrent le crâne d'Argynvost du Château Ravenloft | 1,000 |
+| 7 | P | Les joueurs récupèrent l'*Icône de la Grâce de l'Aube* de la crypte de Ste. Markovia dans le Château Ravenloft | 1,000 |
+| 7 | P | Les joueurs sauvent Emil Toranescu des donjons du Château Ravenloft | 1,000 |
+| 7 | P | Les joueurs sauvent Gertruda du Château Ravenloft | 500 |
+| 7 | P | Les joueurs obtiennent la *lance de la Chasseresse* de la crypte du Roi Dostron dans le Château Ravenloft | 500 |
+| 7 | P | Les joueurs pillent le trésor de Strahd dans le Château Ravenloft | 500 |
+| 7 | Q | Les joueurs vainquent l'Abbé | 1,500 |
+| 7 | Q | Les joueurs réhabilitent l'Abbé après l'avoir vaincu | 500 |
+| 7 | Q | Les joueurs vainquent Kiril Stoyanovich | 1,500 |
+| 7 | Q | Les joueurs allument le fanal d'Argynvost | 3,000 |
 
 # Acte IV : Les Secrets de l'Ancien
 
 <div class="subtitle"><em>Pour des personnages de niveau 8 et plus.</em></div>
 
-Tout au long de cet acte, et jusqu'à ce que les joueurs allument l'_Épée du Soleil_, Strahd - ayant désormais adopté son [[Strahd von Zarovich#Le Tyran|persona de Tyran]] après le cambriolage du Château Ravenloft par les joueurs - apparaît chaque soir pour les tourmenter dans [[Arc R - Les Épreuves du Tyran]], cherchant à tester leur ambition, leur ruse, leur puissance et leur capacité de cruauté.
+Tout au long de cet acte, et jusqu'à ce que les joueurs allument l'_Épée du Soleil_, Strahd - ayant désormais adopté son [[Strahd von Zarovich#Le Tyran|persona de Tyran]] après le cambriolage du Château Ravenloft par les joueurs - apparaît chaque soir pour les tourmenter dans [[Arc R - Les Épreuves de la Montagne]], cherchant à tester leur ambition, leur ruse, leur puissance et leur capacité de cruauté.
 
 Pendant ce temps, les joueurs voyagent avec l'elfe crépusculaire Kasimir Velikov jusqu'au Temple Ambre, parcourant le Passage Tsolenka alors qu'ils gravissent le Mont Ghakis dans [[Arc S - Le Temple Ambre]]. Ce faisant, ils peuvent se lier d'amitié avec les Gens de la Montagne de Soldav, dont l'ancien **géant des tempêtes** Burebis, un dévot des Trois Dames. De Burebis, les joueurs peuvent apprendre les trois Fanes de Barovia, et les connaissances profanes que Strahd a tirées du Temple Ambre pour les profaner.
 
@@ -101,9 +96,7 @@ Après avoir surmonté les épreuves des pentes du Mont Ghakis, le **bouc géant
 
 Après avoir restauré la mémoire du **liche** Exethanter et partagé avec lui les plans trouvés dans le _Tome de Strahd_, les joueurs peuvent également apprendre le plan ultime de Strahd : canaliser le pouvoir des Fanes dans le Cœur de Chagrin indestructible du Château Ravenloft, que Strahd utilisera pour déchirer les Brumes et s'échapper. Les joueurs apprendront également que Strahd prévoit de consommer les âmes de tout Barovia pour alimenter son audacieux projet, et qu'il ne peut jamais être vraiment tué à moins d'être séparé du pouvoir des Fanes.
 
-Lorsque les joueurs ont récupéré la garde brisée de l'_Épée Solaire_, ils apprennent que Strahd traque le Dr. Rudolph van Richten pour l'utiliser dans son sinistre rituel, et doivent l'aider ainsi que le Vistani Arturi Radanavich à lever les malédictions des deux hommes dans [[Arc T - Le Chasseur de Monstres]]. Cependant, quand l'aube arrive, les joueurs apprennent que la sorcière des marais Baba Lysaga a kidnappé les Martikov de Vallaki et de la vinerie du Sorcier des Vins, les forçant à se rendre à Berez pour la vaincre dans [[Arc U - La Sorcière de Berez]].
-
-Dans [[Arc V - Les Dames des Fanes]], les joueurs doivent utiliser les trois gemmes enchantées de la vignoble du Sorcier des Vins et trois artefacts anciens récupérés de l'Arbre Gulthias de la Colline d'Yester pour reconsacrer les trois Fanes, tandis que Strahd rassemble ses forces pour les vaincre. L'Acte IV se termine lorsque les joueurs reconsacrent les trois Fanes.
+Lorsque les joueurs ont récupéré le pommeau brisé de l'_Épée Solaire_, ils apprennent que Strahd traque le Dr. Rudolph van Richten pour l'utiliser dans son rituel macabre, et doivent l'aider ainsi que le Vistani Arturi Radanavich à lever les malédictions des deux hommes dans [[Arc T - Le Chasseur de Monstres]]. Cependant, à l'aube, les joueurs apprennent que la sorcière des marais Baba Lysaga a enlevé les Martikov de Vallaki et de la cave aux vins des Sorciers, les forçant à se rendre à Berez pour la vaincre dans [[Arc U - La Sorcière de Berez]].
 
 # Acte V : La malédiction de Strahd
 

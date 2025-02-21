@@ -15,7 +15,7 @@ Les joueurs peuvent engager Szoldar comme guide ou simplement lui offrir un verr
 Si les joueurs retournent à Vallaki, affrontent Rictavio et le persuadent qu'ils sont des amis plutôt que des ennemis, il révèle à contrecœur son identité et les conduit à la cachette d'Arabelle : le chariot du carnaval entreposé dans le stockyard d'Arasek. Cependant, à l'insu des joueurs, l'oncle d'Arabelle, Arrigal, les a suivis à Vallaki et lorsqu'Arrigal se révèle et exige son retour, les joueurs doivent décider à quel homme faire confiance. Et même une fois la tension apaisée, Arabelle livre une prophétie sombre et énigmatique...
 
 > [!lore]+ **La Récompense de Strahd**
-> Lorsque Strahd a reçu la [[Acte I - Dans les Brumes/Arc C - À travers la vallée#C8. La Calèche Noire|dernière prédiction de Madame Eva]], il a appris qu'il ne pouvait pas contrôler le pouvoir brut des Fanes sans un symbole de la divinité de _Rozana_. Strahd a également appris deux moyens d'obtenir un tel symbole : en sacrifiant un souvenir de son passé au Mur Murmurant près de la Colline d'Hier, ou en s'assurant un descendant mortel portant une étincelle divine des Trois Dames elles-mêmes. La préférence de Strahd va bien sûr à cette dernière option.
+> Lorsque Strahd a reçu la [[Arc C - A travers la vallée#C8. Le Carrosse Noir|dernière prédiction de Madame Eva]], il a appris qu'il ne pouvait pas contrôler le pouvoir brut des Fanes sans un symbole de la divinité de _Rozana_. Strahd a également appris deux moyens d'obtenir un tel symbole : en sacrifiant un souvenir de son passé au Mur Murmurant près de la Colline d'Hier, ou en s'assurant un descendant mortel portant une étincelle divine des Trois Dames elles-mêmes. La préférence de Strahd va bien sûr à cette dernière option.
 > 
 > Strahd sait que les signes d'un descendant le mèneront à eux. À cette fin, il a envoyé ses espions à travers Barovia à leur recherche. Bien que Strahd ne le sache pas, son échanson et plus récente consort - le **rejeton vampirique** Escher - a pris sur lui de poursuivre également le descendant.
 > 
@@ -58,8 +58,10 @@ Si les joueurs retournent à Vallaki, affrontent Rictavio et le persuadent qu'il
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N7.</em></span>
 
-Après avoir reçu la demande de Madame Eva dans [[Acte I - Dans les Brumes/Arc C - À travers la vallée]] d'acheter et de livrer un jouet pour son arrière-petite-nièce, Arabelle, les joueurs peuvent obtenir des indications pour se rendre au magasin de jouets local de Vallaki, Blinsky Toys, en demandant à Urwin Martikov, Danika Dorakova ou à la plupart des Vallakiens natifs. Blinsky Toys se trouve maintenant à la limite nord de la place de la ville de Vallaki, qui est décrite dans <span class="citation">N8. Place de la Ville (p. 119)</span>.
+Après avoir reçu la demande de Madame Eva dans [[Arc C - A travers la vallée]] d'acheter et de livrer un jouet pour son arrière-petite-nièce, Arabelle, les joueurs peuvent obtenir des indications pour se rendre au magasin de jouets local de Vallaki, Blinsky Toys, en demandant à Urwin Martikov, Danika Dorakova ou à la plupart des Vallakiens natifs. Blinsky Toys se trouve maintenant à la limite nord de la place de la ville de Vallaki, qui est décrite dans <span class="citation">N8. Place de la Ville (p. 119)</span>.
 
+![[Jamboree_Poster_Distressed.png]]
+<span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > [!profile]+ **Profil : Gadof Blinsky**
 > 
 > **Informations de jeu de rôle** _**Résonance.**_ Blinsky devrait inspirer l'amusement avec son accent, sa tenue et son esthétique morbide, l'attendrissement pour sa solitude et sa sincérité, et la sympathie pour sa terreur d'Izek.
@@ -415,7 +417,7 @@ Victor peut dire aux joueurs que, bien que Szoldar et Yevgeni passent la plupart
 > 
 > Selon le livre de sorts, un lien magique permettait à Khazan de l'invoquer en prononçant simplement son propre nom. Avec l'aide du bâton de Khazan, Victor pense qu'il pourrait être en mesure de sauver l'âme de Stella du plan Éthéré et de la restaurer dans son corps.
 > 
-> Victor se trompe cependant. Contrairement au livre de sorts de l'archimage, Strahd a récupéré le bâton de Khazan sur les restes de son corps. Il est maintenant dissimulé dans la <span class="citation">Crypte 15 (p. 88)</span> du Château Ravenloft. Voir **_Arc T : Casse au Château Ravenloft_** pour plus d'informations sur le bâton de Khazan.
+> Victor se trompe cependant. Contrairement au livre de sorts de l'archimage, Strahd a récupéré le bâton de Khazan sur les restes de son corps. Il est maintenant dissimulé dans la <span class="citation">Crypte 15 (p. 88)</span> du Château Ravenloft. Voir [[Arc P - Ravenloft Heist]] pour plus d'informations sur le bâton de Khazan.
 
 # E4. Lac Zarovich
 
@@ -626,6 +628,7 @@ L'échafaudage est tel que décrit dans <span class="citation">V3. Échafaudage 
    <p><strong><em>Apparence trompeuse.</em></strong> Tant que la gargouille reste immobile, elle est impossible à distinguer d'une statue inanimée.</p>
    <p><strong><em>Changement de chaleur.</em></strong> Si la gargouille subit des dégâts de feu, elle rougeoie de chaleur jusqu'à la fin de son prochain tour. Lorsqu'elle rougeoie, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de feu supplémentaires sur un coup. Lorsqu'elle rougeoie, la gargouille devient vulnérable aux dégâts de froid et cesse immédiatement de rougeoyer si elle subit des dégâts de froid.</p>
    <p><strong><em>Changement de froid.</em></strong> Si la gargouille subit des dégâts de froid, elle se givre de glace jusqu'à la fin de son prochain tour. Lorsqu'elle est givrée, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de froid supplémentaires sur un coup. Lorsqu'elle est givrée, la gargouille devient vulnérable aux dégâts de feu et sa glace disparaît si elle subit des dégâts de feu.</p>
+  <div class="break"></div>
    <p><strong><em>Corps de pierre.</em></strong> Si la gargouille subit des dégâts de froid alors qu'elle rougeoie, des dégâts de feu alors qu'elle est givrée, des dégâts contondants d'un coup critique, ou des dégâts du sort <em>fracassement</em> ou d'une magie similaire, les ailes de la gargouille se brisent, lui faisant perdre sa vitesse de vol.</p>
    <p><strong><em>Agrippeur.</em></strong> La gargouille a l'avantage sur les jets d'attaque effectués contre une créature qu'elle a agrippée.</p>
    <h3>Actions</h3>
@@ -666,7 +669,7 @@ Si elle est lue, la page brûlée du journal ne contient plus que ce qui suit :
 
 <div class="description"> <p>Depuis plus de trois décennies maintenant, j'ai entrepris d'enquêter et d'exposer les créatures des ténèbres à la lumière purificatrice de la vérité et de la connaissance. "Héros" suis-je nommé dans certains cercles ; "sage" et "maître chasseur" suis-je appelé dans d'autres. Que j'aie survécu à d'innombrables assauts surnaturels est considéré comme une merveille parmi mes pairs ; mon nom est prononcé avec crainte et dégoût parmi mes ennemis.</p> <p>En vérité, cette "vertueuse" vocation a commencé comme un effort obsessionnel pour détruire un vampire qui a assassiné mon enfant, et elle est devenue pour moi une carrière terne et pénible. Même lorsque ma vie de chasseur de monstres a commencé, je sentais le poids du temps sur mes épaules fatiguées. Aujourd'hui, je suis un homme qui a simplement vécu trop longtemps. Comme une liche pleine de regrets, je me trouve inexorablement lié à une existence que j'ai recherchée par folie et que je dois maintenant, apparemment, endurer pour l'éternité. Bien sûr, je mourrai, mais la question de savoir si je reposerai un jour dans ma tombe hante mes pensées oisives et me tourmente dans mes rêves.</p> </div>
 
-L'écriture correspond à celle de l'extrait du _Guide de Van Richten sur les Vampires_ trouvé dans [[Act I - Into the Mists/Arc B - Welcome to Barovia#Settling In|Arc B - Welcome to Barovia]] et du manuscrit sur les loups-garous obtenu dans [[Act I - Into the Mists/Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. Le reste du texte est illisible — roussi par la chaleur ou réduit en cendres.
+L'écriture correspond à celle de l'extrait du _Guide de Van Richten sur les Vampires_ trouvé dans [[Arc B - Bienvenue en Barovie#Chambres au Manoir|Arc B - Welcome to Barovia]] et du manuscrit sur les loups-garous obtenu dans [[Arc C - A travers la vallée#C4d. Le Feu Dansant|Arc C - Into the Valley]]. Le reste du texte est illisible — roussi par la chaleur ou réduit en cendres.
 
 # E7. Le Chemin du Retour
 
@@ -754,7 +757,7 @@ Au combat, les loups-garous ciblent en priorité les joueurs maniant des armes e
 Les joueurs ne rencontrent aucun autre adversaire pendant leur voyage vers Vallaki.
 
 > [!info]+ **La Malédiction de la Lycanthropie** 
-> Si un joueur est infecté par la lycanthropie, consultez l'encadré **La Lycanthropie à Barovia** dans [[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolf's Hunt|Arc C - Into the Valley]] pour plus d'informations sur la malédiction.
+> Si un joueur est infecté par la lycanthropie, consultez l'encadré **La Lycanthropie à Barovia** dans [[Arc C - A travers la vallée#C11. La Chasse des Loups-Garous|Arc C - Into the Valley]] pour plus d'informations sur la malédiction.
 
 # E8. Retour à Vallaki
 
@@ -762,7 +765,7 @@ Le retour des joueurs à Vallaki depuis le Lac Baratok se fait à travers la val
 
 Lorsque les joueurs reviennent à la porte du Crépuscule de Vallaki, un joueur avec un score de Sagesse (Perception) passive de 19 ou plus remarque la même silhouette qu'auparavant qui les observe — cette fois-ci, depuis les bois au nord-ouest. La silhouette disparaît dans les arbres si on la regarde, lui parle, s'en approche ou interagit avec elle de quelque manière que ce soit. (Il s'agit, encore une fois, d'Arrigal, qui a pisté les joueurs jusqu'à Vallaki. Si les joueurs entrent dans Vallaki, Arrigal utilise ses deux dagues comme piolets improvisés pour escalader les palissades de Vallaki et se faufiler devant les gardes en patrouille. Il continue ensuite à traquer les joueurs dans les rues dans l'espoir qu'ils le mèneront à Arabelle.)
 
->[!profile]+ **Profil PNJ : Dr. Rudolph van Richten** 
+>[!profile]+ **Profil : Dr. Rudolph van Richten** 
 >**Informations de Roleplay** 
 >_**Résonance.**_ Van Richten devrait inspirer de la gratitude pour ses connaissances (partagées librement), du réconfort par sa confiance et son expérience, et une légère irritation par sa paranoïa et sa franchise.
 >
@@ -790,6 +793,9 @@ Si les joueurs manifestent leur intérêt à suivre Rictavio jusqu'à l'entrepô
 Si les joueurs attendent le retour de Rictavio avant de le confronter, [[Personnages Non-Joueurs#Rictavio|Rictavio]] les accueille chaleureusement et feint d'ignorer leurs allégations et accusations. Cependant, il les invite dans sa suite pour discuter de l'affaire en privé si les joueurs insistent sur le fait qu'ils souhaitent aider Arabelle, lui montrent la page brûlée du journal ou menacent autrement de révéler sa couverture.
 
 Une fois seul avec les joueurs dans sa suite, Rictavio dégaine sa canne-épée et exige une preuve que les joueurs ne sont pas des serviteurs de Strahd von Zarovich. Si les joueurs rassemblent suffisamment de preuves ou réussissent un test de Charisme (Persuasion) DD 15, Rictavio range à contrecœur sa lame, vérifie la fenêtre et le couloir à la recherche d'espions de Strahd, et ferme hermétiquement les volets de la fenêtre. Il retire alors son _chapeau d'illusion_ et avoue son identité en tant que Dr. Rudolph van Richten.
+
+![[RVR_Transparent.png]]
+<span class="credit">"Dr. Rudolph van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Van Richten peut partager les informations suivantes :
 
@@ -868,6 +874,9 @@ Si les joueurs demandent à Van Richten une preuve que Strahd cherchait à enlev
 > 
 > Le talisman récupère 1d4 charges dépensées chaque jour à l'aube. Si vous dépensez la dernière charge du talisman, lancez un d20. Sur un 1, le talisman se désagrège en cendres et est détruit.
 
+![[SpeakWithDead.png]]
+
+<span class="credit">"Talisman of Echoes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 Voici cinq exemples de réponses que les joueurs pourraient recevoir :
 
 - Quel est votre nom ? _Yan._
@@ -951,7 +960,7 @@ _**La Prime de Strahd.**_ L'intérêt de Strahd pour Arabelle a été ajouté po
 
 _**Masures des Elfes Crépusculaires.**_ Afin de dissuader les joueurs d'explorer le Temple d'Ambre trop tôt (et parce que les joueurs sont des étrangers qu'il vient à peine de rencontrer, sans qualifications évidentes qui l'aideront à atteindre ses objectifs), Kasimir Velikov ne partage plus les rêves de Patrina ou son intérêt pour le Temple d'Ambre lors de leur première rencontre.
 
-Kasimir guidera plus tard les joueurs vers le Temple d'Ambre dans [[Arc U - Le Temple d'Ambre]] après que les joueurs auront appris son intérêt pour le temple à la conclusion de [[Arc R - Le Phare d'Argynvostholt]]. Pour l'instant, cependant, les blessures de Kasimir lors de sa dernière aventure sur le Mont Ghakis ont été montrées pour préfigurer son implication dans cet arc futur.
+Kasimir guidera plus tard les joueurs vers le Temple d'Ambre dans [[Arc U - Le Temple d'Ambre]] après que les joueurs auront appris son intérêt pour le temple à la conclusion de [[Arc Q - A Shining Beacon]]. Pour l'instant, cependant, les blessures de Kasimir lors de sa dernière aventure sur le Mont Ghakis ont été montrées pour préfigurer son implication dans cet arc futur.
 
 Les symboles sur l'anneau sigillaire ont été ajoutés pour fournir aux joueurs la solution de la porte à énigme à l'entrée de la Tour de Van Richten.
 
@@ -963,7 +972,7 @@ La généalogie de la famille Strazni a été ajoutée pour révéler explicitem
 
 _Entités Éthérées_ a été ajouté pour fournir des informations supplémentaires pour aider les joueurs à restaurer l'âme de Stella, et pour fournir à Victor Vallakovich une excuse pour visiter la bibliothèque de son père pendant que les joueurs sont présents. (Voir [[Arc H - L'Âme Perdue]] pour plus d'informations sur le destin de Stella.)
 
-Victor a reçu le grimoire perdu de Khazan pour lui donner une raison de connaître (et une raison de s'intéresser à) la tour du Lac Baratok, ainsi que pour expliquer l'habileté précoce de Victor en tant que mage. L'intérêt de Victor pour le bâton de Khazan a été ajouté pour préfigurer les moyens par lesquels les joueurs peuvent obtenir le bâton dans les catacombes de Ravenloft dans [[Arc T - Le Casse de Ravenloft]].
+Victor a reçu le grimoire perdu de Khazan pour lui donner une raison de connaître (et une raison de s'intéresser à) la tour du Lac Baratok, ainsi que pour expliquer l'habileté précoce de Victor en tant que mage. L'intérêt de Victor pour le bâton de Khazan a été ajouté pour préfigurer les moyens par lesquels les joueurs peuvent obtenir le bâton dans les catacombes de Ravenloft dans [[Arc P - Ravenloft Heist]].
 
 _**Lac Zarovich.**_ Ce bref détour vers la cabane de préparation de Szoldar et Yevgeni a été ajouté pour s'assurer que la nature sauvage de Barovia reste étrange et menaçante (car seuls les chasseurs expérimentés savent comment y naviguer), pour présenter explicitement aux joueurs une paire d'individus capables d'indiquer des chemins et points de repère importants, et pour informer les joueurs de la forte présence des loups-garous dans la moitié ouest de la vallée.
 

@@ -1,104 +1,110 @@
-_An adventure for five 5th-level characters._
 
-In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
+_Une aventure pour cinq personnages de niveau 5._
 
-Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
+Dans cet arc, le premier matin après la première pleine lune des joueurs à Barovia, ils sont approchés par Urwin Martikov, qui leur demande d'enquêter sur une mystérieuse pénurie de livraisons de vin de la vinerie du Sorcier des Vins au sud-ouest. Si les joueurs acceptent sa mission, Urwin leur demande d'autoriser Muriel Vinshaw - une employée de la vinerie - à les accompagner pour le voyage. (Muriel est, bien sûr, une **femme-corbeau** secrète et un membre des Gardiens de la Plume, chargée de délivrer la parole de la prophétie de Strahd à Davian Martikov, le chef de l'ordre.)
 
-Upon arriving at the Wizard of Wines, the players meet Davian Martikov—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
+Avant que les joueurs ne quittent Vallaki, Ireena Kolyana - inspirée par les exploits des joueurs et remplie d'une sombre détermination suite à ses rencontres avec Izek Strazni - leur demande de lui permettre de les accompagner dans leurs voyages, renonçant au sanctuaire de Vallaki pour une opportunité de rejoindre le combat contre Strahd. Si les joueurs acceptent sa demande, Ireena se joint au groupe en tant que compagnon permanent pour le reste de la campagne.  
 
-To do so, the players must enter the winery through a secret tunnel that leads into the cellar, then do battle with the druids and their corrupted blight servants. The druids, however, are nurturing a cutting of the “Gulthias tree"—a vampiric tree that grows atop Yester Hill to the south—within the walls of the winery, complicating the players’ efforts to reach the upper levels.
+À leur arrivée à la Vinerie du Sorcier des Vins, les joueurs rencontrent Davian Martikov - le patriarche de la famille Martikov - et ses divers enfants et petits-enfants, qui se sont réfugiés dans une caverne cachée sous les bois voisins. Davian partage que la vinerie a été envahie par un groupe de druides connus sous le nom de Gens de la Forêt, accompagnés d'une horde de créatures végétales tordues appelées **fléaux**. Davian demande aux joueurs de vaincre les Gens de la Forêt et de briser le bâton que leur chef utilise pour contrôler les fléaux, permettant ainsi aux Martikovs de récupérer leur maison.
 
-Should the players defeat the druids, they learn that the Forest Folk are planning a ritual to summon a being called “Wintersplinter" at Yester Hill the following day—a being that threatens to smash the winery into pieces. Davian asks the players and Muriel to journey to Yester Hill and prevent Wintersplinter’s birth. Davian also asks the players to retrieve an enchanted gemstone that the winery previously used to grow grapes before it was stolen by the druids.
+Pour ce faire, les joueurs doivent entrer dans la vinerie par un tunnel secret menant à la cave, puis combattre les druides et leurs serviteurs fléaux corrompus. Cependant, les druides entretiennent une bouture de l'«Arbre Gulthias» - un arbre vampirique qui pousse au sommet de Yester Hill au sud - à l'intérieur des murs de la vinerie, compliquant les efforts des joueurs pour atteindre les niveaux supérieurs.  
 
-At Yester Hill, Muriel first guides the players to a grove in the shadow of the Svalich Woods. There, she summons the spirit of Kavan, an ancient chieftain of the Forest Folk, who provides information regarding the druids’ plans and defenses. Kavan warns the players that Svarog, the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat Svarog and retrieve his yew wand.
+Si les joueurs battent les druides, ils apprennent que les Gens de la Forêt prévoient un rituel pour invoquer un être appelé "Wintersplinter" à Yester Hill le jour suivant - un être qui menace de briser la vinerie en morceaux. Davian demande aux joueurs et à Muriel de se rendre à Yester Hill et d'empêcher la naissance de Wintersplinter. Davian demande également aux joueurs de récupérer une pierre précieuse enchantée que la vinerie utilisait auparavant pour faire pousser des raisins avant qu'elle ne soit volée par les druides.
 
-As the players continue their journey to Yester Hill, they are met by Strahd von Zarovich riding his **nightmare**, Beucephalus. Should the players convince Strahd to allow them to oppose the druids, Strahd suggests a wager and offers a reward should they win, which the players can collect at the Whispering Wall west of Yester Hill after the battle.
+À Yester Hill, Muriel guide d'abord les joueurs vers un bosquet à l'ombre des Bois de Svalich. Là, elle invoque l'esprit de Kavan, un ancien chef des Gens de la Forêt, qui fournit des informations sur les plans et les défenses des druides. Kavan avertit les joueurs que Svarog, le chef des druides, est un adversaire redoutable, et les invite à revenir à son cairn s'ils battent Svarog et récupèrent sa baguette d'if.
 
-The players must climb Yester Hill without alerting the druids’ patrols, fight their way past the guardians of the stone ring atop the hill, and defeat Svarog’s circle of druids before they can summon Wintersplinter, a fearsome **tree blight** that threatens to lay siege to the Wizard of Wines winery. If the players succeed, they can obtain the Martikovs’ stolen gemstone from Wintersplinter’s heart and end the threat of the Forest Folk for good.
+Alors que les joueurs poursuivent leur voyage vers Yester Hill, ils sont accueillis par Strahd von Zarovich chevauchant son **cauchemar**, Bucéphale. Si les joueurs convainquent Strahd de leur permettre de s'opposer aux druides, Strahd suggère un pari et offre une récompense s'ils gagnent, qu'ils peuvent récupérer au Mur Murmurant à l'ouest de Yester Hill après la bataille.  
 
-Should the players meet Strahd at the Whispering Wall, he shares a brief history of the wall and invites them to venture into its misted depths, where they can face visions of their deepest desires. Before departing, Strahd presents the players with their reward, as well as additional gifts for each player who entered and returned from the Whispering Wall.
+Les joueurs doivent escalader Yester Hill sans alerter les patrouilles de druides, se frayer un chemin à travers les gardiens de l'anneau de pierre au sommet de la colline, et vaincre le cercle de druides de Svarog avant qu'ils ne puissent invoquer Wintersplinter, un redoutable **fléau arboricole** qui menace d'assiéger la vinerie du Sorcier des Vins. S'ils réussissent, ils peuvent obtenir la pierre précieuse volée des Martikovs du cœur de Wintersplinter et mettre fin à la menace des Gens de la Forêt pour de bon.
 
-Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the Mountain Folk (who defied Strahd’s authority) long ago. Kavan tells the players of the Ladies of the Fanes, and instructs them to travel to the hidden Mountain Folk settlement of Soldav in Tsolenka Pass if they wish to find a way to reverse the land’s corruption.
-# J1. The Blue Water Inn
-### J1a. Urwin’s Request
-The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, Urwin Martikov approaches them with an expression of obvious concern. 
 
-After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and Danika with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
 
-* The Blue Water Inn ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
-* However, this fortnight’s shipment is late by two days, and the inn’s supplies are beginning to run low. Urwin and Danika have enough in savings that this shouldn’t be an immediate problem, but they’re worried about the welfare of the winery, which hasn’t been heard from since the last shipment arrived.
+Si les joueurs rencontrent Strahd à la Muraille des Murmures, il partage avec eux une brève histoire de la muraille et les invite à s'aventurer dans ses profondeurs brumeuses, où ils pourront faire face à des visions de leurs désirs les plus profonds. Avant de partir, Strahd présente aux joueurs leur récompense, ainsi que des cadeaux supplémentaires pour chaque joueur qui est entré et revenu de la Muraille des Murmures.
 
-Urwin asks the players to travel to the Wizard of Wines and speak with the owner, a man named Davian Martikov, to discern the reason for the delay and resolve it, if necessary. (If the players point out Davian’s last name, Urwin grimly admits that Davian is his father, but refuses to elaborate, sharing only that he and his father have not spoken in many years.) Urwin warns the players that Davian is a “stubborn old bird," and that his short temper might wear on their patience.
+Si les joueurs retournent au cairn de Kavan et lui présentent la baguette de Svarog, il partage avec eux l'histoire du schisme entre les Gens de la Forêt (qui ont choisi d'adorer Strahd) et les Gens de la Montagne (qui ont défié l'autorité de Strahd) il y a longtemps. Kavan parle aux joueurs des Dames des Clairières, et leur demande de se rendre dans l'implantation cachée des Gens de la Montagne de Soldav dans le col de Tsolenka s'ils souhaitent trouver un moyen d'inverser la corruption des terres.
 
-Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he’s happy for them to take an additional day or two before departing.
+# J1. L'Auberge de la Source Bleue
+### J1a. La Requête d'Urwin
+Le matin après la nuit de la première pleine lune des joueurs à Barovia, s'ils ont séjourné à l'Auberge de la Source Bleue, Urwin Martikov les aborde avec une expression d'inquiétude évidente.
 
-If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+Après avoir échangé des civilités, Urwin demande à contrecœur (mais calmement) s'ils seraient prêts à l'aider, lui et Danika, avec un problème auquel l'auberge est actuellement confrontée. Si les joueurs acceptent, Urwin partage les informations suivantes :
 
-> [!lore]+ **What Urwin Knows**
-> Urwin believes that something terrible has happened to the winery—though what, he isn't sure. Although he sent out a half-dozen ravens to investigate when the first delivery failed to appear, none returned.
-> 
-> Urwin knows, thanks to Muriel, that Baba Lysaga's **strix** have recently begun to patrol the valley in greater force and numbers. Although Muriel has volunteered to investigate, he and Muriel have decided that the skies are likely no longer safe, and that the best way for her to proceed is on foot, preferably with skilled bodyguards.
-## J1b. Setting Off
-### Meeting Muriel
-When the players meet Urwin in the Blue Water Inn's kitchen after accepting his mission, he introduces them to Muriel Vinshaw. Read:
+* L'Auberge de la Source Bleue reçoit normalement des livraisons régulières de vin une fois toutes les deux semaines de la part du Vigneron, situé à l'extrémité sud-ouest de la vallée de Barovia, notamment le populaire Piétinement de Raisin Pourpre n°3 et l'Écrasement de Dragon Rouge plus cher.
+* Cependant, la livraison de ces deux dernières semaines accuse deux jours de retard, et les réserves de l'auberge commencent à s'épuiser. Urwin et Danika ont suffisamment d'économies pour que cela ne pose pas un problème immédiat, mais ils s'inquiètent pour le bien-être du vignoble, dont on n'a pas eu de nouvelles depuis la dernière livraison.
+
+Urwin demande aux joueurs de se rendre au Vigneron et de parler au propriétaire, un certain Davian Martikov, pour découvrir la raison du retard et la résoudre, si nécessaire. (Si les joueurs font remarquer le nom de famille de Davian, Urwin admet sombrement que Davian est son père, mais refuse d'en dire plus, partageant seulement qu'il n'a pas parlé à son père depuis de nombreuses années.) Urwin prévient les joueurs que Davian est un "vieil oiseau têtu", et que sa courte patience pourrait les irriter.
+
+Urwin note cependant que l'auberge dispose d'un stock de vin suffisant pour durer au moins quelques jours. Si les joueurs ont des affaires plus pressantes à régler, il est heureux qu'ils prennent un ou deux jours supplémentaires avant de partir.
+
+Si les joueurs acceptent la mission d'Urwin, il leur demande de le rejoindre dans la cuisine de l'Auberge de la Source Bleue dans une heure pour rencontrer Muriel Vinshaw, une ancienne employée du Vigneron qui peut les conduire au vignoble. (Si on lui demande, Urwin explique que Muriel a elle-même des affaires au vignoble et qu'elle est également préoccupée par la sécurité du vignoble, mais refuse de donner plus d'informations.)
+
+> [!lore]+ **Ce qu'Urwin sait**
+> Urwin pense que quelque chose de terrible est arrivé au vignoble - quoi, il n'en est pas sûr. Bien qu'il ait envoyé une demi-douzaine de corbeaux enquêter lorsque la première livraison n'est pas arrivée, aucun n'est revenu.
+>  
+> Grâce à Muriel, Urwin sait que les strix de Baba Lysaga ont récemment commencé à patrouiller dans la vallée en plus grand nombre et avec plus de force. Bien que Muriel se soit portée volontaire pour enquêter, lui et Muriel ont décidé que les airs n'étaient probablement plus sûrs, et que la meilleure façon pour elle de procéder était à pied, de préférence avec des gardes du corps qualifiés.
+## J1b. Le Départ 
+### Rencontrer Muriel
+Quand les joueurs rejoignent Urwin dans la cuisine de l'Auberge de la Source Bleue après avoir accepté sa mission, il leur présente Muriel Vinshaw. Lire :
 
 <div class="description">
-<p>A young woman leans against the stove, her arms crossed. She is short and dusky-skinned, with jet-black hair and dark eyes.  A  mud-stained cloak hangs across her shoulders, and a small, dark feather hangs on a leather cord around her neck between two carved wooden beads. A wooden crossbow hangs from a mount on her back, and a shortsword rests sheathed at her hip.</p>
-<p>Her right hand lifts up to her head, fingers idly twirling the bright blue streak that runs through her hair. She flashes you a grin and holds out the other hand in greeting, her fingers twitching with restless energy.</p>
+<p>Une jeune femme s'appuie contre le poêle, les bras croisés. Elle est petite et a la peau mate, avec des cheveux noirs de jais et des yeux sombres. Une cape tachée de boue pend sur ses épaules, et une petite plume sombre pend sur un cordon de cuir autour de son cou entre deux perles de bois sculpté. Une arbalète en bois est fixée dans son dos, et une épée courte est rangée dans son fourreau à sa hanche.</p>
+<p>Sa main droite se lève vers sa tête, les doigts tordant distraitement la mèche bleue vive qui traverse ses cheveux. Elle vous lance un sourire et tend l'autre main en guise de salut, ses doigts tressaillant d'une énergie impatiente.</p>
 </div>
 
 ![[Muriel Vinshaw 1.png]]
-<span class="credit">"Muriel Vinshaw" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Muriel Vinshaw" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Muriel Vinshaw**
-> **Roleplaying Information**
-> ***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
-> 
-> ***Emotions.*** Muriel most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
-> 
-> ***Motivations.*** Muriel wants to honor Elric's life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
-> 
-> ***Inspirations.*** When playing Muriel, channel Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*), and Peter Parker (*Spider-Man*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, Elric Martikov, and wonders whether she'll ever fix what his death broke inside of her.
-> 
-> ***Morale.*** In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
-> 
-> ***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+> [!profile]+ **Profil : Muriel Vinshaw**
+> **Informations de jeu de rôle**
+> ***Résonance.*** Muriel devrait inspirer l'attachement avec son attitude enthousiaste et entreprenante, l'amusement avec ses commentaires narquois et son sens de l'humour enjoué, et une légère irritation avec son entêtement et ses refus occasionnels (mais avec des excuses) de révéler les secrets des Gardiens de la Plume.
+>
+> ***Émotions.*** Muriel ressent le plus souvent de la curiosité, de l'excitation, de la détermination, du triomphe, de la joie, de l'amusement, de la colère ou de la tristesse.
+>
+> ***Motivations.*** Muriel veut honorer la vie d'Elric par sa résistance à Strahd et faire une différence dans la vie quotidienne des Baroviens en tant qu'agent de terrain pour les Gardiens de la Plume.
+>
+> ***Inspirations.*** Lorsque vous jouez Muriel, canalisez Amethyst (*Steven Universe*), Sokka (*Avatar : le dernier maître de l'air*) et Peter Parker (*Spider-Man*).
+>
+> **Informations sur le personnage**
+> ***Personnalité.*** Pour le monde, Muriel est une jeune femme joyeuse, même si elle est parfois étourdie. Pour ceux en qui elle a confiance, Muriel est une agent déterminée de terrain pour les Gardiens de la Plume, avec un fort sens de la justice et une farouche indépendance. Au plus profond d'elle-même, Muriel est encore en deuil de la mort de son fiancé, Elric Martikov, et se demande si elle pourra un jour réparer ce que sa mort a brisé en elle.
+>
+> ***Moral.*** Dans un combat, Muriel sortirait volontiers son épée courte ou son arbalète et défierait son adversaire de frapper en premier, ne fuyant que si sa régénération était bloquée ou dépassée.
+>
+> ***Relations.*** Muriel est un agent des Gardiens de la Plume sous les ordres de Davian Martikov, un contact et allié du maître espion des Gardiens, Urwin Martikov, et l'ancienne fiancée du fils décédé de Davian, Elric Martikov, qui a été emprisonné alors qu'il aidait la rébellion de Doru contre le château Ravenloft.
 
-Muriel greets the players warmly and introduces herself, noting that Urwin has told her that she’ll be bringing them to the Wizard of Wines even as they make sure that she “doesn’t get killed." Following their reply, she then chides the players briefly, playfully suggesting that they “don’t seem like the adventuring type". If the players share any of their exploits in Vallaki or beyond, Muriel cheerfully concedes that they do indeed look well-equipped and well-prepared and thanks them for taking the job.
+Muriel salue chaleureusement les joueurs et se présente, notant qu'Urwin lui a dit qu'elle les amènerait au Magicien des Vins tout en s'assurant qu'elle "ne se fasse pas tuer". Après leur réponse, elle gronde ensuite brièvement les joueurs, suggérant malicieusement qu'ils "ne semblent pas être du genre aventurier". Si les joueurs partagent leurs exploits à Vallaki ou au-delà, Muriel admet joyeusement qu'ils ont effectivement l'air bien équipés et bien préparés, et les remercie d'avoir accepté le travail.
 
-> [!lore]+ **Muriel’s Secret Identity**
-> Muriel is, of course, a **wereraven** and a secret member of the Keepers of the Feather—the same blue-winged wereraven, in fact, that the players previously encountered in the village of Barovia and on the path to Tser Pool.
-> 
-> If the players confront Muriel and suggest that she’s secretly a wereraven, druid, or other shapeshifter, she scoffs at the prospect and summarily denies the allegations with a healthy dose of sarcasm, laughter, and good-natured humor, spinning off a series of excuses as she does:
-> 
-> * (If accused of being a shapeshifter) “What, like some kind of tree-hugging druid? I don’t even have a wooden staff. And I *hate* trees."
-> * (If accused of being a wereraven) “Oh, so like a werewolf but for ravens instead? That’s so stupid. ‘Oh, look at me, I’m a dangerous werewolf who turns into birds!’"
-> * (If her blue streak of hair is pointed out) “I once saw a wolf with an ugly face, but that doesn’t mean it was Izek Strazni in disguise. Good on that bird, though. He’s got good taste."
-> * (If the players continue to insist that Muriel was the blue-winged raven) "Believe what you want. But if I catch you sneaking birdseed into my rations, we're probably gonna have a problem."
+> [!lore]+ **L'identité secrète de Muriel**
+> Muriel est, bien sûr, une **corneille garou** et un membre secret des Gardiens de la Plume - la même corneille garou aux ailes bleues, en fait, que les joueurs ont précédemment rencontrée dans le village de Barovia et sur le chemin de l'Étang de Tser.
+>  
+> Si les joueurs confrontent Muriel et suggèrent qu'elle est secrètement une corneille garou, une druide ou une autre changeforme, elle se moque de cette perspective et nie catégoriquement les allégations avec une bonne dose de sarcasme, de rires et d'humour bon enfant, enchaînant une série d'excuses :
+>  
+> * (Si on l'accuse d'être une changeforme) "Quoi, comme une sorte de druide qui fait des câlins aux arbres ? Je n'ai même pas de bâton en bois. Et je *déteste* les arbres."
+> * (Si on l'accuse d'être une corneille garou) "Oh, comme un loup-garou mais pour les corneilles à la place ? C'est tellement stupide. 'Oh, regardez-moi, je suis un dangereux loup-garou qui se transforme en oiseaux !'"
+> * (Si on pointe sa mèche de cheveux bleus) "J'ai déjà vu un loup avec un visage laid, mais ça ne veut pas dire que c'était Izek Strazni déguisé. Bien joué pour cet oiseau, cependant. Il a bon goût."
+> * (Si les joueurs insistent que Muriel était la corneille aux ailes bleues) "Croyez ce que vous voulez. Mais si je vous surprends à mettre de la graine pour oiseaux dans mes rations, on va probablement avoir un problème."
+>  
+> Si les joueurs fournissent une preuve indéniable de leur suggestion (comme la capacité étonnante de Muriel à se régénérer de ses blessures), elle grimace, puis insiste sur le fait qu'elle ne peut rien dire de plus sans d'abord parler à son "patron". (Elle ne révélera pas l'identité de son patron, mais peut promettre sincèrement que son patron n'est ni Strahd ni l'un de ses serviteurs.)
 
-If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
+
 
 <div class="statblock">
     <h2>Muriel Vinshaw</h2>
-    <em>Medium humanoid (human, shapechanger), chaotic good</em>
+    <em>Humanoïde moyenne (humaine, changeforme), chaotique bonne</em>
     <hr>
-    <strong>Armor Class</strong> 14 (leather armor)
+    <strong>Classe d'Armure</strong> 14 (armure de cuir)
     <br>
-    <strong>Hit Points</strong> 63 (14d8)
+    <strong>Points de vie</strong> 63 (14d8)
     <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <strong>Vitesse</strong> 9 m (vol 15 m sous forme de corbeau et hybride)  
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
+                <th>FOR</th>
                 <th>DEX</th>
                 <th>CON</th>
                 <th>INT</th>
-                <th>WIS</th>
+                <th>SAG</th>
                 <th>CHA</th>
             </tr>
         </thead>
@@ -114,329 +120,354 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Compétences</strong> Perspicacité +4, Perception +6<br>
+    <strong>Sens</strong> Perception passive 16<br>
+    <strong>Langues</strong> Commun (ne peut pas parler sous forme de corbeau)<br>
+    <strong>Niveau de difficulté</strong> 2<br>
+    <strong>Bonus de maîtrise</strong> +2
     <hr>
-    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts its turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
-    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
+    <p><strong><em>Régénération.</em></strong> Muriel regagne 10 points de vie au début de son tour si elle n'a pas subi de dégâts nécrotiques ou de dégâts contondants, perforants ou tranchants d'une arme en argent depuis son dernier tour. Elle meurt uniquement si elle commence son tour avec 0 point de vie et ne régénère pas.</p>
+    <p><strong><em>Imitation.</em></strong> Muriel peut imiter des sons simples qu'elle a entendus, comme une personne qui chuchote, un bébé qui pleure ou un animal qui gazouille. Une créature qui entend les sons peut dire qu'il s'agit d'imitations avec un succès à un jet de sagesse (Perspicacité) DD 10.</p>
+    <p><strong><em>Plongeon.</em></strong> Si Muriel vole à au moins 6 mètres en ligne droite vers une cible en descendant d'au moins 1,5 mètre vers le sol, puis frappe cette cible avec une attaque d'épée courte lors du même tour, la cible subit 7 (2d6) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 12 ou être jetée à terre.</p>
     <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+    <p><strong><em>Attaques multiples.</em></strong> Muriel effectue deux attaques d'arme, dont une peut être avec son arbalète de poing.</p>
+    <p><strong><em>Épée courte.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d'arme au corps à corps :</em> +5 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
+    <p><strong><em>Arbalète de poing.</em></strong> (Forme humanoïde ou hybride uniquement) <em>Attaque d'arme à distance :</em> +5 pour toucher, portée 9/36 m, une cible. <em>Touché :</em> 5 (1d6 + 3) dégâts perforants.</p>
+    <p><strong><em>Bec.</em></strong> (Forme de corbeau ou hybride uniquement) <em>Attaque d'arme au corps à corps :</em> +5 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 1 dégât perforant sous forme de corbeau, ou 5 (1d4 + 3) dégâts perforants sous forme hybride. Si la cible est humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 10 ou être maudite avec la lycanthropie corbeau-garou.</p>
+    <h3>Actions bonus</h3>
+    <p><strong><em>Changeforme.</em></strong> Muriel se métamorphose en un hybride humain-corbeau ou en un corbeau, ou revient à sa forme humaine. Ses statistiques, autres que sa taille, sont les mêmes dans chaque forme. Tout équipement qu'elle porte ou transporte n'est pas transformé. Elle reprend sa forme humaine si elle meurt.</p>
+    <h3>Réactions</h3>
+    <p><strong><em>S'interposer.</em></strong> Quand une créature visible par Muriel touche une autre cible à 1,5 mètre ou moins d'elle avec une attaque, Muriel peut utiliser sa réaction pour subir les dégâts à la place de la cible.</p>
 </div>
 
-### Ireena's Request
-Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
-Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
 
-* Ireena shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
-* If Ireena was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+Ireena, qui a appris la destination des joueurs de Danika, du père Petrovich ou d'un autre Vallakien amical lié aux Martikovs, confirme d'abord que les joueurs quittent Vallaki pour enquêter sur le Magicien des Vins. Une fois qu'elle l'a fait, elle demande aux joueurs l'opportunité de les accompagner - voyager à leurs côtés dans leur combat pour aider Barovia et défier la volonté de Strahd. Elle peut partager les informations suivantes pour expliquer sa décision :
 
-If the players appear concerned for Ireena’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
+* Ireena partage qu'après avoir vu les exploits des joueurs à Vallaki, elle a réalisé l'importance de se battre pour les autres, plutôt que de simplement parler pour eux. Elle veut apprendre à être une guerrière pour son peuple et résister directement à la tyrannie de Strahd - sans peur ni hésitation.
+* Si Ireena a été harcelée ou enlevée par Izek Strazni dans ***Acte H : Les Frères et Sœurs Strazni***, elle partage qu'elle est fatiguée de se cacher de ceux qui cherchent à l'utiliser pour leurs propres fins, et qu'elle en a fini de permettre à d'autres d'être blessés dans leurs efforts pour la protéger. Elle est déterminée à se tenir sur ses deux pieds et à mener ses propres batailles au lieu de laisser les autres les mener pour elle.
+* Ireena note que l'église Saint-Andral a déjà été prise pour cible par les serviteurs de Strahd une fois - et que bien qu'Ismark l'ait envoyée à Vallaki dans l'espoir qu'elle serait hors de portée de Strahd, ses expériences là-bas lui ont montré qu'aucun endroit dans la vallée n'est vraiment sûr.
 
-If the players suggest that Ireena will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
+Si les joueurs semblent préoccupés par la sécurité d'Ireena, elle souligne que, tout au long de leurs voyages, aucun des serviteurs ou des sbires de Strahd n'a osé l'attaquer, suggérant qu'il leur a ordonné de la laisser indemne.
 
-If the players suggest that Ireena’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
-# J2. The Old Svalich Road
-The journey from the town of Vallaki to the **Wizard of Wines winery** is just under seven miles long and takes two-and-one-quarter hours to complete. To get to the winery, the players must travel to the Raven River Crossroads, then head south.
-## J2a. Crossing the River
-As the players cross the bridge over the Luna River, read the following:
+Si les joueurs suggèrent qu'Ireena sera mal équipée pour une vie d'aventurière, elle souligne qu'elle est une guérisseuse formée (grâce à l'enseignement de sa mère) ; qu'elle est une escrimeuse capable (grâce à l'entraînement d'Ismark) ; et qu'elle peut les aider davantage en servant de liaison et en partageant des informations sur la vallée.
+
+Si les joueurs suggèrent que la présence d'Ireena attirera l'attention de Strahd ou leur apportera autrement la malchance, elle se raidit, puis leur demande calmement s'ils souhaitent vraiment la renvoyer, comme l'a fait Ismark. S'ils répètent leur refus, elle acquiesce à leur décision.
+
+# J2. La Vieille Route de Svalich  
+Le voyage de la ville de Vallaki au **Domaine du Magicien des Vins** fait un peu moins de 11 km et prend deux heures et quart à parcourir. Pour se rendre au domaine, les joueurs doivent se rendre au carrefour de la rivière Corbeau, puis prendre la direction du sud.
+
+## J2a. Traversée de la Rivière
+Lorsque les joueurs traversent le pont sur la rivière Luna, lisez ce qui suit :
 
 <div class="description">
-<p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
-<p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
+<p>Le chemin se rétrécit, bordé d'arbres denses et imposants. Devant, vous pouvez voir un vieux pont en bois apparaître, ses planches usées par le temps enjambant la rivière tumultueuse en contrebas. En vous approchant, vous pouvez voir la rivière sombre se briser sur les pierres lisses du lit de la rivière, bordée de chaque côté par des buissons et des arbres tortueux.</p>
+<p>En montant sur le pont, vos bottes résonnent sur le vieux bois humide. Au nord, vous pouvez voir la rivière serpenter en amont le long de la ligne d'arbres avant de disparaître dans une courbe. Au sud, la rivière ondule comme un ruban entre ses rives, puis disparaît progressivement dans la brume.</p>
 </div>
 
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
+Le carrefour de la rivière Luna est décrit dans <span class="citation">P. Carrefour de la Rivière Luna (p. 40)</span>. Cependant, ne vérifiez pas s'il y a une rencontre aléatoire lorsque les joueurs atteignent cette zone.
 
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+Lorsque les joueurs la traversent, le chemin vers Argynvostholt est largement décrit dans <span class="citation">Approche du Manoir (p. 130)</span>. Lisez :
 
 <div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
+<p>Un sentier de terre s'écarte ici de l'Ancienne Route de Svalich, serpentant vers le sud sur un contrefort montagneux escarpé. La terre du sentier est compactée, sa couleur est un gris-brun terne rappelant des cendres froides. Les arbres de part et d'autre se dressent silencieux et stoïques, leurs feuilles d'un vert délavé. Alors que le sentier monte en serpentant, il est finalement remplacé par les ombres profondes de la pente boisée de la montagne, disparaissant dans la pénombre des bois au-delà.</p>
 </div>
 
-## J2b. The Path to Tsolenka Pass
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+## J2b. Le Chemin du Col de Tsolenka
+Juste avant que les joueurs n'atteignent les Carrefours de la Rivière Corbeau, ils rencontrent le chemin menant au Lac Baratok et au <span class="citation">Chapitre 11 : La Tour de Van Richten (p. 167)</span>, non loin du sentier qui mène au <span class="citation">Chapitre 9 : Le Col de Tsolenka (p. 157)</span>. Lisez :
 
 <div class="description">
-<p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
+<p>Un vieux sentier de chasse s'écarte ici de l'Ancienne Route de Svalich, serpentant vers le nord entre de vieux arbres noueux avant de disparaître dans le sous-bois. Une centaine de mètres au-delà, un chemin alpin se sépare de la route principale pour se diriger vers le sud en direction des montagnes, gagnant en altitude jusqu'à disparaître derrière un escarpement abrupt couvert d'arbres.</p>
 </div>
 
-As the players pass the entrance to the alpine path, they’re watched by a Mountain Folk **berserker** lurking in the southern underbrush. Read:
+Alors que les joueurs passent l'entrée du chemin alpin, ils sont observés par un **berserker** des Gens des Montagnes se cachant dans le sous-bois au sud. Lisez :
 
 <div class="description">
-<p>You hear the snap of a twig in the underbrush to the south.</p>
+<p>Vous entendez le craquement d'une brindille dans le sous-bois au sud.</p>
 </div>
 
-If the players investigate, they can make a DC 11 Wisdom (Perception) check to discern a human-shaped silhouette amidst the tree line beyond.  If the players approach, call out to, or otherwise attempt to interact with the silhouette, read:
+Si les joueurs enquêtent, ils peuvent réussir un jet de Sagesse (Perception) de DD 11 pour discerner une silhouette humaine au milieu de la lisière des arbres au-delà. Si les joueurs s'approchent, interpellent ou tentent d'interagir avec la silhouette, lisez :
 
 <div class="description">
-<p>You startle a broad-shouldered woman clad in thick, mud-caked furs and clutching a stone axe. Obsidian ornaments hang from her ears and neck, and a thin layer of gray mud is smeared across her face, blending with the dark trees around her.</p>
+<p>Vous faites sursauter une femme aux larges épaules vêtue d'épaisses fourrures couvertes de boue et tenant une hache de pierre. Des ornements d'obsidienne pendent à ses oreilles et à son cou, et une fine couche de boue grise est étalée sur son visage, se fondant avec les arbres sombres autour d'elle.</p>
 </div>
 
-The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
+La femme tente immédiatement de fuir dans les bois. Si les joueurs tentent de l'arrêter ou de l'attaquer, Muriel les avertit que la femme fait partie des Gens des Montagnes - une tribu de chasseurs-cueilleurs vivant dans les montagnes de Balinok - et que leur peuple n'est ni au service de Strahd ni dangereux à moins d'être attaqué.
 
-Muriel doesn’t know why the woman was watching the road, but shares that the Mountain Folk have been more active lately, though no one is quite sure why. Reports suggest that they’re looking for something, however. (If asked how she knows so much about the Mountain Folk, Muriel laughs and claims only that she’s well-traveled and has “many friends" across the valley.)
+Muriel ne sait pas pourquoi la femme observait la route, mais elle partage que les Gens des Montagnes ont été plus actifs dernièrement, bien que personne ne sache vraiment pourquoi. D'après les rumeurs, ils sembleraient chercher quelque chose. (Si on lui demande comment elle en sait autant sur les Gens des Montagnes, Muriel rit et prétend simplement qu'elle a beaucoup voyagé et qu'elle a "de nombreux amis" dans la vallée.)
 
-If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in ***Arc I: The Lost Soul***, she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
-## J2c. The Raven River Crossroads
-The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+Si les joueurs demandent à Muriel des informations sur le druide des Gens des Forêts qu'ils ont vu sur l'Ancienne Route de Svalich dans ***Arc I : L'Âme Perdue***, elle leur explique que les Gens des Forêts sont connus pour être des serviteurs loyaux de Strahd, qu'ils vénèrent comme une divinité. Elle conseille aux joueurs d'éviter le repaire des druides : un monticule en terrasses appelé la Colline d'Hier dans le coin sud-ouest des Bois de Svalich, au sud du Magicien des Vignes.
+
+## J2c. Les Carrefours de la Rivière Corbeau
+Les Carrefours de la Rivière Corbeau sont largement tels que décrits dans <span class="citation">R. Carrefours de la Rivière Corbeau (p. 40)</span>. Cependant, ne lancez pas de rencontre aléatoire lorsque les joueurs atteignent cette zone. De plus, ajoutez le texte suivant à la fin de la description de la zone :
 
 <div class="description">
-<p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
+<p>Une silhouette vêtue d'une armure rouillée se tient seule sur le pont, tenant une épée longue étincelante dans ses mains pâles.</p>
 </div>
 
-The figure is recognizably similar to the revenant standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
+La silhouette ressemble de manière reconnaissable au revenant monté la garde aux Chutes de Tser. Si on l'approche, elle interpelle les joueurs et leur demande leur destination.
 
-If the players tell the revenant that they are traveling to the Wizard of Wines, it warns them that the Forest Folk of Yester Hill have been increasingly agitated as of late, and that they have been joined by the children of the Gulthias Tree—a twisted husk that grows atop Yester Hill and gives birth to “blights" that crawl forth from its gnarled roots. The revenant advises them to be wary of the blights, which see without eyes and disguise themselves among the flora of the wilds.
 
-If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the southeast, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
+Si les joueurs disent au revenant qu'ils se rendent chez le Magicien des Vins, il les avertit que les Gens des Forêts de la Colline d'Antan ont été de plus en plus agités ces derniers temps, et qu'ils ont été rejoints par les enfants de l'Arbre Gulthias - une coque tordue qui pousse au sommet de la Colline d'Antan et donne naissance à des "fléaux" qui rampent depuis ses racines noueuses. Le revenant leur conseille de se méfier des fléaux, qui voient sans yeux et se déguisent parmi la flore des étendues sauvages.
 
-The revenant will not leave its post on the bridge under any circumstances.
-## J2d. The Spiked Pit Trap
-As the players proceed south from the Raven River Crossroads, read:
+Si les joueurs demandent au revenant des informations sur les Gens des Montagnes ou les Gens des Forêts, il partage seulement que les "Premiers Peuples" ont été divisés il y a longtemps face à la tragédie et aux conflits, et que leurs descendants sont restés séparés depuis. Il note que les Gens des Forêts ont embrassé Strahd von Zarovich comme leur seigneur et dirigeant, mais que les Gens des Montagnes s'en tiennent encore aux anciennes traditions, vénérant les anciennes déesses qui résidaient autrefois dans la vallée. (Le revenant ne sait pas où vivent les Gens des Montagnes, mais il a entendu dire que leur établissement est caché quelque part dans les montagnes.)
+
+Si les armes des joueurs sont clairement visibles, il demande aux joueurs s'ils s'opposent au seigneur du Château de l'Envol du Corbeau. Si les joueurs affirment s'opposer à Strahd, le revenant leur conseille de se rendre à Argynvostholt au sud-est, où Sir Godfrey Gwilym attend ceux qui lèveraient leur épée contre les ténèbres qui se tapissent dans les profondeurs du château. Si les joueurs demandent la direction d'Argynvostholt, le revenant leur conseille de voyager "vers l'est, puis vers le sud sur le chemin gris cendré".
+
+Le revenant ne quittera son poste sur le pont en aucune circonstance.
+
+## J2d. Le Piège de la Fosse à Pieux
+Lorsque les joueurs progressent vers le sud depuis le Carrefour de la Rivière du Corbeau, lisez :
 
 <div class="description">
-<p>As the dirt road winds through the woods, the path narrows, framed by ancient, twisted trees whose gnarled branches form a thick canopy overhead. Dappled gray light struggles to pierce through, casting eerie shadows that flicker and dance with the slightest breeze. A musky, earthy aroma fills the air—the scent of rotting leaves, damp soil, and the faint tang of decay.  </p>
-<p>The vegetation here is denser than the main road, and several low-hanging branches are draped with clumps of vines that weave a tangled tapestry across the undergrowth. A thick blanket of twigs and pine needles crunches beneath your boots, their low sounds the only noise amidst the silent path.</p>
+<p>Alors que la route de terre serpente à travers les bois, le chemin se rétrécit, encadré par d'anciens arbres tordus dont les branches noueuses forment une épaisse voûte au-dessus. Une lumière grise mouchetée lutte pour percer à travers, projetant des ombres étranges qui vacillent et dansent au moindre souffle de vent. Un arôme musqué et terreux emplit l'air - l'odeur de feuilles pourries, de sol humide et d'une légère odeur de décomposition.</p>
+<p>La végétation ici est plus dense que sur la route principale, et plusieurs branches basses sont drapées de grappes de vignes qui tissent une tapisserie emmêlée à travers le sous-bois. Une épaisse couche de brindilles et d'aiguilles de pin craque sous vos bottes, leur léger bruit étant le seul son au milieu du chemin silencieux.</p>
 </div>
 
-As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
+Lorsque les joueurs entrent dans cette zone, Muriel chuchote que quelque chose ne va pas, notant que la route "ne sentait pas la mort" la dernière fois qu'elle est passée par là.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+La route ici cache un piège de fosse à pieux (<span class="citation">Guide du Maître, p. 122</span>), dissimulé comme décrit dans <span class="citation">Fausse Piste (p. 30)</span>. Les grappes de vignes (et la source de l'odeur de décomposition) sont cinq **fléaux de vignes**, dissimulés grâce à leur capacité ***Fausse Apparence***.
 
-A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
+Un joueur avec un score de Sagesse (Perception) passif de 15 ou plus, ou qui réussit un jet de Sagesse (Perception) DD 15, repère la fosse. Si des joueurs tombent dans la fosse, tentent de la contourner ou attaquent les fléaux de vignes, ces derniers attaquent. Tout joueur qui n'a pas encore reconnu les grappes de vignes comme une menace est surpris.
 
-> [!combat]- **Balancing the False Trail**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the number of vine blights to three. 
-> * ***Four Players.*** Reduce the number of vine blights to four. 
-> * ***Six Players.*** Increase the number of vine blights to six. 
-## J2e. The Huntress’s Monument
-As the players proceed past the pit trap, read:
+Au combat, les **fléaux de vignes** utilisent leur attaque ***Constriction*** pour agripper les ennemis avant de les traîner dans le piège de la fosse.
+
+
+
+> [!combat]- **Équilibrer la fausse piste**
+> Cette rencontre de combat est une rencontre de combat **légère** contre un groupe de cinq joueurs de niveau 5, une alliée CR 1 (Muriel Vinshaw) et une alliée CR 2 (Ireena Kolyana), et consommera environ 25% de leurs points de vie maximum totaux. Pour des groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+>
+> * ***Trois joueurs.*** Réduisez le nombre de nuisances de vignes à trois.
+> * ***Quatre joueurs.*** Réduisez le nombre de nuisances de vignes à quatre.
+> * ***Six joueurs.*** Augmentez le nombre de nuisances de vignes à six.
+## J2e. Le monument de la chasseresse
+Lorsque les joueurs dépassent le piège à fosse, lisez :
 
 <div class="description">
-<p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone slab standing just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some kind of carving.</p>
+<p>La route continue, s'incurvant à nouveau tandis que les arbres commencent à s'écarter du chemin. Non loin de la route, au milieu d'un petit bouquet d'arbustes à baies, se dresse une vieille dalle de pierre d'un peu moins de 1,8 mètre de haut. Elle repose sur un vieux cercle de pierre fissuré et semble porter une sorte de gravure.</p>
 </div>
 
-If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other two slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
-# J3. The Wizard of Wines
-The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
+Si les joueurs choisissent d'examiner la dalle, ils découvrent qu'elle porte une gravure d'un loup sur une étoile triskelion gravée. (La dalle est un ancien monument à la Chasseresse, et l'étoile triskelion est le symbole des Trois Dames. Contrairement aux trois autres dalles de Barovia, il n'y a ni lichen ni mousse sur ce monument, qui est normalement bien entretenu par les Martikov. Bien que les Martikov ne se souviennent pas des noms ou de la nature des Dames des Fanes, ils gardent un profond respect pour les anciennes divinités de Barovia.)
+# J3. Le Sorcier des Vins
+Le dernier tronçon du voyage vers le Sorcier des Vins est en grande partie décrit dans <span class="citation">Approche du Vignoble (p. 174)</span>. Si Muriel est avec le groupe, elle reconnaît la cape de l'homme comme étant celle de Davian Martikov et exhorte les joueurs à le rencontrer.
+> [!lore]+ **Histoire du Vignoble**
+> Il y a longtemps, avant que Strahd von Zarovich ne conquière la vallée, les tribus des Premiers Peuples furent brutalement unifiées lorsque Kavan le Buveur de Sang, un jeune chef, détruisit la hiérarchie de la caste druidique et mena une guerre sanglante contre ses voisins.
+>
+> Les serviteurs de la Chercheuse - un clan de **wereravens** - craignaient la conquête de Kavan. Pour protéger le pouvoir des Trois Dames de son ambition, les wereravens dérobèrent les trois gemmes donneuses de vie de leurs emplacements au milieu des Fanes et les cachèrent.
+>
+> Des siècles plus tard, les descendants de ces wereravens - la famille Martikov - utiliseraient ces gemmes pour fonder le Vignoble du Sorcier des Vins, dissimulant leur puissance abondante à la vue de tous. Même lorsque Strahd conquit la vallée et accorda le vignoble à la famille Krezkov en récompense de leur loyauté, quelques générations suffirent aux Martikov pour s'allier par mariage à la lignée Krezkov et reprendre possession par héritage.
+>
+> Il y a cent ans, un **wereraven** nommé Livius Martikov - le grand-père de Davian Martikov - défia les vœux de sa famille et aida le Bourgmestre Ismark Antonovich et le paladin Lugdana à dérober le *Sceau du Soleil* (aujourd'hui nommé le *Symbole Sacré de Ravenkin*) et le *Tome de Strahd* du Château de Ravenloft pendant que Strahd sommeillait.
+>
+> Livius voyagea avec Ismark et Lugdana pendant près d'une décennie, pistant les dangers et espionnant leurs ennemis. Lorsqu'il prit finalement sa retraite d'aventurier, il utilisa la richesse et la notoriété qu'il avait acquises pour fonder les Gardiens de la Plume, une société secrète de wereravens dédiée à s'opposer aux forces des ténèbres à travers Barovia. Bien que les Gardiens ne combattraient pas eux-mêmes, ils jurèrent de servir, guider et abriter tout héros qui pourrait un jour se lever à la mémoire de Lugdana.
+>
+> Il y a dix ans, Madame Eva - assistée du **roc du Mont Ghakis** déguisé en un corbeau ordinaire - déroba l'une des trois gemmes enchantées du vignoble. Davian blâma son fils Urwin, comme décrit dans <span class="citation">Chapitre 12 : Le Sorcier des Vins (p. 173)</span>.
 
-> [!lore]+ **History of the Winery**
-> Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
-> 
-> The servants of the Seeker—a clan of **wereravens**—feared Kavan’s conquest. To protect the power of the Ladies Three from his ambition, the wereravens stole the three life—giving gemstones from their places amidst the Fanes and hid them away. 
-> 
-> Centuries later, the descendants of these wereravens—the Martikov family—would use these gemstones to found the Wizard of Wines Winery, hiding their bountiful power in plain sight. Even when Strahd conquered the valley and bestowed the winery to the Krezkov family as a reward for their loyalty, few generations had passed before the Martikovs married into the Krezkov line and retook possession by means of inheritance.
-> 
-> One hundred years ago, a **wereraven** named Livius Martikov—the grandfather of Davian Martikov—defied his family’s wishes and helped Burgomaster Ismark Antonovich and the paladin Lugdana to steal the *Sigil of the Sun* (now named the *Holy Symbol of Ravenkind*) and the *Tome of Strahd* from Castle Ravenloft while Strahd slumbered. 
-> 
-> Livius adventured with Ismark and Lugdana for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
-> 
-> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
-> 
-> Just over three months ago, when the ravens caught word of Doru’s brewing rebellion, the **wereraven** Elric Martikov—one of Davian’s youngest sons and Elvir Martikov’s twin brother—became determined to fight alongside them. Davian, however, forbade him from doing so.
-> 
-> A fight ensued, and an enraged Davian banished Elric from the winery for his defiance. Elric perished in Castle Ravenloft soon thereafter.
-> 
-> Ludmilla Vilisevic and the witches’ coven of Castle Ravenloft found Elric’s broken body soon thereafter. They brought his corpse to Baba Lysaga, the witch of Berez, whose *scrying* spells and ritual magic soon uncovered the source of the **wereraven** scourge: the Wizard of Wines winery to the west.
-> 
-> As Baba Lysaga set about crafting **greater** and **lesser strix** to patrol the skies for the Keepers and their raven servants, Ludmilla brokered an agreement with the druids of Yester Hill to aid in her plot against the Keepers. Ludmilla taught the druids to extract cuttings of the Gulthias Tree atop Yester Hill, which they used to command the blights the tree produced.
-> 
-> Baba Lysaga’s **scarecrows** have repeatedly attacked the winery since then. On one such occasion, Ludmilla detected the presence of the two remaining magic gems. Three weeks ago, during one such attack, the scarecrows found one of the gems, dug it up, and spirited it away to Baba Lysaga in Berez.
-> 
-> Five days ago, the druids of Yester Hill found the second gem and stole it. The wereravens launched a counterattack as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, but were unable to overcome the druids and their defenses. Three days ago, the druids marched on the winery with a small army of corrupted blights and drove the Martikovs out.
-> 
-> The druids have remained in the winery ever since, searching for the third gemstone that they believe to be hidden there. They have also planted a cutting of the Gulthias Tree within the winery, which they plan to use to extend their reach north, toward Krezk. Soon, however, the druids will give up their search—and the **tree blight** Wintersplinter will march upon the winery and destroy it for good.
 
-If the players linger on the road, a piercing screech splits the air from the south—the familiar call of a **greater strix**. Just a moment later, it’s answered by a second, similar call from the east—and a third, similar call from the west. As the three shrieks echo across the vineyard, the cloaked figure glances upward and its gestures become more urgent, while Muriel urges the players to seek cover.
 
-If the players approach the cloaked figure, it beckons them deeper into the woods. Read: 
+Urwin a dit à Davian qu'il avait vu un corbeau emporter la gemme dans la nuit - une affirmation que Davian a rejetée comme ridicule, car les Gardiens connaissaient et commandaient tous les corbeaux de la vallée.
+Après une violente querelle, Urwin et sa fiancée, Danika Dorakova, sont partis pour Vallaki le lendemain matin, pour ne jamais revenir.
+>
+> Il y a un peu plus de trois mois, lorsque les corbeaux ont eu vent de la rébellion en préparation de Doru, le **corbeau-garou** Elric Martikov - l'un des plus jeunes fils de Davian et le frère jumeau d'Elvir Martikov - a décidé de se battre à leurs côtés.
+Cependant, Davian lui a interdit de le faire.
+>
+> Une bagarre a éclaté, et Davian, enragé, a banni Elric de la vinerie pour son insolence.
+Elric a péri au château de Ravenloft peu après.
+>
+> Ludmilla Vilisevic et le couvent des sorcières du château de Ravenloft ont trouvé le corps brisé d'Elric peu après.
+Ils ont amené sa dépouille à Baba Lysaga, la sorcière de Berez, dont les sorts de *visons* et la magie rituelle ont bientôt découvert la source du fléau des **corbeaux-garous** : la vinerie du Magicien des Vins à l'ouest.
+>
+> Pendant que Baba Lysaga se mettait à créer des **strix majeurs** et **strix mineurs** pour patrouiller dans les airs à la recherche des Gardiens et de leurs serviteurs corbeaux, Ludmilla a négocié un accord avec les druides de la Colline de Yester pour l'aider dans son complot contre les Gardiens.
+Ludmilla a appris aux druides à extraire des boutures de l'Arbre Gulthias au sommet de la Colline de Yester, qu'ils ont utilisées pour commander les flétrissures que l'arbre produisait.
+>
+> Les **épouvantails** de Baba Lysaga ont attaqué la vinerie à plusieurs reprises depuis lors.
+À une occasion, Ludmilla a détecté la présence des deux gemmes magiques restantes.
+Il y a trois semaines, lors d'une telle attaque, les épouvantails ont trouvé l'une des gemmes, l'ont déterrée et l'ont emportée à Baba Lysaga à Berez.
+>
+> Il y a cinq jours, les druides de la Colline de Yester ont trouvé la deuxième gemme et l'ont volée.
+Les corbeaux-garous ont lancé une contre-attaque comme décrit dans <span class="citation">Chapitre 12 : Le Magicien des Vins (p. 173)</span>, mais n'ont pas réussi à vaincre les druides et leurs défenses.
+Il y a trois jours, les druides ont marché sur la vinerie avec une petite armée de flétrissures corrompues et en ont chassé les Martikovs.
+>
+> Les druides sont restés dans la vinerie depuis, cherchant la troisième gemme qu'ils pensent être cachée là.
+Ils ont également planté une bouture de l'Arbre Gulthias dans la vinerie, qu'ils comptent utiliser pour étendre leur influence vers le nord, vers Krezk.
+Cependant, les druides abandonneront bientôt leurs recherches - et la **flétrissure arborescente** Brisehivers marchera sur la vinerie et la détruira pour de bon.
+
+Si les joueurs s'attardent sur la route, un cri perçant fend l'air du sud - l'appel familier d'un **strix majeur**. Un instant plus tard, il est suivi par un deuxième appel similaire de l'est - et un troisième appel similaire de l'ouest. Alors que les trois cris d'effroi résonnent à travers le vignoble, la silhouette encapuchonnée lève les yeux et ses gestes deviennent plus pressants, tandis que Muriel exhorte les joueurs à chercher un abri.  
+
+Si les joueurs s'approchent de la silhouette encapuchonnée, elle leur fait signe d'aller plus profondément dans les bois. Lire :
 
 <div class="description">
-<p>The figure vanishes into a small grove of beech trees tucked away amidst the woods, their smooth, silvery-gray trunks standing in a ring like ancient sentinels. The canopy above forms a dense, near-unbroken ceiling of foliage, casting the forest floor in an otherworldly shadow.</p>
-<p>All around you, the trees' uniform, near-symmetrical branches reach upward like slender arms toward the sky. Dozens of ravens sit perched upon them, their dark eyes watching silently as you approach.</p>
-<p>The figure is nowhere to be seen, but a well-disguised trapdoor has been pulled open at the center of the clearing, exposing a wooden ladder that descends down a shaft in the earth.</p>
-</div>
+<p>La silhouette disparaît dans un petit bouquet de hêtres niché au milieu des bois, leurs troncs lisses gris argenté se dressant en cercle comme d'antiques sentinelles. La canopée forme au-dessus une voûte dense, presque sans interruption de feuillage, plongeant le sol de la forêt dans une ombre d'un autre monde.</p>
+<p>Tout autour de vous, les branches uniformes, presque symétriques des arbres s'élèvent vers le ciel comme de minces bras. Des dizaines de corbeaux sont perchés dessus, leurs yeux sombres vous observant silencieusement à mesure que vous approchez.</p>
+<p>La silhouette a disparu, mais une trappe soigneusement dissimulée a été ouverte au centre de la clairière, exposant une échelle en bois qui descend dans un puits creusé dans la terre.</p>
+</div>  
 
-As the players enter the clearing, the drizzle turns to rain, lightning flashing and thunder rolling overhead.
+Alors que les joueurs entrent dans la clairière, la bruine se transforme en pluie, la foudre brille et le tonnerre gronde au-dessus.
 
-Muriel doesn’t recognize the trapdoor or the ladder. If the players linger without entering the trapdoor, the cloaked man’s head pokes up out of the trapdoor, and he grunts, “Do you want to get punctured to death, you fools? Get down here before they see you, for goodness’ sake—and close the door behind you." He then descends back down the ladder.
-## J3a. The Martikovs’ Refuge
-### Down the Ladder
-If the players descend the ladder, read:
 
-<div class="description">
-<p>You descend the wooden ladder, each step echoing faintly in the enclosed space as the rungs creak beneath your weight. Overhead, heavy raindrops drum against the closed trapdoor with a relentless rhythm, the muffled sound of booming thunder echoing far above. Rivulets of rainwater run down the damp stone walls around you, pooling in a sloshing, watery pit thirty feet below.</p>
-<p>Halfway down the shaft, the walls open up into a small stone cavern, its rough walls damp and glistening. Lanterns hang from iron hooks that jut out from the walls, their flickering flames filling the space with the warm glow of candlelight. The perimeter of the cavern hosts a collection of crates and sacks, which appear to have been kept in relatively good condition. A tunnel stretches away from the south wall of the cave, a thin layer of mist clinging to its floor as it vanishes into darkness.</p>
-<p>Bedrolls and blankets are strewn across the rough cavern floor, occupied by an assortment of adults and children. Two men bearing a striking resemblance to Urwin Martikov lean against the western wall—the elder with dark hair tinged slightly with gray, and the younger bearing softer features and a mop of brownish hair.</p>
-<p>A woman kneels beside a pair of young boys not far away, her angular features framed by locks of chestnut hair. A bald, broad-shouldered man with a darker complexion sits beside her, cradling an infant sleeping peacefully in his arms. A teenager showing a blend of the man and woman's features sits with his knees held to his chest a few feet beyond, a half-whittled stick clutched in his hands.</p>
-<p>The cloaked figure stands at the head of the group, the cowl of his cloak lowered to reveal the features of a man in his elder years. His gray, suspicious eyes scowl back at you, framed by strands of silver-gray hair that cascade down to his shoulders from the receding hairline along his scalp. His face is bronzed and weathered, and the wrinkles above his eyebrows split his forehead like furrowed troughs.</p>
-<p>The patched green cloak he wears has clearly seen better days, but appears to have been proudly decorated with clusters of raven's feathers meticulously sewn into the cowl and shoulders, as well as a menagerie of nearly a dozen old pewter medallions and trinkets that have been haphazardly stitched into the fabric. His weight leans against an old wooden cane, its wide surface carved with intricate patterns of grapes and vines, and his thick fingers tap impatiently against its edge.</p>
-</div>
 
-The two men resembling Urwin Martikov are Adrian and Elvir Martikov, respectively. The woman is Stefania Martikov and the man beside her is Dag Tomescu, her husband. The two boys are Martin and Viggo, the infant is Yolanda, and the teenager is Claudiu. The cloaked man is Davian Martikov.
+Muriel ne reconnaît pas la trappe ni l'échelle. Si les joueurs s'attardent sans entrer par la trappe, la tête de l'homme encapuchonné émerge de la trappe, et il grogne : "Vous voulez vous faire transpercer à mort, bande d'idiots ? Descendez ici avant qu'ils ne vous voient, par pitié - et fermez la porte derrière vous." Il redescend ensuite l'échelle.
 
-> [!profile]+ **Meet the Martikovs**
-> When roleplaying the Martikov family, keep the following information in mind:
-> 
-> * **Adrian** is two years older than Urwin, and is generally quiet and observant, though he isn’t afraid to take charge when necessary. He takes no sides in the feud between Davian and Urwin and believes that Elric died fighting for what he believed in, and that his death should therefore be respected. Adrian should make the players feel flattered and grateful, and most often feels thoughtful, determined, or melancholy.
-> * **Elvir** is ten years younger than Urwin and the twin brother of the late Elric Martikov, and is generally sharp, sarcastic, and quick-tempered. He believes that Davian was wrong to scorn Urwin, and that the theft of the third enchanted gem likely wasn’t Urwin’s fault. He shares freely his position that Elric’s death was worthless, and that the whole family would be better off had he never gone to Castle Ravenloft to fight in Doru’s rebellion. Deep down, however, Elvir feels deeply betrayed that Elric would go to fight Strahd without him. Elvir should make the players feel irritated, insulted, sympathetic, and endeared to him, and most often feels frustrated, annoyed, melancholy, angry, determined, or amused.
-> * **Stefania** is five years older than Urwin. She doesn’t begrudge Urwin for the theft of the third enchanted gem, but shares Davian’s position that Urwin was most likely mistaken about what he saw. She believes that Elric’s death was a tragedy, but that he was an adult member of the Keepers of the Feather and that his choice therefore deserves respect. Stefania should make the players feel comforted and grateful, and most often feels cheerful or determined.
-> * **Dag**, who married into the Martikov family, takes no position on Davian’s feud with Urwin, though he shares Stefania’s position that Elric’s death was a tragedy but his choice deserves respect. He most often feels amused, thoughtful, playful, or determined, and should make the players feel grateful, amused, and endeared to him.
-> * **Claudiu** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
-> * **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
-> * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Mirabel Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
-
-Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
-
-Davian curtly introduces each member of the family if asked. He is also willing to tersely confirm that Urwin Martikov is his son, though refuses to speak further of their relationship.
-### Davian’s Request
-Upon learning that the players have been sent to investigate the delayed wine shipments, Davian is glad to share the following information:
-
-* Three days before the players received Urwin’s request (see [[#J1a. Urwin’s Request]] above), four druids of the Forest Folk invaded the Wizard of Wines and drove the Martikovs out. Davian and his family have hidden themselves away in this hidden cavern ever since.
-* The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
-* Davian isn’t entirely sure why the druids attacked the winery, why they’re still inside, or why Baba Lysaga is assisting them. 
-
-A DC 12 Wisdom (Insight) check suggests that Davian might know more than he’s letting on, but he steadfastly refuses to explain further beyond noting that, “Yester Hill isn’t far from here. The Forest Folk have been terrible neighbors for years, and we haven’t been shy about letting them know that. Looks like this is their revenge." A second DC 12 Wisdom (Insight) check reveals that he’s not telling the entire truth; if challenged, Davian responds by irritatedly promising to give the players his family’s “whole damn ledger" if they get rid of the druids first.
-
-Davian welcomes the players’ help in defeating the druids. If the players agree to do so, Davian can share the following additional information:
-
-* There are four druids, eight **needle blights**, eight **vine blights**, and more than a few dozen **twig blights** in the winery. The skies above the winery are guarded by three patrolling **greater strix**, and the vineyard is guarded by too many **needle blights** to count.
-* The leader of the druids bears a strange magical staff, which appears to be the source of the blights’ strength and the means by which the druids are controlling them. If the players can obtain the staff and break it, the hordes of blights in the vineyard (as well as any other blights in the winery) would likely be greatly weakened, if not killed outright.
-* The safest route into the Wizard of Wines is an underground tunnel that leads from this cavern and exits through a secret door into the winery’s cellar. From there, the players will need to sneak or fight their way up until they find the druid with the magical staff.
-
-> [!info]+ **Balancing the Winery**
-> If you are rebalancing the Wizard of Wines for parties of larger or smaller size (see encounter-balancing callouts below), make sure to adjust Davian's information accordingly.
-### Elvir’s Rage
-When Davian has given the players their mission, Claudiu mutters—just loudly enough to be heard—“What does it matter? They’re just going to die, anyway."
-
-Assuming the players do not intervene, the following sequence then unfolds:
-
-* Stefania scolds Claudiu, and orders him to apologize to the players. (She glances toward the players and immediately apologizes for her son’s behavior.)
-* After the players respond, Elvir loudly agrees that the players are wasting their time, and there’s no possibility that they’ll be strong enough to defeat “the vampire’s" servants. He gives the players a baleful glare, as though challenging them to disagree.
-* As the players respond, Adrian attempts to calm Elvir, insisting that, “this isn’t like Elric." Elvir snarls at Adrian, “Don’t say his name!", and Davian shouts at all of his children to be silent, vowing that he “will not suffer disobedience again in this household."
-* Elvir snaps back, insisting that Davian “drove Elric away, just like he did Urwin." Davian’s face colors bright red, and he shouts, “*Enough!*"
-* Elvir snarls, turns, and sits cross-legged in a damp alcove away from the rest of the family, facing a wall. Stefania and Adrian move to flank Davian and engage him in hushed whispers, both looking stricken.
-
-The players can notice that Claudiu looks pale and vaguely guilty, and that Muriel’s complexion has taken on an ashen pallor, her face becoming a mask of unreadable stone.
-
-As the family splinters, Dag approaches the players and greets them with a sheepish grin. In a low voice, he apologizes for his in-laws’ behavior, and promises that they’re good people “once you get to know them."
-
-Dag can share the following information if asked:
-
-* Ten years ago, someone stole something valuable from the winery while Urwin Martikov was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, Danika Dorakova, instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for Vallaki. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
-* Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in the village of Barovia that marched on Castle Ravenloft. Elric had always been bright-eyed and optimistic—a dreamer who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
-* Claudiu was especially close to his two youngest uncles, and Elric most of all. He and Elvir haven’t taken Elric’s death well, with both falling into a kind of melancholic despair and Elvir lashing out at anyone who gets on his bad side.
-
-If asked, Muriel confirms in a raw, quiet whisper that Elric “inspired us all," but that she—and Elric’s family—have had to learn to get by without him. She then excuses herself and moves to sit beside Elvir.
-
-> [!abstract]+ **Speaking with Elvir**
-> If the players move to speak with Elvir, he ignores them, staring straight at the cavern wall, for the first full minute. He then hoarsely demands to know why they’ve come to the winery, insisting that there’s nothing left for them or anyone else to find there. If the players show Elvir kindness and compassion, they can somewhat lighten his mood with a DC 15 Charisma (Persuasion) check. Otherwise, he firmly but politely asks them to leave him alone, his voice strained and raw.
-> 
-> If the players get on Elvir’s good side and ask about Elric, Elvir tells them that Elric was a fool who abandoned his family, and that he “deserved what he got." A DC 10 Wisdom (Insight) check reveals that Elvir is uncomfortable with the harshness of his words, and doesn’t appear to entirely believe them. The players can convince Elvir to reveal his true feelings with a DC 20 Charisma (Persuasion) check; otherwise, he shakes his head and firmly denies any deeper meaning.
-### Into the Tunnel
-After the players have spoken with Dag and the other Martikovs to their satisfaction, Davian and Stefania approach them. Davian apologizes to the players for Elvir’s behavior, and—at Stefania’s gentle chiding—his own outburst as well.
-
-If the players are still willing to enter the winery to defeat the druids within, Davian can share the following final warnings:
-
-* First, Davian shares that the tunnel that leads into the cellar passes through a cavern filled with **brown mold**, which the Martikovs use to keep the wine stored in the cellar cool. Davian advises the players to stick to the path through the center of the mold, and not to approach, attack, or touch the mold lest it harm them.
-* Second, Davian warns that the druids can conjure the force of thunder to defeat their enemies. If the players fail to swiftly defeat any individual druid they come across, the sound of their thunder might alert the others, summoning them to defend the first. (The same is true for any loud spells that the players might use, so Davian warns them to stay quiet to avoid detection. Davian is reasonably confident, however, that the sound of the storm should help to cover up the sounds of any ordinary combat.)
-* Third, Davian reminds the players that the winery is an old structure built of wood. If any of the players appear to be spellcasters, Davian makes them promise not to set it on fire by mistake “like a bloody flaming fool."
-
-> [!info]+ **Fire Hazard**
-> The players should be cautious when casting spells such as *fireball* or *lightning bolt* within the winery, both of which expressly set their surroundings on fire. If the players nonetheless set the winery aflame, apply the following rules: 
-> 
-> * Each contiguous collection of ignited squares counts as a single fire. On initiative count 20 of each round, for each fire, roll a number of d4s equal to the number of squares in that fire. For each 4 rolled, an additional square adjacent to the fire also ignites (your choice), becoming a part of the fire. Ignited squares can include either floors or walls. (An ignited wall is engulfed with flames on both sides.) 
-> * When the fire spreads, each creature within its area must make a DC 10 Dexterity saving throw. On a successful save, that creature can immediately move to an adjacent, unoccupied square within 5 feet. A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage. 
-> * All squares within 10 feet of a fire are heavily obscured by smoke. A creature that starts its turn in the smoke must make a DC 10 Constitution saving throw or be poisoned until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
-> * A creature can use its action and suitable means to extinguish a 5-foot section
-
-Davian also informs the players of the existence of an emergency cache that he kept in the winery, but wasn’t able to retrieve before the druids drove them out. The cache, which is hidden in the barrel nearest the northwest corner in a storage room on the main floor of the winery, contains healing supplies and other items that the players might find useful. (Davian doesn’t remember exactly what he left in the cache, but invites the players to keep its full contents for themselves—assuming, of course, that the druids haven’t found and raided it already.)
-### Brown Mold
-<span class="citation"><em>This scene takes place in Chapter 12, Area W15.</em></span>
-Once the players are ready to go, Muriel approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
-
-As the players pass through the tunnel, read:
+## J3a. Le refuge des Martikov
+### En bas de l'échelle
+Si les joueurs descendent l'échelle, lisez :
 
 <div class="description">
-<p>The tunnel marches silently through the earth, a thin veil of mist clinging to the ground as it delves deeper into the darkness. The further you travel, the colder it gets, your breath misting on the air. Moisture pooling in the tunnel's nooks and crannies gradually gives way to patches of ice, their brittle surfaces splintering and crunching under your boots.</p>
-<p>The tunnel soon opens into a shallow, freezing cavern. Thick brown mold carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
+<p>Vous descendez l'échelle de bois, chaque marche résonnant faiblement dans l'espace clos tandis que les barreaux craquent sous votre poids. Au-dessus, de lourdes gouttes de pluie tambourinent sans relâche contre la trappe fermée, le son étouffé du tonnerre grondant au loin. Des ruisselets d'eau de pluie coulent le long des murs de pierre humides autour de vous, formant une flaque boueuse trente mètres plus bas.</p>
+<p>À mi-chemin dans le puits, les murs s'ouvrent sur une petite caverne de pierre, ses parois rugueuses humides et luisantes. Des lanternes pendent à des crochets de fer qui dépassent des murs, leurs flammes vacillantes remplissant l'espace d'une chaude lueur de bougie. Le périmètre de la caverne abrite une collection de caisses et de sacs, qui semblent avoir été relativement bien conservés. Un tunnel s'étend à partir du mur sud de la grotte, une fine couche de brume flottant sur son sol avant de disparaître dans l'obscurité.</p>  
+<p>Des rouleaux de couchage et des couvertures sont éparpillés sur le sol rugueux de la caverne, occupés par un assortiment d'adultes et d'enfants. Deux hommes ayant une ressemblance frappante avec Urwin Martikov sont appuyés contre le mur ouest - l'aîné avec des cheveux bruns légèrement grisonnants, et le plus jeune arborant des traits plus doux et une tignasse brune.</p>
+<p>Une femme est agenouillée à côté d'une paire de jeunes garçons non loin, ses traits anguleux encadrés par des mèches de cheveux châtains. Un homme chauve aux épaules larges et au teint plus foncé est assis à côté d'elle, berçant un nourrisson endormi paisiblement dans ses bras. Un adolescent mélangeant les traits de l'homme et de la femme est assis, les genoux ramenés contre sa poitrine, une baguette à moitié taillée serrée dans ses mains.</p>
+<p>La silhouette encapuchonnée se tient à la tête du groupe, la capuche de son manteau baissée pour révéler les traits d'un homme d'un âge avancé. Ses yeux gris suspicieux vous dévisagent, encadrés par des mèches d'un gris argenté qui cascadent jusqu'à ses épaules depuis la ligne de cheveux clairsemée de son crâne. Son visage est bronzé et buriné, et les rides au-dessus de ses sourcils sillonnent son front comme des sillons creusés.</p>
+<p>La cape verte rapiécée qu'il porte a connu des jours meilleurs, mais semble avoir été fièrement décorée de grappes de plumes de corbeaux méticuleusement cousues dans la capuche et sur les épaules, ainsi que d'une ménagerie d'une douzaine de vieilles médailles et breloques en étain grossièrement piquées dans le tissu. Son poids repose sur une vieille canne en bois, sa large surface sculptée de motifs complexes de raisins et de vignes, et ses doigts épais tapotent impatiemment sur son rebord.</p>
 </div>
 
-This area is as described in <span class="citation">W15. Brown Mold (p. 178)</span>. If the players approach the archway, read:
+Les deux hommes ressemblant à Urwin Martikov sont Adrian et Elvir Martikov, respectivement. La femme est Stefania Martikov et l'homme à côté d'elle est Dag Tomescu, son mari. Les deux garçons sont Martin et Viggo, le nourrisson est Yolanda, et l'adolescent est Claudiu. L'homme encapuchonné est Davian Martikov.
+
+
+
+> [!profile]+ **Rencontrez les Martikovs**
+> Lors de l'interprétation de la famille Martikov, gardez les informations suivantes à l'esprit :
+>
+> * **Adrian** est de deux ans l'aîné d'Urwin, généralement calme et observateur, bien qu'il n'ait pas peur de prendre les choses en main lorsque cela est nécessaire. Il ne prend pas parti dans la querelle entre Davian et Urwin et croit qu'Elric est mort en combattant pour ce en quoi il croyait, et que sa mort doit donc être respectée. Adrian devrait faire sentir aux joueurs qu'ils sont flattés et reconnaissants, et il se sent le plus souvent pensif, déterminé ou mélancolique.
+> * **Elvir** est de dix ans le cadet d'Urwin et le frère jumeau du regretté Elric Martikov, généralement acerbe, sarcastique et colérique. Il croit que Davian avait tort de dédaigner Urwin, et que le vol de la troisième gemme enchantée n'était probablement pas la faute d'Urwin. Il partage librement sa position selon laquelle la mort d'Elric était inutile, et que toute la famille serait mieux si celui-ci n'était jamais allé au château de Ravenloft pour combattre dans la rébellion de Doru. Cependant, au plus profond de lui-même, Elvir se sent profondément trahi qu'Elric soit allé combattre Strahd sans lui. Elvir devrait irriter les joueurs, les insulter, les attendrir et les charmer, et il se sent le plus souvent frustré, agacé, mélancolique, en colère, déterminé ou amusé.
+> * **Stefania** est de cinq ans l'aînée d'Urwin. Elle ne tient pas rigueur à Urwin pour le vol de la troisième gemme enchantée, mais partage la position de Davian qu'Urwin s'est probablement trompé sur ce qu'il a vu. Elle croit que la mort d'Elric était une tragédie, mais qu'il était un membre adulte des Gardiens de la Plume et que son choix mérite donc le respect. Stefania devrait réconforter les joueurs et les rendre reconnaissants, et elle se sent le plus souvent joyeuse ou déterminée.
+> * **Dag**, qui a épousé la famille Martikov, ne prend pas position sur la querelle de Davian avec Urwin, bien qu'il partage la position de Stefania selon laquelle la mort d'Elric était une tragédie, mais que son choix mérite le respect. Il se sent le plus souvent amusé, pensif, joueur ou déterminé, et devrait rendre les joueurs reconnaissants, amusés et charmés par lui.
+> * **Claudiu** se moque de la querelle de Davian avec Urwin, et croit que la mort d'Elric était un signal clair que résister à Strahd est vain et que quiconque le fait est voué à l'échec. Il se sent le plus souvent sombre, ennuyé, agacé, frustré ou mélancolique, et devrait irriter les joueurs, les insulter et susciter leur sympathie envers lui.
+> * **Martin et Viggo** ne connaissent pas la querelle de Davian avec Urwin, qu'ils n'ont jamais rencontré. Ils ne comprennent pas la nature exacte de la révolte d'Elric contre le château de Ravenloft, mais savent suffisamment pour comprendre qu'il y est mort. Ils se sentent le plus souvent joueurs, ennuyés, effrayés, intrigués ou excités, et devraient flatter les joueurs, les amuser et les charmer.
+> * **Davian** est le patriarche de la famille Martikov et le veuf de sa défunte épouse, Mirabel Oraonova. Publiquement, il affirme qu'Elric était un fou, insubordonné et désobéissant pour avoir refusé l'ordre de Davian de rester à l'écart du château de Ravenloft. Au plus profond de lui-même, Davian est anéanti que les derniers mots qu'il ait adressés à son fils avant la mort d'Elric aient été : "*Et ne reviens pas !*" Davian se sent le plus souvent agacé, irrité, satisfait ou grincheux, et devrait insulter les joueurs, les rendre reconnaissants et susciter leur sympathie envers lui.
+
+Davian salue Muriel avec une évidente familiarité, puis demande brusquement aux joueurs de s'identifier et d'expliquer leur présence. S'il est informé que les joueurs ont été envoyés par Urwin Martikov, Davian renifle et se moque de "l'audace de ce vaurien".
+
+Davian présente brièvement chaque membre de la famille si on le lui demande. Il est également disposé à confirmer brièvement qu'Urwin Martikov est son fils, bien qu'il refuse d'en dire davantage sur leur relation.
+
+### La requête de Davian
+Après avoir appris que les joueurs ont été envoyés pour enquêter sur les retards de livraison de vin, Davian est ravi de partager les informations suivantes :
+
+
+
+* Trois jours avant que les joueurs ne reçoivent la demande d'Urwin (voir [[#J1a. Urwin's Request]] ci-dessus), quatre druides des Peuples de la Forêt ont envahi le Sorcier des Vins et en ont chassé les Martikovs. Depuis lors, Davian et sa famille se sont cachés dans cette caverne secrète.
+* Les druides sont accompagnés de plusieurs douzaines de fléaux, créés par l'Arbre Gulthias sur la Colline d'Hier, ainsi que de trois **strix supérieurs** créés par la sorcière des marais, Baba Lysaga, qui réside à Berez. Les strix patrouillent dans les airs, empêchant les Martikovs de s'échapper.
+* Davian n'est pas entièrement sûr des raisons pour lesquelles les druides ont attaqué le vignoble, pourquoi ils sont toujours à l'intérieur, ou pourquoi Baba Lysaga les aide.
+
+Un jet de Sagesse (Perspicacité) DD 12 suggère que Davian pourrait en savoir plus qu'il ne le laisse entendre, mais il refuse obstinément d'en dire plus, se contentant de noter que "La Colline d'Hier n'est pas loin d'ici. Les Peuples de la Forêt ont été de terribles voisins pendant des années, et nous n'avons pas été timides pour le leur faire savoir. On dirait que c'est leur revanche." Un deuxième jet de Sagesse (Perspicacité) DD 12 révèle qu'il ne dit pas toute la vérité ; s'il est mis au défi, Davian répond en promettant avec irritation de donner aux joueurs le "registre maudit" de sa famille s'ils se débarrassent d'abord des druides.
+
+Davian accueille l'aide des joueurs pour vaincre les druides. Si les joueurs acceptent, Davian peut partager les informations supplémentaires suivantes :
+
+* Il y a quatre druides, huit **fléaux d'aiguilles**, huit **fléaux de vignes** et bien plus d'une trentaine de **fléaux de brindilles** dans le vignoble. Les cieux au-dessus du vignoble sont gardés par trois **strix supérieurs** en patrouille, et le vignoble est gardé par un trop grand nombre de **fléaux d'aiguilles** pour être compté.
+* Le chef des druides porte un étrange bâton magique, qui semble être la source de la force des fléaux et le moyen par lequel les druides les contrôlent. Si les joueurs peuvent s'emparer du bâton et le briser, les hordes de fléaux dans le vignoble (ainsi que tous les autres fléaux dans le vignoble) seraient probablement grandement affaiblies, voire tuées sur le coup.
+* Le chemin le plus sûr pour accéder au Sorcier des Vins est un tunnel souterrain qui mène de cette caverne et débouche par une porte secrète dans la cave du vignoble. De là, les joueurs devront se faufiler ou se battre jusqu'à ce qu'ils trouvent le druide avec le bâton magique.
+
+### La Rage d'Elvir
+
+Lorsque Davian a donné leur mission aux joueurs, Claudiu marmonne - juste assez fort pour être entendu - "Qu'est-ce que ça peut bien faire ? Ils vont mourir de toute façon."
+
+Si les joueurs n'interviennent pas, la séquence suivante se déroule alors :
+
+* Stefania gronde Claudiu et lui ordonne de s'excuser auprès des joueurs. (Elle jette un regard vers les joueurs et s'excuse immédiatement du comportement de son fils.)
+* Après que les joueurs ont répondu, Elvir approuve bruyamment que les joueurs perdent leur temps, et qu'il n'y a aucune possibilité qu'ils soient assez forts pour vaincre les serviteurs "du vampire". Il lance un regard malveillant aux joueurs, comme pour les défier d'être en désaccord.
+* Alors que les joueurs répondent, Adrian tente de calmer Elvir, insistant sur le fait que "ce n'est pas comme avec Elric". Elvir grogne à l'encontre d'Adrian : "Ne prononce pas son nom !", et Davian crie à tous ses enfants de se taire, jurant qu'il "ne tolérera plus la désobéissance dans cette maison".
+* Elvir réplique en insistant que Davian "a chassé Elric, tout comme il l'a fait avec Urwin". Le visage de Davian rougit, et il crie : "*Assez !*"
+* Elvir grogne, se retourne et s'assoit en tailleur dans une alcôve humide, loin du reste de la famille, face au mur. Stefania et Adrian viennent se placer de part et d'autre de Davian et l'engagent dans des chuchotements, tous deux ayant l'air accablés.
+
+Les joueurs peuvent remarquer que Claudiu a l'air pâle et vaguement coupable, et que le teint de Muriel est devenu blafard, son visage prenant l'apparence d'un masque de pierre illisible.
+
+
+
+Alors que la famille se divise, Dag s'approche des joueurs et les salue avec un sourire penaud. D'une voix basse, il s'excuse du comportement de ses beaux-parents et promet qu'ils sont de bonnes personnes "une fois qu'on les connaît".
+
+Dag peut partager les informations suivantes s'il est interrogé :
+
+* Il y a dix ans, quelqu'un a volé quelque chose de précieux au vignoble alors qu'Urwin Martikov était de garde. Davian a accusé Urwin du vol, convaincu qu'il flirtait avec sa fiancée, Danika Dorakova, au lieu de faire attention. Davian et Urwin ont eu une violente dispute le lendemain matin, qui s'est terminée par le départ d'Urwin pour Vallaki. Urwin n'est jamais revenu, et Davian n'a jamais récupéré ce qui avait été volé, ni trouvé le coupable. (Si on lui demande ce qui a été volé, Dag dit seulement que c'était une pierre précieuse, un héritage familial prisé et l'une des possessions les plus chères de Davian).
+* Il y a un peu plus de trois mois, Elric Martikov, le frère jumeau d'Elvir et le fiancé de Muriel, a rejoint une rébellion dans le village de Barovia qui a marché sur le château de Ravenloft. Elric avait toujours été plein d'espoir et optimiste, un rêveur qui croyait en un avenir meilleur pour ses proches. Davian lui avait interdit d'y aller et lui avait ordonné de ne jamais revenir s'il désobéissait. Les mots de Davian se sont réalisés : Elric est mort au château, et sa mort a une fois de plus brisé la famille Martikov.
+* Claudiu était particulièrement proche de ses deux plus jeunes oncles, et surtout d'Elric. Lui et Elvir n'ont pas bien vécu la mort d'Elric, tous deux sombrant dans un désespoir mélancolique, Elvir s'en prenant à quiconque s'attire ses foudres.
+
+Si on l'interroge, Muriel confirme dans un murmure rauque et silencieux qu'Elric "nous inspirait tous", mais qu'elle - et la famille d'Elric - ont dû apprendre à se débrouiller sans lui. Elle s'excuse ensuite et va s'asseoir à côté d'Elvir.
+
+> [!abstract]+ **Parler avec Elvir**
+> Si les joueurs s'approchent pour parler à Elvir, il les ignore, fixant le mur de la caverne pendant une minute complète. Il demande ensuite d'une voix rauque pourquoi ils sont venus au vignoble, insistant sur le fait qu'il ne reste plus rien à y trouver pour eux ou qui que ce soit d'autre. Si les joueurs font preuve de gentillesse et de compassion envers Elvir, ils peuvent alléger quelque peu son humeur avec un jet de Charisme (Persuasion) de DD 15. Sinon, il leur demande fermement mais poliment de le laisser tranquille, d'une voix tendue et râpeuse.
+>  
+> Si les joueurs se mettent dans les bonnes grâces d'Elvir et lui parlent d'Elric, Elvir leur dit qu'Elric était un fou qui a abandonné sa famille, et qu'il "a eu ce qu'il méritait". Un jet de Sagesse (Perspicacité) de DD 10 révèle qu'Elvir est mal à l'aise avec la dureté de ses paroles et ne semble pas les croire entièrement. Les joueurs peuvent convaincre Elvir de révéler ses véritables sentiments avec un jet de Charisme (Persuasion) de DD 20 ; sinon, il secoue la tête et nie fermement toute signification plus profonde.
+
+### Dans le tunnel
+Après que les joueurs ont parlé avec Dag et les autres Martikovs à leur convenance, Davian et Stefania les approchent. Davian s'excuse auprès des joueurs pour le comportement d'Elvir et, sur les douces remontrances de Stefania, pour sa propre éclatement également.
+
+Si les joueurs sont toujours prêts à entrer dans le vignoble pour vaincre les druides à l'intérieur, Davian peut partager les derniers avertissements suivants :
+
+* Premièrement, Davian partage que le tunnel qui mène à la cave passe à travers une caverne remplie de **moisissure brune**, que les Martikovs utilisent pour garder le vin stocké dans la cave au frais. Davian conseille aux joueurs de rester sur le chemin au centre de la moisissure, et de ne pas s'approcher, attaquer ou toucher la moisissure de peur qu'elle ne leur fasse du mal.
+
+* Deuxièmement, Davian avertit que les druides peuvent invoquer la force du tonnerre pour vaincre leurs ennemis. Si les joueurs ne parviennent pas à battre rapidement un druide individuel qu'ils rencontrent, le son de leur tonnerre pourrait alerter les autres, les appelant à défendre le premier. (C'est également vrai pour les sorts bruyants que les joueurs pourraient utiliser, donc Davian les avertit de rester silencieux pour éviter d'être détectés. Cependant, Davian est raisonnablement confiant que le son de la tempête devrait aider à couvrir les bruits d'un combat ordinaire.)
+
+* Troisièmement, Davian rappelle aux joueurs que la vinerie est une vieille structure en bois. Si certains des joueurs semblent être des lanceurs de sorts, Davian leur fait promettre de ne pas la mettre accidentellement en feu "comme un bloody idiot enflammé".
+
+Davian informe également les joueurs de l'existence d'une cache d'urgence qu'il avait gardée dans la vinerie, mais qu'il n'a pas pu récupérer avant que les druides ne les en chassent. La cache, qui est cachée dans le tonneau le plus proche du coin nord-ouest dans une salle de stockage au rez-de-chaussée de la vinerie, contient des fournitures médicales et d'autres objets que les joueurs pourraient trouver utiles. (Davian ne se souvient pas exactement de ce qu'il a laissé dans la cache, mais invite les joueurs à en garder tout le contenu pour eux-mêmes - en supposant, bien sûr, que les druides ne l'aient pas déjà trouvée et pillée.)
+
+
 
 <div class="description">
-<p>The archway gives way to a stonework tunnel, which seemingly terminates at a blank brick wall fifteen feet beyond. </p>
-<p>Brown mold has filled this cramped corridor, with more recent growths covering the floor, walls, and ceiling around it—except in one place. A short way down the tunnel, a small wooden box covered with old, peeling paint hangs from a rusted iron hook. The box is painted a pale, frigid blue, and has the design of a snowflake carved into its side. A six-inch bare patch covers the wall around the box, with nary a spore of mold nearby.</p>
+<p>Le tunnel avance silencieusement à travers la terre, un mince voile de brume s'accrochant au sol tandis qu'il plonge plus profondément dans l'obscurité. Plus vous avancez, plus il fait froid, votre souffle se condensant dans l'air. L'humidité s'accumulant dans les recoins et les anfractuosités du tunnel cède progressivement la place à des plaques de glace, dont les surfaces fragiles se fendent et craquent sous vos bottes.</p>
+<p>Le tunnel s'ouvre bientôt sur une caverne peu profonde et glaciale. Une épaisse moisissure brune tapisse les murs, le sol et le plafond, son étendue n'étant interrompue que par un étroit chemin de terre qui traverse le sol jusqu'à une sombre arche de pierre à l'extrémité opposée.</p>
 </div>
 
-The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
-
-A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **winter wolf** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
-
-A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging to one or more **winter wolves.** A player looking to identify a tooth’s properties must study it for 1 minute and make a DC 10 Intelligence (Arcana) check, succeeding automatically by taking ten times as long. On a success, the player learns that the tooth bears the following properties:
-
-* A creature can use their action to pierce their stomach with the tooth. That creature can then immediately exhale a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
-* A creature can use their action to pierce their bicep with the tooth. That creature gains immunity to cold damage for 1 minute.
-
-The tooth dissipates into frigid mist if either of these properties are used.
-## J3b. Into the Winery
-<span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
-
-The wine cellar is largely as described in <span class="citation">W14. Wine Cellar (p. 178)</span>. However, modify the descriptive text to read as follows:
+Cette zone est décrite dans <span class="citation">W15. Moisissure brune (p. 178)</span>. Si les joueurs s'approchent de l'arche, lisez :
 
 <div class="description">
-<p>Wooden pillars and beams support the ten-foot-high ceiling of this unseasonably warm cellar, which is split in two by a five-foot-thick brick wall. A thick, humid mist curls across the floor, which is criss-crossed by tiny black roots.</p>
+<p>L'arche donne sur un tunnel de pierre qui semble se terminer par un mur de briques à quinze pieds au-delà.</p>
+<p>De la moisissure brune a envahi ce couloir exigu, avec des croissances plus récentes recouvrant le sol, les murs et le plafond autour – sauf à un endroit. Un peu plus loin dans le tunnel, une petite boîte en bois recouverte d'une vieille peinture écaillée pend à un crochet en fer rouillé. La boîte est peinte d'un bleu pâle et glacial, et comporte le motif d'un flocon de neige sculpté sur le côté. Une zone nue de six pouces entoure la boîte sur le mur, sans la moindre spore de moisissure à proximité.</p>
 </div>
 
-As the players step into the cellar, read:
+Les joueurs ne peuvent pas progresser en toute sécurité dans le tunnel sans d'abord détruire la moisissure brune qui l'obstrue. Un joueur qui réussit un jet d'Intelligence (Nature) CD 10 pour se rappeler des informations sur la moisissure brune apprend les informations décrites dans <span class="citation">Moisissure brune (<em>Guide du Maître</em>, p. 105</span>).
+
+Un joueur qui lance *détecter la magie* remarque que trois petits objets à l'intérieur de la boîte brillent d'une magie de transmutation. Si les joueurs récupèrent la boîte – qui est fixée au mur à cinq pieds dans le couloir – par magie ou par d'autres moyens, ils trouvent qu'elle contient trois dents de **loup d'hiver**, chacune mesurant six pouces de long, froide au toucher et gravée d'inscriptions runiques complexes. (Les dents ont été obtenues, sculptées et enchantées par les Gens des Montagnes, qui les ont vendues à Davian il y a de nombreuses années.)
+
+Un jet d'Intelligence (Nature) CD 15 réussi identifie les dents comme appartenant à un ou plusieurs **loups d'hiver**. Un joueur cherchant à identifier les propriétés d'une dent doit l'étudier pendant 1 minute et réussir un jet d'Intelligence (Arcanes) CD 10, réussissant automatiquement en prenant dix fois plus de temps. En cas de succès, le joueur apprend que la dent possède les propriétés suivantes :
+
+* Une créature peut utiliser son action pour se percer l'estomac avec la dent. Cette créature peut alors immédiatement exhaler un souffle de vent glacial dans un cône de 4,5 mètres. Chaque créature dans cette zone doit réussir un jet de sauvegarde de Dextérité CD 12, subissant 18 (4d8) dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
+* Une créature peut utiliser son action pour se percer le biceps avec la dent. Cette créature devient immunisée aux dégâts de froid pendant 1 minute.
+
+La dent se dissipe en une brume glaciale si l'une de ces propriétés est utilisée.
+
+## J3b. Dans la Vinerie
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 12, Zone W14.</em></span>
+
+La cave à vin est largement telle que décrite dans <span class="citation">W14. Cave à vin (p. 178)</span>. Cependant, modifiez le texte descriptif comme suit :
 
 <div class="description">
-<p>Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half-filled with wine bottles. Both racks are covered by a thick, choking tangle of vines, interwoven with strands of green ivy bearing blood-red spots and sharp, wicked thorns.</p>
-<p>You see several silhouettes move behind the eastern rack—including one with a full rack of antlers.</p>
+<p>Des piliers et des poutres en bois soutiennent le plafond de 3 mètres de cette cave anormalement chaude, qui est divisée en deux par un mur de briques épais de 1,5 mètre. Une épaisse brume humide serpente sur le sol, qui est quadrillé de minuscules racines noires.</p>
 </div>
 
-> [!lore]+ **Druidic Decorations**
-> The druids and **berserkers** of the Forest Folk can be identified by the animal hides and wooden jewelry that they wear, as well as the blood-red dye that they use to paint their bodies. **Druid naturalists** use it to paint rings around their eyes, while **druid assailants** paint vampiric fangs beneath their lips. **Berserkers** of the Forest Folk use the dye to paint rings of thorns around their forearms and calves.
+Quand les joueurs entrent dans la cave, lisez :
 
-A player who inspects the roots can easily discern that they appear to be originating from the upper floors of the winery.
+<div class="description">
+<p>Chaque moitié de la cave présente une cloison en bois de huit pieds de haut qui sert également de casier à vin. Le casier ouest est vide, mais celui de l'est est à moitié rempli de bouteilles de vin. Les deux casiers sont recouverts d'un épais enchevêtrement étouffant de vignes, entrelacées avec des brins de lierre vert portant des taches rouge sang et des épines acérées et malfaisantes.</p>
+<p>Vous voyez plusieurs silhouettes bouger derrière le casier est, dont une avec un plein rack de bois de cerf.</p>
+</div>
 
-The antlered silhouette, which stands closest to the players' entry point, is a **druid assailant**, and is accompanied by eight **needle blights**. If the players are moving quietly, they can try to sneak past or ambush the druid and blights. (However, because the blights have blindsight, the *invisibility* spell and similar magic won’t work to conceal the players from the blights’ vision.)
+> [!lore]+ **Décorations druidiques**
+> Les druides et **berserkers** du Peuple de la Forêt peuvent être identifiés par les peaux d'animaux et les bijoux en bois qu'ils portent, ainsi que par la teinture rouge sang qu'ils utilisent pour peindre leurs corps. Les **naturalistes druides** l'utilisent pour peindre des anneaux autour de leurs yeux, tandis que les **assaillants druides** peignent des crocs vampiriques sous leurs lèvres. Les **berserkers** du Peuple de la Forêt utilisent la teinture pour peindre des anneaux d'épines autour de leurs avant-bras et de leurs mollets.
+
+Un joueur qui inspecte les racines peut facilement discerner qu'elles semblent provenir des étages supérieurs de la vinerie.
+
+La silhouette avec les bois de cerf, la plus proche du point d'entrée des joueurs, est un **assaillant druide**, et est accompagnée de huit **aiguilles végétales**. Si les joueurs se déplacent discrètement, ils peuvent essayer de passer furtivement ou de tendre une embuscade au druide et aux aiguilles végétales. (Cependant, comme les aiguilles végétales ont une vision aveugle, le sort *invisibilité* et autres magies similaires ne fonctionneront pas pour dissimuler les joueurs à leur vue.)
 
 <div class="statblock">
-    <h2>Druid Assailant</h2>
-    <em>Medium human, neutral evil</em>
+    <h2>Assaillant Druide</h2>
+    <em>Humain de taille moyenne, mauvais neutre</em>
     <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
+    <strong>Classe d'Armure</strong> 11 (16 avec <em>écorce d'arbre</em>)
     <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
+    <strong>Points de vie</strong> 55 (10d8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Vitesse</strong> 9 m
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
+                <th>FOR</th>
                 <th>DEX</th>
                 <th>CON</th>
                 <th>INT</th>
-                <th>WIS</th>
+                <th>SAG</th>
                 <th>CHA</th>
             </tr>
         </thead>
@@ -452,162 +483,138 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Compétences</strong> Médecine +4, Nature +3, Perception +4<br>
+    <strong>Sens</strong> Perception passive 14<br>
+    <strong>Langues</strong> Druidique et Commun<br>
+    <strong>Niveau de Menace</strong> 2<br>
+    <strong>Bonus de maîtrise</strong> +2
     <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
+    <p><strong><em>Incantation.</em></strong> Le druide est un lanceur de sorts de niveau 4. Son aptitude à l'incantation est la Sagesse (jet de sauvegarde contre les sorts DD 12, +4 pour toucher avec les attaques de sort). Il a les sorts de druide suivants préparés :</p>
     <ul>
-        <li>Cantrips (at will): produce flame, shillelagh, thorn whip</li>
-        <li>1st level (4 slots): faerie fire, longstrider, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, darkvision</li>
+        <li>Tours de magie (à volonté) : flamme nourrie, bâton de mage, fouet épineux</li>
+        <li>Niveau 1 (4 emplacements) : feu follet, longue marche, parler avec les animaux, vague tonnante</li>
+        <li>Niveau 2 (3 emplacements) : écorce d'arbre, vision dans le noir</li>
     </ul>
     <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> The druid makes two attacks with its <em>quarterstaff.</em></p>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit (+4 to hit with <em>shillelagh</em>), reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with <em>shillelagh</em>.</p>
+    <p><strong><em>Attaques multiples.</em></strong> Le druide effectue deux attaques avec son <em>bâton-quartier.</em></p>
+    <p><strong><em>Bâton-quartier.</em></strong> <em>Attaque d'arme au corps à corps :</em> +2 pour toucher (+4 pour toucher avec <em>bâton de mage</em>), allonge 1,5 m, une cible. <em>Touché :</em> 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est manié à deux mains, ou 6 (1d8 + 2) dégâts contondants avec <em>bâton de mage</em>.</p>
     <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
+    <p><strong><em>Vitesse de la vipère.</em></strong> Le druide lance un sort qu'il connaît avec un temps d'incantation d'une action. (Le druide ne peut pas lancer un autre sort durant le même tour, à l'exception d'un tour de magie avec un temps d'incantation d'une action.)</p>
+    <h3>Réactions</h3>
+    <p><strong><em>Don du Gulthias.</em></strong> En réponse à une attaque d'une créature qu'il peut voir, le druide lance <em>écorce d'arbre</em>, à condition qu'il lui reste un emplacement de sort de niveau 2. (Le sort ne nécessite pas de concentration lorsqu'il est lancé de cette manière.)</p>
 </div>
 
-The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
+Le druide et les pestes attaquent à vue. À leur premier tour au combat, le druide utilise sa capacité ***vitesse de la vipère*** pour lancer le sort *feu follet* en bonus d'action, suivi d'une ***attaque multiple*** en action. À leur deuxième tour, le druide lance *vague tonnante* au niveau 2 en bonus d'action, suivi d'une autre ***attaque multiple*** en action.
 
-> [!combat]- **Balancing the Cellar**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 1 ally (Ireena Kolyana), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the number of needle blights to four.
-> * ***Four Players.*** Reduce the number of needle blights to six.
-> * ***Six Players.*** Increase the number of needle blights to ten.
+> [!combat]- **Équilibrer la Cave**
+> Cette rencontre de combat est une rencontre de combat **éprouvante** pour un groupe de cinq joueurs de niveau 5, avec un allié CR 1 (Ireena Kolyana), et consommera environ 31% de leurs points de vie maximum. Pour des groupes de tailles plus petites ou plus grandes, modifiez la rencontre comme suit :
+>
+> * ***Trois Joueurs.*** Réduisez le nombre de pestes-aiguilles à quatre.
+> * ***Quatre Joueurs.*** Réduisez le nombre de pestes-aiguilles à six.
+> * ***Six Joueurs.*** Augmentez le nombre de pestes-aiguilles à dix.
 
-> [!info]+ **Alerting the Druids**
-> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
-> 
-> | No. of Rounds Later | Origin | Creatures |
+
+
+> [!info]+ **Alerter les druides**
+> Si un druide ou un joueur lance un sort - comme *vague de tonnerre*, *fracasser* ou *boule de feu* - assez bruyant et explosif pour alerter les autres druides dans la vinaigrerie, les druides et les fléaux des étages supérieurs se joignent à la bataille comme indiqué ci-dessous :
+>
+> | Nbr de rounds plus tard | Origine | Créatures |
 > | :---:|:----:|:---|
-> |1| - |None|
-> |2|[[#Fermentation Vats]]|2 **swarms of twig blights**|
-> |3|[[#Fermentation Vats]]|1 **druid naturalist** and 2 **elder twig blights**|
-> |4| - |None|
-> |5| [[#Printing Press]]|1 **druid assailant** and 3 **vine blights**|
-> 
-> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
-> 
-> If the druid and blights in the cellar are alerted by loud or explosive sounds from [[#Fermentation Vats]], the needle blights join the combat after two rounds, and the druid joins the combat after three rounds. If the fighting is taking place elsewhere in the winery, increase the number of rounds by one each.
+> |1| - |Aucune|
+> |2|[[#Cuves de fermentation]]|2 **nuées de fléaux de ramilles**|
+> |3|[[#Cuves de fermentation]]|1 **druide naturaliste** et 2 **fléaux de ramilles aînés**|
+> |4| - |Aucune| 
+> |5| [[#Presse à imprimer]]|1 **druide assaillant** et 3 **fléaux de vignes**|
+>
+> Ni les fléaux de la [[#Zone de chargement]], ni Lorghoth et le **grand strix** de la [[#Treuil de chargement]] ne quittent leurs positions si l'alarme est donnée, préférant s'occuper du **jeune Arbre de Gulthias** qui y pousse.
+>
+> Si le druide et les fléaux de la cave sont alertés par des bruits forts ou explosifs provenant des [[#Cuves de fermentation]], les fléaux d'aiguilles se joignent au combat après deux rounds, et le druide rejoint le combat après trois rounds. Si les combats ont lieu ailleurs dans la vinaigrerie, augmentez le nombre de rounds d'un à chaque fois.
 
-The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
+Le lierre recouvrant les casiers à vin est un type particulièrement vicieux de vigne carnivore appelée **vigne-rasoir empoisonnée**. Chaque masse de vigne-rasoir empoisonnée a une CA 11, 25 points de vie et l'immunité aux dégâts contondants, perforants et psychiques.
 
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
-## J3c. Ascending the Stairs
-The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 177)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
+Lorsqu'une créature autre qu'un fléau, un **druide naturaliste** ou un **druide assaillant** s'approche à 1,5 mètre d'un enchevêtrement ou commence son tour à cet endroit, la vigne-rasoir se déploie comme un fouet vers elle. Cette créature doit réussir un jet de sauvegarde de Dextérité DD 10 ou subir 5 (1d10) dégâts tranchants des épines tranchantes de la vigne-rasoir. En cas d'échec, cette créature est aussi empoignée (DD 10 pour se libérer) et doit réussir un jet de sauvegarde de Constitution DD 10 ou être empoisonnée jusqu'au début de son prochain tour.
 
-As the players climb the spiral staircase or back staircase toward the first floor, read:
+## J3c. Monter les escaliers
+Les trois sorties de la cave sont largement décrites dans <span class="citation">W11. Escalier en colimaçon (p. 177)</span>, <span class="citation">W12. Rampe (p. 177)</span>, <span class="citation">W13. Escalier arrière (p. 177)</span> et <span class="citation">W10. Atelier de souffleur de verre (p. 177)</span>. Cependant, la rampe est complètement remplie de vigne-rasoir empoisonnée de la cave jusqu'au dernier étage, obstruant ainsi l'ascension des joueurs par cette voie.
+
+Alors que les joueurs grimpent l'escalier en colimaçon ou l'escalier arrière vers le premier étage, lisez :
 
 <div class="description">
-<p>The air grows steadily warmer as you approach the upper floors, your boots treading softly across the soft, supple bed of black roots that cascade across the stairs.</p>
-<p>As you approach the first landing, the silence is pierced by a haunting, desperate scream, which is followed soon after by the rustling of many feathers.</p>
+<p>L'air se réchauffe progressivement à mesure que vous approchez des étages supérieurs, vos bottes foulant doucement le lit moelleux de racines noires qui se déversent dans les escaliers.</p>
+<p>À l'approche du premier palier, le silence est percé par un cri désespéré et terrifiant, suivi peu après par le bruissement de nombreuses plumes.</p>
 </div>
 
-### Fermentation Vats
-<span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
+### Cuves de fermentation
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 12, Zone W9.</em></span>
 
-The scream originates from the large room containing the winery’s fermenation vats, which is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>. However, remove the final two sentences of the room’s description. If the players have entered the room from <span class="citation">W10. Glassblower's Workshop (p. 177)</span> or have entered the chamber fully, also read the following text:
+Le cri provient de la grande salle contenant les cuves de fermentation de la vinaigrerie, qui est en grande partie décrite dans <span class="citation">W9. Cuves de fermentation (p. 176)</span>. Cependant, supprimez les deux dernières phrases de la description de la pièce. Si les joueurs sont entrés dans la salle depuis <span class="citation">W10. Atelier de souffleur de verre (p. 177)</span> ou sont complètement entrés dans la pièce, lisez également le texte suivant :
 
 <div class="description">
-<p>Beneath the sloping roof stretch thick rafters, from which hang six wooden cages arranged side-by-side. Each cage holds more than a dozen ravens crammed together, with little space to move or breathe. Most of the ravens bear cuts or broken beaks, and all of them are missing feathers.</p>
-<p>A wild-looking female figure stands on the western balcony beside the leftmost cage, surrounded by a swarm of nearly two-dozen small, twiglike creatures. She holds a long, gnarled wand in her hand, and wears a gown made of animal skins and a headdress with goat horns. </p>
-<p>Two twiglike creatures, slightly larger than the others, cling to the sides of the wooden cage before her, their sharp, pointed arms pushed through the bars of the cage. The woman nods, and the creatures pierce the sides of a battered-looking raven, which screams again in helpless agony.</p>
+<p>Sous le toit en pente s'étendent d'épaisses poutres, d'où pendent six cages en bois disposées côte à côte. Chaque cage abrite plus d'une douzaine de corbeaux entassés, avec peu d'espace pour bouger ou respirer. La plupart des corbeaux portent des coupures ou des becs cassés, et tous manquent de plumes.</p>
+<p>Une figure féminine à l'allure sauvage se tient sur le balcon ouest à côté de la cage la plus à gauche, entourée d'un essaim d'une vingtaine de petites créatures semblables à des brindilles. Elle tient une longue baguette noueuse dans sa main et porte une robe faite de peaux d'animaux et un couvre-chef avec des cornes de chèvre.</p>
+<p>Deux créatures semblables à des brindilles, légèrement plus grandes que les autres, s'accrochent aux côtés de la cage en bois devant elle, leurs bras pointus et acérés traversant les barreaux de la cage. La femme hoche la tête et les créatures percent les côtés d'un corbeau à l'air battu, qui pousse de nouveau un cri d'agonie impuissante.</p>
 </div>
 
-The woman is a **druid naturalist** (see statistics below) and is surrounded by two **swarms of twig blights**. The two creatures clinging to the cage are **elder twig blights**. 
+La femme est une **druide naturaliste** (voir les statistiques ci-dessous) et est entourée de deux **nuées de brindilles maudites**. Les deux créatures accrochées à la cage sont des **brindilles maudites aînées**.
 
-> [!abstract]+ **The Raven's Interrogation**
-> If the players linger and remain undetected, they can hear the druid (using the spell *speak with animals*) speak to the battered raven with a series of caws and clicks. A player who uses similar magic to understand the speech of ravens hears the following conversation:
-> 
-> <hr>
-> 
-> The druid hisses. “Where is it?" she asks. “Give it up, and your torment will end."
-> 
-> The raven cackles weakly, blood dripping from the corkscrew wounds upon its breast. “The thing you seek was lost long ago. You will never find it."
-> 
-> The druid snarls, baring her teeth. “Liar!" She turns to the twig creatures and speaks two words in a strange language. The creatures incline their heads, then turn to pierce the raven’s sides again.
-> <hr>
-> 
-> A player who speaks Druidic recognizes the druids’ words as: “Hurt him."
 
-If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named Silvia, knows the following information, which she can share as a means of luring the players into a false sense of security:
 
-* The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
-* The “feathered ones" have powerful magic here—magic that the Forest Folk seek to restore to its rightful place. (Silvia is referring to the Keepers of the Feather and the third enchanted gem, which she describes as “the seed of the pine tree, wrought in crystal stone.")
-* Silvia is torturing the raven because it is a servant of the “feathered ones," and therefore knows where the magic seed may be kept. (Silvia is mistaken.)
-* The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to Baba Lysaga.) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia hesitates slightly in delivering her words.)
+Silvia invite les joueurs à s'approcher de la cage du corbeau et à voir "la marque de la nuit" sur sa poitrine, qui marque tous les serviteurs de Strahd. (C'est un piège destiné à attirer les joueurs à découvert. Un joueur qui réussit un jet de Sagesse (Perspicacité) de DD 10 remarque que les yeux de Silvia se tournent vers les horreurs de ramées autour d'elle lorsqu'elle demande aux joueurs de s'approcher.)
 
-Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Wisdom (Insight) check notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
+La cuve de fermentation juste à l'ouest de l'escalier central du W9. Cuves de fermentation (p. 176) a un robinet endommagé. La première fois qu'un joueur s'en approche, lisez :
 
-> [!info]+ **The Broken Spigot**
-> The fermentation vat to the immediate west of the central staircase of <span class="citation">W9. Fermentation Vats (p. 176)</span> has a damaged spigot. The first time that a player approaches it, read:
-> 
-> <hr>
-> 
-> The wood of this vat bulges out around a badly dented spigot, the splintered wood straining against the weight of the contents within. A thin line of red, sweet-smelling wine leaks from a small gap where the spigot meets the wood, pooling on the ground two feet below.
-> 
-> <hr>
-> 
-> In its current state, the damaged spigot has AC 10, 5 hit points, and immunity to piercing, poison, and psychic damage. If the spigot is reduced to 0 hit points, or if a creature successfully makes a DC 10 Strength check to break the spigot while within 5 feet, the vat bursts and releases a wave of wine that crashes down upon all creatures in a 15-foot cube to the north of the vat.
-> 
-> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat and takes 7 (2d6) bludgeoning damage. (A swarm of Small or smaller creatures, such as the **swarm of twig blights**, must also make the saving throw.)
-> 
-> Once the vat bursts, all ground within a 20-foot radius becomes difficult terrain until the wine is cleaned up.
+Le bois de cette cuve gonflée autour d'un robinet très cabossé, le bois fendu se tendant sous le poids du contenu à l'intérieur. Une fine ligne de vin rouge au parfum sucré fuit d'un petit espace où le robinet rejoint le bois, formant une flaque sur le sol à 60 cm en dessous.
 
-Silvia attacks if the players approach the cage, refuse her invitation, or attack her first. 
+Dans son état actuel, le robinet endommagé a une CA 10, 5 points de vie et l'immunité aux dégâts perforants, de poison et psychiques. Si le robinet est réduit à 0 point de vie, ou si une créature réussit un jet de Force de DD 10 pour briser le robinet à 1,5 m ou moins, la cuve éclate et libère une vague de vin qui s'abat sur toutes les créatures dans un cube de 4,5 m au nord de la cuve.
 
-* On her first turn in combat, she uses her ***speed of the adder*** feature to cast the *entangle* spell as a bonus action, followed by a cantrip as her action. 
-* On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
+Lorsque cela se produit, chaque créature de Petite taille ou inférieure dans cette zone doit effectuer un jet de sauvegarde de Force de DD 15. En cas d'échec, cette créature est repoussée de 4,5 m de la cuve et subit 7 (2d6) dégâts contondants. (Un essaim de créatures de Petite taille ou inférieure, comme l'essaim d'horreurs de ramées, doit également effectuer le jet de sauvegarde.)
 
-> [!info]+ **Alerting the Druids**
-> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
-> 
-> | No. of Rounds Later | Origin | Creatures |
-> | :---:|:----:|:---|
-> |1| - |None|
-> |2| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
-> 
-> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+Une fois la cuve éclatée, tout le sol dans un rayon de 6 m devient un terrain difficile jusqu'à ce que le vin soit nettoyé.
 
-> [!combat]- **Balancing the Vat Room**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
-> * ***Four Players.*** Reduce the number of elder twig blights to one.
-> * ***Six Players.*** Increase the number of swarms of twig blights to three.
+Silvia attaque si les joueurs s'approchent de la cage, refusent son invitation ou l'attaquent en premier.
 
-Because she has previously cast *speak with animals*, Silvia has only three 1st-level spell slots remaining at the beginning of combat.
+* À son premier tour au combat, elle utilise sa capacité Vitesse de la vipère pour lancer le sort Enchevêtrement en une action bonus, suivie d'un tour de magie en action.
+* À son deuxième tour, elle lance Vague tonnante au niveau 2 en action bonus.
 
-As she dies, Silvia laughs and warns the players, “You may defeat us—but Wintersplinter is coming."        
+Si un druide ou un joueur lance un sort - comme Vague tonnante, Fracasser ou Boule de feu - assez bruyant et explosif pour alerter les autres druides de la vinerie, les druides et les horreurs des étages supérieurs se joignent au combat comme indiqué ci-dessous :
 
-If the players free the ravens from their cages, they join the party as a **swarm of ravens**, led by the raven that Silvia was torturing.
+| Tours plus tard | Origine | Créatures |
+| :---:|:----:|:---|
+|1| - |Aucune|
+|2| Imprimerie|1 assaillant druide et trois horreurs de ronces|
+
+Ni les horreurs du Quai de chargement ni Lorghoth et la grande strix du Treuil de chargement ne quitteront leurs positions si l'alarme est donnée, préférant s'occuper du jeune Arbre de Gulthias qui y pousse.
+
+Ce combat est un affrontement rude contre un groupe de cinq joueurs de niveau 5 et un allié de CR 2 (Ireena Kolyana), et consommera environ 33% de leurs points de vie maximum totaux. Pour des groupes de taille inférieure ou supérieure, modifiez l'affrontement comme suit :
+
+* Trois joueurs. Remplacez les horreurs de ramées âgées par des horreurs de ramées ordinaires.
+* Quatre joueurs. Réduisez le nombre de horreurs de ramées âgées à une.
+* Six joueurs. Augmentez le nombre d'essaims de horreurs de ramées à trois.
+
+Comme elle a déjà lancé Parler aux animaux, Silvia ne dispose plus que de trois emplacements de sorts de niveau 1 au début du combat.
+
+En mourant, Silvia rit et prévient les joueurs : "Vous pouvez nous vaincre - mais Wintersplinter arrive."     
+
+Si les joueurs libèrent les corbeaux de leurs cages, ils se joignent au groupe sous la forme d'un essaim de corbeaux, mené par le corbeau que Silvia torturait.
 
 <div class="statblock">
-    <h2>Druid Naturalist</h2>
-    <em>Medium human, neutral evil</em>
+    <h2>Druide Naturaliste</h2>
+    <em>Humain de taille moyenne, neutre mauvais</em>
     <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
+    <strong>Classe d'Armure</strong> 11 (16 avec <em>écorce de bois</em>)
     <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
+    <strong>Points de vie</strong> 55 (10d8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Vitesse</strong> 9 m
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
+                <th>FOR</th>
                 <th>DEX</th>
                 <th>CON</th>
                 <th>INT</th>
-                <th>WIS</th>
+                <th>SAG</th>
                 <th>CHA</th>
             </tr>
         </thead>
@@ -623,46 +630,44 @@ If the players free the ravens from their cages, they join the party as a **swar
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Compétences</strong> Médecine +4, Nature +3, Perception +4<br>
+    <strong>Sens</strong> Perception passive 14<br>
+    <strong>Langues</strong> Druidique et Commun<br>
+    <strong>Défi</strong> 2<br>
+    <strong>Bonus de maîtrise</strong> +2
     <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
+    <p><strong><em>Incantation.</em></strong> Le druide est un lanceur de sorts de niveau 4. Son pouvoir d'incantation est la Sagesse (jet de sauvegarde contre les sorts DD 12, +4 pour toucher avec les attaques de sort). Il a les sorts de druide suivants préparés :</p>
     <ul>
-        <li>Cantrips (at will): gust, infestation, produce flame</li>
-        <li>1st level (4 slots): entangle, fog cloud, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, moonbeam</li>
+        <li>Tours de magie (à volonté) : rafale, infestation, flammes nourricières</li>
+        <li>Niveau 1 (4 emplacements) : les liens végétaux, nuage de brume, parler avec les animaux, vague tonnante</li>
+        <li>Niveau 2 (3 emplacements) : écorce de bois, rayon de lune</li>
     </ul>
     <h3>Actions</h3>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if wielded with two hands.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
+    <p><strong><em>Bâton de moine.</em></strong> <em>Attaque d'arme au corps-à-corps :</em> +2 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 3 (1d6) dégâts contondants, ou 4 (1d8) dégâts contondants s'il est manié à deux mains.</p>
+    <h3>Actions bonus</h3>
+    <p><strong><em>Vitesse de la vipère.</em></strong> Le druide lance un sort qu'il connaît avec un temps d'incantation d'une action. (Le druide ne peut pas lancer un autre sort pendant le même tour, à l'exception d'un tour de magie avec un temps d'incantation d'une action.)</p>
+    <h3>Réactions</h3>
+    <p><strong><em>Don du Gulthias.</em></strong> En réponse à une attaque d'une créature qu'il peut voir, le druide lance <em>écorce de bois</em>, à condition qu'il lui reste un emplacement de sort de niveau 2. (Le sort ne nécessite pas de concentration lorsqu'il est lancé de cette manière.)</p>
 </div>
 
-<br>
-
 <div class="statblock">
-    <h2>Elder Twig Blight</h2>
-    <em>Medium Plant, Neutral Evil</em>
+    <h2>Antique Flétrissure de Brindille</h2>
+    <em>Plante de taille moyenne, Neutre Mauvais</em>
     <hr>
-    <strong>Armor Class</strong> 14
+    <strong>Classe d'Armure</strong> 14
     <br>
-    <strong>Hit Points</strong> 66 (12d8 + 12)
+    <strong>Points de vie</strong> 66 (12d8 + 12)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Vitesse</strong> 9 m
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
+                <th>FOR</th>
                 <th>DEX</th>
                 <th>CON</th>
                 <th>INT</th>
-                <th>WIS</th>
+                <th>SAG</th>
                 <th>CHA</th>
             </tr>
         </thead>
@@ -678,41 +683,39 @@ If the players free the ravens from their cages, they join the party as a **swar
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Stealth +3<br>
-    <strong>Damage Vulnerabilities</strong> fire<br>
-    <strong>Condition Immunities</strong> blinded, deafened<br>
-    <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
-    <strong>Languages</strong> understands Common and Druidic but can't speak<br>
-    <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Compétences</strong> Discrétion +3<br>
+    <strong>Résistances aux dégâts</strong> feu<br>
+    <strong>Immunités contre les états</strong> aveuglé, assourdi<br>
+    <strong>Sens</strong> vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 9<br>
+    <strong>Langues</strong> comprend le commun et le druidique mais ne peut pas parler<br>
+    <strong>Défi</strong> 1<br>
+    <strong>Bonus de maîtrise</strong> +2
     <hr>
-    <p><strong><em>False Appearance.</em></strong> While the blight remains motionless, it is indistinguishable from a dead sapling.</p>
+    <p><strong><em>Apparence Trompeuse.</em></strong> Tant que la flétrissure reste immobile, elle est indiscernable d'un jeune plant mort.</p>
     <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> The twig blight makes one attack with its <em>claws</em> and up to one attack with its <em>roots</em>.</p>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage and the target is grappled (escape DC 9).</p>
-    <p><strong><em>Root.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature that is grappled by the blight, incapacitated, or restrained. <em>Hit:</em> 4 (1d4 + 2) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the blight regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
+    <p><strong><em>Attaques multiples.</em></strong> La flétrissure de brindille fait une attaque avec ses <em>griffes</em> et jusqu'à une attaque avec ses <em>racines</em>.</p>
+    <p><strong><em>Griffes.</em></strong> <em>Attaque d'arme au corps à corps :</em> +4 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 5 (1d6 + 2) dégâts perforants et la cible est agrippée (DD 9 pour se libérer).</p>
+    <p><strong><em>Racines.</em></strong> <em>Attaque d'arme au corps à corps :</em> +4 pour toucher, allonge 1,5 m, une créature agrippée par la flétrissure, neutralisée ou entravée. <em>Touché :</em> 4 (1d4 + 2) dégâts perforants plus 5 (2d4) dégâts nécrotiques. Le maximum de points de vie de la cible est réduit d'un nombre égal aux dégâts nécrotiques subis, et la flétrissure récupère un nombre de points de vie égal. La réduction dure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.</p>
 </div>
 
-<br>
-
 <div class="statblock">
-    <h2>Swarm of Twig Blights</h2>
-    <em>Large Plant, Neutral Evil</em>
+    <h2>Nuée de branches noueuses</h2>
+    <em>Grande plante, Neutre Mauvais</em>
     <hr>
-    <strong>Armor Class</strong> 13
+    <strong>Classe d'armure</strong> 13
     <br>
-    <strong>Hit Points</strong> 66 (12d8 + 12)
+    <strong>Points de vie</strong> 66 (12d8 + 12)
     <br>
-    <strong>Speed</strong> 20 ft.
+    <strong>Vitesse</strong> 6 m
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
+                <th>FOR</th>
                 <th>DEX</th>
                 <th>CON</th>
                 <th>INT</th>
-                <th>WIS</th>
+                <th>SAG</th>
                 <th>CHA</th>
             </tr>
         </thead>
@@ -728,541 +731,500 @@ If the players free the ravens from their cages, they join the party as a **swar
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Stealth +3<br>
-    <strong>Damage Vulnerabilities</strong> fire<br>
-    <strong>Condition Immunities</strong> blinded, deafened<br>
-    <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
-    <strong>Languages</strong> understands Common and Druidic but can't speak<br>
-    <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Compétences</strong> Discrétion +3<br>
+    <strong>Vulnérabilités aux dégâts</strong> feu<br>
+    <strong>Immunités contre les états</strong> aveuglé, assourdissant<br>
+    <strong>Sens</strong> Vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 9<br>
+    <strong>Langues</strong> comprend le commun et le druidique mais ne peut pas parler<br>
+    <strong>Nuée</strong> 1 <br>
+    <strong>Bonus de maîtrise</strong> +2
     <hr>
-    <p><strong><em>False Appearance.</em></strong> While the swarm remains motionless, it is indistinguishable from a patch of dead shrubs.</p>
-    <p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small plant. The swarm can't regain hit points or gain temporary hit points.</p>
+    <p><strong><em>Fausse apparence.</em></strong> Lorsque la nuée reste immobile, elle est indiscernable d'un amas de broussailles mortes.</p>
+    <p><strong><em>Nuée.</em></strong> La nuée peut occuper le même espace qu'une autre créature, et vice versa. Elle peut également se déplacer à travers n'importe quelle ouverture suffisamment grande pour une plante de Petite taille. La nuée ne peut pas récupérer de points de vie ni bénéficier de points de vie temporaires.</p>
     <h3>Actions</h3>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., up to two targets in the swarm's space. <em>Hit:</em> 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.</p>
+    <p><strong><em>Griffes.</em></strong> <em>Attaque d'arme au corps à corps :</em> +3 pour toucher, allonge 1,5 m, jusqu'à deux cibles dans l'espace de la nuée. <em>Touché :</em> 10 (4d4) dégâts perforants, ou 5 (2d4) dégâts perforants si la nuée a la moitié de ses points de vie ou moins.</p>
 </div>
 
-## J3d. The First Floor
-The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
-### Loading Dock
-<span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
-Revise the description of this area to read as follows:
+
+> [!combat]- **Équilibrer le débarcadère**
+> Cette rencontre de combat est une rencontre de combat **sanglante** contre un groupe de cinq joueurs de niveau 5, une alliée CR 1 (Ireena Kolyana) et un allié CR 1/4 (nuée de corbeaux). Elle consommera environ 46% de leurs points de vie maximum totaux. Pour des groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+>
+> * ***Trois joueurs.*** Réduisez le nombre de lianes malveillantes à trois.  
+> * ***Quatre joueurs.*** Réduisez le nombre de lianes malveillantes à quatre.
+> * ***Six joueurs.*** Augmentez le nombre de lianes malveillantes à six. Augmentez le nombre de rameaux malveillants à six.
+
+Les trois tonneaux, qui se trouvent dans les coins nord-est, sud-est et nord-ouest de la pièce, sont largement décrits dans <span class="citation">W2. Débarcadère (p. 176)</span>, mais sont recouverts de brins de **vigne ronce venimeuse**.
+
+Lorsqu'une créature autre qu'une créature malveillante, un **druide naturaliste** ou un **druide assaillant** s'approche à moins de 1,5 mètre d'un enchevêtrement ou commence son tour à cet endroit, la vigne ronce la fouette comme un fouet. Cette créature doit réussir un jet de sauvegarde de Dextérité CD 10 ou subir 5 (1d10) dégâts tranchants des épines tranchantes de la vigne ronce. En cas d'échec, cette créature est aussi empoignée (DD 10 pour se libérer) et doit réussir un jet de sauvegarde de Constitution CD 10 ou être empoisonnée jusqu'au début de son prochain tour.
+### Entreposage des tonneaux
+<span class="citation"><em>Cette scène se déroule dans le chapitre 12, zone W4.</em></span>
+
+Le tonneau dans le coin nord-ouest est visiblement plus ancien que les autres, avec un bois plus foncé, un cercle métallique rouillé et des fissures et des éclats sur sa surface. Il contient trois *potions de grande guérison*, un paquet de *poussière de disparition* et une bourse contenant 187 pièces d'or.
+## J3e. Le deuxième étage 
+Le deuxième étage de la vinerie est en grande partie comme décrit dans <span class="citation">W9. Cuves de fermentation (p. 176)</span>, <span class="citation">W16. Treuil de chargement (p. 178)</span>, <span class="citation">W17. Chambre principale (p. 178)</span>, <span class="citation">W18. Cuisine et salle à manger (p. 179)</span>, <span class="citation">W19. Chambres à coucher (p. 179)</span> et <span class="citation">W20. Presse à imprimer (p. 179)</span>.
+
+Cependant, la porte menant du balcon de <span class="citation">W9. Cuves de fermentation (p. 176)</span> à <span class="citation">W16. Treuil de chargement (p. 178)</span> est recouverte de **vigne ronce venimeuse** et obstruée de l'autre côté, nécessitant un jet de Force réussi CD 20 pour l'ouvrir.
+
+Lorsque les joueurs atteignent le deuxième étage pour la première fois, ils peuvent entendre le bruit d'objets s'entrechoquant provenant de <span class="citation">W20. Presse à imprimer (p. 179)</span>.
+### Presse à imprimer
+<span class="citation"><em>Cette scène se déroule dans le chapitre 12, zone W20.</em></span>  
+
+La pièce contenant la presse à imprimer des Martikovs est en grande partie comme décrite dans <span class="citation">W20. Presse à imprimer (p. 179)</span>. Cependant, le druide est un **druide assaillant**, et est accompagné de trois **lianes malveillantes** au lieu de deux. Le druide et les créatures malveillantes attaquent les joueurs à vue.
+
+> [!combat]- **Équilibrer la presse à imprimer**
+> Cette rencontre de combat est une rencontre de combat **éprouvante** contre un groupe de cinq joueurs de niveau 5, une alliée CR 1 (Ireena Kolyana) et un allié CR 1/4 (nuée de corbeaux). Elle consommera environ 22% de leurs points de vie maximum totaux. Pour des groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+>
+> * ***Trois joueurs.*** Réduisez le nombre de lianes malveillantes à une.
+> * ***Quatre joueurs.*** Réduisez le nombre de lianes malveillantes à deux. 
+> * ***Six joueurs.*** Augmentez le nombre de lianes malveillantes à quatre.
+### Treuil de chargement
+<span class="citation"><em>Cette scène se déroule dans le chapitre 12, zone W16.</em></span>
+
+Cette zone est en grande partie comme décrite dans <span class="citation">W16. Treuil de chargement (p. 178)</span>. Cependant, révisez le texte descriptif comme suit :
 
 <div class="description">
-<p>A raised wooden walkway runs along the west, south, and east wall of this overgrown loading dock, which is choked with roots, dead shrubs, and tangles of hanging vines. A wide door to the south stands closed, its wooden width covered in mosses and assorted fungi. Three wooden barrels lie haphazardly discarded around the room, partially overgrown with strands of green ivy with red spots and sharp thorns.</p>
-<p>At the center of the room, between the wooden walkways, stands a broken wagon with a gnarled, misshapen tree growing through a hole at its center. Blood oozes like sap from its twisted trunk, which rises through and fills a large hole in the ceiling.</p>
+<p>Le toit de cette pièce s'est effondré, dispersant des monticules de débris et révélant un ciel sombre et orageux qui crépite d'éclairs. Une pluie battante tombe sur le plancher de bois de la pièce, qui présente un trou carré de 3 mètres sur 3 mètres au milieu et un treuil en bois monté sur le côté nord.</p>
+<p>Un arbre mort et déformé pousse à travers le trou au centre de la pièce, ses branches noueuses formant une voûte squelettique là où le toit devrait se trouver. Du sang suinte de son tronc comme de la sève, et deux oiseaux de la taille d'un homme, façonnés en bois, peaux d'animaux et toile de jute, sont perchés parmi ses branches.</p>
+<p>Juché sur le treuil se trouve un homme aux cheveux hirsutes, aux dents pourries et à la peau peinte en rouge sang. Il porte un bâton noueux fait d'une branche noire, du sang suintant des fissures le long de sa longueur et une traînée sombre de fumée se dégageant de l'extrémité la plus large.</p>
+<p>Alors que vous observez, l'homme agite le bâton vers l'arbre mort, qui gémit, l'écorce se craquelant et s'éclatant, tandis que ses branches frémissent et que son tronc s'allonge légèrement.</p>
 </div>
 
-The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immunity to bludgeoning, piercing, and psychic damage. The druids planted it here to prevent the Martikovs from returning to the winery, and hope to nurture it until it can produce blights of its own.
+Les deux oiseaux artificiels sont des **striges supérieures**. L'homme est un **druide naturaliste** avec 136 points de vie nommé Lorghoth le Putréfacteur. Cependant, au lieu de la caractéristique ***don du Gulthias***, Lorghoth gagne les caractéristiques supplémentaires suivantes :
 
-Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
+* ***Résistance légendaire (1/jour).*** Si Lorghoth devait échouer un jet de sauvegarde, il peut choisir de réussir à la place.
+* ***Maître des fléaux.*** Par une action, Lorghoth peut utiliser le *bâton du Gulthias* qu'il porte pour invoquer et commander tous les fléaux dans un rayon d'1,6 km.
+* ***Gardien du Gulthias (1/jour).*** En réaction à être ciblé par une attaque ou un sort, Lorghoth peut se métamorphoser magiquement en une **moisissure ambulante** pendant 1 minute, invoquant les racines et les vignes autour de lui pour envelopper sa forme humanoïde. Tout équipement qu'il porte ou transporte est absorbé ou porté par sa nouvelle forme (au choix de Lorghoth). Sous cette nouvelle forme, Lorghoth conserve ses statistiques de jeu (y compris ses points de vie) et sa capacité à parler, mais son CA, ses modes de déplacement, sa Force, sa Dextérité, ses résistances, ses immunités et ses sens spéciaux sont remplacés par ceux de sa nouvelle forme, et il gagne toutes les statistiques et capacités de cette nouvelle forme qu'il n'a pas. Sous cette forme, Lorghoth gagne également la caractéristique suivante : ***Forme de terreau.*** Lorghoth peut se déplacer dans un espace aussi étroit que 1,5 mètre de large sans se contorsionner.
 
-> [!combat]- **Balancing the Loading Dock**
-> This combat encounter is a **bloody** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 46% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the number of vine blights to three.
-> * ***Four Players.*** Reduce the number of vine blights to four.
-> * ***Six Players.*** Increase the number of vine blights to six. Increase the number of twig blights to six.
+Le *bâton du Gulthias* est largement tel que décrit dans <span class="citation">Bâton du Gulthias (p. 221)</span>. Cependant, le gémissement mourant du bâton peut être entendu dans un rayon de 1,6 km, plutôt que dans un rayon de 90 mètres. Briser le bâton tue à la fois les fléaux et la coupe de l'arbre du Gulthias, qui pourrit rapidement en une boue gris foncé noirâtre.
 
-The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
+> [!info]+ **Statistiques de strix**
+> Une **strix supérieure** utilise les statistiques d'une **manticore**, mais est de taille Moyenne et a une vulnérabilité aux dégâts de feu. Au lieu de véritables piques de queue, l'attaque **_piques de queue_** de la strix supérieure libère une volée de douzaines de minuscules dards d'argent depuis ses ailes.
+>
+> Si vous ajustez cette rencontre pour inclure une ou plusieurs **nuées de strix inférieures** (voir ci-dessous), chaque nuée utilise les statistiques d'une **nuée de corbeaux**.
 
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
-### Barrel Storage
-<span class="citation"><em>This scene takes place in Chapter 12, Area W4.</em></span>
+Lorghoth accueille les joueurs avec des rires déments à leur arrivée, les invitant à "se délecter de la gloire des rejetons de l'arbre du Gulthias" et demandant s'ils sont venus "honorer la puissance du Seigneur des Ombres".
 
-The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, and a pouch containing 75 gp.
-## J3e. The Second Floor
-The second floor of the winery is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>, <span class="citation">W16. Loading Winch (p. 178)</span>, <span class="citation">W17. Master Bedroom (p. 178)</span>, <span class="citation">W18. Kitchen and Dining Room (p. 179)</span>, <span class="citation">W19. Sleeping Quarters (p. 179)</span>, and <span class="citation">W20, Printing Press (p. 179)</span>. 
 
-However, the door leading from the balcony of <span class="citation">W9. Fermentation Vats (p. 176)</span> to <span class="citation">W16. Loading Winch (p. 178)</span> is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
 
-When the players first reach the second floor, they can hear the sound of clattering objects originating from <span class="citation">W20. Printing Press (p. 179)</span>.
-### Printing Press
-<span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
+Si les joueurs lui parlent, Lorghoth est ravi de partager les informations suivantes :
+* Les Gens de la Forêt viennent de la Colline d'Hier au sud, qui se trouve à côté du Mur des Murmures. (Le Mur des Murmures est en grande partie tel que décrit dans **Y5. Mur de Brume**, sauf que la divinité ancienne qui a créé le Mur était une femme.)
+* Les Gens de la Forêt vénèrent Strahd von Zarovich comme un dieu, qu'ils appellent "le Seigneur des Ombres". Les corbeaux du vignoble et leurs maîtres, que les Gens de la Forêt appellent "les Emplumés", sont d'anciens ennemis de Strahd et de ses serviteurs.
+* Les Gens de la Forêt sont venus "réclamer ce qui leur appartient" - une ancienne magie que les "Emplumés" ont volée aux ancêtres des druides il y a longtemps. Pour ce faire, ils se sont alliés avec la "sorcière des marais", dont les serviteurs volants sont appelés "strix", et dont les enfants l'appellent la "Mère des Ténèbres". Ils se sont également alliés à une femme qu'ils appellent "l'Enfant de Sang", dont la maîtrise de la magie leur a donné un nouveau pouvoir sur l'arbre Gulthias et sa descendance. (Lorghoth fait référence à Baba Lysaga et Ludmilla Vilisevic, respectivement.)
+* L'arbre mort est un bouture de l'arbre Gulthias, qui pousse au sommet de la Colline d'Hier. Bientôt, nourri par le *Bâton Gulthias*, il rivalisera avec son parent et donnera naissance à ses propres fléaux.
+* Demain à l'aube, le puissant Brise-Hiver marchera depuis la Colline d'Hier et réduira le vignoble en ruines, le transformant en paillis pour nourrir le jeune arbre Gulthias. (Lorghoth ne dira pas qui ou ce qu'est Brise-Hiver, sauf pour ricaner "Brise-Hiver arrive, et tout s'effondrera sur son passage !")
 
-The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
+Quand Lorghoth en a assez des joueurs, il les remercie de leur présence, promettant que leur sang nourrira bien l'arbre Gulthias. Lui et les deux **strix supérieurs** attaquent ensuite.
 
-> [!combat]- **Balancing the Printing Press**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the number of vine blights to one.
-> * ***Four Players.*** Reduce the number of vine blights to two.
-> * ***Six Players.*** Increase the number of vine blights to four.
-### Loading Winch
-<span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
 
-This area is largely as described in <span class="citation">W16. Loading Winch (p. 178)</span>. However, revise the descriptive text to read as follows:
+
+Lorghoth et les afflictions se battent jusqu'à la mort. Lorsque Lorghoth est réduit à 0 point de vie, il retrouve sa forme véritable et jure que la victoire des joueurs sera de courte durée. "Car Wintersplinter approche," halète-t-il en ricanant, "et lorsque l'aube se lèvera, le nectar de la victoire se transformera en cendres sur vos lèvres."
+
+Lorsque les joueurs brisent le bâton de Lorghoth, lisez :
 
 <div class="description">
-<p>The roof over this room has collapsed, scattering mounds of debris and revealing a dark, stormy sky overhead that flashes with lightning. Heavy rain falls down onto the room’s wooden floor, which has a ten-foot-square hole cut into the middle of it and a wooden winch mounted upon the north side. </p>
-<p>A dead, misshapen tree grows through the hole at the center of the room, its gnarled branches forming a skeletal canopy overhead where the roof should be. Blood oozes from its trunk like sap, and two man-sized birds crafted of wood, animal skins, and burlap perch among its branches.</p>
-<p>Perched atop the winch is a man with wild hair, rotted teeth, and skin painted blood-red. He carries a gnarled staff made from a black branch, with blood oozing from cracks along its length and a dark trail of smoke wisping from the broader end. </p>
-<p>As you watch, the man waves the staff toward the dead tree, which groans, bark snapping and splintering, as its branches rustle and its trunk grows slightly taller.</p>
+<p>Un terrible cri humain jaillit du bois fendu du bâton, perçant l'air comme le hurlement d'une banshee. La terre semble trembler sous son intensité - et, tout autour de vous, la flore corrompue commence à se tordre et à se convulser, du sang coulant des feuilles et des tiges noircissantes. Les afflictions gèlent sur place, puis s'affaissent lentement, la vie quittant leurs formes fripées jusqu'à ce qu'il ne reste plus que des coques mortes.</p>
+<p>Au centre de la pièce, l'écorce de l'arbre mort et tordu commence à bouillir et à fondre, le tronc s'effondrant sur lui-même jusqu'à ce qu'il ne reste plus qu'une flaque de boue épaisse et grisâtre. Avec un dernier hurlement rauque, le bâton se désintègre, ne laissant derrière lui qu'un flot de cendres grises qui s'envolent au vent.</p>
 </div>
 
-The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named Lorghoth the Decayer. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
+Les trois strix se battent jusqu'à ce que deux d'entre elles aient été détruites ou jusqu'à ce que les joueurs brisent le bâton de Gulthias, auquel cas toute strix survivante se retire à Berez pour faire son rapport à Baba Lysaga.
 
-* ***Legendary Resistance (1/day).*** If Lorghoth would fail a saving throw, he can choose to succeed instead.
-* ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
-* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points) and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
+L'orage s'apaise peu après la défaite de Lorghoth, bien que la pluie persiste pour laver la boue et les afflictions. La pluie s'arrête complètement lorsque les joueurs descendent pour la première fois à la rencontre des Martikov.
+***Jalon.*** Reprendre la vigne complète un jalon de l'histoire. Lorsque les joueurs vaincront Lorghoth et briseront son bâton, accordez 2 000 XP à chaque joueur.
+## J3f. Le retour des Martikov
+Si les joueurs brisent le bâton de Gulthias, les Martikov entendent son hurlement strident et reviennent à la vigne, où ils remercient les joueurs pour leur héroïsme.
 
-The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+Elvir et Claudiu sont émerveillés et légèrement ébranlés par la capacité des joueurs à défier Strahd et ses serviteurs, et la victoire des joueurs redonne espoir à eux et à toute la famille Martikov. (Elvir en particulier est frappé par la pensée que, si Elric avait demandé de l'aide et qu'elle lui avait été accordée, son frère pourrait encore être en vie aujourd'hui.)
 
-> [!info]+ **Strix Statistics**
-> A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
-> 
-> Should you adjust this encounter to include one or more **swarms of lesser strix** (see below), each swarm uses the statistics of a **swarm of ravens**.
+Après avoir remercié et félicité les joueurs, Davian Martikov révèle qu'il n'a pas été totalement franc avec eux. Il accepte alors de partager les informations suivantes :
 
-Lorghoth greets the players with maddened cackling upon their arrival, inviting them to “revel in the glory of the spawn of the Gulthias tree" and asking if they have come to “honor the might of the Shadowed Lord."
+* Les Gens de la Forêt n'ont pas attaqué simplement parce qu'ils sont de "mauvais voisins". Davian et sa famille sont membres des Gardiens de la Plume, une société secrète dédiée à aider ceux qui s'opposent à Strahd von Zarovich et à ses serviteurs. Les Gardiens de la Plume, qui visent à guider et abriter les autres plutôt que de combattre directement Strahd, utilisent des corbeaux comme messagers et espions.
+* Davian est le chef de l'organisation, et tous ses enfants en sont également membres. (Davian peut confirmer que Muriel Vinshaw et Urwin Martikov sont aussi membres des Gardiens de la Plume, ainsi qu'un certain nombre d'autres Baroviens dispersés dans la vallée.)
+* Il y a un peu plus de trois mois, l'un des plus jeunes fils de Davian - le frère jumeau d'Elvir, Elric - avait prévu de se rendre au château Ravenloft pour se joindre à la révolte contre Strahd. Davian l'en a dissuadé, rappelant à Elric que les Gardiens de la Plume étaient des espions, pas des combattants, et que rejoindre ouvertement la rébellion pourrait compromettre le secret de leur existence. Elric a défié son père et a rejoint la révolte quand même.
+* Elric est mort au château Ravenloft. Peu après, les épouvantails de Baba Lysaga et les druides de Yester Hill - souvent accompagnés d'une mystérieuse femme à la peau foncée - ont commencé à lancer des attaques contre le vignoble.
+* Le secret le mieux gardé du Vignoble est la source de son vin : trois gemmes vertes de la taille et de la forme de pommes de pin enchantées avec une magie de croissance des plantes. Depuis sa fondation, les Martikov ont utilisé ces gemmes pour faire pousser trois cuvées de vin : Champagne du le Stompe, Red Dragon Crush et Purple Grapemash No. 3.
+* Cependant, il y a dix ans, la gemme produisant le Champagne du le Stompe a été volée. Davian ne sait pas qui l'a volée, mais il en blâme Urwin pour ne pas avoir monté la garde. Bien qu'Urwin ait prétendu avoir vu une vieille femme dans le brouillard avec un corbeau perché sur son épaule, et le même corbeau emportant la gemme peu après, Davian n'a jamais cru son histoire, principalement parce que les Gardiens de la Plume connaissent tous les corbeaux de la vallée.
+* Il y a trois semaines, les épouvantails de Baba Lysaga ont découvert et volé la deuxième gemme, privant le vignoble du moyen de produire le Red Dragon Crush. Il y a cinq jours, les Gens de la Forêt ont attaqué et volé la troisième gemme, empêchant les Martikov de produire le Purple Grapemash No. 3. Les Gardiens ont monté une attaque sur Yester Hill dans une tentative de la récupérer, mais ont été facilement repoussés. ("Nous sommes des espions", note tristement Davian, "pas des guerriers".)
+* Les druides sont revenus deux jours plus tard, rejoints désormais par une petite armée de blights corrompus, et ont chassé les Martikov. (Davian n'avait jamais vu les Gens de la Forêt commander les blights de l'Arbre Gulthias auparavant, et n'avait pas su que c'était possible.)
+* D'après les bribes de conversation que sa famille a entendues avant d'être chassée du vignoble, Davian croit que les druides recherchent la première gemme enchantée - celle qui a été volée il y a dix ans. (Davian n'est pas sûr de la raison pour laquelle les druides la recherchent, ni de la façon dont ils ont eu connaissance de son existence.)
 
-If the players speak with him, Lorghoth is glad to share the following information:
-* The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk worship Strahd von Zarovich as a god, whom they call “the Shadowed Lord." The ravens of the winery and their masters, whom the Forest Folk call “the feathered ones," are old enemies of Strahd and his servants.
-* The Forest Folk have come to “claim what is theirs"—ancient magic that the “feathered ones" stole from the druids’ ancestors long ago. To this end, they have allied with the “witch of the swamp," whose flying servants are called “strix," and whose children call her the “Mother of Darkness." They have also allied with a woman they call the “Child of Blood," whose mastery of magic has given them new power over the Gulthias tree and its spawn. (Lorghoth is referring to Baba Lysaga and Ludmilla Vilisevic, respectively.)
-* The dead tree is a cutting of the Gulthias tree, which grows atop Yester Hill. Soon, nurtured by the *Gulthias staff*, it will grow to rival its parent, and give birth to blights of its own.
-* Tomorrow at dawn, the mighty Wintersplinter will march from Yester Hill and reduce the winery to rubble, turning it into mulch to feed the young Gulthias tree. (Lorghoth won’t say who or what Wintersplinter is, except to cackle “Wintersplinter comes, and all will crumble in his wake!")
+Davian ne pense pas que les joueurs soient capables de vaincre Baba Lysaga - certainement pas avec leurs capacités actuelles. Les druides, cependant, sont une autre histoire. Davian demande aux joueurs de se rendre à Yester Hill, de vaincre les druides qui s'y trouvent et de récupérer la troisième gemme afin que le vignoble puisse reprendre au moins une partie de sa production. (Bien que les Martikov seront occupés à restaurer le vignoble, Davian offre Muriel Vinshaw - l'un des rares membres des Gardiens prêts au combat - comme compagnon pour cette tâche.)
 
-When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
+Davian promet également aux joueurs que, s'ils réussissent à Yester Hill, il leur fournira le soutien permanent des Gardiens de la Plume par la suite, y compris des renseignements, un abri, des provisions et une communication rapide à travers la vallée.
 
-> [!combat]- **Balancing the Loading Winch**
-> This combat encounter is a **bloody** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 61% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken.
-> * ***Four Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
-> * ***Six Players.*** Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
 
-On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
+
+Si les joueurs semblent intéressés à entreprendre sa tâche, Davian leur demande également si les druides ont mentionné quelque chose du nom de "Wintersplinter" - un mot que les Gardiens et leurs corbeaux espions ont brièvement entendu lors de leur attaque sur Yester Hill. Les Gardiens ont remarqué que les druides semblent se préparer pour un certain rituel au sommet de Yester Hill et les ont vus construire quelque chose dans le cercle de pierre à son sommet.
+
+Si les joueurs partagent l'avertissement de Lorghoth ou Silvia, Davian les presse de se rendre à Yester Hill avant l'aube suivante, de récupérer la gemme volée et de contrecarrer le complot maléfique des druides. Comme Yester Hill est à moins d'une heure de marche du Wizard of Wines, Davian est ravi d'offrir aux joueurs un abri pour la nuit à la vinerie pour se reposer et récupérer, promettant d'envoyer Muriel les réveiller quelques heures avant l'aube.
+
+> [!info]+ **Dégager les Cieux**
+> Les strix sont une ressource finie et nécessitent du temps et des ressources pour être recréés. Vaincre le **strix supérieur** défendant Lorghoth dégage à nouveau les cieux pour que les Gardiens de la Plume et leurs corbeaux puissent voler, du moins temporairement.
+# J4. Le Chemin vers Yester Hill
+Si les joueurs acceptent de se rendre à Yester Hill le lendemain matin, Muriel les réveille deux heures avant l'aube.
+
+Après avoir demandé aux joueurs s'ils ont bien dormi, Muriel leur informe discrètement qu'elle devra faire un bref détour en route vers Yester Hill pour rencontrer un contact qu'elle a dans la région - un homme nommé Kavan. Bien qu'elle ne puisse en être certaine, elle a des raisons de croire que Kavan pourrait avoir plus d'informations sur les plans et les défenses des druides.
+
+Si les joueurs semblent réceptifs, Muriel leur demande de promettre de ne pas partager ce détour avec Davian, qui, selon elle, désapprouverait probablement. Elle hésite à donner plus d'informations, promettant seulement que Kavan n'est ni dangereux ni un serviteur de Strahd, et qu'elle en dira plus quand ils le rencontreront.
+
+Si on insiste, Muriel partage seulement que Kavan est un esprit qui réside dans le Bois de Svalich, et qu'elle a l'intention de l'invoquer et de lui parler comme elle l'a fait à plusieurs reprises auparavant. (Muriel ne connaît pas l'histoire de Kavan, ni sa relation avec les druides, et ne peut pas lire l'inscription sur son cairn.)
+
+Le trajet du Wizard of Wines à Yester Hill fait 4 km et dure 50 minutes. Lorsque les joueurs partent, lisez :
 
 <div class="description">
-<p>The man raises his staff to the thundering sky and shrieks, “Nature, heed my will, for I have the Shadowed Lord’s staff!"</p>
-<p>You hear the rustle of dead vines all around you. On the ground below, nearly three dozen inhuman shapes emerge from the vineyard, their limbs cracking as they trudge toward the winery through the mist and rain.</p>
+<p>Un brouillard mince et glacial tourbillonne à travers le vignoble, s'enroulant autour de vos chevilles tandis que vous quittez la vinerie pour le chemin principal. Vous vous dirigez vers le sud, la faible lumière lunaire filtrant à travers les nuages bas et projetant de longues ombres sur la terre limoneuse.</p>
+<p>La cape de velours du ciel nocturne repose silencieusement au-dessus de vous, mais elle est bientôt engloutie par la voûte nouée du Bois de Svalich, dont les longues branches sombres s'étendent sur le chemin comme des membres squelettiques. Le brouillard est plus épais ici, l'air vif et glacial, et un silence palpable semble envelopper la totalité du bois. Le calme n'est interrompu que par le craquement occasionnel d'une brindille sous vos pas, le clapotis de la boue sous vos bottes ou le hululement lointain d'une chouette plaintive.</p>
 </div>
 
-The needle blights reach the winery after two rounds, and reach Lorghoth’s chamber after an additional two rounds. (Due to the walls around the room, the blights can’t attack until they reach the chamber.)
+Pendant que les joueurs voyagent vers le sud, quatre **nuées de corbeaux** s'envolent d'un arbre proche et les suivent sur la route, volant au-dessus de la canopée. Muriel informe les joueurs que les corbeaux veulent probablement aider et qu'ils peuvent surveiller les airs pendant que les joueurs empruntent la route. (Les corbeaux se perchent sur les branches des arbres proches chaque fois que les joueurs s'arrêtent sur la route.)
 
-Lorghoth uses his _**guardian of the Gulthias**_ feature at the first available opportunity after having used his _**master of blights**_ feature.
 
-On the strixes’ second turn in combat, the third **greater strix** appears in the skies overhead, one hundred and sixty feet above the winery. Before it can attack, four **swarms of ravens** rise from the grove to the north to surround and attack it, distracting the strix and obstructing its advance.
 
-Lorghoth and the blights fight to the death. When Lorghoth is reduced to 0 hit points, he reverts to his true form and vows that the players’ victory shall be short-lived. “For Wintersplinter comes," he wheezes, cackling, “and when dawn rises, the nectar of victory will turn to ash on your lips."
+Pendant qu'ils voyagent sur le chemin, Muriel note avec nostalgie qu'elle avait l'habitude de l'emprunter avec un ami il n'y a pas si longtemps. "C'est si étrange", dit-elle doucement, "comme les choses peuvent vite empirer". Si on lui demande, Muriel peut partager que son "ami" était Elric Martikov, le frère jumeau d'Elvir et son propre fiancé, et qu'Elric lui a fait sa demande en mariage lors d'une promenade dans les bois sur ce même chemin. Si on lui demande le sort de son "ami", Muriel répond sèchement "Il est mort" et refuse d'en dire plus ; si on insiste, elle partage seulement que sa mort est trop récente et douloureuse dans son esprit pour la revivre.
 
-When the players break Lorghoth’s staff, read:
+## Le Cairn de Kavan
+À un mile et quart (2 km) et quinze minutes au sud du vignoble, si elle est avec les joueurs, Muriel les mène brièvement hors du chemin principal sur un vieux sentier envahi par la végétation. Si les joueurs la suivent, lisez :
 
 <div class="description">
-<p>A terrible human scream erupts from the staff’s splintered wood, piercing the air like a banshee's wail. The earth seems to tremble beneath its intensity—and, all around you, the corrupted flora begins to twist and writhe, blood pouring from blackening leaves and stalks. The blights freeze in place, then slowly crumple, the life leaving their shriveling forms until naught but dead husks remain.</p>
-<p>At the center of the room, the bark of the dead, gnarled tree begins to boil and melt, the trunk collapsing in upon itself until there's nothing left but a pool of thick, grayish sludge. With a final, wheezing wail, the staff disintegrates, leaving behind a stream of fine, gray ash that wisps away on the wind.</p>
+<p>Le sentier s'enfonce plus profondément dans le sous-bois, les vignes et les broussailles s'accrochant à vos vêtements comme des mains douces et avides tandis que vous vous frayez un chemin à travers la flore emmêlée. Les arbres sont rapprochés ici, et l'air s'épaissit dans un lourd silence.</p>
+<p>Pourtant, il ne faut pas longtemps avant que le sentier ne débouche sur une petite clairière moussue, faiblement éclairée par la pâle lueur de la lune. Une brise douce et fraîche danse à travers les arbres ici, le bruissement des feuilles ressemblant presque à une cacophonie de murmures. Au centre de la clairière se dresse un grand monticule de grosses pierres noires - un ancien cairn orné de lichens, de fleurs rouges et d'une collection d'étranges runes.</p>
 </div>
 
-The three strix fight until two have been destroyed or until the players break the *Gulthias staff*, at which point any surviving strix retreat to Berez to report to Baba Lysaga.
-
-The thunderstorm subsides soon after Lorghoth’s defeat, though the rain lingers to wash away the sludge and blight. The rain stops completely when the players first descend to meet the Martikovs.
-***Milestone.*** Reclaiming the winery completes a story milestone. When the players defeat Lorghoth and break his staff, award each player 2,000 XP.
-## J3f. The Martikovs’ Return
-If the players break the *Gulthias staff*, the Martikovs hear its shrieking wail and return to the winery, where they thank the players for their heroism. 
-
-Elvir and Claudiu are awed and slightly shaken at the players’ ability to defy Strahd and his servants, and the players’ victory brings hope to them and the entire Martikov family. (Elvir in particular is stricken by the thought that, had Elric asked for help and been granted it, his brother might still be alive today.)
-
-After thanking and congratulating the players, Davian Martikov reveals that he has not been entirely forthright with the players. He then agrees to share the following information:
-
-* The Forest Folk didn’t attack merely because they are “bad neighbors." Davian and his family are members of the Keepers of the Feather—a secret society dedicated to aiding those who oppose Strahd von Zarovich and his servants. The Keepers of the Feather, which aim to guide and shelter others rather than fighting Strahd directly, uses ravens as their messengers and spies.
-* Davian is the leader of the organization, and all of his children are also members. (Davian can confirm that Muriel Vinshaw and Urwin Martikov are also members of the Keepers of the Feather, as well as a number of other Barovians scattered across the valley.)
-* Just over three months ago, one of Davian’s youngest sons—Elvir’s twin brother, Elric—planned to travel to Castle Ravenloft to join the revolt against Strahd. Davian forebade it, reminding Elric that the Keepers of the Feather were spies, not fighters, and that joining the rebellion openly could compromise the secret of their existence. Elric defied him and joined the revolt anyway.
-* Elric died in Castle Ravenloft. Not long thereafter, Baba Lysaga’s **scarecrows** and the druids of Yester Hill—often accompanied by a mysterious, dark-skinned woman—began staging attacks against the winery. 
-* The Winery’s best-kept secret is the source of its wine: three green gemstones the size and shape of pinecones enchanted with plant-growing magic. Since its founding, the Martikovs have used these gemstones to grow three vintages of wine: Champagne du le Stompe, Red Dragon Crush, and Purple Grapemash No. 3. 
-* However, ten years ago, the gemstone producing the Champagne du le Stompe was stolen. Davian doesn’t know who stole it, but blames Urwin for failing to keep watch. Although Urwin claimed to have seen an old woman in the fog with a raven perched upon her shoulder, and the same raven carrying the gem away shortly thereafter, Davian has never believed his story—largely because the Keepers of the Feather know all of the ravens in the valley.
-* Three weeks ago, Baba Lysaga’s **scarecrows** uncovered and stole the second gem, depriving the winery of the means of producing Red Dragon Crush. Five days ago, the Forest Folk attacked and stole the third gem, preventing the Martikovs from producing Purple Grapemash No. 3. The Keepers staged an attack on Yester Hill in an attempt to reclaim it, but were easily driven back. (“We’re spies," Davian notes mournfully, “not warriors.")
-* The druids returned two days later, now joined by a small army of corrupted blights, and drove the Martikovs out. (Davian had never seen the Forest Folk command the blights of the Gulthias Tree before, and hadn’t known it to be possible.) 
-* According to snippets of conversation that his family overheard before they were driven out of the winery, Davian believes that the druids have been searching for the first enchanted gem—the one stolen ten years prior. (Davian isn’t sure why the druids are searching for it, or how they came to know of it.)
-
-Davian doesn’t believe that the players are capable of defeating Baba Lysaga—certainly not with their current abilities. The druids, however, are a different story. Davian asks the players to travel to Yester Hill, defeat the druids there, and reclaim the third gemstone so that the winery can resume at least part of its production. (Although the Martikovs will be busy restoring the winery, Davian offers Muriel Vinshaw—one of the Keepers’ few combat-ready members—as a companion for the task.)
-
-Davian also promises the players that, should they succeed at Yester Hill, he will provide them with the full support of the Keepers of the Feather permanently thereafter, including intelligence, shelter, supplies, and speedy communication across the valley.
-
-If the players appear interested in taking on his task, Davian also asks them whether the druids mentioned anything by the name of “Wintersplinter"—a word that the Keepers and their raven spies heard briefly during their attack on Yester Hill. The Keepers have noticed that the druids appear to be preparing for a ritual of some kind atop Yester Hill, and have seen them building something in the stone circle at its peak.
-
-If the players share Lorghoth or Silvia’s warning, Davian urges them to travel to Yester Hill before the next dawn, recover the stolen gemstone, and defeat the druids’ evil plot. Because Yester Hill is less than an hour’s walk from the Wizard of Wines, Davian is glad to offer the players shelter that night at the winery to rest and recuperate, promising to send Muriel to wake them a few hours before dawn.
-
-> [!info]+ **Clearing the Skies**
-> Strix are a finite resource, and require both time and resources to craft anew. Defeating the **greater strix** defending Lorghoth clears the skies once again for the Keepers of the Feather and their ravens to fly, at least temporarily.
-# J4. The Path to Yester Hill
-If the players agree to travel to Yester Hill the following morning, Muriel wakes them two hours before dawn. 
-
-After asking the players whether they had a good night’s rest, Muriel quietly informs them that she’ll need to make a quick detour en route to Yester Hill to meet with a contact she has in the area—a man named Kavan. While she can’t be sure, she has reason to believe that Kavan might have more information about the druids’ plans and defenses. 
-
-If the players appear receptive, Muriel asks them to promise not to share this detour with Davian, who she believes would likely disapprove. She’s reluctant to provide more information than that, promising only that Kavan is neither dangerous nor a servant of Strahd, and that she’ll share more when they meet him. 
-
-If pressed, Muriel shares only that Kavan is a spirit that dwells in the Svalich Wood, and that she intends to summon and speak with him as she has multiple times before. (Muriel doesn’t know Kavan’s history, nor his relationship to the druids, and can’t read the inscription on his cairn.)
-
-The journey from the Wizard of Wines to Yester Hill is 2.5 miles and 50 minutes long. As the players set off, read:
-
-<div class="description"> 
-<p>A thin, chilling mist curls through the vineyard, twisting around your ankles as you set off from the winery toward the main path. You head south, cold moonlight filtering in from the lower clouds and casting long shadows across the loamy earth. </p>
-<p>The velvet cloak of the night sky rests silently overhead, but it's soon swallowed by the gnarled canopy of the Svalich Wood, whose long, dark branches reach over the path like skeletal limbs. The mist is thicker here, the air crisp and chill, and a palpable silence seems to envelop the entirety of the wood. The quiet is only occasionally broken by the snap of a twig underfoot, the squelch of mud beneath your boots, or the distant hoot of a mournful owl.</p>
-</div>
-
-As the players travel south, four **swarms of ravens** take off from a nearby tree and follow them down the road, flying above the canopy. Muriel informs the players that the ravens likely want to help, and that they can keep watch in the skies while the players traverse the road. (The ravens perch in the branches of nearby trees whenever the players stop on the road.)
-
-While traveling along the path, Muriel notes wistfully that she used to walk it with a friend of hers not long ago. "It's so strange," she says quietly, "how quickly things can change for the worse." If asked, Muriel can share that her "friend" was Elric Martikov, Elvir's twin brother and her own betrothed, and that Elric proposed to her during a walk in the woods along this very path. If asked her "friend's" fate, Muriel replies curtly, "He died," and refuses to elaborate; if pushed, she shares only that his death is too fresh and painful in her mind to relive it.
-## J4a. Kavan’s Cairn
-Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, Muriel briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
-
-<div class="description">
-<p>The footpath veers deeper into the undergrowth, the vines and underbrush clutching at your clothing like soft, grasping hands as you cut forward through the tangled flora. The trees grow close together here, and the air grows thick with heavy silence. </p>
-<p>It's not long, however, before the path opens up into a small, mossy clearing, illuminated faintly by pale moonlight. A soft, crisp wind dances through the trees here, the rustling of the leaves sounding almost like a cacophony of whispers. At the center of the clearing stands a tall mound of large, black stones—an ancient cairn adorned with lichens, red blooms, and a collection of strange runes. </p>
-</div>
-
-A player who speaks Druidic notices that the runes on the mound form an epitaph. They read: 
+Un joueur qui parle la langue druidique remarque que les runes sur le monticule forment une épitaphe. Elles disent :
 
 <div class="description" style="text-align: center">
-<p>KAVAN, THE BLOOD-DRINKER
+<p>KAVAN, LE BUVEUR DE SANG
 <br>
-FORSAKEN OF THE ROZANA
+RENIÉ DES ROZANA
 <br>
-FIRST AND LAST CHIEFTAIN OF THE BALINOK MOUNTAINS.
+PREMIER ET DERNIER CHEF DES MONTAGNES BALINOK.
 <br>
-MAY HIS SPIRIT REAP THE HARVEST OF HIS ARROGANCE</p>
+QUE SON ESPRIT RÉCOLTE LA MOISSON DE SON ARROGANCE</p>
 </div>
 
-Unless prevented, Muriel kneels before the cairn, produces a dagger from her boot, and makes a cut across her palm, allowing a few drops of blood to drip into a basin at the base of the cairn. (She then quickly curls her palm into a fist, hiding her **wereraven** regeneration as it quickly knits the wound shut.)
+À moins d'en être empêchée, Muriel s'agenouille devant le cairn, sort un poignard de sa botte et se fait une entaille sur la paume, laissant quelques gouttes de sang tomber dans un bassin à la base du cairn. (Elle referme ensuite rapidement son poing, cachant sa régénération de **wereraven** tandis que la blessure se referme rapidement.)
 
-When she does, read:
+Quand elle le fait, lisez :
 
 <div class="description">
-<p>As Muriel's blood drips into the basin, the low curtain of mist around the cairn seems to quiver. The mists rise, gently swirling into the air, until the spectral form of a man steps forth from their moonlit depths.</p>
-<p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earrings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
-<p>His hands are calloused and rough, a wooden buckler grasped in his left. In his right hand, he wields a long, wicked spear forged of mist, its point seeming to devour the ethereal light that suffuses the clearing. </p>
-<p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
+<p>Lorsque le sang de Muriel tombe dans le bassin, le fin rideau de brume autour du cairn semble frissonner. Les brumes s'élèvent, tourbillonnant doucement dans les airs, jusqu'à ce que la forme spectrale d'un homme en émerge, sous la lumière de la lune.</p>
+<p>Son visage est ridé et buriné par les intempéries, son épais front plissé au-dessus d'yeux sombres et perçants. Il est vêtu d'une simple armure de cuir et d'étoffe grossière, ses bras et sa poitrine marqués d'une tapisserie de cicatrices et de tatouages qui semblent scintiller dans la pâle et étrange lumière. Des boucles d'oreilles forgées dans l'os d'animaux et l'obsidienne ciselée pendent jusqu'à ses épaules, presque recouvertes par une cascade de longs cheveux sombres.</p>
+<p>Ses mains sont calleuses et rugueuses, un bouclier de bois tenu dans sa main gauche. Dans sa main droite, il brandit une longue lance redoutable forgée de brume, dont la pointe semble dévorer la lumière éthérée qui baigne la clairière.</p>
+<p>"Salutations, Muriel Vinshaw", gronde l'esprit. "Je vois que vous avez amené de nouveaux compagnons cette fois."</p>
 </div>
 
 ![[Kavan.png]]
-<span class="credit">"Kavan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name.
+<span class="credit">"Kavan" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+Muriel présente l'esprit comme le **fantôme** de Kavan, un ancêtre des Gens des Montagnes, et présente les joueurs par leur nom.
 
-> [!lore]+ **Kavan's Legacy**
-> Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
-> 
-> Kavan stole the Huntress’s spear from the Forest Fane, and used the Devourer’s secrets to strengthen his warriors and deface the shrines of the Ladies Three. Named “Blood-Drinker" for the power of his spear and his savage rituals in combat, Kavan waged brutal war on the neighboring tribes, seeking to unite them beneath the glory of his own tribe and banner.
-> 
-> The druids of the First Folk, horrified by his blasphemy, withdrew to the sacred village of Soldav on Mount Ghakis. There, they named him “enemy," banishing him from the holy center of their faith. The Ladies, weakened by Kavan’s acts, withdrew their grace from their people, leaving them despondent under the new tyrant’s rule.
-> 
-> Kavan lived long enough to see his sons and daughters turn and squabble amongst themselves, fracturing the nation he had worked long ago to build. As Kavan lay sick and dying in his elder years, the last news he received was that of a new invasion—this time, from the east, as King Dostron the Hellborn swept into the valley in search of new lands to conquer.
-> 
-> When Kavan died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids he had once spurned buried his body in a lonely cairn far away from Yester Hill, cursing his spirit to linger amidst the twilight without glory, fear, or favor.
 
-Kavan greets the players warmly, hailing them as warriors, and asking to know their "clans and victories." If asked about his own clan, his smile fades, and he declines to respond, noting only that his relationship with his people is complex.
 
-Once the players have introduced themselves, Muriel begins by informing Kavan that they’ve come to seek his knowledge of the druids of Yester Hill. As she does, Kavan notices something in the woods. Read:
+> [!lore]+ **L'héritage de Kavan**
+> Bien avant l'arrivée de Strahd dans la vallée, Kavan était le jeune chef d'une des nombreuses tribus des Premiers Peuples qui vivaient parmi les montagnes Balinoks. Ambitieux et fier, il entra dans le Mur Murmurant au mépris des anciennes interdictions. Là, un écho du Dévoreur lui murmura les secrets de la Lance sacrée de la Chasseresse, et les moyens par lesquels il pourrait revendiquer son pouvoir pour lui-même.
+>
+> Kavan vola la lance de la Chasseresse au Sanctuaire de la Forêt et utilisa les secrets du Dévoreur pour renforcer ses guerriers et profaner les sanctuaires des Trois Dames. Surnommé le "Buveur de sang" pour le pouvoir de sa lance et ses rituels sauvages au combat, Kavan mena une guerre brutale contre les tribus voisines, cherchant à les unir sous la gloire de sa propre tribu et de sa bannière.
+>
+> Les druides des Premiers Peuples, horrifiés par son blasphème, se retirèrent dans le village sacré de Soldav sur le Mont Ghakis. Là, ils le nommèrent "ennemi", le bannissant du centre sacré de leur foi. Les Dames, affaiblies par les actes de Kavan, retirèrent leur grâce à leur peuple, le laissant abattu sous le joug du nouveau tyran.
+>
+> Kavan vécut assez longtemps pour voir ses fils et ses filles se retourner et se quereller, fracturant la nation qu'il avait si longtemps travaillé à construire. Alors que Kavan gisait malade et mourant dans ses vieux jours, la dernière nouvelle qu'il reçut fut celle d'une nouvelle invasion - cette fois, venant de l'est, tandis que le roi Dostron le Maudit balayait la vallée à la recherche de nouvelles terres à conquérir.
+>
+> Lorsque Kavan mourut, au lieu de l'enterrer dans un lieu d'honneur sur la Colline d'Yester avec les grands chefs du passé, les druides qu'il avait jadis rejetés enterrèrent son corps dans un cairn solitaire loin de la Colline d'Yester, maudissant son esprit à errer dans le crépuscule sans gloire, crainte ni faveur.
+
+Kavan accueille chaleureusement les joueurs, les saluant en tant que guerriers, et leur demande de connaître leurs "clans et victoires". Si on lui demande son propre clan, son sourire s'éteint et il décline de répondre, notant seulement que sa relation avec son peuple est complexe.
+
+Une fois que les joueurs se sont présentés, Muriel commence en informant Kavan qu'ils sont venus chercher ses connaissances sur les druides de la Colline d'Yester. Pendant qu'elle le fait, Kavan remarque quelque chose dans les bois. Lire :
 
 <div class="description">
-<p>You hear a rustling from the woods behind you, and the ravens above you shuffle uneasily. The spirit’s gaze snaps to a point across your shoulders and he holds up a hand, his grip tightening around the haft of his spear. “Hold, Muriel Vinshaw," he murmurs. “We are not alone. Something watches us from the shadows."</p>
+<p>Vous entendez un bruissement venant des bois derrière vous, et les corbeaux au-dessus de vous s'agitent nerveusement. Le regard de l'esprit se tourne brusquement vers un point au-delà de vos épaules et il lève une main, resserrant sa prise sur le manche de sa lance. "Halte, Muriel Vinshaw", murmure-t-il. "Nous ne sommes pas seuls. Quelque chose nous observe depuis les ombres."</p>
 </div>
 
-A player with a passive Wisdom (Perception) score of 17 or higher sees a humanoid silhouette flicker in the trees before vanishing amidst the darkness. (The silhouette is Strahd, but cannot be recognized in the darkness.)
+Un joueur avec un score de Sagesse (Perception) passif de 17 ou plus voit une silhouette humanoïde clignoter dans les arbres avant de disparaître dans l'obscurité. (La silhouette est Strahd, mais ne peut être reconnue dans l'obscurité.)
 
-> [!abstract]+ **Investigating the Silhouette**
-> If a player investigates the place where the silhouette appeared, read:
-> 
+> [!abstract]+ **Enquête sur la Silhouette**
+> Si un joueur enquête sur l'endroit où la silhouette est apparue, lisez :
+>
 > <hr>
-> 
-> Dead leaves crunch underfoot as you pass between the trees, and the thick mud squelches beneath your boots. There’s no sign of any living soul amidst the cold darkness, however, though you notice a faint, reddish light flickering in the distance, like a campfire obscured by branches and brambles.
-> 
+>
+> Les feuilles mortes craquent sous vos pas tandis que vous passez entre les arbres, et la boue épaisse émet un bruit de succion sous vos bottes. Il n'y a aucun signe d'âme vivante dans cette obscurité glaciale, cependant, bien que vous remarquiez une faible lueur rougeâtre scintiller au loin, comme un feu de camp masqué par les branches et les ronces.
+>
 > <hr>
-> 
-> The light comes from Beucephalus, Strahd’s **nightmare.**
-> 
-> If the player moves toward or attempts to interact with the light, read:
-> 
+>
+> La lumière provient de Beucephalus, le **cauchemar** de Strahd.
+>
+> Si le joueur se dirige vers la lumière ou tente d'interagir avec elle, lisez :
+>
 > <hr>
-> 
-> Suddenly, the ambient sounds of the forest - the whispering wind, the rustling leaves, even the distant hooting of an owl - go eerily silent. From the depths of the shadows, where the trees are thickest and the light dare not penetrate, comes a deep, lurking malevolence. 
-> 
-> The air seems to hum with tension, like the tendons of a beast waiting to pounce, and you cannot help but feel, to the very depths of your soul, that you are being watched by something powerful, old, and almost unfathomably patient.
-> 
-> And then—the sensation fades. The quiet sounds of the woods return. And, a heartbeat later, the crimson light flickers out.
-> 
+>
+> Soudain, les sons ambiants de la forêt - le murmure du vent, le bruissement des feuilles, même le hululeument lointain d'une chouette - se taisent de manière inquiétante. Des profondeurs des ombres, là où les arbres sont les plus denses et où la lumière n'ose pas pénétrer, émane une profonde et insidieuse malveillance.
+>
+> L'air semble vibrer de tension, comme les tendons d'une bête guettant pour bondir, et vous ne pouvez vous empêcher de ressentir, jusqu'au plus profond de votre âme, que vous êtes observé par quelque chose de puissant, d'ancien et d'une patience presque insondable.
+>
+> Et puis - la sensation s'estompe. Les sons tranquilles des bois reviennent. Et, un battement de cœur plus tard, la lueur cramoisie s'éteint.
+>
 > <hr>
-> 
-> As the player moves to depart the clearing, read:
-> 
+>
+> Lorsque le joueur s'apprête à quitter la clairière, lisez :
+>
 > <hr>
-> 
-> You notice a faint glitter of cold, cerulean light from the forest floor, half-concealed by mulch and dimly illuminated by the little moonlight that pierces through the canopy.
-> 
+>
+> Vous remarquez un léger scintillement d'une froide lumière bleu céruléen provenant du sol de la forêt, à moitié dissimulé par de la litière végétale et faiblement éclairé par le peu de lumière lunaire qui perce la canopée.
+>
 > <hr>
-> 
-> If the player investigates the light, read:
-> 
+>
+> Si le joueur examine la lumière, lisez :
+>
 > <hr>
-> 
->  As you sift through the underbrush, your fingers brush against something hard and smooth, half-buried in the soil.
+>
+> En fouillant la broussaille, vos doigts effleurent quelque chose de dur et de lisse, à moitié enterré dans la terre.
+>
+> Il s'agit d'une petite statuette de papillon, pas plus grande que la paume de votre main, taillée dans du bois pétrifié incrusté de petits minéraux bleus scintillants qui semblent danser avec la lumière de la lune captive. Les ailes de la figurine sont déployées, comme prises en plein vol.
+
+
+
+Kavan conseille aux joueurs que les druides du Peuple des Forêts semblent être beaucoup moins capables que leurs ancêtres. Si les joueurs réussissent à perturber leur rituel - comme en retirant la gemme de la poitrine de la statue avant que le rituel ne soit terminé - le contrecoup de l'énergie de la tempête canalisée pourrait tuer les ritualists survivants. 
+
+Si les joueurs expriment un intérêt pour détruire l'Arbre Gulthias lui-même, Kavan les met en garde contre cette action, notant que, bien qu'il ne connaisse pas la source de son pouvoir, il abrite un grand et terrible mal. Cependant, il peut partager que jusqu'à ce que le mage ait appris aux druides à commander ses enfants, l'arbre prenait peu d'initiatives de lui-même et semblait se contenter de rester au sommet de la Colline Yester. Si les joueurs vainquent les druides du Peuple des Forêts, note-t-il, ils trouveront probablement que l'Arbre Gulthias ne représente guère une menace pour eux ou leurs amis.
+
+Alors que les joueurs partent, ou s'ils ont d'autres questions sur Kavan, le Peuple des Forêts ou les gemmes enchantées, Kavan les informe que l'un des druides - un ancien nommé Svarog - manie une baguette noueuse forgée de bois pétrifié. Kavan leur demande de récupérer la baguette de Svarog, qui était autrefois maniée par les chefs spirituels de son peuple. "Si vous me la rapportez et prouvez que vous êtes dignes de confiance", promet-il, "je vous dirai où vous pourrez trouver une arme de grande puissance pour vous aider dans votre combat."
+
+
+
+* Si Ireena est présente, il s'incline légèrement et la salue avec un sourire poli. "Lady Kolyana", dit-il. "Un plaisir, comme toujours."
+* Si Muriel est présente, il la salue avec une surprise feinte et paresseuse, demandant aux joueurs de lui présenter leur "nouvelle amie". Ses yeux se portent ensuite sur la naissance des cheveux de Muriel, et il suggère doucement qu'elle lui semble familière, se demandant à haute voix s'ils se sont déjà rencontrés auparavant. (Les yeux de Muriel s'écarquillent et elle le nie rapidement. Strahd sait, bien sûr, que Muriel est la wereraven qui l'a espionné à la piscine Tser dans [[Acte I - Dans les Brumes/Arc C - Dans la Vallée]]. Il la laisse vivre car il présume qu'elle a déjà livré son message, et parce qu'il a déjà accepté de sacrifier son armure animée à la place d'Arabelle.)
+
+Strahd demande ensuite quelle affaire les joueurs peuvent avoir sur la route de Yester Hill - surtout à une heure aussi sombre et abandonnée de la nuit. "Je trouve que ce sont les dernières heures avant l'aube que je préfère", dit Strahd, "mais j'avoue que je ne m'attendais pas à trouver des âmes soeurs sur un chemin aussi solitaire ce soir."
+
+Si les joueurs tentent de dissimuler leur objectif, Strahd devine à haute voix qu'ils sont venus pour la même raison que lui - assister au grand "triomphe" des Folks de la Forêt, la naissance du fléau arboricole qu'ils appellent Wintersplinter. "Bien que", note-t-il avec amusement, ses yeux sombres brillant dans l'obscurité, "je devine que vous êtes venus non pour célébrer cette puissante victoire de leurs druides, mais pour la vaincre - par l'épée et les sorts."
+
+Dans les deux cas, Strahd invite les joueurs à marcher à ses côtés alors qu'il chevauche vers Yester Hill, "car la route est sombre et la compagnie toujours bienvenue". S'ils refusent, il les réprimande pour leur impolitesse et ordonne à Bucéphale d'avancer avant de disparaître dans les ombres devant. (C'est la capacité de marche éthérée de Bucéphale, l'emportant lui et Strahd sur le plan éthéré.)
+
+### Marcher avec Strahd
+Si les joueurs acceptent l'invitation de Strahd et marchent à ses côtés, il commence par leur demander comment ils ont apprécié leur séjour à Barovia depuis leur dernière rencontre. Si les joueurs ont chassé Volenta Popofsky dans [[Arc D - La Fête de St. Andral]], Strahd note qu'elle semble avoir eu une rencontre assez mémorable avec eux - un conte qu'il a beaucoup apprécié entendre à son retour au château Ravenloft. ("Comme mes autres épouses, elle s'efforce toujours de me plaire - bien que je doive avouer avec gêne que ma faveur peut être capricieuse.")
+
+Si les joueurs le demandent, Strahd est ravi de présenter son cauchemar Bucéphale. "Le Cheval-Merveille, ils l'appelaient de son vivant", note Strahd, traçant ses mains dans les flammes de la crinière du cauchemar. "Il est un autre genre de merveille désormais."
+
+Si les joueurs s'enquièrent du dîner à Ravenloft, ou si les joueurs ont précédemment rejeté l'invitation de Rahadin à dîner avec Strahd dans [[Arc O - Dîner avec le Diable]], Strahd partage qu'il a hâte de dîner avec eux à son château, et qu'il espère qu'ils partagent son enthousiasme.
+
+Si les joueurs demandent le contenu des sacoches de Strahd, Strahd se contente de dire qu'il s'agit de ses effets personnels - une vieille possession dont il est venu se débarrasser en échange de quelque chose de nouveau. (Strahd n'en dira pas plus.)
+
+Si les joueurs demandent si Strahd était la silhouette qui les observait près du cairn de Kavan, Strahd sourit légèrement. Au lieu de répondre à leur question, il dit : "Curieusement, je n'étais pas la première créature appelée 'buveur de sang' dans cette vallée. Pouvez-vous deviner qui c'était ?" Quelle que soit la réponse des joueurs, il partage ensuite l'histoire suivante :
+
+
+
+<div class="description">
+<p>"Bien avant mon époque, dans les siècles avant qu'elle ne passe sous ma protection, Barovia était gouvernée par un genre différent d'obscurité. Son nom était Kavan, seigneur de guerre des Tribus des Montagnes, et il balaya les Montagnes Balinok comme une tempête rugissante pour massacrer tous ceux qui se dressaient sur son passage. On l'appelait le Buveur de Sang, à cause de la lance maudite qu'il portait et de sa propre soif terrible.</p>
+<p>"Voyez-vous, Kavan n'était pas de ma lignée. Il était quelque chose de bien pire - un homme de convoitises et d'ambitions mortelles. Il buvait le sang de ses victimes et s'enterrait sous la terre rougie lorsqu'il dormait, se baignant dans leur terreur et leur douleur."</p>
+<p>"Son règne, bien qu'il n'ait duré que le temps de sa vie, fut une ère d'excès sanglants - un témoignage des profondeurs de la brutalité humaine." Le sourire de Strahd est mince et tranchant, comme du verre brisé. "Souvenez-vous de son histoire tandis que vous parcourez ces terres, car les échos du passé ne nous quittent jamais, et le sang que Kavan a versé souille encore ces collines sacrées."</p>
+</div>
+
+### Le Pari de Strahd
+Alors qu'il s'approche de la Colline d'Hier avec les joueurs, Strahd leur demande - sur un ton ennuyé et désintéressé - pourquoi il devrait leur permettre de se mêler des affaires de ses serviteurs à la Colline d'Hier. "Après tout", note-t-il avec un éclat dans les yeux, "ils travaillent si *dur* dans leurs efforts pour me plaire."
+
+Comme lors de sa première rencontre avec les joueurs, Strahd est ravi d'accepter tout argument raisonnable que les joueurs pourraient avancer pour soutenir la neutralité de Strahd, bien qu'il se délecte encore une fois à jouer l'avocat du diable tout au long de la conversation. Strahd pourrait finalement accepter les arguments suivants, entre autres :
+
+* Comme avec Volenta, Strahd semble apprécier de voir ses serviteurs mis à l'épreuve et défié. Permettre aux joueurs de combattre les Gens de la Forêt à la Colline d'Hier offrira une occasion supplémentaire de le faire.
+* Strahd semble s'intéresser suffisamment aux joueurs pour les avoir invités personnellement à dîner dans son château. Les tuer maintenant, avant qu'ils n'aient eu la chance de le faire, serait un gaspillage.
+* Le Mage des Vins est un pilier économique de la communauté barovienne. Priver le peuple de Strahd du vin nuirait à une vieille et honorable famille, et apporterait tristesse et désespoir aux gens qu'ils servent.
+
+> [!abstract] **Les Joueurs Attaquent**
+> Si les joueurs tentent d'attaquer Strahd ou Bucéphale à un moment donné, Bucéphale utilise immédiatement sa réaction ***fuite éthérée*** pour entrer dans le Plan Éthéré, emmenant Strahd avec elle. Strahd réapparaît alors à cheval sur Bucéphale à une courte distance au tour suivant, et réprimande les joueurs pour leur précipitation et leur impolitesse.
 >  
->  It appears to be a small statuette of a butterfly, no larger than the palm of your hand and carved from petrified wood, which is embedded with small, glittering blue minerals that seem to dance with captured moonlight. The figurine's wings are outstretched, as though caught in mid-flight.
+> Si les joueurs tentent à nouveau d'attaquer Strahd ou Bucéphale, Strahd ne revient pas une seconde fois, et se dirige directement vers les druides de la Colline d'Hier.
 
-At Muriel’s request, Kavan can share the following information about the Forest Folk of Yester Hill:
-
-* The druids of the Forest Folk have been more active lately, gathering berserkers from the northern basin and leading blights of the Gulthias Tree down to the lands below. They appear to have obtained a new leader: a dark-skinned woman clad in a white gown and a golden tiara, with piercing eyes and a pair of sharp fangs. Kavan believes her to be a mage, having seen her conjure strange lights and sounds. (This is Ludmilla Vilisevic, one of Strahd’s vampiric brides.)
-* Recently, the Forest Folk of Yester Hill—which Kavan’s people once called Sarmizeget—obtained something both new and yet incredibly old: an enchanted gemstone once belonging to Kavan's people that he thought lost long ago. The Forest Folk have constructed an enormous effigy of wood and earth atop the hill, within the great stone circle that serves as their meeting place, and placed the gemstone within the statue’s chest.
-* Some of the Forest Folk appear to be preparing to instill the power of the gemstone within the statue, which is woven from the roots of the Gulthias Tree that grows atop Yester Hill. The ritualists have bonded themselves to the tree’s bloodthirsty roots, and plan to harness the power of the eternal storm above Yester Hill to give life to the being within the statue.
-* The Gulthias Tree is a dark and corrupted entity, and an accomplice to the druids’ will. Kavan warns them that the tree might attempt to obstruct their efforts, but informs them that radiance burns it and slows its new growth. He notes that the tree thirsts especially for cursed blood, which strengthens and restores it.
-* There are more than a dozen druids and berserkers now atop Yester Hill, though more have been arriving every day. They appear to be waiting for the one they call the “Shadowed Lord"—the lord of the fortress to the east. (Kavan is referring to Strahd von Zarovich and Castle Ravenloft.)
-
-Kavan advises the players that the druids of the Forest Folk appear to be far less capable than their ancestors. Should the players succeed in disrupting their ritual — such as by removing the gemstone from the statue’s chest before the ritual is complete— the resulting backlash from the storm’s harnessed energy could kill any surviving ritualists.
-
-Should the players express interest in destroying the Gulthias Tree itself, Kavan warns them against doing so, noting that, while he does not know the source of its power, it is the host to a great and terrible evil. He can share, however, that until the mage taught the druids to command its children, the tree took little action on its own and appeared content to remain atop Yester Hill. Should the players defeat the druids of the Forest Folk, he notes, they will likely find the Gulthias Tree to pose little threat to them or their friends.
-
-As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve Svarog's wand, which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
-
-> [!abstract]+ **Kavan's Shame**
-> If a player asks Kavan about his epitaph, he replies, "I failed my people in life. In death, I wish to atone for those mistakes."
-## J4b. The Nightmare
-After departing Kavan’s cairn, the players can return to the path and continue traveling south to Yester Hill. After one and one-quarter miles and an additional twenty-five minutes, the players encounter Strahd von Zarovich riding his **nightmare**, Beucephalus. Read:
+Si les joueurs convainquent avec succès Strahd de leur permettre de combattre les Gens de la Forêt, en atteignant la base de la Colline d'Hier, Strahd note qu'il est impressionné par leur audace et leur propose le pari suivant : s'ils réussissent leur tâche, ils pourront le retrouver à la base du Mur Murmurant à l'ouest de la Colline d'Hier après le rituel, où il leur offrira un cadeau - et partagera avec eux un secret. (Si on lui demande ce que les joueurs perdront en cas d'échec, Strahd se contente de sourire et note que leur "adversaire" a probablement des projets pour cette éventualité.)
+# J5. Colline d'Hier
+Le dernier tronçon du sentier menant à la Colline d'Hier est décrit dans <span class="citation">Y1. Sentier (p. 197)</span>. Cependant, lisez le texte supplémentaire suivant lorsque les joueurs arrivent à la base de la Colline d'Hier :
 
 <div class="description">
-<p>"Good evening," echoes a voice from ahead of you, "or, perhaps, good morning?"</p>
-<p>A tall, pale figure emerges from the inky darkness betwixt the trees, riding atop a fiery steed. The figure's eyes burn through the shadows like smoldering coals, and his alabaster skin seems as cold as marble in the moonlight. He is immaculate in dark, tailored armor, and beneath his pristine, obsidian-black hair, his lips—as red as fresh blood—curl into a satisfied, malevolent smile.</p>
-<p>The steed beneath him snorts, flames dancing from its nostrils as its fiery mane flickers like a hellish halo around its head. Wisps of acrid smoke fill the air with a scent like sulfur and burnt flesh, and powerful muscles flex faintly beneath the contours of its coal-black hide. You notice a flash of metal, gleaming with gold and deep burgundy, glittering within the saddlebags strapped to the beast’s back.</p>
-<p>The man's heel clicks against his steed's side, and it steps obediently forward to obstruct your path. Strahd's smile widens as he drinks in the sight of you, his gaze boring through the dancing shadows that lurk amidst the path.</p>
+<p>Un éclair de lumière vert vif brillante scintille soudain de l'intérieur d'un énorme anneau de rochers empilés au sommet de la colline. Alors que vous observez, la lumière palpite comme un cœur instable - même si elle grandit lentement, progressivement, mais sûrement en intensité. Vous pensez pouvoir entendre faiblement le son lointain de tambours résonnant à travers les montagnes depuis le sommet de la colline.</p>
 </div>
 
-Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. In addition to having 104 hit points, it also gains the following feature:
 
-* ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
 
-The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as described in **Strahd’s Animated Armor**, p. 227). It is currently disassembled and inactive, though it attacks with its ***shocking bolt*** action if the players disturb it.
+Lorsque les joueurs arrivent à Yester Hill, si Strahd les a accompagnés, il les informe que, s'ils souhaitent honorer leur pari, ils doivent d'abord le rencontrer au point où la route rejoint le sommet de la colline. (Il promet aux joueurs qu'il "veillera à ce que les festivités ne commencent pas sans vous", ajoutant : "Vous devez rencontrer votre adversaire, après tout".) Si les joueurs acceptent, il note qu'il les "verra au sommet" et disparaît à cheval sur Bucéphale.
 
-![[Strahd and Beucephalus.png]]
-<span class="credit">"Strahd and Beucephalus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Les joueurs peuvent grimper le sentier directement jusqu'au <span class="citation">Y3. Cercle des Druides (p. 197)</span> au sommet de la colline. (Ils n'ont pas besoin de traverser les cairns des berserkers, qui sont décrits dans <span class="citation">Y2. Cairns des Berserkers (p. 197)</span> et qu'ils croisent pendant leur ascension de la colline, pour y arriver.)
 
-### Greeting Strahd
-Strahd greets the players with familiarity. He also addresses their companions as follows:
+> [!info]+ **Les nuées de corbeaux**
+> Les **nuées de corbeaux** qui ont accompagné les joueurs à Yester Hill les suivent dans les airs, mais ne participent pas aux combats. (Si les joueurs le mentionnent, Muriel souligne qu'ils seraient peu utiles pour attaquer des ennemis plus dangereux que les pestes de la vinerie, mais note sa conviction qu'ils pourraient tout de même trouver un moyen d'aider.)
+>
+> Bien que les corbeaux n'agiront pas comme combattants lors des batailles, ils peuvent aider les joueurs dans leur combat contre Ludmilla et dans leurs efforts pour s'échapper si le rituel échoue. Voir [[#Ludmilla's Provocations]] et [[#J5f. Stopping the Ritual]] pour plus d'informations sur la façon dont les corbeaux aident.
 
-* If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
-* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
-
-Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
-
-If the players attempt to conceal their purpose, Strahd guesses aloud that they have come for much the same reason he has—to witness the Forest Folks’ great “triumph," the birth of the **tree blight** they call Wintersplinter. “Although," he notes with amusement, his dark eyes glittering in the darkness, “I would hazard to guess that you have come not to celebrate their druids’ mighty victory, but to vanquish it—by sword and spell."
-
-In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
-### Walking with Strahd
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in ***Arc E: St. Andral’s Feast***, Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
-
-If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
-
-If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
-
-If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
-
-If the players ask whether Strahd was the silhouette watching them by Kavan’s cairn, Strahd smiles faintly. Instead of answering their question, he says, "Intriguingly, I was not the first creature called 'blood-drinker' in this valley. Can you guess who that was?" Regardless of the players' answer, he then shares the following tale:
+## J5a. Entrer dans le Cercle
+Le cercle des druides est largement tel que décrit dans <span class ="citation">Y3. Cercle des Druides (p. 197)</span>. Cependant, ajoutez le texte suivant à la fin de la description de la zone :
 
 <div class="description">
-<p>"Long before my time, in the centuries before it came under my protection, Barovia was ruled by a different kind of darkness. His name was Kavan, warlord of the Mountain Tribes, and he swept forth from the Balinok Mountains like a raging storm to slaughter all who stood in his path. They called him Blood-Drinker, for the cursed spear he carried and his own, terrible thirst.</p>
-<p>"Kavan, you see, was not of my kin. He was something far worse—a man of mortal lusts and ambitions. He drank the blood of his victims and buried himself beneath the red-stained soil when he slept, bathing in their terror and pain."</p>
-<p>"His reign, though it lasted no longer than his lifetime, was an era of bloody excess—a testament to the depths of human brutality." Strahd's smile is thin and sharp, like broken glass. "Remember his tale as you walk these lands, for the echoes of the past never leave us, and the blood Kavan spilled still stains these hallowed hills."</p>
+<p>Une lueur vert profond jaillit de la poitrine de la statue, et le battement des tambours emplit vos oreilles. Alors que vous passez entre les rochers, il est rejoint par le son d'un chant, qui gronde d'un cercle de treize silhouettes debout autour du socle de la statue. Par-dessus les peaux de bêtes qu'ils portent, ils arborent des bois, des peaux de loups et des couronnes tressées d'épines vicieuses, et des marques cramoisies peignent leurs visages d'une nuance sanglante.</p>
+<p>Un cercle de racines noires épaisses de 90 cm de haut entoure les figures chantantes, juste sous une fine couche de brume pâle et flottante. Plusieurs silhouettes brandissant des haches de pierre et des quartiers de staffes forment un anneau protecteur autour, leurs bouches et leurs avant-bras portant des marques cramoisies dentelées. Une femme à la peau sombre vêtue d'une robe blanche se tient à leur tête, les yeux fixés sur la statue et le menton fièrement levé.</p>
 </div>
 
-### Strahd's Wager
-As he and the players approach Yester Hill, Strahd asks them—in a bored, disinterested tone—why he should allow them to meddle in the affairs of his servants at Yester Hill. “After all," he notes, with a gleam in his eyes, “they do work so *hard* in their efforts to please me."
-
-As in his first encounter with the players, Strahd is glad to accept any reasonable argument that the players might make in support of Strahd’s neutrality, though he once again revels in playing Devil’s advocate throughout the conversation. Strahd might eventually accept the following arguments, among others:
-
-* As with Volenta, Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
-* Strahd appears to be interested enough in the players to have invited them to dine personally at his castle. Killing the players now, before they’ve had a chance to do so, would be a waste.
-* The Wizard of Wines is an economic pillar of the Barovian community. Depriving Strahd’s people of wine would do harm to an old and honorable family, and bring sadness and despair to the people they serve.
-
-> [!abstract] **The Players Attack**
-> If the players move to attack Strahd or Beucephalus at any point, Beucephalus immediately uses its ***ethereal escape*** reaction to step into the Ethereal Plane, bringing Strahd along with it. Strahd then reappears astride Beucephalus a short distance away the following round, whereupon he chides the players for their hastiness and rudeness.
-> 
-> If the players then move to attack Strahd or Beucephalus again, Strahd doesn’t return a second time, instead proceeding directly to meet the druids of Yester Hill.
-
-If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager: if the players succeed in their task, they may meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift—and share with them a secret. (If asked what the players will lose should they fail, Strahd merely smiles, and notes that their "opponent" likely has plans for that eventuality.)
-# J5. Yester Hill
-The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
+Juste à côté de l'entrée de l'anneau de rochers noirs qui forme le **Cercle des Druides** et à 3 mètres du sol, flotte Strahd von Zarovich, assis sur sa **nightmare** Bucéphale. Lorsque les joueurs entrent dans le cercle, si Strahd les remarque, lisez :
 
 <div class="description">
-<p>A flash of brilliant viridian light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
+<p>Vous entendez une voix froide et résonnante familière percer l'air au-dessus de vous. "Une démonstration impressionnante, ne trouvez-vous pas ?" intone Strahd von Zarovich.</p>
+<p>Il est monté sur sa monture enflammée, qui plane à près de 3 mètres du sol au-dessus de vous. Son manteau fouette doucement l'air glacial, et un petit sourire contemplatif courbe ses lèvres tandis qu'il retourne un petit objet dans sa main. "Ludmilla a toujours aimé en mettre plein la vue."</p>
 </div>
 
-When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
+Les treize silhouettes autour du socle de la statue sont treize **naturalistes druides**. Les quatre silhouettes les protégeant sont deux **assaillants druides** et deux **berserkers**. La femme est Ludmilla Vilisevic, l'une des épouses vampires de Strahd.
 
-The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
 
-> [!info]+ **The Swarms of Ravens**
-> The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
-> 
-> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla & Muriel]] and [[#Stopping the Ritual]] for more information on how the ravens help.
-## J5a. Entering the Circle
-The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
 
-<div class="description">
-<p>A deep viridian light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
-<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
-</div>
+> [!combat]- **Équilibrer les gardes du rituel**
+> Le combat contre les **assaillants druides** et les **berserkers** (voir [[Arc J - Le Joyau Volé#J5c. Le Rituel Commence|Le Rituel Commence]] ci-dessous) est un affrontement difficile pour un groupe de cinq joueurs de niveau 5, un allié de CR 1 (Ireena Kolyana) et un allié de CR 2 (Muriel Vinshaw), et consommera environ 35% de leurs points de vie maximum totaux. Pour des groupes plus petits ou plus grands, modifiez le combat comme suit :
+>
+> * ***Trois Joueurs.*** Réduisez le nombre d'assaillants druides à un.
+> * ***Quatre Joueurs.*** Réduisez le nombre de berserkers à un.
+> * ***Six Joueurs.*** Augmentez le nombre de berserkers à trois.
 
-Just beside the entrance to the ring of black boulders that forms the **Druids’ Circle** and ten feet above the ground hovers Strahd von Zarovich, who is seated on his **nightmare** Beucephalus. As the players enter the circle, if Strahd notices them, read:
+Un joueur qui réussit un jet de Sagesse (Perception) de DD 14 remarque que l'objet dans la main de Strahd est une vieille pièce d'échecs en bois bien sculptée : un pion.
 
-<div class="description">
-<p>You hear a familiar cold, resonant voice pierce the air above you. "Quite the impressive display, wouldn't you say?" intones Strahd von Zarovich.</p>
-<p>He is mounted upon his fiery steed, which hovers nearly ten feet off of the ground above you. His cloak whips gently in the chill air, and a small, contemplative smile curves his lips as he turns a small object over in his hand. "Ludmilla was always one to put on a show."</p>
-</div>
-
-The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
-
-> [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the number of druid assailants to one.
-> * ***Four Players.*** Reduce the number of berserkers to one.
-> * ***Six Players.*** Increase the number of berserkers to three.
-
-A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
-## J5b. Ludmilla's Challenge
-Shortly after the players enter the circle, any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
+## J5b. Le Défi de Ludmilla
+Peu après que les joueurs entrent dans le cercle, les joueurs qui regardent encore le cercle de druides en train de psalmodier voient Ludmilla se tourner, les remarquer et disparaître dans un tourbillon de brume. Elle réapparaît ensuite devant les joueurs de la même manière, se tenant à environ 9 mètres.
 
 ![[Ludmilla.png]]
-<span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Ludmilla Vilisevic" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-> [!profile]+ **Ludmilla Vilisevic**
-> **Roleplaying Information**
-> ***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
-> 
-> ***Emotions.*** Ludmilla most often feels intrigued, annoyed, thoughtful, or (mildly) amused.
-> 
-> ***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as Khazan once was.
-> 
-> ***Inspirations.*** When playing Ludmilla, channel Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*), and Dr. Gregory House (*House*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, Ludmilla is an ambitious, detached, and sociopathic mage, dedicated to attaining knowledge and power at all costs.
-> 
-> ***Morale.*** In a fight, Ludmilla would seek to lure her opponent into a pre-prepared trap, fleeing if outmatched and unable to meet the fight with some sort of advantage.
-> 
-> ***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **Barovian witches** at Castle Ravenloft.
+> [!profile]+ **Profil : Ludmilla Vilisevic**
+> **Informations pour l'interprétation**
+> ***Résonance.*** Ludmilla devrait inspirer l'irritation par son refus de laisser les joueurs la provoquer (et son incapacité évidente à ressentir de la colère), le malaise avec sa personnalité détachée et analytique, et la colère pour sa condescendance et ses insultes complexes.
+>
+> ***Émotions.*** Ludmilla se sent le plus souvent intriguée, agacée, pensive ou (légèrement) amusée.
+>
+> ***Motivations.*** Ludmilla veut conquérir les secrets de la magie et impressionner suffisamment Strahd pour devenir sa conseillère en arcanes, comme Khazan l'a été autrefois.
+>
+> ***Inspirations.*** Lors de l'interprétation de Ludmilla, canalisez Severus Rogue (*Harry Potter*), Sherlock Holmes (*Sherlock*) et le Dr Gregory House (*Dr House*).
+>
+> **Informations sur le personnage**
+> ***Persona.*** Aux yeux du monde, Ludmilla est une mage ambitieuse, détachée et sociopathe, dédiée à l'acquisition de connaissances et de pouvoir à n'importe quel prix.
+>
+> ***Moral.*** Dans un combat, Ludmilla chercherait à attirer son adversaire dans un piège préparé à l'avance, fuyant si elle est dépassée et incapable d'affronter le combat avec un certain avantage.
+>
+> ***Relations.*** Ludmilla est la deuxième épouse vampirique la plus âgée de Strahd et la matrône de la covée des **sorcières de Barovia** au château du Promontoire Ardent.
 
-Unless the players intervene, the following scene then unfolds:
+À moins que les joueurs n'interviennent, la scène suivante se déroule :
 
-* Ludmilla greets Strahd respectfully, calling him "my Lord," and notes with concern—and a slight edge to her voice—that she had not known he would be bringing additional company.
-* Strahd gestures with a flourish toward the players, and notes, with obvious relish, that he had no hand in their arrival—but that he is intrigued by what Ludmilla will do next.
-* Ludmilla recognizes the pawn in Strahd’s hand and abruptly becomes stony-faced, her voice going sharp and cold. She then eyes the players with distaste, her lip curling, and notes, "Another one of your games, then. Very well, my Lord. I assure you, however, that you shall be disappointed."
-* Strahd gives Ludmilla a small smile, and says, “Perhaps. But I have always relished the opportunity for surprise." He and Beucephalus then vanish, disappearing into the Ethereal Plane through the use of Beucephalus’ ***ethereal stride***.
+* Ludmilla salue Strahd respectueusement, l'appelant "mon Seigneur", et note avec inquiétude - et une légère pointe dans la voix - qu'elle ne savait pas qu'il amènerait d'autres compagnies.
+* Strahd fait un geste grandiose vers les joueurs, et note, avec un plaisir évident, qu'il n'a pas eu la main dans leur arrivée, mais qu'il est intrigué par ce que Ludmilla fera ensuite.
+* Ludmilla reconnaît le pion dans la main de Strahd et devient soudainement de marbre, sa voix devenant tranchante et froide. Elle regarde ensuite les joueurs avec dédain, sa lèvre se tordant, et note : "Un autre de vos jeux, alors. Très bien, mon Seigneur. Je vous assure, cependant, que vous serez déçu."
+* Strahd adresse un petit sourire à Ludmilla et dit : "Peut-être. Mais j'ai toujours apprécié l'opportunité de la surprise." Lui et Bucéphale disparaissent ensuite, se rendant sur le Plan Éthéré grâce à l'***enjambée éthérée*** de Bucéphale.
 
-Ludmilla then greets the players. If they have previously defeated Volenta in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
+Ludmilla salue ensuite les joueurs. Si ces derniers ont auparavant vaincu Volenta dans [[Arc D - La Fête de Saint Andral]], les yeux de Ludmilla se plissent et elle ajoute : "J'ai entendu dire que vous avez eu un différend avec ma sœur-épouse. J'imagine que vous pensiez pouvoir vous reposer sur vos lauriers. Mais Volenta a toujours été une idiote, une tête brûlée et une folle. Vous me trouverez bien moins agréable comme adversaire - comme ces misérables corbeaux et leurs semblables l'ont fait."
 
-As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
 
-Ludmilla flees if attacked, using her ***misty step*** feature to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
 
-Otherwise, Ludmilla can share the following information if asked:
+Au fur et à mesure que cette conversation se déroule, les deux berserkers et les deux druides assaillants se détachent de l'anneau de protection autour du cercle de druides et s'approchent des joueurs, se déplaçant pour prendre Ludmilla en tenaille. Ils arrivent à l'emplacement de Ludmilla deux rounds après qu'elle ait salué les joueurs pour la première fois.
 
-* Three months ago, when Doru's rebellion awoke Strahd from his slumber, there was a raven among them—but no ordinary raven. It seemed to possess an intelligence far beyond any ordinary beast.
-* Strahd took the raven captive, and when Ludmilla returned to the castle—"to my Lord's service"—she was granted permission to investigate its properties. She soon found that the raven swiftly regenerated any wounds dealt to it, even those that seemed to be mortal—except those inflicted by silver or necrotic magic. She surmised that she had discovered a **wereraven**—a mythic counterpart to the wolfish lycanthropes that ranged in packs across the Barovian valley.
-* With her research completed, Ludmilla moved to vivisect the creature, aiming to uncover any final hidden attributes. "It shrieked and squealed like a pig," she notes coldly, "but fortunately, the silver of its restraints burned it too fiercely for it to even contemplate the possibility of escape." (If Muriel is with the players, she begins to tremble, her hand curling tightly around the hilt of her shortsword until her knuckles turn white.)
-* When the raven finally expired, it reverted to the form of a man—seemingly proving Ludmilla's theory. Ludmilla took the body to Baba Lysaga—an old colleague and mentor of hers—in Berez. Through Baba Lysaga's guidance, she tracked the wereraven to a seditious and traitorous family that dwelled in the Wizard of Wines winery—the Martikov clan.
-* Baba Lysaga vowed to see the wereravens dead, and Ludmilla brokered an alliance between her and the druids of Yester Hill, who were eager to bring the downfall of any who defied their "Shadowed Lord." 
-* It was sheer luck that Baba Lysaga's scarecrows uncovered the source of the winery's fecundity—a pair of enchanted gemstones that the Forest Folk recognized as heirlooms stolen from their ancestors. The druids were, understandably, eager to reclaim their heritage from the feathered usurpers.
+Ludmilla s'enfuit si elle est attaquée, utilisant sa capacité de Pas brumeux pour se téléporter à 9 mètres dans les airs et vers les druides en train de psalmodier. Ce faisant, elle crée une Courtine de brume d'un rayon de 18 mètres centrée sur la statue pour couvrir sa retraite. (Voir Courtine de brume ci-dessous.)
 
-Ludmilla concludes by warning the players that, though they may view her as their enemy, their "raven friends" cannot be trusted. "What other secrets are they hiding from you, I wonder?" she asks, eyeing Muriel (if present) thoughtfully. "But a good specimen never holds its secrets for long."
-## J5c. The Ritual Begins
-As the conversation winds down, or if the players attack or attempt to bypass Ludmilla, read:
+Sinon, Ludmilla peut partager les informations suivantes si on le lui demande :
 
-<div class="description">
-<p>The dark storm roils overhead — and a single bolt of lightning lances down from the boiling clouds, surrounding the statue in a nimbus of white, blinding light. A deep groan seems to shudder through the very earth of the hill, and the wind around you whips up into a hot and heavy gale, tearing through the tall grass as it shrieks across the hilltop.</p>
-<p>The sounds of chanting and drum beats intensify—and sparks of deep, viridian energy begin to arc across the earth and toward the statue.</p>
-</div>
+* Il y a trois mois, lorsque la rébellion de Doru a réveillé Strahd de sa torpeur, il y avait un corbeau parmi eux - mais pas un corbeau ordinaire. Il semblait posséder une intelligence bien supérieure à celle de n'importe quelle bête ordinaire.
+* Strahd a fait prisonnier le corbeau, et lorsque Ludmilla est revenue au château - "au service de mon Seigneur" - elle a eu la permission d'enquêter sur ses propriétés. Elle a vite découvert que le corbeau régénérait rapidement toutes les blessures qui lui étaient infligées, même celles qui semblaient mortelles - sauf celles infligées par l'argent ou la magie nécrotique. Elle en a déduit qu'elle avait découvert un corbeau-garou - un pendant mythique aux lycanthropes lupins qui parcouraient la vallée de Barovia en meutes.
+* Une fois ses recherches terminées, Ludmilla s'est mise à pratiquer la vivisection sur la créature, visant à découvrir ses derniers attributs cachés. "Elle a crié et gémit comme un cochon", note-t-elle froidement, "mais heureusement, l'argent de ses entraves la brûlait trop violemment pour qu'elle envisage même la possibilité de s'échapper." (Si Muriel est avec les joueurs, elle commence à trembler, sa main se crispant sur la poignée de son épée courte jusqu'à ce que ses jointures blanchissent.)
+* Lorsque le corbeau a finalement expiré, il a repris forme humaine - semblant prouver la théorie de Ludmilla. Ludmilla a amené le corps à Baba Lysaga - une vieille collègue et mentor - à Berez. Grâce aux conseils de Baba Lysaga, elle a remonté la piste du corbeau-garou jusqu'à une famille séditieuse et traître qui vivait au domaine vinicole du Mage des Vins - le clan Martikov.
+* Baba Lysaga a juré de voir les corbeaux-garous morts, et Ludmilla a négocié une alliance entre elle et les druides de la Colline d'Yester, qui étaient désireux de provoquer la chute de ceux qui défiaient leur "Seigneur des Ombres".
+* C'était par pure chance que les épouvantails de Baba Lysaga ont découvert la source de la fécondité du domaine vinicole - une paire de gemmes enchantées que les Gens de la Forêt ont reconnu comme des héritages volés à leurs ancêtres. Les druides étaient, naturellement, désireux de récupérer leur héritage des usurpateurs emplumés.
 
-The lightning strike signals the true beginning of the druids’ ritual. Once the ritual begins, the thirteen **druid naturalists** encircling the statue use their action each turn to continue chanting and beating their drums. While participating in the ritual, a druid can't move or use bonus actions or reactions.
+Ludmilla conclut en avertissant les joueurs que, bien qu'ils la considèrent comme leur ennemie, leurs "amis corbeaux" ne sont pas dignes de confiance. "Quels autres secrets vous cachent-ils, je me le demande ?" demande-t-elle en regardant pensivement Muriel (si présente). "Mais un bon spécimen ne garde jamais ses secrets longtemps."
 
-> [!info]+ **Completing the Ritual**
-> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. On each round that fewer than twelve druids are able to chant (e.g., because some druids have died, or due to a *silence* spell), roll a d12. 
-> 
-> If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 17 Constitution saving throw or take 7 (2d6) lightning damage and be dazed until the start of their next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
-> 
-> The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
-
-> [!abstract]+ **The Ritual is Completed**
-> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
-> 
-> If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
-> 
-> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in <span class="citation">Hidden Graves (p. 198)</span>. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
-> 
-> When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
-> 
-> At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
-## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[#J5e. The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
-<br>
-
-![[Yester Hill Layout (Presentation) (1).png]]
-<br>
-
-> [!info]+ **The Size of the Hill**
-> The area encompassed by <span class="citation">Y3. Druids' Circle (p. 197)</span> is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
-## J5e. Ludmilla's Barricade
-Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
-### The Shroud of Mist
-This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
- 
-A non-undead creature that comes into contact with the mist for the first time on a turn must succeed on a DC 15 Constitution saving throw or take 10 (3d6) necrotic damage and be slowed until the start of its next turn. (It must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)
-
-> [!info]+ **Laying Out the Battlefield**
-> Once the players move through the ring of mist, the structure of the battlefield is as follows:
-> 
-> * The Huge statue of Strahd stands at the center of the ring.
-> * Twelve **druid naturalists** encircle the statue, with each druid standing 10 feet from the statue. Svarog, a thirteenth **druid naturalist**, stands between them.
-> * The fifteen-foot-thick wall of roots surrounds the circle of druids, with the wall’s inner edge five feet away from the druids.
-> * Ludmilla’s thin ring of mist begins twenty feet away from the outer edge of the wall of roots.
-> * Ludmilla remains above the wall of roots and within the circle enclosed by the ring of mist.
-### The Wall of Roots
-The first time that a player passes through Ludmilla’s shroud of mist, read:
+## J5c. Le rituel commence
+Lorsque la conversation touche à sa fin, ou si les joueurs attaquent ou tentent de contourner Ludmilla, lisez :
 
 <div class="description">
-<p>A druid at the center of the circle lifts his hands high, clasping a thin, stone-gray wand in his pale, bony fingers. At his gesture, the ring of black roots pulsates as if alive, quivering and writhing as their blackened bark rises into the air.</p>
-<p>Thorns—long, wicked, and sharp—erupt from the roots' edges, even as droplets of crimson blood bead upon the roots' soft, spongy surfaces. The roots themselves grow vertically, twisting and intertwining, until they form a wall of dark, impenetrable foliage thirty feet high and fifteen feet deep. Black roots pierce from its sides and rise into the air above it, where they tremble and writhe like slick, muddy tendrils.</p>
+<p>L'orage noir tourbillonne au-dessus - et un seul éclair jaillit des nuages bouillonnants, entourant la statue d'une auréole de lumière blanche et aveuglante. Un profond gémissement semble faire frissonner la terre même de la colline, et le vent autour de vous se lève en une bourrasque chaude et lourde, déchirant les hautes herbes alors qu'il hurle sur le sommet de la colline.</p>
+<p>Les sons des psalmodies et des battements de tambour s'intensifient - et des étincelles d'une énergie vert profond commencent à jaillir à travers la terre et vers la statue.</p>
 </div>
 
-The druid is Svarog, and the wand that he wields is the one mentioned by Kavan. 
+La frappe de la foudre signale le véritable début du rituel des druides. Une fois le rituel commencé, les treize druides naturalistes encerclant la statue utilisent leur action à chaque tour pour continuer à psalmodier et à battre leurs tambours. Pendant qu'ils participent au rituel, un druide ne peut ni se déplacer, ni utiliser d'actions de bonus ou de réactions.
 
-If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the necrotic damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
+> [!info]+ **Compléter le rituel**
+> Pour compléter le rituel, les druides doivent utiliser leurs actions pour entonner des chants pendant 12 rounds, avec au moins l'un d'entre eux chantant chaque round. À chaque round où moins de douze druides sont capables de chanter (par exemple, parce que certains druides sont morts ou en raison d'un sort de *silence*), lancez un d12.
+>
+> Si le résultat est supérieur au nombre de druides chantants ce round-là, des étincelles d'éclairs verts jaillissent de la statue, choquant toutes les créatures à l'intérieur du mur de racines. Chaque cible doit réussir un jet de sauvegarde de Constitution CD 17 ou subir 17 (2d6) dégâts d'électricité et être étourdie jusqu'au début de son prochain tour. (Une créature étourdie peut se déplacer ou entreprendre une action lors de son tour, mais pas les deux. Elle ne peut pas non plus utiliser une action bonus ou une réaction.)
+>
+> La deuxième fois que ces éclairs sont déclenchés, les dégâts augmentent à 25 (3d6) dégâts d'électricité. La troisième fois que ces éclairs sont déclenchés, le rituel est ruiné, libérant son énergie destructrice comme décrit dans **Arrêter le rituel** ci-dessous.
 
-The statistics of the wall of roots are as follows:
+> [!abstract]+ **Le rituel est terminé**
+> Si les druides réussissent à compléter le rituel, la **flétrissure d'arbre** Wintersplinter naît comme décrit dans <span class="citation">Rituel des druides (p. 200)</span>. Les druides naturalistes se tournent alors pour attaquer les joueurs tandis que Wintersplinter commence sa marche sur le vignoble du Sorcier des Vins. (Si les joueurs ne l'arrêtent pas, Wintersplinter détruit le vignoble comme décrit dans <span class="citation">Wintersplinter attaque (p. 180)</span>, puis retourne à la colline de Yester, où il se tient immobile près de son lieu de naissance en attendant d'autres ordres.)
+>
+> Si les joueurs sont vaincus, les druides les stabilisent et les amènent à l'Arbre de Gulthias comme sacrifices. Avant de les attacher, les druides retirent toutes les armes, focaliseurs, objets magiques et contenants (par exemple, sacs à dos) visibles ou facilement trouvables des personnages des joueurs, qu'ils entreposent à la base de la statue qui abritait autrefois Wintersplinter.
+>
+> Tous les druides quittent alors la colline, à l'exception de Svarog, qui s'enterre dans la boue à proximité comme décrit dans <span class="citation">Tombes cachées (p. 198)</span>. Deux **berserkers** s'enterrent également dans la boue non loin. Les joueurs doivent réussir un jet de Dextérité (Discrétion) DD 11 pour récupérer leurs affaires sans réveiller Svarog ou ses gardes berserkers.
+>
+> Quand les joueurs reprennent connaissance, ils se retrouvent désarmés et attachés au tronc de l'Arbre de Gulthias, avec des toiles de petites racines noires qui sortent de la base de l'arbre et pénètrent leur peau. Un joueur est entravé tant qu'il est lié de cette manière, et empoisonné tant que les racines restent dans sa peau. Une toile de racines a une CA de 10, 25 points de vie et régénère 25 points de vie au compte d'initiative 20 de chaque round si elle a au moins 1 point de vie et n'est pas exposée au soleil ou à l'eau courante.
+>
+> À la fin de chaque heure où un joueur est infesté par les racines de l'arbre, il doit réussir un jet de sauvegarde de Constitution DD 17 ou subir 3 (1d6) dégâts nécrotiques. Son maximum de points de vie est réduit d'un montant égal aux dégâts nécrotiques. Cette réduction dure jusqu'à ce que le joueur termine un repos long, et le joueur meurt si cet effet réduit son maximum de points de vie à 0.
 
-* ***Wall Segments.*** The wall of roots is composed of interconnected segments of black roots. Each segment is five feet tall, five feet wide, and five feet deep, and has AC 15 and 20 hit points, as well as vulnerability to radiant damage and immunity to piercing and psychic damage. Each segment has +3 to Strength and Constitution saving throws and automatically fails all Dexterity, Intelligence, Wisdom, and Charisma saving throws. A segment of roots provides full cover and can't be seen through.
-* ***Segment Regeneration.*** A wall segment regains 10 hit points at initiative count 20 if it has at least 1 hit point and isn't in sunlight. If the segment takes radiant or fire damage, this trait doesn't function on the following round. Reducing a segment to 0 hit points destroys it.
-* ***Wrathful Roots.*** A creature other than Ludmilla that moves along the outer edge of the wall for the first time on a turn or ends its turn there must make a DC 17 Dexterity saving throw as long, thorned roots whip out from the wall’s surface. (A creature that moves along an interior edge of the wall—such as a corridor carved out by the players' attacks—is not attacked.) On a failure, the creature is grappled by the roots (escape DC 17) and takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. A bundle of grappling roots, which takes damage separately from its wall segment, has AC 15, 10 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
+## J5d. Les gardes druides
+Immédiatement après le début du rituel, les deux **assaillants druides** et deux **berserkers** s'efforcent d'empêcher les joueurs et Muriel d'approcher la statue, par la force si nécessaire. Si elle ne l'a pas déjà fait, Ludmilla se retire dans le cercle des ritualistes dès que le combat éclate. Alors qu'elle se retire, elle utilise son action pour créer un *voile de brume* d'un rayon de 18 mètres autour de la statue pour couvrir sa retraite. (Voir [[Arc J - Le Joyau Volé#The Shroud of Mist|Le Voile de Brume]] ci-dessous.) Elle utilise ensuite son action de bonus pour invoquer son **voile d'ombres*** (voir ci-dessous).
 
-> [!info]+ **Spirit Guardians**
-> The wall of roots takes damage from *spirit guardians* and other spells or abilities that trigger at the start of a creature's turn at initiative count 0 of each round.
 
-> [!info]+ **Moving Through the Wall**
-> A creature can move through the wall of roots, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a DC 17 Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
 
-> [!info]+ **Flying Over the Wall**
-> Whenever a creature other than Ludmilla flies over the wall for the first time on a turn or ends its turn there, if it is within 300 feet of the wall, long, black roots reach from the wall and loop around the creature to hold it in place. The creature must succeed on a DC 17 Dexterity saving throw or be grappled (escape DC 17) and fall prone to the ground below. (The creature takes falling damage as normal.)
-> 
-> While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
-### Ludmilla's Provocations
-Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
+> [!info]+ **La Taille de la Colline**
+> La zone couverte par <span class="citation">Y3. Le Cercle des Druides (p. 197)</span> a approximativement soixante-quinze mètres de diamètre, ou environ trente-huit mètres de rayon. Les joueurs doivent parcourir environ dix-huit mètres depuis leur point d'entrée dans le cercle - où les **berserkers** et les **assaillants druides** les entravent - pour atteindre le bord du voile de brume de Ludmilla.
+## J5e. La Barricade de Ludmilla
+Une fois que les joueurs ont contourné ou vaincu les druides et les berserkers gardant l'entrée du cercle, Ludmilla et ses alliés créent deux barrières pour les entraver : un voile de brume, suivi d'un mur de racines.
+### Le Voile de Brume  
+Ce cylindre creux de brume grise a un rayon de 18 mètres et une hauteur de 45 mètres, avec ses bords opaques et épais de 15 centimètres comme un "rideau" obscurcissant son intérieur, qui est rempli et légèrement obscurci par une brume ténue et inoffensive. Le cylindre dure 10 minutes, ou jusqu'à ce que Ludmilla le dissipe en une action bonus. (Maintenir le voile ne nécessite pas la concentration de Ludmilla.)
 
+Une créature non-morte qui entre en contact avec la brume pour la première fois lors d'un tour doit réussir un jet de sauvegarde de Constitution CD 15 ou subir 10 (3d6) dégâts nécrotiques et être ralentie jusqu'au début de son prochain tour. (Elle doit dépenser 30 cm de déplacement supplémentaire pour chaque 30 cm parcourus avec sa vitesse, les attaques contre elle ont l'avantage, et elle a un désavantage aux jets de sauvegarde de Dextérité.)
+
+> [!info]+ **Disposition du Champ de Bataille**
+> Une fois que les joueurs ont traversé l'anneau de brume, la structure du champ de bataille est la suivante :
+>
+> * La statue Gigantesque de Strahd se dresse au centre de l'anneau.
+> * Douze **naturalistes druides** entourent la statue, chaque druide se tenant à 3 mètres de la statue. Svarog, un treizième **naturaliste druide**, se tient entre eux.
+> * Le mur de racines épais de 4,5 mètres entoure le cercle de druides, le bord intérieur du mur se trouvant à 1,5 mètre des druides.
+> * L'anneau de brume fin de Ludmilla commence à 6 mètres du bord extérieur du mur de racines.
+> * Ludmilla reste au-dessus du mur de racines et à l'intérieur du cercle entouré par l'anneau de brume.
+### Le Mur de Racines
+La première fois qu'un joueur traverse le voile de brume de Ludmilla, lisez :
+
+<div class="description">
+<p>Un druide au centre du cercle lève les mains, serrant une fine baguette gris pierre dans ses doigts pâles et osseux. À son geste, l'anneau de racines noires palpite comme s'il était vivant, frémissant et se tordant alors que leur écorce noircie s'élève dans les airs.</p>
+<p>Des épines - longues, cruelles et acérées - jaillissent des bords des racines, tandis que des gouttelettes de sang cramoisi perlent sur leurs surfaces spongieuses et molles. Les racines elles-mêmes grandissent verticalement, se tordant et s'entremêlant, jusqu'à former un mur de végétation sombre et impénétrable de neuf mètres de haut et quatre mètres et demi de profondeur. Des racines noires percent ses côtés et s'élèvent au-dessus, où elles tremblent et se tordent comme des tentacules visqueuses et boueuses.</p>
+</div>
+
+Le druide est Svarog, et la baguette qu'il brandit est celle mentionnée par Kavan.
+
+Si Muriel est avec les joueurs et subit les dégâts nécrotiques après avoir traversé le voile de brume de Ludmilla, un joueur l'observant remarque qu'elle semble brièvement surprise au début de son tour suivant. (Muriel est contrariée que les dégâts nécrotiques infligés par la brume semblent inhiber son trait de ***régénération***.)
+
+Voici les statistiques du mur de racines :
+
+* ***Segments de mur.*** Le mur de racines est composé de segments interconnectés de racines noires. Chaque segment mesure 1,5 mètre de haut, 1,5 mètre de large et 1,5 mètre de profondeur, a une CA de 15 et 20 points de vie, ainsi qu'une vulnérabilité aux dégâts radians et une immunité aux dégâts perforants et psychiques. Chaque segment a un bonus de +3 aux jets de sauvegarde de Force et de Constitution et échoue automatiquement tous les jets de sauvegarde de Dextérité, d'Intelligence, de Sagesse et de Charisme. Un segment de racines procure un abri complet et ne peut pas être vu à travers.
+* ***Régénération des segments.*** Un segment de mur récupère 10 points de vie à l'initiative 20 s'il lui reste au moins 1 point de vie et qu'il n'est pas exposé à la lumière du soleil. Si le segment subit des dégâts radians ou de feu, cette capacité ne fonctionne pas au tour suivant. Réduire un segment à 0 point de vie le détruit.
+* ***Racines courroucées.*** Une créature autre que Ludmilla qui se déplace le long du bord extérieur du mur pour la première fois lors de son tour ou termine son tour là doit réussir un jet de sauvegarde de Dextérité CD 17, car de longues racines épineuses fouettent depuis la surface du mur. (Une créature qui se déplace le long d'un bord intérieur du mur, comme un couloir créé par les attaques des joueurs, n'est pas attaquée.) En cas d'échec, la créature est empoignée par les racines (DD 17 pour se libérer) et subit 3 (1d6) dégâts contondants plus 7 (2d6) dégâts perforants au début de chacun de ses tours. Une touffe de racines empoignantes, qui subit des dégâts séparément de son segment de mur, a une CA de 15, 10 points de vie, une vulnérabilité aux dégâts radians et une immunité aux dégâts perforants et psychiques.
+
+> [!info]+ **Gardiens spirituels**
+> Le mur de racines subit des dégâts de *gardiens spirituels* et d'autres sorts ou capacités qui se déclenchent au début du tour d'une créature à l'initiative 0 de chaque round.
+
+> [!info]+ **Traverser le mur**
+> Une créature peut traverser le mur de racines, bien que lentement et douloureusement. Pour chaque 30 cm qu'une créature se déplace à travers le mur, elle doit dépenser 1,2 mètre de déplacement. De plus, la première fois qu'une créature entre dans le mur lors de son tour ou termine son tour là, elle doit réussir un jet de sauvegarde de Dextérité CD 17. Elle subit 7d8 dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
+
+> [!info]+ **Voler au-dessus du mur**
+> Chaque fois qu'une créature autre que Ludmilla vole au-dessus du mur pour la première fois lors de son tour ou termine son tour là, si elle se trouve à moins de 90 mètres du mur, de longues racines noires sortent du mur et s'enroulent autour de la créature pour l'immobiliser. La créature doit réussir un jet de sauvegarde de Dextérité CD 17 ou être empoignée (DD 17 pour se libérer) et tomber à terre. (La créature subit les dégâts de chute normaux.)
+>
+> Pendant qu'elle est empoignée de cette façon, la créature subit 3 (1d6) dégâts contondants plus 7 (2d6) dégâts perforants au début de chacun de ses tours. Les racines ont une CA de 15, 20 points de vie, une vulnérabilité aux dégâts radians et une immunité aux dégâts perforants et psychiques.
+### Provocations de Ludmilla 
+Une fois que les joueurs ont traversé le voile de brume, Ludmilla les engage également au combat avec son ***voile d'ombres*** activé. (En raison de sa capacité *contingence* automatique, Ludmilla se téléporte hors du champ de bataille et s'enfuit si sa première phase est réduite à 0 point de vie.)
 <div class="statblock">
-    <h2>Ludmilla, First Form</h2>
-    <em>Medium undead, neutral evil</em>
+    <h2>Ludmilla, Première Forme</h2>
+    <em>Mort-vivant de taille moyenne, neutre mauvais</em>
     <hr>
-    <strong>Armor Class</strong> 16 (natural armor)
+    <strong>Classe d'Armure</strong> 15 (armure naturelle)
     <br>
-    <strong>Hit Points</strong> 120 (16d8 + 48)
+    <strong>Points de vie</strong> 120 (16d8 + 48)
     <br>
-    <strong>Speed</strong> 30 ft., climb 30 ft.
+    <strong>Vitesse</strong> 9 m, escalade 6 m
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
+                <th>FOR</th>
                 <th>DEX</th>
                 <th>CON</th>
                 <th>INT</th>
-                <th>WIS</th>
+                <th>SAG</th>
                 <th>CHA</th>
             </tr>
         </thead>
@@ -1275,286 +1237,275 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
                 <td>10 (+0)</td>
                 <td>12 (+1)</td>
             </tr>
+
+
+
         </tbody>
     </table>
     <hr>
-    <strong>Saving Throws</strong> Dex +6, Wis +5, Int +7<br>
-    <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-    <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
-    <strong>Senses</strong> Darkvision 120 ft., passive Perception 13<br>
-    <strong>Languages</strong> Common, Abyssal, Infernal<br>
-    <strong>Challenge Rating</strong> 6<br>
-    <strong>Proficiency Bonus</strong> +3
+    <strong>Jets de sauvegarde</strong> Dex +6, Int +7, Sag +3<br>
+    <strong>Compétences</strong> Arcanes +7, Perception +3, Discrétion +6<br>
+    <strong>Résistances aux dégâts</strong> nécrotique ; contondant, perforant et tranchant des armes non magiques<br>
+    <strong>Sens</strong> Perception passive 13<br>
+    <strong>Langues</strong> Abyssal, Commun, Draconique, Infernal<br>
+    <strong>Niveau de difficulté</strong> 8<br>
+    <strong>Bonus de maîtrise</strong> +3
     <hr>
-    <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-    <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-    <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+    <p><strong><em>Vision du diable.</em></strong> Ludmilla peut voir normalement dans le noir, magique ou non, jusqu'à une distance de 37 mètres.
+    <p><strong><em>Régénération.</em></strong> Ludmilla récupère 10 points de vie au début de son tour si elle a au moins 1 point de vie et n'est pas à la lumière du soleil ou dans de l'eau courante.
+Si elle subit des dégâts radians ou des dégâts d'eau bénite, ce trait ne fonctionne pas au début de son prochain tour.</p>
+    <p><strong><em>Escalade d'araignée.</em></strong> Ludmilla peut escalader les surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.</p>
+    <p><strong><em>Hypersensibilité à la lumière du soleil.</em></strong> Lorsqu'elle est exposée à la lumière du soleil, Ludmilla subit 20 dégâts radians au début de son tour, et elle a un désavantage lors des jets d'attaque et des jets de caractéristique.</p>
+    <p><strong><em>Forme de brume.</em></strong> Lorsque Ludmilla est réduite à 0 point de vie, ses statistiques sont instantanément remplacées par les statistiques de sa seconde forme.
+Son compteur d'initiative ne change pas.
+Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais elle conserve toutes les conditions qu'elle avait dans sa forme précédente.</p>
     <h3>Actions</h3>
-    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
-    <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
-    <p><strong><em>Hypnotic Pattern (2/day).</em></strong> Ludmilla casts <em>hypnotic pattern</em> (DC 15).</p>
-    <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</em></p>
-    <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-    <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
-    <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>3rd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-    <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
-    <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
-</div>
+    <p><strong><em>Graisse.</em></strong> Ludmilla lance <em>graisse</em> (DD 15) dans une zone carrée de 6 mètres de côté.</p>
+    <p><strong><em>Ordre.</em></strong> Ludmilla lance <em>ordre</em> (DD 15), ciblant jusqu'à deux créatures avec le même ordre.
+Si elle se trouve à moins de 3 mètres de toutes les cibles, elle peut prononcer un ordre de jusqu'à trois mots, plutôt qu'un seul.</p>
+    <p><strong><em>Motif hypnotique (2/jour).</em></strong> Ludmilla lance <em>motif hypnotique</em> (DD 15).</p>
+    <p><strong><em>Porte dimensionnelle (1/jour).</em></strong> Ludmilla lance <em>porte dimensionnelle.</em></p>
+    <h3>Actions bonus</h3>
+    <p><strong><em>Voile d'ombres (1/jour).</em></strong> Ludmilla invoque un voile d'ombres autour d'elle, qui dure 8 heures ou jusqu'à ce qu'elle le dissipe en utilisant une action bonus.
+Tant que le voile persiste, elle gagne une vitesse de vol de 15 mètres (vol stationnaire) et une résistance aux dégâts infligés par les attaques de corps à corps.
+Si Ludmilla résiste à des dégâts de cette manière, l'assaillant subit les mêmes dégâts et du même type.<br>&nbsp;&nbsp;&nbsp;&nbsp; La première fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, le voile s'affaiblit, réduisant sa vitesse de vol à 7,5 mètres et la faisant chuter de 6 mètres.
+La seconde fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, le voile disparaît immédiatement.</p>
+    <p><strong><em>Gelée entravante.</em></strong> Si Ludmilla a lancé le sort <em>graisse</em>, elle lance <em>toile d'araignée</em> (DD 15), ciblant la même zone carrée de 6 mètres de côté que le sort <em>graisse</em>.</em></p>
+    <h3>Réactions</h3>
+    <p>Ludmilla peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
+Si elle devait perdre ses réactions et n'est pas neutralisée, elle en perd une seulement.</p>
+    <p><strong><em>Pas de brume.</em></strong> En réaction à subir des dégâts, Ludmilla lance <em>pas de brume.</em></p>
+    <p><strong><em>Contrecarrer un sort (3/jour).</em></strong> <em>Sort de niveau 3 :</em> 18 mètres, composantes V, S, instantané.
+<em>Effet :</em> Ludmilla tente de contrecarrer une créature en train d'incanter un sort.
+Si la créature lance un sort de niveau 3 ou inférieur, elle doit réussir un jet de sauvegarde DD 15 en utilisant sa caractéristique d'incantation.
+En cas d'échec, le sort de la créature rate et n'a aucun effet.</p>
 
-> [!combat]- **Balancing the Second Bride**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
-> * ***Four Players.*** Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
-> * ***Six Players.*** Increase Ludmilla’s hit points to 136. 
+<p><strong><em>Représailles du mage.</em></strong> En réponse à une attaque ratée par un sort ou à la réussite d'un jet de sauvegarde contre un sort, Ludmilla peut immédiatement forcer le lanceur à réussir un jet de sauvegarde de Constitution DD 15 ou subir 7 (2d6) dégâts de force.</p>
+<p><strong><em>Contingence (1/jour).</em></strong> Si Ludmilla devait tomber à 0 point de vie à cause des dégâts subis, un sort de <em>contingence</em> s'active, lui permettant de bénéficier des effets de <em>dimension de la porte</em>.
+(Comme Ludmilla ne lance pas le sort au moment de sa réaction, il ne peut pas être contré.)</p>
 
-In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
 
-> [!abstract]+ **Hypnotic Pattern**
-> If any players fail their saving throws against Ludmilla's *hypnotic pattern*, one or more of the **swarms of ravens** descend to awaken them on initiative count 20 of the following round before returning to the skies.
 
-On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
+* Si la case contient un segment de mur, elle regagne 3 mètres de points de vie. (Un segment regagne des points de vie même si sa capacité de ***régénération*** ne fonctionne pas actuellement.)
+* Si la case contenait précédemment un segment de mur mais est maintenant vide, cette case obtient les effets d'un sort de *croissance d'épines*.
+* Si la case contenait précédemment un segment de mur et a actuellement les effets d'un sort de *croissance d'épines*, l'effet de _croissance d'épines_ est remplacé par un segment de mur avec 15 points de vie.
 
-[^1]: Inspired by *The Dark Knight*
+Un joueur peut persuader Muriel de cesser d'attaquer Ludmilla avec un test de Charisme (Persuasion) DD 20, avec un avantage si le joueur invoque le souvenir d'Elric et exhorte Muriel à ne pas chercher la vengeance. (Le test réussit automatiquement si Muriel et le joueur se sont précédemment liés à cause de leur expérience de la perte.) Ce test ne nécessite pas d'action.
+## J5f. Arrêter le Rituel
+Les treize **druides naturalistes** à l'intérieur du mur de racines ont une vitesse de 0 pour la durée du rituel, leurs jambes et leurs pieds étant liés par les racines de l'arbre Gulthias, qui les relient à la statue au centre du cercle.
 
-<div class="description">
-<p>Ludmilla eyes Muriel with mild curiosity. "I saw how you reacted when I mentioned the wereraven's death. Did you know him perhaps? Was he someone close to you?"</p>
-<p>A small, cold smile twists Ludmilla's lips. "Do you want to know why I dissect my test subjects? In their final moments, people reveal their true selves—their deepest fears and regrets. In a way, I know him better than you ever did."</p>
-<p>A calculating, predatory glint appears in her eyes. "Would you like to know if he was a coward in the end?"</p>
-<p>Muriel's face turns white, and she begins to tremble, heaving with exertion and rage.</p>
-</div>
+Les druides doivent utiliser leurs actions à chaque tour pour chanter les paroles du rituel, ce qui nécessite leur concentration, comme s'ils se concentraient sur un sort. Pendant qu'ils chantent de cette manière, les druides ne peuvent pas utiliser d'actions bonus ou de réactions. Les druides n'osent pas non plus lancer *vague de tonnerre* ou d'autres sorts de dégâts dans le cercle, par crainte d'endommager la statue.
 
-A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Charisma (Persuasion) check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
+Quand les joueurs entrent dans le cercle pour la première fois, le treizième druide, Svarog, cesse de chanter et entre au combat. Lancez l'initiative pour Svarog.
 
-<div class="description">
-<p>An anguished howl bursts from Muriel's lips—lips which, you notice, are suddenly growing longer, harder, and as sharp as an avian's beak. The sound of ripping fabric pierces the air as two enormous, black-feathered, blue-tipped wings tear from her back, her hands and feet shriveling into gnarled raven's claws.</p>
-<p>With a shriek of rage and impotent fury, Muriel spreads her wings and launches into the air.</p>
-</div>
+Svarog a les statistiques d'un **druide naturaliste**, sauf qu'il gagne les caractéristiques suivantes :
 
-Each time Muriel takes damage from Ludmilla's ***shroud of shadows*** feature, blood from her wounds spills onto the earth of Yester Hill below. Read:
+* ***Rafale de Vent.*** Avec une action, Svarog lance le sort *rafale de vent*.
+* ***Lier les Éléments (3/jour).*** _Sort de niveau 2 :_ portée 18 mètres, composantes V S, 1 round. En réaction quand il voit une créature lancer un sort de niveau 3 ou inférieur à portée qui inflige des dégâts d'acide, de froid, de feu, d'éclair ou de tonnerre, Svarog peut forcer cette créature à faire un jet de sauvegarde DD 12 en utilisant sa caractéristique d'incantation. En cas d'échec, le sort de la créature échoue et n'a aucun effet, et une petite sphère d'énergie élémentaire apparaît dans la main de Svarog. Svarog peut utiliser une action bonus à son prochain tour pour lancer la sphère, effectuant une attaque de sort à distance avec la sphère (+5 pour toucher) contre une créature à 18 mètres ou moins. En cas de touché, la sphère inflige 1d6 dégâts du type absorbé, plus 1d6 dégâts supplémentaires par niveau du sort absorbé.
 
-<div class=description>
-<p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
-</div>
+La statue est largement telle que décrite dans <span class="citation">Y3. Le Cercle des Druides (p. 197)</span>. Cependant, la statue a 100 points de vie. De plus, la partie de la poitrine de la statue contenant le joyau, qui se trouve à 9 mètres du sol, a une CA de 10 et 10 points de vie, avec une immunité aux dégâts de poison et de psychique. Le joyau ne peut être récupéré que lorsque la poitrine de la statue est réduite à 0 point de vie, à ce moment-là le joyau est exposé.
 
-Each 5-foot square within 30 feet of the ground beneath Muriel then undergoes the following effects:
-
-* If the square contains a wall segment, it regains 10 hit points. (A segment regains hit points even if its ***regeneration*** feature isn’t currently functioning.)
-* If the square previously contained a wall segment but is now empty, that square gains the effects of a *spike growth* spell.
-* If the square previously contained a wall segment and currently has the effects of a *spike growth* spell, the _spike growth_ effect is replaced by a wall segment with 5 hit points.
-
-A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (Persuasion) check, with advantage if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.) This check doesn't require an action.
-## J5f. Stopping the Ritual
-The thirteen **druid naturalists** within the wall of roots have a speed of 0 for the duration of the ritual, their legs and feet bound by the roots of the Gulthias tree, which connect them to the statue at the center of the circle. 
-
-The druids must use their actions each turn to chant the words of the ritual, which requires their concentration, as if concentrating on a spell. While chanting in this way, the druids can't use bonus actions or reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue. 
-
-When the players first enter the circle, the thirteenth druid, Svarog, ceases chanting and enters combat. Roll initiative for Svarog.
-
-Svarog has the statistics of a **druid naturalist**, except he gains the following features: 
-
-* ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
-* ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.
-
-The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed. 
-
-If the ritual is permanently disrupted (see **The Ritual Begins** above) or if the players retrieve the gem from the statue's chest, the ritual's destructive energy is unleashed upon the circle. Read:
+Si le rituel est définitivement perturbé (voir **Le Rituel Commence** ci-dessus) ou si les joueurs récupèrent le joyau de la poitrine de la statue, l'énergie destructrice du rituel est déclenchée dans le cercle. Lisez :
 
 <div class="description">
-<p>Bolts of brilliant viridian lightning crackle across the statue's surface, and the air within the circle grows thick with ozone. All around you, the druids wail and gnash their teeth, casting down their drums and staffs as they fruitlessly work to free themselves of the roots that bind them to the black earth below. The wand-bearing druid flings his wand to the earth with a shrieked curse, then lifts the staff from his shoulders to the sky, chanting words of desperation and defiance. </p>
-<p>The wind whips into a frenzied gale, screaming through your ears, as the bark of the statue begins to splinter and creak. The electric potential suffusing the air grows to a terrible peak around the statue, your flesh prickling with the energy impatiently waiting to be unleashed. </p>
+<p>Des éclairs viridiens brillants crépitent sur la surface de la statue, et l'air à l'intérieur du cercle devient épais d'ozone. Tout autour de vous, les druides gémissent et grincent des dents, jetant leurs tambours et leurs bâtons alors qu'ils travaillent en vain pour se libérer des racines qui les lient à la terre noire en dessous. Le druide portant la baguette jette sa baguette à terre avec un cri maudit, puis lève le bâton de ses épaules vers le ciel, chantant des paroles de désespoir et de défiance.</p>
+<p>Le vent se lève en une violente bourrasque, hurlant à vos oreilles, tandis que l'écorce de la statue commence à se fissurer et à craquer. Le potentiel électrique imprégnant l'air atteint un pic terrible autour de la statue, votre chair se hérissant sous l'énergie attendant impatiemment d'être libérée.</p>
 </div>
 
-In the round following the ritual's disruption, the following events occur:
+Au round suivant la perturbation du rituel, les événements suivants se produisent :
 
-* On initiative count 20, the statue collapses. When this occurs, player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
-* On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.
-* On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a DC 17 Constitution saving throw, taking 56 (16d6) lightning damage on a failure or half as much on a success.
 
-In addition, if still present on her next turn, Ludmilla uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
 
-> [!abstract]+ **Strahd’s Wager**
-> If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward <span class="citation">Y5. Wall of Fog (p. 200)</span>, nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
-# J6. After the Ritual
-## J6a. Muriel’s Confession
-If the players confront Muriel after the fight, she is willing to share the following information:
+* À l'initiative 20, la statue s'effondre. Lorsque cela se produit, les joueurs encore en train d'escalader la statue doivent réussir un jet de sauvegarde de Dextérité DD 10 ou subir 1d6 dégâts contondants et tomber à terre à 9 mètres de la base de la statue, dans la direction de la sortie du cercle de pierre. De plus, si Svarog est encore en vie, il subit 14 (4d6) dégâts contondants et est à terre et entravé par la statue tombée.
+* À l'initiative 10 du tour suivant, si des joueurs restent à moins de 9 mètres de la statue, les **nuées de corbeaux** descendent pour les emporter, avec un minimum de deux nuées nécessaires pour transporter un joueur de taille Moyenne et une nuée minimum pour transporter un joueur de taille Petite ou plus petite.
+* À l'initiative 0 du tour suivant, toutes les créatures à moins de 9 mètres de la statue doivent réussir un jet de sauvegarde de Constitution DD 17, subissant 56 (16d6) dégâts de foudre en cas d'échec ou la moitié en cas de réussite.
 
-* She, like all of the members of the Keepers of the Feather, is a **wereraven**—a lycanthrope cursed to assume the form of a raven beneath the light of the full moon. (If asked, Muriel can confirm that Elric Martikov was the Keeper who bestowed the curse upon her, and who initiated her into the Keepers of the Feather.)
-* Her lycanthropy allows her to assume the form of a raven or a raven-humanoid hybrid, and provides her with regenerative abilities and flight, though silvered weapons are lethal to her. If she took damage from Ludmilla’s shroud of mist, she shares that certain kinds of dark magic appear to be lethal to her as well.
-* Her betrothed, Elric Martikov, was a wereraven who accompanied Doru’s rebellion in raven form, seeking to provide guidance to the ramshackle mob. He never returned from Castle Ravenloft—evidently, because Ludmilla killed him.
+De plus, si elle est toujours présente à son prochain tour, Ludmilla utilise son action pour lancer *porte dimensionnelle* et s'échapper, se téléportant au bois de Gulthias au sud avant de retourner au château de l'Ordre du Gibet.
 
-If she lost control and attacked Ludmilla, Muriel sincerely and shamefacedly apologizes for doing so. “Everything felt so far away," she says, quietly. “I thought I was going to lose myself, I was so angry." If the players brought her back to her senses, she is deeply grateful to them for doing so.
+> [!abstract]+ **Le pari de Strahd**
+> Si les joueurs parviennent à arrêter le rituel, Strahd réapparaît brièvement sur Bucéphale, planant à 9 mètres au-dessus du sol au nord-ouest du cercle de pierre. Une fois remarqué par les joueurs, Strahd incline la tête vers <span class="citation">Y5. Mur de brume (p. 221)</span>, pousse Bucéphale dans cette direction et disparaît à nouveau tandis que le **cauchemar** s'avance au petit trot.
+# J6. Après le rituel
+## J6a. La confession de Muriel
+Si les joueurs confrontent Muriel après le combat, elle est prête à partager les informations suivantes :
 
-If the players ask Muriel to curse them with wereraven lycanthropy, she laughs softly, and apologizes for disappointing them. “Even if I gave it to you, you couldn’t control it—not without months of proper training," she tells them. (Muriel is referring to the mechanism by which wereravens embrace their curse, which can only be achieved unknowingly.) Muriel apologetically refuses to say anything further on the subject, though she is glad to reassure the players that her refusal doesn’t arise from a lack of trust.
-## J6b. The Whispering Wall
+* Comme tous les membres des Gardiens de la Plume, elle est une **corbaucheminenaturée**, une lycanthrope maudite pour prendre la forme d'un corbeau sous la pleine lune. (Si on le lui demande, Muriel peut confirmer qu'Elric Martikov était le Gardien qui lui a jeté la malédiction et l'a initiée aux Gardiens de la Plume.)
+* Sa lycanthropie lui permet de prendre la forme d'un corbeau ou d'un hybride humain-corbeau, et lui procure des capacités régénératives et le vol, bien que les armes d'argent lui soient mortelles. Si elle a été blessée par la brume sombre de Ludmilla, elle avoue que certaines formes de magie noire semblent également mortelles pour elle.
+* Son fiancé, Elric Martikov, était un corbaucheminenaturé qui a accompagné la rébellion de Doru sous forme de corbeau, cherchant à guider la foule dépenaillée. Il n'est jamais revenu du château de l'Ordre du Gibet, apparemment parce que Ludmilla l'a tué.
 
-> [!warning]+ **Player Dreams**
-> Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
+Si elle a perdu le contrôle et attaqué Ludmilla, Muriel s'excuse sincèrement et honteusement. "Tout semblait si lointain", dit-elle calmement. "J'avais l'impression que j'allais me perdre, j'étais si en colère." Si les joueurs l'ont ramenée à la raison, elle leur en est profondément reconnaissante.
 
-This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
+Si les joueurs demandent à Muriel de les maudire avec la lycanthropie de corbaucheminenaturé, elle rit doucement et s'excuse de les décevoir. "Même si je vous la donnais, vous ne pourriez pas la contrôler, pas sans des mois d'entraînement approprié", leur dit-elle. (Muriel fait référence au mécanisme par lequel les corbaucheminenaturés embrassent leur malédiction, ce qui ne peut être fait qu'inconsciemment.) Muriel refuse poliment d'en dire plus sur le sujet, bien qu'elle soit heureuse de rassurer les joueurs que son refus ne vient pas d'un manque de confiance.
+## J6b. Le mur des murmures
+
+> [!warning]+ **Rêves des joueurs**
+> Avant de lancer cette scène, demandez à vos joueurs de vous fournir des informations sur les désirs les plus profonds de leurs personnages, puis utilisez ces informations pour créer une rencontre appropriée si ce joueur entre dans le Mur des murmures.
+
+Cette zone remplace <span class="citation">Y5. Mur des murmures (p. 221)</span>. Lorsque les joueurs arrivent pour la première fois, lisez :
 
 <div class="description">
-<p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
+<p>Un mur d'ombre de brume impénétrable se dresse au-dessus de la terre ici, s'étendant vers les cieux éloignés. D'étranges formes et silhouettes semblent dériver dans ses profondeurs, et des voix lointaines semblent murmurer hors de portée d'oreille.</p>
 </div>
 
-If the players recently defeated the druids and stopped their ritual, Strahd can be found here, kneeling before the wall, thirty feet away from Beucephalus. (A player that inspects Beucephalus notices that the **nightmare**'s saddlebags appear to be empty.)
+Si les joueurs ont récemment vaincu les druides et stoppé leur rituel, Strahd peut être trouvé ici, agenouillé devant le mur, à 9 mètres de Bucéphale. (Un joueur qui inspecte Bucéphale remarque que les sacoches du **cauchemar** semblent être vides.)
 
-As the players approach, Strahd rises and appears to pocket something in his cloak. (Strahd won't share what this is, amusedly chiding the players for asking gifts not given.) He welcomes the players warmly, and congratulates them on defeating the Forest Folk.
+Alors que les joueurs approchent, Strahd se lève et semble ranger quelque chose dans sa cape. (Strahd ne partagera pas ce que c'est, taquinant avec amusement les joueurs pour avoir demandé des cadeaux non donnés.) Il accueille chaleureusement les joueurs et les félicite d'avoir vaincu les Gens de la Forêt.
 
-If asked whether he regrets Ludmilla's defeat, Strahd smiles and claims that "a reminder of her place will be good for her" — although, he notes, she is unlikely to forget her humiliation, even after licking her wounds.
+Si on lui demande s'il regrette la défaite de Ludmilla, Strahd sourit et prétend que "un rappel de sa place lui fera du bien" - bien qu'il note qu'elle est peu susceptible d'oublier son humiliation, même après avoir léché ses blessures.
 
-Strahd thanks the players for playing "his little game," and congratulates them on winning their wager. He welcomes them to the Whispering Wall, and shares that the ancestors of the Forest Folk believed it to be the corpse or tomb of an ancient god, whose last exhalation of divinity produced this mist.
+Strahd remercie les joueurs d'avoir joué "son petit jeu" et les félicite d'avoir gagné leur pari. Il les accueille au Mur Murmurant et partage que les ancêtres des Gens de la Forêt croyaient qu'il s'agissait du cadavre ou de la tombe d'un dieu ancien, dont la dernière expiration de divinité a produit ce brouillard.
 
-Strahd informs the players that these ancestors believed the Wall to offer visions of one's deepest desires, if one entered it as a pilgrim. "It is a powerful thing, to know oneself and one's desires," he says, adding softly. "and yet dangerous, as well." 
+Strahd informe les joueurs que ces ancêtres croyaient que le Mur offrait des visions de ses désirs les plus profonds, si l'on y entrait en pèlerin. "C'est une chose puissante que de se connaître et de connaître ses désirs", ajoute-t-il doucement. "Et pourtant dangereuse, aussi."
 
-If asked whether he has stepped into the Wall himself, Strahd nods. If asked what he sees within the Wall, he shares that he sees a "white fortress above a great city, with a church bell ringing through the fog." (This is a vision of Strahd's homeland, though he won't say so to the players.)
+Si on lui demande s'il est lui-même entré dans le Mur, Strahd hoche la tête. Si on lui demande ce qu'il voit à l'intérieur du Mur, il partage qu'il voit une "forteresse blanche au-dessus d'une grande ville, avec une cloche d'église sonnant à travers le brouillard". (C'est une vision de la patrie de Strahd, bien qu'il ne le dise pas aux joueurs.)
 
-Before giving the players their reward from winning Strahd's wager, Strahd asks them to complete one simple task: They must step into the Wall and view their deepest desires. "I will not ask what you see," Strahd promises. "One's desires are their own."
+Avant de donner aux joueurs leur récompense pour avoir gagné le pari de Strahd, Strahd leur demande d'accomplir une simple tâche : ils doivent entrer dans le Mur et voir leurs désirs les plus profonds. "Je ne demanderai pas ce que vous voyez", promet Strahd. "Les désirs de chacun lui appartiennent."
 
-Strahd warns them, however, that many have become lost in the Whispering Wall, too entranced by its visions to depart. "It guides you forward, but you must leave under your own power," he says. "Remember: The way back will come but once."
+Strahd les avertit cependant que beaucoup se sont perdus dans le Mur Murmurant, trop envoûtés par ses visions pour en repartir. "Il vous guide, mais vous devez repartir par vos propres moyens", dit-il. "Souvenez-vous : le chemin du retour ne viendra qu'une fois."
 
-Strahd promises that each player who enters the Wall and returns safely will receive an additional gift: a shard of the power of the Whispering Wall itself. (He won't say more than that.) He wonders aloud, however, whether they will have the strength of will to do so. "Lesser men often lose themselves to its illusions," he says, a taunting glint in his eye. "They trade life for dreams, and receive neither. They are lost to the mist, doomed to remain there for eternity."
+Strahd promet que chaque joueur qui entrera dans le Mur et en ressortira sain et sauf recevra un cadeau supplémentaire : un fragment du pouvoir du Mur Murmurant lui-même. (Il n'en dira pas plus.) Il se demande cependant à voix haute s'ils auront la force de volonté nécessaire pour le faire. "Des hommes moindres se perdent souvent dans ses illusions", dit-il, un éclat de provocation dans le regard. "Ils échangent la vie contre des rêves, et n'obtiennent ni l'un ni l'autre. Ils sont perdus dans la brume, condamnés à y rester pour l'éternité."
 
-If any or all players decline Strahd’s challenge, he frowns, shakes his head, and notes his disappointment in them. Otherwise, a player who enters the Whispering Wall finds themselves within a new location, indistinguishable from reality. The location is a reflection of that player character's deepest desire, sculpted to be as real and alluring as possible. The location is populated by any inhabitants necessary for that character's desire. Both the location and any inhabitants are illusory, but appear solid and real to those who enter.
+Si l'un ou tous les joueurs déclinent le défi de Strahd, il fronce les sourcils, secoue la tête et note sa déception à leur égard. Sinon, un joueur qui entre dans le Mur Murmurant se retrouve dans un nouvel endroit, indiscernable de la réalité. L'endroit est le reflet du désir le plus profond de ce personnage joueur, sculpté pour être aussi réel et séduisant que possible. L'endroit est peuplé de tous les habitants nécessaires à ce désir du personnage. Tant l'endroit que les habitants sont des illusions, mais apparaissent solides et réels à ceux qui y entrent.
 
-After a period of time — which may be subjective minutes, hours, or even years after they entered — the player receives a "hook": an invitation, subtle or direct, for that player to remain. A location's hook might be, among other things, the tolling of a familiar church bell, a child asking the player to play with them, or a loved one pleading the player to stay.
+Après un certain temps - qui peut être des minutes, des heures ou même des années subjectives après y être entrés - le joueur reçoit un "crochet" : une invitation, subtile ou directe, pour que ce joueur reste. Le crochet d'un lieu pourrait être, entre autres, le glas d'une cloche d'église familière, un enfant demandant au joueur de jouer avec lui, ou un être aimé suppliant le joueur de rester.
 
-When the hook first manifests, a tall arch formed of fog and swirling mist appears ten feet behind the player, in the direction from whence they came. A faint sound similar to wind chimes echoes from its threshold, and a woman's voice, distant and cold, whispers from behind the player: "_The way back comes but once._" The arch begins to fade one round afterward.
 
-After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the Dreamer in the **Epilogue.**)
 
-> [!abstract]+ **What Ireena Sees**
-> If Muriel is with the players, she declines to enter the Wall alongside them. “I’ll take no gift from von Zarovich," she says quietly. “And I know what I’d see, anyway." (Muriel is referring to Elric.)
-> 
-> If Ireena is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, Ireena’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
+Lorsque le crochet se manifeste pour la première fois, une grande arche formée de brume et de tourbillons de brume apparaît à 3 mètres derrière le joueur, dans la direction d'où il vient. Un faible son semblable à des carillons résonne de son seuil, et la voix d'une femme, lointaine et froide, murmure derrière le joueur : "_Le chemin du retour ne vient qu'une fois._" L'arche commence à s'estomper un round plus tard.
 
-To an outside observer, a player who leaves the Wall returns no more than one round after they entered it, and in exactly the same condition. When all players have either returned from or been trapped in the Wall, Strahd retrieves a small, luminescent object from a pocket within his cloak and holds it into the air. (The object, which Strahd obtained from the Whispering Wall in exchange for the sacrifice of his **animated armor**, and which he stowed in his cloak at the beginning of the conversation, resembles a spark of light condensed into solid form.)
+Après trois rounds, l'arche disparaît pour toujours, et le personnage-joueur est piégé dans le Mur Murmurant pour l'éternité, sans aucun moyen de s'échapper. (Le personnage ne peut être libéré que si les joueurs restaurent le souvenir du Rêveur dans l'**Épilogue**.)
 
-"As promised," Strahd says, "your reward." He touches the spark to the edge of the Whispering Wall, and then draws it back toward him. As he does so, several tendrils of mist extrude from the Wall and condense into small gemstones which hover in the air. The number of gemstones is equal to the number of players in the party, and each gemstone is no larger than a fingernail. Half of the gemstones (rounded up) are gray, and half of the gemstones (rounded down) are silver.
+> [!abstract]+ **Ce que voit Ireena**
+> Si Muriel est avec les joueurs, elle refuse d'entrer dans le Mur avec eux. "Je ne prendrai aucun cadeau de von Zarovich", dit-elle calmement. "Et je sais de toute façon ce que je verrais." (Muriel fait référence à Elric.)
+>  
+> Si Ireena est avec les joueurs, elle entre dans le Mur si au moins la moitié des joueurs le font (arrondi à l'inférieur), et reste à l'extérieur sinon. Si elle entre, elle voit un soleil levant se lever sur une route ouverte, qui traverse un paysage pittoresque vers une ville étincelante au loin. Une charrette couverte se trouve sur la route, et une voix de femme l'invite chaleureusement à entrer, "car nous avons un long voyage devant nous". En sortant du Mur, les joues d'Ireena brillent de larmes. (Elle refuse de partager le contenu de sa vision tant que Strahd est présent, mais est prête à le partager plus tard si on le lui demande.)
 
-Strahd then presents the gemstones to the players, allowing them to choose which they take. He can share only that a gray gemstone will lead its bearer to an object of their desire, and that a silver gemstones will take their bearer to a place they wish to go. "They are, of course, not the most powerful artifacts," Strahd notes. "The Wall is the product of a _dead_ god, after all."
+Pour un observateur extérieur, un joueur qui quitte le Mur revient au plus une round après y être entré, et dans exactement le même état. Lorsque tous les joueurs sont soit revenus du Mur, soit piégés dedans, Strahd récupère un petit objet luminescent d'une poche à l'intérieur de sa cape et le tient en l'air. (L'objet, que Strahd a obtenu du Mur Murmurant en échange du sacrifice de son **armure animée**, et qu'il a rangé dans sa cape au début de la conversation, ressemble à une étincelle de lumière condensée en forme solide.)
 
-A creature can crush a *gray gemstone of desire* as an action to cast _locate object._ A creature can crush a *silver gemstone of desire* as a bonus action to cast *misty step*.
+"Comme promis", dit Strahd, "votre récompense." Il touche l'étincelle au bord du Mur Murmurant, puis la ramène vers lui. Ce faisant, plusieurs filaments de brume sortent du Mur et se condensent en petites gemmes qui flottent dans les airs. Le nombre de gemmes est égal au nombre de joueurs dans le groupe, et chaque gemme n'est pas plus grande qu'un ongle. La moitié des gemmes (arrondi à la hausse) sont grises, et la moitié des gemmes (arrondi à la baisse) sont argentées.  
 
-If the players ask about the nature of the spark Strahd holds, he holds it up to the light and remarks, thoughtfully, "A glede — a dragon's eye, it's called in some cultures. A spark of power, made tangible." If the players ask how Strahd obtained it, he offers a small, tight smile and notes only that, "Some things must be earned."
+Strahd présente ensuite les gemmes aux joueurs, leur permettant de choisir celles qu'ils prennent. Il ne peut partager que le fait qu'une gemme grise conduira son porteur à un objet de son désir, et qu'une gemme argentée amènera son porteur à un endroit où il souhaite aller. "Elles ne sont bien sûr pas les artéfacts les plus puissants", note Strahd. "Le Mur est après tout le produit d'un dieu _mort_."  
 
-When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
+Une créature peut écraser une *gemme grise du désir* avec une action pour lancer _localiser objet_. Une créature peut écraser une *gemme argentée du désir* avec une action bonus pour lancer _pas brumeux_.
 
-> [!item]+ **Twilight Crest**
-> _Uncommon wondrous item (requires attunement)_
-> 
-> This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
-> 
-> The crest has 3 charges, and regains 1 charge at dawn. 
-> 
-> During the day, the crest's wielder can spend 1 charge as an action to cast *aid*.
-> 
-> At night, the crest's wielder can spend 1 charge as an action to cast *spirit guardians* (save DC 15). When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
-> 
-> The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
+Si les joueurs demandent la nature de l'étincelle que Strahd tient, il la lève à la lumière et remarque, pensif : "Un gléde - un œil de dragon, comme on l'appelle dans certaines cultures. Une étincelle de pouvoir, rendue tangible." Si les joueurs demandent comment Strahd l'a obtenue, il offre un petit sourire crispé et note seulement que "Certaines choses doivent être méritées."
 
-When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
-## J6c. Gulthias Tree
-The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+Lorsque tous les joueurs sont soit revenus du Mur Murmurant, soit ont refusé de le faire, Strahd leur présente leur récompense pour avoir vaincu les Gens de la Forêt : le *crest crépusculaire* (voir ci-dessous). "On dit que le dieu qui est mort ici, bien que son nom soit perdu dans le temps, a laissé plusieurs reliques derrière lui. Ceci en est une."
 
-<div class="description">
-<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
-</div>
 
-These megaliths demarcate the boundaries of the Forest Fane: the shrine to the Huntress of the Ladies Three.
 
-A large, cavernous hollow at the base of the Gulthias tree conceals a five-foot diameter stone of smooth, black onyx half-buried amidst the tree’s roots. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
-
-One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
-# J7. Return to the Winery
-## J7a. Kavan’s Tale
-If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
-
-* Long ago, Kavan was a chieftain among the First Folk, whose people arrived in the valley long before Kavan’s own birth.
-* The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
-
-Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 16 Charisma (Deception) check in order to successfully lie to Kavan.) 
-
-Whether the players have betrayed or wounded anyone or not, once he is satisfied that the players understand the weight of the crimes of betrayal and hubris, Kavan proceeds:
-
-* Nearly one thousand years ago, Kavan came to power as chieftain of his tribe. Arrogant and proud, he defied his people’s strictures and ventured forth into the Whispering Wall, a wall of thick fog said to hold the corpse of the Devourer—an ancient monster that the Ladies killed long before.
-* While within the Wall, Kavan learned terrible secrets—including the means by which he could steal the Huntress’s sacred spear from the Forest Fane and claim its power for his own. Upon doing so, he waged war on the other tribes, reuniting them beneath his own banner. 
-* The servants of the Seeker, a clan of **wereravens**, hid away the life-giving gems that blessed the Fanes to conceal them from his ambitions, and vanished into the wilderness. (Upon saying this, Kavan gives Muriel a long, meaningful look, though he cannot confirm whether she is spiritually descended from one of the original wereravens that served the Seeker.)
-* The druids of the First Folk condemned Kavan for his hubris, and retreated to the village of Soldav in the Balinok Mountains, their people’s most sacred site and the center of their faith. They named Kavan “enemy," and banished him from Soldav for his crimes. When he died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids buried him here, in a lonely cairn far from the graves of his forefathers. Kavan has been haunted by his isolation from his people as a result ever since his death.
-
-Before proceeding further, Kavan asks the players a question: What do they hold sacred, and why? Upon hearing their answers, Kavan challenges them with an additional question: If they were forced to choose whether to betray everything they hold sacred in exchange for a promise of safety and comfort, how would they decide? 
-
-If he is satisfied that any of the players would choose sanctity over comfort, Kavan first dismisses any who would choose comfort over sanctity, and then proceeds:
-
-* In Kavan’s ailing years, a tyrant named King Dostron the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
-* When Strahd invaded the valley hundreds of years later, many members of the druidic caste—still angered by Kavan’s betrayal and Dostron’s oppression—sought out his protection. A great schism split the First Folk, with those who opposed Strahd retreating to Soldav and those who favored Strahd remaining within the Svalich Wood. Today, Barovians know them as the Mountain Folk and the Forest Folk.
-* The land of Barovia, which the First Folk once called “Cerunnos"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
-* Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
-
-If the players ask why Kavan withheld this information during their initial meeting, he truthfully tells them that he sought to avoid revealing Soldav’s existence to Strahd’s servants or spies. “I betrayed my people once by choice," he rumbles. “I will not betray them a second time through foolish indiscretion."
-
-As the conversation comes to a close, Kavan informs the players that, while he cannot give it to them directly, he can tell them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." 
-
-Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it in the sacred spring there and redeem his past mistakes.
-
-When the players depart, Kavan bids them farewell, offering: “Go with the blessings of the Ladies Three, if they still listen."
-## J7b. Returning the Gem
-If the players return the gem to Davian Martikov at the Wizard of Wines, he is deeply grateful, and warms to them considerably compared to his prior prickly demeanor. (He is, of course, still a grumpy old man at heart.)
-
-If asked, Davian now willingly shares the following information:
-
-* He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
-* Despite the abilities bestowed by their curse, the Keepers are spies, not warriors. Many among them are untrained at combat, and fear the dark magic that Strahd wields.
-* The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **vampire spawn** across the valley using the *Holy Symbol of Ravenkind* one hundred years ago.
-* As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
-* It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
-
-Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
-
-In gratitude for the players’ efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
-
-Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
-
-Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
-
-<div class="description">
-<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
-<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
-<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
-<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
-<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
-</div>
-
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
-
-> [!item]+ **Keeper's Whistle**
-> The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
-> 
-> When the agent arrives (in **raven** form), the players can ask that the agent do one of the following tasks, within reason:
+> [!item]+ **Crinière du Crépuscule**
+> _Objet merveilleux peu courant (nécessite un lien)_
 >
->* **Scout** out a nearby environment, providing information on enemy numbers, traps, or layout. (The agent won’t get too close if the area is potentially dangerous, preferring to survey it from a distance.)
->* **Deliver** an item or message (either oral or written) to another creature in Barovia, assuming the agent knows of or can find that creature.
->* **Obtain** a small, light item from a nearby location or settlement, so long as it can be easily found, purchased, or otherwise retrieved.
->* **Distract** one or more nearby enemies (e.g., by using its ***mimicry*** ability). (The agent won’t put itself at risk of being grappled, and is wary of approaching any ranged combatants unless reassured that they wield neither silver weapons nor magic spells.)
->* **Spy** on a location or character, tailing them discreetly and reporting back on their activities and associations after a predetermined period of time. (The agent won’t enter any structures while doing so.)
+> Cette petite médaille est sculptée dans du bois pétrifié et parsemée de minuscules grappes étincelantes d'azurite. De l'aube au crépuscule, l'azurite est colorée d'un bleu profond. Du crépuscule à l'aube, l'azur est plutôt d'un pourpre vif et sombre.
 >
->The agent departs after completing the requested task.
+> La crinière possède 3 charges et en regagne 1 à l'aube.
+>
+> Pendant la journée, le porteur de la crinière peut dépenser 1 charge avec une action pour lancer l'aide.
+>
+> La nuit, le porteur de la crinière peut dépenser 1 charge avec une action pour lancer les gardes spirituels (DD de sauvegarde 15). Ainsi lancé, les gardes prennent la forme de papillons de nuit ombreux et cendreux, et le sort n'inflige que des dégâts nécrotiques.
+>
+> Le porteur peut dépenser les 3 charges avec une action à n'importe quel moment de la journée pour lancer l'énervement (DD de sauvegarde 15). S'il le fait, la crinière ne regagne pas de charges pendant les trois aubes suivantes.
 
-> [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
-> 
-> Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
-> 
-> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
+![[Twilight_Crest.png]]
 
-> [!abstract]+ **News from Barovia**
-> If the players use the *Keeper's whistle* to seek news from the village of Barovia, they can receive the following information:
-> 
-> * The village is still recovering from Strahd's siege. If Bildrath lived, he has become something of a magnet for malcontents. More and more, however, the people of the village have been looking to Ismark, and—if Doru passed his trial successfully—Father Donavich for leadership.
-> * If Doru passed his trial, he is being reintroduced into the village and has deeply apologized to the families that lost loved ones as a consequence of his failed rebellion. Not all have accepted his apologies, and many are wary of his vampirism, but he appears to have mastered his bloodlust and is overcome with remorse.
-> * The departure of the refugees and casualties of the siege have left the town hollowed out, with many businesses no longer in existence and those that survived struggling to make do with far fewer customers. Overall, the process of rebuilding has been a difficult one, but many families whose houses were damaged or destroyed have been able to relocate into the surplus homes still standing. 
+<span class="credit">"Crinière du Crépuscule" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+
+Quand tous les joueurs ont accepté ou refusé leurs cadeaux, Strahd monte de nouveau sur Bucéphale, leur fait ses adieux et note qu'il a hâte de les voir à dîner. Lui et Bucéphale disparaissent ensuite dans le Plan Éthéré.
+
+## J6c. Arbre des Gulthias
+Les joueurs ne devraient avoir aucune raison de visiter la clairière de l'Arbre des Gulthias pour le moment. S'ils le font, cette zone est décrite dans <span class="citation">Y4. Arbre des Gulthias (p. 198)</span>. Cependant, remplacez les deux dernières phrases de la description de la zone par le texte suivant :
+
+<div class="description">
+<p>Un cercle de mégalithes rugueux et anguleux est accroupi parmi le sous-bois, drapé de vignes pourries et envahi par de grosses ronces et des buissons morts. L'air ici est épais et anormalement chaud, et une odeur putride et malsaine étouffe l'atmosphère.</p>
+</div>
+
+Ces mégalithes délimitent les frontières du Fane de la Forêt, le sanctuaire de la Chasseresse des Trois Dames.
+
+Une grande cavité caverneuse à la base de l'Arbre des Gulthias dissimule une pierre d'onyx noir lisse d'un diamètre de 1,5 m, à moitié enfouie dans les racines de l'arbre. La pierre ne présente aucune marque ni symbole visible à sa surface, et est imperméable à tous les dégâts et tentatives de la déplacer.
+
+Une minute après l'entrée des joueurs dans la clairière, leur présence attire l'attention de quatre aiguilles végétales, qui surgissent du sous-bois autour de l'arbre. Au tour suivant, les aiguilles végétales sont rejointes par quatre autres aiguilles végétales, quatre vignes végétales et quatre nuées de brindilles végétales. Si les joueurs restent dans la clairière, toutes les végétales les attaquent au tour suivant.
+
+# J7. Retour à la vinerie
+## J7a. Le récit de Kavan
+Si les joueurs reviennent au cairn de Kavan avec la baguette de Svarog et invoquent Kavan en faisant couler leur sang dans le bassin, Kavan peut partager les informations supplémentaires suivantes sur les Gens de la Forêt et son propre peuple :
+
+* Il y a longtemps, Kavan était un chef parmi les Premiers Peuples, dont les gens sont arrivés dans la vallée bien avant la naissance de Kavan.
+* Les Premiers Peuples vénéraient un trio de déesses connues sous le nom des Rozana, ou les Trois Dames : la Chercheuse, la Tisseuse et la Chasseresse. Les druides des Premiers Peuples rendaient hommage aux Dames dans leurs lieux saints - trois fanes qui résidaient dans la vallée, connus sous les noms de Fane de la Montagne, Fane de la Forêt et Fane du Marais. Chaque Fane abritait une gemme imprégnée du pouvoir de la Tisseuse, censée donner vie et vitalité à la nature environnante. "Cette baguette, note Kavan avec gravité, était autrefois maniée par ceux qui reliaient notre peuple aux Rozana."
+
+Avant d'aller plus loin, Kavan demande aux joueurs s'ils ont déjà trahi quelqu'un de proche ou si leur orgueil a blessé quelqu'un qu'ils aimaient. (Un joueur doit réussir un jet de Charisme (Tromperie) DD 16 pour réussir à mentir à Kavan).
+
+Que les joueurs aient trahi ou blessé quelqu'un ou non, une fois qu'il est convaincu que les joueurs comprennent le poids des crimes de trahison et d'orgueil, Kavan poursuit :
+
+
+
+* Il y a près d'un millier d'années, Kavan est devenu le chef de sa tribu. Arrogant et fier, il a défié les interdits de son peuple et s'est aventuré dans le Mur Murmurant, un épais brouillard censé abriter le cadavre du Dévoreur - un ancien monstre que les Dames avaient tué bien avant.
+* À l'intérieur du Mur, Kavan a appris d'horribles secrets, notamment les moyens de dérober la lance sacrée de la Chasseresse au Sanctuaire de la Forêt et de s'approprier son pouvoir. Après l'avoir fait, il a fait la guerre aux autres tribus, les réunissant sous sa bannière.
+* Les serviteurs du Chercheur, un clan de huards-garous, ont caché les gemmes vivifiantes qui bénissaient les Sanctuaires pour les dissimuler à ses ambitions, et ont disparu dans les terres sauvages. (En disant cela, Kavan lance un long regard appuyé à Muriel, bien qu'il ne puisse confirmer si elle descend spirituellement de l'un des huards-garous originels au service du Chercheur.)
+* Les druides des Premiers Peuples ont condamné l'hubris de Kavan et se sont retirés au village de Soldav dans les montagnes de Balinok, le site le plus sacré de leur peuple et le centre de leur foi. Ils ont nommé Kavan "ennemi" et l'ont banni de Soldav pour ses crimes. Quand il est mort, au lieu de l'enterrer dans un lieu d'honneur sur la colline de Yester avec les grands chefs du passé, les druides l'ont enterré ici, dans un cairn solitaire loin des tombes de ses ancêtres. Depuis sa mort, Kavan est hanté par son isolement de son peuple.
+
+Avant d'aller plus loin, Kavan pose une question aux joueurs : Que considèrent-ils comme sacré et pourquoi ? Après avoir entendu leurs réponses, Kavan les défie avec une question supplémentaire : S'ils étaient forcés de choisir entre trahir tout ce qu'ils tiennent pour sacré en échange d'une promesse de sécurité et de confort, comment décideraient-ils ?
+
+S'il est satisfait qu'un des joueurs choisirait la sainteté plutôt que le confort, Kavan renvoie ceux qui choisiraient le confort, puis poursuit :
+
+* Dans ses dernières années, un tyran nommé le roi Dostron le Né-des-Enfers a envahi la vallée avec son armée, dispersant les Premiers Peuples et détruisant leurs foyers. Il a érigé un barrage sur la rivière Luna pour créer des terres agricoles, et a brisé la foi des Premiers Peuples envers les Trois Dames. À la mort de Dostron, ses armées se sont retirées et ont abandonné sa forteresse, mais les Premiers Peuples sont restés divisés et affaiblis.
+* Lorsque Strahd a envahi la vallée des centaines d'années plus tard, de nombreux membres de la caste druidique, encore en colère contre la trahison de Kavan et l'oppression de Dostron, ont cherché sa protection. Un grand schisme a divisé les Premiers Peuples, ceux qui s'opposaient à Strahd se réfugiant à Soldav et ceux qui le favorisaient restant dans les Bois de Svalich. Aujourd'hui, les Baroviens les connaissent sous les noms de Peuples des Montagnes et Peuples des Forêts.
+* La terre de Barovia, que les Premiers Peuples appelaient autrefois "Girvisa" - "terre fertile" - a été corrompue par la volonté et la magie de Strahd. Kavan ne comprend pas la nature de la corruption de Strahd, mais il sait que Strahd puise son pouvoir dans les terres, et que ce lien profane cause de grandes souffrances aux créatures et au paysage de la vallée. Pour apprendre à purifier la corruption de Strahd, les joueurs doivent se rendre à Soldav pour chercher les conseils d'un ancien de la foi des Rozana parmi les Peuples des Montagnes. (Seul un ancien de la foi des Rozana peut invoquer et maintenir le brouillard qui protège Soldav des étrangers.)
+* Soldav est cachée quelque part dans les montagnes de Balinok, protégée par un voile de brume enchanté. Tant que la brume demeure, les ennemis de Soldav ne peuvent jamais la trouver, ni se rappeler où elle se trouve. Kavan ne se souvient que du repère marquant son entrée : un endroit dans les montagnes où deux chutes d'eau se rejoignent. "Sans un symbole des Dames, cependant", prévient-il, "vous ne trouverez jamais l'entrée, et les anciens de Soldav ne vous accorderont jamais l'accès."
+
+
+
+Si les joueurs demandent pourquoi Kavan a caché cette information lors de leur première rencontre, il leur dit honnêtement qu'il cherchait à éviter de révéler l'existence de Soldav aux serviteurs ou aux espions de Strahd. "J'ai trahi mon peuple une fois par choix", gronde-t-il. "Je ne le trahirai pas une seconde fois par une imprudence insensée."
+
+Alors que la conversation touche à sa fin, Kavan informe les joueurs que, bien qu'il ne puisse pas leur donner directement, il peut leur dire où trouver la lance qu'il a volée au Sanctuaire Forestier de la Chasseresse, dont le retour pourrait convaincre le peuple de Soldav de leur accorder l'entrée. "Le pouvoir de la lance s'est affaibli quand je l'ai prise, et il n'a sans aucun doute fait que décliner depuis", dit-il. "Mais, si elle peut vous servir, vous pouvez la trouver dans la tombe du roi Dostron, qui l'a prise dans ma tente lorsque mon clan s'est effondré dans le sillage de ses armées."
+
+Kavan peut informer les joueurs que la tombe du roi Dostron a été taillée dans la pierre sous la forteresse de Dostron, que Dostron a construite dans les montagnes de l'est - sur ce qui est maintenant appelé le Pilarrier de Ravenloft. S'ils la trouvent, Kavan leur demande de l'apporter au sanctuaire des Trois Dames à Soldav, pour la reconsacrer dans la source sacrée là-bas et racheter ses erreurs passées.
+
+Lorsque les joueurs partent, Kavan leur dit au revoir, offrant : "Partez avec les bénédictions des Trois Dames, si elles écoutent encore."
+
+
+
+Davian informe également les joueurs que Muriel, un agent de terrain clé des Gardes de la Plume, a récemment surpris une troublante prophétie impliquant Strahd. Muriel peut informer les joueurs que la prophétie a pris la forme d'une lecture de Tarokka livrée par Madame Eva à Strahd le jour où les joueurs ont secouru Muriel des **grand-strix**.
+
+Bien que Muriel ait été chassée avant d'avoir pu entendre la fin de la lecture, elle peut partager que la première partie s'est déroulée comme suit :
+
+<div class="description">
+<p>"Le Seigneur des Ténèbres - le maître des ombres, la bête dans le labyrinthe qui arrache ses chaînes.</p>
+<p>"Le Six d'Étoiles, l'Évocateur - le pouvoir que tu convoites, une force indomptée par les mains mortelles, brute et sauvage dans sa fureur brûlante.</p>
+<p>"L'Artefact - le jeton que tu cherches, la clé du pouvoir. Le cœur de la Divinité attend, mais où ?</p>
+<p>"L'Innocente. Je vois une demoiselle aux cheveux de corbeau et aux yeux crépusculaires. Elle est un moyen d'accéder au jeton.</p>
+<p>"Mais il y en a un autre - le Brisé. Le chemin du sacrifice ouvre une autre porte. Le mur qui murmure attend ton tribut."</p>
+</div>
+
+***Jalon.*** Vaincre les druides de la Colline d'Hier complète un jalon de l'histoire. Lorsque les joueurs rendront le joyau volé à Davian Martikov, accordez 2 500 points d'expérience à chaque joueur.
+
+> [!item]+ **Sifflet des Gardes**
+> Le sifflet est un objet magique lié à la malédiction de la lycanthropie wereravenne. Une fois par jour, les joueurs peuvent souffler dans le sifflet pour appeler le plus proche agent **wereravenne** des Gardes de la Plume dans un rayon de 8 km (s'il y en a). (L'agent mettra un temps raisonnable pour arriver, volant depuis son lieu actuel jusqu'à l'endroit où les joueurs ont soufflé dans le sifflet.)
+>
+> Lorsque l'agent arrive (sous forme de **corbeau**), les joueurs peuvent lui demander d'effectuer l'une des tâches suivantes, dans la mesure du raisonnable :
+>
+>* **Explorer** un environnement proche, fournissant des informations sur les effectifs ennemis, les pièges ou la disposition des lieux. (L'agent ne s'approchera pas de trop près si la zone est potentiellement dangereuse, préférant l'observer à distance.)
+>* **Livrer** un objet ou un message (oral ou écrit) à une autre créature à Barovia, en supposant que l'agent connaisse ou puisse trouver cette créature.
+>* **Obtenir** un petit objet léger dans un lieu ou une agglomération proche, tant qu'il peut être facilement trouvé, acheté ou récupéré d'une autre manière.
+>* **Distraire** un ou plusieurs ennemis proches (par exemple, en utilisant son aptitude de ***mimétisme***). (L'agent ne se mettra pas en danger d'être attrapé et sera méfiant face aux combattants à distance à moins d'être rassuré qu'ils ne portent ni armes en argent ni sorts magiques.)
+>* **Espionner** un lieu ou un personnage, le suivre discrètement et faire rapport sur ses activités et associations après une période prédéterminée. (L'agent n'entrera dans aucune structure pendant ce temps.)
+>
+>L'agent part après avoir accompli la tâche demandée.
+
+![[Keepers_Whistle.png]]
+
+<span class="credit">"Sifflet des Gardes" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+
+> [!abstract]+ **Les Expéditions de Vin**
+> Avec le vignoble sauvé et le joyau récupéré, Davian envoie Adrian et Elvir préparer le vin restant du vignoble pour l'expédition. Le lendemain matin, les deux frères chargent trois autres fûts sur la charrette (fraîchement réparée) dans <span class="citation">W2. Quai de Chargement (p. 176)</span> et partent, livrant d'abord trois fûts à Krezk, puis trois autres fûts à l'Auberge de l'Eau Bleue à Vallaki.
+>
+> Si les joueurs mentionnent leur intérêt à se rendre à Krezk, Adrian leur demande d'accompagner le chariot, notant : "Krezk peut être peu accueillante pour les étrangers, mais avec une bonne parole de notre part et une livraison de vin, ils seront sûrs de vous accueillir à bras ouverts."
+>
+> En visitant Krezk, les frères mentionnent les noms et descriptions des joueurs au bourgmestre Dmitri Krezkov. Les joueurs sont des invités bienvenus à Krezk s'ils visitent le village par la suite. Voir [[Arc K - L'Abbaye Déchue]] pour plus d'informations sur les aventures des joueurs à Krezk.
+
+> [!abstract]+ **Nouvelles de Barovia**
+> Si les joueurs utilisent le *Sifflet du gardien* pour chercher des nouvelles du village de Barovia, ils peuvent recevoir les informations suivantes :
+>
+> * Le village se remet encore du siège de Strahd. Si Bildrath est vivant, il est devenu une sorte d'aimant pour les mécontents. Cependant, de plus en plus, les habitants du village se tournent vers Ismark et - si Doru a réussi son épreuve - le père Donavich pour les guider.
+> * Si Doru a réussi son épreuve, il est réintégré dans le village et s'est profondément excusé auprès des familles qui ont perdu des proches à cause de sa rébellion ratée. Tous n'ont pas accepté ses excuses, et beaucoup se méfient de son vampirisme, mais il semble avoir maîtrisé sa soif de sang et être accablé de remords.
+> * Le départ des réfugiés et des victimes du siège a laissé la ville vidée, de nombreuses entreprises n'existant plus et celles qui ont survécu peinant à s'en sortir avec beaucoup moins de clients. Dans l'ensemble, le processus de reconstruction a été difficile, mais de nombreuses familles dont les maisons ont été endommagées ou détruites ont pu déménager dans les maisons excédentaires encore debout.
+

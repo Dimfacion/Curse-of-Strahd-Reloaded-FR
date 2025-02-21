@@ -3,9 +3,9 @@ _Une aventure pour cinq personnages de niveau 3._
 > [!warning]+ **Mise à jour récente** 
 > Cet arc a été substantiellement révisé le 19 juillet 2024. Pour accéder à la version obsolète de cet arc, consultez [Arc B - Welcome to Barovia](https://www.strahdreloaded.com/Deprecated+Material/Arc+B+-+Welcome+to+Barovia) dans l'annexe du Matériel obsolète.
 
-Dans cet arc, les joueurs se rendent dans le sombre village de Barovie, ravagé par la mort et le désespoir suite au réveil de Strahd. Lorsqu'un corbeau-garou déguisé les guide vers la taverne du Sang des Vignes, ils rencontrent Ismark, l'aîné des enfants du bourgmestre récemment blessé.
+Dans cet arc, les joueurs se rendent dans le sombre village de Barovie, ravagé par la mort et le désespoir suite au réveil de Strahd. Lorsque les joueurs arrivent aux barricades, ils rencontrent Ismark, l'aîné des enfants du bourgmestre récemment blessé.
 
-Là, les joueurs apprennent que le village est attaqué chaque nuit par la horde de morts-vivants de Strahd depuis six nuits - et que la horde devrait revenir au crépuscule. En échange de nourriture, d'abri et d'informations, Ismark demande aux joueurs de prendre les armes aux côtés des Baroviens et de se préparer à défendre les fortifications du village contre l'assaut des morts.
+ A la taverne du Sang des Vignes, les joueurs apprennent que le village est attaqué chaque nuit par la horde de morts-vivants de Strahd depuis six nuits - et que la horde devrait revenir au crépuscule. En échange de nourriture, d'abri et d'informations, Ismark demande aux joueurs de prendre les armes aux côtés des Baroviens et de se préparer à défendre les fortifications du village contre l'assaut des morts.
 
 Après avoir défendu avec succès les barricades, les joueurs apprennent que Strahd a personnellement envahi le manoir du bourgmestre, tuant le père d'Ismark et mordant sa sœur, Ireena. Le bourgmestre du village étant mort, Strahd retire formellement la horde du village, permettant à Ismark, Ireena et aux joueurs de ramasser les morceaux.
 
@@ -95,7 +95,7 @@ Le voyage d'ici jusqu'aux abords du village fait 3,2 kilomètres de long et pren
 
 Cette scène se déroule largement comme décrit dans <span class="citation">Les alentours du Village (p. 41)</span>. Cependant, modifiez la description comme suit :
 
-<div class="description"> <p>Alors que la matinée s'approfondit, le ciel couvert s'éclaircissant vers un gris terne et lugubre, les abords du village apparaissent plus clairement. Une large tranchée de terre entoure l'agglomération, large d'un mètre cinquante et tout aussi profonde, avec des centaines de pieux en bois aiguisés jaillissant comme des dents acérées de la terre à l'intérieur. Plus loin, à côté d'un grand tas de bois carbonisé, la route continue sur un pont de fortune en bois, le sol boueux au-delà laissant place à des pavés glissants et humides.</p> <p>Des barricades en bois se dressent de manière désordonnée le long des rues. Les structures autour d'elles portent des marques de brûlures et des entailles, et plusieurs bâtiments montrent des toits ou des murs partiellement effondrés, permettant au brouillard froid et rampant de dériver silencieusement à l'intérieur.</p> <p>Les hautes silhouettes des habitations du village se dressent au-dessus du reste, émergeant de la brume dense qui s'accroche à la terre. Des silhouettes portant des arbalètes patrouillent sur les vieux toits au-dessus, tandis qu'une demi-douzaine de villageois à l'air hanté réparent une barricade de dix mètres bloquant la rue principale. Un homme grand et large d'épaules avec des cheveux blonds qui descendent jusqu'aux épaules et une mâchoire ciselée dirige les travaux, portant une vieille épée longue bouclée à sa hanche et un ensemble d'armure lamellaire par-dessus un manteau à col. Un corbeau aux ailes à pointes bleues est perché sur l'un des toits à proximité, observant les événements en contrebas avec un intérêt évident.</p> </div>
+<div class="description"> <p>Alors que la matinée s'approfondit, le ciel couvert s'éclaircissant vers un gris terne et lugubre, les abords du village apparaissent plus clairement. Une large tranchée de terre entoure l'agglomération, large d'un mètre cinquante et tout aussi profonde, avec des centaines de pieux en bois aiguisés jaillissant comme des dents acérées de la terre à l'intérieur. Plus loin, à côté d'un grand tas de bois carbonisé, la route continue sur un pont de fortune en bois, le sol boueux au-delà laissant place à des pavés glissants et humides.</p> <p>Des barricades en bois se dressent de manière désordonnée le long des rues. Les structures autour d'elles portent des marques de brûlures et des entailles, et plusieurs bâtiments montrent des toits ou des murs partiellement effondrés, permettant au brouillard froid et rampant de dériver silencieusement à l'intérieur.</p> <p>Les hautes silhouettes des habitations du village se dressent au-dessus, émergeant de la brume dense qui s'accroche à la terre. Des silhouettes portant des arbalètes patrouillent sur les vieux toits au-dessus, tandis qu'une demi-douzaine de villageois à l'air hanté réparent une barricade de dix mètres bloquant la rue principale. Un homme grand et large d'épaules avec des cheveux blonds qui descendent jusqu'aux épaules et une mâchoire ciselée dirige les travaux, portant une vieille épée longue bouclée à sa hanche et un ensemble d'armure lamellaire par-dessus un manteau à col. Un corbeau aux ailes à pointes bleues est perché sur l'un des toits à proximité, observant les événements en contrebas avec un intérêt évident.</p> </div>
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -123,9 +123,9 @@ Alors que les joueurs approchent, Kereza les interpelle. Lisez :
 
 Kereza est méfiante envers les joueurs, pensant qu'ils sont des vampires, des zombies ou des goules déguisés. Quelle que soit la réponse des joueurs, Ismark intervient, réprimandant doucement Kereza pour sa paranoïa et rassurant les autres Baroviens avec bonne humeur que les joueurs sont clairement vivants, "comme nous".
 
-Ismark invite ensuite gentiment les joueurs à passer au-delà de la barricade et les accueille. Il avoue cependant qu'il craint qu'ils ne soient venus à un mauvais moment, révélant que le village est assiégé par une horde de morts-vivants depuis plusieurs nuits.
+Ismark invite ensuite gentiment les joueurs à passer par une section amovible de la barricade et les accueille. Il avoue cependant qu'il craint qu'ils ne soient venus à un mauvais moment, révélant que le village est assiégé par une horde de morts-vivants depuis plusieurs nuits.
 
-Après avoir confirmé que la barricade est presque réparée, Ismark invite les joueurs à le rejoindre à la Taverne du Sang des Vignes au centre de la ville, où il a d'autres affaires à régler, et où ils pourront discuter davantage et partager un verre. ("Nous avons au moins trois heures avant que la nuit ne tombe", dit-il en plissant les yeux vers le ciel gris au-dessus. "Cela devrait nous donner assez de temps avant que les morts ne reviennent.")
+Après avoir confirmé que la barricade est presque réparée, Ismark invite les joueurs à le rejoindre à la Taverne du Sang des Vignes au centre de la ville où ils pourront discuter davantage et partager un verre. ("Nous avons au moins trois heures avant que la nuit ne tombe", dit-il en plissant les yeux vers le ciel gris au-dessus. "Cela devrait nous donner assez de temps avant que les morts ne reviennent.")
 
 Si les joueurs acceptent, Muriel les suit jusqu'à la place du village, restant en vol dans les airs au-dessus et observant avec un vif intérêt.
 
@@ -166,7 +166,7 @@ Ismark peut partager les informations suivantes :
 - Il y a un peu plus de trois mois, un homme nommé Doru, le fils du prêtre du village, a lancé une rébellion contre le château, espérant libérer la vallée de sa prison dans les brumes. Leur révolte a échoué, réveillant Strahd de son sommeil et incitant le vampire à jurer vengeance sur le village en contrebas.
 - Plusieurs dizaines de Baroviens ont fui vers la ville de Vallaki, à presque une journée de voyage à l'ouest. Le reste est resté dans le village, déterminé à défendre leurs maisons et ceux qui n'étaient pas en mesure de faire le voyage.
 - Il y a six nuits, les forces morts-vivantes de Strahd ont commencé à attaquer la ville. Chaque nuit, les Baroviens repoussent plusieurs vagues de morts - et chaque nuit, la horde s'approche de plus en plus près de percer les défenses du village.
-- De nombreux Baroviens craignent que le village ne soit condamné. Cependant, les morts-vivants ont infesté les bois au nord, à l'ouest et au sud, bloquant la Vieille Route de Svalich juste après la Rivière Ivlis. Avec les Brumes bloquant le passage à l'est, le village a été effectivement coupé du monde, laissé à survivre par lui-même - ou à périr.
+- De nombreux Baroviens craignent que le village ne soit condamné. Les morts-vivants ont infesté les bois au nord, à l'ouest et au sud, bloquant la Vieille Route de Svalich juste après la Rivière Ivlis. Avec les Brumes bloquant le passage à l'est, le village a été effectivement coupé du monde, laissé à survivre par lui-même - ou à périr.
 
 [[Personnages Non-Joueurs#Ismark Kolyanovich|Ismark]] peut également partager l'histoire récente du village, ainsi que la plupart des informations contenues dans **Jouer Ismark (p. 43)** et **Informations connues de tous (p. 26)**. Cependant, Ismark ne mentionne pas de "sorcier fou" et il ne suggère pas que les Vistani servent Strahd. (Notez que le père d'Ismark, le bourgmestre Kolyan Indirovich, est toujours en vie - bien que blessé - dans la maison du bourgmestre, et que la sœur d'Ismark, Ireena Kolyana, n'a pas encore été mordue par Strahd.)
 
@@ -186,7 +186,7 @@ Si un ou plusieurs joueurs le rejoignent, Bildrath peut partager les information
 - Aucun des révolutionnaires n'est jamais revenu. Quelques jours plus tard, un elfe à la peau sombre est venu au village et a annoncé que le village avait quatre-vingt-dix jours pour faire la paix avec les dieux avant que le seigneur du Château Ravenloft - maintenant réveillé après cent ans de sommeil - n'exige pénitence pour leur désobéissance.
 - Certains villageois sont partis. Beaucoup d'autres voulaient partir. Cependant, Ismark a prononcé un discours retentissant sur la place du village devant la statue d'Ismark le Grand, promettant aux villageois que ceux qui resteraient se lèveraient et défendraient leurs maisons. "L'audace du bâtard," ricane Bildrath. "Se tenant devant la statue de son arrière-grand-père comme s'il valait un _dixième_ de lui."
 - Bildrath voulait partir - mais sa sœur, Marta, et son mari, Dragomir, ont choisi de rester avec leur fils, Parricornette, inspirés par les paroles d'Ismark. Ne voulant pas quitter sa famille, Bildrath est resté aussi. "Ils pensaient qu'ils se battraient pour défendre ce qui leur appartient," s'étrangle-t-il, retenant des larmes. "Ces foutus _idiots_ auraient dû fuir, et ne jamais regarder en arrière."
-- Quatre-vingt-dix jours après que l'elfe ait délivré sa proclamation, les morts-vivants sont venus, grouillant en hordes de dizaines depuis le Bois Svalich. Les villageois ont riposté, défendant les rues avec des barricades, des épées et des flèches. "Mais les morts continuaient d'arriver," croasse Bildrath. "Et Marta-" Il se tait. (Bildrath a perdu Marta et Dragomir dans les attaques, et blâme Ismark pour son échec à les protéger.)
+- Quatre-vingt-dix jours après que l'elfe ait délivré sa proclamation, les morts-vivants sont venus, grouillant en hordes de dizaines depuis le Bois Svalich. Les villageois ont riposté, défendant les rues avec des barricades, des épées et des flèches. "Mais les morts continuaient d'arriver," croasse Bildrath. "Et Marta-" Il se tait. (Bildrath a perdu Marta et Dragomir dans les attaques, et blâme Ismark pour son échec à les protéger faisant de Parricornette -son neveu- un orphelin.)
 
 Quand il a retrouvé son calme, Bildrath avertit les joueurs que le village est condamné, et probablement toute la Barovie avec lui. "Il n'y a pas de soleil à ramener," crache-t-il. "Pas d'échappatoire aux brumes. C'est l'Enfer, maintenant et pour toute l'éternité. Plus tôt vous l'accepterez, mieux vous vous porterez."
 
@@ -381,15 +381,14 @@ Lorsque les joueurs sont prêts à partir, Ireena va chercher une caisse en bois
 > 
 > Une créature peut mettre fin à ces dégâts en utilisant son action pour faire un test de Dextérité DC 10 pour éteindre les flammes.
 
-#TODO
->[!abstract]+ **Visiting the Church** 
->Players who insist upon visiting E5. Church (p. 45) find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
+>[!abstract]+ **Visite de l'Église** 
+>Les joueurs qui insistent pour visiter E5. l'Église (p. 45) la trouvent largement comme décrite dans [[#B5i. L'Église Barovienne]] ci-dessous. Cependant, Parriwimple n'est pas à l'église à ce moment-là, et le Père Donavich ne mentionne pas le sort de Doru sans la présence d'Ireena ou d'Ismark.
 
-## B5f. Le Commerce de Bildrath
+## B5e. Le Commerce de Bildrath
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 3 : Zone E1.</em></span>
 
-Si les joueurs choisissent de la visiter avant de se rendre à [[#B5e. La Barricade Est]], cette zone est largement décrite comme dans <span class="citation">Le Commerce de Bildrath (p. 43)</span>. Cependant, au lieu de vendre des articles dix fois le prix indiqué dans le _Manuel des Joueurs_, Bildrath les vend seulement deux fois le prix, citant les récents bouleversements économiques.
+Si les joueurs choisissent de la visiter avant de se rendre à [[#B5f. La Barricade Est]], cette zone est largement décrite comme dans <span class="citation">Le Commerce de Bildrath (p. 43)</span>. Cependant, au lieu de vendre des articles dix fois le prix indiqué dans le _Manuel des Joueurs_, Bildrath les vend seulement deux fois le prix, citant les récents bouleversements économiques.
 
 Si des joueurs ont été gentils avec lui à la taverne, il vend à ces joueurs des articles au prix normal indiqué dans le _Manuel des Joueurs_ - une affaire spéciale, pour eux uniquement. Si des joueurs ont défendu Ismark à la taverne, Bildrath les regarde d'un air menaçant et vend à ces joueurs des articles cinq fois le prix indiqué dans le _Manuel des Joueurs_, prétendant avec mépris qu'il s'agit d'une "affaire spéciale" pour les amis du "grand héros" de la ville.
 
@@ -455,13 +454,11 @@ S'il est présent, le visage de Bildrath s'assombrit et il serre son arbalète. 
 > 
 > - **_Résistance de Mort-Vivant (1/jour)._** Si des dégâts réduisent le zombie à 0 point de vie, le zombie tombe à 1 point de vie à la place. Le zombie ne peut pas utiliser cette capacité si les dégâts sont radiants ou proviennent d'un coup critique, ou si les dégâts subis sont de 15 ou plus.
 
-#TODO
-> [!combat]- **Balancing the Siege** 
-> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> - **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul.
-> - **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies.
-> - **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
+> [!combat]- **Équilibrer le Siège** 
+> En raison du mécanisme de vagues, cette rencontre de combat est une série de deux rencontres de combat consécutives **légères** et d'une troisième rencontre **sanglante** contre un groupe de cinq joueurs de niveau 3, un allié de FP 0 (Bildrath) et un allié de FP 5 (Parriwimple). La première consommera environ 15% de leurs points de vie maximum totaux, la seconde environ 17% de leurs points de vie maximum totaux, et la troisième environ 34% de leurs points de vie maximum (pour un total de 66% de leurs points de vie maximum). Pour les groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+> - **Trois Joueurs**. Réduisez le nombre de zombies dans la première vague à 5. Retirez les zombies de la deuxième vague. Remplacez le nécrophage dans la troisième vague par une goule.
+> - **Quatre Joueurs**. Réduisez le nombre de zombies dans la première vague à cinq. Réduisez le nombre de zombies dans la deuxième vague à un. Remplacez le nécrophage dans la troisième vague par trois zombies.
+> - **Six Joueurs**. Augmentez le nombre de zombies dans la première vague à sept. Augmentez le nombre de zombies dans la deuxième vague à trois. Ajoutez un zombie à la troisième vague.
 
 **_La Première Vague._** Peu après la tombée de la nuit, six **zombies** émergent de l'obscurité et s'approchent de la barricade. Lisez :
 
@@ -506,21 +503,22 @@ Si les joueurs la suivent, Muriel les guide vers l'ouest en direction de la plac
 
 <div class="description"> <p>Des dizaines de corps jonchent la rue, sanglants et immobiles. L'air est chargé de l'odeur âcre de la putréfaction et de la mort, et le vent hurlant porte le son de cris terrifiés.</p> <p>La barricade protégeant la place du village a été brisée, ses restes éclatés entourés d'un monticule de cadavres atteignant presque 2 mètres de haut. Sur la place, les enfants hurlent tandis que les personnes âgées et les infirmes regardent avec une horreur muette.</p> <p>Les torches à l'ouest ont été éteintes, les défenseurs occidentaux du village ont fui ou ont été tués. Une seule silhouette reste debout : Ismark, ses vêtements déchirés et ensanglantés, tenant une épée longue dans sa main gauche et une épée courte dans sa droite. À 6 mètres de lui se dresse un zombie à la peau pâle, sa chair d'un blanc maladif gonflée de veines cramoisies. Ses yeux fixent d'un air morne les tentes de la place du village au-delà, et alors qu'un nuage de brume rougeâtre s'échappe doucement de sa bouche béante, il fait un pas chancelant en avant.</p> </div>
 
+![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
+<span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
+
 Ismark, dont les points de vie ont été réduits à 40, accueille toute l'aide que les joueurs peuvent apporter contre le zombi pestiféré. S'il est réduit à 30 points de vie ou moins, Ismark fait obstruction directement au zombie pestiféré tout en prenant l'action Esquive à chacun de ses tours, espérant le retarder tout en donnant aux joueurs suffisamment de temps pour le vaincre.
 
 Le zombi pestiféré, qui commence à 36 mètres du centre de la place du village et possède les mêmes modifications que le zombi pestiféré dans [[#Le Siège]], n'utilisera pas son **_miasme pestilentiel_** jusqu'à ce qu'il atteigne le centre de la place du village ou soit réduit à 30 points de vie ou moins. Chaque round, il tente de se déplacer de toute sa vitesse en ligne droite vers la place du village. S'il ne peut pas, il utilise son **_attaque multiple_** pour attaquer toute créature à portée. (Le zombi pestiféré n'essaie pas de contourner les créatures qui lui font obstruction, même si cela lui permettrait d'atteindre sa destination.)
 
-#TODO
-> [!combat]- **Balancing the Town Square** 
-> This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> - **Three Players**. Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4.
-> - **Four Players**. Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6.
-> - **Six Players**. Add one zombie fighting alongside the plague spreader.
+> [!combat]- **Équilibrer la Place du Village** 
+> Cette rencontre de combat est une rencontre **légère** contre un groupe de cinq joueurs de niveau 3 et un allié de FD 3 (Ismark Kolyanovich), et consommera environ 16% de leurs points de vie maximum totaux. Pour les groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
+> - **Trois Joueurs**. Réduisez les points de vie du propagateur de peste zombie à 93, retirez les dégâts nécrotiques de ses attaques de Coup, et réduisez les dégâts de son miasme virulent à 2d4.
+> - **Quatre Joueurs**. Réduisez les points de vie du propagateur de peste zombie à 112 et réduisez les dégâts nécrotiques de ses frappes à mains nues à 1d6.
+> - **Six Joueurs**. Ajoutez un zombie combattant aux côtés du propagateur de peste.
 
-> [!info]+ **Dying NPCs**
+> [!info]+ **PNJ Mourants**
 > 
-> As noted in Monsters and Death (Player's Handbook, p. 198), allied non-player characters—such as Ismark Kolyanovich and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (Player's Handbook, p. 197).
+> Comme indiqué dans Monstres et Mort (Guide du Joueur, p. 198), les personnages non-joueurs alliés — comme Ismark Kolyanovich et tout autre PNJ combattant aux côtés des joueurs — doivent tomber inconscients lorsqu'ils sont réduits à 0 point de vie. Quand cela arrive, ils suivent les mêmes règles pour les jets de sauvegarde contre la mort que les personnages joueurs, décrites plus en détail dans Jets de Sauvegarde contre la Mort (Guide du Joueur, p. 197).
 
 ### La Proclamation de Rahadin
 
@@ -609,9 +607,9 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
 <p><strong><em>Lames tourbillonnantes.</em></strong> Chaque créature dans un rayon de 3 mètres de Rahadin doit effectuer un jet de sauvegarde de Dextérité DD 19, subissant 7 (2d6) dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.</p>
 <h3>Réactions</h3>
 <p>Rahadin peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. Si Rahadin devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
-<p><strong><em>Parade.</em></strong> Rahadin ajoute +5 à sa Classe d'Armure contre une attaque de corps à corps ou à distance qui le toucherait ou au résultat d'un jet de sauvegarde de Dextérité raté, ou ne subit aucun dégât de <em>projectile magique</em> ce tour. S'il fait échouer une attaque de corps à corps de cette manière, il peut alors immédiatement utiliser une réaction supplémentaire, si disponible, pour utiliser sa Riposte contre l'attaquant.</p>
-<p><strong><em>Riposte.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque de corps à corps, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers un espace inoccupé à 1,5 m de cet ennemi sans déclencher d'attaques d'opportunité. Il peut alors immédiatement effectuer une attaque de <strong><em>sabre</em></strong> contre cet ennemi avec avantage.</p>
-<p><strong><em>Pas brumeux (1/round).</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque ou lui inflige des dégâts, il peut utiliser sa réaction pour lancer <em>pas brumeux</em>. Il peut alors immédiatement effectuer l'action Se cacher. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette manière.</p>
+<p><strong><em>Frappe Punitive.</em></strong> Lorsque Rahadin est touché par une attaque de corps à corps ou à distance, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers l'attaquant et effectuer une attaque avec son sabre. Ce déplacement ne provoque pas d'attaques d'opportunité.</p> 
+<p><strong><em>Désarmement.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque au corps à corps en maniant une arme, il peut utiliser sa réaction pour forcer cet ennemi à effectuer un jet de sauvegarde de Force DD 19, avec avantage si l'ennemi tient l'arme à deux mains. En cas d'échec, l'ennemi lâche l'objet, qui est projeté à 3 mètres.</p>
+<p><strong><em>Pas Brumeux (1/round).</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque ou lui inflige des dégâts, il peut utiliser sa réaction pour lancer <em>pas brumeux</em>. Il peut alors immédiatement effectuer l'action Se cacher. Rahadin n'a pas besoin de voir sa destination lorsqu'il lance <em>pas brumeux</em> de cette façon.</p>
 <p><strong><em>Cri psychique (1/jour).</em></strong> Lorsque Rahadin est réduit à 0 point de vie, il peut utiliser sa réaction pour faire pousser un terrible cri à son chœur mortel. Chaque créature dans un rayon de 18 mètres de Rahadin doit effectuer un jet de sauvegarde de Sagesse DD 17, subissant 11 (2d10) dégâts psychiques en cas d'échec ou la moitié en cas de réussite. Si une créature rate le jet de sauvegarde de 5 ou plus, elle est également étourdie jusqu'au début du prochain tour de Rahadin.</p>
 </div>
 <br>
@@ -670,8 +668,8 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
    <p><strong><em>Pas rapide.</em></strong> Rahadin effectue l'action Foncer ou Se désengager.
    <h3>Réactions</h3>
    <p>Rahadin peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. Si Rahadin devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
-   <p><strong><em>Frappe vengeresse.</em></strong> Lorsque Rahadin est touché par une attaque de corps à corps ou à distance, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers l'attaquant et effectuer une attaque avec <strong><em>Épine</em></strong> ou <strong><em>Chaîne</em></strong>. Ce mouvement ne provoque pas d'attaques d'opportunité.</p>
-   <p><strong><em>Désarmer.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque de corps à corps en maniant une arme, il peut utiliser sa réaction pour forcer cet ennemi à effectuer un jet de sauvegarde de Force DD 19, avec avantage si l'ennemi tient l'arme à deux mains. En cas d'échec, l'ennemi lâche l'objet, qui est projeté à 3 mètres.</p>
+<p><strong><em>Parade.</em></strong> Rahadin ajoute +5 à sa Classe d'Armure contre une attaque de corps à corps ou à distance qui le toucherait ou au résultat d'un jet de sauvegarde de Dextérité raté, ou ne subit aucun dégât de <em>projectile magique</em> ce tour. S'il fait rater une attaque au corps à corps de cette façon, il peut alors immédiatement utiliser une réaction supplémentaire, si disponible, pour utiliser sa Riposte contre l'attaquant.</p> 
+<p><strong><em>Riposte.</em></strong> Lorsqu'un ennemi rate Rahadin avec une attaque au corps à corps, il peut utiliser sa réaction pour se déplacer jusqu'à sa vitesse vers un espace inoccupé à 1,5 mètre ou moins de cet ennemi sans provoquer d'attaques d'opportunité. Il peut alors immédiatement effectuer une attaque avec <strong><em>Épine</em></strong> ou <strong><em>Chaîne</em></strong> contre cet ennemi avec avantage.</p> 
 </div>
  
 

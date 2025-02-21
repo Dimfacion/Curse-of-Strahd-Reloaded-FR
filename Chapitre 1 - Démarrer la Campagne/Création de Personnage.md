@@ -218,9 +218,9 @@ Un joueur en quête de **rédemption** commence la campagne avec la _plume d'ang
 
 À l'insu du joueur, la _plume d'ange_ appartenait autrefois à Ithuriel, un **deva** qui sert le dieu Lathander, connu de ses fidèles sous le nom de Seigneur du Matin. Ithuriel est le vrai nom de l'Abbé, qui réside dans l'Abbaye de Saint Markovia en Barovie. Lorsqu'elle sent la présence de la Maison de la Mort, la plume est emportée par un vent invisible, ses barbes scintillant d'une lumière dorée, avant d'atterrir finalement sur le seuil de la maison.
 
-Le joueur qui possède la _plume d'ange_ doit avoir des raisons fortes et vives de croire que la plume les mènera un jour à la pénitence pour les péchés qu'ils ont commis.
+Le joueur qui possède la _plume d'ange_ doit avoir des raisons fortes et vives de croire que la plume les mènera un jour à la rédemption pour les péchés qu'ils ont commis.
 
-_**Développements.**_ Lorsque les joueurs arrivent pour la première fois à l'Abbaye dans [[Arc I - The Walls of Krezk]] ou [[Arc K - The Fallen Abbey]], la _plume d'ange_ scintille et est emportée de la même manière qu'elle l'a fait en sentant la Maison de la Mort, guidant le joueur vers l'Abbé. L'Abbé reconnaît la plume comme la sienne, mais en minimise l'importance.
+_**Développements.**_ Lorsque les joueurs arrivent pour la première fois à l'Abbaye dans [[Arc I - Les Murs de Krezk]] ou [[Arc K - The Fallen Abbey]], la _plume d'ange_ scintille et est emportée de la même manière qu'elle l'a fait en sentant la Maison de la Mort, guidant le joueur vers l'Abbé. L'Abbé reconnaît la plume comme la sienne, mais en minimise l'importance.
 ## Famille—L'Echarpe du Vagabond
 ![[Wanderer's Scarf.png]]
 Un joueur en quête de **famille** commence la campagne avec l’_écharpe du vagabond_, une écharpe multicolore tissée avec des motifs complexes. Le tissu est doux et chaud, et assez long pour être porté autour du cou ou sur la tête. Lorsque la lumière vive du soleil, de la lune ou des étoiles passe à travers elle, les motifs semblent scintiller et se tordre de manière étrange et belle.
@@ -289,7 +289,7 @@ Un joueur en quête d'**ambition** commence la campagne avec la _bannière en la
 
 Le joueur qui possède la _bannière en lambeaux_ doit avoir des raisons fortes et vives de croire que la bannière était autrefois le sigle d'un puissant conquérant — et qu'en suivant les traces de ce conquérant, ils atteindront un jour la grandeur, la gloire et le droit de régner.
 
-_**Développements.**_ Lorsque le joueur découvre pour la première fois le champ de bataille hanté au nord de Berez dans [[Arc I - The Walls of Krezk]], la bannière flotte au vent, résonnant avec le son des tambours de guerre.
+_**Développements.**_ Lorsque le joueur découvre pour la première fois le champ de bataille hanté au nord de Berez dans [[Arc I - Les Murs de Krezk]], la bannière flotte au vent, résonnant avec le son des tambours de guerre.
 
 Si le joueur montre la bannière au revenant aux chutes de Tser dans [[Arc C - A travers la vallée]], à Sir Godfrey Gwilym ou à Sir Vladimir Horngaard dans [[Arc M - The Dragon's Manor]], ou à Kasimir Velikov soit dans [[Arc E - La Vistana Disparue]] ou **Acte V, Arc U : Le Temple d'Ambre**, son apparence suscite répulsion et dégoût amer.
 

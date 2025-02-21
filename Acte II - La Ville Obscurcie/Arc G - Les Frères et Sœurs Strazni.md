@@ -76,7 +76,7 @@ Ireena, déterminée et têtue, ne peut pas être convaincue de rester à l'aube
 > - L'emploi du temps quotidien d'Izek varie, mais il prend régulièrement son repas de midi sur la place de Vallaki, livré par le cuisinier du Baron. Il retourne chaque nuit au manoir du Baron Vallakovich pour dormir.
 > - D'étranges personnages ont été vus entrant et sortant de Wachterhaus, la demeure de Lady Fiona Wachter, l'une des plus féroces ennemies politiques du Baron. La rumeur dit que l'un de ses serviteurs suit Izek dans la ville depuis deux semaines. Elle pourrait avoir de l'aide à offrir.
 > 
-> Si les joueurs se rendent au domaine de Lady Wachter pour chercher son aide, ils commencent [[Arc G - Le Souhait de Dame Wachter]].
+> Si les joueurs se rendent au domaine de Lady Wachter pour chercher son aide, ils commencent [[Arc F - Le Souhait de Dame Wachter]].
 
 # G2. Les Rues de Vallaki
 
@@ -191,7 +191,7 @@ Si elle est consciente, Ireena utilise une dague cachée dans sa botte pour se l
    <strong>Facteur de puissance</strong> 6 ou 5 si empoisonné<br>
    <hr>
    <p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Izek rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
-   <p><strong><em>Indomptable.</em></strong> Si Izek devait être paralysé ou étourdi, il est ralenti à la place. (Il doit dépenser 1 mètre de mouvement supplémentaire pour chaque mètre parcouru en utilisant sa vitesse, les jets d'attaque contre lui ont avantage, et il a désavantage aux jets de sauvegarde de Dextérité.)
+   <p><strong><em>Indomptable.</em></strong> Si Izek devait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont un avantage aux attaques effectuées contre lui.)
    <p><strong><em>Seconde Phase.</em></strong> Quand Izek est réduit à 0 point de vie, ses bras et sa hache sont engloutis de flammes, les barbelures sur son bras démoniaque s'allongent et s'aiguisent, et sa peau devient rouge et commence à fumer. Ses statistiques sont alors instantanément remplacées par les statistiques de sa seconde forme. Son initiative ne change pas. Les dégâts excédentaires ne se reportent pas sur sa nouvelle forme, mais il conserve toutes les conditions qu'il avait dans sa forme précédente.</p>
    <h3>Actions</h3>
    <p><strong><em>Attaques multiples.</em></strong> Izek effectue deux attaques.</p>
@@ -290,7 +290,7 @@ Cet arc a été conçu pour servir de "compte à rebours" qui pousse les joueurs
 
 _**L'Auberge de l'Eau Bleue.**_ L'attaque d'Izek contre l'auberge de l'Eau Bleue a été ajoutée pour fournir aux joueurs une motivation supplémentaire pour chercher sa mort — particulièrement s'ils se méfient des motifs de Lady Wachter ou doutent des avantages de supprimer ses obstacles au pouvoir.
 
-L'attaque sert également à motiver Ireena à se joindre aux joueurs pour le vaincre, développant son arc narratif alors qu'elle passe de la passivité à l'action et posant les fondations de sa décision ultime de voyager avec les joueurs au début de l'**Acte III : La Main du Diable.**
+L'attaque sert également à motiver Ireena à se joindre aux joueurs pour le vaincre, développant son arc narratif alors qu'elle passe de la passivité à l'action et posant les fondations de sa décision ultime de voyager avec les joueurs au début de l'**Acte III : Une Contrée Brisée.**
 
 L'aide d'Urwin a été ajoutée pour dissuader les joueurs d'affronter Izek directement (c'est-à-dire dans un combat équitable), pour les diriger vers Lady Wachter (et donc servir d'accroche de secours pour [[Arc F - Le Souhait de Dame Wachter]]), et pour annoncer son implication avec les Gardiens de la Plume, dont les joueurs apprendront davantage dans [[Arc J - La Gemme Volée]].
 

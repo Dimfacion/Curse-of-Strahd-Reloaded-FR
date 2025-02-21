@@ -89,7 +89,7 @@ Lors du choix des cartes à utiliser pour chaque partie de la lecture, sélectio
 
 ### Le Tome de Strahd
 
-Le Tome de Strahd n'est pas présent dans le Plan Matériel de Barovia. Au lieu de cela, le **Neuf des Glyphes - Traître** prédit qu'il est détenu par le **héraut des gibets** Leo Dilisnya dans le Plan Éthéré. Voir [[Arc H - L'Ame Perdue]] pour plus d'informations sur le héraut des gibets.
+Le Tome de Strahd n'est pas présent dans le Plan Matériel de Barovia. Au lieu de cela, le **Neuf des Glyphes - Traître** prédit qu'il est détenu par le **héraut des gibets** Leo Dilisnya dans le Plan Éthéré. Voir [[Arc H - L'Ame Perdue#H9a. Lecture du Tome|Arc H - L'Ame Perdue]] pour plus d'informations sur le héraut des gibets.
 
 ### Le Symbole Sacré de Ravenkind
 

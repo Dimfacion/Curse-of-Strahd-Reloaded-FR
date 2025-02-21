@@ -9,6 +9,10 @@ Considérez _Curse of Strahd: Reloaded_ comme votre guide tout-en-un pour dirige
 > 
 > Si ce guide ne fait pas référence à un élément particulier de l'aventure originale—tel qu'une rencontre aléatoire ou un morceau de lore—**supposez qu'il n'existe pas.**
 
+> [!warning]+ **Règles 2014**
+>
+> Ce guide n'a pas été mis à jour pour la mise à jour des règles de Donjons & Dragons 2024. Il est conseillé aux lecteurs d'utiliser les règles de 2024, y compris le Guide du Joueur révisé, le Manuel des Monstres et le Guide du Maître de Donjon, à leurs propres risques.
+
 > [!info]+ **Ne Paniquez Pas** 
 > Contrairement à la plupart des modules, vous n'avez pas besoin de lire ce guide en entier avant de diriger l'aventure. En fait, vous n'avez pas besoin de lire le module original du tout, sauf lorsque ce guide le mentionne.
 > 

@@ -10,6 +10,9 @@ This translation aims to translate all the Curse of Strahd : Reloaded material m
 
 Thanks a lot to DragnaCarta for this rewriting of CoS ! Please feel free to visit his [patreon](https://www.patreon.com/DragnaCarta) ! 
 
+## Current Version
+2.0.10.4
+
 ## Workflow
 This translation is heavily using AI translators. Here's the workflow I mainly used :
 - Translate using AI translators (corresponding status : Translated)
@@ -35,7 +38,7 @@ This translation is heavily using AI translators. Here's the workflow I mainly u
 | [[Arc F - Le Souhait de Dame Wachter]]          | ✅          | ❌             | ❌              | ❌             |          |
 | [[Arc G - Les Frères et Sœurs Strazni]]         | ✅          | ❌             | ❌              | ❌             |          |
 | [[Arc H - L'Ame Perdue]]                        | 🚧         | ❌             | ❌              | ❌             |          |
-| [[Arc I - The Walls of Krezk]]                  | ❌          | ❌             | ❌              | ❌             |          |
+| [[Arc I - Les Murs de Krezk]]                  | ❌          | ❌             | ❌              | ❌             |          |
 | Arc III - Une contrée Brisée                    | ❌          | ❌             | ❌              | ❌             |          |
 | [[Act III Summary]]                             | ❌          | ❌             | ❌              | ❌             |          |
 | [[Arc J - The Stolen Gem]]                      | ❌          | ❌             | ❌              | ❌             |          |

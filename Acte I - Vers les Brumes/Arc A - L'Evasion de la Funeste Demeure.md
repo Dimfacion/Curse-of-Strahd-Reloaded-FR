@@ -466,7 +466,7 @@ Cette pièce est largement telle que décrite dans <span class="citation">Chambr
 
 <div class="description"> <p>Cette pièce froide, étouffée par la poussière, contient un lit mince, une table de nuit, un petit poêle à fer, un bureau avec un tabouret, une armoire vide, et un fauteuil à bascule. Une poupée froncée en robe jaune à dentelle est assise dans le bac de fenêtre nord, à côté d'une boîte à musique ternie, les toiles d'araignée la recouvrant comme un voile de mariage.</p> </div>
 
-Les joueurs peuvent reconnaître la poupée comme étant celle que Rose tenait dans le portrait familial dans le Hall Principal.
+Les joueurs peuvent reconnaître la poupée comme étant celle que Thorn tenait dans le portrait familial dans le Hall Principal.
 
 La boîte à musique contient un couteau de dépeçage rouillé et taché de sang, ainsi que la clé du cadenas sur la porte de la chambre de Rose et Thorn.
 
@@ -543,7 +543,7 @@ Le **spectre** de la nursemaid ne se manifeste pas dans cette pièce. Au lieu de
 
 Un joueur inspectant les restes ressent un souffle glacé sur son épaule et la sensation inébranlable d'être observé. Pendant ce temps, si un autre joueur a précédemment découvert un miroir voisin sous son drap, ce joueur peut voir une apparition d'Elisabeth Durst dans le miroir, fixant le joueur près du coffre. Une fois observée, l'apparition disparaît rapidement.
 
-### Guest Bedroom
+### Chambre d'Invités
 <span class="citation"><em>Cette scène se déroule dans l'Annexe B : Zone 19.</em></span>
 
 Cette pièce est telle que décrite dans <span class="citation">Chambre d'amis (p. 215)</span>.
@@ -627,6 +627,7 @@ Le puits comprend un puits de 1,2 mètre de diamètre avec un rebord en pierre d
 Si les joueurs jettent un objet dans le puits puis se détournent, ils entendent des bruits forts d'éclaboussures et de déchirures venant d'en bas. Quand ils se retournent, l'objet a été mis en pièces, avec de grandes parties manquantes.
 
 Remplacez l'épée courte en argent dans le coffre **25E** par un livre relié de cuir noir crasseux. Ce journal, signé par Drasha, contient une liste de noms et de descriptions physiques associées à chaque nom. Chaque entrée inclut des détails macabres décrivant le sacrifice de la victime, comme "s'est débattu avec acharnement" ou "aucun sédatif administré"<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>, et se termine par la phrase "Donné à manger à Walter."
+
 ### Fosse à Piques Cachée
 
 <span class="citation"><em>Cette scène se déroule dans l'Annexe B : Zone 26.</em></span>
@@ -899,8 +900,8 @@ Une créature engloutie par la première forme de l'amas peut entendre le faible
    <p><strong><em>Secousse.</em></strong> L'amas de chair frappe le sol, provoquant un tremblement dans la pièce. Chaque créature dans un rayon de 3 mètres de l'amas doit réussir un jet de sauvegarde de Force DD 13 ou tomber à terre.</p>
    <h3>Réactions</h3>
    <p>L'amas de chair peut effectuer jusqu'à trois réactions par round, mais pas plus d'une par tour. S'il devait perdre ses réactions et n'est pas incapacité, il perd une réaction à la place.</p>
-   <p><strong><em>Empoignade.</em></em> En réponse à des dégâts subis d'une attaque de mêlée, l'amas de chair tente d'agripper l'attaquant en utilisant sa <strong><em>Secousse.</em></strong></p>
-   <p><strong><em>Roulade.</em></strong> En réponse à des dégâts subis d'une attaque à distance ou d'un sort, l'amas de chair se déplace de sa vitesse directement vers ou loin de l'attaquant sans provoquer d'attaques d'opportunité.</p>
+   <p><strong><em>Empoignade.</em></strong> En réponse à des dégâts subis d'une attaque de mêlée, l'amas de chair tente d'agripper l'attaquant en utilisant sa <strong><em>Secousse.</em></strong></p>
+   <p><strong><em>Roulade.</em></strong> En réponse à des dégâts subis d'une attaque à distance ou d'un sort, l'amas de chair se déplace de sa vitesse directement vers ou loin de l'attaquant sans provoquer d'attaques d'opportunité. S'il se déplace vers l'attaquant, il peut alors immédiatement tenter de le bousculer.</p>
 </div>
 <br>
 
