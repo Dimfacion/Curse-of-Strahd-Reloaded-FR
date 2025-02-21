@@ -25,33 +25,37 @@ This translation is heavily using AI translators. Here's the workflow I mainly u
 
 | Pages                                           | Translated | First QA pass | Second QA pass | Battle tested | Comments |
 | ----------------------------------------------- | ---------- | ------------- | -------------- | ------------- | -------- |
-| Version 2.0.9.6 and below                       | 🚧         | 🚧            | 🚧             | 🚧            |          |
-| Acte I - Vers les Brumes                        | ✅<br>      | ✅             | 🚧             | 🚧            |          |
+| Version 2.0.10.4 and below                      | 🚧         | 🚧            | 🚧             | 🚧            |          |
+| Acte I - Vers les Brumes                        | ✅<br>      | ✅             | ✅              | ✅             |          |
 | [[Acte I Résumé]]                               | ✅          | ✅             | ✅              | ✅             |          |
 | [[Arc A - L'Evasion de la Funeste Demeure]]     | ✅          | ✅             | ✅              | ✅             |          |
 | [[Arc B - Bienvenue en Barovie]]                | ✅          | ✅             | ✅              | ✅             |          |
-| [[Arc C - A travers la vallée]]                 | ✅          | ✅             | 🚧             | 🚧            |          |
+| [[Arc C - A travers la vallée]]                 | ✅          | ✅             | ✅              | ✅             |          |
 | Acte II - La Ville Obscurcie                    | 🚧         | ❌             | ❌              | ❌             |          |
 | [[Acte II Résumé]]                              | ✅          | ❌             | ❌              | ❌             |          |
 | [[Arc D - Le festin de Saint-Andral]]           | ✅          | ❌             | ❌              | ❌             |          |
 | [[Arc E - La Vistana Disparue]]                 | ✅          | ❌             | ❌              | ❌             |          |
 | [[Arc F - Le Souhait de Dame Wachter]]          | ✅          | ❌             | ❌              | ❌             |          |
 | [[Arc G - Les Frères et Sœurs Strazni]]         | ✅          | ❌             | ❌              | ❌             |          |
-| [[Arc H - L'Ame Perdue]]                        | 🚧         | ❌             | ❌              | ❌             |          |
-| [[Arc I - Les Murs de Krezk]]                  | ❌          | ❌             | ❌              | ❌             |          |
-| Arc III - Une contrée Brisée                    | ❌          | ❌             | ❌              | ❌             |          |
-| [[Act III Summary]]                             | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc J - The Stolen Gem]]                      | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc K - The Fallen Abbey]]                    | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc L - The Den of Wolves]]                   | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc M - Argynvost's Beacon]]                  | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc N - Tales of Vallaki]]                    | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc O - Dinner with the Devil]]               | ❌          | ❌             | ❌              | ❌             |          |
-| [[Arc P - Ravenloft Heist]]                     | ❌          | ❌             | ❌              | ❌             |          |
+| [[Arc H - L'Ame Perdue]]                        | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc I - Les Murs de Krezk]]                   | ✅          | ❌             | ❌              | ❌             |          |
+| Arc III - Une contrée Brisée                    | ✅          | ❌             | ❌              | ❌             |          |
+| [[Act III Summary]]                             | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc J - The Stolen Gem]]                      | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc K - The Fallen Abbey]]                    | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc L - The Den of Wolves]]                   | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc M - The Dragon's Manor]]                  | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc N - Tales of Vallaki]]                    | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc O - Dinner with the Devil]]               | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc P - Ravenloft Heist]]                     | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc Q - A Shining Beacon]]                    | ✅          | ❌             | ❌              | ❌             |          |
+| Acte IV - Les Secrets des Anciens               | ✅          | ❌             | ❌              | ❌             |          |
+| [[Act IV Summary]]                              | ✅          | ❌             | ❌              | ❌             |          |
+| [[Arc R - Trials of the Mountain]]              | ✅          | ❌             | ❌              | ❌             |          |
 | Appendices                                      | ✅          | ❌             | ❌              | ❌             |          |
 | [[Eclats d'Ambre]]                              | ✅          | ❌             | ❌              | ❌             |          |
 | [[Glossaire]]                                   | ✅          | ❌             | ❌              | ❌             |          |
-| [[Personnages Non-Joueurs]]                     | 🚧         | ❌             | ❌              | ❌             |          |
+| [[Personnages Non-Joueurs]]                     | ✅          | ❌             | ❌              | ❌             |          |
 | Chapitre 1 - Démarrer la Campagne               | ✅          | ❌             | ❌              | ❌             |          |
 | [[Création de Personnage]]                      | ✅          | ❌             | ❌              | ❌             |          |
 | [[Session Zero]]                                | ✅          | ❌             | ❌              | ❌             |          |
