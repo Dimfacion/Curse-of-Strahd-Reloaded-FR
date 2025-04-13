@@ -1,4 +1,3 @@
-
 _Une aventure pour cinq personnages de niveau 5._
 
 Dans cet arc, le premier matin après la première pleine lune des joueurs à Barovia, ils sont approchés par Urwin Martikov, qui leur demande d'enquêter sur une mystérieuse pénurie de livraisons de vin de la vinerie du Sorcier des Vins au sud-ouest. Si les joueurs acceptent sa mission, Urwin leur demande d'autoriser Muriel Vinshaw - une employée de la vinerie - à les accompagner pour le voyage. (Muriel est, bien sûr, une **femme-corbeau** secrète et un membre des Gardiens de la Plume, chargée de délivrer la parole de la prophétie de Strahd à Davian Martikov, le chef de l'ordre.)
@@ -263,10 +262,7 @@ Le dernier tronçon du voyage vers le Sorcier des Vins est en grande partie déc
 > Livius voyagea avec Ismark et Lugdana pendant près d'une décennie, pistant les dangers et espionnant leurs ennemis. Lorsqu'il prit finalement sa retraite d'aventurier, il utilisa la richesse et la notoriété qu'il avait acquises pour fonder les Gardiens de la Plume, une société secrète de wereravens dédiée à s'opposer aux forces des ténèbres à travers Barovia. Bien que les Gardiens ne combattraient pas eux-mêmes, ils jurèrent de servir, guider et abriter tout héros qui pourrait un jour se lever à la mémoire de Lugdana.
 >
 > Il y a dix ans, Madame Eva - assistée du **roc du Mont Ghakis** déguisé en un corbeau ordinaire - déroba l'une des trois gemmes enchantées du vignoble. Davian blâma son fils Urwin, comme décrit dans <span class="citation">Chapitre 12 : Le Sorcier des Vins (p. 173)</span>.
-
-
-
-Urwin a dit à Davian qu'il avait vu un corbeau emporter la gemme dans la nuit - une affirmation que Davian a rejetée comme ridicule, car les Gardiens connaissaient et commandaient tous les corbeaux de la vallée.
+> Urwin a dit à Davian qu'il avait vu un corbeau emporter la gemme dans la nuit - une affirmation que Davian a rejetée comme ridicule, car les Gardiens connaissaient et commandaient tous les corbeaux de la vallée.
 Après une violente querelle, Urwin et sa fiancée, Danika Dorakova, sont partis pour Vallaki le lendemain matin, pour ne jamais revenir.
 >
 > Il y a un peu plus de trois mois, lorsque les corbeaux ont eu vent de la rébellion en préparation de Doru, le **corbeau-garou** Elric Martikov - l'un des plus jeunes fils de Davian et le frère jumeau d'Elvir Martikov - a décidé de se battre à leurs côtés.
@@ -1207,6 +1203,8 @@ Voici les statistiques du mur de racines :
 > Pendant qu'elle est empoignée de cette façon, la créature subit 3 (1d6) dégâts contondants plus 7 (2d6) dégâts perforants au début de chacun de ses tours. Les racines ont une CA de 15, 20 points de vie, une vulnérabilité aux dégâts radians et une immunité aux dégâts perforants et psychiques.
 ### Provocations de Ludmilla 
 Une fois que les joueurs ont traversé le voile de brume, Ludmilla les engage également au combat avec son ***voile d'ombres*** activé. (En raison de sa capacité *contingence* automatique, Ludmilla se téléporte hors du champ de bataille et s'enfuit si sa première phase est réduite à 0 point de vie.)
+//TODO Rework on the presentation of this statblock
+
 <div class="statblock">
     <h2>Ludmilla, Première Forme</h2>
     <em>Mort-vivant de taille moyenne, neutre mauvais</em>
@@ -1267,12 +1265,10 @@ Si elle se trouve à moins de 3 mètres de toutes les cibles, elle peut prononce
     <p><strong><em>Porte dimensionnelle (1/jour).</em></strong> Ludmilla lance <em>porte dimensionnelle.</em></p>
     <h3>Actions bonus</h3>
     <p><strong><em>Voile d'ombres (1/jour).</em></strong> Ludmilla invoque un voile d'ombres autour d'elle, qui dure 8 heures ou jusqu'à ce qu'elle le dissipe en utilisant une action bonus.
-Tant que le voile persiste, elle gagne une vitesse de vol de 15 mètres (vol stationnaire) et une résistance aux dégâts infligés par les attaques de corps à corps.
-Si Ludmilla résiste à des dégâts de cette manière, l'assaillant subit les mêmes dégâts et du même type.<br>&nbsp;&nbsp;&nbsp;&nbsp; La première fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, le voile s'affaiblit, réduisant sa vitesse de vol à 7,5 mètres et la faisant chuter de 6 mètres.
-La seconde fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, le voile disparaît immédiatement.</p>
-    <p><strong><em>Gelée entravante.</em></strong> Si Ludmilla a lancé le sort <em>graisse</em>, elle lance <em>toile d'araignée</em> (DD 15), ciblant la même zone carrée de 6 mètres de côté que le sort <em>graisse</em>.</em></p>
-    <h3>Réactions</h3>
-    <p>Ludmilla peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
+    Tant que le voile persiste, elle gagne une vitesse de vol de 15 mètres (vol stationnaire) et une résistance aux dégâts contondants, perforants et tranchants infligés par des attaques d'armes de corps à corps magiques et non magiques.
+    Si Ludmilla résiste à des dégâts de cette manière, l'assaillant subit les mêmes dégâts et du même type.<br>&nbsp;&nbsp;&nbsp;&nbsp; La première fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, le voile s'affaiblit, réduisant sa vitesse de vol à 7,5 mètres et la faisant chuter de 6 mètres.
+    La seconde fois que Ludmilla subit des dégâts radians ou des dégâts d'eau bénite alors que le voile est présent, le voile disparaît immédiatement.</p>
+    <p><strong><em>Gelée entravante.</em></strong> Si Ludmilla a lancé le sort <em>graisse</em>, elle lance <em>toile d'araignée</em> (DD 15), ciblant la même zone carrée de 6 mètres de côté que le sort <em>graisse</em>.</em></p><p><h3>Réactions</h3> <p>Ludmilla peut effectuer jusqu'à trois réactions par round, mais une seule par tour.
 Si elle devait perdre ses réactions et n'est pas neutralisée, elle en perd une seulement.</p>
     <p><strong><em>Pas de brume.</em></strong> En réaction à subir des dégâts, Ludmilla lance <em>pas de brume.</em></p>
     <p><strong><em>Contrecarrer un sort (3/jour).</em></strong> <em>Sort de niveau 3 :</em> 18 mètres, composantes V, S, instantané.
@@ -1476,7 +1472,7 @@ Bien que Muriel ait été chassée avant d'avoir pu entendre la fin de la lectur
 <p>"Mais il y en a un autre - le Brisé. Le chemin du sacrifice ouvre une autre porte. Le mur qui murmure attend ton tribut."</p>
 </div>
 
-***Jalon.*** Vaincre les druides de la Colline d'Hier complète un jalon de l'histoire. Lorsque les joueurs rendront le joyau volé à Davian Martikov, accordez 2 500 points d'expérience à chaque joueur.
+***Jalon.*** Vaincre les druides de la Colline d'Hier complète un jalon de l'histoire. Lorsque les joueurs rendront le joyau volé à Davian Martikov, accordez 2 500 points d'expérience à chaque joueur. (Cela devrait amener les joueurs au niveau 6.)
 
 > [!item]+ **Sifflet des Gardes**
 > Le sifflet est un objet magique lié à la malédiction de la lycanthropie wereravenne. Une fois par jour, les joueurs peuvent souffler dans le sifflet pour appeler le plus proche agent **wereravenne** des Gardes de la Plume dans un rayon de 8 km (s'il y en a). (L'agent mettra un temps raisonnable pour arriver, volant depuis son lieu actuel jusqu'à l'endroit où les joueurs ont soufflé dans le sifflet.)

@@ -435,6 +435,9 @@ Si l'un des joueurs l'a traité avec gentillesse à la Taverne du Sang des Vigne
 > 
 > Des plateformes en bois dispersées sur le côté ouest de la barricade permettent aux défenseurs de regarder par-dessus le bord et d'attaquer les ennemis qui approchent. Derrière la barricade, les défenseurs bénéficient d'un abri total, ou d'un abri aux trois quarts lorsqu'ils se tiennent sur une plateforme.
 
+![[Eastern-Barricades.jpg]]
+<span class="credit">"The Eastern Barricade" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/ef507db2df">here!</a></span>
+
 ### Le Siège
 
 Le crépuscule tombe peu après que les joueurs aient terminé leurs préparatifs. Lisez :
@@ -591,8 +594,7 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
 <hr>
 <p><strong><em>Choeur Mortel.</em></strong> Toute créature dans un rayon de 3 mètres de Rahadin qui n'est pas protégée par un sort de <em>sanctuaire de l'esprit</em> entend dans son esprit les cris des milliers de personnes que Rahadin a tuées.</p>
 <p><strong><em>Ascendance féerique.</em></strong> Rahadin a l'avantage aux jets de sauvegarde contre le charme et la magie ne peut pas l'endormir.</p>
-<p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Rahadin rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
-<p><strong><em>Indomptable.</em></strong> Si Rahadin devait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont l'avantage aux attaques faites contre lui.)
+<p><strong><em>Indomptable.</em></strong> Si Rahadin devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
 <p><strong><em>Incantation innée.</em></strong> La caractéristique d'incantation innée de Rahadin est l'Intelligence. Il peut lancer les sorts suivants de manière innée, sans composantes :<br>
 - 3/jour : destrier fantôme<br>
 - 1/jour : non-détection</p>
@@ -655,8 +657,7 @@ La proclamation initiale de Rahadin laisse Ismark raide et impassible, mais son 
    <hr>
    <p><strong><em>Cris des morts.</em></strong> Toute créature dans un rayon de 3 mètres de Rahadin qui n'est pas protégée par un sort de <em>sanctuaire de l'esprit</em> entend dans son esprit les cris des milliers de personnes que Rahadin a tuées.</p>
    <p><strong><em>Ascendance féerique.</em></strong> Rahadin a l'avantage aux jets de sauvegarde contre le charme et la magie ne peut pas l'endormir.</p>
-   <p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Rahadin rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
-   <p><strong><em>Indomptable.</em></strong> Si Rahadin devait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont l'avantage aux attaques faites contre lui.)
+   <p><strong><em>Indomptable.</em></strong> Si Rahadin devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
    <p><strong><em>Masque de la nature.</em></strong> Rahadin peut tenter de se cacher même lorsqu'il n'est que légèrement obscurci par le feuillage, la pluie forte, la neige qui tombe, la brume et d'autres phénomènes naturels.</p>
    <h3>Actions</h3>
    <p><strong><em>Attaque multiple.</em></strong> Rahadin effectue trois attaques avec ses cimeterres <strong><em>Épine</em></strong> et/ou <strong><em>Chaîne</em></strong>. Il peut remplacer une attaque par sa capacité <strong><em>hanter</em></strong>.

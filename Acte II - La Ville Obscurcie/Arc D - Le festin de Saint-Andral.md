@@ -96,7 +96,7 @@ Henrik s'excuse ensuite et part pour retourner à sa boutique.
 
 Lorsque les joueurs entrent dans cette zone pour la première fois, lisez :
 
-<div class="description"> <p>Une douzaine de chandeliers ornés baignent les rangées de bancs bien entretenus d'une douce lumière, projetant une lueur tamisée qui touche chaque recoin de cette chapelle. Au fond de la pièce, un autel en bois se dresse fièrement, sculpté d'un soleil radieux dont les rayons jaillissent en joyeuse défiance. Six hautes fenêtres encadrent l'autel, bien que l'une d'entre elles semble avoir été brisée, des éclats de verre bordant son cadre de fer sombre comme des dents acérées.</p> <p>Un jeune homme aux épaules larges et aux cheveux noirs se tient en haut d'un petit escabeau devant la fenêtre brisée, clouant une bâche pour la couvrir, tandis qu'un jeune garçon balaie le sol de la chapelle non loin de là. Un prêtre d'âge moyen, aux cheveux grisonnants et aux vêtements propres et soignés, les regarde travailler depuis les bancs, tenant un balai et semblant perdu dans ses pensées.</p> </div>
+<div class="description"> <p>Une douzaine de chandeliers ornés baignent les rangées de bancs bien entretenus d'une douce lumière, projetant une lueur tamisée qui touche chaque recoin de cette chapelle. Au fond de la pièce, un autel en bois se dresse fièrement, sculpté d'un soleil radieux dont les rayons jaillissent en un défi lumineux. Six hautes fenêtres encadrent l'autel, bien que l'une d'entre elles semble avoir été brisée, des éclats de verre bordant son cadre de fer sombre comme des dents acérées.</p> <p>Un jeune homme aux épaules larges et aux cheveux noirs se tient en haut d'un petit escabeau devant la fenêtre brisée, clouant une bâche pour la couvrir, tandis qu'un jeune garçon balaie le sol de la chapelle non loin de là. Un prêtre d'âge moyen, aux cheveux grisonnants et aux vêtements propres et soignés, les regarde travailler depuis les bancs, tenant un balai et semblant perdu dans ses pensées.</p> </div>
 
 Le jeune homme est Milivoj, tel que décrit dans <span class="citation">N1. L'Église de Saint-Andral (p. 97)</span>. Le prêtre est le Père Lucian Petrovich. Le garçon est Yeska.
 
@@ -104,7 +104,7 @@ Le jeune homme est Milivoj, tel que décrit dans <span class="citation">N1. L'É
 
 <span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Lorsque les joueurs rencontrent [[Personnages Non-Joueurs#Père Lucian Petrovich|Père Lucian]] pour la première fois, il les accueille chaleureusement, reconnaissant en eux des nouveaux venus à Vallaki, leur souhaite la bienvenue à l'Église de Saint-Andral et leur demande s'ils sont venus chercher la communion ou prier le Seigneur de l'Aube.
+Lorsque les joueurs rencontrent le [[Personnages Non-Joueurs#Père Lucian Petrovich|Père Lucian]] pour la première fois, il les accueille chaleureusement, reconnaissant en eux des nouveaux venus à Vallaki, leur souhaite la bienvenue à l'Église de Saint-Andral et leur demande s'ils sont venus chercher la communion ou prier le Seigneur de l'Aube.
 
 Après que les joueurs aient échangé des politesses, Milivoj descend de son escabeau et le rend au Père Lucian. L'échange suivant a alors lieu, donnant aux joueurs amplement le temps et l'opportunité d'interrompre et de répondre :
 
@@ -149,7 +149,7 @@ Les planches et les clous neufs ont été livrés par Henrik. L'ouverture est à
 
 La crypte est telle que décrite dans <span class="citation">Les Os de Saint Andral (p. 97)</span>, se trouvant en grande partie sous l'autel de la chapelle. Si un joueur entre dans la crypte, lisez : 
 
-<div class="description"> <p>Vous descendez dans une petite chambre sombre et humide, les murs faits de blocs de pierre bruts tachés par l'âge et l'humidité. Au centre se dresse une dalle de pierre solitaire, une dépression circulaire vide soigneusement sculptée à sa surface.</p> </div> 
+<div class="description"> <p>Vous descendez dans une petite chambre sombre et humide dont les murs sont faits de blocs de pierre bruts tachés par l'âge et l'humidité. Au centre se dresse une dalle de pierre solitaire, une dépression circulaire vide soigneusement sculptée à sa surface.</p> </div> 
 
 La dalle contenait les os jusqu'à ce que Milivoj les vole. 
 
@@ -169,6 +169,9 @@ Les cheveux sont ceux de Milivoj.
 Si les joueurs choisissent d'interroger Yeska, [[Personnages Non-Joueurs#Père Lucian Petrovich|Père Lucian]] leur demande de ne pas trop le presser pour obtenir des informations. Le garçon est encore émotionnellement fragile depuis la mort de ses parents il y a trois mois, et le Père Lucian ne souhaite pas nuire à son bien-être mental pour un simple soupçon de danger. (Yeska ne sait pas que les os ont été volés ; le Père Lucian a pris soin de le tenir éloigné du trou derrière l'autel.) 
 
 Si l'un des joueurs demande à Yeska s'il a parlé des os à quelqu'un d'autre, il nie sincèrement l'avoir fait. Cependant, si les joueurs demandent si quelqu'un aurait pu entendre sa conversation avec le Père Lucian, Yeska partage que Milivoj était également dans l'église à ce moment-là. (Yeska, bien qu'alarmé par la direction de la conversation, peut également être persuadé de partager que les histoires de Milivoj sur Strahd attaquant potentiellement l'église l'ont encouragé à demander au Père Lucian des informations sur la protection de l'église en premier lieu.)
+
+![[Yeska.png]]
+<span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 # D2. Maison de Milivoj
 
@@ -207,7 +210,7 @@ Quelques instants plus tard, Milivoj, dix-neuf ans, sort d'une porte en bois gon
 > 
 ### D2a. Confronter Milivoj
 
-Lorsqu'il aperçoit les joueurs, le visage de Milivoj se décompose visiblement. Il dépose doucement Victoria et Vasha de ses bras et place Jirko sur les genoux de Bogan. Un test de Sagesse (Perspicacité) avec un DD de 10 réussi révèle que son langage corporel est devenu tendu, et qu'il se déplace de manière inconfortable.
+Lorsqu'il aperçoit les joueurs, le visage de Milivoj se décompose visiblement. Il dépose doucement Victoria et Vasha de ses bras et place Jirko sur les genoux de Bogan. Un test de Sagesse (Intuition) avec un DD de 10 réussi révèle que son langage corporel est devenu tendu, et qu'il se déplace de manière inconfortable.
 
 Lorsque Milivoj atteint la porte, il s'adresse sèchement à Jarzinka en l'appelant "Mère" et lui fait un hochement de tête réticent. Jarzinka grogne et s'éloigne de la porte, disparaissant dans la pièce d'où est venu Milivoj.
 
@@ -246,7 +249,7 @@ Si l'un des joueurs exprime un intérêt à s'introduire dans le wagon, [[Person
 
 Si un joueur tente néanmoins de déverrouiller ou de forcer la porte du wagon, l'ensemble du wagon se met soudainement à se balancer violemment d'un côté à l'autre. Les joueurs peuvent également entendre le bruit de quelque chose avec de grandes et lourdes griffes grattant l'intérieur du wagon. (Les balancements et les griffures sont causés par le fantôme d'Erasmus van Richten, un **poltergeist** cherchant à protéger Arabelle en effrayant les visiteurs.)
 
-Si les joueurs réussissent à forcer la porte du wagon ou à en crocheter le cadenas, ils découvrent que l'intérieur du wagon contient un lit de paille douce, une couverture en laine confortable, quelques livres, et une jeune fille Vistana—Arabelle—qui serre contre sa poitrine un tigre à dents de sabre en peluche et porte un collier de perles avec un amulette en cuivre sculpté. (Pour plus d'informations sur Arabelle, voir [[Arc E - La Vistana Disparue]].)
+Si les joueurs réussissent à forcer la porte du wagon ou à en crocheter le cadenas, ils découvrent que l'intérieur du wagon contient un lit de paille douce, une couverture en laine confortable, quelques livres, et une jeune fille Vistana—Arabelle—qui serre contre sa poitrine un tigre à dents de sabre en peluche et porte un collier de perles avec une amulette en cuivre sculpté. (Pour plus d'informations sur Arabelle, voir [[Arc E - La Vistana Disparue]].)
 # D4. Atelier du Fabricant de Cercueils
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N6.</em></span>
@@ -621,8 +624,7 @@ Une fois que Rahadin est satisfait que justice a été rendue, il invoque à nou
 <hr>
 <p><strong><em>Choeur Mortel.</em></strong> Toute créature dans un rayon de 3 mètres de Rahadin qui n'est pas protégée par un sort de <em>sanctuaire de l'esprit</em> entend dans son esprit les cris des milliers de personnes que Rahadin a tuées.</p>
 <p><strong><em>Ascendance féerique.</em></strong> Rahadin a l'avantage aux jets de sauvegarde contre le charme et la magie ne peut pas l'endormir.</p>
-<p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Rahadin rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
-<p><strong><em>Indomptable.</em></strong> Si Rahadin devait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont l'avantage aux attaques faites contre lui.)
+<p><strong><em>Indomptable.</em></strong> Si Rahadin devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
 <p><strong><em>Incantation innée.</em></strong> La caractéristique d'incantation innée de Rahadin est l'Intelligence. Il peut lancer les sorts suivants de manière innée, sans composantes :<br>
 - 3/jour : destrier fantôme<br>
 - 1/jour : non-détection</p>
@@ -685,8 +687,7 @@ Une fois que Rahadin est satisfait que justice a été rendue, il invoque à nou
    <hr>
    <p><strong><em>Cris des morts.</em></strong> Toute créature dans un rayon de 3 mètres de Rahadin qui n'est pas protégée par un sort de <em>sanctuaire de l'esprit</em> entend dans son esprit les cris des milliers de personnes que Rahadin a tuées.</p>
    <p><strong><em>Ascendance féerique.</em></strong> Rahadin a l'avantage aux jets de sauvegarde contre le charme et la magie ne peut pas l'endormir.</p>
-   <p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Rahadin rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
-   <p><strong><em>Indomptable.</em></strong> Si Rahadin devait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont l'avantage aux attaques faites contre lui.)
+   <p><strong><em>Indomptable.</em></strong> Si Rahadin devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
    <p><strong><em>Masque de la nature.</em></strong> Rahadin peut tenter de se cacher même lorsqu'il n'est que légèrement obscurci par le feuillage, la pluie forte, la neige qui tombe, la brume et d'autres phénomènes naturels.</p>
    <h3>Actions</h3>
    <p><strong><em>Attaque multiple.</em></strong> Rahadin effectue trois attaques avec ses cimeterres <strong><em>Épine</em></strong> et/ou <strong><em>Chaîne</em></strong>. Il peut remplacer une attaque par sa capacité <strong><em>hanter</em></strong>.

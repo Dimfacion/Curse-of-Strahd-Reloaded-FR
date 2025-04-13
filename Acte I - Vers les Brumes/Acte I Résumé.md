@@ -27,7 +27,7 @@ Les joueurs commencent cet acte au niveau 2 et devraient le terminer au niveau 4
 - [[Arc C - A travers la vallée]] : Les joueurs reçoivent la lecture de Tarokka le 1er Neyavr, arrivent à Vallaki le 2 Neyavr, et rencontrent le Baron Vallakovich le matin du 3 Neyavr.
 
 > [!info]+ **Le calendrier Barovien** 
-> L'année actuelle du calendrier Barovien est 735 B.C. (Barovian Calendar). Le calendrier Barovien est composé de douze mois de 28 jours, nommés comme suit : [^1] 
+> L'année actuelle du calendrier Barovien est 735 B.C. (Barovian Calendar). Le calendrier Barovien est composé de douze mois de 28 jours, nommés comme suit : [<sup>1</sup>] 
 > 
 > 
 | Mois | Nom Barovien | Nom Gregorien |
@@ -47,4 +47,4 @@ Les joueurs commencent cet acte au niveau 2 et devraient le terminer au niveau 4
 
 
 
-[^1] Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).
+[<sup>1</sup>] Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).

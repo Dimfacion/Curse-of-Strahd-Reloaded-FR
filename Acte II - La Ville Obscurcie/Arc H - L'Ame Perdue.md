@@ -535,7 +535,7 @@ Les guenaudes combattent pour se défendre, ou si les joueurs rendent clair qu'i
 > 
 > - **_Vent Protecteur._** Le sabbat lance _vent protecteur_.
 > - **_Bourrasque._** Le sabbat lance _bourrasque_.
-> - **_Cacophonie Amphibienne._** Le sabbat fait coasser les grenouilles dans l'herbe autour du moulin d'une chanson étrangement hypnotique. Chaque créature dans un rayon de 36 mètres du moulin qui peut entendre les grenouilles doit réussir un jet de sauvegarde de Charisme DD 10 ou utiliser tout son mouvement lors de son prochain tour pour se déplacer aussi loin que possible vers le moulin.
+> - **_Cacophonie Amphibienne._** Le sabbat fait coasser les grenouilles dans l'herbe autour du moulin d'une chanson étrangement hypnotique. Chaque créature dans un rayon de 36 mètres du moulin qui peut entendre les grenouilles doit réussir un jet de sauvegarde de Charisme DD 10 ou utiliser tout son mouvement au début de son prochain tour pour se déplacer aussi loin que possible vers le moulin.
 > - **_Dissipation de la Magie (1/jour)._** Le sabbat lance _dissipation de la magie_ au niveau 5.
 
 
@@ -1071,7 +1071,7 @@ Quand l'orateur des potences meurt, le _Tome de Strahd_ tombe au sol. Voir [[#H9
 <strong>Facteur de Puissance</strong> 11<br>
 <strong>Bonus de Maîtrise</strong> +4<br>
 <hr>
-<p><strong><em>Résistance Légendaire (1/jour).</em></strong> Si l'orateur des potences rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
+<p><strong><em>Indomptable.</em></strong> Si l'orateur des potences devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
 <p><strong><em>Sens de Divination.</em></strong> L'orateur des potences peut voir à 18 mètres dans le Plan Éthéré quand il est sur le Plan Matériel et vice versa.</p>
 <p><strong><em>Colère du Traître.</em></strong> Si l'orateur des potences est réduit à 0 point de vie, les volutes dorées autour de lui s'éteignent, révélant cinq dagues aux lames ondulées et aux manches laqués de rouge, noir et or. Tous les effets actuels de l'orateur des potences se terminent, et ses statistiques sont instantanément remplacées par celles du <strong>Vengeur Ba'al Verzi</strong>. Son initiative reste la même. Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais il conserve tous les états qu'il avait dans sa forme précédente.</p>
 <h3>Actions</h3>
@@ -1131,7 +1131,7 @@ Quand l'orateur des potences meurt, le _Tome de Strahd_ tombe au sol. Voir [[#H9
 <strong>Facteur de Puissance</strong> 11<br>
 <strong>Bonus de Maîtrise</strong> +4<br>
 <hr>
-<p><strong><em>Résistance Légendaire (1/jour).</em></strong> Si le vengeur rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
+<p><strong><em>Indomptable.</em></strong> Si l'orateur des potences devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
 <p><strong><em>Sens de Divination.</em></strong> Le vengeur peut voir à 18 mètres dans le Plan Éthéré quand il est sur le Plan Matériel et vice versa.</p>
 <p><strong><em>Déplacement Incorporel.</em></strong> Le vengeur peut se déplacer à travers les autres créatures et les objets comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.</p>
 <h3>Actions</h3>
@@ -1150,9 +1150,9 @@ Quand l'orateur des potences meurt, le _Tome de Strahd_ tombe au sol. Voir [[#H9
 
 > [!combat]- **Équilibrage de l'Orateur des Potences** 
 > En raison du mécanisme de phases, il s'agit d'une série de deux rencontres de combat **éprouvantes** consécutives contre un groupe de cinq joueurs de niveau 5, un allié de FD 6 (Victor Vallakovich), un allié de FD 1 (Majesto) et un allié de FD 2 (Fiona Wachter), et chacune consommera environ 28% de leurs points de vie maximum totaux (pour un total de 56% de leurs points de vie maximum). Pour les groupes de taille inférieure ou supérieure, modifiez la rencontre comme suit :
-> - _**Trois Joueurs.**_ Réduisez les points de vie de Leo à 92 dans chaque phase. Pour sa première phase, réduisez les dégâts de son attaque de toucher de présage à 11 (2d8+2), son attaque de feu follet à 10 (3d6), son action bonus fouet des âmes à 7 (2d6), et son action bonus éclat de lumière spectrale à 10 (4d4). Pour sa deuxième phase, réduisez son attaque de dague Ba'al Verzi à 5 (1d6+2) dégâts perforants et 10 (4d4) dégâts nécrotiques, son attaque étreinte de la tombe à 14 (4d6) dégâts initiaux et 7 (2d6) dégâts continus, son action bonus âmes hurlantes à 7 (2d6), et ses échos hantés à 7 (3d4).
-> - _**Quatre Joueurs.**_ Réduisez les points de vie de Leo à 109 dans chaque phase. Pour sa première phase, réduisez son attaque de toucher de présage à 13 (2d8+4), son attaque de feu follet à 11 (2d10), son action bonus fouet des âmes à 7 (2d6), et son action bonus éclat de lumière spectrale à 12 (5d4). Pour sa deuxième phase, réduisez son attaque de dague Ba'al Verzi à 6 (1d4+4) dégâts perforants et 12 (5d4) dégâts nécrotiques, son attaque étreinte de la tombe à 15 (6d4) dégâts initiaux et 7 (3d4) dégâts continus, son action bonus âmes hurlantes à 7 (2d6), et sa réaction échos hantés à 9 (2d8).
-> - _**Six Joueurs.**_ Augmentez les points de vie de Leo à 143 dans chaque phase. Pour sa première phase, augmentez son attaque de toucher de présage à 17 (2d12+4), son attaque de feu follet à 15 (6d4), et son action bonus éclat de lumière spectrale à 16 (3d10). Pour sa deuxième phase, augmentez son attaque de dague Ba'al Verzi à 8 (1d8+4) dégâts perforants et 16 (3d10) dégâts nécrotiques, son attaque étreinte de la tombe à 20 (8d4) dégâts initiaux et 10 (4d4) dégâts continus, son action bonus âmes hurlantes à 10 (4d4), et ses échos hantés à 11 (2d10).
+> - **Trois Joueurs.** Réduisez les pv de Leo à 111 dans chaque phase. Pour sa première phase, réduisez son attaque toucher prophétique à 11 (2d8+2) dégâts, son attaque feu follet à 10 (3d6) dégâts, son action bonus fouet d'âmes à 7 (2d6) dégâts, et son action bonus embrasement spectral à 10 (4d4) dégâts. Pour sa deuxième phase, réduisez son attaque dague Ba'al Verzi à 5 (1d6+2) dégâts perforants et 10 (4d4) dégâts nécrotiques, son attaque emprise de la tombe à 14 (4d6) dégâts initiaux et 7 (2d6) dégâts continus, son action bonus âmes hurlantes à 7 (2d6) dégâts, et ses échos hantés à 7 (3d4) dégâts.
+> - **Quatre Joueurs.** Réduisez les pv de Leo à 134 dans chaque phase. Pour sa première phase, réduisez son attaque toucher prophétique à 13 (2d8+4) dégâts, son attaque feu follet à 11 (2d10) dégâts, son action bonus fouet d'âmes à 7 (2d6) dégâts, et son action bonus embrasement spectral à 12 (5d4) dégâts. Pour sa deuxième phase, réduisez son attaque dague Ba'al Verzi à 6 (1d4+4) dégâts perforants et 12 (5d4) dégâts nécrotiques, son attaque emprise de la tombe à 15 (6d4) dégâts initiaux et 7 (3d4) dégâts continus, son action bonus âmes hurlantes à 7 (2d6) dégâts, et sa réaction échos hantés à 9 (2d8) dégâts.
+> - **Six Joueurs.** Augmentez les pv de Leo à 180 dans chaque phase. Pour sa première phase, augmentez son attaque toucher prophétique à 17 (2d12+4) dégâts, son attaque feu follet à 15 (6d4) dégâts, et son action bonus embrasement spectral à 16 (3d10) dégâts. Pour sa deuxième phase, augmentez son attaque dague Ba'al Verzi à 8 (1d8+4) dégâts perforants et 16 (3d10) dégâts nécrotiques, son attaque emprise de la tombe à 20 (8d4) dégâts initiaux et 10 (4d4) dégâts continus, son action bonus âmes hurlantes à 10 (4d4) dégâts, et ses échos hantés à 11 (2d10) dégâts.
 ### Retour au Plan Matériel
 
 Alors que le rituel de téléportation touche à sa fin, des perles de lumière éthérées émergent autour de la forme spectrale de Stella, s'accrochant à sa robe et ses cheveux et scintillant comme des lucioles. La séquence suivante se déroule alors, sauf si les joueurs interviennent :
@@ -1181,6 +1181,9 @@ Si les joueurs suivent, ils peuvent observer Victor et Stella se rencontrer au p
 - Si elle est présente, Dame Wachter s'avance, visiblement hésitante et incertaine. Stella lève les yeux vers elle, relâche sa prise sur Victor, et se jette dans les bras de sa mère. Dame Wachter se raidit, puis se détend, levant une main incertaine pour caresser doucement les cheveux de Stella. Stella déglutit, tout son corps tremblant alors qu'elle enfouit son visage dans l'épaule de sa mère. "Je suis désolée," sanglote-t-elle. "C'était ma faute—s'il te plaît, ne blâme pas Victor." Dame Wachter serre Stella fort. "Chut," murmure-t-elle. "Tout va bien. Je suis là."
 - Quand Dame Wachter la relâche enfin, Stella s'avance vers les joueurs—et trébuche, son pied manquant de se dérober sous elle. Victor et Dame Wachter se précipitent pour la rattraper. "Tu as été hors de ton corps trop longtemps," la prévient Victor. "Tu dois te réhabituer à avoir des jambes."
 - Stella hoche la tête, puis regarde autour d'elle vers les joueurs, ses yeux brillant de gratitude. "Merci," dit-elle. "C'était si silencieux là-dedans—si _froid._ Mais grâce à vous, je peux _ressentir_ à nouveau. Je peux entendre le monde à nouveau. Merci—du fond du cœur, _merci._"
+
+![[Stella_Alive.png]]
+<span class="credit">"Stella Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 En reconnaissance des efforts des joueurs, Dame Wachter leur offre une _lanterne de révélation_, ainsi qu'une invitation permanente à chercher son aide ou ses conseils chaque fois qu'ils se trouvent à Vallaki, tant que leurs efforts ne risquent pas de nuire à la ville ou à ses habitants.
 
@@ -1228,7 +1231,7 @@ Les joueurs qui lisent ces sections trouvent de nombreuses annotations faisant r
 
 > [!abstract]+ **Le Symbole**
 > 
-> Le symbole du Temple d'Ambre peut être identifié par l'elfe crépusculaire Kasimir Velikov (qui l'a vu dans ses rêves), par le revenant Sir Godfrey Gwilym (qui a autrefois gardé le Temple), ou par Victor Vallakovich (qui a vu le symbole dans son grimoire). Parmi ces trois personnes, seuls Kasimir et Godfrey savent ce qu'est le Temple d'Ambre et où il peut être trouvé, et seul Kasimir—une fois que les joueurs auront complété [[Arc M - The Dragon's Manor]]—est disposé à leur dire comment s'y rendre.
+> Le symbole du Temple d'Ambre peut être identifié par l'elfe crépusculaire Kasimir Velikov (qui l'a vu dans ses rêves), par le revenant Sir Godfrey Gwilym (qui a autrefois gardé le Temple), ou par Victor Vallakovich (qui a vu le symbole dans son grimoire). Parmi ces trois personnes, seuls Kasimir et Godfrey savent ce qu'est le Temple d'Ambre et où il peut être trouvé, et seul Kasimir—une fois que les joueurs auront complété [[Arc Q - A Shining Beacon]]—est disposé à leur dire comment s'y rendre.
 
 # Notes de Conception : L'Âme Perdue
 

@@ -190,8 +190,7 @@ Si elle est consciente, Ireena utilise une dague cachée dans sa botte pour se l
    <strong>Langues</strong> commun<br>
    <strong>Facteur de puissance</strong> 6 ou 5 si empoisonné<br>
    <hr>
-   <p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Izek rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
-   <p><strong><em>Indomptable.</em></strong> Si Izek devait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont un avantage aux attaques effectuées contre lui.)
+   <p><strong><em>Indomptable.</em></strong> Si Izek devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
    <p><strong><em>Seconde Phase.</em></strong> Quand Izek est réduit à 0 point de vie, ses bras et sa hache sont engloutis de flammes, les barbelures sur son bras démoniaque s'allongent et s'aiguisent, et sa peau devient rouge et commence à fumer. Ses statistiques sont alors instantanément remplacées par les statistiques de sa seconde forme. Son initiative ne change pas. Les dégâts excédentaires ne se reportent pas sur sa nouvelle forme, mais il conserve toutes les conditions qu'il avait dans sa forme précédente.</p>
    <h3>Actions</h3>
    <p><strong><em>Attaques multiples.</em></strong> Izek effectue deux attaques.</p>
@@ -247,8 +246,7 @@ Si elle est consciente, Ireena utilise une dague cachée dans sa botte pour se l
    <strong>Langues</strong> commun<br>
    <strong>Facteur de puissance</strong> 6 ou 5 si empoisonné<br>
    <hr>
-   <p><strong><em>Résistance légendaire (1/jour).</em></strong> Si Izek rate un jet de sauvegarde, il peut choisir de le réussir à la place.</p>
-   <p><strong><em>Indomptable.</em></strong> Si Izek devait être paralysé ou étourdi, il est ralenti à la place. (Il doit dépenser 1 mètre de mouvement supplémentaire pour chaque mètre parcouru en utilisant sa vitesse, les jets d'attaque contre lui ont avantage, et il a désavantage aux jets de sauvegarde de Dextérité.)
+   <p><strong><em>Indomptable.</em></strong> Si Izek devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
    <h3>Actions</h3>
    <p><strong><em>Attaques multiples.</em></strong> Izek effectue deux attaques au corps à corps.</p>
    <p><strong><em>Hache de bataille en argent.</em></strong> <em>Attaque d'arme au corps à corps :</em> +8 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 10 (1d8 + 5) dégâts tranchants plus 2 (1d4) dégâts de feu.</p>

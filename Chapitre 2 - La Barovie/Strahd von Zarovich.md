@@ -256,7 +256,7 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <br>
     <hr>
     <p><strong><em>Lancement de sorts complexe.</em></strong> Si Strahd lance un sort à son tour en utilisant une action bonus, il peut également utiliser son action pour lancer un sort de niveau supérieur pendant le même tour.</p>
-    <p><strong><em>Résistance légendaire (2/jour).</em></strong> Si Strahd rate un jet de sauvegarde, il peut choisir de réussir à la place.</p>
+    <p><strong><em>Indomptable.</em></strong> Si Strahd devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
     <p><strong><em>Régénération</em></strong>. Strahd regagne <span class="highlight">20 points de vie</span> au début de son tour s'il a au moins 1 point de vie et n'est pas à la lumière du soleil. S'il subit des dégâts de <span class="highlight">rayons</span>,
         cette caractéristique ne fonctionne pas au début de son prochain tour.</p>
     <p><strong><em>Escalade de paroi</em></strong>. Strahd peut se déplacer de haut en bas et de travers sur les surfaces verticales et les plafonds, tout en gardant les mains libres.</p>
@@ -350,7 +350,7 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <hr>
     <p><strong><em>Conscience du champ de bataille.</em></strong> Strahd a <span class="highlight">l'avantage</span> sur les jets de sauvegarde de Force et de Dextérité contre les effets qu'il peut voir ou entendre, comme les pièges et les sorts. De plus,
         Strahd ne peut pas être désarmé.</p>
-    <p><strong><em>Résistance Légendaire (2/jour).</em></strong> Si Strahd rate un jet de sauvegarde, il peut choisir de réussir à la place.</p>
+    <p><strong><em>Indomptable.</em></strong> Si Strahd devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
     <p><strong><em>Régénération</em></strong>. Strahd récupère <span class="highlight">20 points de vie</span> au début de son tour s'il a au moins 1 point de vie et qu'il n'est pas sous la lumière du soleil. S'il subit des <span class="highlight">dégâts de radiance</span>,
         cette capacité ne fonctionne pas au début de son prochain tour.</p>
     <p><strong><em>Escalade de Mur</em></strong>. Strahd peut se déplacer sur, vers le haut et vers le bas des surfaces verticales et sur les plafonds, tout en laissant ses mains libres.</p>
@@ -378,17 +378,14 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <p>Tant que Strahd se trouve dans le Château Ravenloft, il peut effectuer des actions de repaire tant qu'il n'est pas neutralisé.</p>
     <p>À l'initiative 20 (les égalités d'initiative sont perdues), Strahd peut prendre l'une des options d'action de repaire suivantes, ou renoncer à les utiliser ce round :</p>
     <p><strong><em>Mains Spectrales.</em></strong> Toutes les créatures non-undead dans un <span class="highlight">carré de 3 mètres</span> à partir d'un point dans un <span class="highlight">rayon de 18 mètres</span> doivent réussir un <span class="highlight">jet de sauvegarde de Force DD 20</span>        ou être <span class="highlight">entravées</span> par des mains spectrales jusqu'à l'initiative 20 au round suivant.</p>
-    <p><strong><em>Banc de Brume.</em></strong> Une sphère de brume d'un <span class="highlight">rayon de 12 mètres</span> apparaît centrée sur un point dans un <span class="highlight">rayon de 18 mètres</span> de Strahd qu'il peut voir. La sphère se répand
-        autour des coins, et sa zone est fortement obscurcie. Elle dure jusqu'à l'initiative 20 au round suivant ou jusqu'à ce qu'un vent modéré ou plus fort (au moins 16 km/h) la disperse. Quand la brume apparaît, Strahd peut immédiatement effectuer
-        l'action <span class="highlight">Se Cacher</span> en réaction et se déplacer jusqu'à sa vitesse.</p>
-    ```html
+    <p><strong><em>Banc de Brume.</em></strong> Une sphère de brume d'un <span class="highlight">rayon de 12 mètres</span> apparaît centrée sur un point dans un <span class="highlight">rayon de 18 mètres</span> de Strahd qu'il peut voir. La sphère se répand autour des coins, et sa zone est fortement obscurcie. Elle dure jusqu'à l'initiative 20 au round suivant ou jusqu'à ce qu'un vent modéré ou plus fort (au moins 16 km/h) la disperse. Quand la brume apparaît, Strahd peut immédiatement effectuer l'action <span class="highlight">Se Cacher</span> en réaction et se déplacer jusqu'à sa vitesse. Tant que le brouillard persiste, Strahd possède la vision aveugle jusqu'à ses bords.</p>
+    
 <!-- Fane Lair Actions Section -->
 <h3>Actions Repaires des Fanes</h3>
 <p>Lorsqu'il est à l'extérieur, si les joueurs n'ont pas encore reconsacré la Fane de la Forêt, Strahd peut effectuer des actions de repaire tant qu'il n'est pas incapacité.</p>
 <p>À l'initiative 20 (perdant en cas d'égalité), Strahd peut choisir l'une des options d'action de repaire suivantes, ou renoncer à les utiliser pour ce round :</p>
 <p><strong><em>Croissance Végétale (nécessite la Fane de la Forêt).</em></strong> Strahd lance <em>croissance végétale</em> sans composantes ni concentration.</p>
 <p><strong><em>Courroux de la Nature (nécessite la Fane de la Forêt).</em></strong> Strahd lance <em>courroux de la nature</em> sans composantes ni concentration. Quand il lance le sort de cette façon, Strahd ne peut pas utiliser l'effet <strong><em>rochers</em></strong> du sort.</p>
-```
 </div>
 
 >[!info]+ **Banc de Brume** 
@@ -444,7 +441,7 @@ Bien que Strahd conserve un lien avec les Fanes de Barovia, il possède égaleme
     <br>
     <hr>
     <p><strong><em>Père de la Nuit.</em></strong> Un humanoïde tué par la <strong><em>morsure</em></strong> de Strahd, ou réduit à 0 point de vie par elle et qui meurt sans reprendre connaissance, se relève en tant que <strong><em>rejeton de vampire</em></strong>        sous le contrôle de Strahd au début de son prochain tour.</p>
-    <p><strong><em>Résistance Légendaire (2/jour).</em></strong> Si Strahd rate un jet de sauvegarde, il peut choisir de réussir à la place.</p>
+    <p><strong><em>Indomptable.</em></strong> Si Strahd devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
     <p><strong><em>Régénération</em></strong>. Strahd récupère <span class="highlight">20 points de vie</span> au début de son tour s'il a au moins 1 point de vie et qu'il n'est pas sous la lumière du soleil. S'il subit des <span class="highlight">dégâts de radiance</span>,
         cette capacité ne fonctionne pas au début de son prochain tour.</p>
     <p><strong><em>Escalade de Mur</em></strong>. Strahd peut se déplacer sur, vers le haut et vers le bas des surfaces verticales et sur les plafonds, tout en laissant ses mains libres.</p>

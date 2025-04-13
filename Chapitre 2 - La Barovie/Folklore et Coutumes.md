@@ -20,6 +20,24 @@ La géographie de la Barovie est largement décrite dans <span class="citation">
 
 Le lever du soleil en Barovie est à 7h00 et le coucher du soleil est à 17h00 chaque jour. De plus, tant que les brumes persistent, le cycle lunaire est accéléré en Barovie : la pleine lune apparaît une fois toutes les deux semaines, au lieu d'une fois toutes les quatre.
 
+# Calendrier
+Le calendrier barovien actuel est 735 A.B. (Après Barovia). Le calendrier barovien a douze mois de 28 jours, qui sont nommés comme suit : <sup>1</sup>
+
+| Mois | Nom Barovien | Nom Grégorien |
+| :--: | :----------- | :------------ |
+|  1   | Yinvar       | Janvier       |
+|  2   | Fivral       | Février       |
+|  3   | Mart         | Mars          |
+|  4   | Apryl        | Avril         |
+|  5   | Mai          | Mai           |
+|  6   | Eyune        | Juin          |
+|  7   | Eyule        | Juillet       |
+|  8   | Avgust       | Août          |
+|  9   | Sintyavr     | Septembre     |
+|  10  | Octyavr      | Octobre       |
+|  11  | Neyavr       | Novembre      |
+|  12  | Dekavr       | Décembre      |
+
 # Cultures
 
 ## Les Baroviens
@@ -256,3 +274,5 @@ Enfin, l'histoire récente de la meute de loups-garous a été mise à jour pour
 **Religions**
 
 Le culte d'Ezra a été ajouté à la campagne pour apporter une profondeur supplémentaire à la caractérisation de Fiona Wachter et pour préfigurer la véritable nature des Puissances Sombres avant qu'Ireena ne les rencontre et ne les défie au climax de son arc de personnage.
+
+<sup>1</sup> Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).

@@ -39,15 +39,16 @@ Les joueurs commencent cet acte au niveau 5 et devraient le terminer au niveau 8
 # Chronologie
 Les quêtes de l'Acte III deviennent disponibles et sont résolues comme indiqué dans le tableau ci-dessous. (🟢 signifie un jour où la quête reste disponible, 🔶 signifie un jour où un événement important se produit, 🟥 signifie une date limite pour la quête, et ❌ signifie un jour où la quête n'est pas disponible.)
 
-| Arc \ Jour de Neyavr | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|:----------------------|---|---|---|---|---|---|---|---|
-| J : Le Joyau Volé     | 🔶| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢|
-| K : L'Abbaye Déchue   | —| —| 🔶| 🟢| 🟢| 🟢| 🟢| 🟢|
-| L : Le Repaire des Loups| —| —| —| 🟢| 🟢| 🟢| 🟢| 🟢|
-| M : Le Phare d'Argynvost| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢| 🟢|
-| N : Contes de Vallaki | —| —| —| —| —| —| —| —|
-| O : Dîner avec le Diable| —| —| —| —| —| 🔶| ❌| ❌|
-| P : Le Cambriolage de Ravenloft| —| —| —| —| —| —| 🔶| ❌|
+| Arc \ Jour de Neyavr            | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| :------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- |
+| J : Le Joyau Volé               | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| K : L'Abbaye Déchue             | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| L : Le Repaire des Loups        | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| M : Le Phare d'Argynvost        | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| N : Contes de Vallaki           | —   | —   | —   | —   | —   | —   | —   | —   |
+| O : Dîner avec le Diable        | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
+| P : Le Cambriolage de Ravenloft | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
+| Q : A Shining Beacon            | —   | —   | —   | —   | —   | —   | —   | 🔶  |
 
 Le chemin le plus courant à travers l'Acte III est le suivant :
 
@@ -55,9 +56,10 @@ Le chemin le plus courant à travers l'Acte III est le suivant :
 * **Neyavr 10.** Les joueurs se rendent au vignoble du Magicien des Vins et vainquent les druides du Peuple de la Forêt dans [[Arc J - Le Joyau Volé]].
 * **Neyavr 11.** Les joueurs se rendent à la colline de Yester à l'aube et interrompent le rituel pour invoquer le **fléau arboricole** Wintersplinter dans [[Arc J - Le Joyau Volé]]. Les joueurs rencontrent ensuite Ezmerelda d'Avenir dans le village de Krezk et mènent une séance à l'Abbaye de St. Markovia dans [[Arc K - L'Abbaye Déchue]], puis font une surveillance du repaire des loups-garous la nuit dans [[Arc L - Le Repaire des Loups]].
 * **Neyavr 12.** Les joueurs enquêtent sur Argynvostholt dans [[Arc M - Le Manoir du Dragon]].
-* **Neyavr 13.** Les joueurs dînent avec Strahd au crépuscule dans [[Arc O - Dîner avec le Diable]] (🔶).
-* **Neyavr 14 (Nouvelle Lune).** Les joueurs s'infiltrent dans le Château de Ravenloft au crépuscule, puis s'échappent par le brasero de téléportation dans [[Arc P - Le Cambriolage de Ravenloft]] (🔶).
-* **Neyavr 15.** Les joueurs allument le phare d'Argynvostholt dans [[Arc M - Le Manoir du Dragon]] et vainquent le loup-garou Kiril Stoyanovich dans [[Arc L - Le Repaire des Loups]].
+- **Neyavr 13.** Les joueurs prennent une journée de repos.
+- **Neyavr 14.** Les joueurs dînent avec Strahd au crépuscule dans [[Arc O - Dîner avec le Diable]] (🔶).
+- **Neyavr 15 (Nouvelle Lune).** Les joueurs s'infiltrent dans le Château Ravenloft au crépuscule, puis s'échappent par le brasero de téléportation dans [[Arc P - Cambriolage de Ravenloft]] (🔶).
+- **Neyavr 16.** Les joueurs allument le fanal d'Argynvostholt et vainquent le loup-garou Kiril Stoyanovich dans [[Arc Q - Un Fanal Brillant]] (🔶).
 
 Alternativement, des joueurs particulièrement rapides pourraient emprunter le chemin suivant à travers l'Acte III :
 
@@ -65,7 +67,8 @@ Alternativement, des joueurs particulièrement rapides pourraient emprunter le c
 * **Neyavr 10.** Les joueurs se rendent à la vinerie du Magicien des Vins et défont les druides du Peuple de la Forêt qui s'y trouvent dans [[Arc J - Le Joyau Volé]].
 * **Neyavr 11.** Les joueurs se rendent à la Colline d'Hier à l'aube et empêchent le rituel d'invocation du **fléau arboricole** Filbuissard dans [[Arc J - Le Joyau Volé]]. Les joueurs rencontrent ensuite Ezmerelda d'Avenir et mènent une séance dans [[Arc K - L'Abbaye Déchue]], puis guettent le repaire des loups-garous dans [[Arc L - La Tanière des Loups]].
 * **Neyavr 12.** Les joueurs prennent une journée de repos.
-* **Neyavr 13.** Les joueurs prennent une journée de repos, puis dînent avec Strahd au crépuscule dans [[Arc O - Dîner avec le Diable]] (🔶).
-* **Neyavr 14 (Nouvelle Lune).** Les joueurs s'infiltrent dans le Château de Ravenloft au crépuscule, puis s'échappent à travers le brasier de téléportation dans [[Arc P - Cambriolage de Ravenloft]] (🔶).
-* **Neyavr 15.** Les joueurs allument le phare d'Argynvostholt dans [[Arc M - Le Manoir du Dragon]] et défont le loup-garou Kiril Stoyanovich dans [[Arc L - La Tanière des Loups]].
+- **Neyavr 13.** Les joueurs prennent une journée de repos.
+- **Neyavr 14.** Les joueurs prennent une journée de repos, puis dînent avec Strahd au crépuscule dans [[Arc O - Dîner avec le Diable]] (🔶).
+- **Neyavr 15 (Nouvelle Lune).** Les joueurs s'infiltrent dans le Château Ravenloft au crépuscule, puis s'échappent par le brasero de téléportation dans [[Arc P - Cambriolage de Ravenloft]] (🔶).
+- **Neyavr 16.** Les joueurs allument le fanal d'Argynvostholt et vainquent le loup-garou Kiril Stoyanovich dans [[Arc Q - Un Fanal Brillant]] (🔶).
 

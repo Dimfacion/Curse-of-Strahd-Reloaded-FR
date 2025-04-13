@@ -1,389 +1,455 @@
 _Une aventure pour cinq personnages de niveau 8._
 
-Dans cet arc, après avoir appris que l'elfe du crépuscule Kasimir Velikov connaît l'emplacement du Temple d'Ambre après avoir allumé le phare d'Argynvost dans [[Arc Q - Un Phare Brillant]], les joueurs doivent recruter Kasimir à leur cause et traverser le dangereux Col de Tsolenka alors qu'ils gravissent le sommet enneigé du Mont Ghakis. Cependant, au fur et à mesure que leur voyage se déroule, un Strahd courroucé, désormais déterminé à transformer les joueurs en engeances vampiriques, déchaîne des blizzards, des avalanches et des monstres pour mettre leur résolution à l'épreuve et épuiser leurs forces.  
+Dans cet arc, après avoir appris que l'elfe crépusculaire Kasimir Velikov connaît l'emplacement du Temple d'Ambre après avoir allumé le phare d'Argynvost dans [[Arc Q - Un Phare Brillant]], les joueurs doivent recruter Kasimir pour leur cause et traverser le dangereux Col de Tsolenka alors qu'ils gravissent le pic enneigé du Mont Ghakis. Au cours de leur voyage, cependant, un Strahd furieux—désormais déterminé à transformer les joueurs en rejetons vampiriques—déchaîne blizzards, avalanches et monstres pour tester leur détermination et épuiser leurs forces.
 
-Le seul répit des joueurs se présente sous la forme de Soldav, le refuge caché des Gens de la Montagne. Là, les joueurs apprennent que Strahd a profané les trois Fanes de la vallée - le Fane Forestier de la Colline de Yester, le Fane des Marais à Berez, et le Fane de la Montagne près de l'Ancien Moulin des Os - et, ce faisant, a revendiqué leur pouvoir comme le sien.
+Le seul répit des joueurs arrive sous la forme de Soldav, le refuge caché du Peuple de la Montagne. Là, les joueurs apprennent que Strahd a profané les trois Fanes de la vallée—la Fane de la Forêt de la Colline d'Antan, la Fane du Marais à Berez, et la Fane de la Montagne près du Vieux Moulin à Os—et, ce faisant, a réclamé leur pouvoir comme sien.
 
-Si les joueurs survivent à la dernière étape de leur voyage, ils émergent devant la grande façade du Temple d'Ambre. Chaque nuit, cependant, Strahd leur rend une visite personnelle, espérant drainer le sang d'une victime et les rapprocher de l'abîme du vampirisme. Les joueurs parviendront-ils à arrêter les sombres plans de Strahd, ou l'un d'entre eux se retrouvera-t-il enchaîné éternellement à la tombe ?
-
+Si les joueurs survivent à la dernière étape de leur voyage, ils se retrouvent devant la grande façade du Temple d'Ambre. Chaque nuit pendant leur repos, cependant, Strahd leur rend une visite personnelle, espérant drainer le sang d'une victime et les rapprocher de l'abîme du vampirisme. Les joueurs peuvent-ils arrêter les sombres projets de Strahd—ou l'un d'entre eux se retrouvera-t-il éternellement enchaîné à la tombe ?
 # R1. Recruter Kasimir
-Après avoir appris de l'esprit de Sir Godfrey dans [[Arc Q - Un Phare Brillant#Q6c. Le Retour d'Argynvost|Arc Q - Un Phare Brillant]] que l'elfe du crépuscule Kasimir connaît l'emplacement du Temple d'Ambre, les joueurs peuvent trouver Kasimir dans sa cabane du campement vistani de Vallaki, tel que décrit dans [[Arc E - La Vistana Disparue|#E2. Le Campement Vistani|Arc E - La Vistana Disparue]].
+Après avoir appris de l'esprit de Sir Godfrey dans [[Arc Q - Un Phare Brillant#Q6c. Le Retour d'Argynvost|Arc Q - Un Phare Brillant]] que l'elfe crépusculaire Kasimir connaît l'emplacement du Temple d'Ambre, les joueurs peuvent trouver Kasimir dans sa masure au campement vistani de Vallaki, tel que décrit dans [[Arc E - Le Vistani Disparu#E2. Camp Vistani|Arc E - Le Vistani Disparu]].
 
-> Strahd, cependant, a écrasé la rébellion des elfes du crépuscule avec brutalité et rapidité, laissant les survivants aux Vistani comme décrit dans <span class="citation">Kasimir Velikov (p. 232)</span>.
-Kasimir a de nouveau tenté de réconforter une Patrina déprimée, mais en vain.
+> [!info]+ **Le Grimoire de Kasimir**
+> Le grimoire de Kasimir contient principalement les sorts décrits dans <span class="citation">N9a. La Masure de Kasimir (p. 121)</span>. Cependant, retirez *métamorphose*, *contresort*, *suggestion*, *non-détection* et *vol* des sorts de son grimoire.
+
+Lorsque les joueurs arrivent, Kasimir est en train de boire du thé et de lire un livre intitulé *Les Escarpements du Mont Ghakis* par Finderway Ulbrek. Si les joueurs frappent à la porte, Kasimir marque sa page, pose le livre sur sa carte de méditation près de la cheminée, et va les accueillir.
+
+Quand il ouvre la porte, les joueurs peuvent observer que [[Arc E - Le Vistani Disparu#E2c. La Masure de Kasimir|l'œil au beurre noir et les coupures]] de Kasimir semblent avoir guéri, bien qu'un joueur avec un score de Sagesse (Perspicacité) passif de 15 ou plus remarque que Kasimir semble être d'humeur sombre et mélancolique. Malgré son humeur précédente, Kasimir s'égaie à l'apparition des joueurs et les invite chaleureusement à l'intérieur, promettant de préparer une nouvelle infusion de thé pendant qu'ils discutent.
+
+> [!abstract]+ **L'Humeur de Kasimir**
+> Si on l'interroge sur son humeur, Kasimir prétend qu'il a simplement souffert de mauvaises visions lors de ses méditations ces derniers temps. "De vieux souvenirs," ajoute-t-il, grimaçant légèrement. C'est un mensonge ; un joueur qui réussit un jet de Sagesse (Perspicacité) DD 10 observe que Kasimir semble avoir hésité un moment avant de répondre. En vérité, Kasimir est déprimé parce qu'il craint de ne jamais conquérir les pentes du Mont Ghakis et d'atteindre le Temple d'Ambre.
+
+
+> [!lore]+ **Kasimir, Patrina et le Temple d'Ambre**
+> Il y a plus de quatre cents ans, avant que le roi Barov von Zarovich II—le père de Strahd—et Rahadin n'envahissent et n'écrasent la principauté des elfes crépusculaires d'Othrondil, Kasimir était un scribe à la cour du prince elfe crépusculaire Erevan Löwenhart, son oncle.
+La sœur aînée de Kasimir, Patrina, était la **mage** de la cour d'Erevan et le tuteur arcanique de Kasimir.
 >
-> Après l'arrivée des frères et sœurs dans la vallée, il n'a pas fallu longtemps avant que Patrina n'entende des murmures sur le Temple d'Ambre - un lieu de magie ancienne et d'un grand pouvoir, mais terrible.
-Incapable d'atteindre le Temple en raison de la protection de l'Ordre du Dragon d'Argent, elle a cependant patiemment attendu et gardé l'existence du Temple secrète de Kasimir, sa rage couvant mais ne s'éteignant jamais.
+> Quand les armées du roi Barov ont déferlé sur la Forêt du Crépuscule et subjugué le peuple des elfes crépusculaires, Kasimir et Patrina ont perdu leurs foyers, leurs positions et de nombreux membres de leur famille, y compris leur oncle.
+Bien que Kasimir ait exhorté sa sœur à faire la paix avec leur destin, la rage de Patrina a continué à couver.
+Quand Barov est mort et a été succédé par son fils, Strahd, Patrina a rejoint la rébellion contre lui, déterminée à chasser les envahisseurs de sa patrie.
 >
-> C'est, ironiquement, la conquête de Barovia par Strahd et le massacre de l'Ordre du Dragon d'Argent qui ont permis à Patrina d'enquêter enfin sur le Temple d'Ambre, plusieurs mois après l'arrivée des elfes du crépuscule dans la vallée.
-Après s'être échappée secrètement du campement des elfes du crépuscule, elle a bravé les pentes du Mont Ghakis et s'est frayé un chemin jusqu'à la grande façade du Temple.
-Là, elle est devenue l'apprentie d'Exethanter, l'esprit d'un **archimage** qui dirigeait autrefois l'ordre secret des mages qui avaient érigé le Temple.
+> Strahd, cependant, écrasa la rébellion des elfes du crépuscule brutalement et rapidement, abandonnant les survivants aux Vistani comme décrit dans <span class="citation">Kasimir Velikov (p. 232)</span>.
+Kasimir tenta à nouveau de réconforter une Patrina désespérée, mais en vain.
 >
-> Patrina a passé deux ans sous la tutelle d'Exethanter, dévorant chaque once de connaissance et de pouvoir qu'il pouvait lui léguer.
-Cependant, la rapidité de son éducation s'est avérée insuffisante ; déterminée à obtenir suffisamment de pouvoir pour dévaster le royaume de Strahd, Patrina s'est tournée vers les arts sombres, étudiant des tomes interdits scellés dans la bibliothèque d'Exethanter contre ses ordres exprès.
-Il ne s'est pas écoulé longtemps avant qu'elle ne commence à communier avec la vestige de Ténébrus qui résidait dans la voûte d'ambre du Temple, recherchant les secrets de la licherie.
+> Après l'arrivée des frère et sœur dans la vallée, Patrina entendit rapidement des murmures concernant le Temple d'Ambre—un lieu de magie ancienne et de grand, mais terrible pouvoir.
+Incapable d'atteindre le Temple en raison de la protection de l'Ordre du Dragon d'Argent, elle patienta et garda l'existence du Temple secrète pour Kasimir, sa rage couvant sans jamais s'éteindre.
 >
-> Lorsqu'Exethanter a découvert la trahison de Patrina, il a tenté de la bannir du Temple - mais elle était devenue bien plus puissante que lui.
-Patrina a lié son esprit dans l'ambre, le scellant pour aussi longtemps qu'elle vivrait.
-Avec son mentor désormais emprisonné, Patrina s'est employée à refaire le Temple d'Ambre à son image, élevant les crânes de mages morts depuis longtemps comme **crânes enflammés** liés à son service et liant les **golems d'ambre** qui résidaient dans ses salles à sa volonté.
+> Ironiquement, ce fut la conquête de Barovia par Strahd et le massacre de l'Ordre du Dragon d'Argent qui permit enfin à Patrina d'explorer le Temple d'Ambre, plusieurs mois après l'arrivée des elfes du crépuscule dans la vallée.
+Après s'être éclipsée secrètement du campement des elfes du crépuscule, elle affronta les pentes du Mont Ghakis et se fraya un chemin jusqu'à la grande façade du Temple.
+Là, elle devint l'apprentie d'Exethanter, l'esprit d'un **archimage** qui dirigeait autrefois l'ordre secret des magiciens ayant érigé le Temple.
 >
-> Alors que la construction du Château de l'Envol du Corbeau touchait à sa fin à l'est, Patrina s'est trouvée attirée par une nouvelle vision : celle où elle, et non Strahd, régnerait sur l'empire qu'il avait revendiqué, avec les elfes du crépuscule exaltés au-dessus de tous les autres en réparation des souffrances qu'ils avaient endurées.
-Elle a conçu un plan ingénieux : elle attirerait Strahd lui-même au Temple, remplissant son esprit humain vieillissant de promesses d'immortalité, et lui offrirait l'opportunité de poursuivre le sombre don de la licherie à ses côtés.
-En échange, Strahd en ferait sa reine, partageant avec elle le pouvoir qu'il avait revendiqué au nom de son père.
+> Patrina passa deux ans sous la tutelle d'Exethanter, dévorant chaque once de connaissance et de pouvoir qu'il pouvait lui transmettre.
+La vitesse de son apprentissage s'avéra cependant insuffisante ; déterminée à obtenir assez de puissance pour ravager le royaume de Strahd, Patrina se tourna vers les arts obscurs, étudiant des tomes interdits scellés dans la bibliothèque d'Exethanter contre ses ordres formels.
+Il ne fallut pas longtemps avant qu'elle ne commence à communier avec le vestige de Tenebrous qui résidait dans la crypte d'ambre du Temple, cherchant les secrets de la lichidomie.
 >
-> Bien que Patrina promettrait de le former aux voies de la magie, aiguisant ses compétences jusqu'à ce que les rituels nécessaires soient à sa portée, elle - comme Exethanter l'avait fait pour elle autrefois - ne conclurait jamais vraiment son éducation.
-Au lieu de cela, en une trentaine d'années à peine - ou même moins, avec un peu d'"aide" - Strahd von Zarovich mourrait dans son lit, un vieil homme humain desséché.
-Patrina, une elfe du crépuscule éternelle encore dans la fleur de l'âge, réclamerait son trône comme le sien - et ainsi commencerait une nouvelle dynastie.
+> Lorsqu'Exethanter découvrit la trahison de Patrina, il tenta de la bannir du Temple—mais elle était devenue bien plus puissante que lui.
+Patrina emprisonna son esprit dans l'ambre, le scellant aussi longtemps qu'elle vivrait.
+Son mentor désormais emprisonné, Patrina entreprit de refaçonner le Temple d'Ambre à son image, transformant les crânes de magiciens depuis longtemps disparus en **crânes enflammés** liés à son service et soumettant les **golems d'ambre** qui habitaient ses salles à sa volonté.
 >
-> Pour la plus grande joie de Patrina, Strahd parut intrigué par son offre et, après une série de leçons dans les arts magiques, l'accompagna enfin au Temple d'Ambre.
-Alors qu'il s'émerveillait du pouvoir qu'il contenait, elle prit confiance que son plan était à portée de main.
-Sous son œil vigilant, Strahd communia avec la vestige de Ténébrus, contemplant pour la première fois le sombre don de la licherie.
-Lorsque Patrina et Strahd quittèrent le Temple, Patrina l'assura que, sous sa tutelle, il finirait par devenir assez puissant pour revendiquer le sombre don de Ténébrus comme le sien.
+> Alors que la construction du Château Ravenloft s'achevait à l'est, Patrina se trouva attirée par une nouvelle vision : celle où elle, et non Strahd, dirigeait l'empire qu'il avait revendiqué, avec les elfes du crépuscule exaltés au-dessus de tous les autres en compensation des souffrances qu'ils avaient endurées.
+Elle conçut un plan astucieux : elle attirerait Strahd lui-même au Temple, remplissant son esprit humain vieillissant de promesses d'immortalité, et lui offrirait l'opportunité de poursuivre le don obscur de la lichidomie à ses côtés.
+En échange, Strahd ferait d'elle sa reine, partageant avec elle le pouvoir qu'il avait revendiqué au nom de son père.
 >
-> Leurs leçons se poursuivirent jusqu'au jour du mariage de Sergueï, lorsque Strahd baigna le Château de l'Envol du Corbeau dans le sang et s'éleva de la mort en tant que vampire.
-
-Luttant pour tracer une voie à suivre, Patrina est finalement revenue au campement des elfes du crépuscule près de Vallaki.
-Là, elle s'est réunie avec Kasimir, bien qu'elle ait obstinément refusé de discuter de son lieu de résidence au cours des dernières années.
-
-Réalisant que son complot pour piéger Strahd avec des promesses d'immortalité n'était plus à sa portée, Patrina a conçu un plan final et désespéré : elle retournerait à la cour de Strahd et chercherait à le séduire ouvertement.
-Ce faisant, elle poursuivrait secrètement la voie du lichdom, comptant sur sa puissance magique pour se défendre des prédations de Strahd jusqu'à ce qu'elle puisse créer une phylactère et une potion de transformation.
-Une fois qu'elle aurait gagné sa confiance et obtenu les clés de ses défenses, elle révélerait sa véritable forme de mort-vivant - et le détruirait.
-
-Serrant les dents face à la nécessité d'obéissance face à l'ascension sombre de Strahd, Patrina est revenue au château de Ravenloft, regagnant progressivement ses bonnes grâces.
-Entre-temps, elle a poursuivi ses recherches en secret dans un laboratoire souterrain sous son chalet dans le campement des elfes du crépuscule.
-Lorsque Strahd a envoyé la Brightblade de Sergei à l'archimage Khazan pour être détruite, Patrina a charmé l'apprenti de Khazan et lui a ordonné de voler l'arme pour ses propres fins.
-Bien que l'apprenti n'ait réussi à voler que la garde, Patrina en a fait une phylactère de liche, puis l'a scellée dans un demi-plan conjuré à l'intérieur du sarcophage d'ambre du vestige du Vampyr.
-(Patrina s'est rapidement débarrassée de l'apprenti, laissant son cadavre aux loups pour s'assurer que le mot de sa trahison n'atteindrait jamais les oreilles de Strahd.)
-
-Pourtant, le stratagème final de Patrina n'a jamais abouti.
-Lorsque Kasimir a appris d'une connaissance vistani que Patrina était non seulement devenue une compagne de Strahd, mais avait en fait servi comme son tuteur arcanique pendant près d'un an auparavant, il s'est enragé de son évidente trahison.
-Il a fait irruption dans son chalet, déterminé à l'affronter - et a découvert, par la négligence arrogante de Patrina, l'entrée cachée de son laboratoire arcanique en dessous.
-Bien que Patrina n'ait jamais rêvé que ses compagnons elfes du crépuscule puissent enquêter sur son ménage, Kasimir a désormais erré au milieu de ses artifices de magie noire avec une horreur naissante.
-
-C'est au sous-sol le plus profond du repaire de Patrina que Kasimir a trouvé les restes de son acte le plus vil : les cadavres de sept Vallakiens enlevés et torturés, leurs entrailles désembouées utilisées pour créer la potion de transformation.
-C'est là que Kasimir a trouvé les notes de Patrina, écrites dans un chiffre royal que seuls eux deux se souvenaient encore, qui parlaient de la vraie nature de la potion.
-Et c'est là que Kasimir a trouvé Patrina elle-même, à quelques minutes seulement d'ingérer la potion et d'accéder au lichdom.
-
-Horrifié par ce qu'il avait trouvé, Kasimir a exigé que Patrina se rende et soit jugée.
-Patrina a feint la contrition - mais lorsqu'elle a attaqué Kasimir avec la magie noire, Kasimir a riposté, tissant les mêmes sorts qu'elle lui avait autrefois enseignés.
-
-Patrina était de loin la mage la plus puissante - mais avec une grande partie de sa magie liée à la potion de transformation, c'est Kasimir qui avait l'avantage.
-Lorsque la bataille fut terminée, le laboratoire de Patrina gisait en ruines - et Patrina elle-même gisait morte sur le sol.
-
-L'âme de Patrina, cependant, a survécu.
-Au lieu de tomber dans le cycle barovien de réincarnation, son esprit a été attiré par la phylactère qu'elle avait forgée quelques semaines auparavant, scellée dans la garde brisée de la Brightblade de Sergei.
-Sans la potion de transformation, cependant, elle n'a pas pu se manifester sous une forme corporelle, restant piégée dans le demi-plan qu'elle avait forgé.
-
-Kasimir a effondré le laboratoire de Patrina et a enterré les Vallakiens qu'elle avait assassinés.
-Déterminé à protéger l'héritage autrefois brillant de sa sœur, Kasimir a dit à son peuple une demi-vérité : qu'elle était devenue une compagne de Strahd, et qu'il l'avait tuée pour l'empêcher de devenir un vampire.
-
-
-
-Cependant, lorsque le récit de Kasimir parvint aux oreilles de Strahd, ce dernier n'eut d'autre choix que de punir cet elfe du crépuscule qui prétendait l'avoir défié - et envoya Rahadin exécuter le massacre de toutes les femmes et enfants elfes du crépuscule au sein du campement qui l'avait défié.
-
-Des siècles passèrent.
-Avide de se libérer des Brumes, Strahd retourna maintes et maintes fois au Temple d'Ambre - et découvrit bientôt la présence persistante d'Exethanter dans son ancienne bibliothèque.
-Bien qu'il n'ait pas libéré Exethanter des liens de Patrina, Strahd invoqua son esprit à maintes reprises pour discuter de la nature de l'emprisonnement de Barovia et des moyens de libérer ces terres.
-Bien qu'initialement réticent à aider un porteur du sombre don du Vampyr, Exethanter finit par accepter d'assister aux "recherches théoriques" de Strahd - à la fois parce qu'il trouvait le travail fascinant, et parce qu'il était désespéré d'échapper à la stase dans laquelle Patrina l'avait laissé, ne serait-ce que pour quelques jours à la fois.
-
-Plus de quatre cents ans après sa mort, Patrina sentit la Grande Conjonction approcher depuis sa place dans le Temple d'Ambre.
-Ayant écouté aux portes les conversations de Strahd avec Exethanter, elle soupçonnait fortement que sa meilleure chance de s'échapper de sa prison approchait - ainsi qu'une occasion en or de revendiquer le pouvoir de Strahd sur les Fanes pendant que son attention était ailleurs.  
-
-Patrina envoya un rêve à Kasimir : une vision du Temple d'Ambre, une promesse de vengeance contre Strahd, et un chemin vers le sarcophage d'ambre où le salut résidait prétendument.
-Elle lui chuchota des mots de contrition et de honte, comme décrit dans Kasimir Velikov (p.232), et jura qu'elle ne souhaitait que venger la mort de ses sœurs tombées sous les mains traîtresses de Rahadin.
-Pour prouver sa bonne volonté, Patrina lui parla d'un étui à cartes, caché dans les ruines d'Argynvostholt, dont le contenu le mènerait à l'emplacement depuis longtemps perdu du Temple.
-
-Bien que Kasimir restât méfiant quant aux motivations de Patrina, la vengeance de Strahd contre le village de Barovia le troubla et l'alarma.
-Avec le rêve de sa sœur pesant lourdement sur son esprit, Kasimir se rendit à Argynvostholt, où il trouva Sir Godfrey Gwilym enchaîné au milieu de la chapelle en ruines du manoir.
-
-Sir Godfrey mit Kasimir en garde contre les méfaits du Temple - mais ses paroles tombèrent dans l'oreille d'un sourd.
+> Bien que Patrina promettrait de le former aux arts magiques, perfectionnant ses compétences jusqu'à ce que les rituels nécessaires soient à sa portée, elle—comme Exethanter l'avait fait pour elle—ne conclurait jamais véritablement son éducation.
+Au lieu de cela, en à peine trente ans—ou même moins, avec un peu "d'aide"—Strahd von Zarovich mourrait dans son lit, vieil homme humain flétri.
+Patrina, elfe du crépuscule intemporelle encore dans la fleur de l'âge, revendiquerait son trône—et ainsi commencerait une nouvelle dynastie.
+>
+> Au grand plaisir de Patrina, Strahd parut intrigué par son offre et, après une série de leçons dans les arts magiques, l'accompagna enfin au Temple d'Ambre.
+Tandis qu'il s'émerveillait de la puissance qu'il contenait, elle devint confiante que son plan était à portée de main.
+Sous son regard vigilant, Strahd communia avec le vestige de Tenebrous, contemplant pour la première fois le don obscur de la lichidomie.
+Alors que Patrina et Strahd quittaient le Temple, Patrina l'assura que, sous sa tutelle, il deviendrait un jour assez puissant pour revendiquer le don obscur de Tenebrous comme le sien.
+>
+> Leurs leçons continuèrent jusqu'au jour du mariage de Sergei, lorsque Strahd baigna le Château Ravenloft dans le sang et s'éleva de la mort en tant que vampire.
+Luttant pour tracer un chemin à suivre, Patrina retourna finalement au campement des elfes du crépuscule près de Vallaki.
+Là, elle retrouva Kasimir, bien qu'elle refusât obstinément de discuter de ses allées et venues au cours des dernières années.
+>
+> Réalisant que son complot pour piéger Strahd avec des promesses d'immortalité n'était plus à sa portée, Patrina conçut un dernier plan désespéré : elle retournerait à la cour de Strahd et chercherait à le séduire ouvertement.
+Ce faisant, elle poursuivrait secrètement la voie de la lichéité, s'appuyant sur sa puissance magique pour se défendre des prédations de Strahd jusqu'à ce qu'elle puisse fabriquer un phylactère et une potion de transformation.
+Une fois qu'elle aurait gagné sa confiance et obtenu les clés de ses défenses, elle révélerait sa véritable forme morte-vivante—et le détruirait.
+>
+> Serrant les dents face à la nécessité de se soumettre devant l'ascension ténébreuse de Strahd, Patrina retourna au Château Ravenloft, regagnant progressivement ses bonnes grâces.
+Pendant ce temps, elle poursuivait ses recherches en secret dans un laboratoire souterrain sous sa chaumière dans le campement des elfes du crépuscule.
+Quand Strahd envoya la *Lame Éclatante* de Sergei à l'archimage Khazan pour qu'elle soit détruite, Patrina charma l'apprenti de Khazan et lui ordonna de voler l'arme pour ses propres desseins.
+Bien que l'apprenti ne réussît à voler que la garde, Patrina la transforma en phylactère de liche, puis la scella dans un demi-plan conjuré à l'intérieur du sarcophage d'ambre du vestige du Vampyr.
+(Quant à l'apprenti, Patrina s'en débarrassa rapidement, abandonnant son cadavre aux loups pour s'assurer que la nouvelle de sa traîtrise n'atteigne jamais les oreilles de Strahd.)
+>
+> Pourtant, le plan final de Patrina ne s'est jamais concrétisé.
+Quand Kasimir apprit d'une connaissance Vistani que Patrina était non seulement devenue une consorte de Strahd, mais qu'elle avait en fait servi comme son tuteur arcanique près d'un an auparavant, il fut pris de rage face à cette trahison évidente.
+Il fit irruption dans sa chaumière, déterminé à la confronter—et trouva, par l'arrogante négligence de Patrina, l'entrée cachée de son laboratoire arcanique en dessous.
+Bien que Patrina n'eût jamais imaginé que ses semblables elfes du crépuscule puissent fouiller sa demeure, Kasimir erra maintenant parmi ses accessoires de magie noire avec une horreur grandissante.
+>
+> C'est à l'étage le plus profond du repaire de Patrina que Kasimir découvrit les vestiges de son acte le plus vil : les cadavres de sept Vallakiens kidnappés et torturés, leurs entrailles éventrées utilisées pour fabriquer la potion de transformation.
+C'est là que Kasimir trouva les notes de Patrina, écrites dans un code royal que seuls eux deux se rappelaient encore, qui parlaient de la vraie nature de la potion.
+Et c'est là que Kasimir trouva Patrina elle-même, à quelques minutes d'avaler la potion et d'accéder à la lichéité.
+>
+> Horrifié par ce qu'il avait découvert, Kasimir exigea que Patrina se rende et affronte la justice.
+Patrina feignit le repentir—mais quand elle attaqua Kasimir avec de la magie noire, Kasimir riposta, tissant les mêmes sorts qu'elle lui avait enseignés il y a longtemps.
+>
+> Patrina était de loin la mage la plus puissante—mais avec une grande partie de sa magie liée à la potion de transformation, c'est Kasimir qui avait l'avantage.
+Quand la bataille fut terminée, le laboratoire de Patrina était en ruines—et Patrina elle-même gisait morte sur le sol.
+>
+> L'âme de Patrina, cependant, continua à vivre.
+Au lieu de tomber dans le cycle barovien de réincarnation, son esprit fut attiré vers le phylactère qu'elle avait fabriqué quelques semaines plus tôt, scellé dans la garde brisée de la *lame éclatante* de Sergei.
+Sans la potion de transformation, cependant, elle était incapable de manifester un corps, restant piégée dans le demi-plan qu'elle avait forgé.
+>
+> Kasimir fit s'effondrer le laboratoire de Patrina et enterra les Vallakiens qu'elle avait assassinés.
+Déterminé à protéger l'héritage autrefois sterling de sa sœur, Kasimir raconta à son peuple une demi-vérité : qu'elle était devenue une consorte de Strahd, et qu'il l'avait tuée pour l'empêcher de devenir un vampire.
+Lorsque l'histoire de Kasimir parvint aux oreilles de Strahd, celui-ci n'eut d'autre choix que de punir cet elfe du crépuscule qui prétendait l'avoir défié—et envoya Rahadin exécuter le massacre de toutes les femmes et enfants elfes du crépuscule dans le campement qui l'avait défié.
+>
+> Des siècles s'écoulèrent.
+Strahd, désirant ardemment se libérer des Brumes, retourna maintes fois au Temple d'Ambre—et découvrit bientôt la présence persistante d'Exethanter dans son ancienne bibliothèque.
+Bien qu'il ne libéra pas Exethanter des liens de Patrina, Strahd invoqua son esprit à de nombreuses reprises pour discuter de la nature de l'emprisonnement de Barovia et des moyens par lesquels la terre pourrait être libérée.
+Bien qu'initialement réticent à aider un porteur du don obscur du Vampyr, Exethanter accepta bientôt d'assister les recherches "théoriques" de Strahd—à la fois parce qu'il trouvait ce travail fascinant, et parce qu'il désespérait d'échapper à la stase dans laquelle Patrina l'avait laissé, ne serait-ce que pour quelques jours à la fois.
+> 
+> Plus de quatre cents ans après sa mort, Patrina sentit la Grande Conjonction approcher depuis sa place dans le Temple d'Ambre.
+Ayant espionné les conversations de Strahd avec Exethanter, elle soupçonnait fortement que sa meilleure chance de s'échapper de sa prison approchait—ainsi qu'une opportunité en or de s'emparer du pouvoir de Strahd sur les Fanes pendant que son attention serait ailleurs.
+>
+> Patrina envoya un rêve à Kasimir : une vision du Temple d'Ambre, une promesse de vengeance contre Strahd, et un chemin vers le sarcophage d'ambre où le salut se trouverait prétendument.
+Elle lui envoya des murmures de contrition et de honte, comme décrit dans <span class="citation">Kasimir Velikov (p. 232)</span>, et jura qu'elle souhaitait simplement venger la mort de ses sœurs qui avaient péri des mains traîtresses de Rahadin.
+Comme preuve de sa bonne volonté, Patrina lui parla d'un étui à carte, caché dans les ruines d'Argynvostholt, dont le contenu le mènerait à l'emplacement depuis longtemps perdu du Temple.
+>
+> Bien que Kasimir restât méfiant des motifs de Patrina, la vengeance de Strahd contre le village de Barovia le troubla et l'alarma.
+Le rêve de sa sœur pesant lourdement sur son esprit, Kasimir se rendit à Argynvostholt, où il trouva Sir Godfrey Gwilym enchaîné au milieu de la chapelle en ruine du manoir.
+> 
+> Sir Godfrey mit en garde Kasimir contre toute ingérence avec le mal du Temple—mais ses paroles tombèrent dans l'oreille d'un sourd.
 Laissant Sir Godfrey derrière lui, Kasimir localisa bientôt la carte dont Patrina lui avait parlé.
-Alors que les ténèbres de Strahd s'étendaient rapidement une fois de plus dans la vallée, Kasimir se mit en route vers les pentes du Mont Ghakis pour atteindre la vengeance promise par Patrina.
-
-Cependant, le voyage s'avéra trop pour Kasimir.
-La première fois, une bourrasque de neige le fit rebrousser chemin ; la seconde, les vrocks du poste de garde du Col Tsolenka le forcèrent à s'écraser contre une corniche enneigée dans un gouffre glacé.
-Comme décrit dans Arc E - Le Vistana Manquant, Kasimir rentra chez lui, meurtri et honteux, désespéré de trouver un moyen d'atteindre un but qui restait tantalisant et hors de portée.
-
-Kasimir est ravi de bavarder un peu avec les joueurs pendant qu'il prépare leur thé. En particulier, Kasimir fut stupéfait par l'allumage du phare d'Argynvostholt dans Arc Q - Un Phare Brillant, et est fasciné d'apprendre que les joueurs en sont responsables. (Une boule lui nouant la gorge, Kasimir jette un regard en direction du phare et dit doucement : "En le regardant, j'ai ressenti quelque chose que je n'avais pas éprouvé depuis très, très longtemps, bien que je ne puisse dire exactement quoi." Si un joueur suggère "l'espoir" ou une émotion similaire comme ce que Kasimir a ressenti, il marque une pause, puis rit en répondant : "Je suppose que c'était ça. Étrange, peut-être, qu'un tel sentiment me soit si étranger.")
-
-> [!abstract]+ **La Reconnaissance de Kasimir**
-> Si Kasimir n'a pas rencontré les joueurs depuis sa rencontre avec eux [[Arc E - La Vistana Disparue]] et qu'il est au courant qu'Arabelle a été réunie avec Luvash, il les remercie pour leurs efforts à cet égard. "Je regrette de n'avoir pu moi-même enquêter sur l'histoire de cet anneau," ajoute-t-il. "S'est-il finalement avéré utile pour la retrouver ?" Si Kasimir n'est pas au courant du sort d'Arabelle, il demande aux joueurs ce qu'il est advenu de leurs efforts pour la retrouver. (Kasimir pose ces questions non par envie d'être indiscret, mais par un sentiment de proximité avec les Vistani et un intérêt sincère pour la sécurité d'Arabelle.)
+Avec les ténèbres de Strahd se répandant rapidement à nouveau à travers la vallée, Kasimir partit pour les pentes du Mont Ghakis afin d'atteindre la vengeance promise par Patrina.
 >
-> Si Lady Fiona Wachter est devenue la bourgmestre de Vallaki à la suite des événements [[Arc F - Le Souhait de Lady Wachter]] ou [[Arc G - Les Frères et Sœurs Strazni]], Kasimir note, au fil de la conversation, qu'il est reconnaissant que le nouveau dirigeant de la ville ait à nouveau ouvert ses portes aux Vistani et aux elfes du couchant. "Même ainsi," réfléchit-il avec tristesse, "cela fait de nombreuses années que je n'ai plus visité Vallaki. J'imagine qu'aucun des amis que j'avais à l'époque n'est encore en vie aujourd'hui. Peut-être même que leurs enfants et petits-enfants sont passés de l'autre côté."
+> Le voyage, cependant, s'avéra être plus que ce que Kasimir pouvait endurer.
+La première fois, un blizzard imprévu le fit rebrousser chemin ; la seconde, les **vrocks** du poste de garde du Col de Tsolenka le poussèrent à s'écraser contre un monticule de neige dans un gouffre glacé.
+Comme décrit dans [[Arc E - Le Vistani Disparu#E2c. La Masure de Kasimir|Arc E - Le Vistani Disparu]], Kasimir retourna chez lui, souffrant et honteux, désespéré de trouver un moyen d'atteindre un objectif qui demeurait tentant mais hors de portée.
 
-Cependant, si un joueur lui demande à propos du Temple d'Ambre ou de sa visite à Argynvostholt, un joueur avec un score de Sagesse (Perception) passif de 10 ou plus remarque que Kasimir se raidit immédiatement. Il est prêt à partager les informations suivantes :
+Kasimir est heureux de bavarder avec les joueurs pendant qu'il prépare leur thé. En particulier, Kasimir a été stupéfait par l'allumage du phare d'Argynvostholt dans [[Arc Q - Un Phare Étincelant]], et est fasciné d'apprendre que les joueurs étaient responsables de son apparition. (La gorge nouée, Kasimir regarde dans la direction du phare et dit doucement : "En le regardant, j'ai ressenti quelque chose que je n'avais pas ressenti depuis très, très longtemps, bien que je ne saurais dire exactement quoi." Si un joueur suggère "l'espoir" ou toute émotion similaire comme ce que Kasimir a ressenti, il s'arrête un moment, puis rit doucement, répondant : "Je suppose que c'était ça. Étrange, peut-être, que ce soit un sentiment si peu familier.")
 
-* ***S'il est interrogé sur Argynvostholt.*** Kasimir prétend s'être récemment retrouvé aux environs d'Argynvostholt alors qu'il aidait aux recherches d'Arabelle. Cependant, il s'est réfugié dans le manoir pour les raisons décrites dans <span class="citation">Q11. L'Entrepôt à Vin (p. 133)</span>. "Je me souviens avoir parlé à l'un des chevaliers qui s'y trouvait pour lui demander s'il l'avait vue," dit-il en fronçant les sourcils. "Cela faisait un moment que je n'avais plus croisé l'Ordre du Dragon d'Argent, notre conversation a donc pu dériver sur d'autres sujets. Je ne me rappelle plus des sujets précis abordés, cependant." (C'est un mensonge. Un joueur qui réussit un jet de Sagesse (Perspicacité) de DD 10 discerne que Kasimir sue légèrement et que ses yeux dévient occasionnellement sur le côté lorsqu'il parle.)
-* ***S'il est interrogé sur l'existence du Temple d'Ambre.*** Kasimir fait une pause semblant réfléchir, puis partage que le Temple d'Ambre était autrefois réputé, selon la légende, pour garder "des secrets cachés dans l'ambre". "Personne ne l'a jamais vu, cependant," ajoute-t-il avec un rire narquois. "Certaines légendes ne sont que des légendes, j'imagine." (C'est un mensonge. Un joueur qui réussit un jet de Sagesse (Perspicacité) de DD 10 discerne que la voix de Kasimir tremble légèrement lorsqu'il parle et qu'il semble éviter le contact visuel.)
-* ***S'il est interrogé sur son intérêt pour le Temple d'Ambre.*** Kasimir rit doucement, puis demande si les joueurs se sont intéressés aux "vieilles légendes poussiéreuses". "J'ai bien peur de ne rien savoir à ce sujet," insiste-t-il. "Je ne pense pas avoir entendu parler de ce mythe particulier depuis des siècles." (C'est un mensonge. Un joueur qui réussit un jet de Sagesse (Perspicacité) de DD 10 discerne que le rire de Kasimir est plus nerveux que joyeux, et que ses mains tremblent lorsqu'il parle.)
-
-> [!lore]+ **La réticence de Kasimir**
-> Kasimir est réticent à partager ses connaissances ou son intérêt pour le Temple d'Ambre pour les raisons suivantes :
+> [!abstract]+ **La Gratitude de Kasimir**
+> S'il n'a pas rencontré les joueurs depuis leur première entrevue [[Arc E - La Vistana Disparue]] et qu'il sait qu'Arabelle a été réunie avec Luvash, Kasimir les remercie pour leurs efforts. "Je regrette de n'avoir pu étudier moi-même l'histoire de la bague," ajoute-t-il. "A-t-elle finalement été utile pour la retrouver ?" Si Kasimir n'est pas au courant du sort d'Arabelle, il demande aux joueurs ce qu'il est advenu de leurs efforts pour la retrouver. (Kasimir pose ces questions non par indiscrétion, mais par sentiment de parenté avec les Vistani et par intérêt sincère pour la sécurité d'Arabelle.)
 >
-> * ***Peur du jugement.*** Pour ceux qui connaissent la légende de son existence, le Temple d'Ambre est souvent associé à la magie noire et aux pouvoirs maléfiques. Kasimir préfère garder secret son intérêt pour le Temple afin d'éviter d'être étiqueté comme un mage noir ou, pire encore, d'attirer l'attention d'individus peu recommandables qui pourraient convoiter son pouvoir à des fins sombres.
-> * ***Peur de ternir l'héritage de Patrina.*** Lorsque Kasimir a tué Patrina il y a quatre siècles, il a intentionnellement dissimulé la vérité sur sa chute afin de préserver son héritage en tant que leader intellectuelle des elfes du crépuscule et combattante indomptable pour leur liberté. Aujourd'hui, Kasimir n'ose pas révéler la vérité sur son engouement pour la magie noire ou ses liens avec le Temple d'Ambre, de peur de ternir à jamais son héritage.
-> * ***Peur de la honte.*** Kasimir croit que son mensonge a conduit à la mort de "toutes les épouses, mères, sœurs et filles" de son peuple. Bien qu'il donnerait n'importe quoi pour effacer ce mensonge s'il pouvait ramener ceux qu'ils ont perdus, il sait que c'est impossible. Inconsciemment, il croit également que révéler le mensonge maintenant rendrait le génocide de son peuple par Rahadin "pour rien". Une telle révélation, croit-il inconsciemment, rendrait leurs morts dénuées de sens - et le confirmerait comme la véritable cause du massacre de son peuple.
-> * ***Peur de la culpabilité.*** Bien que ses trois premières peurs soient principalement responsables de sa réticence à dire la vérité, Kasimir croit aussi que la tâche que Patrina lui a confiée est un fardeau qu'il doit porter seul. Bien qu'il sache que les pentes du Mont Ghakis sont dangereuses - et le Temple encore plus - Kasimir refuse de mettre plus de morts sur sa conscience en permettant ou en invitant les joueurs à l'accompagner.
+> Si Dame Fiona Wachter est devenue bourgmestre de Vallaki suite à [[Arc F - Le Souhait de Dame Wachter]] ou [[Arc G - Les Frères et Sœurs Strazni]], Kasimir note, au fil de la conversation, qu'il est reconnaissant que la nouvelle direction de la ville ait rouvert ses portes aux Vistani et aux elfes crépusculaires. "Malgré tout," médite-t-il mélancoliquement, "cela fait de nombreuses années que je n'ai pas visité Vallaki. J'imagine qu'aucun des amis que j'y avais ne vit encore aujourd'hui. Peut-être même que leurs enfants et petits-enfants sont également disparus."
 
-Au fur et à mesure que les joueurs tentent de convaincre Kasimir de révéler la vérité, placez secrètement un dé à six faces (dé de persuasion) sur la table, hors de la vue des joueurs. Réglez la valeur de départ du dé comme suit :
+Si un joueur l'interroge sur le Temple d'Ambre ou sa visite à Argynvostholt, un joueur avec un score de Sagesse passive (Perspicacité) de 10 ou plus remarque que Kasimir se raidit immédiatement. Il est disposé à partager les informations suivantes :
 
-* Si les joueurs ont déjà dit à Kasimir que Sir Godfrey leur a parlé de son intérêt pour le Temple d'Ambre, commencez avec un 3.
-* Sinon, commencez avec un 1.
+* ***Si on l'interroge sur Argynvostholt.*** Kasimir prétend s'être récemment retrouvé aux environs d'Argynvostholt en aidant aux recherches d'Arabelle. Cependant, il a trouvé refuge dans le manoir pour les raisons décrites dans <span class="citation">Q11. Cave à Vin (p. 133)</span>. "Je me souviens avoir parlé avec l'un des chevaliers pour lui demander s'il l'avait vue," dit-il, les sourcils froncés. "Cela faisait un certain temps que je n'avais pas rencontré l'Ordre du Dragon d'Argent, notre conversation a donc pu s'égarer sur d'autres sujets. Je ne me rappelle pas quels autres sujets spécifiques nous avons abordés, cependant." (C'est un mensonge. Un joueur qui réussit un jet de Sagesse (Perspicacité) DD 10 discerne que Kasimir transpire légèrement, ses yeux se détournant occasionnellement lorsqu'il parle.)
+* ***Si on l'interroge sur l'existence du Temple d'Ambre.*** Kasimir fait une pause, feignant la réflexion, puis révèle que le Temple d'Ambre était autrefois réputé, selon la légende, garder "des secrets cachés dans l'ambre". "Personne ne l'a jamais vu, cependant," ajoute-t-il avec un rire ironique. "Certaines légendes ne sont que des légendes, je suppose." (C'est un mensonge. Un joueur qui réussit un jet de Sagesse (Perspicacité) DD 10 discerne que la voix de Kasimir tremble légèrement lorsqu'il parle, et qu'il semble éviter tout contact visuel.)
+* ***Si on l'interroge sur son intérêt pour le Temple d'Ambre.*** Kasimir ricane, puis demande si les joueurs se sont intéressés à "de vieilles légendes poussiéreuses". "Je crains de n'avoir aucune connaissance de ce dont vous parlez," insiste-t-il. "Je ne pense pas avoir entendu qui que ce soit mentionner ce mythe particulier depuis des siècles." (C'est un mensonge. Un joueur qui réussit un jet de Sagesse (Perspicacité) DD 10 discerne que le ricanement de Kasimir est plus nerveux qu'amusé, et que ses mains tremblent lorsqu'il parle.)
 
-Augmentez le dé comme suit :
+> [!lore]+ **Réticence de Kasimir**
+> Kasimir hésite à partager ses connaissances ou son intérêt pour le Temple d'Ambre pour les raisons suivantes :
+>
+> * ***Peur du Jugement.*** Le Temple d'Ambre, pour ceux qui connaissent la légende de son existence, est souvent associé à la magie noire et aux pouvoirs maléfiques. Kasimir préfère garder secret son intérêt pour le Temple afin d'éviter d'être étiqueté comme un sorcier des ténèbres—ou, pire encore, d'attirer l'attention d'individus peu recommandables qui pourraient convoiter son pouvoir pour leurs propres desseins obscurs.
+> * ***Peur de Ternir l'Héritage de Patrina.*** Quand Kasimir a tué Patrina il y a quatre siècles, il a intentionnellement dissimulé la vérité sur sa chute en disgrâce afin de préserver son héritage en tant que leader intellectuelle des elfes du crépuscule et combattante indomptable pour leur liberté. Maintenant, Kasimir n'ose pas révéler la vérité sur sa descente dans la magie noire, ou ses associations avec le Temple d'Ambre, de peur de ternir son héritage à jamais.
+> * ***Peur de la Honte.*** Kasimir croit que son mensonge a conduit à la mort de "chaque épouse, mère, sœur et fille" parmi le peuple des elfes du crépuscule. Bien qu'il renoncerait à son mensonge sans hésiter si cela pouvait ramener ceux qu'ils ont perdus, il sait que c'est impossible—et, inconsciemment, croit qu'exposer le mensonge maintenant rendrait le génocide de Rahadin contre son peuple "complètement vain". Une telle révélation, croit-il inconsciemment, rendrait leurs morts sans signification—et le confirmerait comme la véritable cause du massacre de son peuple.
+> * ***Peur de la Culpabilité.*** Bien que ses trois premières craintes soient principalement responsables de sa réticence à parler honnêtement, Kasimir croit également que la tâche que Patrina lui a confiée est un fardeau qu'il doit porter seul. Bien qu'il sache que les pentes du Mont Ghakis sont dangereuses—et le Temple lui-même encore plus—Kasimir refuse de mettre plus de morts sur sa conscience en permettant ou en invitant les joueurs à l'accompagner.
 
-* Augmentez la valeur du dé de trois si les joueurs soulignent les blessures et les engelures de Kasimir à partir de [[Arc E - The Missing Vistana#E2c. Kasimir's Hovel|Arc E - The Missing Vistana]] et notent que le Temple d'Ambre est situé sur le Mont Ghakis. (Si cela ne fait pas atteindre un jet de six pour la persuasion, Kasimir bredouille qu'il enquêtait simplement sur la montagne à la recherche de composants magiques, mais a été surpris par une soudaine tempête de neige et "a stupidement chuté d'une falaise en tentant de se frayer un chemin à travers la tempête." C'est un mensonge évident. Si les joueurs se rappellent ensuite que l'histoire de Kasimir contredit son histoire précédente de [[Arc E - The Missing Vistana#E2c. Kasimir's Hovel|Arc E - The Missing Vistana]] (c'est-à-dire qu'il avait fait une randonnée sur le Mont Ghakis à la recherche de quelque chose d'une importance personnelle, mais est tombé lorsque la corniche gelée sur laquelle il marchait s'est effondrée sous son poids), augmentez le jet de persuasion à six).
-* Augmentez la valeur du dé de deux si les joueurs partagent que Madame Eva a prédit que le Temple d'Ambre abrite une arme nécessaire pour vaincre Strahd. Si les joueurs mentionnent que l'arme est une "épée de lumière solaire", augmentez plutôt la valeur du dé de trois et permettez aux joueurs de faire tous les jets de Charisme (Persuasion) suivants pour convaincre Kasimir avec l'avantage. (Si cela ne fait pas atteindre un jet de six pour la persuasion, Kasimir bégaie qu'une telle arme serait "un atout incroyable" si elle était trouvée, mais que Strahd est beaucoup trop puissant pour être vaincu par une seule arme, et que même la vision de Madame Eva peut parfois être obscurcie. C'est une évidente diversion. Si les joueurs mentionnent ensuite leur cambriolage du château Ravenloft et leurs multiples défaites des épouses et/ou du chambellan de Strahd, augmentez le jet de persuasion à six.)
+Pendant que les joueurs travaillent à convaincre Kasimir de révéler la vérité, placez secrètement un dé à six faces (dé de persuasion) sur la table hors de la vue des joueurs. Définissez la valeur initiale du dé comme suit :
+
+* Si les joueurs ont déjà dit à Kasimir que Sire Godefroy leur a parlé de son intérêt pour le Temple d'Ambre, commencez le dé à trois.
+* Sinon, commencez le dé à un.
+
+Incrémentez le dé comme suit :
+
+* Augmentez la valeur du dé de trois si les joueurs soulignent les blessures et les gelures de Kasimir de [[Arc E - La Vistana Disparue#E2c. La Cabane de Kasimir|Arc E - La Vistana Disparue]] et notent que le Temple d'Ambre est situé sur le Mont Ghakis. (Si cela ne fait pas atteindre six au dé de persuasion, Kasimir bégaie qu'il explorait simplement la montagne à la recherche de composants magiques, mais qu'il a été pris dans un blizzard soudain et "est stupidement tombé d'une falaise en essayant de traverser la tempête." C'est un mensonge évident. Si les joueurs se rappellent ensuite que l'histoire de Kasimir contredit son récit précédent de [[Arc E - La Vistana Disparue#E2c. La Cabane de Kasimir|Arc E - La Vistana Disparue]] (c'est-à-dire qu'il randonnait à travers le Mont Ghakis à la recherche de quelque chose d'importance personnelle, mais est tombé lorsque la corniche gelée sur laquelle il marchait s'est effondrée sous son poids), augmentez le dé de persuasion à six).
+* Augmentez la valeur du dé de deux si les joueurs partagent que Madame Eva a prédit que le Temple d'Ambre contient une arme nécessaire pour vaincre Strahd. Si les joueurs mentionnent que l'arme est une "épée de lumière solaire", augmentez plutôt la valeur du dé de trois, et permettez aux joueurs de faire tous les jets de Charisme (Persuasion) suivants pour convaincre Kasimir avec avantage. (Si cela ne fait pas atteindre six au dé de persuasion, Kasimir bégaie qu'une telle arme serait "un atout incroyable" si elle était trouvée, mais que Strahd est bien trop puissant pour être vaincu par une seule arme, et que même la vision de Madame Eva peut parfois être troublée. C'est une esquive évidente. Si les joueurs mentionnent ensuite leur raid sur le Château Ravenloft et leurs multiples défaites des épouses de Strahd et/ou de son chambellan, augmentez le dé de persuasion à six.)
 * Augmentez la valeur du dé de deux si les joueurs mentionnent (pour la première fois) que Sir Godfrey leur a parlé de l'intérêt de Kasimir pour le Temple d'Ambre.
-* Augmentez la valeur du dé de deux si les joueurs mentionnent l'allumage du phare d'Argynvostholt, supplient Kasimir de suivre ce sentiment d'espoir et réussissent un jet de Charisme (Persuasion) de DD 10.
-* Augmentez la valeur du dé d'un si les joueurs insistent sur le fait qu'ils doivent trouver le Temple d'Ambre pour un objectif important et réussissent un jet de Charisme (Persuasion) de DD 15, effectué avec l'avantage si Kasimir sait que les joueurs ont réuni Arabelle avec sa famille.
-* Sinon, augmentez la valeur du dé de trois si les joueurs présentent tout autre argument solide, de deux s'ils présentent un autre argument décent et réussissent un jet de Charisme (Persuasion, Tromperie ou Intimidation) de DD 10, ou un argument correct et réussissent un jet de Charisme (Persuasion, Tromperie ou Intimidation) de DD 15.
+* Augmentez la valeur du dé de deux si les joueurs mentionnent l'allumage du phare d'Argynvostholt, supplient Kasimir de suivre ce sentiment d'espoir, et réussissent un jet de Charisme (Persuasion) DD 10.
+* Augmentez la valeur du dé d'un si les joueurs insistent sur le fait qu'ils doivent trouver le Temple d'Ambre pour une raison importante et réussissent un jet de Charisme (Persuasion) DD 15, effectué avec avantage si Kasimir sait que les joueurs ont réuni Arabelle avec sa famille.
+* Sinon, augmentez la valeur du dé de trois si les joueurs présentent tout autre argument solide, de deux si les joueurs présentent tout autre argument décent et réussissent un jet de Charisme (Persuasion, Tromperie ou Intimidation) DD 10, ou présentent un argument passable et réussissent un jet de Charisme (Persuasion, Tromperie ou Intimidation) DD 15.
 
-Chaque fois que la valeur du dé de persuasion augmente, un joueur avec un score de Sagesse (Perception) passif de 10 ou plus remarque que Kasimir hésite de plus en plus longtemps à chaque fois qu'il répond, ses protestations s'affaiblissant à mesure qu'il semble débattre plus sérieusement de la manière de répondre. (Les joueurs peuvent facilement déduire que leurs efforts érodent la volonté de Kasimir, et qu'il pourrait céder s'ils insistent davantage.)
+Chaque fois que la valeur du dé de persuasion augmente, un joueur avec un score de Sagesse (Perspicacité) passive de 10 ou plus remarque que Kasimir hésite plus longtemps à chaque réponse, ses protestations s'affaiblissant à mesure qu'il semble débattre plus sérieusement de la façon de répondre. (Les joueurs peuvent facilement déduire que leurs efforts usent la volonté de Kasimir, et qu'il pourrait céder s'il est poussé davantage.)
 
-Kasimir est prêt à partager son véritable intérêt pour le Temple d'Ambre une fois que le dé de persuasion atteint six. Lorsque c'est le cas, il peut partager les informations suivantes à la demande des joueurs:
+Kasimir est prêt à partager son véritable intérêt pour le Temple d'Ambre une fois que le dé de persuasion atteint six. Quand cela se produit, il peut partager les informations suivantes à la demande des joueurs :
 
-* Il a été à la recherche du Temple d'Ambre ces dernières semaines, dans l'espoir d'y trouver une arme capable de vaincre Strahd. (Il ne sait pas quelle est cette arme, mais il sait qu'elle a été cachée dans le Temple d'Ambre.)
-* Il a récemment visité Argynvostholt dans l'espoir d'obtenir une carte de l'emplacement du Temple d'Ambre, qu'il a réussi à récupérer d'un vieux étui à cartes depuis longtemps oublié au milieu des ruines. (Depuis, il a mémorisé la carte et l'a détruite, de peur que d'autres ne trouvent le Temple.)
-* Depuis l'obtention de la carte, il a tenté deux fois de gravir le Mont Ghakis. La première fois, une violente tempête de neige l'a forcé à faire demi-tour. La seconde fois, une paire de gargouilles démoniaques à la porte du col de Tsolenka l'ont fait s'écraser contre un talus enneigé dans un ravin glacé. (Cet accident s'est produit deux jours avant que les joueurs ne rencontrent Kasimir dans [[Arc E - Le Vistani Manquant]])
+* Il cherche le Temple d'Ambre depuis plusieurs semaines, dans l'espoir d'y trouver une arme capable de vaincre Strahd. (Il ne sait pas quelle est cette arme, mais il sait qu'elle a été cachée dans le Temple d'Ambre.)
+* Il a récemment visité Argynvostholt dans l'espoir d'obtenir une carte indiquant l'emplacement du Temple d'Ambre, qu'il a réussi à récupérer dans un vieux porte-cartes oublié depuis longtemps parmi les ruines. (Depuis, il a mémorisé la carte et l'a détruite, par crainte que d'autres ne trouvent le Temple.)
+* Depuis l'obtention de la carte, il a tenté l'ascension du Mont Ghakis deux fois. La première fois, un blizzard imprévu l'a forcé à faire demi-tour. La seconde fois, une paire de gargouilles démoniaques au poste de garde du Col de Tsolenka l'ont poussé à s'écraser dans une congère au fond d'un gouffre glacé. (Cet accident s'est produit deux jours avant que les joueurs ne rencontrent Kasimir dans [[Arc E - Le Vistana Disparu]].)
 
-"L'arme que je cherche a été cachée dans un sarcophage d'ambre", dit Kasimir, "dans une voûte d'ambre dissimulée au cœur du temple. Jusqu'à présent, cependant, j'ai désespéré d'atteindre ne serait-ce que les portes du temple, sans parler de percer les horreurs qui pourraient y résider." (Kasimir ne sait pas à quoi ressemble cette arme ni ce qu'elle est, seulement qu'elle est mortelle pour Strahd.)
+"L'arme que je recherche a été cachée dans un sarcophage d'ambre," dit Kasimir, "dans une crypte d'ambre dissimulée au cœur du temple. Jusqu'à présent, cependant, j'ai désespéré de pouvoir même atteindre les portes du temple—sans parler de percer quelles que soient les horreurs qui pourraient y résider." (Kasimir ne sait pas ce qu'est cette arme ni à quoi elle ressemble; seulement qu'elle est mortelle pour Strahd.)
 
-Si les joueurs demandent à Kasimir comment il a appris l'existence de l'arme ou qui l'a cachée, Kasimir peut partager les informations suivantes :
+Si les joueurs demandent à Kasimir comment il a appris l'existence de cette arme ou qui l'a cachée, Kasimir peut partager les informations suivantes:
 
-* L'arme a été cachée il y a quatre siècles par sa sœur, Patrina Velikovna, qui l'a dissimulée dans un endroit où "Strahd craindrait de s'aventurer". (Kasimir ne sait pas ce que cela signifie, mais ne pense pas que cela fasse référence au Temple d'Ambre lui-même - il pense plutôt que cela fait référence à un lieu *à l'intérieur* ou *accessible depuis* le Temple. "Selon Patrina", note Kasimir, "le Temple d'Ambre lui-même était un endroit que Strahd connaissait bien".)
-* Dans la foulée de la punition par Strahd du village rebelle de Barovia, l'esprit de Patrina est venu à Kasimir dans ses rêves et lui a parlé de l'arme, l'avertissant que, sans elle, toute la Barovia pourrait périr sous l'ombre de Strahd.
+* L'arme a été cachée il y a quatre siècles par sa sœur, Patrina Velikovna, qui l'a dissimulée dans un endroit où "Strahd craindrait de s'aventurer". (Kasimir ne sait pas ce que cela signifie, mais ne croit pas que cela se réfère au Temple d'Ambre lui-même—il pense plutôt que cela se réfère à un endroit *à l'intérieur* ou *accessible depuis* le Temple. "Selon Patrina," note Kasimir, "le Temple d'Ambre lui-même était un lieu que Strahd connaissait bien.")
+* Suite au châtiment infligé par Strahd au village rebelle de Barovia, l'esprit de Patrina est apparu à Kasimir dans ses rêves et lui a parlé de l'arme, l'avertissant que, sans elle, tout Barovia pourrait périr sous l'ombre de Strahd.
 
-> [!abstract]+ **Ce que Patrina savait**
-> Si les joueurs demandent à Kasimir comment Patrina a appris l'existence de l'arme, comment elle connaissait le Temple d'Ambre ou pourquoi elle y a caché l'arme, ou s'ils demandent à Kasimir pourquoi il a menti sur son intérêt pour le Temple d'Ambre, Kasimir hésite, puis dit aux joueurs qu'il répondra à leurs questions une fois qu'ils se seront mis en route. C'est, ajoute-t-il, une "*très* longue histoire".
+> [!abstract]+ **Ce que savait Patrina**
+> Si les joueurs demandent à Kasimir comment Patrina a appris l'existence de l'arme, comment elle connaissait le Temple d'Ambre, ou pourquoi elle y a caché l'arme, ou demandent à Kasimir pourquoi il a menti sur son intérêt pour le Temple d'Ambre, Kasimir hésite, puis dit aux joueurs qu'il répondra à leurs questions une fois qu'ils seront partis en voyage. C'est, ajoute-t-il, une "histoire *très* longue."
 
-Son secret révélé, Kasimir est ravi de guider les joueurs jusqu'au Temple d'Ambre s'ils le lui demandent. (S'ils ne le lui demandent pas, il leur demande s'ils seraient disposés à l'y accompagner, étant donné qu'ils semblent partager un intérêt mutuel pour son exploration.)
+Son secret révélé, Kasimir est heureux de guider les joueurs jusqu'au Temple d'Ambre si on le lui demande. (Si les joueurs ne lui demandent pas de le faire, il leur demande s'ils seraient disposés à l'accompagner là-bas, étant donné qu'ils semblent partager un intérêt mutuel pour l'investigation de ce lieu.)
 
-Si Kasimir et les joueurs conviennent de se rendre ensemble au Temple d'Ambre, Kasimir leur conseille d'obtenir des vêtements chauds à Vallaki et de se procurer tous les approvisionnements dont ils pourraient avoir besoin pour le voyage à venir. "Nous serons peut-être partis pendant plusieurs jours", dit-il, "et je ne peux pas dire quelles ténèbres nous trouverons à l'intérieur du Temple lui-même. Je vous conseille de vous préparer à tout." Il demande aux joueurs de le prévenir une fois qu'ils seront prêts à partir, en notant que leur groupe partira à l'aube le lendemain matin.
+Si Kasimir et les joueurs conviennent de voyager ensemble jusqu'au Temple d'Ambre, Kasimir leur conseille de se procurer des vêtements d'hiver à Vallaki et de faire le plein de provisions dont ils pourraient avoir besoin pour le voyage à venir. "Nous pourrions bien être absents pendant plusieurs jours," dit-il, "et je ne peux pas prévoir quelles ténèbres nous pourrions trouver dans le Temple lui-même. Je vous conseille d'être prêts à tout." Il demande aux joueurs de l'informer lorsqu'ils seront prêts à partir, notant que leur groupe partira aux premières lueurs du matin suivant.
 # R2. La Descente du Tyran
-Alors que les joueurs se rendent du campement vistani à Vallaki ou à la Vieille Route de Svalich, ils passent par un carrefour boisé. Lisez :
-
-
+Alors que les joueurs se dirigent du campement Vistani vers Vallaki ou la Vieille Route de Svalich, ils traversent un carrefour boisé. Lisez:
 
 <div class="description">
-<p>La colline herbeuse abritant le hameau des elfes du crépuscule et le campement vistani s'éloigne à l'horizon tandis que la voûte noueuse du bois de Svalich l'engloutit à nouveau. Le sentier de chasse boueux et effacé continue vers le nord, se frayant un chemin à travers le feuillage dense.</p>
-<p>Alors que la lisière nord entre en vue, le sentier de chasse se divise, la branche orientale serpentant plus loin dans les bois tandis que la branche nord courbe vers le pâle filet de la vieille route de Svalich au loin. L'air ici est frais et silencieux, avec rien d'autre que le bruissement des feuilles pour remplir le silence.</p>
+<p>La colline herbeuse qui abrite le hameau des elfes crépusculaires et le campement vistani s'éloigne dans le lointain tandis que la canopée noueuse du Bois de Svalich l'engloutit à nouveau. Le sentier boueux et décoloré des chasseurs continue vers le nord, se frayant un chemin à travers le feuillage dense.</p>
+<p>Alors que la lisière nord de la forêt apparaît, le sentier des chasseurs se divise, la branche est serpentant plus profondément dans les bois tandis que la branche nord s'incurve vers le pâle filet de la Vieille Route de Svalich au loin. L'air ici est frais et calme, avec seulement le bruissement des feuilles pour rompre le silence.</p>
 </div>
 
 ## R2a. La Vengeance du Baron
-Si le baron Vargas Vallakovich est vivant, Lady Fiona Wachter est l'actuelle bourgmestre de Vallaki, et les joueurs n'ont fait aucun effort pour dissimuler leur voyage vers le campement vistani, un Vargas ivre et six **gardes** tentent de coincer les joueurs sur la route. Ajouter :
+Si le Baron Vargas Vallakovich est vivant, que Dame Fiona Wachter est l'actuelle bourgmestre de Vallaki, et que les joueurs n'ont fait aucun effort pour dissimuler leur voyage au campement vistani, un Vargas ivre et six **gardes** tentent de coincer les joueurs sur la route. Ajoutez :
 
 <div class="description">
-<p>Le calme est brisé par le crissement de la litière humide sous les bottes. Sept silhouettes couvertes de boue émergent du sentier oriental, leurs visages sombres et impassibles. Six portent des lances et des arbalètes, leurs poitrines décorées de la maille rouillée familière de la garde de Vallaki. Le septième, vous le reconnaissez instantanément : le Baron Vargas Vallakovich.</p>
-<p>Le baron ne semble pas avoir bien supporté sa retraite. Ses cheveux gras sont en désordre et ses vêtements sont sales et dépenaillés. Ses bajoues ne font que s'affaisser davantage, et de profondes cernes gonflées marquent la chair sous ses yeux, juste au-dessus de la broussaille hirsute qui borde ses mâchoires et son menton. Il porte une cuirasse mal ajustée, avec un fourreau terne attaché à sa hanche. Même à distance, il empeste la sueur et le vin éventé.</p>
-<p>"Les voilà," râle Vargas, ses yeux injectés de sang tressautant. "Les traîtres <em>vermines</em>."</p>
+<p>Le calme est rompu par le craquement du paillis humide sous des bottes. Sept silhouettes tachées de boue émergent du sentier est, leurs visages sombres et austères. Six portent des lances et des arbalètes, leurs poitrines ornées des familières cottes de mailles rouillées de la garde vallakienne. Le septième, vous le reconnaissez instantanément : le Baron Vargas Vallakovich.</p>
+<p>Le Baron ne semble pas avoir bien supporté sa retraite. Ses cheveux gras sont en désordre, et ses vêtements sont sales et hagards. Ses bajoues se sont encore affaissées, et des cernes profonds et bouffis marquent la chair sous ses yeux, juste au-dessus de la barbe grossière et désordonnée qui borde sa mâchoire et son menton. Il porte une cuirasse mal ajustée, avec un fourreau non poli attaché à sa hanche. Même à distance, il empeste la sueur et le vin éventé.</p>
+<p>"Les voilà," grince Vargas, ses yeux injectés de sang tressaillant. "Les <em>vermines</em> traîtresses."</p>
 </div>
 
 > [!lore]+ **La Vengeance de Vargas**
-> Dans le sillage de l'accession au pouvoir de Lady Wachter, Vargas Vallakovich bouillonne d'une rage sourde envers ceux responsables de sa destitution. Bien qu'il n'ait pas pensé à blâmer les joueurs pour l'ascension de Lady Wachter, cela a récemment changé lorsque deux de ses **gardes** encore loyaux ont appris, d'un Nikolaï et d'un Karl Wachter ivres, que les joueurs ont rencontré Lady Wachter peu avant la mort d'Izek.
+> Suite à l'ascension de Dame Wachter au pouvoir, Vargas Vallakovich a bouilli d'une rage silencieuse envers ceux responsables de son éviction. Bien qu'il n'ait pas pensé à blâmer les joueurs pour l'ascension de Dame Wachter, cela a récemment changé lorsque deux de ses **gardes** encore loyaux ont appris, d'un Nikolai et Karl Wachter ivres, que les joueurs avaient rencontré Dame Wachter peu avant la mort d'Izek.
 >
-> Pour satisfaire son besoin de vengeance, Vargas a ordonné à l'un de ses gardes loyaux de lui faire un rapport lorsque les joueurs seraient aperçus en approche de la ville. Après avoir reçu le rapport du garde, Vargas a rassemblé une demi-douzaine de gardes loyaux et s'est mis en route vers le campement vistani pour "punir" les joueurs pour leur trahison. (Les gardes, qui recevaient auparavant des faveurs et des préférences sous le règne de Vargas, se sont aigris face à la nouvelle bourgmestre de Vallaki, qui a intégré ses propres loyalistes dans la garde de la ville et mis fin à une grande partie de la corruption de Vargas.)
+> Pour satisfaire son besoin de vengeance, Vargas a ordonné à l'un de ses gardes loyaux de lui signaler quand les joueurs seraient aperçus s'approchant de la ville. À la réception du rapport du garde, Vargas a rassemblé une demi-douzaine de gardes loyaux et est parti pour le campement vistani afin de "punir" les joueurs pour leur trahison. (Les gardes, qui recevaient auparavant des préférences et des faveurs pendant le règne de Vargas, se sont aigris face à la nouvelle bourgmestre de Vallaki, qui a intégré ses propres loyalistes dans la garde municipale et mis fin à une grande partie de la corruption de Vargas.)
 >
-> Malheureusement, aucun des gardes de Vargas ne savait comment trouver le campement vistani. En conséquence, son groupe s'est assez rapidement perdu, tournant en rond sur les sentiers de chasse boueux des bois de Svalich à plusieurs reprises avant de finalement croiser le parti.
+> Malheureusement, aucun des gardes de Vargas ne savait exactement comment trouver le campement vistani. En conséquence, son groupe s'est rapidement perdu, tournant en rond plusieurs fois sur les sentiers de chasse boueux du Bois de Svalich avant de finalement rencontrer le groupe.
 >
-> Vargas, qui est lourdement ivre, croit que les joueurs n'ont pas pu tuer Izek sans tromperie ni tricherie. En conséquence, il est convaincu qu'ils forment un groupe de lâches et d'escrocs, et que tous les récits de leurs exploits ou de leurs actes sont au mieux exagérés - et des mensonges purs et simples au pire.
+> Vargas, qui est complètement ivre, croit que les joueurs n'auraient pas pu tuer Izek sans tricherie et ruse. Par conséquent, il est convaincu qu'ils sont un groupe de lâches fraudeurs, et que tous les récits de leur héroïsme ou de leurs actes sont au mieux exagérés — et au pire, des mensonges éhontés.
 
-Vargas est déterminé à punir et à humilier les joueurs pour leur trahison, ainsi que pour le "meurtre" d'Izek Strazni. Au fil de la conversation, il se lance dans des diatribes selon lesquelles les joueurs se sont "alliés avec le Diable" et ont "apporté la ruine aux braves gens de Vallaki". Il accuse librement les joueurs d'être des lâches, des empoisonneurs et des usurpateurs, ainsi que des adeptes des arts sombres. ("Les Wachters ont toujours été connus pour fréquenter les vampires et les diables," ricane-t-il. "Je suppose qu'il n'est pas surprenant qu'ils s'abaissent à une telle vermine comme vous.")
+Vargas est déterminé à punir et à humilier les joueurs pour leur trahison, ainsi que pour le "meurtre" d'Izek Strazni. Au fil de la conversation, il vocifère que les joueurs se sont "alliés avec le Diable" et "ont apporté la ruine aux bonnes gens de Vallaki". Il accuse librement les joueurs d'être des lâches, des empoisonneurs et des usurpateurs, ainsi que des adeptes des arts obscurs. ("Les Wachter ont toujours été connus pour frayer avec des vampires et des démons," ricane-t-il. "Je suppose qu'il n'est pas surprenant qu'ils s'abaissent à fréquenter de la vermine comme vous.")
 
+Tandis que la conversation se poursuit, Vargas lance un ultimatum aux joueurs : "Déposez vos armes et vos instruments de sorcellerie," crache-t-il, bredouillant sous l'effet de l'alcool, "et faites face à la justice du Baron."
 
+Les joueurs peuvent convaincre Vargas et ses gardes de reculer en formulant une menace convaincante et en réussissant un test de Charisme (Intimidation) DD 15, ou en présentant un bon argument et en réussissant un test de Charisme (Persuasion) DD 20. Vargas (utilisez les statistiques d'un **noble** empoisonné) et les gardes attaquent en cas d'échec, ou s'ils sont provoqués ou attaqués.
+## R2b. Le Seigneur de Barovia
 
-Au fil de la conversation, Vargas délivre aux joueurs un ultimatum : "Déposez vos armes et vos outils de sorcières," crache-t-il, bredouillant d'ivresse, "et affrontez la justice du Baron." 
-
-Les joueurs peuvent convaincre Vargas et ses gardes de reculer en faisant une menace convaincante et en réussissant un jet de Charisme (Intimidation) de DD 15, ou en avançant un bon argument et en réussissant un jet de Charisme (Persuasion) de DD 20. Vargas (utilisez les statistiques d'un noble empoisonné) et les gardes attaquent en cas d'échec, ou s'ils sont provoqués ou attaqués.
-
-Au 10e rang d'initiative du premier round de combat, ou peu après que les joueurs aient convaincu Vargas et ses gardes de reculer, Strahd von Zarovich descend sur le carrefour. (Si les joueurs ne rencontrent pas Vargas dans [[#R2a. La Vengeance du Baron]], Strahd arrive immédiatement lorsque les joueurs atteignent le carrefour.)
-
-
+> [!info]+ **Le Tyran**
+> Au début de cet arc, la personnalité de Strahd passe du Gentleman au Tyran. Consultez [[Strahd von Zarovich]] pour plus d'informations sur l'interprétation du Tyran.
+### La Descente de Strahd
+Au compte d'initiative 10 du premier round de combat, ou peu après que les joueurs aient convaincu Vargas et ses gardes de reculer, Strahd von Zarovich descend sur le carrefour. (Si les joueurs ne rencontrent pas Vargas dans [[#R2a. La Vengeance du Baron]], Strahd arrive immédiatement quand les joueurs atteignent le carrefour.) Lisez :
 
 <div class="description">
-<p>Le nuage noir tourbillonne et tournoie, l'essaim se rassemblant lentement jusqu'à ce qu'une silhouette unique prenne forme dans ses profondeurs. Des yeux rouges brillent dans l'obscurité, tandis que les ombres se rassemblent pour former deux épaulières étincelantes sur les épaules de la silhouette, vêtue d'une épaisse peau de fourrure, d'une riche tunique cramoisie et d'un manteau bleu nuit qui fouette sauvagement dans le vent frénétique.</p>
-<p>"De toute évidence, la prouesse de Rahadin était insuffisante pour traiter votre insolence", grogne la silhouette. "Ainsi, je ne vous sous-estimerai plus."</p>
-<p>Il est grand et émacié, avec une peau pâle et une haute raie de cheveux. Une épée longue polie est rangée dans son fourreau sur le côté, ses longues griffes élégantes soigneusement drapées sur la garde. Son expression sombre semble taillée dans la pierre elle-même, et lorsque son regard cramoisi tombe sur vous, la température de la clairière semble chuter à un froid glacial.</p>
-<p>"Lors de notre dernière rencontre, je vous ai informés que je pouvais être un hôte généreux - mais un ennemi beaucoup moins courtois." Sa moue coupe les coins de sa bouche comme un couteau, ses sourcils sombres fronçant son front dans une froide expression renfrognée. "Cependant, il semble que mes paroles n'aient pas porté leurs fruits. Permettez-moi donc de me représenter.</p>
-<p>"Je suis Strahd – seigneur de Barovia et maître de Ravenloft." Ses griffes se resserrent autour de la garde de son épée, et ses yeux brûlent comme des braises ardentes. "Vous avez volé des objets qui ne sont <em>pas</em> les vôtres à posséder. Bien que vous le regrettiez, vous avez désormais mon <em>attention pleine et entière</em>."</p>
+<p>Le tonnerre gronde au loin, et le ciel au-dessus commence à s'agiter. Les nuages gris s'assombrissent jusqu'à devenir d'un noir huileux, et un vent strident hurle à travers les arbres.</p>
 </div>
 
+Donnez aux joueurs un moment pour réagir. Puis continuez :
+
+<div class="description">
+<p>D'un mouvement rapide et courbe, l'un des nuages les plus bas et les plus noirs commence à descendre vers le sol. Mais alors qu'il plonge vers la terre, il devient évident qu'il ne s'agit pas d'un nuage du tout, mais d'un essaim de milliers de chauves-souris stridentes et criardes.</p>
+</div>
+
+Donnez aux joueurs un autre moment pour réagir. Ensuite, si les joueurs combattaient Vargas et ses gardes, ajoutez :
+
+<div class="description">
+<p>L'essaim descend sur le Baron et ses gardes restants, les minuscules griffes et dents des chauves-souris mordant, déchirant, arrachant. Des cris terrifiés et agonisants résonnent dans l'air tandis que le nuage noir devient partiellement rouge, les Vallakiens mourants tachant les crocs de l'essaim d'un écarlate sanglant. En quelques secondes, il ne reste plus que des os et quelques lambeaux de tissu sur la terre ensanglantée.</p>
+</div>
+
+Alternativement, si les joueurs ont convaincu avec succès Vargas et ses gardes de reculer, lisez :
+
+<div class="description">
+<p>Le Baron pousse un cri de terreur, trébuche et tombe sur son séant tandis que les essaims descendent vers la terre boueuse. Respirant lourdement et avec effort, lui et ses gardes font demi-tour et s'enfuient, se précipitant vers la lisière de la forêt aussi vite que leurs jambes peuvent les porter.</p>
+</div>
+
+Que Vargas soit présent ou non, et qu'il meure ou s'enfuie, continuez :
+
+<div class="description">
+<p>Le nuage noir tournoie et tourbillonne, l'essaim se rassemblant lentement jusqu'à ce qu'une silhouette unique prenne forme en ses profondeurs. Des yeux rouges brillent dans l'obscurité, tandis que les ombres se regroupent pour former deux épaulières luisantes sur les épaules de la silhouette, revêtue d'un épais manteau de fourrure, d'une riche tunique cramoisie et d'une cape bleu nuit qui claque violemment dans le vent frénétique.</p>
+<p>"Manifestement, les prouesses de Rahadin ont été insuffisantes pour faire face à votre insolence," gronde la silhouette. "Ainsi, je ne vous sous-estimerai plus."</p>
+<p>Il est grand et décharné, avec une peau pâle et une haute veuve. Une épée longue polie repose dans son fourreau à son côté, ses longues griffes élégantes posées délicatement sur sa garde. Son expression sombre semble taillée dans la pierre même, et lorsque son regard cramoisi se pose sur vous, la température de la clairière semble chuter jusqu'à un froid glacial.</p>
+<p>"Lors de notre dernière rencontre, je vous ai informé que je pouvais être un hôte gracieux—mais un ennemi bien moins clément." Son froncement de sourcils entaille les coins de sa bouche comme un couteau, ses sourcils sombres plissant son front en un froncement profond et froid. "Il semble, cependant, que mes paroles n'aient pas pris racine. Permettez-moi, donc, de me présenter à nouveau.</p>
+<p>"Je suis Strahd—seigneur de Barovia et maître de Ravenloft." Ses griffes se resserrent autour de la garde de son épée, et ses yeux brûlent comme des charbons ardents. "Vous avez volé des objets qui <em>ne</em> vous appartiennent pas. Bien que vous puissiez le regretter, vous avez maintenant toute <em>mon attention.</em>"</p>
+</div>
 ### Le défi de Strahd
-Au fil de la conversation, Strahd avertit les joueurs qu'ils ont "envahi sa demeure, attaqué ses serviteurs et volé ses possessions", notant dans un grognement, qu'ils "ont répandu le sang sur les pierres du château Ravenloft lui-même". "Dites-moi", ajoute-t-il, son poing se resserrant autour de la garde de son épée longue, "si je ne serais pas justifié de verser le sang aujourd'hui pour réparer ce tort."
+Alors que la conversation se déroule, Strahd avertit les joueurs qu'ils ont "envahi sa demeure, attaqué ses serviteurs et volé ses possessions," notant avec un grognement qu'ils "ont fait couler le sang sur les pierres du Château Ravenloft lui-même." "Dites-moi," ajoute-t-il, son poing se resserrant sur la garde de son épée longue, "si je ne serais pas justifié de faire couler le sang aujourd'hui pour réparer ce tort."
 
-Finalement, Strahd propose aux joueurs un ultimatum : "Je vous invite à donner une seule raison pour laquelle je ne devrais pas mettre fin à vos vies aujourd'hui." Comme sa lèvre se retrousse, il ajoute : "Et pour votre bien, j'espère que ce sera une bonne raison."  
+Finalement, Strahd lance un ultimatum aux joueurs : "Je vous invite à me donner une seule raison pour laquelle je ne devrais pas mettre fin à vos vies aujourd'hui." Alors que sa lèvre se retrousse, il ajoute : "Et pour votre bien, j'espère que ce sera une bonne raison."
 
-Pendant que les joueurs tentent de convaincre Strahd d'épargner leurs vies, placez secrètement un dé à douze faces (le **dé de persuasion**) sur la table, hors de la vue des joueurs. Réglez la valeur de départ du dé à six.
+Pendant que les joueurs tentent de convaincre Strahd de les épargner, placez secrètement un dé à douze faces (le **dé de persuasion**) sur la table hors de la vue des joueurs. Réglez la valeur initiale du dé à six.
 
 Augmentez la valeur du dé comme suit :
 
-* Augmentez la valeur du dé de six si les joueurs offrent d'accomplir une tâche ou un service au choix de Strahd. (Si les joueurs le font, mais que la valeur du dé reste inférieure à douze, Strahd note son intérêt pour l'offre des joueurs, mais avoue sa réticence à "les laisser partir si facilement" et demande si, en plus de leur vœu, ils ont "d'autres raisons valant la peine d'y consacrer son temps". Si le dé de persuasion atteint ensuite douze, Strahd fournit ses conditions comme décrit dans ***Succès*** ci-dessous.)
-* Augmentez la valeur du dé de cinq si les joueurs font appel au besoin de divertissement de Strahd (par exemple, en arguant que leur souffrance a plus de valeur pour lui que leur mort rapide) et réussissent un test de Charisme (Persuasion) difficulté 15, ou de trois en cas d'échec.
-* Augmentez la valeur du dé de cinq si les joueurs soulignent que Strahd les a intentionnellement attirés au château pour secourir Gertruda et réussissent un test de Charisme (Persuasion) difficulté 15, ou de trois en cas d'échec.
-* Augmentez la valeur du dé de trois si les joueurs offrent de rendre ce qui a été volé et réussissent un test de Charisme (Persuasion) difficulté 15, ou d'un en cas d'échec.
-* Augmentez la valeur du dé de trois si les joueurs arguent qu'ils ont "éliminé les faibles" dans ses rangs en tuant des serviteurs trop faibles pour bien le servir (par exemple, les Épouses) et réussissent un test de Charisme (Persuasion) difficulté 15, ou d'un en cas d'échec.
-* Augmentez la valeur du dé de trois si les joueurs font appel au besoin de défi de Strahd (par exemple, en arguant qu'ils pourraient un jour devenir des adversaires dignes de lui) et réussissent un test de Charisme (Persuasion) difficulté 15, ou d'un en cas d'échec.
-* Augmentez la valeur du dé de six si les joueurs avancent tout autre excellent argument et réussissent un test de Charisme (Persuasion) difficulté 15, ou de trois en cas d'échec.
-* Augmentez la valeur du dé de trois si les joueurs avancent tout autre bon argument et réussissent un test de Charisme (Persuasion) difficulté 15, ou d'un en cas d'échec.
-* Gardez la valeur actuelle du dé si les joueurs offrent de remettre Ireena à Strahd. ("Vous ne pouvez pas négocier ce qui est déjà mien", note Strahd. "Je peux la prendre quand bon me semble. Elle restera libre tant que cela me plaira, et je la prendrai quand cela me plaira - avec ou sans votre consentement.")
-* Gardez la valeur actuelle du dé si les joueurs avancent tout autre argument peu susceptible de convaincre ou de mettre Strahd en colère.
-* Diminuez la valeur du dé de six si les joueurs s'humilient devant Strahd et, à son invitation, réussissent un test de Charisme (Représentation) difficulté 15. ("Si vous souhaitez ramper comme un autre ver dans ma terre", intone froidement Strahd, "alors *rampez*.") (La valeur du dé diminue car Strahd est dégoûté par les démonstrations de faiblesse.) Que le test réussisse ou échoue, Strahd répond, avec dégoût, que "la ligne entre naïveté et espoir est presque invisible".
-* Diminuez la valeur du dé de quatre si les joueurs arguent que leur invasion du château Ravenloft était pour le bien de Barovia, ou tentent d'autre manière de faire appel à la meilleure nature de Strahd. ("Vous vous oubliez", dit doucement Strahd. "Ne suis-je pas le seigneur de Barovia, le maître du château Ravenloft et le protecteur des montagnes Balinok ? Pourtant, vous prétendez avoir envahi *ma* demeure pour le bien de *mes* sujets - une présomption que je n'ai ni demandée ni tolérée. Les yeux de Strahd se plissent tandis qu'il ajoute : "Le sort de Barovia est à moi de décider, pas le vôtre".
-* Diminuez la valeur du dé de quatre si les joueurs insultent Strahd ou le menacent d'une autre manière. ("Attention", dit doucement Strahd. "Quand vous vous trouvez dans l'ombre du loup, vous ne lui demandez pas de montrer les crocs - à moins que vous ne vouliez sentir sa morsure.")
-* Diminuez la valeur du dé de quatre si les joueurs avancent tout autre mauvais argument, ou agissent d'une autre manière susceptible de mettre Strahd en colère ou de le dégoûter.
+* Augmentez la valeur du dé de six si les joueurs offrent d'accomplir une tâche ou un service au choix de Strahd. (Si les joueurs le font, mais que la valeur du dé reste inférieure à douze, Strahd note son intérêt pour l'offre des joueurs, mais avoue sa réticence à "les laisser s'en tirer si facilement", et demande si, en plus de leur promesse, ils ont "d'autres raisons qui valent son temps". Si le dé de persuasion atteint ensuite douze, Strahd présente ses conditions comme décrit dans ***Succès*** ci-dessous.)
+* Augmentez la valeur du dé de cinq si les joueurs font appel au besoin de divertissement de Strahd (par exemple, en argumentant que leur souffrance vaut plus pour lui que leur mort rapide) et réussissent un jet de Charisme (Persuasion) DD 15, ou de trois si le jet échoue.
+* Augmentez la valeur du dé de cinq si les joueurs soulignent que Strahd a intentionnellement attiré les joueurs au château pour sauver Gertruda et réussissent un jet de Charisme (Persuasion) DD 15, ou de trois si le jet échoue.
+* Augmentez la valeur du dé de trois si les joueurs offrent de restituer ce qui a été volé et réussissent un jet de Charisme (Persuasion) DD 15, ou d'un si le jet échoue.
+* Augmentez la valeur du dé de trois si les joueurs argumentent qu'ils ont "éliminé les faibles" dans ses rangs en tuant des serviteurs trop faibles pour bien le servir (par exemple, les Épouses) et réussissent un jet de Charisme (Persuasion) DD 15, ou d'un si le jet échoue.
+* Augmentez la valeur du dé de trois si les joueurs font appel au besoin de défi de Strahd (par exemple, en argumentant qu'ils pourraient un jour devenir des adversaires dignes de lui) et réussissent un jet de Charisme (Persuasion) DD 15, ou d'un si le jet échoue.
+* Augmentez la valeur du dé de six si les joueurs présentent tout autre argument excellent et réussissent un jet de Charisme (Persuasion) DD 15, ou de trois si le jet échoue.
+* Augmentez la valeur du dé de trois si les joueurs présentent tout autre bon argument et réussissent un jet de Charisme (Persuasion) DD 15, ou d'un si le jet échoue.
+* Conservez la valeur actuelle du dé si les joueurs offrent de livrer Ireena à Strahd. ("Vous ne pouvez pas échanger ce qui m'appartient déjà", note Strahd. "Je peux la prendre quand et comme je le souhaite. Elle marchera libre tant que cela me plaira, et je la prendrai quand cela me plaira — avec ou sans votre consentement.")
+* Conservez la valeur actuelle du dé si les joueurs présentent tout autre argument peu susceptible de convaincre ou d'irriter Strahd.
+* Diminuez la valeur du dé de six si les joueurs s'humilient devant Strahd et, à son invitation, réussissent un jet de Charisme (Représentation) DD 15. ("Si vous souhaitez ramper comme un autre ver dans ma terre", entonne froidement Strahd, "alors *rampez*.") (La valeur du dé diminue car Strahd est dégoûté par les démonstrations de faiblesse.) Que le jet réussisse ou échoue, Strahd répond, avec dégoût, que "la frontière entre naïveté et espoir est presque invisible."^[Inspiré par Jorge Rivera-Herrans, *Ruthlessness*, EPIC: The Ocean Saga.]
+* Diminuez la valeur du dé de quatre si les joueurs argumentent que leur invasion du Château Ravenloft était pour le bien de Barovia, ou tentent autrement de faire appel à la bonne nature de Strahd. ("Vous vous oubliez", dit doucement Strahd. "Ne suis-je pas le seigneur de Barovia, maître du Château Ravenloft et protecteur des Montagnes Balinok ? Pourtant, vous prétendez avoir envahi *ma* demeure pour le bien de *mes* sujets — une présomption que je n'ai ni demandée ni ne tolère." Les yeux de Strahd se rétrécissent tandis qu'il ajoute : "Le destin de Barovia est à moi de décider, pas à vous."
+* Diminuez la valeur du dé de quatre si les joueurs insultent Strahd ou le menacent. ("Attention", dit doucement Strahd. "Quand vous êtes dans l'ombre du loup, vous ne lui demandez pas de montrer ses dents — à moins que vous ne souhaitiez sentir sa morsure.")
+* Diminuez la valeur du dé de quatre si les joueurs présentent tout autre argument médiocre, ou agissent d'une manière susceptible d'irriter ou de dégoûter Strahd.
 
+> [!warning]+ **Utilisez l'Opinion Majoritaire**
+> Pour éviter de permettre à des joueurs individuels de réussir ou d'échouer à convaincre Strahd en avançant des arguments que les autres joueurs ne soutiennent pas, n'incrémentez ou ne décrémentez le dé de persuasion que pour un argument ou un comportement approuvé par une majorité des joueurs (arrondie au supérieur). (Si un joueur reste silencieux, supposez qu'il approuve l'argument ou la conduite du joueur actif.)
 
+Chaque fois que la valeur du dé de persuasion augmente, un joueur avec un score passif de Sagesse (Perspicacité) de 10 ou plus remarque que Strahd semble prendre plus au sérieux les arguments des joueurs. Chaque fois que la valeur du dé de persuasion diminue, un joueur avec un score passif de Sagesse (Perspicacité) de 10 ou plus remarque que l'expression de Strahd se durcit, ses réponses devenant de plus en plus brèves et impatientes.
 
-> [!avertissement]+ **Utilisez l'Opinion Majoritaire**
-> Pour éviter qu'un seul joueur ne réussisse ou ne rate à convaincre Strahd en avançant des arguments que les autres joueurs ne soutiennent pas, n'incrémentez ou ne décrémentez le dé de persuasion que pour un argument ou un comportement approuvé par la majorité des joueurs (arrondi à la hausse). (Si un joueur reste silencieux, supposez qu'il approuve l'argument ou la conduite du joueur actif.)
+Chaque fois que les joueurs présentent un bon argument, mais ne parviennent pas à amener le dé de persuasion à douze, Strahd concède le point, mais fait un commentaire indiquant que la dette des joueurs envers lui n'est toujours pas acquittée, ou que la sévérité de la punition ne correspond pas encore à leur crime.
 
-Chaque fois que la valeur du dé de persuasion augmente, un joueur avec un score de Sagesse (Perspicacité) passif de 10 ou plus remarque que Strahd semble prendre les arguments des joueurs plus au sérieux. Chaque fois que la valeur du dé de persuasion diminue, un joueur avec un score de Sagesse (Perspicacité) passif de 10 ou plus remarque que l'expression de Strahd se durcit, ses réponses devenant de plus en plus brèves et impatientes.
+***Réussite.*** Si le dé de persuasion atteint douze, les joueurs convainquent Strahd de les épargner—pour l'instant. En plus de tout autre arrangement conclu pendant la conversation, Strahd informe les joueurs qu'il aura besoin de nouveaux serviteurs pour remplacer ceux qu'il a perdus lors du raid des joueurs. "Pourtant, je n'accepte pas la faiblesse dans mes rangs," dit-il. "Pour discerner lesquels d'entre vous sont dignes de rejoindre ma cour, vous devez être mis à l'épreuve—car ce n'est qu'au milieu du sang et du feu que le bon grain sera séparé de l'ivraie."
 
-Chaque fois que les joueurs avancent un bon argument, mais n'arrivent pas à porter le dé de persuasion à douze, Strahd concède le point, mais fait un commentaire indiquant que la dette des joueurs envers lui n'est pas encore réglée, ou que la sévérité de la punition ne correspond pas encore à leur crime.
+Si les joueurs ont offert d'accomplir une tâche au choix de Strahd, celui-ci sort de son gilet une dague cérémonielle noire ornée, sa poignée incrustée d'une paire de rubis, et demande à chaque joueur de s'entailler la chair avec. "Un gage de notre arrangement," dit-il doucement, "afin que je puisse... garder la trace de sujets aussi intéressants." Si les joueurs refusent de le faire, passez à ***Échec*** ci-dessous. Sinon, une fois que tous les joueurs ont versé leur sang sur la dague, Strahd la replace délicatement dans son gilet et les remercie pour leur "considération." (Il utilise ensuite la dague comme focus pour son sort de *scrutation*, comme décrit dans [[#R3b. La Première Épreuve du Tyran]] ci-dessous.
 
-***Succès.*** Si le dé de persuasion atteint douze, les joueurs convainquent avec succès Strahd de les épargner - pour l'instant. En plus de tout autre accommodement atteint pendant la conversation, Strahd informe les joueurs qu'il aura besoin de nouveaux serviteurs pour remplacer ceux qu'il a perdus lors du raid des joueurs. "Pourtant, je n'accepte pas la faiblesse dans mes rangs", dit-il. "Pour discerner lesquels d'entre vous sont dignes de rejoindre ma cour, vous devez être mis à l'épreuve - car ce n'est que parmi le sang et le feu que le bon grain sera séparé de l'ivraie."
+Avant de partir, Strahd informe les joueurs qu'il "les verra à la tombée de la nuit—et chaque nuit suivante." Sa forme se transforme alors en un essaim de milliers de chauves-souris, qui s'élèvent dans le ciel et volent vers le Château Ravenloft à l'est.
 
-Si les joueurs ont proposé d'accomplir une tâche au choix de Strahd, ce dernier sort une dague cérémonielle noire ouvragée de son gilet, avec un pommeau serti de deux rubis, et demande à chaque joueur d'entailler sa chair avec. "Un gage de notre arrangement", dit-il doucement, "afin que je puisse... suivre la trace de sujets aussi intéressants." Si les joueurs refusent, passez à ***Échec*** ci-dessous. Sinon, une fois que tous les joueurs ont saigné sur la dague, Strahd la range délicatement dans son gilet et les remercie pour leur "considération". (Il utilise ensuite la dague comme focalisateur pour son sort de *clairvoyance*, comme décrit dans [[#R3b. L'Épreuve Initiale du Tyran]] ci-dessous.
+***Échec.*** Si le dé de persuasion atteint un, les joueurs ne parviennent pas à convaincre Strahd de les épargner. Strahd exige que les joueurs paient pour leurs crimes contre le Château Ravenloft en subissant les mêmes blessures qu'ils ont infligées à son trône. "Je suis la Terre," entonne-t-il, "et il est de mon devoir solennel de rendre justice. Pour le sang que vous avez versé, du sang sera versé de vous. Pour l'or que vous avez pris, de l'or vous sera pris. Et pour le feu que vous avez apporté à ma demeure, le feu sera apporté à la vôtre." (Si les joueurs demandent, Strahd explique que le "sang" doit être payé sous forme d'une vie, "l'or" doit être payé sous forme de richesses ou de pouvoir, et le "feu" doit être payé sous forme de destruction.)
 
-Avant de partir, Strahd informe les joueurs qu'il "les verra à la tombée de la nuit - et chaque nuit suivante". Sa forme explose alors en un essaim de milliers de chauves-souris qui s'élèvent dans le ciel et volent vers le château de Ravenloft à l'est.
+Strahd invite les joueurs à nommer le "sang", la "richesse" et le "feu" qui constitueront leur punition. (Si les joueurs protestent contre les pénalités de sang et de feu de Strahd, il répond froidement : "Quelqu'un doit mourir aujourd'hui. Dans ma miséricorde, je vous ai donné la décision finale. Choisissez—ou je choisirai pour vous.")^[Inspiré par Jorge Rivera-Herrans, *Thunder Bringer (feat. Luke Holt et Armando Julián)*, EPIC: The Thunder Saga.]
 
-***Échec.*** Si le dé de persuasion atteint un, les joueurs échouent à convaincre Strahd de les épargner. Strahd exige que les joueurs paient pour leurs crimes contre le château de Ravenloft en subissant les mêmes blessures qu'ils ont infligées à son trône. "Je suis la Terre", intone-t-il, "et c'est mon devoir solennel de rendre la justice. Pour le sang que vous avez versé, du sang vous sera pris. Pour l'or que vous avez pris, de l'or vous sera pris. Et pour le feu que vous avez apporté à ma demeure, le feu sera apporté à la vôtre." (Si les joueurs demandent, Strahd explique que le "sang" doit être payé sous la forme d'une vie, l'"or" doit être payé sous la forme de richesses ou de pouvoir, et le "feu" doit être payé sous la forme de destruction.)
+Strahd est prêt à accepter n'importe laquelle des pénalités suivantes, ainsi que toute autre de sévérité similaire :
 
-Strahd invite les joueurs à nommer le "sang", la "richesse" et le "feu" qui formeront leur punition. (Si les joueurs protestent contre les pénalités de sang et de feu de Strahd, il répond froidement : "Quelqu'un doit mourir aujourd'hui. Dans ma miséricorde, je vous ai donné le choix final. Choisissez - ou je choisirai pour vous.")
+* **Sang.** En utilisant son épée longue, Strahd exécute un membre du groupe (excepté Ireena), un PNJ qui a aidé les joueurs à envahir Ravenloft, ou un PNJ qui a directement bénéficié de l'invasion de Ravenloft par les joueurs. (Strahd n'acceptera pas le sacrifice d'un autre personnage, ni n'utilisera d'autres moyens pour exécuter la victime choisie.) Si le sacrifice choisi n'est pas présent au carrefour, Strahd le trouve et l'exécute après son départ.
+* **Or.** Strahd prend un objet magique non consommable de valeur Rare ou supérieure du groupe, comme le *Symbole Sacré de Corvenkind* ou l'*épée à deux mains +2* de Vladimir Horngaard. (Si aucun membre du groupe n'utilise actuellement ou n'est harmonisé avec l'objet, ils doivent réussir un jet de Charisme (Tromperie) DD 19 pour convaincre Strahd de sa valeur.)
+* **Feu.** Strahd détruit l'Auberge de l'Eau Bleue, le manoir du bourgmestre barovien, ou tout autre endroit de Barovia que les joueurs considèrent comme leur "foyer". (Strahd détruit le lieu choisi après avoir quitté le carrefour. Les joueurs qui visitent ensuite le lieu choisi découvrent les conséquences de l'attaque de Strahd, qui a détruit toutes les structures et blessé tous les habitants.)
 
-Strahd est prêt à accepter l'une des pénalités suivantes, ainsi que toute autre pénalité de sévérité similaire :
+Si les joueurs refusent de nommer une pénalité, ou s'ils ne parviennent pas à nommer des pénalités suffisamment sévères, Strahd impose ses propres pénalités de la liste ci-dessus.
 
+Si les joueurs acceptent que Strahd tue un membre du groupe en supposant qu'ils utiliseront les plumes de l'Abbé ou d'autres moyens pour ressusciter la victime, Strahd note que le groupe a accepté un sacrifice "avec une rapidité intrigante" et les invite à justifier la sévérité de leur choix, "de peur qu'il ne juge cette punition insuffisante". Pour convaincre Strahd d'accepter leur choix, les joueurs doivent justifier sa suffisance et réussir un jet de Charisme (Tromperie) DD 19. En cas d'échec, Strahd tue la victime choisie et une cible supplémentaire de son choix, préférant un PNJ qui a aidé les joueurs à envahir Ravenloft ou qui a directement bénéficié du raid.
 
+Si l'un des joueurs l'attaque ou tente de l'empêcher d'appliquer ses sanctions, Strahd attaque ces joueurs et continue jusqu'à ce que les joueurs récalcitrants soient tous morts ou se soient échappés. (Strahd n'accepte pas la reddition de ces joueurs.) Au combat, Strahd commence dans sa phase Soldat, plutôt que sa phase Mage, et n'assume sa phase Vampire qu'une fois que ses phases Soldat et Mage ont été réduites à 0 point de vie.
 
-* **Sang.** Utilisant son épée longue, Strahd exécute un membre du groupe (excepté Ireena), un PNJ qui a aidé les joueurs à envahir Ravenloft ou un PNJ qui a directement bénéficié de l'invasion de Ravenloft par les joueurs. (Strahd n'acceptera pas le sacrifice d'un autre personnage, ni n'utilisera d'autres moyens pour exécuter la victime choisie.) Si le sacrifice choisi n'est pas présent à la croisée des chemins, Strahd le trouve et l'exécute après son départ.
-* **Or.** Strahd prend un objet magique non consommable de valeur Rare ou supérieure du groupe, comme le *Symbole Sacré de Ravenkind* ou la *Grande Épée +2* de Vladimir Horngaard. (Si aucun membre du groupe n'utilise ou n'est lié à l'objet, ils doivent réussir un jet de Charisme (Tromperie) DD 19 pour convaincre Strahd de sa valeur.)
-* **Feu.** Strahd détruit l'Auberge de l'Eau Bleue, la demeure du bourgmestre barovien ou tout autre endroit de Barovia que les joueurs considèrent comme "chez eux". (Strahd détruit l'endroit choisi après avoir quitté la croisée des chemins. Les joueurs qui visitent par la suite l'endroit choisi trouvent les conséquences de l'attaque de Strahd, qui a détruit toutes les structures et blessé les habitants.)
-
-Si les joueurs refusent de nommer une pénalité ou s'ils ne parviennent pas à nommer des pénalités d'une sévérité suffisante, Strahd nomme ses propres pénalités à partir de la liste ci-dessus.
-
-Si les joueurs acceptent que Strahd tue un membre du groupe dans l'hypothèse qu'ils utiliseront les plumes de l'Abbé ou d'autres moyens pour ressusciter la victime, Strahd note que le groupe a accepté un sacrifice "intrigamment rapide" et les invite à justifier la sévérité de leur choix, "de peur qu'il ne décide que cette punition est insuffisante". Pour convaincre Strahd d'accepter leur choix, les joueurs doivent justifier son caractère suffisant et réussir un jet de Charisme (Tromperie) DD 19. En cas d'échec, Strahd tue la victime choisie et une cible supplémentaire de son choix, préférant un PNJ qui a aidé les joueurs à envahir Ravenloft ou qui a directement bénéficié du raid.
-
-Si l'un des joueurs l'attaque ou tente de l'empêcher de prononcer ses pénalités, Strahd attaque ces joueurs et continue jusqu'à ce que les joueurs récalcitrants soient tous morts ou aient fui. (Strahd n'accepte pas leur reddition.) Au combat, Strahd commence dans sa phase Soldat, plutôt que dans sa phase Mage, et n'adopte sa phase Vampire que lorsque ses phases Soldat et Mage ont été réduites à 0 point de vie.
-
-Avant de partir, que les joueurs nomment ou non des pénalités suffisantes, Strahd les informe qu'ils ont "usé sa patience jusqu'à la corde". "Votre audace m'amusait autrefois", ajoute-t-il, "mais le fil de vos vies s'amenuise". Il informe les joueurs qu'il aura besoin de nouveaux serviteurs pour remplacer ceux qu'il a perdus lors de leur raid ; dans ce but, il leur rendra visite chaque nuit pour voir lesquels d'entre eux sont dignes d'une place dans sa cour et lesquels "ne sont dignes que d'une place parmi mes légions - ou les vers qui se tordent dans la terre". Sa forme éclate alors en un essaim de milliers de chauves-souris, qui s'élèvent dans le ciel et volent vers le château de Ravenloft à l'est.
-
-(Pendant [[Arc O - Dîner avec le Diable]], Strahd a demandé à Escher de croquer une représentation de chaque personnage présent, lui fournissant ainsi une image d'eux à des fins d'observation)
->* ***Partie du Corps.*** Augmentez la priorité d'un personnage de 10 si Strahd ou l'un de ses espions a précédemment obtenu une partie du corps, une mèche de cheveux ou un bout d'ongle de ce joueur (à des fins d'observation).
+> [!info] **Actions de repaire des Fanes**
+> À l'extérieur, si les joueurs n'ont pas encore désacralisé les Fanes, Strahd peut effectuer des actions de repaire tant qu'il n'est pas neutralisé.
+> 
+> Au compte d'initiative 20 (perdant les égalités d'initiative), Strahd peut choisir l'une des options d'action de repaire suivantes, ou renoncer à les utiliser pour ce tour :
 >
->(Par exemple, un barbare avec un faible score de Sagesse qui a à la fois rencontré Escher et partagé des informations personnelles importantes sur lui-même dans [[Arc O - Dîner avec le Diable]] aurait une priorité de 13 et une pénalité d'observation cumulative de 7. En revanche, un clerc avec un score de Sagesse élevé qui a rencontré Escher mais n'a partagé que peu d'informations avec Strahd aurait une priorité de 2 et une pénalité d'observation cumulative de 2.)
+> ***Croissance végétale (nécessite la Fane de la Forêt, phase Soldat uniquement).*** Strahd lance *croissance végétale* sans composantes ni concentration.
 >
->Si l'observation est réussie, Strahd peut immédiatement identifier les emplacements suivants:
->* ***Vallaki.*** L'Auberge de l'Eau Bleue, l'église St. Andral, Wachterhaus, le manoir du Baron, et le campement vistani et nain des ténèbres.
->* ***Krezk.*** Le cottage du Baron, le Sanctuaire du Soleil Blanc et l'Abbaye de Ste. Markovia.
->* ***Barovia.*** L'église et le manoir du Bourgmestre.
->* ***Forêt de Svalich.*** Chutes Tser, Vieux Broyeur d'Os, Lac Zarovich, Lac Baratok, Argynvostholt, la tanière des loups-garous, le Magicien des Vins, Colline d'Antan.
+> ***Courroux de la nature (nécessite la Fane de la Forêt, phase Soldat uniquement).*** Strahd lance *courroux de la nature* sans composantes ni concentration. Lorsqu'il le lance de cette façon, Strahd ne peut pas utiliser l'effet ***rochers*** du sort.
 >
->Même si Strahd ne peut pas identifier immédiatement l'endroit spécifique où se trouvent les joueurs, il peut identifier la région (par ex. la ville de Vallaki) en inspectant leurs environs. Si le sort d'observation échoue (par ex. à cause du Drain de Sort de Khazan (p. 167) à la Tour de Van Richten), Strahd suppose qu'ils résident à la Tour de Van Richten.
+> ***Contrôle de l'eau (nécessite la Fane du Marécage, phase Mage uniquement).*** Strahd lance ou utilise *contrôle de l'eau* sans composantes ni concentration.
 >
->Qu'il connaisse ou non l'emplacement spécifique des joueurs, Strahd utilise alors le brasier de téléportation dans [[Arc P - Cambriolage de Ravenloft#P11e. Salle du Brasier|P11e. Salle du Brasier]] pour se téléporter à l'endroit le plus proche de leur position actuelle. Une fois arrivé, s'il ne connaît pas leur emplacement précis, il invoque vingt **loups**, vingt **nuées de chauves-souris** et/ou vingt **nuées de rats** et leur ordonne d'explorer la zone (par deux) pour déterminer l'emplacement exact des joueurs. Strahd apprend leur position si au moins un espion peut la lui rapporter.
->
->Si les joueurs se trouvent dans une structure artificielle permanente (par ex. la tour du Lac Barok) ou un lieu habité (par ex. la tanière des loups-garous), passez à [[#La Salutation de Strahd]] ci-dessous. Sinon, passez directement à [[#Le Jeu de Strahd]].
+> ***Nappe de brouillard (nécessite la Fane du Marécage, phase Mage uniquement).*** Strahd lance *nappe de brouillard* au niveau 5 sans composantes ni concentration. Tant que le brouillard persiste, Strahd possède la vision aveugle jusqu'à ses bords.
+> 
+> ***Changement de climat (nécessite la Fane de la Montagne, phase Vampire uniquement).*** Strahd lance *contrôle du climat* comme une action sans concentration ni composantes. Ce faisant, il peut modifier n'importe quel nombre de conditions météorologiques selon les stades indiqués.
+> 
+> ***Appel de la foudre (nécessite la Fane de la Montagne, phase Vampire uniquement).*** Strahd lance ou utilise *appel de la foudre* sans composantes ni concentration. Chaque fois qu'il lance des dégâts de foudre avec ce sort à l'extérieur pendant un orage, il inflige des dégâts maximaux, au lieu de lancer les dés.
 
+Avant de partir, que les joueurs proposent suffisamment de pénalités ou non, Strahd les informe qu'ils ont "usé sa patience". "J'ai jadis trouvé votre audace amusante," ajoute-t-il, "mais le fil de vos vies s'amincit." Il informe les joueurs qu'il aura besoin de nouveaux serviteurs pour remplacer ceux qu'il a perdus lors de leur raid ; à cette fin, il leur rendra visite chaque nuit pour voir lesquels d'entre eux sont dignes d'une place dans sa cour et lesquels "ne méritent qu'une place parmi mes légions—ou les vers qui se tortillent dans la terre." Sa forme éclate alors en un essaim de milliers de chauves-souris, qui s'élèvent dans le ciel et volent vers le Château Ravenloft à l'est.
 
+> [!info]+ **Les Épreuves du Tyran**
+> À partir de ce moment, jusqu'à la fin de [[Arc T - Une Épée de Lumière Solaire]], Strahd rend visite aux joueurs chaque nuit pour les tourmenter, comme décrit dans [[#R3b. La Première Épreuve du Tyran]] et au-delà. Bien que la plupart des joueurs auront du mal à résister aux machinations de Strahd—et seront incapables de les empêcher jusqu'à ce qu'ils aient obtenu l'*Épée de Soleil* à la fin de [[Arc T - Une Épée de Lumière Solaire]]—des joueurs astucieux, ingénieux et (occasionnellement) impitoyables pourraient être capables d'empêcher Strahd d'entrer dans leur lieu de repos—ou, mieux encore, de les pister. (Voir [[#R3b. La Première Épreuve du Tyran]] pour plus d'informations sur la façon dont Strahd tente de le faire.)
+# R3. Ville de Vallaki
+## R3a. Achat de Vêtements pour Temps Froid
+Les joueurs peuvent acheter des vêtements pour temps froid au <span class="citation">N5. Entrepôt Arasek (p. 115)</span> au prix de 10 po par ensemble. Si c'est le cas, Gunther Arasek demande avec curiosité si les joueurs "prévoient un voyage à Krezk", ajoutant distraitement que l'hiver est "encore à un mois d'ici." (Gunther est simplement curieux, et essaie de faire la conversation. Si on lui dit que les joueurs prévoient de voyager au Mont Ghakis, il se moque et les avertit que "il n'y a rien sur ces pentes montagneuses que des barbares, de la glace et la mort.")
 
-> [!warning]+ **Renfort de Strahd**
-> Si Strahd est incapable de scruter un membre du groupe (par exemple, en raison d'un sort *non-détection* ou *sanctum privé*), il envoie ses espions à leur recherche. Il se rend ensuite dans les cieux au-dessus de Berez à dos de sa **cauchemar** Bucéphale, où il attend le retour de l'un de ses espions.
+> [!abstract]+ **Vêtements de Krezk**
+> Si les joueurs se sont liés d'amitié avec la famille Krezkov, ils peuvent également obtenir des ensembles de vêtements pour temps froid auprès des habitants de Krezk sans frais. ("Vous avez rendu un grand service à notre communauté," les assure Dmitri. "Notre famille vous est redevable à jamais, et je ne doute pas que nos voisins partageront volontiers ce qu'ils ont pour nous aider à vous rembourser.")
+## R3b. La Première Épreuve du Tyran
+> [!info]+ **Scrutation de Strahd**
+> Chaque nuit à la tombée de la nuit après [[#R2. La Descente du Tyran]], Strahd lance _scrutation_ (DD 19) dans le but de déterminer la position des joueurs.
+Quand il le fait, s'il croit qu'Ireena est avec le groupe, il la cible avec le sort.
+ Quand Strahd la scrute, Ireena a un malus cumulatif de -17 au jet de sauvegarde (-5 dû à la connaissance de Strahd à son sujet ; -2 dû à l'utilisation par Strahd du portrait de Tatyana dans <span class="citation">K37. L'Étude (p. 66)</span> ; et -10 dû à l'utilisation par Strahd d'une mèche de ses cheveux qu'il a prise dans [[Arc B - Bienvenue à Barovia]]).
 >
-> Sur l'ordre de Strahd, douze mille **chauves-souris** se dispersent à travers la Barovia, avec quatre chauves-souris fouillant chaque hexagone d'un quart de kilomètre carré indiqué sur la <span class="citation">Carte de Barovia (p. 33)</span>. Les chauves-souris assignées à l'hexagone des joueurs arrivent entre 1 et 2 heures après le début du repos long des joueurs, selon la proximité des joueurs avec le Château de Ravenloft. Si les chauves-souris peuvent observer de loin des preuves de la présence des joueurs (par exemple, un éclairage artificiel dans la Tour de Van Richten ou un joueur en faction à l'extérieur), elles signalent immédiatement leurs découvertes à Strahd à Berez.
+> Si Strahd croit qu'Ireena n'est pas avec le groupe, il scrute à la place le personnage ayant la plus grande priorité, comme indiqué ci-dessous :
 >
-> Sinon, toutes les 15 minutes après l'arrivée des chauves-souris, l'une des quatre chauves-souris s'approche du lieu de repos des joueurs pour l'inspecter. Si des joueurs montent la garde, la chauve-souris doit faire un jet de Dextérité (Discrétion) opposé aux scores de Sagesse (Perception) passifs des joueurs en faction, avec l'avantage si la chauve-souris est dissimulée par l'obscurité. En cas d'échec, les joueurs en faction remarquent la chauve-souris une fois qu'elle s'approche à moins de 18 mètres de leur position.
+> * ***Caractéristiques.*** Augmentez la priorité d'un personnage de 3 s'il semble avoir un faible score de Sagesse (c'est-à-dire une perception ou une perspicacité médiocre).
+> * ***Classe.*** Diminuez la priorité d'un personnage de 3 s'il est un paladin, sorcier, druide, barde, clerc ou autre classe avec un bonus aux jets de sauvegarde de Sagesse.
+> * ***Race.*** Diminuez la priorité d'un personnage de 4 s'il est un satyre, gnome, yuan-ti ou autre race avec un avantage aux jets de sauvegarde contre les effets magiques.
+> * ***Connaissance.*** Augmentez la priorité d'un personnage de 5 s'il a partagé des informations substantielles sur son histoire, ses objectifs, sa personnalité ou ses intérêts avec Strahd lors d'une rencontre précédente (c'est-à-dire fournir à Strahd une connaissance approfondie sur eux aux fins de *scrutation*).
+> * ***Apparence.*** Augmentez la priorité d'un personnage de 2 s'il a déjà rencontré Escher. (Durant [[Arc O - Dîner avec le Diable]], Strahd a demandé à Escher de dessiner un portrait de chaque personnage présent, lui fournissant ainsi une image d'eux pour les besoins du sort *scrutation*).
+> * ***Partie du corps.*** Augmentez la priorité d'un personnage de 10 si Strahd ou l'un de ses espions a précédemment obtenu une partie du corps, une mèche de cheveux ou un bout d'ongle de ce joueur (pour les besoins du sort *scrutation*).
 >
-> Si une chauve-souris détecte des preuves de la présence des joueurs ou se rend compte qu'elle a été remarquée, elle tente de s'enfuir vers Berez pour signaler ses découvertes à Strahd. Si les joueurs tentent de l'arrêter, menez la poursuite comme décrit dans <span class="citation">Poursuites (<em>Guide du Maître du donjon</em>, p. 252)</span>, mais sans complication de poursuite. (Les joueurs qui utilisent des moyens bruyants ou spectaculaires pour arrêter une des chauves-souris, comme un sort causant des dégâts de feu, de rayonnement ou de tonnerre, peuvent alerter les autres chauves-souris dans le même hexagone. Si c'est le cas, ces chauves-souris signalent immédiatement leur présence à Berez, plutôt que de poursuivre leur inspection.)
+> (Par exemple, un barbare avec un faible score de Sagesse qui a rencontré Escher et partagé des informations personnelles importantes lors de [[Arc O - Dîner avec le Diable]] aurait une priorité de 13 et une pénalité cumulative de _scrutation_ de 7. En revanche, un clerc avec un score de Sagesse élevé qui a rencontré Escher mais peu partagé sur lui-même avec Strahd aurait une priorité de 2 et une pénalité cumulative de _scrutation_ de 2.)
+> 
+> Si la scrutation est réussie, Strahd peut immédiatement identifier les lieux suivants :
+> * ***Vallaki.*** L'auberge de l'Eau Bleue, l'église St. Andral, la maison Wachter, le manoir du Baron, et le campement des Vistani et des elfes crépusculaires.
+> * ***Krezk.*** La chaumière du Baron, le Sanctuaire du Soleil Blanc, et l'Abbaye de St. Markovia
+> * ***Barovia.*** L'église et le manoir du Bourgmestre
+> * ***Bois de Svalich.*** Les chutes de Tser, Vieux Bonegrinder, le lac Zarovich, le lac Baratok, Argynvostholt, la tanière des loups-garous, le Vignoble des Mages, la Colline d'Hier
 >
-> Strahd chevauche Bucéphale jusqu'à l'endroit où se trouvent les joueurs dès qu'il apprend de ses espions chauves-souris que des preuves de leur présence y ont été repérées, arrivant au lieu de repos des joueurs environ 1 heure après le départ de la chauve-souris.
-### Salutations de Strahd
+> Même si Strahd ne peut pas immédiatement identifier l'emplacement spécifique où les joueurs séjournent, il peut immédiatement identifier la région où ils se trouvent (par exemple, la ville de Vallaki) en examinant leurs environs.
+Si le sort de scrutation échoue (par exemple, parce que les joueurs sont dissimulés par <span class="citation">le Drain de Sort de Khazan (p. 167)</span> à la Tour de Van Richten, Strahd suppose qu'ils résident à la Tour de Van Richten.
+>
+> Qu'il connaisse l'emplacement spécifique des joueurs ou non, Strahd utilise alors le brasero de téléportation dans [[Arc P - Raid sur Ravenloft#P11e. Salle du Brasero|P11e. Salle du Brasero]] pour se téléporter vers la zone la plus proche de l'emplacement actuel des joueurs.
+En arrivant, s'il ne connaît pas l'emplacement spécifique des joueurs, il invoque vingt **loups**, vingt **nuées de chauves-souris**, et/ou vingt **nuées de rats** et leur ordonne d'explorer la zone (par paires) pour déterminer l'emplacement spécifique des joueurs.
+Strahd apprend l'emplacement des joueurs si au moins un espion est capable de le lui rapporter.
+> 
+> Si les joueurs sont dans une structure artificielle permanente (par exemple, la tour du lac Baratok) ou un endroit où quelqu'un vit (par exemple, la tanière des loups-garous), continuez vers [[#Le Salut de Strahd]] ci-dessous.
+Sinon, passez directement à [[#Le Jeu de Strahd]].
+
+> [!warning]+ **Plan de secours de Strahd**
+> Si Strahd ne peut pas scruter un membre du groupe (par exemple, à cause d'un sort de *non-détection* ou de *sanctuaire privé*), il envoie ses espions à leur recherche. Il se dirige ensuite vers les cieux au-dessus de Berez sur son **cauchemar** Beucephalus, où il attend le retour de ses espions.
+>
+> Sur ordre de Strahd, douze mille **chauves-souris** se dispersent à travers Barovia, avec quatre chauves-souris fouillant chaque hexagone d'un quart de mile (environ 400 mètres) indiqué sur la <span class="citation">Carte de Barovia (p. 33)</span>. Les chauves-souris assignées à l'hexagone des joueurs arrivent entre 1 et 2 heures après le début du repos long des joueurs, selon leur proximité avec le Château Ravenloft. Si les chauves-souris peuvent observer à distance des preuves de la présence des joueurs (par exemple, un éclairage artificiel dans la Tour de Van Richten, ou un joueur dehors en garde), elles rapportent immédiatement leurs découvertes à Strahd à Berez.
+>
+> Sinon, toutes les 15 minutes après l'arrivée des chauves-souris, l'une des quatre chauves-souris s'approche du lieu de repos des joueurs pour l'examiner. Si des joueurs montent la garde, la chauve-souris doit effectuer un test de Dextérité (Discrétion) opposé aux scores de Sagesse (Perception) passive des joueurs qui surveillent, avec avantage si la chauve-souris est dissimulée par l'obscurité. En cas d'échec, les joueurs qui montent la garde remarquent la chauve-souris lorsqu'elle s'approche à moins de 18 mètres de leur position.
+>
+> Si une chauve-souris détecte des preuves de la présence des joueurs ou réalise qu'elle a été repérée, elle tente de s'enfuir vers Berez pour rapporter ses découvertes à Strahd. Si les joueurs tentent de l'arrêter, gérez la poursuite comme décrit dans <span class="citation">Poursuites (<em>Guide du Maître</em>, p. 252)</span>, mais sans complications de poursuite. (Les joueurs qui utilisent des moyens bruyants ou voyants pour arrêter l'une des chauves-souris — comme un sort qui inflige des dégâts de feu, radiants ou de tonnerre — peuvent alerter les autres chauves-souris dans le même hexagone. Si cela se produit, ces chauves-souris se rendent immédiatement à Berez, plutôt que de poursuivre leur enquête.)
+>
+> Strahd chevauche Beucephalus jusqu'à l'emplacement des joueurs dès qu'il apprend de ses espions **chauves-souris** que des indices de leur présence y ont été repérés, arrivant au lieu de repos des joueurs environ 1 heure après le départ de la chauve-souris.
+### Salutation de Strahd
 Selon le lieu de repos des joueurs, Strahd utilise une stratégie différente ou une série de stratégies pour les atteindre :
 
-| Emplacement des joueurs | Stratégie de Strahd |
-|--------------------------|----------------------|
-| <span class="citation">E4. Manoir du bourgmestre (p. 44)</span> | Strahd utilise [[#La Chauve-souris]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
-| <span class="citation">E5. Église (p. 45)</span> | Strahd utilise [[#La Chauve-souris]], suivi de [[#L'Essaim]], [[#Le Visiteur]], [[#L'Ordre]], et [[#La Tempête]]. |
+| Position du joueur | Stratégie de Strahd |
+|-----------------|-------------------|
+| <span class="citation">E4. Manoir du bourgmestre (p. 44)</span> | Strahd utilise [[#La Chauve-souris]], suivie de [[#Le Visiteur]] et [[#La Tempête]]. |
+| <span class="citation">E5. Église (p. 45)</span> | Strahd utilise [[#La Chauve-souris]], suivie de [[#L'Essaim]], [[#Le Visiteur]], [[#L'Ordre]], et [[#La Tempête]]. |
 | <span class="citation">N1. Église de Saint-Andral (p. 97)</span> | Strahd utilise [[#La Tempête]]. |
-| <span class="citation">N2. Auberge de l'Eau Bleue (p. 98)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise ensuite [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
-| <span class="citation">N3. Manoir du bourgmestre (p. 103)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise ensuite [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
-| <span class="citation">N4. Wachterhaus (p. 110)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise ensuite [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
-| <span class="citation">N9. Camp Vistani (p. 119)</span> | Strahd utilise [[#Le Visiteur]], suivi de [[#La Tempête]]. |
-| <span class="citation">Chapitre 6 : Le Vieux Broyeur d'Os (p. 125)</span> | Strahd utilise [[#La Chauve-souris]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
+| <span class="citation">N2. Auberge de l'Eau Bleue (p. 98)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise alors [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
+| <span class="citation">N3. Manoir du bourgmestre (p. 103)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise alors [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
+| <span class="citation">N4. Maison Wachter (p. 110)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise alors [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
+| <span class="citation">N9. Camp vistani (p. 119)</span> | Strahd utilise [[#Le Visiteur]], suivi de [[#La Tempête]]. |
+| <span class="citation">Chapitre 6 : Le Vieux Moulin à Os (p. 125)</span> | Strahd utilise [[#La Chauve-souris]], suivie de [[#Le Visiteur]] et [[#La Tempête]]. |
 | <span class="citation">Chapitre 7 : Argynvostholt (p. 129)</span> | Strahd utilise [[#L'Otage]]. |
-| <span class="citation">S3. Village de Krezk (p. 145)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise ensuite [[#La Tempête]]. |
+| <span class="citation">S3. Village de Krezk (p. 145)</span> | Strahd utilise [[#La Chauve-souris]]. S'il réussit, Strahd utilise ensuite [[#Le Visiteur]]. Sinon, Strahd utilise alors [[#La Tempête]]. |
 | <span class="citation">S19. Caserne (p. 154)</span> | Strahd utilise [[#Le Visiteur]], suivi de [[#La Tempête]]. |
-| <span class="citation">T4-5. Tours de garde, rez-de-chaussée/étage supérieur (pp. 157-59)</span> | Strahd utilise [[#L'Otage]]. |
+| <span class="citation">T4-5. Tour de garde, Rez-de-chaussée/Étage supérieur (pp. 157-59)</span> | Strahd utilise [[#L'Otage]]. |
 | <span class="citation">Chapitre 11 : La Tour de Van Richten (p. 167)</span> | Strahd utilise [[#Le Visiteur]], suivi de [[#La Horde]]. |
-| <span class="citation">Chapitre 12 : Le Sorcier des Vins (p. 173)</span> | Strahd utilise [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
-| <span class="citation">Chapitre 15 : La Tanière des Loups-Garous (p. 201)</span> | Strahd utilise [[#L'Otage]]. |
+| <span class="citation">Chapitre 12 : Le Magicien des Vins (p. 173)</span> | Strahd utilise [[#L'Essaim]], suivi de [[#Le Visiteur]] et [[#La Tempête]]. |
+| <span class="citation">Chapitre 15 : La Tanière des Loups-garous (p. 201)</span> | Strahd utilise [[#L'Otage]]. |
 #### L'Otage
-Dans cette stratégie, Strahd cherche à utiliser la vie de PNJ auxquels les joueurs se sont attachés afin de forcer les joueurs à l'inviter à l'intérieur. Pour ce faire, il utilise son réseau d'espions et son pouvoir de ***charme*** pour apprendre quels PNJ proches les joueurs ont développé une relation. Il kidnappe ensuite et charme ces PNJ et les amène à un endroit près du lieu de repos des joueurs sur Beucephalus. (Strahd ne monte pas lui-même Beucephalus s'il kidnappe plus de trois PNJ de cette manière.)
+Dans cette stratégie, Strahd cherche à utiliser la vie des PNJs auxquels les joueurs se sont attachés pour les forcer à l'inviter à l'intérieur. Pour ce faire, il utilise son réseau d'espions et sa capacité ***charme*** pour découvrir quels PNJs proches ont développé une relation avec les joueurs. Il kidnappe et charme ensuite ces PNJs et les amène à un endroit proche du lieu de repos des joueurs, perché sur Beucephalus. (Strahd ne monte pas lui-même Beucephalus s'il kidnappe plus de trois PNJs de cette façon.)
 
-Strahd pourrait kidnapper les groupes de PNJ suivants, ou d'autres auxquels les joueurs se sont attachés :
+Strahd pourrait kidnapper les groupes de PNJs suivants, ou d'autres auxquels les joueurs se sont attachés :
 
-* Milivoj et ses deux frères et sœurs aînés : Bogan (12 ans) et Zondra (10 ans)
+* Milivoj et ses deux plus jeunes frères et sœurs aînés : Bogan (douze ans) et Zondra (dix ans)
 * Anna, Ilya et Kala Krezkova
 * Nikolai, Karl et Stella Wachter
 
-Cependant, Strahd ne kidnappe pas les wereravens, les occupants de l'église de Saint-Andral, ou tout PNJ d'un niveau de menace de 1 ou plus.
+Cependant, Strahd ne kidnappe pas les corbeaufées, les occupants de l'église de Saint-Andral, ni aucun PNJ de Facteur de puissance 1 ou plus.
 
-En arrivant au lieu de repos des joueurs, Strahd envoie le PNJ kidnappé le plus faible et/ou le plus sympathique pour saluer les joueurs (par exemple, en frappant à la porte ou en les appelant). Pendant que le PNJ kidnappé fait cela, Strahd et les autres PNJ kidnappés restent à un endroit juste hors de vue du lieu de repos des joueurs (par exemple, le <span class="citation">Z8. Cercle de Pierres (p. 205)</span> si les joueurs se reposent dans la tanière des loups-garous).
+En arrivant au lieu de repos des joueurs, Strahd envoie le PNJ kidnappé le plus faible et/ou le plus sympathique pour saluer les joueurs (par exemple, en frappant à la porte ou en les appelant). Pendant que le PNJ kidnappé le fait, Strahd et les autres PNJs kidnappés s'attardent dans un endroit hors de vue du lieu de repos des joueurs (par exemple, le <span class="citation">Z8. Cercle de pierre (p. 205)</span> si les joueurs se reposent à l'intérieur de la tanière des loups-garous).
 
+Strahd dépêche également une **chauve-souris** pour accompagner discrètement le PNJ envoyé jusqu'au lieu de repos des joueurs et lui faire rapport si des problèmes surviennent. (Un joueur remarque la chauve-souris, qui peut être suspendue aux avant-toits d'un bâtiment voisin ou à une branche d'arbre, s'il possède un score de Sagesse passive (Perception) de 12 ou plus.)
 
+En saluant les joueurs, le PNJ envoyé tente de leur transmettre que "les autres" attendent dehors et espèrent les rencontrer. Si on le lui demande, le PNJ confirme volontiers que "les autres" incluent les autres PNJ enlevés et "le Seigneur von Zarovich". (Comme les PNJ enlevés ont été charmés par Strahd, le PNJ envoyé ne craint pas Strahd et ne croit pas avoir été enlevé, et le considère comme un ami et un protecteur. Le PNJ envoyé n'est pas sûr de la raison pour laquelle Strahd veut rencontrer les joueurs, mais il est convaincu qu'il ne veut que leur bien.)
 
-Strahd envoie également une **chauve-souris** pour accompagner discrètement le PNJ dépêché jusqu'au lieu de repos des joueurs et faire son rapport si un problème survient. (Un joueur remarque la chauve-souris, qui peut être suspendue aux avant-toits d'un bâtiment ou sur une branche d'arbre, s'il a un score de Sagesse (Perception) passif de 12 ou plus.)
+> [!abstract]+ **Refuser l'appel**
+> Si les joueurs refusent de se rendre à l'emplacement de Strahd, le PNJ envoyé les avertit, avec inquiétude, que "le Seigneur von Zarovich" a dit que les autres PNJ enlevés pourraient être en danger si les joueurs ne venaient pas. (Le PNJ envoyé n'est pas sûr de pourquoi, mais il est convaincu que les paroles de Strahd sont vraies.)
+>
+> Si les joueurs refusent à nouveau de se rendre à l'emplacement de Strahd, la chauve-souris qui rôde tente de faire son rapport à Strahd. Si elle y parvient, ou si la chauve-souris ne revient pas faire son rapport pendant vingt minutes ou plus, Strahd utilise sa ***morsure*** pour tuer les deux PNJ enlevés restants et laisse une note sur parchemin, écrite de son écriture reconnaissablement élégante, à un endroit bien visible sur les corps. La note indique : "Ils ont crié votre nom avant de mourir — et pourtant vous n'étiez pas là."
 
-En saluant les joueurs, le PNJ dépêché tente de leur transmettre que "les autres" les attendent à l'extérieur et espèrent les rencontrer. Si on lui demande, le PNJ est ravi de confirmer que "les autres" incluent les autres PNJ enlevés et le "Seigneur von Zarovich". (Comme les PNJ enlevés ont été charmés par Strahd, le PNJ dépêché ne craint pas Strahd et ne pense pas qu'ils ont été enlevés, et le considère comme un ami et un protecteur. Le PNJ dépêché ne sait pas pourquoi Strahd veut rencontrer les joueurs, mais est convaincu qu'il ne leur veut que du bien.)
+Lorsque les joueurs arrivent à l'emplacement de Strahd, ils le trouvent confortablement installé sur un siège approprié, avec les autres PNJ enlevés assis ou agenouillés sur le sol à côté de lui. (Strahd a renvoyé Beucephalus dans le Plan Éthéré en attendant son départ des joueurs.)
 
-> [!abstract]+ **Refuser l'Appel**
-> Si les joueurs refusent de se rendre à l'endroit où se trouve Strahd, le PNJ dépêché les avertit, avec inquiétude, que le "Seigneur von Zarovich" a dit que les autres PNJ enlevés pourraient être en danger à moins que les joueurs ne viennent. (Le PNJ dépêché n'est pas sûr de la raison, mais est convaincu que les paroles de Strahd sont vraies.)
->  
-> Si les joueurs refusent encore une fois de se rendre à l'endroit où se trouve Strahd, la chauve-souris en embuscade tente de faire son rapport à Strahd. Si elle y parvient, ou si la chauve-souris ne fait pas son rapport pendant vingt minutes ou plus, Strahd utilise sa **morsure** pour tuer les deux derniers PNJ enlevés et laisse une note sur parchemin, écrite de sa belle écriture reconnaissable, bien en évidence sur les corps. La note indique : "Ils ont crié pour que vous veniez avant de mourir - mais vous n'étiez pas là."
+Strahd accueille les joueurs cordialement. Si les joueurs montrent de l'inquiétude pour les PNJ enlevés, Strahd les assure froidement que leurs amis "ne subiront aucun mal fâcheux — du moins, si notre rencontre de ce soir se résout amicalement."
 
-Lorsque les joueurs arrivent à l'endroit où se trouve Strahd, ils le trouvent nonchalamment assis, les autres PNJ enlevés étant assis ou agenouillés à côté de lui. (Strahd a renvoyé Bucéphale dans le Plan Éthéré en attendant son départ.)  
+Strahd est prêt à garantir la liberté et la sécurité des PNJ enlevés si les joueurs acceptent de "jouer à un jeu" avant qu'il ne parte. Si les joueurs acceptent, passez à [[#Le jeu de Strahd]].
+#### La Horde
+Dans cette stratégie, Strahd cherche à forcer les joueurs à quitter la tour du lac Baratok en menaçant de la faire s'effondrer. Pour ce faire, il invoque une horde de treize **zombies** des bois Svalich à proximité et leur ordonne, un par un, d'essayer d'enfoncer la porte. (Comme le DD pour enfoncer la porte est de 25, et que chaque zombie a un modificateur de Force de +1, les zombies ne peuvent pas enfoncer la porte.)
 
-Strahd accueille cordialement les joueurs. Si les joueurs se montrent inquiets pour les PNJ enlevés, Strahd les assure calmement que leurs amis "ne subiront aucun préjudice - du moins, si notre réunion ce soir se déroule sans accroc".
+Tandis que les zombies tentent d'enfoncer la porte, Strahd informe les joueurs qu'ils n'ont qu'à quitter la tour et le rencontrer "comme des individus civilisés" s'ils souhaitent que ses créatures s'arrêtent.
 
-Strahd est prêt à garantir la liberté et la sécurité des PNJ enlevés si les joueurs acceptent de "jouer à un jeu" avant son départ. Si les joueurs acceptent, passez à [[#Le Jeu de Strahd]].
-#### La Horde  
-Dans cette stratégie, Strahd cherche à forcer les joueurs à sortir de la tour du lac Baratok en menaçant de la faire s'effondrer. Pour ce faire, il invoque une horde de treize **zombies** des bois de Svalich tout proches et les envoie, un par un, tenter de défoncer la porte. (Comme la DC pour défoncer la porte est de 25, et que chaque zombie a un modificateur de Force de +1, les zombies ne peuvent pas défoncer la porte.)
+Chaque fois qu'un zombie tente et échoue à enfoncer la porte, un éclair jaillit de la porte comme décrit dans [[Arc E - Le Vistani disparu#1. La porte de la tour|Arc E - Le Vistani disparu]]. À chaque occurrence, la tour réagit comme suit :
 
-Pendant que les zombies tentent de défoncer la porte, Strahd informe les joueurs qu'ils n'ont qu'à sortir de la tour et le rencontrer "comme des gens civilisés" s'ils veulent que ses créatures arrêtent.
-
-Chaque fois qu'un zombie tente et échoue à défoncer la porte, un éclair de foudre jaillit de la porte comme décrit dans [[Arc E - The Missing Vistana#1. The Tower Door|Arc E - La Vistana Disparue]]. À chaque fois que cela se produit, la tour réagit comme suit :
-
-* **Première fois**. La tour tremble légèrement, faisant tomber un peu de poussière du plafond.  
-* **Deuxième fois**. La tour gronde et tremble, obligeant chaque créature à l'intérieur à réussir un jet de sauvegarde de Force DD 10 ou à tomber à terre. Une créature qui rate le jet subit également 1d4 dégâts contondants à cause des débris qui tombent.
-* **Troisième fois**. La tour tangue et tremble, obligeant chaque créature à l'intérieur à réussir un jet de sauvegarde de Force DD 15 ou à tomber à terre et subir 2d6 dégâts contondants dus aux débris qui tombent. Une créature qui réussit son jet ne subit que la moitié des dégâts.
-* **Quatrième fois**. La tour s'effondre comme décrit dans <span class="citation">V2. La Porte de la Tour (p. 169)</span>.
+* **Première fois**. La tour tremble légèrement, provoquant la chute de poussière du plafond.
+* **Deuxième fois**. La tour gémit et s'ébranle, forçant chaque créature à l'intérieur à réussir un jet de sauvegarde de Force DD 10 ou tomber à terre. Une créature qui échoue au jet de sauvegarde subit également 1d4 dégâts contondants dus aux débris qui tombent.
+* **Troisième fois**. La tour tangue et s'ébranle, forçant chaque créature à l'intérieur à réussir un jet de sauvegarde de Force DD 15 ou tomber à terre et subir 2d6 dégâts contondants dus aux débris qui tombent. Une créature qui réussit le jet de sauvegarde subit la moitié des dégâts.
+* **Quatrième fois**. La tour s'effondre comme décrit dans <span class="citation">V2. Porte de la tour (p. 169)</span>.
 
 Si les joueurs sortent de la tour pour parler avec Strahd, passez à [[#Le Jeu de Strahd]].
 
-Si la tour s'effondre, Strahd localise tout membre du groupe qui n'a pas été assommé par l'effondrement de la tour et les tue avec son attaque de frappe à mains nues, notant sa déception face à leur "arrogance et lâcheté". Lui et la horde de zombies partent ensuite.
-
+Si la tour s'effondre, Strahd localise tous les membres du groupe qui n'ont pas été assommés par l'effondrement de la tour et les tue avec sa ***frappe à mains nues***, notant sa déception face à leur "arrogance et lâcheté". Lui et la horde de zombies s'en vont ensuite.
 #### La Tempête
-Dans cette stratégie, Strahd utilise son effet de zone "contrôle de la météo" pour invoquer un orage couvrant une zone de 8 km de rayon autour de l'emplacement des joueurs. Il utilise ensuite son effet de zone "appel de la foudre" pour frapper le toit de l'endroit où se reposent les joueurs trois fois avec la foudre, incendiant la structure.
+Dans cette stratégie, Strahd utilise son action de repaire *contrôle du climat* pour invoquer un orage couvrant une zone de huit kilomètres de rayon autour de la position des joueurs. Il utilise ensuite son action de repaire *appel de la foudre* pour frapper trois fois le toit du lieu de repos des joueurs, mettant feu à la structure.
 
-Lorsque les joueurs émergent de leur lieu de repos, ils trouvent Strahd à une courte distance, admirant la structure en flammes. Strahd les salue cordialement, notant qu'il a "toujours été fasciné par la sauvagerie de la foudre – et la faim des flammes qu'elle laisse derrière elle". Strahd demande ensuite aux joueurs s'ils seront "consumés par les flammes qu'ils ont appelées sur eux-mêmes".
+Lorsque les joueurs sortent de leur lieu de repos, ils trouvent Strahd debout à courte distance, admirant la structure en flammes. Strahd les salue cordialement, notant qu'il a "toujours été fasciné par la sauvagerie de la foudre—et la faim des flammes qu'elle laisse derrière elle." Strahd demande ensuite aux joueurs s'ils seront "consumés par les flammes qu'ils ont appelées sur eux-mêmes."
 
-Quelle que soit la réponse des joueurs, Strahd leur informe qu'"ils ont appelé la foudre – mais il reste à voir s'ils pourront y survivre". Passez à [[#Le Jeu de Strahd]].
-
+Quelle que soit la réponse des joueurs, Strahd les informe qu'"ils ont appelé la foudre—mais il reste à voir s'ils pourront y survivre." Passez à [[#Le Jeu de Strahd]].
 #### L'Essaim
-Dans cette stratégie, Strahd cherche à terroriser les civils à l'endroit où se reposent les joueurs afin de les forcer à l'inviter à l'intérieur. Pour ce faire, il envoie un peloton de onze morts-vivants, dirigé par un commandant mort-vivant et rejoint par deux nuées de rats, attaquer leur lieu de repos. Ce faisant, les morts-vivants et les rats se comportent comme suit :
+Dans cette stratégie, Strahd cherche à terroriser les habitants civils du lieu de repos actuel des joueurs afin de forcer ces derniers à l'inviter à l'intérieur. Pour ce faire, il envoie un peloton de onze **nécrophages**, dirigés par un **commandant nécrophage** et accompagnés de deux **nuées de rats**, pour attaquer leur lieu de repos. Ce faisant, les nécrophages et les rats se comportent comme suit :
 
-* Huit des morts-vivants tentent d'entrer simultanément dans le lieu de repos par des entrées différentes (fenêtres et/ou portes arrière), visant à s'attaquer aux PNJ non joueurs avec leur attaque de drain de vie. Un mort-vivant peut escalader l'extérieur d'un bâtiment à la moitié de sa vitesse sans faire de jet de Force (Athlétisme), mais doit réussir un jet de Force DD 15 pour défoncer une porte en bois.
-* Le commandant mort-vivant et les trois morts-vivants restants tentent de prendre d'assaut le lieu de repos par l'entrée principale, visant à engager et entourer les joueurs.  
-* Les nuées de rats entrent dans le lieu de repos par tous les trous ou autres points d'entrée pouvant les admettre, visant à utiliser leur capacité "marée de vermine" pour empêcher les joueurs de protéger les non-combattants.
+* Huit des **nécrophages** tentent d'entrer simultanément dans le lieu de repos par différentes entrées (par exemple, fenêtre et/ou portes arrière), visant à engager tout PNJ non membre du groupe avec leurs attaques de ***drain de vie***. Un nécrophage peut grimper à l'extérieur d'un bâtiment à la moitié de sa vitesse sans faire de test de Force (Athlétisme), mais doit réussir un test de Force DD 15 pour défoncer une porte en bois.
+* Le **commandant nécrophage** et les trois **nécrophages** restants tentent de prendre d'assaut le lieu de repos par l'entrée principale, visant à engager et encercler les joueurs.
+* Les **nuées de rats** pénètrent dans le lieu de repos par des trous ou autres points d'entrée pouvant laisser passer un ou plusieurs rats, visant à utiliser leur capacité ***marée de vermine*** pour empêcher les joueurs de protéger les non-combattants.
 
-À l'initiative 0, si un ou plusieurs PNJ non joueurs risquent une mort imminente à cause des morts-vivants, Strahd frappe trois fois à la porte du lieu de repos des joueurs. Lorsqu'il le fait, tous les morts-vivants et rats cessent immédiatement leurs attaques et se tournent vers la position de Strahd.  
+Au compte d'initiative 0, si un ou plusieurs PNJ non membres du groupe risquent une mort imminente due aux **nécrophages**, Strahd frappe trois fois à la porte du lieu de repos des joueurs. Quand il le fait, tous les nécrophages et rats arrêtent immédiatement leurs attaques et se tournent vers l'emplacement de Strahd.
 
-Si les joueurs ouvrent la porte, le combat prend fin. Passez à [[#Le Visiteur]] ci-dessous. Si les joueurs ignorent la porte, continuent d'attaquer les morts-vivants et les rats, ou refusent l'entrée à Strahd, le combat reprend, jusqu'à ce que tous les morts-vivants et rats aient été tués.
+Si les joueurs ouvrent la porte, le combat prend fin. Passez à [[#Le Visiteur]] ci-dessous. Si les joueurs ignorent la porte, continuent d'attaquer les nécrophages et les rats, ou refusent l'entrée à Strahd, le combat reprend et ne se termine que lorsque tous les nécrophages et rats ont été tués.
 
 <div class="statblock">
-<h2>Commandant des morts-vivants</h2>
+<h2>Commandant nécrophage</h2>
 <em>Mort-vivant de taille moyenne, neutre mauvais</em>
 <hr>
-<strong>Classe d'armure</strong> 14 (cuir bouilli)
+<strong>Classe d'armure</strong> 14 (cuir clouté)
 <br>
 <strong>Points de vie</strong> 142 (19d8 + 57)
 <br>
@@ -414,30 +480,30 @@ Si les joueurs ouvrent la porte, le combat prend fin. Passez à [[#Le Visiteur]]
 <hr>
 <strong>Jets de sauvegarde</strong> Con +6, Cha +5<br>
 <strong>Compétences</strong> Athlétisme +7, Perception +4, Discrétion +5<br>
-<strong>Résistances aux dégâts</strong> Nécrotique ; Contondant, perforant et tranchant par des attaques non magiques qui ne sont pas en argent<br>
+<strong>Résistances aux dégâts</strong> Nécrotiques ; Contondants, Perforants et Tranchants infligés par des attaques non magiques qui ne sont pas en argent<br>
 <strong>Immunités aux dégâts</strong> Poison<br>
-<strong>Immunités aux états</strong> Épuisement, empoisonné<br>
+<strong>Immunités aux états</strong> Épuisement, Empoisonné<br>
 <strong>Sens</strong> Vision dans le noir 18 m, Perception passive 14<br>
 <strong>Langues</strong> Les langues qu'il connaissait de son vivant<br>
-<strong>Difficulté</strong> 10, ou 6 si les joueurs ont des armes magiques ou en argent<br>
+<strong>Facteur de puissance</strong> 10, ou 6 si les joueurs ont des armes magiques ou en argent<br>
 <strong>Bonus de maîtrise</strong> +3<br>
 <hr>
-<p><strong><em>Sensibilité à la lumière du soleil.</em></strong> Lorsqu'il est exposé à la lumière du soleil, le mort-vivant subit un désavantage lors des jets d'attaque et des jets de Sagesse (Perception) basés sur la vue.</p>
-<p><strong><em>Froid glacial de la tombe.</em></strong> Toute créature non-morte qui commence son tour à 1,5 m ou moins du commandant des morts-vivants doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle subit 7 (2d6) dégâts de froid.</p>
+<p><strong><em>Sensibilité à la lumière du soleil.</em></strong> Lorsqu'il est exposé à la lumière du soleil, le nécrophage subit un désavantage aux jets d'attaque ainsi qu'aux tests de Sagesse (Perception) basés sur la vue.</p>
+<p><strong><em>Froid de la tombe.</em></strong> Toute créature non morte-vivante qui commence son tour à moins de 1,5 mètre du commandant nécrophage doit réussir un jet de sauvegarde de Constitution DD 14. En cas d'échec, la créature subit 7 (2d6) dégâts de froid.</p>
 <h3>Actions</h3>
-<p><strong><em>Attaques multiples.</em></strong> Le commandant des morts-vivants effectue deux attaques.</p>
-<p><strong><em>Drain de vie.</em></strong> <em>Attaque d'arme au corps à corps :</em> +7 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 10 (2d6 + 3) dégâts nécrotiques et la cible est agrippée (DD 15 pour se libérer). Le commandant des morts-vivants et tous les morts-vivants non hostiles dans un rayon de 3 m regagnent des points de vie égaux à la moitié des dégâts nécrotiques infligés. De plus, la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou voir ses points de vie maximum réduits d'un montant égal aux dégâts subis. Cette réduction dure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit ses points de vie maximum à 0.</p>
-<p><strong><em>Épée longue.</em></strong> <em>Attaque d'arme au corps à corps :</em> +7 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 13 (2d8 + 4) dégâts tranchants, ou 15 (2d10 + 4) dégâts tranchants si maniée à deux mains.</p>
-<p><strong><em>Arc long.</em></strong> <em>Attaque d'arme à distance :</em> +5 pour toucher, portée 45/180 m, une cible. <em>Touché :</em> 11 (2d8 + 2) dégâts perforants.</p>
+<p><strong><em>Attaques multiples.</em></strong> Le commandant nécrophage effectue deux attaques.</p>
+<p><strong><em>Absorption de vie.</em></strong> <em>Attaque d'arme au corps à corps :</em> +7 au toucher, allonge 1,5 m, une créature. <em>Touché :</em> 10 (2d6 + 3) dégâts nécrotiques et la cible est agrippée (DD 15 pour s'échapper). Le commandant nécrophage et tous les morts-vivants non hostiles dans un rayon de 3 mètres récupèrent un nombre de points de vie égal à la moitié des dégâts nécrotiques infligés. De plus, la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.</p>
+<p><strong><em>Épée longue.</em></strong> <em>Attaque d'arme au corps à corps :</em> +7 au toucher, allonge 1,5 m, une cible. <em>Touché :</em> 13 (2d8 + 4) dégâts tranchants, ou 15 (2d10 + 4) dégâts tranchants si utilisée à deux mains.</p>
+<p><strong><em>Arc long.</em></strong> <em>Attaque d'arme à distance :</em> +5 au toucher, portée 45/180 m, une cible. <em>Touché :</em> 11 (2d8 + 2) dégâts perforants.</p>
 </div>
 
 <div class="statblock">
-<h2>Nuée de rats</h2>
-<em>Grande nuée de minuscules bêtes, chaotique mauvaise</em>
+<h2>Peste de Rats</h2>
+<em>Grand essaim de bêtes minuscules, chaotique mauvais</em>
 <hr>
-<strong>Classe d'Armure</strong> 10
+<strong>Classe d'armure</strong> 10
 <br>
-<strong>Points de Vie</strong> 49 (14d8 - 14)
+<strong>Points de vie</strong> 49 (14d8 - 14)
 <br>
 <strong>Vitesse</strong> 9 m
 <hr>
@@ -464,233 +530,217 @@ Si les joueurs ouvrent la porte, le combat prend fin. Passez à [[#Le Visiteur]]
   </tbody>
 </table>
 <hr>
-<strong>Résistances aux dégâts</strong> Contondant, Perforant, Tranchant<br>
-<strong>Immunités aux états</strong> Charmé, Effrayé, Empoigné, Paralysé, Pétrifié, À terre, Entravé, Étourdi<br>
+<strong>Résistances aux dégâts</strong> Contondants, Perforants, Tranchants<br>
+<strong>Immunités aux états</strong> Charmé, Effrayé, Agrippé, Paralysé, Pétrifié, À terre, Entravé, Étourdi<br>
 <strong>Sens</strong> Vision dans le noir 9 m, Perception passive 10<br>
 <strong>Langues</strong> —<br>
-<strong>Niveau de Difficulté</strong> 2<br>
+<strong>Facteur de puissance</strong> 2<br>
 <strong>Bonus de maîtrise</strong> +2<br>
 <hr>
-<p><strong><em>Nuée.</em></strong> La nuée peut occuper le même espace qu'une autre créature et vice versa, et elle peut se déplacer à travers n'importe quelle ouverture assez grande pour un rat de taille Minuscule. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.</p>
-<p><strong><em>Odorat Aiguisé.</em></strong> La nuée est avantagée sur les tests de Sagesse (Perception) basés sur l'odorat.</p>
-<p><strong><em>Marée de Nuisibles.</em></strong> Un ennemi qui commence son tour dans l'espace occupé par la nuée doit réussir un jet de sauvegarde de Force DD 13 ou être empoigné (DD 13 pour se libérer). Tant qu'elle est empoignée de cette manière, une créature est à terre, aveuglée et entravée, et ne peut pas respirer. (Une créature qui ne peut pas respirer dans cette situation peut retenir son souffle comme décrit dans le Guide du Joueur.)</p>
+<p><strong><em>Essaim.</em></strong> L'essaim peut occuper l'espace d'une autre créature et vice versa, et l'essaim peut se déplacer à travers n'importe quelle ouverture assez grande pour un rat minuscule. L'essaim ne peut pas récupérer de points de vie ni gagner des points de vie temporaires.</p>
+<p><strong><em>Odorat aiguisé.</em></strong> L'essaim a l'avantage aux tests de Sagesse (Perception) qui reposent sur l'odorat.</p>
+<p><strong><em>Marée de vermine.</em></strong> Un ennemi qui commence son tour dans l'espace de l'essaim doit réussir un jet de sauvegarde de Force DD 13 ou être agrippé (évasion DD 13). Tant qu'elle est agrippée de cette façon, une créature est à terre, aveuglée et entravée, et ne peut pas respirer. (Une créature qui ne peut pas respirer de cette manière peut retenir son souffle comme décrit dans le <span class="citation">Manuel des Joueurs</span>.)</p>
 <h3>Actions</h3>
-<p><strong><em>Attaques Multiples.</em></strong> La nuée effectue deux attaques.</p>
-<p><strong><em>Morsures.</em></strong> <em>Attaque d'arme au corps-à-corps :</em> +5 pour toucher, allonge 0 m, chaque créature dans l'espace de la nuée. <em>Touché :</em> 14 (4d6) dégâts perforants, ou 7 (2d6) dégâts perforants si la nuée a moins de la moitié de ses points de vie.</p>
+<p><strong><em>Attaques multiples.</em></strong> L'essaim effectue deux attaques.</p>
+<p><strong><em>Morsures.</em></strong> <em>Attaque d'arme au corps à corps :</em> +5 pour toucher, allonge 0 m, chaque créature dans l'espace de l'essaim. <em>Touché :</em> 14 (4d6) dégâts perforants, ou 7 (2d6) dégâts perforants si l'essaim a la moitié de ses points de vie ou moins.</p>
 </div>
 
 #### La Chauve-souris
 
-Dans cette stratégie, Strahd cherche à charmer un des joueurs afin d'obtenir l'accès à leur lieu de repos. Pour ce faire, il utilise son sort *changement de forme* pour prendre l'apparence d'une **chauve-souris**, puis se suspend à un endroit approprié (par exemple, l'avant-toit d'un bâtiment ou une branche d'arbre) clairement visible depuis le point de vue du ou des joueurs actuellement en garde.
+Dans cette stratégie, Strahd cherche à charmer l'un des joueurs afin d'obtenir l'accès à leur lieu de repos. Pour ce faire, il utilise son pouvoir de ***métamorphose*** pour prendre la forme d'une **chauve-souris**, puis se suspend à un endroit approprié (par exemple, les avant-toits d'un bâtiment ou une branche d'arbre) clairement visible depuis le point de vue du ou des joueurs actuellement de garde.
 
-Chaque round où un ou plusieurs joueurs peuvent le voir, Strahd utilise son aptitude *charme* pour tenter de charmer l'un d'entre eux. S'il réussit, Strahd s'envole immédiatement de sa position actuelle vers la porte du lieu de repos des joueurs, reprend sa forme habituelle et frappe trois fois à la porte.
+À chaque round où un ou plusieurs joueurs peuvent le voir, Strahd utilise sa capacité de ***charme*** pour tenter de charmer l'un de ces joueurs. En cas de réussite, Strahd s'envole immédiatement de sa position actuelle vers la porte du lieu de repos des joueurs, reprend sa forme ordinaire et frappe trois fois à la porte.
 
-Si la porte est ouverte, Strahd salue cordialement les joueurs et demande au joueur charmé s'il peut entrer. Si la porte n'est pas ouverte dans un délai d'un round, Strahd s'adresse au joueur charmé par son nom et dit : "Il est considéré comme impoli de laisser un invité attendre sur le pas de votre porte. Ne voudriez-vous pas m'inviter à entrer ?"
+Si la porte est ouverte, Strahd salue cordialement les joueurs et demande au joueur charmé s'il peut entrer. Si la porte n'est pas ouverte dans un délai d'un round, Strahd appelle le joueur charmé par son nom et dit : "Il est considéré comme impoli de laisser un invité attendre sur le pas de sa porte. Ne voulez-vous pas m'inviter à entrer ?"
 
 > [!info]+ **Charmé par la Chauve-souris**
-> Dès qu'il rencontre Strahd (visuellement ou auditivement), un joueur charmé par la forme **chauve-souris** de Strahd reconnaît immédiatement Strahd comme étant la même créature que la chauve-souris.
+> En rencontrant Strahd (de vue ou par la voix), un joueur charmé par la forme de **chauve-souris** de Strahd reconnaît immédiatement Strahd comme étant la même créature que la chauve-souris.
 
 Si Strahd est invité à entrer dans le lieu de repos des joueurs, il le fait. Passez à [[#Le Jeu de Strahd]].
 
-
-
 > [!info]+ **Bloquer la Porte**
-> Si un joueur tente de bloquer l'entrée de Strahd dans le lieu de repos des joueurs après qu'il ait été invité à l'intérieur, Strahd place une main sur la garde de son épée longue et demande calmement au joueur s'il est intéressé pour "tester sa fortune" contre lui. (Si les joueurs ne l'ont pas affronté dans [[#R3b. L'Épreuve Première du Tyran]], il ajoute : "Cela fait un moment que je n'ai pas croisé le fer - mais je ne pense pas que cela prendra longtemps pour me refamiliariser.")
+> Si un joueur tente de bloquer Strahd pour l'empêcher d'entrer dans le lieu de repos des joueurs après qu'il y a été invité, il pose une main sur la garde de sa longue épée et demande calmement au joueur s'il est intéressé à "tenter sa chance" contre lui. (Si les joueurs ne l'ont pas combattu dans [[#R3b. La Première Épreuve du Tyran]], il ajoute : "Cela fait un certain temps que je n'ai pas duellé, mais je ne crois pas qu'il me faudra longtemps pour me réhabituer.")
 >
-> Si le joueur continue de bloquer l'entrée de Strahd dans le lieu de repos, il sourit froidement, dit "Comme vous voudrez", et attaque, continuant jusqu'à ce que tous les joueurs défiant soient morts ou aient fui. (Strahd n'accepte pas leur reddition.) Au combat, Strahd commence dans sa phase Soldat, plutôt que sa phase Mage, et n'assume sa phase Vampire que lorsque ses phases Soldat et Mage ont été réduites à 0 point de vie.
+> Si le joueur continue à bloquer Strahd l'empêchant d'entrer dans le lieu de repos, il sourit froidement, dit "Comme vous voulez", et attaque, continuant jusqu'à ce que tous les joueurs défiants soient morts ou se soient enfuis. (Strahd n'accepte pas la reddition de ces joueurs.) Au combat, Strahd commence dans sa phase Soldat, plutôt que sa phase Mage, et n'assume sa phase Vampire qu'une fois que ses phases Soldat et Mage ont été réduites à 0 point de vie.
 >
-> Une fois qu'il ne reste plus de joueurs défiant, passez à [[#Le Jeu de Strahd]].
-
-#### Le Commandement
-Dans cette stratégie, Strahd tente de tirer parti de son contrôle sur le **vampire engendré** Doru pour forcer les joueurs à l'inviter à entrer dans leur lieu de repos. (Si Doru n'est pas en vie ou n'est pas présent dans le lieu de repos actuel des joueurs, Strahd passe à la stratégie suivante disponible.)
+> Une fois qu'il ne reste plus de joueurs défiants, passez à [[#Le Jeu de Strahd]].
+#### L'Ordre
+Dans cette stratégie, Strahd tente d'utiliser son contrôle sur le **rejeton vampire** Doru pour forcer les joueurs à l'inviter à entrer dans leur lieu de repos. (Si Doru n'est pas vivant, ou n'est pas présent dans le lieu de repos actuel des joueurs, Strahd passe à la stratégie disponible suivante.)
 
 Pour ce faire, Strahd utilise l'une des méthodes suivantes, par ordre de préférence décroissant :
 
-* ***L'Appât.*** Strahd attire Doru à une porte ou une fenêtre (par exemple, en tapant doucement dessus) et demande à être invité à l'intérieur.
-* ***La Requête.*** Strahd frappe à la porte et appelle Doru, l'informant que son "maître est venu lui rendre visite".
-* ***Le Commandement.*** Strahd appelle Doru et lui ordonne d'apporter "la tête de ta fiancée" ou "la tête de ton père" - "jusqu'à ce que tes amis jugent bon de pratiquer l'hospitalité appropriée". (Si Gertruda ou le Père Donavich se trouve ailleurs mais à proximité, Doru tente d'abord de s'échapper du lieu actuel des joueurs, puis de retrouver sa cible avant d'exécuter l'ordre de Strahd.)
+* ***L'Appât.*** Strahd attire Doru vers une porte ou une fenêtre (par exemple, en y tapant doucement) et demande à être invité à l'intérieur.
+* ***La Requête.*** Strahd frappe à la porte et appelle Doru, l'informant que son "maître est venu vous rendre visite".
+* ***L'Ordre.*** Strahd appelle Doru et lui ordonne de lui apporter "la tête de ta promise" ou "la tête de ton père" — "jusqu'à ce que tes amis jugent bon de pratiquer une hospitalité convenable". (Si Gertruda ou Père Donavich est ailleurs, mais à proximité, Doru tente d'abord de s'échapper de l'emplacement actuel des joueurs, puis tente de retrouver la cible désignée avant d'exécuter l'ordre de Strahd.)
 
 > [!info]+ **Les Ordres de Strahd**
-> En tant que vampire engendré de Strahd, Doru doit obéir à tous les ordres que Strahd lui donne expressément. De plus, tant que Strahd se trouve à moins de 1,6 kilomètres de lui, Doru est charmé par Strahd et exécute tous ses ordres fidèlement, sans poser de questions ni hésiter.
+> En tant que rejeton vampire de Strahd, Doru doit obéir à tous les ordres que Strahd lui donne expressément. De plus, tant que Strahd se trouve à moins de trois cents mètres de lui, Doru est charmé par Strahd et exécute fidèlement tous ses ordres, sans question ni hésitation.
 
-Si les joueurs invitent Strahd à entrer dans leur lieu de repos, passez à [[#Le Jeu de Strahd]].
-
+Si les joueurs invitent Strahd à entrer dans leur lieu de repos, continuez avec [[#Le Jeu de Strahd]].
 #### Le Visiteur
-Dans cette stratégie, Strahd cherche à obtenir une invitation pour entrer dans le lieu de repos actuel des joueurs. Pour ce faire, il frappe d'abord trois fois à la porte (ou équivalent). Si la porte n'est pas ouverte, Strahd appelle les joueurs et demande s'ils "seraient assez impolis pour laisser un invité attendre sur le seuil de leur porte".
+Dans cette stratégie, Strahd cherche à obtenir une invitation pour entrer dans le lieu de repos actuel des joueurs. Pour ce faire, il frappe d'abord trois fois à la porte (ou équivalent). Si on ne répond pas à la porte, Strahd appelle les joueurs et leur demande s'ils "seraient assez grossiers pour laisser un invité attendre sur le pas de votre porte".
 
-Si la porte est ouverte, Strahd demande poliment la permission d'entrer. Si les joueurs acceptent, passez à [[#Le Jeu de Strahd]]. Sinon, passez à la stratégie suivante disponible pour Strahd.
-
+Si on répond à la porte, Strahd demande cordialement la permission d'entrer. Si les joueurs acceptent, passez à [[#Le Jeu de Strahd]]. Sinon, passez à la stratégie disponible suivante de Strahd.
 ### Le Jeu de Strahd
-Une fois qu'il a réussi à entrer dans le lieu de repos des joueurs ou à les attirer à l'extérieur, Strahd informe les joueurs - s'il ne l'a pas déjà fait - qu'il leur a rendu visite "pour une simple raison : jouer à un jeu". Si les joueurs semblent réticents à jouer à son jeu, Strahd les informe que s'ils ne jouent pas, ils perdront automatiquement - et qu'au moins l'un d'entre eux "ne verra pas se lever la Lune cette nuit" (c'est-à-dire, mourra).
+Une fois qu'il a réussi à entrer dans le lieu de repos des joueurs ou à attirer les joueurs à l'extérieur, Strahd informe les joueurs — s'il ne l'a pas déjà fait — qu'il leur a rendu visite "pour une simple raison : jouer à un jeu." Si les joueurs semblent réticents à jouer à son jeu, Strahd les informe que, s'ils ne jouent pas, ils perdront automatiquement — et au moins l'un d'entre eux "ne verra pas la Lune se coucher cette nuit" (c'est-à-dire, mourra).
 
 Strahd explique les règles du jeu comme suit :
 
-* À partir de maintenant et jusqu'à la fin du jeu, les joueurs n'ont pas le droit de communiquer ou de se coordonner d'aucune manière. Si Strahd pense que les joueurs ont enfreint cette règle, ils perdront immédiatement.
+* À partir de maintenant et jusqu'à la conclusion du jeu, il est interdit aux joueurs de communiquer ou de se coordonner de quelque façon que ce soit. Si Strahd croit que les joueurs ont enfreint cette règle, ils perdront immédiatement.
 
+> [!warning]+ **Pas de discussion !**
+> Lorsque Strahd informe les joueurs de cette règle, notez hors-personnage que cette règle s'applique à *toutes* les conversations entre joueurs, et que toutes les communications hors-personnage (par exemple, les joueurs qui parlent à travers la table ou échangent des messages texte) seront traitées comme des communications en-personnage pendant que le jeu de Strahd est en cours. (Cette règle est nécessaire car le gameplay des jeux de Strahd — à la fois dans [[#R3b. La Première Épreuve du Tyran]] et [[#R4f. La Seconde Épreuve du Tyran]] — repose fortement sur l'incapacité des joueurs à communiquer ou à coordonner leurs efforts.)
 
+* Ce soir, Strahd boira le sang d'un membre de leur groupe. Il reviendra chaque nuit pour boire à nouveau le sang de ce joueur, jusqu'à ce que ce joueur meure et se relève en tant que rejeton vampirique. "À moins que vous ne soyez bien plus faibles que je ne l'anticipe, note-t-il, "le processus prendra plusieurs nuits. Une telle opportunité de savourer ses repas est malheureusement rare ; j'espère que vous ne me jugerez pas mal d'en profiter."
+* Chaque fois qu'un joueur est transformé, Strahd choisira une nouvelle victime. Cependant, c'est aux joueurs de décider lequel d'entre eux sera le prochain à recevoir son "cadeau".
+* Pour voter pour une victime, chaque joueur doit garder le nom de la victime choisie dans son esprit. En utilisant sa magie, Strahd regardera dans l'esprit des joueurs pour discerner pour qui ils ont voté.
+* La victime sera le joueur qui reçoit une pluralité des votes. Si aucun joueur ne reçoit une pluralité, les joueurs perdront immédiatement par forfait.
+* Si les joueurs déclarent forfait, Strahd choisira lui-même la victime.
+* Si les joueurs refusent de laisser Strahd boire le sang de la victime choisie, il prendra la vie de la victime, au lieu de son sang. "Je reviendrai la nuit suivante", ajoute-t-il froidement, "où nous jouerons à nouveau à ce jeu."
 
-> [!avertissement]+ **Pas de discussions !**
-> Lorsque Strahd informe les joueurs de cette règle, notez hors personnage que la règle s'applique à *toutes* les conversations entre joueurs, et que toutes les communications hors personnage (par exemple, les joueurs parlant à travers la table ou échangeant des messages texte) seront traitées comme des communications en personnage tant que le jeu de Strahd est en cours. (Cette règle est nécessaire car le déroulement des jeux de Strahd - à la fois [[#R3b. La Première Épreuve du Tyran]] et [[#R4f. La Seconde Épreuve du Tyran]] - repose fortement sur l'incapacité des joueurs à communiquer ou à coordonner leurs efforts.)
-
-* Ce soir, Strahd boira le sang de l'un des membres de leur groupe. Il reviendra chaque nuit boire le sang de ce joueur à nouveau, jusqu'à ce que ce joueur meure et renaisse en engendré vampire. "À moins que vous ne soyez beaucoup plus faibles que je ne l'anticipe", note-t-il, "le processus prendra plusieurs nuits. Une telle opportunité de savourer ses repas est malheureusement rare ; j'espère que vous ne m'en tiendrez pas rigueur d'en profiter."
-* Chaque fois qu'un joueur sera transformé, Strahd choisira une nouvelle victime. Cependant, c'est aux joueurs de décider lequel d'entre eux sera le prochain à recevoir son "cadeau".
-* Pour voter pour une victime, chaque joueur doit garder le nom de sa victime choisie dans sa tête. En utilisant sa magie, Strahd regardera dans les esprits des joueurs pour discerner pour qui ils ont voté.
-* La victime sera le joueur qui recevra la pluralité des voix. Si aucun joueur ne reçoit la pluralité, les joueurs seront immédiatement disqualifiés.
-* Si les joueurs sont disqualifiés, Strahd choisira lui-même la victime.
-* Si les joueurs refusent de permettre à Strahd de boire le sang de la victime choisie, il réclamera la vie de la victime, au lieu de son sang. "Je reviendrai la nuit suivante", ajoute-t-il froidement, "et nous rejouerons à ce jeu."
-
-Si les joueurs protestent contre les règles du jeu, Strahd leur rappelle que refuser de jouer signifiera une disqualification immédiate.
+Si les joueurs protestent contre les règles du jeu, Strahd leur rappelle que le refus de jouer signifiera un forfait immédiat.
 
 > [!info]+ **Tromper Strahd**
-> Tout joueur qui tente de communiquer ou de coordonner son vote de manière dissimulée doit réussir un jet de Dextérité (Tromperie ou Tour de main) DD 25, ou un jet de Charisme (Tromperie) DD 18 s'il l'a déjà fait avant l'arrivée de Strahd.
+> Tout joueur qui tente de communiquer ou de coordonner secrètement son vote doit réussir un test de Dextérité (Tromperie ou Escamotage) DD 25, ou un test de Charisme (Tromperie) DD 18 s'ils l'ont déjà fait avant l'arrivée de Strahd.
 >
-> Si Strahd sait que des joueurs possèdent la télépathie - ou si un joueur commence à tenter de communiquer par télépathie alors que son sort *détection de pensées* est actif - il les avertit à haute voix que sa magie lui permet de regarder directement dans leurs esprits, et qu'être pris entraînera une disqualification immédiate.
+> Si Strahd sait que certains joueurs possèdent la télépathie — ou si un joueur commence à essayer de communiquer télépathiquement pendant que son sort de *détection des pensées* est actif — il les avertit à voix haute que sa magie lui permet de regarder directement dans leur esprit, et que se faire prendre entraînera un forfait immédiat.
 
-> [!abstract]+ **Perdre au jeu**
-> Si les joueurs enfreignent l'une des règles de Strahd ou sont autrement disqualifiés, Strahd choisit la victime avec la plus grande priorité, selon l'ordre suivant :
->
-> * ***Caractéristiques.*** Augmenter la priorité d'un personnage de 4 s'il a un faible score de Constitution, et de 4 s'il a un faible score de Force ou de Dextérité.
-> * ***Compétences.*** Diminuer la priorité d'un personnage de 4 s'il est compétent en Athlétisme ou Acrobaties.
-> * ***Classe d'Armure.*** Augmenter la priorité d'un personnage de 3 s'il a une faible Classe d'Armure (c'est-à-dire 15 ou moins).
-> * ***Points de Vie.*** Augmenter la priorité d'un personnage de 3 s'il a soixante points de vie ou moins.
-> * ***Classe.*** Diminuer la priorité d'un personnage de 10 s'il est un barbare.
-> * ***Incantation.*** Diminuer la priorité d'un personnage de 10 si Strahd ou ses espions ou serviteurs l'ont déjà vu utiliser la magie de téléportation (par exemple, en lançant *pas brumeux* ou *porte dimensionnelle*) ou le sort *bouclier*.
+> [!abstract]+ **Perdre le jeu par forfait**
+> Si les joueurs enfreignent l'une des règles de Strahd ou déclarent forfait d'une autre manière, Strahd choisit la victime avec la plus grande priorité, comme indiqué ci-dessous :
+> 
+> * ***Valeurs de caractéristiques.*** Augmentez la priorité d'un personnage de 4 s'il a une faible valeur de Constitution, et de 4 s'il a une faible valeur de Force ou de Dextérité.
+> * ***Compétences.*** Diminuez la priorité d'un personnage de 4 s'il a la maîtrise d'Athlétisme ou d'Acrobaties.
+> * ***Classe d'armure.*** Augmentez la priorité d'un personnage de 3 s'il a une faible Classe d'armure (c'est-à-dire 15 ou moins).
+> * ***Points de vie.*** Augmentez la priorité d'un personnage de 3 s'il a soixante points de vie ou moins.
+> * ***Classe.*** Diminuez la priorité d'un personnage de 10 s'il est un barbare.
+> * ***Incantation.*** Diminuez la priorité d'un personnage de 10 si Strahd ou ses espions ou serviteurs l'ont déjà vu utiliser de la magie de téléportation (par exemple, en lançant *pas brumeux* ou *porte dimensionnelle*) ou le sort *bouclier*.
 
-Pour jouer au jeu de Strahd, chaque joueur doit communiquer son vote au Maître du Donjon en privé (par exemple, par un mot plié ou un message privé). Prévenez les joueurs que ceux qui tenteront de communiquer ou de se coordonner *en dehors* du jeu seront considérés comme l'ayant fait *à l'intérieur* du jeu, et seront donc disqualifiés.
+Pour jouer au jeu de Strahd, chaque joueur doit communiquer son vote en privé au Maître du Donjon (par exemple, par une note pliée ou un message privé). Avertissez les joueurs que toute tentative de communication ou de coordination *en dehors* du jeu sera interprétée comme ayant été faite *à l'intérieur* du jeu, et entraînera donc un forfait.
 
-Une fois que Strahd ou les joueurs ont choisi une victime, Strahd tente alors de boire le sang de ce joueur, répétant son attaque de morsure chaque round jusqu'à ce qu'ils soient réduits à 0 point de vie. S'il réussit, il sort un mouchoir en soie blanche de sa poche, s'essuie la bouche et le menton pour enlever tout trace de sang, et dit au revoir aux joueurs. Il part ensuite.
+Une fois que Strahd ou les joueurs ont choisi une victime, Strahd tente de boire le sang de ce joueur, répétant son attaque de ***morsure*** à chaque tour jusqu'à ce que la victime soit réduite à 0 point de vie. S'il réussit, il sort un mouchoir de soie blanche de sa poche, essuie sa bouche et son menton de toute trace de sang, puis salue les joueurs avant de partir.
 
-> [!warning]+ **Morsure de Strahd**
-> L'attaque de morsure de Strahd fait deux choses à la fois : (1) elle inflige des dégâts perforants et nécrotiques, et (2) elle diminue vos points de vie maximaux du montant des dégâts nécrotiques infligés. Par exemple :
+> [!warning]+ **La Morsure de Strahd**
+> La ***morsure*** de Strahd fait deux choses à la fois : (1) elle inflige des dégâts perforants et nécrotiques, et (2) elle diminue votre maximum de points de vie du montant des dégâts nécrotiques infligés. Par exemple :
 > * Imaginons qu'un joueur commence avec 50 points de vie
-> * Le joueur subit 8 dégâts perforants + 10 dégâts nécrotiques, soit un total de 18 dégâts. Le joueur a maintenant 32 points de vie restants sur 50.
-> * Les 50 points de vie maximaux du joueur sont diminués de 10 (le montant des dégâts nécrotiques subis), et sont maintenant égaux à 40. Le joueur a maintenant 32 points de vie sur 40.
-> * Si Strahd mord le joueur à nouveau et inflige le même montant de dégâts - 18 dégâts au total, dont 10 dégâts nécrotiques - le joueur a maintenant 14 points de vie sur 30.
-> * Si Strahd mord le joueur à nouveau et inflige le même montant de dégâts, le joueur a maintenant 0 point de vie sur 20. Le joueur tombe inconscient et commence à faire des jets de sauvegarde contre la mort.
-> * À ce stade, si Strahd continue à utiliser sa morsure, il risque de tuer le joueur avec des jets de sauvegarde ratés avant que les points de vie maximaux du joueur n'atteignent 0.
+> * Le joueur subit 8 dégâts perforants + 10 dégâts nécrotiques, soit un total de 18 dégâts. Le joueur a maintenant 32 points de vie sur 50.
+> * Le maximum de 50 points de vie du joueur est diminué de 10 (le montant des dégâts nécrotiques subis), et vaut maintenant 40. Le joueur a maintenant 32 points de vie sur 40.
+> * Si Strahd mord à nouveau le joueur et inflige la même quantité de dégâts — 18 dégâts au total, dont 10 dégâts nécrotiques — le joueur n'a plus que 14 points de vie sur 30.
+> * Si Strahd mord encore le joueur et inflige la même quantité de dégâts, le joueur n'a plus que 0 point de vie sur 20. Le joueur tombe inconscient et commence à faire des jets de sauvegarde contre la mort.
+> * À ce stade, si Strahd continue d'utiliser sa ***morsure***, il risque de tuer le joueur avec des jets de sauvegarde ratés avant que le maximum de points de vie du joueur n'atteigne 0.
 >
-> Une fois que Strahd a drainé un joueur, n'oubliez pas que les points de vie maximaux de la cible se régénèrent au rythme d'un dé de vie par nuit. (Voir la fiche de statistiques de Strahd [Vampire](https://www.strahdreloaded.com/Chapter+2+-+The+Land+of+Barovia/Strahd+von+Zarovich#The+Vampire) pour plus d'informations.)
+> Une fois que Strahd a drainé un joueur, n'oubliez pas que le maximum de points de vie de la cible récupère au rythme d'un dé de vie par nuit. (Voir le [profil de Vampire](https://www.strahdreloaded.com/Chapter+2+-+The+Land+of+Barovia/Strahd+von+Zarovich#The+Vampire) de Strahd pour plus d'informations.)
 >
-> Notez que, selon les règles de 2014, le long repos des joueurs ne peut pas être interrompu par la visite de Strahd. *Voir* <span class="citation">Long Repos (<em>Manuel des Joueurs 2014</em>, p. 186)</span>. Cependant, selon les règles de 2024, un long repos de joueur peut être interrompu par (1) l'initiative, (2) le lancer d'un sort autre qu'un tour de magie, ou (3) la prise de dégâts (p. ex., par la morsure de Strahd), et nécessite 1 heure supplémentaire par interruption pour se terminer. *Voir* <span class="citation">Long Repos (<em>Manuel des Joueurs 2024</em>, p. 370)</span>.
-### Pénalité de Strahd
-Si Strahd est incapable de boire le sang de la victime choisie (p. ex., parce que la victime ou le groupe tente de l'en empêcher), il utilise son attaque à mains nues pour l'immobiliser, puis utilise sa vitesse de déplacement et sa réaction de retraite nocturne pour l'éloigner du groupe. (Au combat, Strahd commence dans sa phase Vampire, plutôt que dans sa phase Mage, et n'assume sa phase Mage que lorsque ses phases Vampire et Soldat ont été réduites à 0 point de vie.)
+> Notez que, selon les règles de 2014, le repos long des joueurs ne peut pas être interrompu par la visite de Strahd. *Voir* <span class="citation">Repos long (<em>Manuel des Joueurs 2014</em>, p. 186)</span>. Cependant, selon les règles de 2024, le repos long d'un joueur peut être interrompu par (1) l'initiative de combat, (2) le lancement d'un sort non-mineur, ou (3) tout dégât subi (par exemple, de la ***morsure*** de Strahd), et nécessite 1 heure supplémentaire par interruption pour être terminé. *Voir* <span class="citation">Repos long (<em>Manuel des Joueurs 2024</em>, p. 370)</span>.
+### La Punition de Strahd
+Si Strahd ne peut pas boire le sang de la victime choisie (par exemple, parce que la victime ou le groupe tente de l'en empêcher), il utilise son ***attaque à mains nues*** pour l'agripper, puis utilise sa vitesse de déplacement et sa réaction ***retraite nocturne*** pour l'éloigner du groupe. (Au combat, Strahd commence dans sa phase de Vampire, plutôt que sa phase de Mage, et n'assume sa phase de Mage qu'une fois que ses phases de Vampire et de Soldat ont été réduites à 0 point de vie.)
 
-Chaque round où la victime reste immobilisée, Strahd utilise son attaque à mains nues et son action bonus de frénésie de chauves-souris pour l'attaquer, continuant jusqu'à ce que la victime soit morte. Si d'autres joueurs tentent d'empêcher Strahd de tuer la victime, Strahd utilise sa première action d'antre pour lancer le sort changement de temps, puis utilise son action d'antre pour lancer appel de la foudre à chaque round suivant où sa phase Vampire survit.
+À chaque tour où la victime reste agrippée, Strahd utilise son attaque multiple ***attaque à mains nues*** et son action bonus ***frénésie de chauves-souris*** pour l'attaquer, continuant jusqu'à ce que la victime soit morte. Si d'autres joueurs tentent d'empêcher Strahd de tuer la victime, Strahd utilise sa première action de repaire pour lancer *changement météorologique*, puis utilise son action de repaire pour lancer *appel de la foudre* à chaque tour suivant tant que sa phase de Vampire survit.
 
-Strahd ne part que lorsque la victime choisie est morte. Quand il le fait, il avertit les joueurs qu'il reviendra la nuit suivante - et qu'il espère qu'ils seront mieux préparés à jouer à son jeu lorsqu'il le fera.
+Strahd ne part que lorsque la victime choisie est morte. Quand il le fait, il avertit les joueurs qu'il reviendra la nuit suivante — et qu'il espère qu'ils seront mieux préparés à jouer à son jeu à ce moment-là.
 
-> [!warning]+ **Règles de Long Repos**
-> N'oubliez pas que, selon le <span class="citation">Manuel des Joueurs</span>, un joueur peut bénéficier d'un long repos une fois toutes les vingt-quatre heures, et que subir des dégâts pendant un long repos peut prolonger la durée de ce long repos.
-# R4. Passe de Tsolenka
+> [!warning]+ **Règles de Repos Long**
+> N'oubliez pas que, selon le <span class="citation">Manuel des Joueurs</span>, un joueur ne peut bénéficier d'un repos long qu'une fois par vingt-quatre heures, et que subir des dégâts pendant un repos long peut prolonger la durée de ce repos.
+# R4. Col de Tsolenka
 
 > [!warning]+ **Grimoire de Kasimir**
-> Le grimoire de Kasimir contient principalement les sorts décrits dans <span class="citation">N9a. La Hutte de Kasimir (p. 121)</span>. Cependant, retirez polymorphie, contresort, suggestion, non-détection et envol des sorts de son grimoire.
+> Le grimoire de Kasimir contient principalement les sorts décrits dans <span class="citation">N9a. La Masure de Kasimir (p. 121)</span>. Cependant, retirez *métamorphose*, *contresort*, *suggestion*, *non-détection* et *vol* des sorts de son grimoire.
 
+## R4a. Début du Voyage
+À l'aube du premier jour après que les joueurs informent Kasimir qu'ils sont prêts à commencer le voyage vers le Mont Ghakis, Kasimir les rejoint devant sa chaumière, portant un sac à dos et vêtu d'habits simples de voyageur pour se rendre au Temple d'Ambre. Si on lui demande, Kasimir peut expliquer que le voyage vers le Temple se déroule comme suit :
 
-
-## R4a. Prendre la Route
-À l'aube du premier jour après que les joueurs aient informé Kasimir qu'ils sont prêts à entreprendre le voyage jusqu'au Mont Ghakis, Kasimir les rejoint à l'extérieur devant sa chaumière, portant un sac à dos et des vêtements simples de voyageur pour se rendre au Temple d'Ambre. Si on le lui demande, Kasimir peut partager les informations suivantes sur le trajet jusqu'au Temple :
-
-* Tout d'abord, le groupe doit voyager vers l'ouest, en direction de Krezk. Au carrefour de la Rivière des Corbeaux, ils prendront le sentier sud, qui mène dans les montagnes.
-* Le sentier les conduira à travers le col de Tsolenka, où les chutes de neige fréquentes et abondantes obscurcissent souvent le chemin devant eux.
-* Après le col de Tsolenka se trouve une guérite jadis gardée par l'Ordre du Dragon d'Argent, et un vieux pont de pierre enjambant la rivière Luna, loin en contrebas. (Kasimir n'est jamais allé plus loin que la guérite lors de ses précédentes visites à la montagne.)
-* Après le pont, ils devront gravir les falaises en lacets du Mont Ghakis, d'abord en montant sur le flanc ouest de la montagne, puis en longeant les falaises nord jusqu'à approcher du deuxième plus haut sommet.
-* Là, ils trouveront un sentier caché. En le suivant, ils découvriront le Temple dissimulé entre deux falaises gelées, sous le pic le plus élevé.
+* D'abord, le groupe doit voyager vers l'ouest, en direction de Krezk. Au Carrefour de la Rivière du Corbeau, ils prendront la route vers le sud.
+* Le sentier les mènera à travers les montagnes, où ils devront faire face à des rafales de vent glacial et des tempêtes de neige.
+* Le groupe doit suivre le sentier qui serpente le long de la face nord du Mont Ghakis, jusqu'à atteindre le deuxième plus haut sommet de la montagne.
+* Là, ils trouveront un sentier caché. En le suivant, ils découvriront le Temple dissimulé entre deux falaises gelées sous le pic le plus élevé.
 
 > [!abstract]+ **Pourquoi ne pas voler ?**
-> Si les joueurs suggèrent de voler directement jusqu'au Temple d'Ambre, Kasimir les informe que les fréquentes tempêtes de neige rendraient le vol à proximité de la montagne impossible - et que le roc du Mont Ghakis garde jalousement les cieux alentour.
+> Si les joueurs suggèrent de voler directement jusqu'au Temple d'Ambre, Kasimir les informe que les fréquentes tempêtes de neige et bourrasques rendraient le vol impossible dans les environs de la montagne—et que le roc du Mont Ghakis surveille jalousement les cieux environnants.
 
-> [!abstract]+ **Les Vêtements Chauds de Kasimir**
-> Si un joueur demande à Kasimir pourquoi il ne porte pas de vêtements chauds, il sourit avec ruse et leur montre l'*anneau de chaleur* qu'il porte à la main gauche. "Il existe d'autres moyens de se protéger des éléments", dit-il. (Il concède cependant que cela le protège uniquement du froid, et non du vent ou de la neige elle-même.)
+> [!abstract]+ **Les vêtements d'hiver de Kasimir**
+> Si un joueur demande à Kasimir pourquoi il ne porte pas de vêtements chauds, il sourit malicieusement et leur montre l'*anneau de chaleur* qu'il porte à la main gauche. "Il existe d'autres moyens de se protéger des éléments," dit-il. (Il concède cependant que cela le protège uniquement du froid, et non du vent ou de la neige eux-mêmes.)
 
-Une fois qu'il a rejoint les joueurs sur la vieille route de Svalich, en plus des informations de [[#R1. Recruter Kasimir]], Kasimir est prêt à partager les informations suivantes si les joueurs jurent de garder le secret et réussissent un jet de Charisme (Persuasion) DD 10, réussissant automatiquement si les joueurs lui ont donné une bonne raison de leur faire confiance (p. ex. en réunissant Arabelle avec sa famille dans [[Arc E - La Vistana Disparue]]) :
-* Il y a quatre siècles, avant que le roi Barov II n'envahisse la principauté des elfes du crépuscule d'Othrondil, Kasimir était le scribe du prince Erevan Löwenhart, leur oncle, et Patrina sa mage de cour. (Kasimir et Patrina n'étaient pas des parents directs d'Erevan, qui avait épousé leur tante, Lorelei.)
-* Lorsque le roi Barov II, aidé du traître Rahadin, le fils du prince Erevan, a conquis Othrondil, tué le prince Erevan et assujetti le peuple des elfes du crépuscule, Kasimir et Patrina ont perdu leur foyer, leur position et de nombreux membres de leur famille.
-Bien que Kasimir ait exhorté sa sœur à accepter leur sort, la rage de Patrina a continué à couver pendant des décennies.
+Une fois qu'ils ont atteint la Vieille Route de Svalich, en plus des informations dans [[#R1. Recruter Kasimir]], Kasimir est disposé à partager les informations suivantes si les joueurs jurent de garder le secret et réussissent un test de Charisme (Persuasion) DD 10, réussissant automatiquement si les joueurs lui ont donné de bonnes raisons de leur faire confiance (par exemple, en réunissant Arabelle avec sa famille dans [[Arc E - La Vistani Disparue]]) :
+* Il y a quatre siècles, avant que le Roi Barov II n'envahisse la principauté des elfes crépusculaires d'Othrondil, Kasimir était le scribe du Prince Erevan Löwenhart, leur oncle, et Patrina sa magicienne de cour.
+(Kasimir et Patrina n'étaient pas des parents directs d'Erevan, qui avait épousé leur tante, Lorelei.)
+* Lorsque le Roi Barov II, aidé par le traître Rahadin, fils du Prince Erevan, conquit Othrondil, tua le Prince Erevan et subjugua le peuple des elfes crépusculaires, Kasimir et Patrina perdirent leurs foyers, leurs positions et de nombreux membres de leur famille.
+Bien que Kasimir ait exhorté sa sœur à accepter leur destin, la rage de Patrina continua à couver pendant des décennies.
 
-* Lorsque Barov est mort et que son fils Strahd lui a succédé, Patrina a rejoint la rébellion contre lui, déterminée à chasser les envahisseurs de sa patrie.
-Cependant, Strahd a écrasé brutalement et rapidement la rébellion des elfes du crépuscule, laissant les survivants aux mains des Vistani comme décrit dans <span class="citation">Kasimir Velikov (p. 232)</span>.
-Kasimir a une fois de plus tenté de réconforter Patrina, désemparée, mais en vain.
-* Pendant un temps après leur arrivée à Barovia, Kasimir a osé croire que Patrina avait fini par accepter leur sort - mais il n'a pas fallu longtemps avant qu'elle ne commence à s'éclipser pour d'étranges courses secrètes, souvent pendant des jours.
-Patrina a refusé de révéler où elle allait lors de ces occasions, peu importe combien Kasimir insistait.
-* Une nuit, moins d'une semaine après que Strahd ait conquis Barovia, Patrina a disparu du campement des elfes du crépuscule.
-Pendant l'année qui a suivi, Kasimir l'a souvent cherchée dans les villages et les contrées sauvages de Barovia - mais en vain.
-Il a fini par accepter qu'elle était morte et a rejoint son peuple pour la pleurer.
+* Quand Barov mourut et fut succédé par son fils, Strahd, Patrina rejoignit la rébellion contre lui, déterminée à chasser les envahisseurs de sa patrie.
+Strahd, cependant, écrasa la rébellion des elfes crépusculaires brutalement et rapidement, laissant les survivants aux Vistani comme décrit dans <span class="citation">Kasimir Velikov (p. 232)</span>.
+Kasimir tenta à nouveau de réconforter une Patrina abattue, mais en vain.
+* Pendant un temps après leur arrivée à Barovie, Kasimir osa espérer que Patrina s'était résignée à leur sort, mais ce n'était pas long avant qu'elle ne commence à s'absenter pour des expéditions mystérieuses, parfois pendant des jours.
+Patrina refusait de dire où elle allait, malgré les insistances de Kasimir.
+* Une nuit, moins d'une semaine après que Strahd eut conquis Barovie, Patrina disparut du campement des elfes crépusculaires. Pendant l'année qui suivit, Kasimir la chercha souvent parmi les villages et les lieux sauvages de Barovie, mais en vain.
+Il finit par accepter qu'elle était morte et se joignit à son peuple pour la pleurer.
 
-* Peu de temps après que les Brumes se soient abattues sur la Barovia, et quatre ans après la conquête de la Barovia par Strahd, Patrina est brusquement revenue au campement des elfes du crépuscule.
-Bien qu'elle ait imploré le pardon de Kasimir pour son longue absence, elle a refusé de révéler où elle était allée ou pourquoi elle n'était pas revenue.
-Kasimir, méfiant mais reconnaissant dans l'ensemble, l'a accueillie à nouveau parmi eux et l'a aidée à construire une nouvelle maison pour elle dans les bois non loin du campement.
+* Peu après la descente des Brumes sur Barovia, et quatre ans après la conquête de Barovia par Strahd, Patrina revint brusquement au campement des elfes du crépuscule.
+Bien qu'elle ait imploré le pardon de Kasimir pour sa longue absence, elle refusa de révéler où elle avait été, ou pourquoi elle n'était pas revenue.
+Méfiant, mais somme toute reconnaissant, Kasimir l'accueillit à nouveau dans le groupe et l'aida à construire une nouvelle maison pour elle-même dans les bois, non loin du campement.
+* Deux mois après le retour de Patrina, Kasimir apprit d'une connaissance vistani que Patrina était non seulement devenue une consorte de Strahd, mais qu'elle avait en fait servi comme son tutrice en arcanes pendant près d'un an auparavant.
+Furieux, il fit irruption dans sa chaumière, déterminé à la confronter—et trouva à la place l'entrée cachée d'un laboratoire arcanique qu'elle avait construit en dessous.
+* Alors qu'il errait parmi les vestiges de magie noire que Patrina y avait laissés, Kasimir commença à soupçonner, avec une horreur grandissante, ce qui avait attiré son attention pendant les années où elle avait été absente.
+Mais c'est au niveau le plus profond du repaire de Patrina que Kasimir trouva les vestiges de son acte le plus vil : les cadavres de sept Vallakiens kidnappés et torturés, leurs entrailles éviscérées mijotant dans un chaudron—et les notes de Patrina, écrites dans un code royal que seuls eux deux se rappelaient, qui parlaient d'une potion qui permettrait à celui qui la boirait d'accéder à la lichéité.
+* C'est là que Kasimir trouva Patrina elle-même—manifestement à quelques minutes de boire la potion qui la transformerait.
+Horrifié par ce qu'il avait découvert, Kasimir exigea que Patrina se rende et fasse face à la justice.
+Patrina feignit la contrition—mais quand elle attaqua Kasimir avec de la magie noire, Kasimir riposta, tissant les mêmes sorts qu'elle lui avait enseignés il y a longtemps.
+* Patrina était de loin la mage la plus puissante—mais comme une grande partie de sa magie était liée à la potion de transformation, c'est Kasimir qui avait l'avantage.
+Une fois la bataille terminée, le laboratoire de Patrina gisait en ruines—et Patrina elle-même gisait morte sur le sol.
 
-* Deux mois après le retour de Patrina, Kasimir a appris d'une connaissance vistani que Patrina était non seulement devenue une compagne de Strahd, mais qu'elle avait en fait servi de tutrice ésotérique pendant près d'un an auparavant.
-Enragé, il a fait irruption dans sa chaumière, déterminé à l'affronter - et a trouvé à la place l'entrée cachée d'un laboratoire ésotérique qu'elle avait construit en dessous.
+* Kasimir fit s'effondrer le laboratoire de Patrina et enterra les Vallakiens qu'elle avait assassinés.
+Déterminé à protéger l'héritage autrefois brillant de sa sœur, Kasimir raconta à son peuple une demi-vérité : qu'elle était devenue une consorte de Strahd, et qu'il l'avait tuée pour l'empêcher de devenir un vampire.
+Quand la nouvelle de son mensonge parvint au Château Ravenloft, cependant, Strahd envoya Rahadin pour le punir en tuant toutes les femmes et les filles qui restaient parmi les elfes du crépuscule.
 
-* Alors qu'il errait au milieu des accessoires de magie noire que Patrina avait laissés là, Kasimir a commencé à soupçonner, avec une horreur naissante, ce qui avait attiré son attention pendant les années où elle avait été absente.
-Mais c'est au plus profond niveau du repaire de Patrina que Kasimir a trouvé les restes de son acte le plus vil : les cadavres de sept Vallakiens enlevés et torturés, leurs entrailles déshabillées mijotant dans un chaudron - et les notes de Patrina, écrites dans un chiffre royal que seuls eux deux se rappelaient, qui parlaient d'une potion qui permettrait à celui qui la boirait d'accéder au statut de liche.
+En concluant son récit, Kasimir, les mains tremblantes, abaisse doucement sa capuche pour révéler ses oreilles mutilées. "Il a tout pris à notre peuple," dit-il, la voix se brisant, "et m'a laissé celles-ci pour me les rappeler. Maintenant, je n'oublierai jamais le sang que mon mensonge a coûté à mon peuple—ni la douleur que mon orgueil leur a apportée."
 
-* C'est là que Kasimir a trouvé Patrina elle-même - à l'évidence à quelques minutes seulement d'absorber la potion qui la transformerait.
-Horrifié par ce qu'il avait trouvé, Kasimir a demandé à Patrina de se rendre et d'être jugée.
-Patrina a feint la contrition - mais lorsqu'elle a attaqué Kasimir avec la magie noire, Kasimir a répliqué, tissant les mêmes sorts qu'elle lui avait enseignés autrefois.
+Si les joueurs ont juré de garder le secret, Kasimir peut également partager les informations suivantes :
 
-* Patrina était de loin la mage la plus puissante - mais avec une grande partie de sa magie liée à la potion de transformation, c'est Kasimir qui avait l'avantage.
-Lorsque la bataille fut terminée, le laboratoire de Patrina était en ruines - et Patrina elle-même gisait morte sur le sol.
+* Il y a deux mois, peu après le réveil de Strahd de son hibernation, Patrina a envoyé à Kasimir un rêve cryptique : une vision du Temple d'Ambre, une promesse de vengeance contre Strahd, et un chemin vers le sarcophage d'ambre où reposerait prétendument le salut. Elle murmura qu'elle ressentait de la honte pour ses crimes, et qu'elle souhaitait simplement venger les morts de ses sœurs qui avaient péri sous les mains traîtresses de Rahadin.
+* Comme preuve de sa bonne volonté, Patrina informa Kasimir d'un étui à carte, caché dans les ruines d'Argynvostholt, dont le contenu le mènerait à l'emplacement depuis longtemps perdu du Temple. Bien que Kasimir restât méfiant des motivations de Patrina, la vengeance de Strahd contre le village de Barovia le troublait et l'alarmait. Le rêve de sa sœur pesant lourdement sur son esprit, Kasimir voyagea jusqu'à Argynvostholt, où il trouva la carte dont Patrina lui avait parlé.
+* Avec les ténèbres de Strahd se répandant rapidement à nouveau à travers la vallée, Kasimir partit pour les pentes du Mont Ghakis afin d'atteindre la vengeance promise par Patrina. Le voyage, cependant, s'avéra être plus que Kasimir ne pouvait supporter. La première fois, un blizzard imprévu le fit rebrousser chemin ; la seconde, les gargouilles démoniaques qui gardaient le poste de garde du Col de Tsolenka le forcèrent à s'écraser au milieu d'une congère dans un gouffre glacé. Kasimir retourna chez lui dans la douleur et la honte, désespéré de trouver un moyen d'atteindre un objectif qui restait désespérément hors de portée—et rencontra les joueurs peu après.
 
-* Kasimir a effondré le laboratoire de Patrina et a enterré les Vallakiens qu'elle avait assassinés.
-Déterminé à protéger l'héritage autrefois brillant de sa sœur, Kasimir a dit à son peuple une demi-vérité : qu'elle était devenue une compagne de Strahd, et qu'il l'avait tuée pour l'empêcher de devenir un vampire.
-Cependant, lorsque le mensonge de Kasimir parvint au château Ravenloft, Strahd dépêcha Rahadin pour le punir en tuant toutes les femmes et filles qui restaient parmi les elfes du crépuscule.
+Si, après avoir terminé son histoire, les joueurs demandent à Kasimir pourquoi il a menti sur son intérêt pour le Temple d'Ambre, il peut partager une ou plusieurs des raisons suivantes :
 
-Une fois son récit terminé, Kasimir, les mains tremblantes, baisse doucement sa capuche pour révéler ses oreilles mutilées. "Il a tout pris à notre peuple", dit-il d'une voix tremblante, "et m'a laissé cela pour m'en souvenir. Désormais, je n'oublierai jamais le sang que mon mensonge a coûté à mon peuple - ni la douleur que mon orgueil leur a apportée."
-
-Si les joueurs ont juré le secret, Kasimir peut également partager les informations suivantes :
-
-* Il y a deux mois, peu après que Strahd se soit réveillé de son hibernation, Patrina a envoyé à Kasimir un rêve cryptique : une vision du Temple d'Ambre, une promesse de vengeance contre Strahd et un chemin vers le sarcophage d'ambre où se trouverait le salut. Elle a murmuré qu'elle avait honte de ses crimes et qu'elle souhaitait simplement venger la mort de ses sœurs, tombées sous les coups de la trahison de Rahadin.
-* Pour prouver sa bonne volonté, Patrina a parlé à Kasimir d'un étui à cartes, caché dans les ruines d'Argynvostholt, dont le contenu le mènerait à l'emplacement depuis longtemps perdu du Temple. Bien que Kasimir soit resté méfiant quant aux motivations de Patrina, la vengeance de Strahd contre le village de Barovia l'a troublé et alarmé. Avec le rêve de sa sœur pesant lourdement sur son esprit, Kasimir s'est rendu à Argynvostholt, où il a trouvé la carte dont Patrina lui avait parlé.
-* Alors que les ténèbres de Strahd s'étendaient rapidement à nouveau dans la vallée, Kasimir est parti pour les pentes du Mont Ghakis afin d'atteindre la vengeance promise par Patrina. Cependant, le voyage s'est avéré trop ardu pour Kasimir. La première fois, une bourrasque de neige l'a forcé à rebrousser chemin ; la deuxième fois, les gargouilles démoniaques qui gardaient le corps de garde du Passage Tsolenka l'ont fait s'écraser dans un ravin glacé. Kasimir est rentré chez lui, meurtri et honteux, désespéré de trouver un moyen d'atteindre un but si proche mais pourtant hors de portée - et a rencontré les joueurs peu après.
-
-Si, après avoir terminé son récit, les joueurs demandent à Kasimir pourquoi il a menti sur son intérêt pour le Temple d'Ambre, il peut partager une ou plusieurs des raisons suivantes :
-
-* Le Temple est souvent associé à la magie noire et aux pouvoirs maléfiques, et il a préféré garder son intérêt pour le Temple secret afin d'éviter d'être étiqueté comme un mage noir - ou pire, d'attirer l'attention d'individus peu recommandables qui pourraient convoiter son pouvoir pour leurs propres desseins obscurs.
-* Lorsque Kasimir a tué Patrina il y a quatre siècles, il a intentionnellement dissimulé la vérité sur sa chute pour préserver son héritage en tant que leader intellectuelle des elfes du crépuscule et combattante indomptable pour leur liberté. Aujourd'hui, Kasimir n'ose pas révéler la vérité sur sa descente dans la magie noire ou ses liens avec le Temple d'Ambre, de peur de ternir son héritage pour toujours.
-* Kasimir croit que la tâche que Patrina lui a confiée est un fardeau qu'il doit porter seul. Bien qu'il sache que les pentes du Mont Ghakis sont dangereuses - et le Temple lui-même encore plus - Kasimir refuse de faire peser d'autres morts sur sa conscience en permettant ou en invitant les joueurs à l'accompagner.
-
+* Le Temple est souvent associé à la magie noire et aux pouvoirs maléfiques, et il préférait garder son intérêt pour le Temple secret pour éviter d'être étiqueté comme un sorcier noir—ou, pire, d'attirer l'attention d'individus peu recommandables qui pourraient convoiter son pouvoir pour leurs propres desseins obscurs.
+* Lorsque Kasimir a tué Patrina il y a quatre siècles, il a délibérément dissimulé la vérité sur sa déchéance afin de préserver son héritage en tant que leader intellectuelle des elfes du crépuscule et combattante indomptable pour leur liberté. Maintenant, Kasimir n'ose pas révéler la vérité sur sa descente dans la magie noire, ou ses associations avec le Temple d'Ambre, de peur de ternir son héritage à jamais.
+* Kasimir croit que la tâche que Patrina lui a confiée est un fardeau qu'il doit porter seul. Bien qu'il sache que les pentes du Mont Ghakis sont dangereuses—et le Temple lui-même encore plus—Kasimir refuse de placer davantage de morts sur sa conscience en permettant ou en invitant les joueurs à l'accompagner.
 ## R4b. La Vengeance des Druides
-Le trajet du campement des elfes du crépuscule jusqu'au Carrefour de la Rivière Corbeau est de 6,8 kilomètres et prend une heure et vingt-cinq minutes.
+Le voyage depuis le campement des elfes du crépuscule jusqu'au Carrefour de la Rivière Corbeau fait 6,8 kilomètres et prend une heure et vingt-cinq minutes.
 
-Cette zone est largement décrite comme dans <span class="citation">R. Carrefour de la Rivière Corbeau (p. 40)</span>. Cependant, le carrefour dissimule désormais trois pièges de fosses à pointes empoisonnées (<span class="citation">Guide du Maître, p. 122</span>), camouflés comme décrit dans <span class="citation">Fausse Piste (p. 30)</span>.
+Cette zone est largement telle que décrite dans <span class="citation">R. Carrefour de la Rivière Corbeau (p. 40)</span>. Cependant, le carrefour cache maintenant trois fosses piégées à pointes empoisonnées (<span class="citation">Guide du Maître, p. 122</span>), dissimulées comme décrit dans <span class="citation">Fausse Piste (p. 30)</span>.
 
-Ensemble, les fosses forment une diagonale à travers la route qui va du début du sentier menant au Lac Baratok (sentier du lac) au début du sentier menant au Mont Ghakis (sentier de la montagne). Une passerelle de 60 cm de large entre chaque fosse permet de passer en toute sécurité.
+Ensemble, les fosses piégées forment une diagonale à travers la route qui va du début du chemin vers le Lac Baratok (chemin du lac) jusqu'au début du sentier vers le Mont Ghakis (sentier de montagne). Une passerelle de 60 centimètres de large entre chaque fosse piégée permet un passage sûr entre elles.
 
-Trois **assaillants druides**, trois **berserkers** et deux **triades de racines épineuses** se cachent dans les Bois de Svalich à proximité, répartis comme suit :
+Trois **druides assaillants**, trois **berserkers**, et deux **triades d'épines-racines** se cachent dans les Bois Svalich à proximité, répartis comme suit :
 
-* Deux assaillants druides et un berserker à l'est du sentier de la montagne
-* Un assaillant druide et deux berserkers à l'est du sentier du lac
-* Une triade de racines épineuses à l'ouest du sentier du lac
-* Une triade de racines épineuses à l'ouest du sentier de la montagne
+* Deux druides assaillants et un berserker à l'est du sentier de montagne
+* Un druide assaillant et deux berserkers à l'est du chemin du lac
+* Une triade d'épines-racines à l'ouest du chemin du lac
+* Une triade d'épines-racines à l'ouest du sentier de montagne
 
+> [!lore]+ **Triade de Pics-Racines**
+> Suite à la victoire des joueurs contre le Peuple de la Forêt dans [[Arc J - La Gemme Volée]], plusieurs **druides naturalistes** se sont rendus aux ruines de Berez, recherchant l'aide de la sorcière du marais Baba Lysaga pour renforcer leur magie. Les **triades de pics-racines** en furent le résultat : des trios de druides naturalistes avec des pics en bois enfoncés dans leurs yeux, des runes sanglantes gravées dans leur chair, et une couverture d'écorce sur leur peau.
 
+Les druides assaillants ont préparé *passage sans trace* au lieu de *vision dans le noir*. Quand les joueurs arrivent, un druide assaillant dans chaque groupe et les deux triades de pics-racines se concentrent sur le sort *passage sans trace*, dissimulant chaque druide et berserker à portée.
 
-> [!lore]+ **Triade de Racines Épineuses**
-> Suite à la victoire des joueurs sur les Gens de la Forêt dans [[Arc J - Le Joyau Volé]], plusieurs **druides naturalistes** se sont rendus dans les ruines de Berez, cherchant l'aide de la sorcière des marais Baba Lysaga pour renforcer leur magie. Les **triades de racines épineuses** étaient le résultat final : des trios de druides naturalistes avec des piques en bois plantées dans leurs yeux, des runes sanglantes gravées dans leur chair et un revêtement d'écorce sur leur peau.
-
-Les druides assaillants ont préparé *passer sans trace* au lieu de *vision dans le noir*. Lorsque les joueurs arrivent, un druide assaillant dans chaque groupe et les deux triades de racines épineuses se concentrent sur le sort *passer sans trace*, dissimulant chaque druide et berserker à portée.
-
-Les druides attaquent lorsque des joueurs tombent dans, découvrent ou contournent les fosses. Quand ils le font, chaque joueur avec un score de Sagesse (Perception) passif de 19 ou moins est surpris.
+Les druides attaquent lorsque des joueurs tombent dans les fosses, les découvrent ou les contournent. Dans ce cas, chaque joueur ayant un score de Sagesse (Perception) passive de 19 ou moins est surpris.
 
 Au combat, les druides et les berserkers agissent comme suit :
 
-* La triade de racines épineuses sur le chemin du lac lance *colère de la nature* à son premier tour, puis utilise son action lors des tours suivants pour lancer *flétrissure* ou son attaque multiple pour lancer *fouet épineux*.
-* La triade de racines épineuses sur le sentier de la montagne lance *mur de feu* à son premier tour - espérant diviser le groupe en deux - puis utilise son action lors des tours suivants pour lancer *vague de tonnerre* ou son attaque multiple pour lancer *produire des flammes*.
-* Les druides assaillants et les berserkers attaquent et coincent les joueurs vulnérables, préférant s'attaquer aux cibles avec peu de points de vie et/ou une faible classe d'armure.
+* La triade de pics-racines près du sentier du lac lance *colère de la nature* à son premier tour, puis utilise son action lors des tours suivants pour lancer *flétrissement* ou sa attaque multiple pour lancer *fouet épineux*.
+* La triade de pics-racines près du sentier de montagne lance *mur de feu* à son premier tour—espérant diviser le groupe en deux—puis utilise son action lors des tours suivants pour lancer *onde de choc* ou sa attaque multiple pour lancer *produire une flamme*.
+* Les druides assaillants et les berserkers attaquent et encerclent les joueurs vulnérables, préférant cibler ceux avec peu de points de vie et/ou une Classe d'Armure basse.
+
 
 <div class="statblock">
-<h2>Triade de Racines Épineuses</h2>
-<em>Trio de grandes créatures de taille moyenne, neutre mauvais</em>
+<h2>Triade de Pics-Racines</h2>
+<em>Grand trio de créatures Moyennes, neutre mauvais</em>
 <hr>
 <strong>Classe d'Armure</strong> 16 (armure naturelle)<br>
 <strong>Points de Vie</strong> 120 (16d10 + 32)<br>
 <strong>Vitesse</strong> 9 m<br>
-<strong>Sens</perceptions</strong> vue aveugle 91 m (aveugle au-delà de cette distance), Perception passive 13<br>
-<strong>Défi</strong> 5<br>
-<strong>Bonus de maîtrise</strong> +3
+<strong>Sens</strong> vision aveugle 90 m (aveugle au-delà de ce rayon), Perception passive 13<br>
+<strong>Facteur de Puissance</strong> 5<br>
+<strong>Bonus de Maîtrise</strong> +3
 <hr>
 <table class="ability-table">
   <thead>
@@ -715,30 +765,30 @@ Au combat, les druides et les berserkers agissent comme suit :
   </tbody>
 </table>
 <hr>
-<strong>Jets de sauvegarde</strong> Sag +8, Cha +4<br>
+<strong>Jets de Sauvegarde</strong> Sag +8, Cha +4<br>
 <strong>Compétences</strong> Perception +8, Nature +4<br>
-<strong>Sens</perceptions</strong> vue aveugle 91 m (aveugle au-delà de cette distance), Perception passive 13<br>
-<strong>Langues</strong> comprend le commun mais ne peut pas parler, télépathie à 18 m<br>
-<strong>Bonus de maîtrise</strong> +3
+<strong>Sens</strong> vision aveugle 90 m (aveugle au-delà de ce rayon), Perception passive 13<br>
+<strong>Langues</strong> comprend le Commun mais ne peut pas parler, télépathie dans un rayon de 18 m<br>
+<strong>Bonus de Maîtrise</strong> +3
 <hr>
 <h3>Actions</h3>
-<p><strong><em>Attaques multiples.</em></strong> La triade lance <em>fouet épineux</em> ou <em>produire des flammes</em> deux fois.</p>
+<p><strong><em>Attaque multiple.</em></strong> La triade lance <em>fouet épineux</em> ou <em>produire une flamme</em> deux fois.</p>
 <p><strong><em>Fouet épineux.</em></strong> La triade lance <em>fouet épineux</em>, infligeant 10 (3d6) dégâts perforants en cas de réussite.</p>
-<p><strong><em>Produire des flammes.</em></strong> La triade lance <em>produire des flammes</em>, infligeant 13 (3d8) dégâts de feu en cas de réussite.</p>
-<p><strong><em>Vague de tonnerre.</em></strong> La triade lance <em>vague de tonnerre</em> (DD 16) dans un cube de 6 mètres. Une créature qui rate son jet de sauvegarde subit 18 (4d8) dégâts de tonnerre à la place.</p>
-<p><strong><em>Flétrissure (3/jour).</em></strong> La triade lance <em>flétrissure</em> (DD 16).</p>
+<p><strong><em>Produire une flamme.</em></strong> La triade lance <em>produire une flamme</em>, infligeant 13 (3d8) dégâts de feu en cas de réussite.</p>
+<p><strong><em>Onde de choc.</em></strong> La triade lance <em>onde de choc</em> (DD 16) dans un cube de 6 mètres. Une créature qui rate son jet de sauvegarde subit 18 (4d8) dégâts de tonnerre.</p>
+<p><strong><em>Flétrissement (3/jour).</em></strong> La triade lance <em>flétrissement</em> (DD 16).</p>
 <p><strong><em>Mur de feu (1/jour, requiert concentration).</em></strong> La triade lance <em>mur de feu</em> (DD 16).</p>
 <p><strong><em>Colère de la nature (1/jour, requiert concentration).</em></strong> La triade lance <em>colère de la nature</em> (DD 16).</p>
 <hr>
 </div>
 
 <div class="statblock">
-    <h2>Agresseur Druide</h2>
-    <em>Humain de taille moyenne, neutre mauvais</em>
+    <h2>Druide Assaillant</h2>
+    <em>Humanoïde de taille moyenne, neutre mauvais</em>
     <hr>
-    <strong>Classe d'Armure</strong> 11 (16 avec <em>armure d'écorce</em>)
+    <strong>Classe d'Armure</strong> 11 (16 avec <em>peau d'écorce</em>)
     <br>
-    <strong>Points de vie</strong> 55 (10d8 + 10)
+    <strong>Points de Vie</strong> 55 (10d8 + 10)
     <br>
     <strong>Vitesse</strong> 9 m
     <hr>
@@ -768,1580 +818,1660 @@ Au combat, les druides et les berserkers agissent comme suit :
     <strong>Compétences</strong> Médecine +4, Nature +3, Perception +4<br>
     <strong>Sens</strong> Perception passive 14<br>
     <strong>Langues</strong> Druidique et Commun<br>
-    <strong>Dangerosité</strong> 2<br>
-    <strong>Bonus de compétence</strong> +2
+    <strong>Facteur de Puissance</strong> 2<br>
+    <strong>Bonus de Maîtrise</strong> +2
     <hr>
-    <p><strong><em>Incantations.</em></strong> Le druide est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (jet de sauvegarde contre les sorts DD 12, +4 pour toucher avec les attaques de sort). Il a les sorts de druide suivants préparés :</p>
+    <p><strong><em>Incantation.</em></strong> Le druide est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD de sauvegarde des sorts 12, +4 au toucher avec les attaques de sort). Il a préparé les sorts de druide suivants :</p>
     <ul>
-        <li>Tours de magie (à volonté) : produire flamme, bure de bâton, fouet d'épines</li>
-        <li>Niveau 1 (4 emplacements) : feu follet, longue marche, parler avec les animaux, vague tonnante</li>
-        <li>Niveau 2 (3 emplacements) : armure d'écorce, vision dans le noir</li>
+        <li>Tours de magie (à volonté) : produire une flamme, shillelagh, fouet épineux</li>
+        <li>1er niveau (4 emplacements) : lueurs féeriques, grande foulée, communication avec les animaux, vague tonnante</li>
+        <li>2e niveau (3 emplacements) : peau d'écorce, vision dans le noir</li>
     </ul>
     <h3>Actions</h3>
-    <p><strong><em>Attaques multiples.</em></strong> Le druide effectue deux attaques avec son <em>quarterstaff</em>.</p>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Attaque d'arme au corps à corps :</em> +2 pour toucher (+4 pour toucher avec <em>bure de bâton</em>), allonge 1,5 m, une cible. <em>Touché :</em> 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est manié à deux mains, ou 6 (1d8 + 2) dégâts contondants avec <em>bure de bâton</em>.</p>
+    <p><strong><em>Attaques multiples.</em></strong> Le druide effectue deux attaques avec son <em>bâton</em>.</p>
+    <p><strong><em>Bâton.</em></strong> <em>Attaque d'arme au corps à corps :</em> +2 au toucher (+4 au toucher avec <em>shillelagh</em>), allonge 1,5 m, une cible. <em>Touché :</em> 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants si manié à deux mains, ou 6 (1d8 + 2) dégâts contondants avec <em>shillelagh</em>.</p>
     <h3>Actions bonus</h3>
-    <p><strong><em>Vitesse de la vipère.</em></strong> Le druide lance un sort qu'il connaît avec un temps d'incantation d'une action. (Le druide ne peut pas lancer un autre sort au cours du même tour, sauf un tour de magie avec un temps d'incantation d'une action.)</p>
+    <p><strong><em>Vitesse de la Vipère.</em></strong> Le druide lance un sort qu'il connaît avec un temps d'incantation d'une action. (Le druide ne peut pas lancer un autre sort durant le même tour, à l'exception d'un tour de magie avec un temps d'incantation d'une action.)</p>
     <h3>Réactions</h3>
-    <p><strong><em>Don du Gulthias.</em></strong> En réaction à une attaque d'une créature qu'il peut voir, le druide lance <em>armure d'écorce</em>, à condition qu'il lui reste un emplacement de sort de niveau 2. (Le sort ne nécessite pas de concentration lorsqu'il est lancé de cette manière.)</p>
+    <p><strong><em>Don du Gulthias.</em></strong> En réponse à une attaque d'une créature qu'il peut voir, le druide lance <em>peau d'écorce</em>, à condition qu'il dispose d'un emplacement de sort de niveau 2. (Le sort ne nécessite pas de concentration lorsqu'il est lancé de cette façon.)</p>
 </div>
 
+
+
+
+Pendant que le combat se déroule, les druides condamnent les joueurs pour leur "trahison" envers "le Seigneur de l'Ombre" — Strahd — et les "crimes" qu'ils ont commis à Yester Hill dans [[Arc J - La Gemme Volée]]. Ils avertissent en outre les joueurs que Strahd, Celui Qui Appelle la Foudre, "fera s'abattre la colère de la tempête sur leurs têtes pour leurs transgressions", et que ses serviteurs trouveront et éradiqueront "ceux qui s'opposent à lui, jusqu'à la racine".
+
+Lorsque le dernier druide meurt, il crache que "Corbeausbane" punira bientôt l'arrogance et la trahison des joueurs. (À l'insu des joueurs, "Corbeausbane" est l'un des surnoms que les druides donnent à Baba Lysaga, la sorcière de Berez. Le druide fait référence au complot de Baba Lysaga visant à kidnapper les hommes-corbeaux de la Vinerie du Sorcier, que les joueurs découvriront dans [[Arc U - Rêves d'Aube]].)
+## R4c. Le Monument
+Le voyage du Carrefour de la Rivière aux Corbeaux jusqu'au poste de garde du Col de Tsolenka fait 14,5 kilomètres de long et prend trois heures dans des conditions normales. Lorsque les joueurs partent pour la première fois du carrefour, lisez :
+
 <div class="description">
-<p>Ici, la terre boueuse de l'ancienne route de Svalich se transforme en un sentier de gravier branlant, qui serpente doucement à travers les bois de Svalich tout en montant lentement les pentes du Mont Ghakis. Bientôt, les arbres s'éclaircissent et la pente devient plus raide, l'air se refroidissant à chaque pas que vous faites.</p>
-
-<p>Alors que les bois de conifères disparaissent, le plus petit pic enneigé de la montagne se dresse devant vous, ses falaises abruptes enveloppées dans un brouillard gris et rampant. La route fait un lacet ici, contournant la montagne alors qu'elle monte progressivement au-dessus de la vallée en contrebas. Le sentier se rétrécit et devient plus dangereux, et des plaques de givre et de glace s'accrochent aux rochers anguleux qui bordent son rebord oriental.</p>
-
-<p>Une heure après le carrefour, la neige commence à tomber — d'abord en petites rafales, puis, pas trente minutes plus tard, dans un voile poudré et régulier qui recouvre le paysage et le sentier devant vous. Du gravier gelé et de la neige tassée crissent sous vos bottes, et des rafales glaciales mordent votre visage et vos mains, tourbillonnant la neige en remous qui dansent sur les falaises glacées. À l'ouest, une grande colline plate s'élève au loin, son sommet caché par des nuages orageux.</p>
-
-<p>À travers la neige, vous apercevez brièvement une ombre silencieuse debout à côté du sentier devant vous.</p>
+<p>Ici, la terre boueuse de la Vieille Route Svalich se transforme en un sentier de gravier friable, qui serpente doucement à travers les Bois Svalich alors qu'il monte lentement les pentes du Mont Ghakis. Bientôt, les arbres s'éclaircissent et l'élévation devient plus abrupte, l'air se refroidissant à chaque pas que vous faites.</p>
+<p>Alors que les bois d'arbres à feuillage persistant s'estompent, le plus petit sommet enneigé de la montagne se dresse devant vous, ses falaises escarpées voilées d'un brouillard gris et rampant. La route fait demi-tour ici, contournant la montagne tout en s'élevant régulièrement au-dessus de la vallée en contrebas. Le chemin devient plus étroit et plus périlleux, et des plaques de givre et de glace s'accrochent aux rochers déchiquetés qui bordent son côté est.</p>
+<p>Une heure après le carrefour, la neige commence à tomber — d'abord, en petites bourrasques, puis, à peine trente minutes plus tard, en un voile régulier et poudreux qui recouvre le paysage et le sentier devant vous. Le gravier gelé et la neige tassée craquent sous vos bottes, et des rafales amères mordent votre visage et vos mains, faisant tourbillonner la neige en remous qui dansent sur les falaises glacées. À l'ouest, une grande colline plate s'élève au loin, son sommet enveloppé de nuages d'orage.</p>
+<p>À travers la neige, vous apercevez une ombre silencieuse se tenant à côté du sentier devant vous.</p>
 </div>
 
-La grande colline est Yester Hill, et est reconnaissable par tout joueur qui réussit un jet de Intelligence (Investigation) de DD 10. Si un joueur a un score de Sagesse (Perception) passif de 26 ou plus, ajoutez :
+La grande colline est la Colline d'Antan, et est reconnaissable par tout joueur qui réussit un jet d'Intelligence (Investigation) DD 10. Si un joueur a un score de Sagesse (Perception) passive de 26 ou plus, ajoutez :
 
 <div class="description">
-<p>Vous voyez brièvement une silhouette scintillante dans la neige à une centaine de mètres derrière vous — mais un clin d'œil plus tard, elle a disparu.</p>
+<p>Vous voyez brièvement une silhouette vacillante dans la neige à une trentaine de mètres derrière vous — mais un clignement d'œil plus tard, elle a disparu.</p>
 </div>
 
-L'ombre derrière les joueurs est Rahadin, qui espère suivre les joueurs jusqu'au Temple d'Ambre afin de réclamer le pouvoir dont il a besoin pour les vaincre. S'il est approché, Rahadin se dissimule rapidement parmi les falaises surplombant le sentier. (En raison de la forte neige, Rahadin ne peut être trouvé à moins que les joueurs ne le suivent hors de la route.)
+La silhouette derrière les joueurs est Rahadin, qui espère suivre les joueurs jusqu'au Temple d'Ambre afin de réclamer le pouvoir dont il a besoin pour les vaincre. Si on l'approche, Rahadin se dissimule rapidement parmi les falaises surplombant le sentier. (En raison de la forte neige, Rahadin ne peut être trouvé que si les joueurs le suivent hors de la route.)
 
-L'ombre devant les joueurs est un monument brisé au roc du Mont Ghakis, construit par les Premiers Peuples il y a longtemps. Si un joueur s'approche de l'ombre ou réussit un jet de Sagesse (Perception) de DD 15, lisez :
-
-<div class="description">
-<p>L'ombre appartient à un ancien monument de pierre de 1,8 mètre de haut. Bien que le temps et les éléments aient érodé sa forme jusqu'à n'en faire plus qu'une vague silhouette, son bec et ses serres d'oiseau restent incontestables. Là où des ailes auraient pu autrefois s'élever, il ne reste cependant que des vestiges déchiquetés — des blessures de pierre dont les membres supérieurs se sont effrités depuis longtemps.</p>
-</div>  
-
-Un joueur qui réussit un jet de Sagesse (Perception) de DD 16, ou qui fouille la zone pendant une minute complète, repère deux petits monticules enneigés à quelques mètres du monument. Les monticules dissimulent les deux ailes brisées du monument, dont chacune reste largement d'un seul tenant.
-
-Peu après que les joueurs aient réparé ou décidé de partir du monument, ils sont attaqués par douze **vierges des neiges**. Lisez :
+L'ombre devant les joueurs est un monument brisé au roc du Mont Ghakis, construit par le Premier Peuple il y a longtemps. Si un joueur s'approche de l'ombre ou réussit un jet de Sagesse (Perception) DD 15, lisez :
 
 <div class="description">
-<p>Le vent hurle, son cri plaintif transperçant les crêtes glacées. Une rafale de neige tourbillonne à travers les falaises — puis semble <em>littéralement</em> danser, une silhouette fugace émergeant du brouillard blanc avant de se dissoudre dans les airs. La température chute encore plus tandis que plusieurs autres silhouettes indistinctes, elles aussi forgées de poudre tourbillonnante, scintillent lentement à travers la tempête vers vous.</p>
+<p>L'ombre appartient à un ancien monument de pierre de deux mètres de haut. Bien que le temps et les éléments aient érodé sa forme jusqu'à ne laisser guère plus qu'une vague silhouette, son bec et ses serres d'oiseau restent indéniables. Là où des ailes se seraient autrefois élevées, cependant, il ne reste que des vestiges déchiquetés — des blessures de pierre d'où ses membres supérieurs se sont depuis longtemps effrités.</p>
 </div>
 
-Les joueurs ont un round pour se préparer avant que les vierges des neiges n'attaquent. Quand les vierges des neiges attaquent, lisez :
+Un joueur qui réussit un jet de Sagesse (Perception) DD 16, ou qui fouille la zone pendant une minute complète, repère deux petits monticules enneigés à quelques mètres du monument. Les monticules dissimulent les deux ailes brisées du monument, chacune restant en grande partie d'un seul morceau.
+
+Peu après que les joueurs réparent ou s'apprêtent à quitter le monument, ils sont attaqués par douze **demoiselles des neiges**. Lisez :
 
 <div class="description">
-<p>Le vent hurlant se divise en un chœur de nombreuses voix, la neige tourbillonnante prenant les formes de jeunes femmes cruelles et squelettiques. Trois des jeunes filles manient des lances qui dégagent un froid glacial et sont montées sur des rafales de neige scintillantes ayant la forme d'énormes faucons avec des têtes de cerfs aux crocs acérés.</p>
-<p>Avec un cri perçant, elles fondent sur vous.</p>
+<p>Le vent hurle, son cri mélancolique traversant les crêtes glacées. Une bourrasque de neige tournoie à travers les falaises — puis semble <em>littéralement</em> danser, une silhouette fugace émergeant de la brume blanche avant de se dissoudre dans l'air. La température chute encore davantage alors que plusieurs autres silhouettes indistinctes, également forgées de poudre tourbillonnante, scintillent lentement à travers la tempête vers vous.</p>
 </div>
 
-Les jeunes filles de neige sont en grande partie telles que décrites dans <span class="citation">T6. Toit de la Tour de Garde (p. 159)</span>, mais avec les changements suivants :
+> [!lore]+ **Les Demoiselles des Neiges**
+> Les demoiselles des neiges qui demeurent au milieu des sommets du Mont Ghakis étaient autrefois les servantes du Chercheur. Cependant, elles sont tombées sous l'influence et le contrôle de Strahd suite à sa profanation et sa conquête du Sanctuaire de la Montagne — le cercle de menhirs dédié au Chercheur qui se trouve près du Vieux Bonegrinder.
 
-* Les jeunes filles sont des élémentaires au lieu d'être des morts-vivants
-* Les jeunes filles ont 76 (17d8) points de vie chacune
-* Les jeunes filles n'ont pas les traits *déplacement incorporel* et *sensibilité à la lumière du soleil*
-* Les jeunes filles ne sont pas immunisées aux dégâts nécrotiques et sont vulnérables aux dégâts de feu
-* Les trois jeunes filles armées de lances infligent 1d6 dégâts de froid supplémentaires lorsqu'elles touchent avec leurs attaques de ***drain de vie***.
+Les joueurs ont un tour pour se préparer avant que les demoiselles des neiges n'attaquent. Lorsque les demoiselles des neiges attaquent, lisez :
 
-Les trois jeunes filles armées de lances sont montées sur des **péritons de neige**, qui ont les statistiques de **péritons** avec les changements suivants :
+<div class="description">
+<p>Le vent hurlant se scinde en un chœur de nombreuses voix, la neige tourbillonnante prenant la forme de jeunes femmes au visage cruel et au corps squelettiquement mince. Trois de ces demoiselles manient des lances qui irradient un froid glacial, et chevauchent des tourbillons de neige scintillants qui ont pris la forme d'énormes faucons à tête de cerfs aux crocs acérés.</p>
+<p>Avec un cri strident, elles fondent sur vous.</p>
+</div>
 
-* Les péritons sont des élémentaires au lieu d'être des monstruosités
-* Les attaques des péritons infligent des dégâts de froid au lieu de dégâts perforants
-* Les péritons sont immunisés aux conditions suivantes : charmé, épuisement, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
-* Une monture périton agit à la même initiative que sa cavalière
+Les vierges des neiges sont largement comme décrites dans <span class="citation">T6. Toit de la Tour de Garde (p. 159)</span>, mais avec les changements suivants :
 
-Au combat, les jeunes filles armées de lances et leurs montures ciblent les membres du groupe les plus robustes ou en meilleure santé, tandis que les jeunes filles non montées ciblent les plus faibles.
+* Les vierges sont des élémentaires au lieu de morts-vivants
+* Les vierges ont 76 (17d8) points de vie chacune
+* Les vierges n'ont pas les capacités *déplacement incorporel* et *sensibilité à la lumière du soleil*
+* Les vierges ne sont pas immunisées aux dégâts nécrotiques, et sont vulnérables aux dégâts de feu
+* Les trois vierges armées de lances infligent 1d6 dégâts de froid supplémentaires lorsqu'elles touchent avec leurs attaques de ***drain de vie***.
+
+Les trois vierges armées de lances sont montées sur des **perytons des neiges**, qui ont les statistiques des **perytons** avec les changements suivants :
+
+* Les perytons sont des élémentaires au lieu de monstruosités
+* Les attaques des perytons infligent des dégâts de froid au lieu de dégâts perforants
+* Les perytons sont immunisés aux états suivants : charmé, épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+* Une monture peryton agit à la même initiative que son cavalier
+
+Au combat, les vierges armées de lances et leurs montures ciblent les membres du groupe qui semblent les plus robustes ou en meilleure santé, tandis que les vierges sans monture ciblent les plus faibles.
 
 > [!abstract]+ **La Bénédiction du Roc**
-> À l'initiative 20 du deuxième tour de combat, si les joueurs ont réparé les ailes du monument (par exemple, en utilisant un sort de *réparation*) ou lui ont rendu hommage d'une autre manière, un joueur avec un score de Sagesse (Perception) passif de 13 ou plus remarque que les yeux de la statue brillent d'un bleu céruleen glacial. Les joueurs bénéficient alors des effets d'un sort de *mur de vent*, placé de manière à obstruer ou blesser le plus grand nombre possible de jeunes filles de neige.
+> Au compte d'initiative 20 du deuxième round de combat, si les joueurs ont réparé les ailes du monument (par exemple, grâce à un sort de *réparation*) ou lui ont rendu hommage d'une autre manière, un joueur avec un score de Sagesse (Perception) passive de 13 ou plus remarque que les yeux de la statue brillent d'un bleu céruléen froid. Les joueurs bénéficient alors des effets d'un sort de *mur de vent*, placé de manière à bloquer ou blesser le plus grand nombre possible de vierges des neiges.
 >
-> Lorsqu'il est lancé de cette manière, le sort de *mur de vent* fait 15 mètres de haut et empêche les créatures volantes de taille Moyenne ou inférieure de le traverser. Les jeunes filles de neige obstruées par le mur poussent des cris de frustration, puis fuient le combat.
-## R4d. La Blizzard
-Alors que les joueurs progressent au-delà du monument, la route les mène dans le col de Tsolenka proprement dit. Lire :
+> Lancé de cette façon, le sort de *mur de vent* fait 15 mètres de haut et empêche les créatures volantes de taille M ou inférieure de le traverser. Les vierges des neiges ainsi bloquées poussent des cris de frustration contre le mur, puis fuient le combat.
+## R4d. La Tempête de Neige
+Lorsque les joueurs dépassent le monument, la route les conduit dans le Col de Tsolenka proprement dit. Lisez :
 
 <div class="description">
-<p>Laissant derrière vous l'ancien monument, la route passe entre deux pics de montagne vertigineux - l'un au nord s'élançant vers le ciel comme un dé à coudre, et l'autre au sud s'étalant paresseusement au-dessus de la vallée lointaine. Il ne faut pas longtemps avant que la route sinueuse ne sorte complètement de la vue des Bois de Svalich, les arbres lointains disparaissant derrière le rebord d'un contrefort montagneux.</p>
-<p>Le vent se lève, hurlant à travers les pics montagneux tandis que les chutes de neige redoublent d'intensité. L'épaisse bourrasque tourbillonnante rend difficile de voir à plus de quelques mètres, et la neige tombée atteint déjà vos mollets, dissimulant la route et vous forçant à vous battre pour chaque centimètre parcouru. Après une heure ou plus depuis votre départ du monument, vous doutez d'avoir parcouru plus d'un kilomètre.</p>
-<p>Kasimir se tourne vers vous et resserre sa cape qui claque au vent, criant pour se faire entendre par-dessus les rafales hurlantes. "Je ne sais pas combien de temps nous pourrons encore voyager dans ces conditions !" hurle-t-il d'une voix rauque. "La guérite n'est qu'à quelques kilomètres, mais elle est gardée - et si nous restons plus longtemps exposés à ce temps, nous risquons l'épuisement, ou pire."</p>
+<p>Laissant derrière vous l'ancien monument, la route passe entre deux pics montagneux imposants — l'un au nord qui s'élance dans les airs comme un dé à coudre, et l'autre au sud qui s'étale paresseusement au-dessus de la vallée en contrebas. Très vite, la route sinueuse vous fait perdre de vue les Bois Svalich, les arbres lointains disparaissant derrière l'arête d'un éperon montagneux peu élevé.</p>
+<p>Le vent se lève, hurlant à travers les crêtes montagneuses tandis que les chutes de neige redoublent d'intensité. L'épais blizzard tourbillonnant rend difficile de voir à plus de quelques mètres devant vous, et la neige accumulée vous arrive déjà au-dessus des genoux, dissimulant la route et vous obligeant à lutter pour chaque centimètre parcouru. Après une heure ou plus depuis votre départ du monument, vous doutez avoir parcouru plus d'un kilomètre et demi.</p>
+<p>Kasimir se tourne vers vous et resserre étroitement sa cape qui flotte au vent, criant pour se faire entendre par-dessus les vents hurlants. "Je ne sais pas jusqu'où nous pourrons voyager dans ces conditions !" hurle-t-il d'une voix rauque. "Le corps de garde n'est qu'à quelques kilomètres, mais il est gardé — et si nous restons dehors par ce temps beaucoup plus longtemps, nous risquons l'épuisement, ou pire."
 </div>
 
-Si on lui demande, Kasimir peut partager que la guérite est gardée par un quatuor de démons volants pétrifiés, qui se sont animés et l'ont attaqué lors de sa dernière visite quand il a essayé de contourner la guérite à l'aide d'une corde.
+Si on l'interroge, Kasimir peut révéler que le corps de garde est gardé par un quatuor de démons volants pétrifiés, qui se sont animés et l'ont attaqué lors de sa visite la plus récente, lorsqu'il a tenté de contourner le corps de garde à l'aide d'une corde.
 
-> [!info]+ **Quelle Heure Est-Il ?**
-> Au moment de l'avertissement de Kasimir, les joueurs ont parcouru 16 km et quatre heures (sans compter les courtes pauses ou autres détours), laissant environ six heures avant la tombée de la nuit et 4,4 km jusqu'à ce qu'ils atteignent [[#R4e. La Guérite]].
-### Chercher un Abri
-Les joueurs qui choisissent de chercher un abri contre la tempête peuvent faire un jet de Sagesse (Survie). La difficulté pour trouver un abri est la suivante :
+> [!info]+ **Quelle heure est-il ?**
+> Au moment de l'avertissement de Kasimir, les joueurs ont parcouru seize kilomètres en quatre heures (sans compter les repos courts ou autres détours), laissant environ six heures jusqu'à la tombée de la nuit et quatre kilomètres et demi jusqu'à ce qu'ils atteignent [[#R4e. La Loge]].
+### Chercher un abri
+Les joueurs qui choisissent de chercher un abri contre la tempête peuvent effectuer un jet de Sagesse (Survie). La difficulté pour trouver un abri est la suivante :
 
-* **DD 5 :** Les joueurs trouvent un léger surplomb rocheux au-dessus d'une petite dépression dans la neige, offrant une protection minimale contre les éléments. Les joueurs qui s'abritent ici peuvent se reposer normalement, mais doivent réussir un jet de sauvegarde de Constitution DD 10 à la fin de chaque heure que dure la tempête de neige, en gagnant un niveau d'épuisement en cas d'échec.
-* **DD 10 :** Les joueurs trouvent une alcôve rocheuse partiellement protégée par une saillie rocheuse, offrant une protection décente contre le vent et la neige. Les joueurs qui s'abritent ici peuvent se reposer normalement, mais doivent réussir un jet de sauvegarde de Constitution DD 10 avec avantage à la fin de chaque heure que dure la tempête de neige, en gagnant un niveau d'épuisement en cas d'échec.
-* **DD 15 :** Les joueurs trouvent une formation rocheuse massive qui couvre un grand espace sec protégé de la plupart des éléments. Les joueurs qui s'abritent ici peuvent se reposer normalement, et n'ont pas besoin de faire de jets de sauvegarde contre l'épuisement dû à la tempête de neige.
-* **DD 20 :** Les joueurs trouvent une grotte spacieuse et bien cachée. Les joueurs qui s'abritent ici peuvent se reposer normalement, et n'ont pas besoin de faire de jets de sauvegarde contre l'épuisement dû à la tempête de neige. À l'intérieur de la grotte, les joueurs trouvent les restes d'un ancien camp, y compris des restes de bois de chauffage en décomposition et une petite réserve de vieilles fournitures, notamment des rations séchées et un grappin rudimentaire attaché à une vieille corde de chanvre de 15 mètres. (Si présent, Kasimir reconnaît le grappin comme étant de fabrication des Gens des Montagnes.) De plus, un joueur avec un score de Sagesse (Perception) passif de 13 ou plus, ou qui explore la grotte plus en profondeur, trouve l'étoile à trois branches des Trois Dames gravée sur le mur près de l'entrée - une marque des Gens des Montagnes désignant la grotte comme un abri sûr contre les intempéries et les monstres du Mont Ghakis.
+* **DD 5 :** Les joueurs trouvent un léger surplomb rocheux au-dessus d'une petite dépression dans la neige, offrant une protection minimale contre les éléments. Les joueurs qui s'abritent ici peuvent se reposer normalement, mais doivent réussir un jet de sauvegarde de Constitution DD 10 à la fin de chaque heure que dure le blizzard, gagnant un niveau d'épuisement en cas d'échec.
+* **DD 10 :** Les joueurs trouvent une alcôve rocheuse partiellement protégée par un affleurement rocheux, offrant une protection décente contre le vent et la neige. Les joueurs qui s'abritent ici peuvent se reposer normalement, mais doivent effectuer un jet de sauvegarde de Constitution DD 10 avec avantage à la fin de chaque heure que dure le blizzard, gagnant un niveau d'épuisement en cas d'échec.
+* **DD 15 :** Les joueurs trouvent une formation rocheuse massive qui couvre un grand espace sec protégé de la plupart des éléments. Les joueurs qui s'abritent ici peuvent se reposer normalement et n'ont pas besoin de faire des jets de sauvegarde contre l'épuisement dû au blizzard.
+* **DD 20 :** Les joueurs trouvent une grotte spacieuse bien cachée. Les joueurs qui s'abritent ici peuvent se reposer normalement et n'ont pas besoin de faire des jets de sauvegarde contre l'épuisement dû au blizzard. Dans la grotte, les joueurs trouvent les restes d'un ancien campement, incluant des restes de bois de chauffage en décomposition et une petite cache de vieilles provisions, comprenant des rations séchées et un grappin rudimentaire attaché à une vieille corde de chanvre de quinze mètres. (Si présent, Kasimir reconnaît le grappin comme étant de fabrication du Peuple des Montagnes.) De plus, un joueur avec un score de Sagesse (Perception) passive de 13 ou plus, ou qui explore la grotte plus en profondeur, trouve l'étoile à trois pointes des Trois Dames gravée dans le mur près de l'entrée — un marqueur du Peuple des Montagnes désignant la grotte comme un refuge sûr contre les intempéries et les monstres du Mont Ghakis.
 
-Les joueurs peuvent répéter le jet autant de fois qu'ils le souhaitent, en prenant quinze minutes supplémentaires pour chercher à chaque fois. Chaque fois qu'ils le font, chaque joueur doit réussir un jet de sauvegarde de Constitution DD 5, en gagnant un niveau d'épuisement en cas d'échec.
+Les joueurs peuvent répéter le jet autant de fois qu'ils le souhaitent, prenant quinze minutes supplémentaires pour chercher à chaque fois. Chaque fois qu'ils le font, chaque joueur doit réussir un jet de sauvegarde de Constitution DD 5, gagnant un niveau d'épuisement en cas d'échec.
 
 En attendant la tombée de la nuit, Ireena demande aux joueurs ce qu'ils prévoient de faire une fois que Strahd sera mort. Si elle est impliquée dans la conversation, elle, Ezmerelda et Kasimir répondent à la question comme suit :
 
-* Ireena partage son espoir de voyager à travers le monde. Si on lui demande où elle pourrait aller ou avec qui elle pourrait voyager, ou à tout autre moment approprié, un joueur avec un score de Sagesse (Perspicacité) passif de 15 ou plus remarque qu'elle jette un bref regard rougissant vers Ezmerelda. (Si Ireena a développé des sentiments romantiques pour un autre personnage, elle jette un regard vers ce personnage à la place.)
-* Ezmerelda partage son espoir de suivre les traces du Dr Van Richten et de former d'autres chasseurs de monstres pour poursuivre le combat contre les créatures des ténèbres. "Je ne pense pas que nous gagnerons vraiment un jour", dit-elle, avec une certaine morosité. "Même une fois Zarovich mort, il y en aura toujours un autre. Mais les gens que nous sauvons sont une victoire suffisante."
-* Kasimir rit faiblement et partage qu'il n'a jamais vraiment envisagé le concept d'une "vie après Strahd". "Vous devez comprendre", dit-il. "Strahd von Zarovich et sa famille définissent ma vie depuis que j'ai à peine quelques décennies. Il m'a enlevé mes parents, mon oncle, ma sœur et mes amis." Il soupire et regarde au loin, puis ajoute : "Peut-être qu'un jour, je pourrai tancer en paix, et laisser les esprits des morts se reposer enfin. Mais jusqu'à présent, je ne vois que de la brume."
+* Ireena partage qu'elle espère voyager à travers le monde. Si on lui demande où elle pourrait aller ou avec qui elle pourrait voyager, ou à tout autre moment approprié, un joueur avec un score de Sagesse (Perspicacité) passive de 15 ou plus remarque qu'elle jette un bref regard rougissant vers Ezmerelda. (Si Ireena a développé des sentiments romantiques pour un autre personnage, elle regarde ce personnage à la place.)
+* Ezmerelda partage qu'elle espère suivre le chemin du Dr Van Richten et former d'autres chasseurs de monstres pour poursuivre la lutte contre les créatures des ténèbres. "Je ne pense pas que nous gagnerons vraiment un jour," dit-elle, quelque peu morose. "Même une fois que Zarovich sera mort, il y en aura toujours un autre. Mais les personnes que nous sauvons sont une victoire suffisante."
+* Kasimir rit faiblement et partage qu'il n'a jamais vraiment envisagé le concept d'une "vie après Strahd". "Vous devez comprendre," dit-il. "Strahd von Zarovich et sa famille ont défini ma vie depuis que j'avais à peine quelques décennies. Il m'a pris mes parents, mon oncle, ma sœur et mes amis." Il soupire et regarde au loin, puis ajoute : "Peut-être qu'un jour, je pourrai entrer en transe en paix, et laisser les esprits des morts enfin se reposer. Mais jusque-là, tout ce que je vois, c'est de la brume."
 
+Peu après la fin de la conversation, chaque joueur avec un score de Sagesse (Perception) passive de 14 ou plus remarque qu'Ireena frissonne de froid. Si Ireena n'a pas développé de sentiments romantiques pour un autre personnage, et si les joueurs ne l'en empêchent pas, Ezmerelda s'approche d'elle et propose de partager sa couverture. Ireena accepte avec gratitude, bien qu'un joueur avec un score de Sagesse (Perspicacité) passive de 15 ou plus remarque que son visage rougit légèrement lorsqu'Ezmerelda enveloppe la couverture autour de ses épaules.
 
+> [!warning]+ **Limitations du repos long**
+> Notez que les joueurs ne peuvent pas commencer leur repos long de façon anticipée (par exemple, dès qu'ils trouvent un abri), et doivent attendre leur heure normale de repos long pour le faire. Voir <span class="citation">Repos long (<em>Manuel des Joueurs 2014</em>, p. 186)</span> ou <span class="citation">Repos long (<em>Manuel des Joueurs 2024</em>, p. 370)</span> pour plus d'informations.
+### Progression à travers le blizzard
+Si les joueurs choisissent de continuer à travers le blizzard jusqu'au poste de garde, ils doivent réussir un jet de sauvegarde de Constitution DD 15 à la fin de chaque heure de voyage, gagnant un niveau d'épuisement en cas d'échec.
 
-Peu de temps après que la conversation s'est calmée, chaque joueur avec un score de Sagesse (Perception) passif de 14 ou plus remarque Ireena frissonnant de froid. Si Ireena n'a pas développé de sentiments romantiques pour un autre personnage, et si les joueurs ne l'en empêchent pas, Ezmerelda s'approche d'elle et lui offre de partager sa couverture. Ireena accepte l'offre avec gratitude, bien qu'un joueur avec un score de Sagesse (Perspicacité) passif de 15 ou plus remarque que son visage rougit légèrement lorsqu'Ezmerelda enveloppe la couverture autour de ses épaules.  
-
-> [!warning]+ **Limitations du Long Repos**
-> Notez que les joueurs ne peuvent pas commencer leur long repos tôt (par exemple, dès qu'ils trouvent un abri), et doivent attendre leur heure normale de long repos pour le faire. Voir <span class="citation">Long Repos (<em>Manuel des Joueurs 2014</em>, p. 186)</span> ou <span class="citation">Long Repos (<em>Manuel des Joueurs 2024</em>, p. 370)</span> pour plus d'informations.
-### Procéder à travers la Tempête de Neige
-Si les joueurs choisissent de poursuivre à travers la tempête de neige jusqu'à la guérite, ils doivent réussir un jet de sauvegarde de Constitution de DD 15 à la fin de chaque heure de voyage, gagnant un niveau d'épuisement en cas d'échec.
-
-Avec la route ensevelie sous de hautes congères, l'un des joueurs doit réussir un jet de Sagesse (Survie) de DD 20 pour aider le groupe à traverser le col en toute sécurité. En cas d'échec, demandez à chaque joueur de lancer un d20 à la fin de la première heure après s'être engagé dans la tempête. Le joueur qui obtient le plus bas score par inadvertance traverse un pont de neige et tombe dans une crevasse. (Si deux ou plusieurs joueurs obtiennent le même plus bas score, ils tombent tous dans la crevasse.) Lisez :
+La route étant ensevelie sous de hautes congères, l'un des joueurs doit réussir un test de Sagesse (Survie) DD 20 pour aider le groupe à naviguer en sécurité dans le col. En cas d'échec, demandez à chaque joueur de lancer un d20 à la fin de la première heure après s'être engagé dans la tempête. Le joueur qui obtient le résultat le plus bas marche accidentellement sur un pont de neige et tombe dans une crevasse. (Si deux joueurs ou plus obtiennent la valeur la plus basse, ils tombent tous dans la crevasse.) Lisez :
 
 <div class="description">
-<p>Alors que vous vous trainez à travers la tempête tourbillonnante, vous sentez la neige sous votre pied céder brusquement avec un <em>craquement</em> sonore. Avant que vous ne puissiez réagir, le sol s'effondre sous vous. Vous plongez vers le bas, le vent sifflant tandis que les parois glacées se resserrent autour de vous.</p>
+<p>Alors que vous avancez péniblement dans la tempête tourbillonnante, vous sentez la neige sous votre pied céder brusquement avec un fort <em>craquement</em>. Avant que vous puissiez réagir, le sol s'effondre sous vous. Vous plongez vers le bas, le vent sifflant tandis que les parois glacées se resserrent autour de vous.</p>
 </div>
 
-Chaque joueur tombant doit réussir un jet de sauvegarde de Dextérité de DD 20. En cas de réussite, un joueur tombant se rattrape sur une étroite prise de main à 1,5 mètre de profondeur. En cas d'échec, un joueur tombe de 9 mètres au fond de la crevasse, subissant 3d6 dégâts contondants et atterrissant à terre. Si un joueur tombe au fond, lisez :
+Chaque joueur qui tombe doit faire un jet de sauvegarde de Dextérité DD 20. En cas de réussite, le joueur qui tombe s'accroche à une prise étroite à 1,5 mètre de profondeur. En cas d'échec, le joueur tombe à 9 mètres au fond de la crevasse, subissant 3d6 dégâts contondants et se retrouvant à terre. Si un joueur tombe au fond, lisez :
 
 <div class="description">
-<p>Vous atterrissez brutalement sur une surface de neige compactée et à moitié gelée, l'air glacial vous coupant le souffle. Les parois abruptes et glacées de la crevasse s'élèvent au-dessus de vous, le vent glacial hurlant à travers le ciel loin au-dessus.</p>
+<p>Vous atterrissez brutalement sur une surface de neige compacte à moitié gelée, l'air froid chassé de vos poumons. Les murs escarpés et glacés de la crevasse s'élèvent au-dessus de vous, le vent glacial hurlant à travers le ciel loin au-dessus.</p>
 </div>
 
-> [!info]+ **S'échapper de la Crevasse**  
-> Un personnage tentant d'escalader ou de descendre les parois glacées de la crevasse sans l'aide de la magie ou d'un équipement adapté doit réussir un jet de Force (Athlétisme) de DD 20. Si le jet réussit, le personnage se déplace à la moitié de sa vitesse de montée ou de descente, selon son choix. Avec un résultat de 10 à 19, le personnage ne gagne ni ne perd de terrain ; avec un résultat de 9 ou moins, le personnage tombe et subit 1d6 dégâts contondants par 3 mètres de chute, atterrissant à terre au pied de la crevasse.
+> [!info]+ **S'échapper de la crevasse**
+> Un personnage tentant de monter ou de descendre les parois glacées de la crevasse sans l'aide de magie ou d'équipement approprié doit réussir un test de Force (Athlétisme) DD 20. Si le test réussit, le personnage se déplace à mi-vitesse vers le haut ou le bas du mur, comme désiré. Sur un résultat de 10-19, le personnage ne gagne ni ne perd de terrain ; sur un résultat de 9 ou moins, le personnage tombe et subit 1d6 dégâts contondants par tranche de 3 mètres de chute, atterrissant à terre à la base de la crevasse.
 
 Qu'un joueur tombe ou non, ajoutez :
 
 <div class="description">
-<p>Un hurlement lointain perce à travers la tempête - bien plus grave et plus résonnant que le vent lui-même.</p>
+<p>Un hurlement lointain traverse la tempête—bien plus grave et plus résonnant que le vent lui-même.</p>
 </div>
 
-Le hurlement appartient au meneur d'une meute de huit **loups d'hiver**, dont l'un est un meneur de meute avec une CA 14 et 136 (20d8 + 40) points de vie. Les joueurs ont deux rounds pour se préparer avant l'arrivée de la meute.
+Le hurlement appartient au chef d'une meute de huit **loups hivernaux**, dont l'un est un chef de meute avec une CA de 14 et 136 (20d8 + 40) points de vie. Les joueurs ont deux rounds pour se préparer avant l'arrivée de la meute.
 
-Au combat, les loups se battent par paires, espérant utiliser leurs ***tactiques de meute*** pour avoir l'avantage sur leurs attaques et utilisant leur ***souffle glacial*** chaque fois qu'ils peuvent attraper au moins deux victimes dans sa portée. (En tant que serviteurs de Strahd, cependant, les loups veillent à ce que leur souffle glacial ne blesse jamais Ireena.) Les loups se battent jusqu'à la mort.
+Au combat, les loups se battent par paires, espérant utiliser leurs ***tactiques de meute*** pour obtenir un avantage sur leurs attaques et utilisant leur ***souffle glacial*** chaque fois qu'ils peuvent prendre au moins deux victimes dans sa portée. (En tant que serviteurs de Strahd, cependant, les loups s'assurent que leur souffle glacial ne blesse jamais Ireena.) Les loups se battent jusqu'à la mort.
 
+> [!info]+ **Repos courts dans le blizzard**
+> Les joueurs souhaitant faire un repos court après l'attaque des loups peuvent toujours chercher un abri contre la tempête pendant sa durée, comme décrit dans [[#Chercher un abri]] ci-dessus. Cependant, les joueurs qui obtiennent un résultat de 20 ou plus au jet de Sagesse (Survie) pour trouver un abri ne trouvent pas la grotte du Peuple de la Montagne.
+## R4e. La guérite
+Le voyage depuis la crevasse jusqu'à la guérite fait deux kilomètres et demi. Il prend une heure et dix minutes si les joueurs voyagent le jour après le blizzard (à cause des hauts bancs de neige), et deux heures si les joueurs voyagent pendant le blizzard.
 
-
-> [!info]+ **Courtes Pauses pendant la Tempête de Neige**
-> Les joueurs qui cherchent à faire une courte pause après l'attaque des loups peuvent toujours chercher un abri contre la tempête pour la durée, comme décrit dans [[#Chercher un Abri]] ci-dessus. Cependant, les joueurs qui obtiennent un résultat de 20 ou plus sur le jet de Sagesse (Survie) pour trouver un abri ne trouvent pas la grotte des Gens des Montagnes.
-## R4e. Le Guichet
-Le voyage de la crevasse au guichet fait 2,8 km. Il faut une heure et dix minutes si les joueurs voyagent le lendemain de la tempête de neige (en raison des hautes congères), et deux heures s'ils voyagent pendant la tempête.
-
-L'arrivée des joueurs au guichet est largement comme décrit dans <span class="citation">T1. Herse du Guichet (p. 157)</span>, <span class="citation">T2. Statues de Démons (p. 157)</span>, et <span class="citation">T3. Rideau de Flammes Vertes (p. 157)</span>. Cependant, ajoutez la phrase suivante à la fin de la description de <span class="citation">T1. Herse du Guichet (p. 157)</span> :
+L'arrivée des joueurs à la guérite est largement décrite dans <span class="citation">T1. Herse de la guérite (p. 157)</span>, <span class="citation">T2. Statues de démons (p. 157)</span>, et <span class="citation">T3. Rideau de flammes vertes (p. 157)</span>. Cependant, ajoutez la phrase suivante à la fin de la description de <span class="citation">T1. Herse de la guérite (p. 157)</span> :
 
 <div class="description">
-<p>La tour est perchée sur le rebord d'une falaise surplombante, qui s'avance au-dessus du brouillard tourbillonnant en contrebas.</p>
+<p>La tour est perchée sur le bord d'une falaise en surplomb, qui s'avance au-dessus du brouillard tourbillonnant en contrebas.</p>
 </div>
 
-De plus, augmentez le nombre de vrocks pétrifiés à quatre. (Si présent, Kasimir peut identifier les statues de démons comme des gardes qui l'ont attaqué la dernière fois qu'il est venu ici, s'animant et le poursuivant lorsqu'il a essayé de contourner le guichet par un sort de *vol*.)
+De plus, augmentez le nombre de vrocks pétrifiés à quatre. (Si présent, Kasimir peut identifier les statues de démons comme des gardiens qui l'ont attaqué la dernière fois qu'il est venu ici, s'animant et le poursuivant quand il a essayé de contourner la guérite au moyen d'un sort de *vol*.)
 
-Un joueur qui pense à présenter l'*amulette de passage de chevalier* à moins de 9 mètres de la herse peut supprimer le rideau de flammes pendant 1 minute, comme décrit dans [[Arc M - Le Manoir du Dragon#Étude d'Argynvost|Arc M - Le Manoir du Dragon]].
+Un joueur qui pense à présenter l'*amulette de passage du chevalier* alors qu'il se trouve à moins de 9 mètres de la herse peut supprimer le rideau de flammes pendant 1 minute, comme décrit dans [[Arc M - Le Manoir du Dragon#L'étude d'Argynvost|Arc M - Le Manoir du Dragon]].
 
-La tour de garde du guichet est telle que décrite dans <span class="citation">T4. Tour de Garde, Rez-de-Chaussée (p. 157)</span>, <span class="citation">T4. Tour de Garde, Étage Supérieur (p. 159)</span>, et <span class="citation">T6. Toit de la Tour de Garde (p. 159)</span>.
-## R4f. La Seconde Épreuve du Tyran
-Peu importe l'endroit où les joueurs choisissent de se reposer, la tempête de neige prend fin peu après qu'ils aient commencé leur long repos. Lisez :
+La tour de garde de la guérite est décrite dans <span class="citation">T4. Tour de garde, rez-de-chaussée (p. 157)</span>, <span class="citation">T4. Tour de garde, étage supérieur (p. 159)</span>, et <span class="citation">T6. Toit de la tour de garde (p. 159)</span>.
+## R4f. La seconde épreuve du tyran
+Peu importe où les joueurs choisissent de se reposer, le blizzard prend fin peu après qu'ils commencent leur repos long. Lisez :
 
 <div class="description">
-<p>Graduellement, le hurlement du vent s'estompe. La tornade de neige, elle aussi, diminue jusqu'à de simples rafales, puis même celles-ci se déposent doucement sur le paysage, formant une étendue immaculée et intacte sous le ciel assombri.</p>
-<p>Des arbres enneigés se dressent immobiles, leurs pâles branches chargées de blanc presque éthérées alors qu'elles reflètent un faible scintillement de la lumière de la lune. Au loin, les pentes de la montagne se dressent au-dessus d'eux, leurs pics les plus hauts se perdant dans les nuages bas qui les surplombent. Bien que le froid mordant continue de ronger vos couches de vêtements, un silence profond et intact plane sur le monde, comme si la montagne elle-même retenait son souffle.</p>
+<p>Progressivement, le vent hurlant s'estompe. Le torrent de neige, lui aussi, diminue jusqu'à de simples flocons, puis même ceux-ci se déposent doucement sur le paysage, formant une étendue immaculée et intacte sous le ciel obscurci.</p>
+<p>Les arbres couverts de neige se dressent immobiles, leurs branches pâles chargées de blanc presque éthérées alors qu'elles reflètent un faible scintillement de clair de lune. Au loin, les pentes de la montagne s'élèvent bien au-dessus d'eux, ses plus hauts sommets disparaissant dans les nuages bas au-dessus. Bien que le froid mordant continue de ronger à travers les couches de vos vêtements, un silence profond et ininterrompu plane sur le monde, comme si la montagne elle-même retenait son souffle.</p>
 </div>
-### L'Arrivée de Strahd
-Une heure après que les joueurs aient commencé leur long repos, Strahd les espionne et les visite à nouveau comme décrit dans [[#R3b. La Première Épreuve du Tyran]].
+### L'arrivée de Strahd
+Une heure après que les joueurs ont commencé leur repos long, Strahd scrute à nouveau et leur rend visite comme décrit dans [[#R3b. La première épreuve du tyran]].
 
-***Le Guichet.*** Si les joueurs se reposent dans la tour du guichet du Col de Tsolenka, Strahd frappe à la porte d'entrée trois fois. Si la porte n'est pas ouverte, Strahd interpelle les joueurs et demande s'ils "seraient assez impolis pour laisser un invité attendre sur le pas de leur porte". (Si les joueurs ont précédemment refusé d'autoriser l'entrée de Strahd dans [[#R3b. La Première Épreuve du Tyran]], Strahd demande plutôt, exaspéré, s'ils "insistent pour continuer ces jeux puérils".)
+***La guérite.*** Si les joueurs se reposent dans la tour de la guérite du col de Tsolenka, Strahd frappe trois fois à la porte d'entrée. Si personne ne répond, Strahd interpelle les joueurs et demande s'ils "seraient assez impolis pour laisser un invité attendre sur le pas de votre porte." (Si les joueurs ont précédemment refusé de permettre à Strahd d'entrer dans [[#R3b. La première épreuve du tyran]], Strahd demande plutôt, exaspéré, s'ils "insistent pour continuer ces jeux puérils.")
 
-Si la porte est ouverte, Strahd demande poliment la permission d'entrer. Si les joueurs acceptent, Strahd entre dans la tour, fait un commentaire critique sur son intérieur et/ou le campement des joueurs, et leur ordonne de le rejoindre sur le toit. Il prend alors sa forme de brume, vole jusqu'au toit de la tour et reprend sa forme initiale. Lorsque les joueurs le rejoignent, passez à [[#Les Questions de Strahd]].
+Si quelqu'un répond à la porte, Strahd demande cordialement la permission d'entrer. Si les joueurs acceptent, Strahd entre dans la tour, fait un commentaire critique concernant l'intérieur et/ou le campement des joueurs, et leur demande de le rejoindre sur le toit. Il prend alors sa forme brumeuse, vole jusqu'au toit de la tour, et reprend sa forme originale. Quand les joueurs le rejoignent, passez à [[#Les questions de Strahd]].
 
-*Sinon, Strahd sourit froidement et demande si les joueurs sont familiers avec la topographie sur laquelle repose leur lieu de repos mal choisi. "Cette montagne", ajoute-t-il, sa voix teintée d'un amusement cinglant, "est ancienne, ses crêtes façonnées par des millénaires d'érosion. La tour dans laquelle vous vous tenez actuellement est perchée sur un flanc de falaise - qui, à son tour, repose sur une arche naturelle de pierre. Les formations de la nature sont en effet de longue durée, mais aux yeux d'un immortel, même elles peuvent se flétrir avec l'âge."
+Sinon, Strahd sourit froidement et demande aux joueurs s'ils sont familiers avec la topographie sur laquelle repose leur lieu de repos mal choisi. "Cette montagne," ajoute-t-il, sa voix teintée d'un amusement acéré, "est ancienne, ses crêtes façonnées par des millénaires d'érosion. La tour dans laquelle vous vous tenez actuellement est perchée sur une falaise—qui, à son tour, repose sur une arche naturelle de pierre. Les formations de la nature sont certes durables, mais aux yeux d'un immortel, même elles peuvent se flétrir avec l'âge."
 
-Strahd fait une pause et laisse ses paroles planer avant de continuer : "Cette formation particulière, j'ai le regret de vous l'apprendre, s'est amincie avec chaque siècle qui passe. Si elle entrait en collision avec une force suffisamment puissante, je crains que ce perchoir élevé ne s'envole pas aussi haut qu'il ne le fait actuellement. Pourtant, je suis la Terre - et aussi longtemps que je le souhaiterai, aucun mal ne sera fait à ses fondations."
+Strahd fait une pause et laisse ses paroles planer avant de poursuivre : "Cette formation particulière, je regrette de vous informer, s'est amincie au fil des siècles. Si elle devait entrer en collision avec une force de puissance adéquate, je crains que ce perchoir élevé ne puisse plus voler aussi haut qu'il le fait maintenant. Pourtant, je suis la Terre—et tant que je le souhaite, aucun mal ne viendra à ses fondations."
 
-Les sourcils de Strahd se lèvent légèrement, et il demande : "Avons-nous une entente ?"
+Les sourcils de Strahd se soulèvent légèrement, et il demande : "Nous comprenons-nous ?"
 
-Si les joueurs invitent ensuite Strahd à entrer, il leur offre un remerciement froid et moqueur tout en franchissant le seuil. ("Je ne vous aurais pas cru capables d'une telle prévoyance", ajoute-t-il. "Peut-être me suis-je trompé.") Il entre alors dans la tour, fait un commentaire critique sur son intérieur et/ou le campement des joueurs, et leur demande de le rejoindre sur le toit. Il prend alors sa forme de brume, vole jusqu'au toit de la tour et reprend sa forme originale. Lorsque les joueurs le rejoignent, passez à [[#Les Questions de Strahd]].*
-
+Si les joueurs invitent ensuite Strahd à entrer, il leur offre un remerciement froid et moqueur en franchissant le seuil. ("Je ne vous croyais pas capables d'une telle prévoyance," ajoute-t-il. "Peut-être me suis-je trompé.") Il entre alors dans la tour, fait un commentaire critique concernant l'intérieur et/ou le campement des joueurs, et leur ordonne de le rejoindre sur le toit. Il prend ensuite sa forme de brume, vole jusqu'au toit de la tour et reprend sa forme originale. Lorsque les joueurs le rejoignent, passez à [[#Les Questions de Strahd]].
+> [!abstract]+ **La Tour qui s'effondre**
+> Si les joueurs refusent d'inviter Strahd à l'intérieur, lisez :
+> 
+> <hr>
+>
+> *Strahd secoue la tête.
+"C'est vraiment dommage," dit-il.
+"J'avais espéré éviter la perte d'un si beau morceau d'architecture historique.
+Mais nous devons tous vivre avec les conséquences de nos décisions."*
+>
+> *Lentement, la silhouette de Strahd commence à se brouiller sur ses bords, ses contours s'effilochant dans l'air comme des volutes de brume argentée.
+Avec un son semblable à un soupir, sa forme s'effondre, emportée comme un nuage dans le vent.*
+> 
+> <hr>
+> 
+> Strahd descend alors la falaise, rappelle Beucephalus du Plan Éthéré, monte Beucephalus, et s'approche de la fondation de la falaise de la tour.
+Bien que les joueurs ne puissent pas voir sa position depuis la tour ou la falaise, ils peuvent entendre et sentir ses préparatifs pour les détruire.
+Lisez :
+> 
+> <hr>
+>
+> *Le son d'un crépitement distant atteint vos oreilles, alors même que l'air devient âcre avec l'odeur métallique d'ozone brûlant.
+Une sensation de picotement rampe le long de votre peau, les poils se dressant sur votre nuque tandis que l'atmosphère s'alourdit sur vos épaules.*
+>
+> <hr> 
+> 
+> Les personnages ont un round pour évacuer la tour.
+Quand le round se termine, Strahd lance _éclair_ pour détruire l'arche soutenant le poids de la falaise.
+Lisez :
+> 
+> <hr>
+> 
+> *Le ciel sous la falaise se consume d'une lumière vive et dentelée, déchirant la nuit avec un rugissement de tonnerre.
+Vous entendez le son de la pierre qui se brise—sentez le sol trembler sous vos pieds.*
+> 
+> *Pendant un bref moment d'espoir, la nuit redevient calme—jusqu'à ce que la terre elle-même semble gémir sous vous.
+La tour frémit—puis le sol s'incline brusquement.
+Poussière et débris tombent du plafond alors que les murs mêmes commencent à céder.*
+> 
+> <hr>
+> 
+> Chaque personnage restant dans la tour doit immédiatement faire un jet de Dextérité (Acrobaties) DD 10.
+En cas d'échec, un personnage tombe contre le mur est de la tour et se retrouve à terre.
+> 
+> Lancez l'initiative.
+Pour s'échapper de la tour qui s'effondre, un personnage à moins de 3 mètres de la porte ou d'une fenêtre faisant face à l'ouest doit utiliser son action et réussir un jet de Force (Athlétisme) DD 10.
+En cas d'échec, le joueur glisse de 3 mètres vers l'est.
+> 
+> Au compte d'initiative 20 du deuxième round de combat, lisez :
+> 
+> <hr>
+>
+> *Le son de la pierre qui se fissure devient plus fort, plus insistant, alors que la tour penche lourdement vers l'est, la structure s'inclinant à un angle de quarante-cinq degrés par rapport à la falaise.
+À l'extérieur, la falaise a commencé à s'effriter, d'énormes morceaux de terre plongeant dans le vide en contrebas.*
+> 
+> <hr>
+> 
+> Quand cela se produit :
+> 
 > * L'intérieur de la tour devient un terrain difficile en raison de sa pente abrupte
-> * Tous les tests de Force (Athlétisme) effectués pour s'échapper de la tour en ruine bénéficient d'un avantage
->
-> À l'initiative 0 du deuxième tour de combat, lisez :
->
+> * Tous les jets de Force (Athlétisme) effectués pour s'échapper de la tour qui s'effondre sont faits avec avantage
+> 
+> Au compte d'initiative 0 du deuxième round de combat, lisez :
+> 
 > <hr>
->
-> *Avec un rugissement assourdissant, le sol sous la tour cède complètement.
-Pendant une fraction de seconde, tout semble suspendu dans les airs, avant que toute la structure ne commence à plonger le long de la falaise, ses murs se fissurant et se déformant tandis que des pierres et des débris sont projetés dans les airs.*
->
+> 
+> *Dans un rugissement assourdissant, le sol sous la tour cède complètement.
+Pendant une fraction de seconde, tout semble suspendu dans les airs—avant que toute la structure ne commence à plonger le long de la falaise, ses murs se fissurant et se déformant tandis que pierres et débris volent dans les airs.*
+> 
 > <hr>
->
-> Une fois que cela se produit, un personnage volant avec une capacité de transport suffisante peut secourir tout personnage pris dans la tour en ruine en réussissant un test de Dextérité (Acrobaties) DD 20, effectué avec un désavantage si le personnage volant tente de secourir deux ou plusieurs autres personnages.
-(Le DD passe à 10 si le personnage volant est capable de se téléporter magiquement avec tout rescapé hors de la tour). Si le test échoue de 10 ou plus, le personnage volant est également pris dans la tour en ruine.
->
-> Les restes de la tour heurtent le sol à l'initiative 0 du troisième tour de combat.
+> 
+> Une fois cela produit, un personnage volant avec une capacité de portage suffisante peut secourir les personnages pris dans la tour qui s'effondre en réussissant un jet de Dextérité (Acrobatie) DD 20, effectué avec désavantage si le personnage volant tente de secourir deux personnages ou plus.
+(Le DD est réduit à 10 si le personnage volant est capable de se téléporter magiquement avec les personnages secourus hors de la tour.) Si le jet échoue de 10 ou plus, le personnage volant est également pris dans l'effondrement de la tour.
+> 
+> Les restes de la tour s'écrasent au sol au compte d'initiative 0 du troisième round de combat.
 Lorsque cela se produit, chaque créature encore à l'intérieur de la tour subit 242 (44d10) dégâts contondants.
->
+> 
 > L'effondrement détruit la tour et tout son contenu.
-Tout objet ou reste à l'intérieur de la tour nécessite 2d8 + 4 heures de déblaiement des décombres pour être retrouvé.
+Tout objet ou reste dans la tour nécessite 2d8 + 4 heures de fouille des décombres pour être retrouvé.
 >
-> Lorsque la tour s'est complètement effondrée, Strahd renvoie Bucéphale sur le Plan Éthéré et revient sur la falaise pour accueillir les survivants.
+> Lorsque la tour a fini de s'effondrer, Strahd renvoie à nouveau Beucephalus dans le Plan Éthéré et retourne à la falaise pour accueillir les survivants.
 Passez à [[#Les Questions de Strahd]].
 
-***La Caverne des Gens de la Montagne.*** Si les joueurs se reposent dans la caverne des Gens de la Montagne décrite dans [[#Chercher un Abri]], Strahd approche de l'entrée de la caverne et les salue cordialement. Continuez :
+***La Grotte des Montagnards.*** Si les joueurs se reposent dans la grotte des Montagnards décrite dans [[#Chercher un Abri]], Strahd s'approche de l'entrée de la caverne et les salue cordialement. Continuez :
 
 <div class="description">
-<p>Strahd regarde la caverne exiguë avec un évident dédain. "Charmant", remarque-t-il, son ton dégoulinant de sarcasme. "Je n'étais pas au courant de votre initiation au rang de la vermine des hautes terres." Son regard se tourne, s'attardant sur les longues ombres qui s'étirent sur la neige à l'extérieur. "Vous quitterez ce terrier, afin que nous puissions discuter dans un cadre plus civilisé."</p>
+<p>Strahd regarde l'étroite caverne avec un mépris évident. "Charmant," remarque-t-il, son ton dégoulinant de sarcasme. "Je n'avais pas été informé de votre initiation parmi les rangs de la vermine des hautes terres." Son regard se tourne, s'attardant sur les longues ombres qui s'étirent à travers la neige à l'extérieur. "Vous allez quitter ce terrier, afin que nous puissions parler dans un cadre plus civilisé."</p>
 </div>
 
-Si les joueurs le font, passez à [[#Les Questions de Strahd]].
+Si les joueurs s'exécutent, passez à [[#Les Questions de Strahd]].
 
-Sinon, Strahd sourit froidement et demande si les joueurs connaissent la topographie du Mont Ghakis. "Les sauvages des montagnes Balinok connaissent ce sommet comme un homme connaît sa femme - mais même leurs refuges peuvent devenir des pièges pour les imprudents." Son regard se tourne brièvement vers les falaises au-dessus de la caverne, et il ajoute : "Ghakis est particulièrement une chose ancienne et traîtresse, ses pentes taillées dans la roche friable et recouvertes de lourdes couches de glace. La neige elle-même est en perpétuel mouvement - et les falaises qui la soutiennent peuvent être étonnamment fragiles."
+Sinon, Strahd sourit froidement et demande si les joueurs connaissent la topographie du Mont Ghakis. "Les sauvages des Montagnes Balinok connaissent ce pic comme un homme connaît sa femme—pourtant même leurs refuges peuvent devenir des pièges pour les imprudents." Son regard se porte brièvement vers les falaises au-dessus de la caverne, et il ajoute : "Ghakis en particulier est une chose ancienne et traîtresse, ses pentes sculptées dans une roche friable et recouvertes de couches de glace pesante. La neige elle-même est constamment en mouvement—et les falaises qui la soutiennent peuvent être étonnamment fragiles."
 
-Strahd fait une pause et laisse ses paroles planer avant de poursuivre : "Il suffirait d'une légère perturbation, je le crains - peut-être le déplacement d'une seule pierre, ou la mauvaise vibration - pour que la montagne transforme l'abri le plus sûr en une tombe silencieuse. Pourtant, je suis la Terre, et aucun mal ne viendra à ceux qui chercheront la sécurité dans l'étreinte de Ghakis tant que je le voudrai."
+Strahd fait une pause et laisse ses paroles planer avant de poursuivre : "Il ne faudrait qu'une légère perturbation, je le crains—peut-être le déplacement d'une seule pierre, ou la mauvaise vibration—pour que la montagne transforme l'abri le plus sûr en un tombeau silencieux. Pourtant je suis la Terre, et aucun mal ne viendra à ceux qui cherchent la sécurité dans l'étreinte de Ghakis tant que je le voudrai."
 
-Les sourcils de Strahd se lèvent légèrement et il demande : "Avons-nous une entente ?"
+Les sourcils de Strahd se soulèvent légèrement, et il demande : "Nous comprenons-nous ?"
 
-Si les joueurs sortent ensuite de la caverne, il note avec "délice" qu'ils ont "vu la raison". Passez à [[#Les Questions de Strahd]].
+Si les joueurs sortent ensuite de la grotte, il note son "plaisir" qu'ils aient "vu raison". Passez à [[#Les Questions de Strahd]].
 
-> [!abstract]+ **La glace qui s'effondre**
-> Si les personnages refusent d'inviter Strahd à l'intérieur, lisez :
+> [!abstract]+ **La Glace qui s'Effondre**
+> Si les assiettes refusent d'inviter Strahd à l'intérieur, lisez :
+> 
+> <hr>
+>
+> *Strahd secoue la tête. "C'est dommage," dit-il. "Je vais devoir présenter mes regrets aux créatures qui ont creusé ce trou. Mais nous devons tous vivre avec les conséquences de nos décisions."*
 >
 > <hr>
 >
-> *Strahd secoue la tête. "C'est dommage", dit-il. "Je devrai présenter mes regrets aux créatures qui ont creusé ce trou. Mais nous devons tous vivre avec les conséquences de nos décisions."*
+> Les yeux de Strahd prennent alors une teinte grise, profonde et orageuse. Lisez :
 >
 > <hr>
 >
-> Les yeux de Strahd deviennent alors d'un gris orageux profond. Lisez :
+> *Le son d'un craquement lointain parvient à vos oreilles, tandis que l'air devient âcre avec l'odeur métallique d'ozone brûlé. Une sensation de picotement parcourt votre peau, les poils se dressent sur votre nuque alors que l'atmosphère s'alourdit sur vos épaules.*
+>
+> <hr>
+> 
+> Les personnages ont un round pour évacuer la grotte. À l'initiative 20 du round suivant, si les joueurs n'ont pas réussi à le faire, Strahd utilise son action de repaire pour lancer _appel de la foudre_, ciblant un point à environ 30 mètres au-dessus du sommet de la grotte. Lisez :
 >
 > <hr>
 >
-> *Le son lointain de craquements atteint vos oreilles, tandis que l'air devient âcre avec l'odeur métallique d'ozone brûlé. Une sensation de picotement parcourt votre peau, les cheveux se dressant sur votre nuque alors que l'atmosphère s'alourdit sur vos épaules.*
+> *Un craquement assourdissant déchire le ciel alors que la neige à l'extérieur de la grotte s'illumine d'un blanc vif et aveuglant. Comme la lumière s'estompe, le sol commence à trembler, de la poussière et des débris filtrent du plafond de la caverne tandis que la montagne gronde en protestation sous vos pieds.*
+>
+> <hr>
+> 
+> Les personnages ont un round supplémentaire pour évacuer la grotte. À la fin de ce round, une cascade de terre et de glace s'écrase depuis les falaises au-dessus, enterrant la grotte sous un sceau de glace, de roche et de neige de 4,5 mètres d'épaisseur. Toute créature se trouvant à 1,5 mètre de l'entrée doit réussir un jet de sauvegarde de Dextérité DD 15 ou subir 22 (4d10) dégâts contondants dus aux débris qui tombent.
+>
+> La grotte scellée contient suffisamment d'air pour que les joueurs puissent respirer pendant les dix minutes suivantes. Après cinq minutes, un joueur avec un score de Sagesse (Perception) passive de 14 ou plus remarque que toutes les flammes non magiques ont commencé à brûler plus faiblement, tandis qu'un joueur avec un score de Constitution de 11 ou moins remarque que l'air s'est raréfié, rendant la respiration de plus en plus difficile.
+>
+> Un personnage peut essayer de dégager une section de débris glacés de 75 centimètres carrés, ce qui nécessite 1 minute et un jet de Force DD 15 réussi. Si le personnage dispose d'un pic, d'une pelle ou d'un autre outil approprié, la tentative ne requiert que trente secondes et un jet de Force DD 10 réussi.
+>
+> Un round après que les joueurs ont réussi à creuser un trou à travers les débris effondrés, la grotte commence à s'effondrer. Lisez :
+>
+> <hr>
+> 
+> *Le mur de roche glacée frémit, envoyant des tourbillons de neige boueuse dans l'air. Derrière vous, le toit de la caverne commence à gronder et à gémir.*
 >
 > <hr>
 >
-> Les personnages ont un round pour évacuer la caverne. Au décompte d'initiative 20 du round suivant, si les joueurs n'ont pas réussi à le faire, Strahd utilise son action d'antre pour lancer _appel de la foudre_, visant un point à environ 30 mètres au-dessus du sommet de la caverne. Lisez :
+> À moins d'être stabilisée, la grotte s'effondre un round plus tard. Chaque créature à l'intérieur de la grotte lorsqu'elle s'effondre subit 132 (24d10) dégâts contondants. L'effondrement détruit la grotte et tout son contenu. Tout objet ou reste à l'intérieur de la grotte nécessite 2d8 + 4 heures de fouille dans les décombres pour être retrouvé.
 >
-> <hr>
->
-> *Un coup de tonnerre assourdissant fend le ciel tandis que la neige à l'extérieur de la caverne se teinte d'un blanc aveuglant. Lorsque la lumière s'estompe, le sol commence à trembler, de la poussière et des débris filtrant du plafond de la caverne tandis que la montagne proteste sous vos pieds.*
->
-> <hr>
->
-> Les personnages ont un round supplémentaire pour évacuer la caverne. À la fin de ce round, une cascade de terre et de glace s'écroule des falaises au-dessus, ensevelissant la caverne sous un sceau épais de 4,5 mètres de glace, de roches et de neige. Toute créature se trouvant à moins de 1,5 mètre de l'entrée doit réussir un jet de sauvegarde de Dextérité DD 15 ou subir 22 (4d10) dégâts contondants causés par les débris qui tombent.
+> Lorsque la grotte a fini de s'effondrer, Strahd salue les survivants. Passez à [[#Les Questions de Strahd]].
 
-> La caverne scellée contient suffisamment d'air pour que les personnages puissent respirer pendant les dix minutes suivantes. Lorsque cinq minutes se sont écoulées, un joueur avec un score de Sagesse (Perception) passif de 14 ou plus remarque que toutes les flammes non magiques commencent à brûler plus bas, tandis qu'un joueur avec un score de Constitution de 11 ou moins remarque que l'air s'est raréfié, rendant la respiration de plus en plus difficile.
+***Sanctuaire Arcanique.*** Si les joueurs se reposent dans un refuge créé magiquement, Strahd les approche comme suit :
 
-> Un personnage peut essayer de dégager une section de 75 centimètres carrés des débris glacés, ce qui nécessite 1 minute et un jet de Force réussi DD 15. Si le personnage possède une pioche, une pelle ou un autre outil approprié, la tentative ne prend que trente secondes et un jet de Force réussi DD 10.
+* **Tiny Hut de Leomund.** Strahd lance _dissipation de la magie_ depuis le dos de Beucephalus, à 36 mètres au-dessus du sommet de la *tiny hut*. Il renvoie ensuite Beucephalus dans le Plan Éthéré, descend sous forme de brume et reprend sa forme originale.
+* **Sanctum Privé de Mordenkainen.** Strahd traverse la barrière de la zone protégée.
 
-> Un round après que les joueurs ont creusé un trou à travers les débris effondrés, la caverne commence à s'effondrer. Lisez :
+Dans les deux cas, passez à [[#Les Questions de Strahd]].
 
-> <hr>
->
-> *Le mur de roche glacée tremble, envoyant des tourbillons de neige boueuse dans les airs. Derrière vous, le plafond de la caverne commence à gronder et à gémir.*
->
-> <hr>
->
-> À moins d'être stabilisée, la caverne s'effondre un round plus tard. Chaque créature à l'intérieur de la caverne lorsqu'elle s'effondre subit 132 (24d10) dégâts contondants. L'effondrement détruit la caverne et tout son contenu. Tout objet ou reste à l'intérieur de la caverne nécessite 2d8 + 4 heures de creusement dans les décombres pour être retrouvé.
-
-> Lorsque l'effondrement de la caverne est terminé, Strahd salue les survivants. Passez à [[#Questions de Strahd]].
-
-> ***Sanctuaire arcanique.*** Si les joueurs se reposent dans un havre créé magiquement, Strahd les approche comme suit :
-
-> * **Abri de Léomonde.** Strahd lance _dissipation de la magie_ du haut de Bucéphale, à 36 mètres au-dessus du _abri miniature_. Il renvoie ensuite Bucéphale sur le plan Éthéré, descend sous forme de brume, puis reprend sa forme originale.  
-> * **Sanctuaire privé de Mordenkainen.** Strahd traverse la barrière de la zone protégée.
-
-> Dans les deux cas, passez à [[#Questions de Strahd]].
-
-> ***En plein air.*** Si les joueurs se reposent en plein air, Strahd les approche directement. Passez à [[#Questions de Strahd]].
-> ### Questions de Strahd
-> Lorsque les joueurs rejoignent Strahd pour la première fois dans le lieu de rencontre choisi, lisez :
-
-
+***À Découvert.*** Si les joueurs se reposent à découvert, Strahd les approche directement. Passez à [[#Les Questions de Strahd]].
+### Les Questions de Strahd
+Lorsque les joueurs rejoignent Strahd dans son lieu de rencontre choisi, lisez :
 
 <div class="description">
-<p>Les yeux de Strahd se lèvent, vers le sommet ombragé du Mont Ghakis. "Avant de commencer", dit-il, "je ne peux m'empêcher de me demander ce qui pourrait bien amener un groupe d'étrangers sur les pentes des montagnes Balinok." Son regard cramoisi et impassible revient lentement vers vous. "Peut-être voudriez-vous m'éclairer ?"</p>
+<p>Les yeux de Strahd vacillent vers le haut, en direction du sommet ombragé du Mont Ghakis. "Avant de commencer," dit-il, "je ne peux m'empêcher de me demander ce qui pourrait bien amener un groupe d'étrangers sur les pentes des Montagnes Balinok." Son regard pourpre et impassible revient lentement vers vous. "Peut-être voudriez-vous m'éclairer ?"</p>
 </div>
 
 Selon la réponse des joueurs, Strahd répond comme suit :
 
-* Si les joueurs disent à Strahd qu'ils sont venus au Mont Ghakis pour trouver une arme capable de le détruire, Strahd lève un sourcil et dit : "Je regrette de vous informer qu'une seule arme était capable de faire une telle chose - et elle a été détruite il y a longtemps."
-* Si les joueurs disent à Strahd qu'ils sont venus au Mont Ghakis pour trouver une "épée de lumière du soleil", Strahd ricane froidement et les informe que "l'arme qu'ils cherchent a été détruite il y a longtemps".
-* Si les joueurs mentent à Strahd en disant qu'ils sont venus au Mont Ghakis pour chercher le pouvoir ou le savoir du Temple d'Ambre, demandez aux joueurs qui répondent de lancer un jet de groupe de Charisme (Tromperie) DD 19. Quel que soit le résultat, Strahd demande avec curiosité qui leur a parlé de l'existence du Temple. Quelle que soit la réponse des joueurs, Strahd note que "peu ont la force ou la volonté de revendiquer le pouvoir qui sommeille dans ses voûtes", ajoutant : "Pardonnez-moi, mais je doute de vos capacités à cet égard."
-* Si les joueurs donnent à Strahd une autre raison mensongère, demandez aux joueurs qui répondent de lancer un jet de groupe de Charisme (Tromperie) DD 19, avec un désavantage si la raison est particulièrement mauvaise. En cas de réussite, Strahd fait une réponse appropriée. En cas d'échec, le regard de Strahd se fait glacial. Il informe les joueurs "qu'il s'est abstenu de prononcer tout mensonge devant eux" et partage ses regrets qu'ils "n'aient pas jugé bon de leur rendre la pareille".
-
+* Si les joueurs disent à Strahd qu'ils ont voyagé jusqu'au Mont Ghakis pour trouver une arme capable de le détruire, Strahd hausse un sourcil et dit : "Je regrette de vous informer qu'une seule arme était capable d'une telle chose—et elle a été détruite il y a bien longtemps."
+* Si les joueurs disent à Strahd qu'ils ont voyagé jusqu'au Mont Ghakis pour trouver une "épée de lumière solaire", Strahd rit froidement et les informe que "l'arme qu'ils cherchent a été détruite il y a bien longtemps."
+* Si les joueurs mentent à Strahd en disant qu'ils ont voyagé jusqu'au Mont Ghakis pour chercher le pouvoir ou la connaissance du Temple d'Ambre, demandez aux joueurs qui répondent d'effectuer un jet de groupe de Charisme (Tromperie) DD 19. Quel que soit le résultat, Strahd demande avec curiosité qui leur a parlé de l'existence du Temple. Quelle que soit la réponse des joueurs, Strahd note que "peu ont la force ou la volonté de revendiquer le pouvoir qui sommeille dans ses voûtes", ajoutant : "Pardonnez-moi, mais j'ai des doutes quant à vos capacités à cet égard."
+* Si les joueurs fournissent à Strahd une autre raison mensongère, demandez aux joueurs qui répondent d'effectuer un jet de groupe de Charisme (Tromperie) DD 19, avec désavantage si la raison est particulièrement mauvaise. En cas de réussite, Strahd donne une réponse appropriée. En cas d'échec, le regard de Strahd devient glacial. Il informe les joueurs qu'il "s'est abstenu de proférer le moindre mensonge devant eux" et exprime ses regrets qu'ils "n'aient pas jugé bon de lui retourner cette courtoisie."
 ### Le défi de Strahd
-Quelle que soit la réponse des joueurs, Strahd se tourne ensuite vers le joueur qu'il a mordu la nuit précédente. "Beaucoup dans cette vallée me nomment 'tyran'", dit-il, "mais j'ai toujours respecté les choix de mes sujets." Il sort alors un petit objet de la poche intérieure de sa cape et tend la main, l'objet serré dans son poing.
+Quelle que soit la réponse des joueurs, Strahd se tourne ensuite vers le joueur qu'il a mordu la nuit précédente. "Beaucoup dans cette vallée me nomment 'tyran'," dit-il, "mais j'ai toujours respecté les choix de mes sujets." Il récupère alors un petit objet d'une poche intérieure de sa cape et tend sa main en avant, l'objet serré dans son poing.
 
-"Lors de notre dernière rencontre, le Destin a choisi que votre sang soit le premier que je goûte", dit Strahd. "Pourtant, le lot des mortels est de se révolter contre les caprices du Destin. Cette nuit, je vous donnerai l'occasion de le faire."
+"Lors de notre dernière rencontre, le Destin a choisi que votre sang soit le premier que je goûterais," dit Strahd. "Pourtant, c'est le lot des mortels de s'élever contre les caprices du Destin. Ce soir, je vous donnerai l'occasion de le faire."
 
-Strahd se tourne vers le reste du groupe et réitère que, comme pour le "jeu" de la nuit précédente, les joueurs ont l'interdiction de communiquer ou de se coordonner de quelque manière que ce soit, et que s'il croit qu'ils l'ont fait, ils seront immédiatement disqualifiés. Continuer :
+Strahd se tourne vers le reste du groupe et réitère que, comme pour le "jeu" de la nuit précédente, il est interdit aux joueurs de communiquer ou de se coordonner de quelque manière que ce soit, et que s'il croit qu'ils l'ont fait, ils perdront immédiatement. Continuez :
 
 <div class="description">
-<p>Le poing de Strahd se déploie, révélant une petite bourse en cuir.</p>
-<p>"Cette bourse", dit Strahd, "contient un nombre égal de pierres rouges et noires."</p>
-<p>Il desserre le cordon, puis en sort deux petites pierres polies : une rouge, une noire. "Chacun de vous recevra une pierre de chaque couleur."</p>
-<p>Strahd poursuit : "Quand je vous le dirai, chacun placera secrètement une de vos pierres dans la bourse - noire ou rouge. Les pierres seront ensuite comptées."</p>
-<p>Strahd lève la pierre noire en l'air. "Si au moins la moitié sont noires, je ne boirai le sang d'aucun de vous cette nuit."</p>
-<p>Strahd range alors la pierre noire dans son poing et lève la pierre rouge. "Sinon, j'épargnerai chacun de vous qui aura choisi une pierre rouge, et je me rassasierai du sang de chacun qui aura choisi une pierre noire."</p>
+<p>Le poing de Strahd s'ouvre, révélant une petite bourse en cuir.</p>
+<p>"Ce sac," dit Strahd, "contient un certain nombre de pierres rouges et noires en quantités égales."</p>
+<p>Il desserre le cordon de la bourse, puis en retire deux petites pierres polies : une rouge, une noire. "Chacun d'entre vous recevra une pierre de chaque couleur."</p>
+<p>Strahd poursuit : "Quand je vous l'indiquerai, chacun placera secrètement l'une de vos pierres dans le sac—noire ou rouge. Les pierres seront ensuite comptées."</p>
+<p>Strahd tient la pierre noire en l'air. "Si au moins la moitié sont noires, je ne boirai d'aucun d'entre vous ce soir."</p>
+<p>Strahd glisse ensuite la pierre noire dans son poing et tient la pierre rouge en l'air. "Sinon, j'épargnerai chacun d'entre vous qui a choisi une pierre rouge, et je me rassasierai de chacun de ceux qui ont choisi le noir."</p>
 </div>
 
 > [!info]+ **Comment fonctionne le jeu de Strahd**
-> Le jeu de Strahd, [inspiré du dilemme lié](https://x.com/lisatomic5/status/1690904441967575040), profite de deux aspects clés du raisonnement et de la psychologie humains :
-> * Il n'y a aucun inconvénient à choisir une pierre rouge, tandis qu'un joueur qui choisit une pierre noire se met volontairement en danger et force ainsi ses compagnons à le "sauver". Ainsi, puisque tous les joueurs éviteront d'être mordus si chacun choisit le rouge, la réponse **rationnelle** est que chaque joueur choisisse le rouge.
-> * La formulation des règles par Strahd suggère qu'une pierre noire représente "sauver" les autres joueurs, et que choisir une pierre rouge représente la trahison. Ainsi, la réponse **émotionnelle** est que chaque joueur choisisse le noir.
+> Le jeu de Strahd, [inspiré par le dilemme lié](https://x.com/lisatomic5/status/1690904441967575040), exploite deux facettes clés du raisonnement humain et de la psychologie :
+> * Il n'y a aucun inconvénient à choisir une pierre rouge, tandis qu'un joueur qui choisit une pierre noire se place volontairement en danger et force ainsi ses compagnons à le "sauver". Ainsi, puisque tous les joueurs éviteront d'être mordus si tous choisissent rouge, la réponse **rationnelle** est que chaque joueur choisisse rouge.
+> * La formulation des règles par Strahd suggère qu'une pierre noire représente "sauver" les autres joueurs, et que choisir une pierre rouge représente une trahison. Ainsi, la réponse **émotionnelle** est que chaque joueur choisisse noir.
 >
-> Chacune de ces réponses apparaîtra "évidente" aux joueurs qui les choisissent. Par conséquent, le but de ce jeu est de s'assurer qu'au moins certains joueurs choisissent différemment des autres, maximisant ainsi la probabilité d'une scission dans le pire des cas (c'est-à-dire une majorité de joueurs choisissant le rouge, tandis qu'une minorité importante de joueurs choisit le noir).
+> Chacune de ces réponses paraîtra "évidente" aux joueurs qui les choisissent. Par conséquent, l'objectif de ce jeu est de s'assurer qu'au moins quelques joueurs choisissent différemment des autres, maximisant ainsi la probabilité d'une division catastrophique (c'est-à-dire qu'une majorité de joueurs choisit rouge, tandis qu'une importante minorité choisit noir).
 
-Si les joueurs protestent contre les règles du jeu, Strahd leur rappelle que refuser de jouer signifiera un abandon immédiat. (Si les joueurs enfreignent l'une des règles de Strahd ou abandonnent d'une autre manière, passez à ***La Pénalité de Strahd*** ci-dessous.)
+Si les joueurs protestent contre les règles du jeu, Strahd leur rappelle que refuser de jouer signifiera un forfait immédiat. (Si les joueurs enfreignent l'une des règles de Strahd ou déclarent forfait autrement, passez à ***La pénalité de Strahd*** ci-dessous.)
 
-Strahd est ravi de permettre aux joueurs d'inspecter le sac et son contenu, qui sont tous deux non magiques. Les pierres, qu'un jet de Intelligence (Nature) CD 15 identifie comme du basalte (noir) et du jaspe (rouge), respectivement, ont été soigneusement sculptées et limées en petits cailloux arrondis, chacun légèrement plus large qu'une pièce d'or.
+Strahd est heureux de permettre aux joueurs d'inspecter le sac et son contenu, tous deux non magiques. Les pierres, qu'un test d'Intelligence (Nature) DD 15 identifie comme du basalte (noir) et du jaspe (rouge), respectivement, ont été soigneusement sculptées et limées en petits cailloux arrondis, chacun légèrement plus large qu'une pièce d'or.
 
 > [!info]+ **Tromper Strahd**
-> Tout joueur qui tente de communiquer ou de coordonner son vote de manière dissimulée doit réussir un jet de Dextérité (Tromperie ou Tour de main-monstre) CD 25, ou un jet de Charisme (Tromperie) CD 18 s'il l'a déjà fait avant l'arrivée de Strahd.
+> Tout joueur qui tente de communiquer ou de coordonner secrètement son vote doit réussir un test de Dextérité (Tromperie ou Escamotage) DD 25, ou un test de Charisme (Tromperie) DD 18 s'ils l'ont déjà fait avant l'arrivée de Strahd.
 ### Jouer au jeu
-Lorsque les joueurs sont prêts à commencer le jeu, Strahd place une paire de pierres dans les mains de chaque joueur - une rouge et une noire.
+Lorsque les joueurs sont prêts à commencer le jeu, Strahd place une paire de pierres dans les mains de chaque joueur—une rouge et une noire.
 
-Une fois que chaque joueur a reçu et inspecté ses pierres en privé, ils doivent secrètement placer leur(s) pierre(s) choisie(s) dans le sac de Strahd. Pour ce faire, chaque joueur doit communiquer son vote au Maître du Donjon en privé (par exemple, par une note pliée ou un message privé). Prévenez les joueurs que toute tentative de communication ou de coordination *en dehors* du jeu sera considérée comme ayant eu lieu *à l'intérieur* du jeu, et entraînera donc un abandon.
+Une fois que chaque joueur a reçu et inspecté ses pierres en privé, ils doivent secrètement placer leur(s) pierre(s) choisie(s) dans le sac de Strahd. Pour ce faire, chaque joueur doit communiquer son vote en privé au Maître du Donjon (par exemple, par une note pliée ou un message privé). Avertissez les joueurs que toute tentative de communication ou de coordination *en dehors* du jeu sera interprétée comme faite *à l'intérieur* du jeu, et entraînera donc un forfait.
 
 Une fois que tous les joueurs ont placé leurs pierres dans le sac, Strahd l'offre à Ireena et invite "Lady Kolyana" à "compter les votes". (Si Ireena n'est pas présente, Strahd l'offre à Ezmerelda à la place.)
 
-Ireena déverse alors le contenu du sac dans sa main, compte silencieusement les pierres et annonce les résultats. Pendant qu'elle le fait, elle réagit comme suit :
+Ireena déverse alors le contenu du sac dans sa main, les compte silencieusement et annonce les résultats. Ce faisant, elle réagit comme suit :
 
-* Si au moins la moitié des pierres sont noires, Ireena expire avec un soulagement évident.
+* Si au moins la moitié des pierres sont noires, Ireena exhale avec un soulagement évident.
 * Si toutes les pierres sont noires, Ireena rayonne de fierté.
-* Si au moins la moitié des pierres sont rouges, Ireena pâlit, une expression d'horreur se dessinant sur son visage.
-* Si toutes les pierres sont rouges, Ireena expire avec un soulagement évident.
+* Si au moins la moitié des pierres sont rouges, Ireena pâlit, une expression d'horreur apparaissant sur son visage.
+* Si toutes les pierres sont rouges, Ireena exhale avec un soulagement évident.
 
 Une fois qu'elle a annoncé les résultats, Ireena montre les pierres choisies pour que tous les joueurs puissent les voir.
 
-***Les Joueurs Gagnent.*** Si la moitié ou plus des pierres sont noires, ou si toutes les pierres sont rouges, Strahd félicite les joueurs pour leur prévoyance. Comme promis, il renonce à boire leur sang cette nuit-là. Il leur souhaite ensuite "de beaux rêves" et s'en va dans la nuit, disparaissant dans la brume.
+***Les joueurs gagnent.*** Si la moitié ou plus des pierres sont noires, ou si toutes les pierres sont rouges, Strahd félicite les joueurs pour leur prévoyance. Comme promis, il refuse de boire le sang de n'importe lequel d'entre eux cette nuit-là. Il leur souhaite ensuite "de beaux rêves" et s'en va dans la nuit, disparaissant dans la brume.
 
-***Les Joueurs Perdent.*** Sinon, Strahd secoue la tête avec solennité et condamne calmement "la folie du martyr" - ceux qui, dans leur zèle, "laissent la compassion les aveugler et les piéger", mettant ainsi en danger non seulement eux-mêmes, mais tous ceux qui pourraient suivre leurs illusions. "Pourtant, les pierres ont été jetées", dit-il gravement, "et il est temps pour moi de prendre ce qui m'est dû."
+***Les joueurs perdent.*** Sinon, Strahd secoue solennellement la tête et condamne tranquillement la "folie du martyr"—ceux qui, dans leur zèle, "permettent à la compassion de les aveugler et de les piéger", mettant ainsi en danger non seulement eux-mêmes, mais tous ceux qui pourraient les suivre dans l'illusion. "Pourtant, les pierres ont été jetées", dit-il gravement, "et il est temps pour moi de prendre mon dû."
 
-Pour identifier comment chaque joueur a voté, Strahd demande aux joueurs de révéler les pierres restantes en leur possession. Comme indiqué dans les règles du jeu, Strahd tente ensuite de boire le sang de chaque joueur qui a choisi une pierre noire, en répétant son attaque de ***morsure*** à chaque tour jusqu'à ce qu'ils soient réduits à 0 point de vie. S'il réussit, il sort un mouchoir de soie blanche de sa poche, s'essuie la bouche et le menton pour enlever tout sang, et dit au revoir aux joueurs. Il part ensuite.
+Pour identifier le vote de chacun, Strahd demande aux joueurs de révéler les pierres qu'ils ont encore en leur possession. Conformément aux règles du jeu, Strahd tente ensuite de boire le sang de chaque joueur ayant choisi une pierre noire, répétant son attaque de ***morsure*** à chaque tour jusqu'à ce qu'ils soient réduits à 0 point de vie. S'il réussit, il sort un mouchoir de soie blanche de sa poche, essuie sa bouche et son menton de toute trace de sang, puis fait ses adieux aux joueurs avant de partir.
 
 > [!abstract]+ **La Victime Blessée**
-> Si la première victime de Strahd a choisi une pierre noire et est ensanglantée (c'est-à-dire qu'elle a la moitié ou moins de ses points de vie actuels maximum), Strahd se tourne vers le clerc, le paladin ou un autre soigneur du groupe, s'il en est présent, et lui ordonne de soigner complètement cette victime avant qu'il ne boive son sang. "Il ne faudrait pas que votre ami meure si tôt", note Strahd, un sourire glacial sur les lèvres. (Si la première victime est elle-même capable de magie de soin, Strahd lui ordonne de "se soigner elle-même" avant de procéder.)
+> Si la première victime de Strahd a choisi une pierre noire et est ensanglantée (c'est-à-dire qu'elle a la moitié ou moins de son maximum actuel de points de vie), Strahd se tourne vers le clerc, le paladin ou tout autre soigneur du groupe, s'il y en a un, et lui ordonne de soigner complètement cette victime avant qu'il ne boive son sang. "Il ne conviendrait pas que votre ami meure si vite," remarque Strahd, un sourire glacial sur les lèvres. (Si la première victime est elle-même capable de magie de guérison, Strahd lui ordonne de "se guérir elle-même" avant de continuer.)
 >
-> Un joueur qui prétend faussement que les joueurs sont incapables de soigner la victime (par exemple, parce qu'ils ne connaissent pas ou n'ont pas préparé de magie de soin, qu'ils n'ont plus d'emplacements de sorts pour lancer, et/ou qu'ils n'ont pas de potions de soin) doit réussir un jet de Charisme (Tromperie) DD 20 pour convaincre Strahd qu'il dit la vérité.
+> Un joueur qui prétend faussement que les joueurs sont incapables de soigner la victime (par exemple, parce qu'ils ne connaissent pas ou n'ont pas préparé de magie de guérison, qu'ils n'ont plus d'emplacements de sorts à lancer, et/ou qu'ils n'ont pas de potions de guérison) doit réussir un test de Charisme (Tromperie) DD 20 pour convaincre Strahd qu'il dit la vérité.
 >
-> Si Strahd voit à travers les mensonges des joueurs, il secoue la tête et les avertit qu'il prendra le sang qui lui est dû, d'une manière ou d'une autre - et que la défiance se terminera probablement par la mort immédiate de la victime. Si les joueurs refusent à nouveau de soigner la victime, Strahd utilise son attaque de ***morsure*** contre la victime pour la réduire à 0 point de vie, puis continue de la mordre jusqu'à ce qu'elle ait échoué trois jets de sauvegarde contre la mort.
+> Si Strahd voit à travers les mensonges des joueurs, il secoue la tête et les avertit qu'il prendra le sang qui lui est dû, d'une façon ou d'une autre — et que leur défi se terminera probablement par la mort immédiate de la victime. Si les joueurs refusent à nouveau de soigner la victime, Strahd utilise son attaque de ***morsure*** contre la victime pour la réduire à 0 point de vie, puis continue à la mordre jusqu'à ce qu'elle ait échoué à trois jets de sauvegarde contre la mort.
 >
-> Si les joueurs sont vraiment incapables de soigner la première victime, Strahd les réprimande pour leur manque de prévoyance. "Vous avez choisi un chemin dangereux", les avertit-il, "mais vous gaspillez vos forces sur des bagatelles et des futilités, plutôt que de les préserver pour les défis à venir". Strahd promet que, par "pitié" pour la folie des joueurs, il s'efforcera de ne boire que ce qu'il faut pour étancher sa soif - bien que la vie de la victime soit ensuite entre les mains des joueurs. Il utilise ensuite son attaque de ***morsure*** contre la victime pour la réduire à 0 point de vie, la mord une fois de plus pour lui faire automatiquement échouer deux jets de sauvegarde contre la mort, et laisse tomber le corps inconscient de la victime devant les joueurs pour qu'ils la stabilisent (par exemple, avec un jet de Sagesse (Médecine) DD 10 ou un kit de soins) avant qu'elle ne meure.
+> Si les joueurs sont véritablement incapables de soigner la première victime, Strahd les réprimande pour leur manque de prévoyance. "Vous avez choisi un chemin dangereux," les avertit-il, "et pourtant vous gaspillez votre force sur des bagatelles, plutôt que de la préserver pour les défis qui vous attendent." Strahd promet que, par "pitié" pour la sottise des joueurs, il s'efforcera de ne boire que suffisamment pour étancher sa soif — bien que la vie de la victime sera ensuite entre les mains des joueurs. Il utilise alors son attaque de ***morsure*** contre la victime pour la réduire à 0 point de vie, mord la victime une fois de plus pour lui faire échouer automatiquement deux jets de sauvegarde contre la mort, et laisse tomber le corps inconscient de la victime devant les joueurs pour qu'ils le stabilisent (par exemple, avec un test de Sagesse (Médecine) DD 10 ou une trousse de soins) avant qu'elle ne meure.
 
-Strahd part une fois qu'il a pris tout le sang qui lui est dû, en se dissipant dans la brume.
+Strahd part après avoir pris tout le sang qui lui est dû, se transformant en brume.
 
-***La Pénalité de Strahd.*** Si un joueur résiste aux attaques de Strahd, Strahd le prévient que la trahison des conditions de leur jeu entraînera une défaite - et la mort de l'un d'entre eux. Si des joueurs continuent de résister aux attaques de Strahd, il utilise son attaque de ***corps à corps*** pour les saisir, puis utilise sa vitesse de déplacement et sa réaction ***retraite nocturne*** pour les éloigner du reste du groupe. (Au combat, Strahd commence dans sa phase Vampire, plutôt que dans sa phase Mage, et n'assume sa phase Mage que lorsque ses phases Vampire et Soldat ont été réduites à 0 point de vie.)
+***Pénalité de Strahd.*** Si un joueur résiste aux attaques de Strahd, celui-ci les avertit que trahir les termes de leur jeu entraînera un forfait — et la mort de l'un des leurs. Si des joueurs continuent à résister aux attaques de Strahd, il utilise sa ***frappe à mains nues*** pour les agripper, puis utilise sa vitesse de déplacement et sa réaction ***retraite nocturne*** pour les éloigner du groupe. (Au combat, Strahd commence dans sa phase Vampire, plutôt que sa phase Mage, et n'assume sa phase Mage que lorsque ses phases Vampire et Soldat ont été réduites à 0 point de vie.)
 
-À chaque tour où la victime reste saisie, Strahd utilise son attaque de ***corps à corps*** à attaques multiples et son action bonus ***frénésie de chauves-souris*** pour l'attaquer, jusqu'à ce que la victime soit morte. Si d'autres joueurs tentent d'empêcher Strahd de tuer la victime, Strahd utilise sa première action d'antre pour lancer *changement de temps*, puis utilise son action d'antre pour lancer *appel de la foudre* à chaque tour suivant où sa phase Vampire survit.
+Chaque tour où la victime reste agrippée, Strahd utilise sa multiattaque de ***frappe à mains nues*** et son action bonus ***frénésie des chauves-souris*** pour l'attaquer, continuant jusqu'à ce que la victime soit morte. Si d'autres joueurs tentent d'empêcher Strahd de tuer la victime, Strahd utilise sa première action de repaire pour lancer *changer la météo*, puis utilise son action de repaire pour lancer *appel de la foudre* à chaque tour suivant où sa phase Vampire survit.
 
-
-
-Strahd ne part que lorsque la victime choisie est morte. Quand il le fait, il avertit les joueurs qu'il reviendra la nuit suivante - et qu'il espère qu'ils seront mieux préparés à jouer à son jeu lorsqu'il reviendra. Ensuite, il disparaît dans la brume.
-
+Strahd ne part que lorsque la victime choisie est morte. Quand il s'en va, il avertit les joueurs qu'il reviendra la nuit suivante—et qu'il espère qu'ils seront mieux préparés à jouer à son jeu quand il reviendra. Puis il disparaît dans la brume.
 ## R4g. Le Cavalier sur le Pont
-Lorsque les joueurs se réveillent le lendemain matin, le temps est frais et froid, avec une épaisse couche de neige recouvrant la route de la nuit précédente.
+Quand les joueurs se réveillent le matin suivant, le temps est vif et froid, avec une épaisse couche de neige couvrant la route depuis la nuit précédente.
 
 > [!info]+ **Neige Épaisse**
-> Après la tempête de neige, la route et les alentours sont recouverts d'une épaisse couche de neige, qui est un terrain difficile. En voyageant dans la neige épaisse, les joueurs se déplacent à la moitié de la vitesse décrite dans <span class="citation">Allure de Voyage (Manuel du Joueur, p. 181)</span>.
+> Suite au blizzard, la route et les zones environnantes sont couvertes d'une neige épaisse, qui constitue un terrain difficile. En voyageant dans la neige épaisse, les joueurs se déplacent à la moitié de la vitesse décrite dans <span class="citation">Allure de Voyage (Manuel des Joueurs, p. 181)</span>.
 
-> [!info]+ **Voyager vers la Guérite**
-> Si les joueurs ont choisi de trouver un abri au lieu de se diriger vers la guérite la nuit précédente, le voyage de leur lieu d'hébergement à la guérite fait 4,4 km et prend une heure et cinquante minutes.
->
-> L'arrivée des joueurs à la guérite est largement décrite dans <span class="citation">T1. Herse de la Guérite (p. 157)</span>, <span class="citation">T2. Statues de Démons (p. 157)</span>, et <span class="citation">T3. Rideau de Flammes Vertes (p. 157)</span>. Cependant, ajoutez la phrase suivante à la fin de la description de <span class="citation">T1. Herse de la Guérite (p. 157)</span> :
->
-> <hr>
->
-> *La tour est perchée sur le rebord d'une falaise en surplomb, qui s'avance au-dessus du brouillard tourbillonnant en contrebas.*
+> [!info]+ **Voyage vers le Poste de Garde**
+> Si les joueurs ont choisi de trouver un abri au lieu de continuer vers le poste de garde la nuit précédente, le trajet de leur lieu d'abri jusqu'au poste de garde fait 4,4 kilomètres de long et prend une heure et cinquante minutes.
+> 
+> L'arrivée des joueurs au poste de garde est largement telle que décrite dans <span class="citation">T1. Herse du Poste de Garde (p. 157)</span>, <span class="citation">T2. Statues de Démons (p. 157)</span>, et <span class="citation">T3. Rideau de Flammes Vertes (p. 157)</span>. Cependant, ajoutez la phrase suivante à la fin de la description de <span class="citation">T1. Herse du Poste de Garde (p. 157)</span> :
 >
 > <hr>
->
-> De plus, augmentez le nombre de vrocks pétrifiés à quatre. (Si présent, Kasimir peut identifier les statues de démons comme des gardiens qui l'ont attaqué la dernière fois qu'il est venu ici, s'animant et le poursuivant lorsqu'il a essayé de contourner la guérite à l'aide d'une corde.)
->
-> Un joueur qui pense à présenter l'*amulette de passage du chevalier* à moins de 9 mètres de la herse peut supprimer le rideau de flammes pendant 1 minute, comme décrit dans [[Arc M - The Dragon's Manor#Argynvost's Study|Arc M - Le Manoir du Dragon]].
->
-> La tour de garde de la guérite est telle que décrite dans <span class="citation">T4. Tour de Garde, Rez-de-Chaussée (p. 157)</span>, <span class="citation">T4. Tour de Garde, Étage Supérieur (p. 159)</span>, et <span class="citation">T6. Toit de la Tour de Garde (p. 159)</span>.
+> 
+> *La tour est perchée sur le bord d'une falaise en surplomb, qui s'avance au-dessus du brouillard tourbillonnant en contrebas.*
+> 
+> <hr>
+> 
+> De plus, augmentez le nombre de vrocks pétrifiés à quatre. (Si présent, Kasimir peut identifier les statues de démons comme étant des gardiens qui l'ont attaqué la dernière fois qu'il est venu ici, s'animant et le poursuivant quand il a essayé de contourner le poste de garde au moyen d'une corde.)
+> 
+> Un joueur qui pense à présenter l'*amulette de passage du chevalier* alors qu'il se trouve à moins de 9 mètres de la herse peut supprimer le rideau de flammes pendant 1 minute, comme décrit dans [[Arc M - Le Manoir du Dragon#L'Étude d'Argynvost|Arc M - Le Manoir du Dragon]].
+> 
+> La tour de garde du poste de garde est telle que décrite dans <span class="citation">T4. Tour de Garde, Rez-de-Chaussée (p. 157)</span>, <span class="citation">T4. Tour de Garde, Étage Supérieur (p. 159)</span>, et <span class="citation">T6. Toit de la Tour de Garde (p. 159)</span>.
 
-Le pont au-delà de la guérite est largement décrit dans <span class="citation">T7. Arche Ouest (p. 159)</span>, <span class="citation">T8. Pont de Pierre (p. 159)</span>, et <span class="citation">T9. Arche Est (p. 159)</span>. Cependant, supprimez la description du cavalier vêtu de noir de <span class="citation">T8. Pont de Pierre (p. 159)</span>.
+Le pont au-delà du poste de garde est largement tel que décrit dans <span class="citation">T7. Arche Occidentale (p. 159)</span>, <span class="citation">T8. Pont de Pierre (p. 159)</span>, et <span class="citation">T9. Arche Orientale (p. 159)</span>. Cependant, supprimez la description du cavalier vêtu de noir du texte de <span class="citation">T8. Pont de Pierre (p. 159)</span>.
 
-Lorsque les joueurs quittent le pont, lisez :
-
-<div class="description">
-<p>L'étroite route enneigée longe le flanc de la montagne en montant, sa pente devenant de plus en plus raide à mesure qu'elle approche d'une petite crête.</p>
-<p>Sur la gauche, la pierre grise austère du Mont Ghakis s'élève bien au-dessus de vous ; à droite, la terre elle-même s'effondre, révélant une chute à pic de plusieurs centaines de mètres dans les bois brumeux en contrebas. Au loin à l'ouest, vous pouvez voir une rivière se jetant dans un grand lac, sa surface scintillant d'un gris d'acier froid.</p>
-</div>
-
-La rivière est la rivière Luna et le lac est le lac Luna.
-
-Cinquante minutes après que les joueurs aient quitté le pont, si un joueur a un score de Sagesse (Perception) passif de 15 ou plus, lisez :
+Alors que les joueurs quittent le pont, lisez :
 
 <div class="description">
-<p>Au loin derrière et en dessous de vous, le pont de la guérite semble reposer comme une allumette grossière sur le gouffre béant en contrebas. Une forme semble se déplacer dessus, venant du nord.</p>
+<p>La route étroite couverte de neige épouse le flanc de la montagne en s'élevant, sa pente devenant plus raide à l'approche d'une petite crête.</p>
+<p>À gauche, la pierre grise et austère du Mont Ghakis s'élève bien au-dessus de vous ; à droite, la terre elle-même disparaît, révélant une chute vertigineuse de plusieurs centaines de mètres dans les bois brumeux en contrebas. Au loin vers l'ouest, vous pouvez voir une rivière alimentant un grand lac, sa surface luisant d'un gris métallique et froid.</p>
 </div>
 
-Un joueur peut faire un jet de Sagesse (Perception) de DD 20 pour identifier la forme. En cas de réussite, lisez :
+La rivière est la Rivière Luna, tandis que le lac est le Lac Luna.
+
+Cinquante minutes après que les joueurs ont quitté le pont, si un joueur a un score de Sagesse (Perception) passive de 15 ou plus, lisez :
 
 <div class="description">
-<p>La forme est un cavalier vêtu d'une cape noire sur un cheval noir de charbon. Alors que vous regardez, il traverse le milieu du pont - puis lève légèrement la tête dans votre direction, comme s'il avait remarqué votre regard.</p>
+<p>Loin dans la distance derrière et en contrebas, le pont du poste de garde semble s'étendre comme une allumette grossière au-dessus du gouffre béant. Une forme semble se déplacer dessus depuis le nord.</p>
 </div>
 
+Un joueur peut faire un test de Sagesse (Perception) DD 20 pour identifier la forme. En cas de réussite, lisez :
 
+<div class="description">
+<p>La forme est un cavalier vêtu de noir sur un cheval couleur charbon. Alors que vous regardez, il franchit le milieu du pont—puis lève légèrement la tête dans votre direction, comme s'il avait remarqué votre regard.</p>
+</div>
 
-Le cavalier est Rahadin, bien que la cape qu'il porte cache ses traits. Quelle que soit la réponse des joueurs, le cavalier reporte ensuite son attention sur le pont devant lui, disparaissant de vue derrière une falaise de montagne en atteignant <span class="citation">T9. La Voûte Orientale (p. 159)</span>.
+Le cavalier est Rahadin, bien que la cape qu'il porte dissimule ses traits. Quelle que soit la réponse des joueurs, le cavalier reporte ensuite son attention sur le pont devant lui, disparaissant de vue derrière une falaise montagneuse en atteignant <span class="citation">T9. Arche orientale (p. 159)</span>.
 
 > [!abstract]+ **Tendre une embuscade à Rahadin**
-> Si les joueurs indiquent un intérêt à se mettre en embuscade et à tendre une embuscade au cavalier, Kasimir souligne que la route ici est beaucoup trop étroite et nue pour servir facilement de cachette. "Plus important encore", ajoute-t-il, "nous semblons suivre un échéancier - si nous ne parvenons pas à atteindre notre destination, nous risquons de perdre l'un des nôtres lorsque Zarovich reviendra ce soir." Bien qu'il note sa volonté de se plier à la décision des joueurs, Kasimir les avertit que d'autres retards peuvent compromettre leur mission.
+> Si les joueurs manifestent un intérêt pour attendre et tendre une embuscade au cavalier, Kasimir souligne que la route ici est bien trop étroite et dénudée pour servir facilement de cachette. "Plus important encore," ajoute-t-il, "nous semblons être soumis à un délai—si nous ne parvenons pas à atteindre notre destination, nous risquons de perdre l'un des nôtres lorsque Zarovich reviendra ce soir." Bien qu'il note sa volonté de s'en remettre à la décision des joueurs, Kasimir les avertit que des retards supplémentaires pourraient compromettre leur mission.
 >
-> Si les joueurs tentent néanmoins de trouver un endroit pour tendre une embuscade au cavalier, tous les membres du parti d'embuscade doivent réussir un jet de groupe de Dextérité (Discrétion) DD 24. En cas d'échec, lorsqu'il arrive cinquante minutes plus tard, Rahadin détecte leur présence et s'enfuit dans la direction d'où il venait avant d'approcher à moins de 60 mètres. Rahadin s'enfuit également si les joueurs l'attaquent, ne combattant que s'il est acculé.
-
-## R4h. Le Carrefour de Montagne
-Lorsque les joueurs continuent sur la route, lisez :
+> Si les joueurs tentent néanmoins de trouver un endroit pour tendre une embuscade au cavalier, tous les membres du groupe d'embuscade doivent effectuer un test de groupe de Dextérité (Discrétion) DD 24. En cas d'échec, lorsqu'il arrive cinquante minutes plus tard, Rahadin détecte leur présence et s'enfuit dans la direction d'où il est venu avant de s'approcher à moins de soixante mètres. Rahadin s'enfuit également si les joueurs attaquent, ne combattant que s'il est acculé.
+## R4h. Le carrefour de la montagne
+Tandis que les joueurs continuent de monter la route, lisez :
 
 <div class="description">
-<p>La route continue de monter, l'air devenant plus froid et le vent plus rude à chaque pas que vous faites. Sur la droite, les falaises de la montagne s'effondrent dans une mer de brume flottante, sa surface grise n'étant brisée que par les sommets des hauts pins anciens qui s'élèvent de centaines de mètres en dessous de vous.</p>
-<p>Alors que vous continuez, la route s'incurve avec le flanc de la montagne, finissant par s'élever jusqu'à atteindre un étroit carrefour qui se dresse de manière vertigineuse contre une falaise abrupte de 150 mètres. Ici, la route se divise en deux ; la branche sud s'élève le long d'un chemin escarpé et rocheux qui disparaît bientôt dans un mur de brume qui s'élève aussi loin que l'oeil peut voir, tandis que la branche nord fait une courbe avant de s'incurver derrière un haut plateau glacé.</p>
+<p>La route continue de grimper, l'air devenant plus froid et le vent plus rude à chaque pas que vous faites. À droite, les falaises de la montagne plongent dans une mer de brume flottante, sa surface grise n'étant brisée que par les sommets de grands pins anciens qui s'élèvent à des centaines de mètres en contrebas.</p>
+<p>En continuant, la route épouse la courbe du flanc de la montagne, s'élevant finalement jusqu'à atteindre un étroit carrefour qui se dresse précairement contre une falaise abrupte de cent cinquante mètres. Ici, la route se divise en deux ; la branche sud s'élance le long d'un chemin haut et escarpé qui disparaît bientôt dans un mur de brume s'élevant à perte de vue, tandis que la branche nord fait demi-tour avant de courber derrière un haut plateau glacé.</p>
 </div>
 
 Si un joueur a un score de Sagesse (Perception) passive de 16 ou plus, ajoutez :
 
 <div class="description">
-<p>Vous attrapez un mouvement furtif parmi les falaises, à environ 30 mètres au-dessus de vous : une silhouette vêtue de gris camouflée contre la pierre sombre de la montagne.</p>
+<p>Vous apercevez un mouvement furtif parmi les falaises, à environ trente mètres au-dessus de vous : une silhouette vêtue de gris camouflée contre la pierre sombre de la montagne.</p>
 </div>
 
-La silhouette est un éclaireur des Gens des Montagnes du nom de Kalaris (utilisez les statistiques d'un **éclaireur**, mais remplacez l'***arc long*** par une paire de ***javelines***).
+La silhouette est un éclaireur du Peuple des Montagnes nommé Kalaris (utilisez les statistiques d'un **éclaireur**, mais remplacez l'***arc long*** par une paire de ***lances***).
 
-Kalaris a été envoyé de Soldav pour rechercher Thiadicem, un éclaireur des Gens des Montagnes qui n'est pas revenu la veille. Un joueur qui réussit un jet de Sagesse (Perception) DD 16 peut identifier que la silhouette, qui porte une cape grise foncée et un foulard sombre enroulé autour de son visage, semble avoir une lame courte suspendue à sa ceinture et une paire de javelines attachées dans son dos.
+Kalaris a été envoyé de Soldav pour rechercher Thiadicem, un éclaireur du Peuple des Montagnes qui n'est pas revenu la veille. Un joueur qui réussit un test de Sagesse (Perception) DD 16 peut identifier que la silhouette, qui porte une cape gris foncé et un foulard sombre enroulé autour de son visage, semble avoir une lame courte pendue à sa taille et une paire de lances attachées à son dos.
 
-Si un joueur remarque Kalaris, il se retire rapidement de vue et disparaît derrière les falaises.
+Si un joueur remarque Kalaris, celui-ci se retire rapidement et disparaît derrière les falaises.
 
-
-
-> [!abstract]+ **Poursuivre Kalaris**
-> Les joueurs ayant des moyens de vol ou de téléportation peuvent facilement trouver et rattraper Kalaris avant qu'il ne puisse leur échapper parmi les crêtes montagneuses. S'ils s'approchent à moins de 9 mètres de lui et n'essaient pas de se cacher, il dégaine une de ses lances et leur ordonne, dans un commun rude et accentué, de s'identifier et d'expliquer leurs intentions.  
+> [!abstract]+ **Poursuite de Kalaris**
+> Les joueurs disposant de moyens de vol ou de téléportation peuvent facilement trouver et rattraper Kalaris avant qu'il ne puisse leur échapper parmi les crêtes montagneuses. S'ils s'approchent à moins de neuf mètres de lui sans essayer de se dissimuler, il dégaine l'une de ses lances et leur ordonne, dans un langage commun bourru et accentué, de s'identifier et d'exposer leurs intentions.
 >
-> Les joueurs peuvent gagner la confiance de Kalaris en mentionnant leur intérêt pour Soldav, en partageant leur objectif de vaincre Strahd (que Kalaris appelle "la Grande Ombre"), et en réussissant un jet de Charisme (Persuasion) DD 20. Le jet est fait avec avantage si les joueurs mentionnent leur intérêt pour la restauration des Fanes des Trois Dames, et réussit automatiquement si les joueurs montrent à Kalaris la *Lance de la Chasseresse* après l'avoir obtenue du tombeau du roi Dostron dans [[Arc P - Le Cambriolage de Ravenloft]].
+> Les joueurs peuvent gagner la confiance de Kalaris en mentionnant leur intérêt pour Soldav, en partageant leur objectif de vaincre Strahd (que Kalaris appelle "la Grande Ombre"), et en réussissant un jet de Charisme (Persuasion) DD 20. Le jet est effectué avec avantage si les joueurs mentionnent leur intérêt à restaurer les Temples des Trois Dames, et réussit automatiquement si les joueurs montrent à Kalaris la *Lance de la Chasseresse* après l'avoir obtenue de la tombe du Roi Dostron dans [[Arc P - Casse de Ravenloft]].
 >
-> Si les joueurs gagnent la confiance de Kalaris, il accepte de descendre les falaises et de les guider vers Soldav, en suivant le même chemin que Kasimir. Sinon, s'ils n'arrivent pas à gagner sa confiance, Kalaris brandit sa lance, insiste sur le fait que Soldav "a quitté la vallée en paix depuis que le Roi Cornu l'a conquise" et exige que les joueurs le laissent partir en paix.
+> Si les joueurs gagnent la confiance de Kalaris, il accepte de descendre les falaises et de les conduire à Soldav, suivant le même chemin que Kasimir. Sinon, si les joueurs ne parviennent pas à gagner sa confiance, Kalaris brandit sa lance, insiste sur le fait que Soldav "a laissé la vallée en paix depuis que le Roi Cornu l'a conquise", et exige que les joueurs le laissent partir en paix.
 >
-> Si les joueurs refusent de laisser partir Kalaris en paix, il se retourne et tente de fuir vers le haut de la montagne. Si Kalaris n'est pas en infériorité numérique, il lance sa lance sur le joueur qui l'a suivi avant de s'enfuir, espérant le distraire ou le blesser.  
+> Si les joueurs refusent de laisser Kalaris partir en paix, il se retourne et tente de s'enfuir dans la montagne. Si Kalaris n'est pas en infériorité numérique, il lance sa lance sur le joueur qui l'a suivi avant de s'enfuir, espérant le distraire ou le blesser.
 >
-> Si les joueurs se lancent à sa poursuite, déroule leur poursuite comme décrit dans <span class="citation">Poursuites (*Guide du Maître*, p. 252)</span>, en utilisant la table **Complications de Poursuite Alpine** ci-dessous. En raison de sa connaissance du terrain, Kalaris a l'avantage sur les jets de Dextérité (Discrétion) pour se cacher pendant sa fuite.
+> Si les joueurs le poursuivent, gérez leur traque comme décrit dans <span class="citation">Poursuites (<em>Guide du Maître</em>, (p. 252)</span>, en utilisant le tableau **Complications de poursuite alpine** ci-dessous. En raison de sa familiarité avec le terrain, Kalaris a l'avantage aux jets de Dextérité (Discrétion) effectués pour se cacher pendant sa fuite.
 
-> [!info]+ **Complications de Poursuite Alpine**
+> [!info]+ **Complications de poursuite alpine**
 > | d20 | Complication |
 > | :---: | :-----|
-> |1|Votre pied traverse une fine couche de glace et se retrouve coincé sous un rocher lourd. Faites un jet de Sauvegarde de Dextérité DD 14. En cas d'échec, votre vitesse est réduite à 0. En une action, vous ou une autre créature pouvez faire un jet de Force DD 14 pour vous libérer en cas de réussite.|
-> |2-3|Une zone de gravier meuble sous la neige vous fait perdre l'équilibre. Faites un jet de Sauvegarde de Dextérité DD 15 ou tombez à terre.|
-> |4-5|Des rochers se détachent des falaises au-dessus et s'écrasent sur le chemin. Faites un jet de Sauvegarde de Dextérité DD 14 ou subissez 2d6 dégâts contondants et tombez à terre.|  
-> |6-7|Une plaque de glace cachée a rendu le sol glissant sous vos pieds. Faites un jet de Sauvegarde de Dextérité DD 13 ou tombez à terre. Si le jet échoue de 5 ou plus, vous glissez sur le rebord de la falaise et devez faire un jet supplémentaire de Sauvegarde de Dextérité DD 15 pour vous accrocher au rebord. En cas d'échec, vous tombez de la falaise et atterrissez à plat ventre sur un rebord glacé et précaire 3 mètres plus bas (cet endroit est balayé par <span class="citation">des vents violents (*Guide du Maître*, p. 110)</span>.|
-> |8-10|Une puissante rafale de vent et de neige vous aveugle momentanément. Faites un jet de Sauvegarde de Constitution DD 12 ou soyez aveuglé et ralenti jusqu'à la fin de votre prochain tour. (Ralenti, une créature doit dépenser 30 cm de déplacement supplémentaire pour chaque 30 cm parcourus avec sa vitesse, les attaques contre elle ont l'avantage et elle a un désavantage sur les jets de Sauvegarde de Dextérité).|
+> |1|Votre pied traverse une couche de glace fine et se retrouve coincé sous une lourde roche. Faites un jet de sauvegarde de Dextérité DD 14. En cas d'échec, votre vitesse est réduite à 0. Par une action, vous ou une autre créature pouvez faire un jet de Force DD 14, vous libérant en cas de succès.|
+> |2-3| Une plaque de gravier meuble sous la neige vous fait perdre l'équilibre. Faites un jet de sauvegarde de Dextérité DD 15 ou tombez à terre.|
+> |4-5|Des roches détachées des falaises au-dessus s'écrasent sur le chemin. Faites un jet de sauvegarde de Dextérité DD 14 ou subissez 2d6 dégâts contondants et tombez à terre.|
+> |6-7|Une plaque de glace cachée a rendu le sol sous vos pieds glissant. Faites un jet de sauvegarde de Dextérité DD 13 ou tombez à terre. Si l'échec est de 5 ou plus, vous glissez au bord de la falaise et devez faire un jet de sauvegarde de Dextérité DD 5 supplémentaire, vous rattrapant au bord de la falaise en cas de succès. En cas d'échec, vous tombez de la falaise et atterrissez à terre sur un rebord glacé précaire trois mètres plus bas. (En raison de son emplacement, le rebord est balayé par <span class="citation">des vents violents (<em>Guide du Maître</em>, p. 110)</span>.|
+> |8-10| Une puissante rafale de vent et de neige vous aveugle momentanément. Faites un jet de sauvegarde de Constitution DD 12 ou soyez aveuglé et ralenti jusqu'à la fin de votre prochain tour. (Une créature ralentie doit dépenser 30 cm de mouvement supplémentaire pour chaque 30 cm qu'elle parcourt avec sa vitesse, les jets d'attaque contre elle ont l'avantage, et elle subit un désavantage aux jets de sauvegarde de Dextérité.)|
 > |11-20|Pas de complication.|
 
-Lorsque les joueurs sont prêts à poursuivre, Kasimir les informe que, selon ses rêves, la branche nord mène à leur destination. Si un joueur demande ou se demande à voix haute ce qu'est le mur de brume au sud, Kasimir répond qu'il s'agit de la frontière sud de Barovia - les Brumes qui maintiennent ce territoire prisonnier du domaine de Strahd.
+Lorsque les joueurs sont prêts à continuer, Kasimir les informe que, selon ses rêves, la branche nord mène vers leur destination. Si un joueur demande ou s'interroge à voix haute sur le mur de brume au sud, Kasimir répond qu'il s'agit de la frontière sud de Barovia—les Brumes qui maintiennent le pays emprisonné dans le domaine de Strahd.
+## R4i. L'Avalanche
+Lorsque les joueurs continuent sur la branche nord du carrefour montagneux, lisez :
 
 <div class="description">
-<p>La route fait un détour sur elle-même à mesure qu'elle monte ; loin sous vos pieds, vous pouvez voir la route avant le carrefour s'accrocher étroitement au flanc de la montagne, la mer de brume se tordant paresseusement à mille mètres en dessous.</p>
-<p>Cependant, il ne faut pas longtemps avant que la route inférieure ne disparaisse à nouveau de la vue, la route élevée montant sur une plaine plate recouverte de neige. Le chemin ici est beaucoup moins raide, descendant dans une vallée peu profonde avant de remonter pour traverser un long plateau blanc qui s'enroule autour du flanc nord-ouest de la montagne comme une jupe.</p>
-<p>Cinq kilomètres et plus de trois heures après l'avoir traversé, la minuscule forme du pont de la guérite émerge à travers le brouillard à plus de trois cents mètres en dessous de vous, le long ruban gris de la rivière Luna se tordant en dessous encore plus bas. Cependant, la route continue autour de la base du pic nord-ouest de la montagne, la plaine glacée se rétrécissant à nouveau en un mince chemin périlleux qui serpente sous les falaises nord de Ghakis.</p>
-<p>Une centaine de mètres plus loin, la route courbe avec le flanc de la montagne, tournant à droite vers le sommet de la montagne avant de faire une courbe à gauche et de disparaître autour d'un virage à une centaine de mètres plus loin. Là où la route fait une courbe, vous pouvez à peine voir un vide sombre dans les falaises rocheuses - une grotte.</p>
+<p>La route se replie sur elle-même en montant; loin sous vos pieds, vous pouvez voir la route avant le carrefour s'accrochant fermement au flanc de la montagne, la mer de brouillard ondulant paresseusement trois cents mètres plus bas.</p>
+<p>Cependant, la route inférieure disparaît rapidement de vue à nouveau, la route supérieure débouchant sur une plaine plate couverte de neige. Le chemin ici est beaucoup moins escarpé, descendant dans une vallée peu profonde avant de s'élever à nouveau pour traverser un long plateau blanc qui s'enroule autour du flanc nord-ouest de la montagne comme une jupe.</p>
+<p>Huit kilomètres et plus de trois heures après l'avoir traversé, la forme minuscule du pont du poste de garde émerge à travers le brouillard à plus de trois cents mètres en contrebas, le long ruban gris de la rivière Luna serpentant encore plus bas. La route, cependant, continue autour de la base du pic nord-ouest de la montagne, la plaine glacée se rétrécissant à nouveau en un sentier mince et dangereux qui serpente sous les falaises nord de Ghakis.</p>
+<p>À trente mètres devant, la route épouse le flanc de la montagne, s'incurvant vers la droite en direction du sommet avant de dévier vers la gauche et de disparaître au tournant, trente mètres plus loin. À l'endroit où la route dévie, vous pouvez distinguer faiblement un vide sombre dans les falaises rocheuses—une grotte.</p>
 </div>
 
-Pause et laissez les joueurs un moment pour répondre. Après qu'ils l'aient fait, ou si aucun joueur ne répond, continuez:
+Pause and allow the players a moment to respond. After they have done so, or if no players respond, continue:
 
 <div class="description">
-<p>Le vent change soudainement de direction, passant du nord au sud. Loin en dessous, une volée de petits oiseaux s'envole d'une falaise de montagne inférieure, leurs cris se répercutant à travers les falaises alors qu'ils volent vers le nord - s'éloignant de la montagne.</p>
+<p>Le vent change soudainement de direction, passant du nord au sud. Loin en contrebas, une volée de petits oiseaux s'envole d'une falaise inférieure, leurs cris résonnant à travers les falaises tandis qu'ils volent vers le nord—loin de la montagne.</p>
 </div>
 
-Un joueur avec un score de Sagesse (Perception) passif de 15 ou plus entend un sourd coup sourd résonner du flanc de la montagne au-dessus d'eux - comme si la montagne elle-même expirait et se déplaçait sous le poids de la neige sur elle. (Si Kalaris accompagne les joueurs, il entend le coup et les avertit que la "montagne bouge" au-dessus d'eux. Il conseille aux joueurs de se mettre rapidement en sécurité - soit dans la grotte, soit, si les joueurs se sentent confiants dans leur rapidité, au-delà de la zone d'avalanche.)
+A player with a passive Wisdom (Perception) score of 15 or greater hears a deep, muted thud reverberate from the mountainside above them—as if the mountain itself is exhaling and shifting beneath the weight of the snow upon it. (If Kalaris is accompanying the players, he hears the thud and warns them that the "mountain is shifting" above them. He advises the players to move quickly to safety—either into the cave or, if the players feel confident in their swiftness, past the avalanche zone entirely.)
 
-Un round plus tard, chaque joueur entend un craquement lointain et perçant percer l'air. Continuez:
-
-<div class="description">
-<p>Pendant un moment, le monde semble retenir son souffle. Puis, loin au-dessus, un grondement sourd emplit l'air, comme si des milliers de pierres bougeaient toutes en même temps. Le son enfle en un grondement lointain, profond et résonnant, comme si quelque chose de massif s'était réveillé des profondeurs de la montagne.</p>
-</div>  
-
-Les joueurs ont chacun un round pour réagir. Lorsque le round se termine, l'avalanche commence. Lisez:
+One round later, each player hears a distant, sharp crack pierce the air. Continue:
 
 <div class="description">
-<p>Le grondement éclate en un rugissement assourdissant, la pente au-dessus cédant avec un fracas retentissant. La neige et la glace se libèrent par vagues, renversant arbres et formations rocheuses, alors qu'une section de la montagne dévale vers vous.</p>
+<p>Pendant un instant, le monde semble retenir son souffle. Puis, loin au-dessus, un grondement sourd emplit l'air, comme un millier de pierres se déplaçant toutes à la fois. Le son enfle jusqu'à devenir un grondement distant, profond et résonnant, comme si quelque chose d'énorme s'était réveillé des profondeurs de la montagne.</p>
 </div>
 
-Demandez aux joueurs de lancer l'initiative. Définissez l'emplacement de départ des joueurs comme suit :
+The players each have one round to react. When the round ends, the avalanche begins. Read:
 
-* Si les joueurs ne se sont pas déplacés de leur position initiale, ils commencent à cent mètres de la grotte.
-* Pour chaque round où les joueurs ont marché vers la grotte, ils commencent quinze mètres plus près de la grotte. (Par exemple, si les joueurs ont commencé à marcher en entendant le craquement, ils commencent à quatre-vingt-cinq mètres de la grotte.)
-* Pour chaque round où les joueurs ont couru vers la grotte, ils commencent trente mètres plus près de la grotte. (Par exemple, si les joueurs ont commencé à courir en entendant le craquement, ils commencent à soixante-dix mètres de la grotte.)
+<div class="description">
+<p>Le grondement se transforme en un rugissement assourdissant, la pente au-dessus cède dans un fracas tonitruant. La neige et la glace se détachent par vagues, renversant arbres et formations rocheuses, tandis qu'une section de la montagne dévale vers vous.</p>
+</div>
 
+Have the players roll initiative. Set the players' starting location as follows:
 
+* If the players haven't moved from their initial position, they begin one hundred feet from the cave.
+* For each round that the players have walked toward the cave, they begin fifteen feet closer to the cave. (For example, if the players began walking upon hearing the crack, they begin eighty-five feet from the cave.)
+* For each round that the players have run toward the cave, they begin thirty feet closer to the cave. (For example, if the players began running upon hearing the crack, they begin seventy feet from the cave.)
 
-Un joueur qui réussit un jet d'Intelligence (Perception) DD 10 prédit que l'avalanche aura probablement un impact sur une section de la route allant de 90 mètres derrière eux à 60 mètres devant eux. Un joueur qui réussit un jet d'Intelligence (Survie) DD 10 prédit que, en raison de l'angle de la montagne au-dessus d'eux, la caverne offre probablement un refuge sûr contre le passage de l'avalanche - bien qu'il soit probable que l'avalanche bloque cette entrée de la caverne une fois qu'elle l'aura percutée.
+Un joueur qui réussit un jet d'Intelligence (Perception) DD 10 prédit que l'avalanche touchera probablement une section de la route allant de quatre-vingt-dix mètres derrière eux à soixante mètres devant eux. Un joueur qui réussit un jet d'Intelligence (Survie) DD 10 prédit que, en raison de l'angle de la montagne au-dessus d'eux, la grotte est susceptible de fournir un refuge sûr contre le passage de l'avalanche — bien qu'il soit probable que l'avalanche bloquera cette entrée de la grotte une fois qu'elle aura frappé.
 
-> [!info]+ **Échapper à l'avalanche**
-> En raison de la largeur et de l'emplacement de l'avalanche, il est impossible d'y échapper en fuyant dans la direction d'où viennent les joueurs. Pour l'éviter, les joueurs doivent soit se réfugier dans la caverne, soit courir plus vite que l'avalanche, soit s'en échapper par des moyens magiques (p. ex. le vol).
+> [!info]+ **Échapper à l'Avalanche**
+> En raison de la largeur et du placement de l'avalanche, il est impossible d'y échapper en fuyant dans la direction d'où les joueurs sont venus. Pour l'éviter, les joueurs doivent soit chercher refuge dans la grotte, soit distancer l'avalanche, soit s'échapper par des moyens magiques (par exemple, en volant).
 
-> [!warning]+ **Neige épaisse**
-> N'oubliez pas qu'en raison de l'épaisse couche de neige qui la recouvre, la route constitue un terrain difficile.
+> [!warning]+ **Neige Épaisse**
+> N'oubliez pas que, en raison de la neige épaisse qui la recouvre, la route est un terrain difficile.
 
-> [!lore]+ **La volonté de Strahd**
-> Strahd a envoyé l'avalanche pour tester la vitesse et l'ingéniosité des joueurs, les affaiblir à l'avance de sa visite le lendemain soir, et les pousser dans la caverne, où il a caché le *fragment du Vampyr* pour qu'ils le trouvent.
+> [!lore]+ **La Volonté de Strahd**
+> Strahd a envoyé l'avalanche pour tester la vitesse et l'ingéniosité des joueurs, les affaiblir avant sa visite la nuit suivante, et les pousser dans la grotte, où il a caché l'*éclat du Vampyr* pour qu'ils le trouvent.
 
-L'avalanche commence à 240 mètres au-dessus des joueurs. À l'initiative 0 de chaque round, l'avalanche avance comme suit :
+L'avalanche commence à deux cent quarante mètres au-dessus des joueurs. À l'initiative 0 de chaque round, l'avalanche progresse comme suit :
 
-* **Round Un.** L'avalanche descend de 30 mètres, se terminant à 210 mètres au-dessus des joueurs. Un joueur avec un score de Sagesse (Perception) passif de 14 ou plus remarque que l'avalanche semble accélérer.
-* **Round Deux.** L'avalanche descend de 60 mètres, se terminant à 150 mètres au-dessus des joueurs. Un joueur avec un score de Sagesse (Perception) passif de 10 ou plus remarque que l'avalanche semble accélérer.
-* **Round Trois.** L'avalanche descend de 90 mètres, se terminant à 60 mètres au-dessus des joueurs.
-* **Round Quatre.** L'avalanche percute la route. Chaque créature sur la route doit effectuer un jet de sauvegarde de Force DD 25, subissant 33 (6d10) dégâts contondants en cas d'échec, ou la moitié en cas de réussite. En cas d'échec, une créature est balayée du surplomb par l'avalanche et tombe immédiatement de 15 mètres. Lorsqu'elle est prise dans l'avalanche, une créature est aveuglée et entravée.
-* **Round Cinq.** L'avalanche, et chaque créature prise dedans, chute à travers les airs et atterrit sur un surplomb enneigé de la montagne 300 mètres plus bas. Chaque créature prise dans l'avalanche subit 70 (20d6) dégâts contondants et se retrouve ensevelie sous la neige. (Voir **Pris dans l'avalanche** ci-dessous).
+* **Premier Round.** L'avalanche descend de trente mètres, s'arrêtant à deux cent dix mètres au-dessus des joueurs. Un joueur avec un score de Sagesse (Perception) passive de 14 ou plus remarque que l'avalanche semble accélérer.
+* **Deuxième Round.** L'avalanche descend de soixante mètres, s'arrêtant à cent cinquante mètres au-dessus des joueurs. Un joueur avec un score de Sagesse (Perception) passive de 10 ou plus remarque que l'avalanche semble accélérer.
+* **Troisième Round.** L'avalanche descend de quatre-vingt-dix mètres, s'arrêtant à soixante mètres au-dessus des joueurs.
+* **Quatrième Round.** L'avalanche frappe la route. Chaque créature sur la route doit faire un jet de sauvegarde de Force DD 25, subissant 33 (6d10) dégâts contondants en cas d'échec, ou la moitié en cas de réussite. En cas d'échec, une créature est emportée de la falaise par l'avalanche et tombe immédiatement de quinze mètres. Lorsqu'elle est prise dans l'avalanche, une créature est aveuglée et entravée.
+* **Cinquième Round.** L'avalanche, et chaque créature prise dedans, plonge dans les airs et atterrit sur un précipice montagneux enneigé trois cents mètres plus bas. Chaque créature prise dans l'avalanche subit 70 (20d6) dégâts contondants et est ensevelie sous la neige. (Voir **Pris dans l'Avalanche** ci-dessous.)
 
-Si les joueurs fuient l'avalanche à pied, gérez leur fuite comme décrit dans <span class="citation">Poursuites (<em>Guide du Maître</em>, p. 252)</span>, en utilisant le tableau **Complications de poursuite alpine** suivant :
+Si les joueurs fuient l'avalanche à pied, gérez leur fuite comme décrit dans <span class="citation">Poursuites (<em>Guide du Maître</em>, (p. 252)</span>, en utilisant le tableau suivant des **Complications de Poursuite Alpine** :
 
 | d20 | Complication |
 | :---: | :-----|
-|1|Votre pied se fissure à travers une fine couche de glace et se retrouve coincé sous un lourd rocher. Faites un jet de sauvegarde de Dextérité DD 14. En cas d'échec, votre vitesse est réduite à 0. Avec une action, vous ou une autre créature pouvez faire un jet de Force DD 14, vous libérant en cas de réussite.|
+|1|Votre pied craque à travers une fine couche de glace et se retrouve coincé sous une lourde pierre. Faites un jet de sauvegarde de Dextérité DD 14. En cas d'échec, votre vitesse est réduite à 0. Par une action, vous ou une autre créature pouvez effectuer un test de Force DD 14, vous libérant en cas de réussite.|
 |2-3| Une zone de gravier meuble sous la neige vous fait perdre l'équilibre. Faites un jet de sauvegarde de Dextérité DD 15 ou tombez à terre.|
-|4-5|Des rochers détachés des falaises au-dessus s'écrasent sur le chemin. Faites un jet de sauvegarde de Dextérité DD 14 ou subissez 2d6 dégâts contondants et tombez à terre.|
-|6-7|Une plaque de glace cachée a rendu le sol sous vos pieds glissant. Faites un jet de sauvegarde de Dextérité DD 13 ou tombez à terre. Si le jet échoue de 5 ou plus, vous glissez au bord de la falaise et devez faire un jet de sauvegarde de Dextérité supplémentaire DD 5, vous rattrapant sur le rebord en cas de réussite. En cas d'échec, vous tombez de la falaise et atterrissez à terre sur une corniche glacée précaire 3 mètres plus bas. (En raison de son emplacement, la corniche est battue par des vents violents).|
-|8-10| Une puissante rafale de vent et de neige vous aveugle momentanément. Faites un jet de sauvegarde de Constitution DD 12 ou soyez aveuglé et ralenti jusqu'à la fin de votre prochain tour. (Lorsqu'il est ralenti, une créature doit dépenser 30 cm de plus de déplacement pour chaque 30 cm parcourus avec sa vitesse, les attaques contre elle ont l'avantage, et elle a un désavantage aux jets de sauvegarde de Dextérité).|
+|4-5|Des rochers détachés des falaises au-dessus s'écrasent sur le chemin. Faites un jet de sauvegarde de Dextérité DD 14 ou subissez 2d6 dégâts contondants et soyez renversé.|
+|6-7|Une plaque de glace cachée a rendu le sol sous vos pieds glissant. Faites un jet de sauvegarde de Dextérité DD 13 ou tombez à terre. Si l'échec est de 5 ou plus, vous glissez au bord de la falaise et devez faire un jet de sauvegarde de Dextérité DD 5 supplémentaire, vous rattrapant au bord de la falaise en cas de réussite. En cas d'échec, vous tombez de la falaise et atterrissez à terre sur un rebord glacé précaire trois mètres plus bas. (En raison de son emplacement, le rebord est fouetté par <span class="citation">des vents violents (<em>Guide du Maître</em>, p. 110)</span>.|
+|8-10| Une puissante bourrasque de vent et de neige vous aveugle momentanément. Faites un jet de sauvegarde de Constitution DD 12 ou soyez aveuglé et ralenti jusqu'à la fin de votre prochain tour. (Lorsqu'elle est ralentie, une créature doit dépenser 1 pied supplémentaire de mouvement pour chaque pied parcouru avec sa vitesse, les jets d'attaque contre elle ont l'avantage, et elle a un désavantage aux jets de sauvegarde de Dextérité.)|
 |11-20|Pas de complication.|
 
-> [!abstract]+ **Pris dans l'avalanche**
-> Si des joueurs ont été pris dans l'avalanche et sont tombés de la falaise sur le précipice en dessous, leurs corps gisent ensevelis sous 4,3 (4d6) mètres de neige et de débris. Lorsqu'ils sont enterrés de cette façon, une créature est aveuglée, entravée, assourdie et ne peut pas respirer. (Voir <span class="citation">Suffocation (<em>Manuel des Joueurs</em>, p. 183)</span>.
+> [!warning]+ **Lancer des complications**
+> N'oubliez pas que les joueurs lancent les complications à la fin de leur tour, et qu'une complication lancée affecte le joueur suivant dans l'ordre d'initiative — pas le joueur qui l'a lancée.
+
+Pendant la poursuite, les compagnons PNJ des joueurs agissent comme suit, modifiant leur comportement si nécessaire pour aider un joueur :
+
+* **Ireena.** À chaque tour, Ireena utilise son ***action rusée*** pour effectuer l'action Précipitation en tant qu'action bonus, puis utilise son action pour se Précipiter une fois de plus.
+* **Ezmerelda.** Ezmerelda effectue l'action Précipitation à chaque tour. Si elle n'a plus de Précipitations disponibles, elle lance *frappe du zéphyr* en action bonus, puis utilise son action pour attaquer "l'air" devant elle afin d'augmenter sa vitesse de déplacement.
+* **Kasimir.** Kasimir lance _pas brumeux_ en action bonus à chaque tour.
+
+Si les joueurs distancent l'avalanche ou y échappent par des moyens magiques (par exemple, en volant), continuez vers [[#R5. Soldav]]. Si les joueurs ont cherché refuge dans la grotte, continuez vers [[#R4k. Les Grottes de Glace]].
+
+> [!abstract]+ **Pris dans l'Avalanche**
+> Si des joueurs ont été pris dans l'avalanche et sont tombés de la falaise jusqu'au précipice en contrebas, leurs corps gisent ensevelis sous 4,3 m (4d6) de neige et de débris. Lorsqu'elle est ensevelie de cette façon, une créature est aveuglée, entravée, assourdie et ne peut pas respirer. (Voir <span class="citation">Suffocation (<em>Manuel des Joueurs</em>, p. 183)</span>.
 >
-> Si un joueur a survécu à l'impact, il peut tenter un jet de Force (Athlétisme) DD 15 pour essayer de se dégager de l'avalanche. En cas de réussite, il creuse avec succès 0,9 (1d6) mètre vers le haut à travers la neige compactée. Si le jet échoue de 10 ou plus, le joueur déstabilise la neige au-dessus de lui, l'enterrant sous 0,6 (1d4) mètre supplémentaire de neige.
+> Si un joueur a survécu à l'impact, il peut tenter un jet de Force (Athlétisme) DD 15 pour essayer de se frayer un chemin hors de l'avalanche. En cas de réussite, il creuse avec succès sur 0,9 m (1d6) vers le haut à travers la neige compactée. Si le jet échoue de 10 ou plus, le joueur déstabilise la neige au-dessus de lui, s'enterrant sous 0,6 m (1d4) supplémentaires de neige.
 >
-> Trois rounds après que les joueurs sont tombés de la falaise, deux **berserkers** des Gens des Montagnes nommés Zia et Corylla s'approchent de la neige tombée et commencent à les dégager en utilisant les côtés plats de leurs puissantes haches. (Zia et Corylla espèrent secourir les joueurs s'ils sont encore en vie, et piller leurs corps sinon). Chaque round, Zia et Corylla creusent dans la neige, enlevant chacune 0,9 (1d6) mètre de neige au-dessus de la forme tombée d'un joueur, enlevant 1,5 (1d10) mètre à la place si elles travaillent ensemble.
+> Trois rounds après que les joueurs soient tombés de la falaise, deux **berserkers** du Peuple des Montagnes nommées Zia et Corylla s'approchent de la neige tombée et commencent à les déterrer en utilisant les côtés plats de leurs grandes haches de pierre. (Zia et Corylla espèrent secourir les joueurs s'ils sont encore en vie, et piller leurs corps sinon.) À chaque round où Zia et Corylla creusent dans la neige, elles retirent chacune 0,9 m (1d6) de neige au-dessus de la forme tombée d'un joueur, retirant 1,5 m (1d10) à la place si elles travaillent ensemble.
 >
-> S'ils trouvent les joueurs vivants, Zia et Corylla les tirent rudement sur la neige. Zia pointe alors la pointe de sa puissante hache vers eux et exige de savoir "ce qui pourrait amener des Baroviens sur les épaules de Sarmizegetusa". (Si on lui demande, Zia peut expliquer que "Sarmizegetusa" est l'ancien nom que son peuple donne à la montagne - que les Baroviens appellent "Mont Ghakis").
+> Si elles trouvent les joueurs vivants, Zia et Corylla les hissent brutalement sur la neige. Zia pointe alors brusquement sa grande hache vers eux et exige de savoir "ce qui pourrait amener des Baroviens aux épaules de Sarmizegetusa." (Si on le lui demande, Zia peut expliquer que "Sarmizegetusa" est le nom ancien que son peuple donne à la montagne — ce que les Baroviens appellent "Mont Ghakis").
 >
-> Une fois qu'elles ont secouru les joueurs (ou pillé les corps), Zia et Corylla préfèrent diriger les joueurs vers une crête qui les mènera en bas vers le marais, puis repartir tranquillement dans les montagnes. Les joueurs peuvent gagner leur confiance en mentionnant leur intérêt pour Soldav, en partageant leur objectif de vaincre Strahd (que Zia et Corylla appellent "la Grande Ombre"), et en réussissant un jet de Charisme (Persuasion) DD 20. Le jet est fait avec avantage si les joueurs mentionnent leur intérêt à restaurer les Fanes des Trois Dames, et réussit automatiquement si les joueurs montrent à Zia et Corylla la Lance de la Chasseresse après l'avoir obtenue du tombeau du roi Dostron dans [[Arc P - Cambriolage de Ravenloft]].
+> Une fois qu'elles ont secouru les joueurs (ou pillé les corps), Zia et Corylla préfèrent diriger les joueurs vers une crête qui les mènera jusqu'au marais en contrebas, puis repartir discrètement dans les montagnes. Les joueurs peuvent gagner leur confiance en mentionnant leur intérêt pour Soldav, en partageant leur objectif de vaincre Strahd (que Zia et Corylla appellent "la Grande Ombre"), et en réussissant un jet de Charisme (Persuasion) DD 20. Le jet est effectué avec avantage si les joueurs mentionnent leur intérêt à restaurer les Fanes des Trois Dames, et réussit automatiquement si les joueurs montrent à Zia et Corylla la Lance de la Chasseresse après l'avoir obtenue dans la tombe du Roi Dostron dans [[Arc P - Braquage de Ravenloft]].
 >
-> Si les joueurs gagnent la confiance de Zia et Corylla, elles acceptent de les mener jusqu'aux falaises de Soldav, en suivant un chemin secret le long des crêtes connu seulement des Gens des Montagnes. Sinon, si les joueurs ne gagnent pas leur confiance, les deux femmes brandiront leurs puissantes haches et avertiront les joueurs de "les laisser tranquilles, à moins qu'ils ne veuillent être rejetés dans la neige".
+> Si les joueurs gagnent la confiance de Zia et Corylla, elles acceptent de les conduire en haut des falaises jusqu'à Soldav, en suivant un chemin secret le long des crêtes connu uniquement du Peuple des Montagnes. Sinon, si les joueurs ne parviennent pas à gagner leur confiance, les deux femmes brandissent leurs grandes haches et avertissent les joueurs de "les laisser tranquilles, à moins qu'ils ne veuillent être rejetés dans la neige."
 >
-> Si les joueurs tentent de les poursuivre malgré leurs avertissements, Zia et Corylla les attaqueront avec des ***coups de poing***, tentant de les assommer avant de partir. Si leurs efforts sont infructueux, ou s'ils sont en infériorité numérique, les deux femmes prennent alors la fuite vers la montagne.
+> Si les joueurs tentent de les poursuivre malgré leurs avertissements, Zia et Corylla les attaquent avec des ***frappes à mains nues***, essayant de les assommer avant de partir. Si leurs efforts sont infructueux, ou si elles sont en infériorité numérique, les deux femmes se retournent et s'enfuient vers la montagne.
 >
-> Si les joueurs les poursuivent, lancez leur poursuite comme décrit dans <span class="citation">Poursuites (<em>Guide du Maître</em>, p. 252)</span>, en utilisant le tableau des Complications de Poursuite Alpine ci-dessous. En raison de leur familiarité avec le terrain, Zia et Corylla ont l'avantage sur les jets de Dextérité (Discrétion) pour se cacher en fuyant.
-## Repaire des Bodaks
-Si les joueurs entrent dans la caverne, lisez :
+> Si les joueurs les poursuivent, gérez leur poursuite comme décrit dans <span class="citation">Poursuites (<em>Guide du Maître</em>, (p. 252)</span>, en utilisant la table des Complications de Poursuite Alpine ci-dessous. En raison de leur familiarité avec le terrain, Zia et Corylla ont l'avantage aux jets de Dextérité (Discrétion) effectués pour se cacher pendant leur fuite.
+## R4j. Le Repaire des Bodaks
+Si les joueurs entrent dans la grotte, lisez :
 
 <div class="description">
-<p>L'entrée de la caverne mène à une petite chambre rocheuse d'à peine vingt mètres de large. Un étroit couloir naturel se sépare du côté droit de la chambre, se courbant plus profondément dans la montagne avant de disparaître de vue.</p>
+<p>L'entrée de la grotte mène à une petite chambre rocheuse ne mesurant pas plus de six mètres de diamètre. Un étroit corridor naturel se détache du côté droit de la chambre, s'enfonçant plus profondément dans la montagne avant de disparaître hors de vue.</p>
 </div>
 
+![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+<span class="credit">"Repaire de Bodak" par DM Andy Maps. Versions haute résolution disponibles <a href="https://www.patreon.com/posts/public-version-120933240">ici !</a></span>
+
 > [!lore]+ **Les Bodaks**
-> Il y a plusieurs décennies, deux frères et sœurs portant des éclats d'ambre nommés Cassius et Deirdre ont trouvé leur chemin à travers les Brumes jusqu'à Barovia. Leurs éclats les ont conduits au Temple d'Ambre, où ils ont accepté le don sombre de la relique Sykane, la Dévoreuse d'Âmes, afin de ressusciter leur mère. Cependant, ils ont tous deux succombé à la corruption de Sykane, se transformant en enveloppes sombres et tordues avec les statistiques de **bodaks** avant de pouvoir s'échapper de la montagne ou des Brumes.
+> Il y a plusieurs décennies, deux frère et sœur portant des éclats d'ambre nommés Cassius et Deirdre ont trouvé leur chemin à travers les Brumes pour entrer en Barovie. Leurs éclats les ont conduits au Temple d'Ambre, où ils ont accepté le don obscur du vestige Sykane, le Dévoreur d'Âmes, afin de ressusciter leur mère. Tous deux ont cependant succombé à la corruption de Sykane, se transformant en enveloppes sombres et tordues avec les caractéristiques de **bodaks** avant de pouvoir s'échapper de la montagne ou des Brumes.
 >
-> Cassius et Deirdre errent encore aujourd'hui dans cette caverne, chacun ayant revendiqué une chambre séparée comme leur "nid". Bien que la cheminée naturelle dans [[#Le Tas d'Ordures]] relie leur caverne aux [[#R4k. Les Grottes de Glace]], le **shoosuva** qui y demeure est trop gros pour descendre la cheminée jusqu'à la caverne des bodaks, tandis que les bodaks n'ont aucun intérêt à contester le territoire du shoosuva.
+> Cassius et Deirdre demeurent encore dans cette caverne aujourd'hui, chacun ayant revendiqué une chambre séparée comme leur "nid". Bien que la cheminée naturelle dans [[#Le Tas d'Ordures]] relie leur caverne aux [[#R4k. Les Grottes de Glace]], le **shoosuva** qui habite là-bas est trop grand pour descendre par la cheminée jusqu'à la caverne des bodaks, tandis que les bodaks n'ont aucun intérêt à contester le territoire du shoosuva.
 >
-> La première fois que les joueurs observent la forme complète d'un bodak, lisez :
+> La première fois que les joueurs observent la forme complète d'un bodak, lisez:
 >
 > <hr>
 >
-> *Des robes déchirées et sales drapent le cadre squelettique et voûté de cette créature. Ses bras et ses jambes sont longs, minces et osseux, se terminant par des doigts allongés ressemblant à des griffes et des pieds tordus et noueux. Sa tête est un visage semblable à un masque creux, sa bouche étant une gueule noire béante et ses yeux formant deux cavités vides.*
+> *Des robes déchirées et sales dissimulent la silhouette courbée et squelettique de cette créature. Ses bras et ses jambes sont longs, minces et osseux, se terminant par des doigts allongés semblables à des griffes et des pieds tordus et noueux. Sa tête est un visage creux, semblable à un masque, sa bouche est un gouffre noir béant et ses yeux sont une paire d'orbites vides comme le néant.*
 
 > [!info]+ **Déranger les Bodaks**
-> Si les joueurs déclarent avoir l'intention de se déplacer silencieusement dans le couloir et réussissent un jet de groupe de Dextérité (Discrétion) DD 15, les deux **bodaks** dans [[#Le Labyrinthe Noir]] sont en état de dormance lorsque les joueurs entrent pour la première fois. Si les joueurs ne déclarent pas une telle intention, ou s'ils échouent au jet, les bodaks sont actifs lorsque les joueurs entrent pour la première fois.
+> Si les joueurs déclarent leur intention de se déplacer silencieusement dans le corridor et réussissent un jet de groupe de Dextérité (Discrétion) DD 15, les deux **bodaks** dans [[#Le Labyrinthe Noir]] sont en dormance lorsque les joueurs entrent pour la première fois. Si les joueurs ne déclarent pas une telle intention, ou si les joueurs échouent au jet, les bodaks sont actifs lorsque les joueurs entrent pour la première fois.
 
-> [!info]+ **Les Bodaks Traqueurs**
-> Lorsqu'ils sont en état de dormance, le bodak qui était autrefois Cassius demeure dans [[#Le Nid Ouest]], tandis que le bodak qui était autrefois Deirdre demeure dans [[#La Chambre du Regret]].
+> [!info]+ **Les Bodaks Qui Rôdent**
+> En dormance, le bodak qui était autrefois Cassius réside dans [[#Le Nid Occidental]], tandis que le bodak qui était autrefois Deirdre réside dans [[#La Salle du Regret]].
 >
-> Si les frères et sœurs sont actifs, leur emplacement change constamment tandis qu'ils tentent de coincer les joueurs. Par exemple, leurs emplacements pourraient changer comme suit au fur et à mesure que les joueurs progressent dans la caverne :
-> * Lorsque les joueurs entrent pour la première fois dans [[#Le Carrefour]], Cassius regarde dans [[#Le Tas d'Ordures]], tandis que Deirdre entre dans [[#Le Sanctuaire d'Ambre]].
-> * Si les joueurs procèdent vers [[#La Chambre du Regret]] ou [[#Le Tas d'Ordures]], Cassius retourne dans [[#Le Nid Ouest]] et Deirdre entre dans [[#Le Carrefour]], bloquant la sortie des joueurs. Si les joueurs tentent ensuite de monter [[#Le Tas d'Ordures]], les bodaks attaquent. Sinon, si les joueurs procèdent ensuite vers [[#Le Nid Ouest]], Cassius se retire dans [[#La Chambre du Regret]], tandis que Deirdre avance vers [[#Le Tas d'Ordures]].
-> * Si les joueurs procèdent vers [[#Le Sanctuaire d'Ambre]], Deirdre retourne dans [[#Le Nid Est]] et Cassius entre dans [[#Le Carrefour]], bloquant la sortie des joueurs. Si les joueurs procèdent ensuite vers [[#Le Nid Est]], Deirdre se retire dans [[#La Chambre du Regret]], tandis que Cassius avance vers [[#Le Sanctuaire d'Ambre]].
+> Si les deux frère et sœur sont actifs, leur emplacement change constamment alors qu'ils tentent de coincer les joueurs. Par exemple, leurs emplacements pourraient changer comme suit au fur et à mesure que les joueurs progressent dans la caverne:
+> * Lorsque les joueurs entrent pour la première fois dans [[#La Jonction]], Cassius regarde dans [[#Le Tas d'Ordures]], tandis que Deirdre entre dans [[#Le Sanctuaire d'Ambre]].
+> * Si les joueurs se dirigent vers [[#La Salle du Regret]] ou [[#Le Tas d'Ordures]], Cassius retourne au [[#Le Nid Occidental]] et Deirdre entre dans [[#La Jonction]], coupant la sortie des joueurs. Si les joueurs tentent alors de monter [[#Le Tas d'Ordures]], les bodaks attaquent. Sinon, si les joueurs se dirigent ensuite vers [[#Le Nid Occidental]], Cassius se replie vers [[#La Salle du Regret]], tandis que Deirdre avance vers [[#Le Tas d'Ordures]].
+> * Si les joueurs se dirigent vers [[#Le Sanctuaire d'Ambre]], Deirdre retourne au [[#Le Nid Oriental]] et Cassius entre dans [[#La Jonction]], coupant la sortie des joueurs. Si les joueurs se dirigent ensuite vers [[#Le Nid Oriental]], Deirdre se replie vers [[#La Salle du Regret]], tandis que Cassius avance vers [[#Le Sanctuaire d'Ambre]].
 >
-> Quoi qu'il arrive, les bodaks activent leurs ***auras d'annihilation*** si les joueurs (1) entrent dans [[#Le Nid Ouest]], (2) entrent dans [[#Le Nid Est]] ou (3) tentent de monter [[#Le Tas d'Ordures]]. (Voir **Combattre les Bodaks** ci-dessous pour plus d'informations.)
+> Quoi qu'il arrive, les bodaks activent leurs ***auras d'annihilation*** si les joueurs (1) entrent dans [[#Le Nid Occidental]], (2) entrent dans [[#Le Nid Oriental]], ou (3) tentent de monter [[#Le Tas d'Ordures]]. (Voir **Combattre les Bodaks** ci-dessous pour plus d'informations.)
 >
-> Chaque fois qu'un bodak entre ou sort d'une chambre adjacente aux joueurs, un joueur avec un score de Sagesse (Perception) passif de 16 ou plus entend un bruit de froissement discret qui résonne de la direction de cette chambre.
-
-
+> Chaque fois qu'un bodak entre ou sort d'une chambre adjacente aux joueurs, un joueur avec un score de Sagesse (Perception) passive de 16 ou plus entend un léger bruit de frottement qui fait écho dans la direction de cette chambre.
 
 > [!info]+ **Combattre les Bodaks**
-> Cassius et Deirdre ont les statistiques de **bodaks** (<span class="citation">Mordenkainen Présente : Monstres du Multivers, p. 64</span>), mais avec les changements suivants :
-> * Augmentez les points de vie de chaque bodak à 136 (21d8 + 42).
-> * Donnez à chaque bodak l'action suivante : "***Attaques multiples.*** Le bodak attaque deux fois avec son poing."
-> * Une créature qui échoue son jet de sauvegarde contre le ***regard de la mort*** d'un bodak de 5 ou plus est réduite à la moitié de ses points de vie actuels (arrondi au supérieur), plutôt que 0.
+> Cassius et Deirdre ont les statistiques de **bodaks** (<span class="citation">Mordenkainen présente : Les Monstres du Multivers, p. 64</span>), mais avec les modifications suivantes :
+> * Augmenter les points de vie de chaque bodak à 136 (21d8 + 42).
+> * Donner à chaque bodak l'action suivante : "***Attaques multiples.*** Le bodak attaque deux fois avec son poing."
+> * Une créature qui rate son jet de sauvegarde contre le ***regard mortel*** d'un bodak de 5 ou plus est réduite à la moitié de ses points de vie actuels (arrondi au supérieur), au lieu de 0.
 >
-> Si les bodaks rencontrent les joueurs pendant leur sommeil, chaque bodak utilise sa première action de bonus pour activer son ***aura d'annihilation***. Il utilise ensuite ses ***attaques multiples*** si un joueur est à portée de corps à corps, et son ***regard de flétrissure*** sinon.
+> Si les bodaks rencontrent les joueurs alors qu'ils sont en dormance, chaque bodak utilise sa première action bonus pour activer son ***aura d'annihilation***. Il utilise ensuite ses ***attaques multiples*** si un joueur est à portée de corps à corps, et sinon son ***regard flétrissant***.
 >
-> Si les bodaks coincent les joueurs pendant qu'ils sont actifs (c'est-à-dire après que les joueurs sont entrés dans [[#Le Nid Oriental]] ou [[#Le Nid Occidental]], ou lorsque les joueurs tentent pour la première fois de monter la cheminée dans [[#Le Tas d'Ordures]]), chaque bodak active silencieusement son ***aura d'annihilation*** depuis une pièce adjacente séparée et attend que les joueurs meurent. (Comme l'***aura d'annihilation*** d'un bodak est une aura, plutôt qu'un sort ou une attaque, les dégâts infligés par l'aura se propagent dans les coins.)
+> Si les bodaks coincent les joueurs alors qu'ils sont actifs (c'est-à-dire après que les joueurs soient entrés dans [[#Le Nid Est]] ou [[#Le Nid Ouest]], ou lorsque les joueurs tentent pour la première fois de monter par la cheminée dans [[#Le Dépotoir]]), chaque bodak active silencieusement son ***aura d'annihilation*** depuis une pièce adjacente séparée et attend que les joueurs meurent. (Comme l'***aura d'annihilation*** d'un bodak est une aura, et non un sort ou une attaque, les dégâts infligés par l'aura se propagent autour des coins.)
 >
-> Si les joueurs poursuivent et attaquent ensuite l'un ou l'autre des bodaks, le bodak utilise son ***regard de flétrissure*** et se retire dans une nouvelle pièce à son tour, espérant éviter les attaques des joueurs jusqu'à ce qu'ils succombent à son ***aura d'annihilation***.
->
+> Si les joueurs poursuivent et attaquent ensuite l'un ou l'autre bodak, celui-ci utilise son ***regard flétrissant*** et se replie vers une nouvelle pièce à son tour, espérant éviter les attaques des joueurs jusqu'à ce qu'ils succombent à son ***aura d'annihilation***.
+> 
 > La première fois qu'un bodak active son ***aura d'annihilation***, lisez :
 >
 > <hr>
+> 
+> *La pièce s'assombrit, la température chute tandis qu'un bourdonnement sourd et bas résonne dans l'air. Un froid surnaturel et glaçant ronge soudainement votre chair, tandis que les odeurs amères de cendre et de décomposition vous griffent la gorge et les poumons.*
 >
-> *La pièce s'assombrit, la température chutant alors qu'un sourd bourdonnement résonne dans l'air. Un froid contre nature, glacial, ronge soudainement votre chair, tandis que les âcres senteurs de cendres et de décomposition griffent vos gorges et vos poumons.*
->
-> *Des ombres se rassemblent, rampant sur le sol et grimpant le long des murs tandis que les couleurs se muent en nuances de gris pâle et sans vie. Tout autour de vous, la chaleur et la lumière du monde semblent être aspirées - comme attirées dans un froid et lointain néant.*
-### Le Carrefour
-Si un joueur suit le couloir, lisez :
+> *Des ombres se rassemblent, glissant sur le sol et rampant sur les murs alors que les couleurs s'estompent en nuances de gris pâle et sans vie. Tout autour de vous, la chaleur et la lumière du monde semblent s'échapper — comme aspirées dans un vide froid et lointain.*
+### La Jonction
+Si un joueur suit le corridor, lisez :
 
 <div class="description">
-<p>Le couloir courbe à travers la pierre grise sombre avant de s'ouvrir sur un carrefour ombragé. Un lichen gris-vert pâle rampe sur la terre gelée du sol, tandis que des stalactites gainées de glace pendent comme des couteaux du plafond au-dessus.</p>
-<p>Trois tunnels naturels percent la terre ici : un vers l'ouest, un vers l'est et un vers le sud. Un gémissement lugubre et bas émane par intermittence du tunnel ouest, tandis qu'une traînée éclaboussée de rouge sombre foncé mène plus profondément dans le tunnel sud. Le tunnel est se tient tranquillement dans les ombres.</p>
+<p>Le corridor serpente à travers la pierre sombre et grise avant de s'ouvrir sur une jonction ombragée. Un lichen gris-vert pâle rampe sur la terre gelée du sol, tandis que des stalactites gainées de glace pendent comme des couteaux du plafond au-dessus.</p>
+<p>Trois tunnels naturels creusent la terre ici : un à l'ouest, un à l'est et un au sud. Un gémissement bas et lancinant émane par intermittence du tunnel ouest, tandis qu'une traînée tachée de rouge foncé mène plus profondément dans le tunnel sud. Le tunnel est se dresse silencieusement au milieu des ombres.</p>
 </div>
 
-Le chemin ouest mène à [[#Le Tas d'Ordures]], le chemin est mène à [[#Le Sanctuaire d'Ambre]], et le chemin sud mène à [[#La Chambre du Regret]]. Chaque tunnel courbe hors de vue, obscurcissant ce qui se trouve au-delà.
+Le chemin ouest mène au [[#Le Dépotoir]], le chemin est mène au [[#Le Sanctuaire d'Ambre]], et le chemin sud mène à [[#La Salle du Regret]]. Chaque tunnel disparaît à la vue, dissimulant ce qui se trouve au-delà.
 
 ![[The Bodak Cave.png]]
 
-Si les bodaks sont actifs lorsque les joueurs entrent dans cette zone, un joueur avec un score de Sagesse (Perception) passif de 16 ou plus remarque une silhouette qui scintille brièvement sur le mur du tunnel est (menant à [[#Le Sanctuaire d'Ambre]]). (La silhouette appartient à Deirdre, qui a quitté [[#Le Nid Oriental]] pour enquêter sur les nouveaux arrivants. Si les joueurs s'approchent du tunnel est, Deirdre quitte [[#Le Sanctuaire d'Ambre]] et retourne à [[#Le Nid Oriental]].)
+Si les bodaks sont actifs lorsque les joueurs entrent dans cette zone, un joueur avec un score de Sagesse (Perception) passive de 16 ou plus remarque une silhouette qui se reflète brièvement sur le mur du tunnel est (menant au [[#Le Sanctuaire d'Ambre]]). (La silhouette appartient à Deirdre, qui a quitté [[#Le Nid Est]] pour enquêter sur les nouveaux venus. Si les joueurs s'approchent du tunnel est, Deirdre sort du [[#Le Sanctuaire d'Ambre]] et retourne au [[#Le Nid Est]].)
 
-Un joueur qui réussit un jet de Sagesse (Perception) de DD 15 identifie le "gémissement" comme le son lointain du vent extérieur, tandis qu'un jet de Sagesse (Médecine) réussi de DD 10 confirme que la "traînée" est du sang séché. Avec un résultat de 15 ou plus, un joueur qui a effectué un jet de Sagesse (Médecine) pour examiner le sang apprend que la traînée ne date que d'un jour au plus.
-### Le Tas d'Ordures
-Lorsque les joueurs entrent dans cette pièce, lisez :
+Un joueur qui réussit un test de Sagesse (Perception) DD 15 identifie le "gémissement" comme le son lointain du vent extérieur, tandis qu'un test de Sagesse (Médecine) DD 10 réussi confirme que la "traînée" est du sang séché. Sur un résultat de 15 ou plus, un joueur qui a fait un test de Sagesse (Médecine) pour examiner le sang apprend que la traînée date d'à peine plus d'un jour.
+### Le Dépotoir
+Quand les joueurs entrent dans cette pièce, lisez :
 
 <div class="description">
-<p>De grands stalagmites pâles s'élèvent en grappes sur le sol de cette petite pièce exiguë, la terre autour d'eux étant recouverte d'un tapis d'os d'un blanc délavé.</p>
-<p>Sur la gauche, un étroit tunnel mène plus profondément dans la caverne. De l'autre côté de la pièce, le vent lointain gémit doucement dans une cheminée naturelle, dont les parois rugueuses et dentelées s'élèvent hors de vue.</p>
+<p>De grandes stalagmites pâles s'élèvent en grappes sur le sol de cette petite pièce exiguë, la terre autour d'elles étant recouverte d'un tapis d'os d'un blanc décoloré.</p>
+<p>À gauche, un tunnel étroit mène plus profondément dans la caverne. De l'autre côté de la pièce, le vent lointain gémit doucement dans une cheminée naturelle, dont les parois rugueuses et déchiquetées s'élèvent à perte de vue.</p>
 </div>
 
-Les os sur le sol sont les restes des repas de Cassius. Ils craquent fortement sous les pieds, et les créatures subissent un désavantage sur les tests de Dextérité (Discrétion) effectués pour se déplacer silencieusement dans cette zone. Un joueur qui inspecte les os et réussit un test de Sagesse (Médecine ou Nature) DD 12 discerne des marques de dents acérées le long de leur longueur, ainsi que des endroits où la moelle a été complètement aspirée.
+Les os sur le sol sont les restes des repas de Cassius. Ils craquent bruyamment sous les pieds, et les créatures ont un désavantage aux jets de Dextérité (Discrétion) effectués pour se déplacer silencieusement dans cette zone. Un joueur qui examine les os et réussit un jet de Sagesse (Médecine ou Nature) DD 12 discerne des marques de dents acérées le long de ceux-ci, ainsi que des endroits où la moelle a été complètement aspirée.
 
-Le tunnel sur la gauche mène à [[#Le Nid Occidental]]. La cheminée, d'un diamètre de 0,75 mètre, commence à 3 mètres du sol avant de s'élever sur 18 mètres à travers la pierre jusqu'aux [[#R4k. Les Grottes de Glace]].
+Le tunnel de gauche mène à [[#Le Nid Occidental]]. La cheminée, qui fait 75 centimètres de diamètre, commence à 3 mètres au-dessus du sol avant de s'élever sur 18 mètres à travers la pierre jusqu'à [[#R4k. Les Grottes de Glace]].
 
-> [!info]+ **Escalader la Cheminée**
-Les parois à côté de la cheminée, lissées par des années d'érosion, sont dépourvues de prises naturelles. Pour escalader les murs jusqu'à l'entrée de la cheminée, un personnage doit réussir un test de Force (Athlétisme) DD 25.
+> [!info]+ **Ascension de la Cheminée**
+> Les parois à côté de la cheminée, lissées par des années d'érosion, sont dépourvues de prises naturelles. Pour grimper jusqu'à l'entrée de la cheminée, un personnage doit réussir un jet de Force (Athlétisme) DD 25.
 >
-> Une fois dans la cheminée, un personnage qui tente de monter ou descendre le conduit de la cheminée sans l'aide de la magie ou d'équipement doit effectuer un test de Force (Athlétisme) DD 10. Si le test réussit, le personnage se déplace à la moitié de sa vitesse vers le haut ou le bas du conduit, comme désiré. Sur un résultat de test de 6 à 9, le personnage ne gagne ni ne perd de terrain ; sur un résultat de 5 ou moins, le personnage tombe et subit 1d6 dégâts contondants par tranche de 3 mètres tombés, atterrissant à plat ventre à la base du conduit.
+> Une fois dans la cheminée, un personnage tentant de monter ou descendre le conduit sans l'aide de magie ou d'équipement doit effectuer un jet de Force (Athlétisme) DD 10. Si le jet réussit, le personnage se déplace à mi-vitesse vers le haut ou le bas du conduit, selon son souhait. Sur un résultat de 6-9, le personnage ne gagne ni ne perd de terrain ; sur un résultat de 5 ou moins, le personnage tombe et subit 1d6 dégâts contondants par tranche de 3 mètres de chute, atterrissant à terre à la base du conduit.
 
-> [!info]+ **Où sont les Bodaks ?**
-> Si tout le groupe entre dans cette pièce pendant que les bodaks sont actifs, Cassius se cache dans [[#Le Nid Occidental]], tandis que Deirdre tente de se faufiler derrière les joueurs via [[#La Jonction]]. Sinon, si les joueurs alertent les bodaks pendant qu'ils sont dans cette pièce (par exemple, en marchant sur les os), Cassius se rend dans [[#Le Nid Occidental]] tandis que Deirdre se dirige vers [[#Le Sanctuaire d'Ambre]], puis [[#La Jonction]].
+> [!info]+ **Où Sont les Bodaks ?**
+> Si tout le groupe entre dans cette pièce alors que les bodaks sont actifs, Cassius se cache dans [[#Le Nid Occidental]], tandis que Deirdre tente de se faufiler derrière les joueurs via [[#La Jonction]]. Sinon, si les joueurs alertent les bodaks alors qu'ils sont dans cette pièce (par exemple, en marchant sur les os), Cassius se déplace vers [[#Le Nid Occidental]] tandis que Deirdre se déplace vers [[#Le Sanctuaire d'Ambre]], puis vers [[#La Jonction]].
 >
-> Si les joueurs tentent d'escalader la cheminée pendant que les bodaks sont actifs, Cassius et Deirdre activent immédiatement leurs ***auras d'annihilation***, puis entrent dans la pièce au tour suivant pour attaquer.
+> Si les joueurs tentent de monter dans la cheminée alors que les bodaks sont actifs, Cassius et Deirdre activent immédiatement leurs ***auras d'annihilation***, puis entrent dans la pièce au tour suivant pour attaquer.
 ### La Chambre du Regret
 Lorsque les joueurs entrent dans cette pièce, lisez :
 
 <div class="description">
-<p>Deux tunnels se séparent de cette petite pièce : un sur la gauche et un sur la droite. Le mur du fond est recouvert d'un grand nombre de gravures qui semblent représenter des mots.</p>
-<p>Le cadavre d'un homme gît au centre de la chambre, sa chair nue teintée d'un gris malsain étrange. Ses orbites sont des trous sanglants béants, et ses intestins ont été ouverts et éparpillés sur le sol autour de lui.</p>
+<p>Deux tunnels se séparent de cette petite pièce : un à gauche et un à droite. Le mur du fond est couvert d'un grand nombre de gravures, qui semblent représenter des mots.</p>
+<p>Le cadavre d'un homme gît au centre de la chambre, sa chair nue teintée d'un gris étrange et maladif. Ses orbites sont des trous béants et sanglants, et ses intestins ont été ouverts et étalés sur le sol autour de lui.</p>
 </div>
 
 Si les bodaks sont inactifs lorsque les joueurs entrent pour la première fois dans cette chambre, ajoutez :
 
 <div class="description">
-<p>Une créature squelettique voûtée est accroupie sur le cadavre, sa cape dépenaillée drapée de manière inégale sur une colonne vertébrale proéminente et tordue. Un bruit de succion guttural émane de son devant, tandis que ses longs bras osseux s'étendent sur la chair devant elle.</p>
+<p>Une créature squelettique et voûtée se tapit au-dessus du cadavre, la cape déchirée de la créature drapée inégalement sur une colonne vertébrale tordue et saillante. Un bruit guttural de succion émane de son avant, tandis que ses longs bras osseux s'étendent sur la chair devant elle.</p>
 </div>
 
-La créature est Cassius, et est en train de dévorer une section des entrailles du cadavre. Si les joueurs l'attaquent ou révèlent autrement leur présence, Cassius pousse un hurlement de rage et attaque.
-
-
+La créature est Cassius, et est en train de dévorer une partie des entrailles du cadavre. Si les joueurs l'attaquent ou révèlent leur présence d'une autre manière, Cassius hurle de rage et attaque.
 
 > [!abstract]+ **Le Cadavre**
-> Un joueur qui inspecte le cadavre apprend que sa chair a commencé à se détacher de ses os, sa peau et ses muscles se décomposant et ses organes brûlés d'un gris sombre et malsain. Une réussite à un jet de Sagesse (Médecine) DD 15 révèle que le torse du cadavre a été déchiré par de longues griffes acérées il y a pas plus de 24 heures - et que ses entrailles semblent bien plus décomposées que ne le laisserait penser la fraîcheur du cadavre.
+> Un joueur qui inspecte le cadavre constate que sa chair commence à se détacher de ses os, sa peau et ses muscles pourrissant tandis que ses organes sont calcinés d'un gris sombre et malsain. Un jet réussi de Sagesse (Médecine) DD 15 révèle que le torse du cadavre a été déchiré par de longues griffes acérées il y a moins de vingt-quatre heures — et que ses entrailles semblent beaucoup plus décomposées que ne le laisserait supposer la fraîcheur du cadavre.
 >
-> Si le Montagnard Kalaris est présent, il identifie sombrement le cadavre comme étant celui de Thiadicem - l'éclaireur Montagnard qu'il avait été dépêché pour retrouver. En inspectant les blessures de Thiadicem, si les joueurs n'ont pas encore rencontré l'un des deux bodaks, Kalaris pâlit et les avertit que cette nécrose est "la marque des Jumelles Grises" - des monstres qui hantent les crêtes du Mont Ghakis et savourent la chair humaine. (S'il est interrogé, Kalaris peut informer les joueurs que l'air même autour des Jumelles Grises consume la vie de ceux qui s'attardent à proximité, dévorant la vitalité des victimes à chaque seconde qui passe.)
+> Si le Montagnard Kalaris est présent, il identifie sinistrement le cadavre comme étant Thiadicem — l'éclaireur Montagnard qu'il avait été envoyé retrouver. En examinant les blessures de Thiadicem, si les joueurs n'ont pas encore rencontré l'un des bodaks, Kalaris pâlit et les avertit que cette nécrose est "la marque des Jumeaux Gris" — des monstres qui hantent les crêtes du Mont Ghakis et savourent la chair humaine. (Si on le lui demande, Kalaris peut informer les joueurs que l'air même autour des Jumeaux Gris consume la vie de ceux qui s'attardent à proximité, dévorant la vitalité des victimes à chaque seconde qui passe.)
 
-Les gravures sur le mur du fond forment un certain nombre d'inscriptions grossières. L'inscription la plus grande, écrite en commun, dit : "LES OMBRES MENTENT". Au-dessous, autour et au-dessus se trouvent gravées plusieurs douzaines de répétitions d'une seule phrase, écrite en abyssal : "N'acceptez pas leurs présents".
+Les gravures sur le mur du fond forment plusieurs inscriptions grossières. La plus grande inscription, écrite en Commun, dit : "LES OMBRES MENTENT." En dessous, autour et au-dessus sont gravées plusieurs dizaines de répétitions d'une seule phrase, écrite en Abyssal : "N'acceptez pas leurs cadeaux."
 
 > [!lore]+ **Les Gravures**
-> Cassius et Deirdre ont gravé ces mots, qui font référence aux vestiges du Temple d'Ambre, sur les murs de la caverne alors qu'un aspect de leur humanité subsistait encore dans les jours qui ont suivi leur transformation. Cependant, toute parcelle de conscience s'est depuis longtemps dissoute au cours des années qu'ils ont passées dans ces cavernes froides et sombres.
+> Cassius et Deirdre ont gravé ces mots, qui font référence aux vestiges du Temple d'Ambre, sur les parois de la caverne alors qu'un aspect de leur humanité subsistait encore dans les jours suivant leur transformation. Cependant, toute trace de conscience s'est depuis longtemps dissoute durant les années qu'ils ont passées dans ces grottes froides et obscures.
 
 > [!info]+ **Où sont les Bodaks ?**
-> Si le groupe complet entre dans cette pièce pendant que les bodaks sont actifs, Cassius se cache dans [[#La Tanière Occidentale]], tandis que Deirdre tente de se faufiler derrière les joueurs via [[#Le Croisement]]. Sinon, si les joueurs alertent les bodaks pendant qu'ils sont dans cette pièce (par exemple, en dérangeant ou en attaquant Cassius), Deirdre entre au combat le tour suivant depuis [[#La Tanière Orientale]].
-### Le Sanctuaire d'Ambre
-Quand les joueurs entrent dans cette pièce, lisez :
-
-<div class="description">
-<p>Cette petite pièce est exiguë et plongée dans l'obscurité, avec un froid qui s'accroche à l'air. De petites flaques de glace jonchent le sol inégal, avec des traînées d'eau de fonte glacée sur les murs au-dessus d'elles.</p>
-<p>À droite, un étroit tunnel s'enfonce plus profondément dans la caverne. Une grande gravure se dresse sur le mur du fond, flanquée d'une paire de petits objets qui pendent de protubérances rocheuses naturelles.</p>
-</div>
-
-Le tunnel mène à [[#La Tanière Orientale]].
-
-La gravure représente un triangle équilatéral à bordure épaisse contenant un triangle équilatéral inversé, qui à son tour contient une ligne verticale ondulée. Un joueur ayant précédemment lu le *Tome de Strahd* reconnaît le même symbole qui y est représenté. Si Kasimir est présent, il peut partager que la gravure est le symbole du Temple d'Ambre, que Patrina lui a d'abord montré dans ses rêves.
-
-Chaque objet pendant est un *éclat d'ambre de Sykane* (voir l'annexe [[Éclats d'Ambre#Sykane, la Dévorante d'Âmes|Éclats d'Ambre]]).
-
-> [!info]+ **Où sont les Bodaks ?**
-> Si le groupe complet entre dans cette pièce pendant que les bodaks sont actifs, Deirdre se cache dans [[#La Tanière Orientale]], tandis que Cassius tente de se faufiler derrière les joueurs via [[#Le Croisement]].
-### La Tanière Occidentale
+> Si tout le groupe entre dans cette salle alors que les bodaks sont actifs, Cassius se cache dans [[#Le Nid Occidental]], tandis que Deirdre tente de se faufiler derrière les joueurs via [[#La Jonction]]. Sinon, si les joueurs alertent les bodaks alors qu'ils sont dans cette salle (c'est-à-dire en dérangeant ou en attaquant Cassius), Deirdre entre au combat au tour suivant depuis [[#Le Nid Oriental]].
+### L'Autel d'Ambre
 Quand les joueurs entrent dans cette salle, lisez :
 
 <div class="description">
-<p>Cette pièce contient un grand nid étrange fait de tissus pourris, d'os rongés et d'un cercle de pierres sombres et gluantes.</p>
+<p>Cette petite pièce est exiguë et plongée dans l'obscurité, avec un froid qui s'accroche à l'air. De petites flaques de glace sont éparpillées sur le sol inégal, des traînées d'eau glacée figée sur les murs au-dessus d'elles.</p>
+<p>À droite, un tunnel étroit s'enfonce plus profondément dans la grotte. Une grande gravure se dresse sur le mur du fond, flanquée d'une paire de petits objets qui pendent de protubérances rocheuses naturelles.</p>
 </div>
 
-Si les joueurs sont entrés dans cette salle par [[#Le Tas d'Ordures]], ajoutez :
+Le tunnel mène au [[#Le Nid Oriental]].
+
+La gravure représente un triangle équilatéral à bordure épaisse contenant un triangle équilatéral inversé, qui contient à son tour une ligne ondulée verticale. Un joueur qui a déjà lu le *Tome de Strahd* le reconnaît comme étant le même symbole que celui qui y est représenté. Si Kasimir est présent, il peut indiquer que la gravure est le symbole du Temple d'Ambre, que Patrina lui a d'abord montré dans ses rêves.
+
+Chaque objet suspendu est un *éclat d'ambre de Sykane* (voir l'annexe [[Éclats d'Ambre#Sykane, le Dévoreur d'Âmes|Éclats d'Ambre]]).
+
+> [!info]+ **Où sont les Bodaks ?**
+> Si tout le groupe entre dans cette salle alors que les bodaks sont actifs, Deirdre se cache dans [[#Le Nid Oriental]], tandis que Cassius tente de se faufiler derrière les joueurs via [[#La Jonction]].
+### Le Nid Occidental
+Quand les joueurs entrent dans cette chambre, lisez :
 
 <div class="description">
-<p>Un tunnel sombre et étroit se détache du côté gauche de cette salle.</p>
+<p>Cette pièce contient un grand nid étrange fait de tissus pourris, d'os rongés et d'un cercle de pierres sombres et bosselées.</p>
+</div>
+
+Si les joueurs sont entrés dans cette chambre via [[#Le Tas d'Ordures]], ajoutez :
+
+<div class="description">
+<p>Un tunnel sombre et étroit se détache du côté gauche de cette chambre.</p>
 </div>
 
 Ce tunnel mène à [[#La Salle du Regret]].
 
-Sinon, si les joueurs y sont entrés par [[#La Salle du Regret]], ajoutez :
+Sinon, si les joueurs y sont entrés via [[#La Salle du Regret]], ajoutez :
 
 <div class="description">
-<p>Un tunnel sombre et étroit se détache du côté droit de cette salle.</p>
+<p>Un tunnel sombre et étroit se détache du côté droit de cette chambre.</p>
 </div>
 
+Ce tunnel mène à [[#Le Tas d'Ordures]].
 
-
-Ce tunnel mène à [[#Le tas d'ordures]].
-
-***Trésor.*** Un joueur qui inspecte le nid trouve un vieux *sac d'aventurier* contenant, en plus de son contenu ordinaire, 12 pièces de platine tachées de sang et 56 pièces d'or. Le sac contient également un vieux parchemin déchiré. On peut y lire:
+***Trésor.*** Un joueur qui examine le nid trouve un vieux *sac d'aventurier* contenant, en plus de son contenu ordinaire, 12 pièces de platine tachées de sang et 56 pièces d'or. Le sac contient également une vieille lettre déchirée sur parchemin. On peut y lire :
 
 <div class="description">
 <p>Cassius,</p>
-<p>Je sais que je brise ma promesse, mais je ne peux plus ignorer ces visions. S'il existe un moyen de ramener Mère, je dois le saisir - quel que soit le risque.</p>
+<p>Je sais que je romps ma promesse, mais je ne peux plus ignorer ces visions. S'il existe un moyen de ramener Mère, je dois le saisir — peu importe le risque.</p>
 <p>Deirdre</p>
 </div>
-### Le nid de l'Est
-Quand les joueurs entrent dans cette salle, lisez:
+### Le Nid Oriental
+Lorsque les joueurs entrent dans cette chambre, lisez :
 
 <div class="description">
-<p>Cette pièce contient un grand nid étrange fait de tissus pourris, d'os rongés et d'un cercle de pierres sombres et gorgées.</p>
+<p>Cette pièce contient un grand et étrange nid fait de tissus pourris, d'os rongés et d'un cercle de pierres sombres et bosselées.</p>
 </div>
 
-Si les joueurs sont entrés dans cette salle par [[#Le sanctuaire d'ambre]], ajoutez:
+Si les joueurs sont entrés dans cette chambre par [[#Le Sanctuaire d'Ambre]], ajoutez :
 
 <div class="description">
-<p>Un tunnel sombre et étroit se détache du côté droit de la salle.</p>
+<p>Un tunnel étroit et sombre se détache du côté droit de la chambre.</p>
 </div>
 
-Sinon, s'ils sont entrés par [[#La chambre du regret]], ajoutez:
+Sinon, si les joueurs y sont entrés par [[#La Salle du Regret]], ajoutez :
 
 <div class="description">
-<p>Un tunnel sombre et étroit se détache du côté gauche de la salle.</p>
+<p>Un tunnel étroit et sombre se détache du côté gauche de la chambre.</p>
 </div>
 
-Dans les deux cas, si les bodaks ne sont pas encore actifs, Deirdre peut être trouvée se reposant dans son "nid", jouant avec un ensemble d'os humanoïdes. Lisez:
+Dans les deux cas, si les bodaks ne sont pas encore actifs, Deirdre peut être trouvée se reposant dans son "nid", jouant avec un ensemble d'os humanoïdes. Lisez :
 
 <div class="description">
-<p>Une créature squelettique voûtée est assise au centre du "nid", sa cape déchirée drapée inégalement sur une colonne vertébrale torse et proéminente. Ses longs bras osseux s'étendent dans les airs au-dessus d'elle, soulevant un crâne d'un blanc éclatant tandis que des gémissements étranges émanent de sa poitrine.</p>
+<p>Une créature squelettique voûtée est assise au centre du "nid", sa cape déchirée drapée de façon inégale sur une colonne vertébrale tordue et saillante. Ses longs bras osseux s'étirent dans l'air au-dessus d'elle, soulevant un crâne blanc décoloré tandis que de faibles roucoulements aliens émanent de sa poitrine.</p>
 </div>
 
-Si les joueurs l'attaquent ou révèlent leur présence, Deirdre hurle de rage et attaque.
+Si les joueurs l'attaquent ou révèlent autrement leur présence, Deirdre hurle de rage et attaque.
 
-***Trésor.*** Un joueur qui inspecte le nid trouve un ensemble de vêtements communs déchirés, une carte froissée du mont Ghakis (incluant un point marquant l'emplacement approximatif du temple d'ambre, que Kasimir peut confirmer), et une bourse en tissu usé contenant 6 pièces d'argent.
-## R4k. Les grottes de glace
-Un joueur qui grimpe complètement la cheminée naturelle dans [[#Le tas d'ordures]] émerge dans un système de grottes de glace. Lisez:
+***Trésor.*** Un joueur qui examine le nid trouve un ensemble de vêtements communs déchirés, une carte froissée du Mont Ghakis (incluant un point marquant l'emplacement approximatif du Temple d'Ambre, que Kasimir peut confirmer), et une bourse en tissu usée contenant 6 pièces d'argent.
+## R4k. Les Grottes de Glace
+Un joueur qui monte complètement la cheminée naturelle dans [[#Le Tas d'Ordures]] émerge dans un système de grottes de glace. Lisez :
 
 <div class="description">
-<p>La roche taillée grossièrement de la cheminée cède la place à une grande caverne glacée d'environ 24 mètres de large. Des stalactites enveloppées de glace pendent du plafond givré, le vent hurlant à travers une brèche dentelée dans la pierre à 15 mètres au-dessus.</p>
-<p>À l'ouest, une étroite fissure fend la paroi de la caverne, formant un étroit passage qui disparaît dans la montagne. Au nord, une ouverture basse et arrondie mène à un espace adjacent, ses bords éclairés par une lueur rouge vacillante et faible.</p>
+<p>La roche grossièrement taillée de la cheminée cède la place à une grande caverne glacée d'environ vingt-quatre mètres de large. Des stalactites gainées de glace pendent du plafond couvert de givre, le vent hurlant à travers une brèche dentelée dans la roche quinze mètres plus haut.</p>
+<p>À l'ouest, une fente étroite divise la paroi de la caverne, formant un passage étroit qui disparaît dans la montagne. Au nord, une ouverture basse et arrondie mène à un espace adjacent, ses bords illuminés par une faible lueur rouge vacillante.</p>
 </div>
 
-La fissure ouest mène à [[#La grotte des dagues]]. Un joueur qui inspecte la fissure remarque un rayon de lumière pâle et froide illuminant l'un des murs à l'intérieur.  
+La fente occidentale mène à [[#La Grotte des Poignards]]. Un joueur qui inspecte la fente remarque un rayon de lumière pâle et froide illuminant l'un des murs à l'intérieur.
 
-L'ouverture nord, assez haute pour admettre une créature de Petite taille ou plus petite, ou une créature de taille Moyenne rampante, mène à [[#La voûte gelée]].
+L'ouverture nord, qui est assez haute pour admettre une créature de taille Petite ou plus petite, ou une créature de taille Moyenne en rampant, mène à [[#Le Caveau Gelé]].
 
-> [!abstract]+ **La brèche au-dessus**
-> La brèche dans le plafond fait 90 cm de large - suffisamment large pour permettre à des créatures de taille Moyenne ou plus petites de s'y glisser. Cependant, en raison de l'architecture de la caverne, elle est inaccessible sans l'aide de la magie ou d'un kit d'escalade.
+> [!abstract]+ **La Brèche au Plafond**
+> La brèche dans le plafond fait un mètre de large — assez large pour permettre aux créatures de taille Moyenne ou plus petites de s'y glisser. Cependant, en raison de l'architecture de la caverne, elle est inaccessible sans l'aide de magie ou d'un kit d'escalade.
 >
-> Si les joueurs s'échappent par la brèche dans le plafond, ils peuvent facilement retrouver et descendre sur leur chemin d'origine, contournant les segments que l'avalanche a bloqués.
-### La voûte gelée
-Si un joueur entre dans cette salle, lisez:
+> Si les joueurs s'échappent par la brèche du plafond, ils peuvent facilement retrouver et redescendre vers leur chemin d'origine, contournant les segments que l'avalanche a bloqués.
+### Le Caveau Gelé
+Si un joueur entre dans cette chambre, lisez :
 
 <div class="description">
-<p>L'ouverture mène à une petite caverne de pierre d'environ 3,5 mètres de large et 3 mètres de haut. Ses murs, enveloppés de glace, forment un miroir naturel, reflétant votre silhouette floue et fractionnée sous tous les angles lorsque vous passez à l'intérieur. Chaque son semble ici amplifié, rebondissant sur les surfaces gelées avec une étrange clarté résonnante.</p>
-<p>Une énorme stalactite de glace descend du centre du plafond, faisant facilement 90 cm de haut et 25 cm de large à la base. Une lueur rouge pulsante et profonde vacille à l'intérieur de quelque chose de gelé à l'intérieur.</p>
+<p>L'ouverture mène à une petite caverne de pierre ne mesurant pas plus de trois mètres cinquante de large et environ trois mètres de haut. Ses parois, recouvertes de glace, forment un miroir naturel, reflétant votre silhouette floue et fragmentée sous tous les angles à mesure que vous avancez à l'intérieur. Chaque son semble amplifié ici, rebondissant sur les surfaces gelées avec une clarté étrange et résonante.</p>
+<p>Un énorme stalactite solitaire pend du centre du plafond, mesurant facilement un mètre de long et vingt-cinq centimètres de large à sa base. Une lumière rouge profonde et pulsante scintille depuis quelque chose de gelé à l'intérieur.</p>
 </div>
+![[Frozen-Vault.png]]
+<span class="credit">"Le Caveau Gelé" par DM Andy Maps. Versions haute résolution disponibles <a href="https://www.patreon.com/posts/124574173">ici !</a></span>
 
+Le stalactite, qui se termine à deux mètres au-dessus du sol et tombe facilement s'il est fondu ou brisé, contient un *pendentif de sang-de-fer* gelé (voir ci-dessous), dont la chaîne en fer pend d'un crochet de pierre naturel au plafond. Le pendentif tombe si le stalactite tombe, ou devient exposé si le stalactite fond.
 
-
-Le glaçon, qui se termine à sept pieds (environ 2,1 mètres) au-dessus du sol et tombe facilement s'il fond ou est brisé, contient un *pendentif de sang de fer* gelé (voir ci-dessous), dont la chaîne de fer pend d'un crochet de pierre naturel au plafond. Le pendentif tombe si le glaçon tombe, ou devient exposé si le glaçon fond.  
-
-Quand le pendentif devient visible pour la première fois, lire :
+Lorsque le pendentif devient visible pour la première fois, lisez :
 
 <div class="description">
-<p>L'intérieur du glaçon dissimule un pendentif de fer triangulaire attaché à une chaîne de fer. Le centre du pendentif porte un morceau de résine cramoisie et rugueuse qui pulse d'une lumière faible et régulière.</p>
+<p>L'intérieur du stalactite dissimule un pendentif triangulaire en fer attaché à une chaîne en fer. Le centre du pendentif comporte un morceau de résine cramoisie, irrégulière, qui pulse d'une lumière faible mais constante.</p>
 </div>
 
-> [!item]+ **Pendentif de Sang de Fer**
-> Ce pendentif de fer non magique est en forme de triangle et attaché à une chaîne de fer. Le morceau de résine monté à son centre est, secrètement, un *éclat d'ambre du Vampyr*.
+> [!item]+ **Pendentif de Sanglier**
+> Ce pendentif en fer non-magique a la forme d'un triangle et est attaché à une chaîne en fer. Le morceau de résine monté en son centre est, secrètement, un *éclat d'ambre du Vampyr*.
 >
-> La première fois qu'un joueur possédant le pendentif serait assommé ou mourrait, ou si un joueur tente de communier avec l'éclat, lire :
+> La première fois qu'un joueur possédant le pendentif serait mis inconscient ou mourrait, ou si un joueur tente de communier avec l'éclat, lisez :
 >
 > <hr>
 >
-> *Vous vous retrouvez debout au milieu d'un vide sombre et infini, illuminé par aucune autre lumière qu'une lueur cramoisie vacillante. La lumière émane d'un morceau de résine rouge sang - plus monté sur le pendentif de fer que vous portez, mais flottant dans les airs devant vous, détaché de la matière ou de l'attraction terrestre. Une ombre remue au cœur de la résine, et vous ressentez le poids d'un regard ancien et intéressé qui se pose sur vous.*
+> *Vous vous trouvez debout au milieu d'un vide sombre et infini, éclairé par aucune lumière si ce n'est une lueur cramoisie vacillante. La lumière émane d'un morceau de résine rouge sang—non plus monté sur le pendentif en fer que vous portez, mais flottant dans les airs devant vous, libéré de la matière et de l'attraction gravitationnelle. Une ombre s'agite au cœur de la résine, et vous sentez le poids d'un regard ancien et intéressé se poser sur vous.*
 >
-> *"Vous êtes fragile, petit mortel", murmure l'ombre. "Je goûte la peur de la mort sur vous. Pourtant, je sens aussi un désir de force - une volonté qui plierait la Mort à son service. Acceptez ce petit fragment de mon don, et vous pourrez encore survivre à ce qui doit venir."*
+> *"Vous êtes fragile, petit mortel," murmure l'ombre. "Je goûte la peur de la mort sur vous. Pourtant je sens aussi un désir de puissance—une volonté qui plierait la Mort à son service. Acceptez ce petit fragment de mon don, et vous pourriez survivre à ce qui est à venir."*
 >
-> *Une petite étincelle rouge sang flotte des profondeurs de la résine, planant patiemment dans les airs devant vous.*
->
-> <hr>
->
-> Si le joueur demande à l'ombre de s'identifier, lire :
+> *Une petite étincelle rouge sang flotte depuis les profondeurs de la résine, planant patiemment dans l'air devant vous.*
 >
 > <hr>
 >
-> *Un rire froid et distant fait écho depuis les profondeurs rouges sang. "Je suis l'Ancien - l'Immortel. Par mon don, les premiers Immortels sont nés de l'humanité, défiant le destin froid et creux que les dieux ont ordonné. Par mon don, vous aussi pouvez briser les chaînes qui vous lient à la tombe - si vous avez le courage et la force de le chercher."*
+> Si le joueur demande à l'ombre de s'identifier, lisez :
 >
 > <hr>
 >
-> Si le joueur note la ressemblance de l'ombre avec les vestiges des éclats d'ambre, elle ricane, notant son mépris pour les "ombres moindres qui se cachent dans les ombres de l'ambre". "Ils se sont perdus dans leur emprisonnement", raille l'ombre, "rendant leurs dons un poison pour ceux qui les accepteraient. Le mien est pur - intact de la corruption du temps ou de la faiblesse des fiélons."
+> *Un rire froid et distant résonne depuis les profondeurs rouge sang. "Je suis l'Ancien—l'Immortel. Par mon don, les premiers Immortels sont nés des mortels, défiant le destin froid et vide que les dieux ont ordonné. Par mon don, vous aussi pourriez briser les chaînes qui vous lient à la tombe—si vous avez le courage et la force de le chercher."*
+>
+> <hr>
+>
+> Si le joueur remarque la ressemblance de l'ombre avec les vestiges des éclats d'ambre, elle se moque, notant son dédain pour les "ombres inférieures qui se cachent dans les ombres ambrées." "Elles se sont perdues dans leur emprisonnement," méprise l'ombre, "rendant leurs dons un poison pour ceux qui voudraient les accepter. Le mien est pur—non corrompu par le temps ou la faiblesse des démons insignifiants."
 >
 > Si le joueur refuse d'accepter l'étincelle, il retourne à l'inconscience ordinaire.
+> 
+> Si le joueur saisit ou accepte autrement l'étincelle, ou s'il demande à l'ombre à propos de son "don", elle rit doucement et les invite à la chercher "au-delà du dieu sans visage, dans le caveau d'ambre où réside un pouvoir ancien." Si le joueur a accepté l'étincelle, il se réveille alors avec les bénéfices d'un repos long, ainsi que les traits ***vision dans le noir***, ***nature immortelle***, ***escalade d'araignée*** et ***morsure vampirique*** d'un <span class="citation">dhampir (<em>Van Richten's Guide to Ravenloft</em>, p. 16).</span> Le joueur gagne également les traits suivants :
 >
-> Si le joueur saisit ou accepte autrement l'étincelle, ou s'il demande à l'ombre ce qu'est son "don", elle rit doucement et l'invite à la chercher "au-delà du dieu sans visage, dans la voûte d'ambre où réside l'ancien pouvoir". Si le joueur a accepté l'étincelle, il se réveille alors avec les bénéfices d'un long repos, ainsi que les traits ***vision dans le noir***, ***nature sans mort***, ***escalade de soie*** et ***morsure vampirique*** d'un <span class="citation">dhampir (<em>Van Richten's Guide to Ravenloft</em>, p. 16).</span> Le joueur gagne également les traits suivants :
+> * ***Crocs cachés.*** Vos crocs vampiriques sont naturellement dissimulés. Vous pouvez étendre ou rétracter vos crocs en utilisant une action bonus lors de votre tour.
+> * ***Malédiction.*** L'éclat d'ambre est maudit. Un personnage qui accepte le don de l'ombre est secrètement maudit jusqu'à ce qu'il soit ciblé par un sort de *restauration supérieure* ou une magie similaire. Tant que le personnage reste maudit, il ne peut pas se débarrasser du pendentif ou de l'éclat, qui se téléporte immédiatement autour de son cou.
 >
-> * ***Crocs Cachés.*** Vos crocs vampiriques sont naturellement dissimulés. Vous pouvez déployer ou rétracter vos crocs avec une action bonus lors de votre tour.
-> * ***Malédiction.*** L'éclat d'ambre est maudit. Un personnage qui accepte le don de l'ombre est secrètement maudit jusqu'à ce qu'il soit ciblé par un sort de *restauration suprême* ou une magie similaire. Tant que le personnage reste maudit, il ne peut pas se débarrasser du pendentif ou de l'éclat, qui se téléporte immédiatement autour de son cou.
->
-> Si un personnage accepte le sombre don du Vampyr dans <span class="citation">X42. La Voûte d'Ambre (p. 195)</span> et remplit les conditions pour devenir un **vampire** tandis qu'il est maudit de cette manière, le personnage tombe sous le contrôle permanent de Strahd, comme s'il l'avait transformé en **rejeton vampire**.
+> Si un personnage accepte le don ténébreux du Vampyr dans <span class="citation">X42. Caveau d'Ambre (p. 195)</span> et remplit les conditions pour devenir un **vampire** tout en étant maudit de cette manière, le personnage tombe sous le contrôle permanent de Strahd, comme s'il l'avait transformé en **rejeton vampirique**.
 
 > [!lore]+ **Le Pendentif Maudit**
-> Strahd a intentionnellement placé ce pendentif ici la nuit de [[#R4f. La Seconde Épreuve du Tyran]], espérant que l'un des joueurs l'emporterait avec lui au Temple d'Ambre et accepterait le sombre don du Vampyr - lui donnant ainsi un vampire de sang pur sous son contrôle. (Le vestige du Vampyr ne sait pas que le pendentif est maudit.)
+> Strahd a intentionnellement placé ce pendentif ici la nuit de [[#R4f. La Deuxième Épreuve du Tyran]], espérant qu'un des joueurs puisse l'emporter avec eux au Temple d'Ambre et accepter le don obscur de Vampyr—lui donnant ainsi un vampire de sang pur sous son contrôle. (Le vestige de Vampyr ne sait pas que le pendentif est maudit.)
 >
-> L'éclat d'ambre incrusté dans le pendentif est le même que les Pouvoirs des Ténèbres ont accordé à Strahd le jour du mariage de Sergei, lui permettant ainsi d'accepter le sombre don du Vampyr avant que son frère ne puisse se marier. (En raison de sa rencontre précédente avec le sarcophage du Vampyr sous la direction de Patrina Velikov, Strahd n'a pas eu besoin de retourner au Temple d'Ambre en personne pour accepter le sombre don du Vampyr au moyen de l'éclat d'ambre.)
-### La Caverne des Dagues
-La fissure dans [[#R4k. Les Grottes de Glace]] contourne le mur ouest de la caverne d'entrée, puis tourne à l'ouest, s'élargissant bientôt en un tunnel. Lisez :
+> L'éclat d'ambre incrusté dans le pendentif est le même que celui que les Puissances Obscures ont accordé à Strahd le jour du mariage de Sergei, lui permettant ainsi d'accepter le don obscur de Vampyr avant que son frère ne puisse se marier. (En raison de sa rencontre antérieure avec le sarcophage de Vampyr sous la guidance de Patrina Velikovna, Strahd n'a pas eu besoin de retourner au Temple d'Ambre en personne pour accepter le don obscur de Vampyr au moyen de l'éclat d'ambre.)
+### La Grotte des Dagues
+
+La fissure dans [[#R4k. Les Grottes de Glace]] contourne le mur occidental de la caverne d'entrée, puis s'incurve vers l'ouest, s'élargissant bientôt en un tunnel. Lisez :
 
 <div class="description">
-<p>La crevasse rocheuse recouverte de givre s'élargit en un long tunnel arrondi. Des nappes de glace ondulées couvrent les murs, formant un passage presque parfaitement circulaire à travers la montagne. La glace scintille faiblement, étincelant comme si elle était remplie de milliers d'étoiles lointaines.</p>
-<p>Le tunnel se poursuit sur une longue distance devant, disparaissant bientôt dans l'obscurité.</p>
+<p>La crevasse rocheuse couverte de givre s'élargit en un long tunnel arrondi. Des nappes de glace ondulées, semblables à des vagues, recouvrent les parois, formant un passage presque parfaitement circulaire à travers la montagne. La glace scintille faiblement, miroitant comme si elle était emplie de milliers d'étoiles lointaines.</p>
+<p>Le tunnel se poursuit loin dans la distance, disparaissant bientôt dans l'obscurité.</p>
 </div>
+![[The-Cave-of-Daggers.png]]
+<span class="credit">"La Grotte des Dagues" par DM Andy Maps. Versions haute résolution disponibles <a href="https://www.patreon.com/posts/124574173">ici !</a></span>
 
 Si les joueurs suivent le tunnel, lisez :
 
 <div class="description">
-<p>Le tunnel serpente sur près de 1,6 km vers l'est à travers la montagne, s'incurvant légèrement dans la nappe de glace pendant que vous avancez dans l'obscurité.</p>
-<p>Finalement, le tunnel s'élargit davantage, ses murs flanqués de hautes structures de glace en forme de sablier avec des bases renflées, où l'eau de fonte gelée a formé de longues "stalactites" et "stalagmites" de glace qui se rejoignent et se fondent entre elles. Non loin, des cascades gelées ont formé d'étranges silhouettes fantomatiques, avec de longues traînées cristallines suspendues à des "chapeaux" arrondis et en surplomb.</p>
-<p>Devant, un anneau de stalactites gonflées marque votre entrée dans un espace beaucoup plus vaste. En passant sous elles, vous découvrez que le tunnel se termine sur une étroite corniche glacée surplombant une immense caverne de glace cathédrale en contrebas.</p>
-<p>Des rayons de lumière pâle et douce filtrent d'en haut, illuminant des centaines de formations de glace effilées et trapues qui scintillent d'une beauté radieuse et éthérée. Un nombre infini d'énormes stalactites, allant d'un pied de long à la hauteur d'un homme, pendent délicatement du plafond au-dessus, leurs sombres reflets scintillant dans une mince couche d'eau glaciale qui recouvre le sol de la caverne.</p>
-<p>À dix pieds sur la gauche, au bord de votre corniche actuelle, une stalactite tombée de cinq pieds se dresse au milieu d'une large nappe de givre - un tapis de cristaux de glace en dentelle et en plumes - sa pointe effilée fendant la terre gelée comme une lance dans la chair. Quarante pieds devant et à droite, une ouverture sur une chambre attenante surplombe une autre corniche glacée qui domine le sol de quinze pieds en contrebas.</p>
-<p>À cent pieds devant, la lumière illumine la surface scintillante d'un lac gelé de cinquante pieds. Au-delà du lac, la lueur grise et pâle du jour vacille à travers une large bouche de caverne béante.</p>
+<p>Le tunnel serpente sur près de 1,6 kilomètre vers l'est à travers la montagne, incurvant légèrement à travers la couche de glace alors que vous progressez dans l'obscurité.</p>
+<p>Finalement, le tunnel s'élargit davantage, ses parois flanquées de hautes structures de glace en forme de sablier avec des bases bulbeuses, où l'eau de fonte gelée a formé des "stalactites" et "stalagmites" de glace allongées qui se rencontrent et se fondent entre elles. Non loin, des cascades gelées ont formé des silhouettes fantomatiques inquiétantes, avec de longs tentacules cristallins suspendus à des "chapeaux" arrondis et surplombants.</p>
+<p>Devant vous, un anneau de glaçons gonflés marque votre entrée dans un espace beaucoup plus vaste. En passant sous eux, vous découvrez que le tunnel se termine sur une étroite corniche glacée surplombant une vaste caverne de glace semblable à une cathédrale en contrebas.</p>
+<p>Des faisceaux de lumière pâle filtrent depuis les hauteurs, illuminant des centaines de formations glacées dentelées qui brillent d'une beauté radieuse et éthérée. Un éventail sans fin d'énormes stalactites, allant de 30 centimètres de longueur à la taille d'un homme, pendent délicatement du plafond au-dessus, leurs reflets obscurcis miroitant dans une fine couche d'eau glaciale qui recouvre le sol de la caverne.</p>
+<p>À trois mètres sur votre gauche, au bord de votre perchoir actuel, un glaçon tombé de 1,5 mètre se dresse au milieu d'une grande zone de givre—un tapis de cristaux de glace délicats en forme de dentelle—son extrémité affûtée fendant la terre gelée comme une lance à travers la chair. Douze mètres devant et à droite, une ouverture vers une chambre adjacente se trouve au sommet d'une autre corniche glacée qui s'élève à 4,5 mètres au-dessus du sol.</p>
+<p>Trente mètres plus loin, la lumière illumine la surface scintillante d'un lac gelé de 15 mètres. Au-delà du lac, la lueur grise et pâle du jour vacille à travers une entrée de caverne béante.</p>
 </div>
 
-Un joueur qui réussit un jet d'Intelligence (Nature) de DD 15 reconnaît la caverne comme une grotte de congères : une caverne où l'eau de fonte regèle en grandes stalactites et formations de glace fragiles qui peuvent s'effondrer soudainement, provoquant une réaction en chaîne mortelle de chutes de congères et d'effondrements si elles sont déclenchées par des bruits forts, des vibrations ou des changements de température. (Si Kalaris est présent, il transmet immédiatement et à bout de souffle cette information aux joueurs dans un murmure, les avertissant de rester silencieux pour éviter de déclencher les stalactites.)
+Un joueur qui réussit un jet d'Intelligence (Nature) DD 15 reconnaît la grotte comme une caverne de chute de glace : une caverne où l'eau de fonte regèle en formant de grands stalactites et formations de glace fragiles qui peuvent s'effondrer soudainement, provoquant une réaction en chaîne mortelle et un éboulement si déclenchés par des sons forts, des vibrations ou des changements de température. (Si Kalaris est présent, il transmet immédiatement cette information aux joueurs dans un murmure haletant, les avertissant de rester silencieux afin d'éviter de déclencher les stalactites.)
 
-> [!info]+ **Cascade de glaçons**
-> Chaque fois que les joueurs effectuent l'une des actions suivantes, lancez un d100. Si le résultat tombe dans la plage d'«Avertissement» pour cette action, les glaçons suspendus frémissent légèrement, s'entrechoquant et laissant tomber des morceaux de givre d'en haut, mais restent sinon intacts. Cependant, si le résultat tombe dans la plage de «Cascade» pour cette action, une cascade de glaçons commence.
+> [!info]+ **Cascade de Glaçons**
+> Chaque fois que les joueurs effectuent l'une des actions suivantes, lancez un d100. Si le résultat tombe dans la plage "Avertissement" pour cette action, les glaçons au-dessus tremblent légèrement, s'entrechoquant et faisant tomber des particules de givre depuis le haut, mais restent par ailleurs immobiles. Cependant, si le résultat tombe dans la plage "Cascade" pour cette action, une cascade de glaçons se déclenche.
 >
-> | Action | | Plage de Cascade | Plage d'Avertissement |
+> | Action | Plage de Cascade | Plage d'Avertissement |
 > |:---|:---:|:--:|
-> | Bruits ordinaires | 00-09 | 10-49 |
-> | Faible chaleur | 00-09 | 10-49 |
-> | Bruits forts | 00-49 | 50-99 |
-> | Forte chaleur | 00-49 | 50-99 |
-> | Bruits explosifs | 00-99 | - |
-> | Chaleur ardente | 00-99 | - |
+> | Bruits Ordinaires | 00-09 | 10-49 |
+> | Chaleur Faible | 00-09 | 10-49 |
+> | Bruits Forts | 00-49 | 50-99 |
+> | Chaleur Intense | 00-49 | 50-99 |
+> | Bruits Explosifs | 00-99 | - |
+> | Chaleur Brûlante | 00-99 | - |
 >
-> Exemples de chaque action :
-> * **Bruits ordinaires.** Parler à un volume normal ; glisser et tomber
-> * **Faible chaleur.** Lancer un tour de magie infligeant des dégâts de feu
-> * **Bruits forts.** Crier ; entrechoquement d'épées ; traverser la glace
-> * **Forte chaleur.** Lancer un sort de feu de niveau 1 ou 2, ou un sort de feu de niveau 3 ou plus ciblant une seule créature
-> * **Bruits explosifs.** Lancer un sort infligeant des dégâts de tonnerre
-> * **Chaleur ardente.** Lancer un sort de feu de niveau 3 ou plus affectant une zone
+> Voici des exemples pour chaque action :
+> * **Bruits Ordinaires.** Parler à volume normal ; glisser et tomber
+> * **Chaleur Faible.** Lancer un tour de magie qui inflige des dégâts de feu
+> * **Bruits Forts.** Crier ; entrechoquer des épées ; briser la glace
+> * **Chaleur Intense.** Lancer un sort de feu de niveau 1 ou 2, ou un sort de feu de niveau 3 ou supérieur qui cible une seule créature
+> * **Bruits Explosifs.** Lancer un sort qui inflige des dégâts de tonnerre
+> * **Chaleur Brûlante.** Lancer un sort de feu de niveau 3 ou supérieur qui cible une zone d'effet
 >
 > Si une cascade de glaçons est déclenchée, elle agit comme suit :
-> * Tous les glaçons immédiatement au-dessus de l'action déclenchante entrent dans la plage de cascade.
-> * Au début de chaque tour de créature, si elle se trouve sous la plage de cascade, elle doit réussir un jet de sauvegarde de Dextérité DD 15 ou subir 2d10 dégâts perforants.
-> * À l'initiative 0 de chaque round, la plage de cascade augmente de 9 mètres dans toutes les directions.
-> * La cascade se termine à la fin du 6e round après son déclenchement.
+> * Tous les glaçons situés immédiatement au-dessus de l'action déclenchante entrent dans la zone de cascade.
+> * Au début du tour de chaque créature, si cette créature se trouve sous la zone de cascade, elle doit réussir un jet de sauvegarde de Dextérité DD 15 ou subir 2d10 dégâts perforants.
+> * À l'initiative 0 de chaque round, la zone de cascade s'étend de neuf mètres dans toutes les directions.
+> * La cascade se termine à la fin du sixième round après son déclenchement.
 >
-> Une créature subit la moitié des dégâts d'une cascade de glaçons si elle est complètement immergée dans l'eau, et aucun dégât si elle est à au moins 3 mètres de la surface de l'eau.
+> Une créature subit la moitié des dégâts d'une cascade de glaçons si elle est complètement immergée dans l'eau, et aucun dégât si elle se trouve à au moins trois mètres de la surface de l'eau.
 
-Le rebord actuel des joueurs se trouve à 6 mètres au-dessus du sol de la caverne. Un joueur sans l'aide d'équipement ou de magie peut descendre du rebord avec un jet de Force (Athlétisme) DD 10 réussi ; si le jet échoue de 5 ou plus, le joueur chute au sol, subissant 2d6 dégâts contondants, atterrissant à terre et causant un bruit fort (voir **Cascade de glaçons** ci-dessus).
+Le rebord actuel des joueurs se trouve à six mètres au-dessus du sol de la caverne. Un joueur sans l'aide d'équipement ou de magie peut descendre le rebord avec un jet de Force (Athlétisme) DD 10 réussi ; si le jet échoue de 5 ou plus, le joueur s'écrase au sol, subissant 2d6 dégâts contondants, se retrouvant à terre, et causant un bruit fort (voir **Cascade de Glaçons** ci-dessus).
 
-Quand un joueur descend pour la première fois au sol de la caverne, lisez :
-
-<div class="description">
-<p>Un centimètre d'eau glaciale éclabousse sous vos bottes, sa surface sombre et ondulante reflétant les pointes distordues et aiguisées des lourds glaçons au-dessus.</p>
-<p>À 12 mètres sur la droite, une falaise gelée s'élève jusqu'au rebord de glace et l'entrée de la caverne au-dessus. À 30 mètres devant, le sol remonte en pente douce jusqu'aux rives du lac gelé, le ciel gris de Barovia au-delà.</p>
-</div>
-
-***Le rebord de glace.*** Un joueur sans l'aide d'équipement ou de magie peut escalader la falaise à la base du rebord de glace avec un jet de Force (Athlétisme) DD 10 réussi.
-
-Quand un joueur atteint le sommet du rebord, lisez :
+Lorsqu'un joueur descend pour la première fois au sol de la caverne, lisez :
 
 <div class="description">
-<p>Le rebord forme une bande déchiquetée de glace et de roche, ombragée par d'immenses glaçons luisants qui pendent du plafond tels des crocs dentelés. Devant, une large fissure dans le rebord de glace forme l'entrée d'une plus grande chambre de pierre.</p>
+<p>Un pouce d'eau glacée éclabousse sous vos bottes, sa surface sombre et ondulante reflétant les pointes distordues et acérées des lourds glaçons suspendus au-dessus.</p>
+<p>À douze mètres sur la droite, une falaise couverte de givre s'élève vers la plate-forme glacée et l'entrée de la caverne qui la surmonte. Trente mètres devant, le sol s'élève doucement pour rejoindre les berges du lac gelé, le ciel gris de Barovia attendant au-delà.</p>
 </div>
 
-Si un joueur regarde dans la chambre ou y entre, lisez :
+***La Plate-forme de Glace.*** Un joueur sans l'aide d'équipement ou de magie peut grimper la falaise à la base de la plate-forme de glace avec un jet de Force (Athlétisme) DD 10 réussi.
+
+Lorsqu'un joueur atteint le sommet de la plate-forme, lisez :
 
 <div class="description">
-<p>Vos narines sont immédiatement assaillies par la puanteur du sang froid, se mêlant au froid mordant de la glace. Une légère brume tourbillonne à travers une dépression peu profonde de six mètres dans la terre gelée, qui se dresse au centre de cette caverne de douze mètres. Les bords du cratère sont bordés d'un assortiment de restes macabres - peaux déchirées, os fissurés et touffes de fourrure sèches et emmêlées. De profondes éraflures entaillent les murs et le sol, laissant un motif de marques sur la pierre et la glace.</p>
-<p>Des objets éparpillés parsèment la chambre : les restes tordus d'armures, des armes brisées et des babioles cassées, dont beaucoup sont à moitié encastrées dans des coquilles glacées. Des pièces d'or, d'argent et autres jonchent le sol, entremêlées de pierres précieuses étincelantes et de tas d'os blancs. Aucun trophée ou bibelot ne décore cependant le cratère, à l'exception d'un petit objet ambré qui gît en son centre.</p>
+<p>Le rebord forme une bande dentelée de glace et de roche, ombragée par d'énormes glaçons luisants qui pendent du plafond comme des crocs dentelés. Devant, une large fissure dans la plate-forme de glace forme l'entrée d'une chambre de pierre plus grande.</p>
 </div>
 
-La tanière contient 3 pm, 107 po, 389 pa, 780 pc, sept azurites de 10 po, trois pierres de sang de 50 po et deux diamants de 100 po. L'objet ambré au centre du cratère est un *éclat d'ambre de Yog l'Invincible* monté sur une corde de chanvre raide.
+Si un joueur regarde à l'intérieur ou entre dans la chambre, lisez :
 
-> [!lore]+ **La Tanière du Shoosuva**
-> Cette caverne est la tanière d'un des **shoosuvas anciens** que les joueurs rencontrent dans [[#R5a. Les Chutes Jumelles]].
+<div class="description">
+<p>Vos narines sont immédiatement assaillies par la puanteur du sang froid, se mêlant au froid mordant de la glace. Une légère brume s'enroule à travers une dépression peu profonde de 6 mètres dans la terre gelée, qui se trouve au centre de cette caverne de 12 mètres. Les bords du cratère sont bordés d'un assortiment de restes macabres—peaux déchiquetées, os fissurés et touffes de fourrure cassantes et emmêlées. De profondes griffures entaillent les murs et le sol, laissant un treillis de marques tant sur la pierre que sur la glace.</p>
+<p>Des objets épars parsèment la chambre : les restes tordus d'armures, des armes brisées et des babioles cassées, dont beaucoup à moitié enfermées dans des coques de glace. Des pièces d'or, d'argent et autres gisent éparpillées sur le sol, entremêlées de pierres précieuses scintillantes et d'amas d'os blancs. Aucun trophée ni bibelot ne décore cependant le cratère—à l'exception d'un petit objet ambré qui repose en son centre.</p>
+</div>
+
+L'antre contient 3 pp, 107 po, 389 pa, 780 pc, sept azurites de 10 po, trois héliotropes de 50 po et deux diamants de 100 po. L'objet ambré au centre du cratère est un *éclat d'ambre de Yog l'Invincible* monté sur un cordon de chanvre rigide.
+
+> [!lore]+ **L'Antre du Shoosuva**
+> Cette grotte est l'antre de l'un des **shoosuva anciens** que les joueurs rencontrent dans [[#R5a. Les Chutes Jumelles]].
 
 > [!abstract]+ **Voyage vers le Lac**
-> Si un joueur se rend de la tanière du shoosuva au lac gelé, il rencontre en chemin un **soldat abandonné** (voir ci-dessous) à moitié enseveli dans un tas de neige, son corps gelé dans le sol glacé jusqu'à la taille.
+> Si un joueur voyage de l'antre du shoosuva jusqu'au lac gelé, il rencontre un **soldat abandonné** (voir ci-dessous) à moitié enterré dans un tas de neige en chemin, son corps gelé dans le sol glacé sous la taille.
 >
-> Si un joueur s'approche à moins de 3 mètres de lui, lisez :
->
-> <hr>
->
-> *Devant vous, vous voyez un tas de chiffons noirs éparpillés au milieu d'un banc de neige.*
+> Si un joueur s'approche à moins de 3 mètres, lisez :
 >
 > <hr>
->
-> Si ce joueur a un score de Sagesse (Perception) passif de 15 ou plus, ajoutez :
->
+> 
+> *Devant vous, vous voyez un tas de haillons noirs éparpillés au milieu d'un banc de neige.*
+> 
 > <hr>
 >
-> *Des bouts de doigts pâles et gelés et un soupçon d'un visage gris et desséché dépassent de la surface de la neige.*
+> Si ce joueur a un score de Sagesse passive (Perception) de 15 ou plus, ajoutez :
 >
 > <hr>
+> 
+> *Des doigts pâles et gelés et la plus infime trace d'un visage gris et desséché dépassent de la surface de la neige.*
+> 
+> <hr>
 >
-> Le soldat, qui porte une vieille épée courte noircie, s'anime et attaque la première créature qui s'approche à moins de 1,5 mètre de lui. Bien que ses jambes soient gelées dans la glace, sa vitesse de déplacement est de 0.
+> Le soldat, qui porte une vieille épée courte noircie, s'anime et attaque la première créature qui s'approche à moins de 1,5 mètre de lui. Tant que ses jambes sont gelées dans la glace, sa vitesse de déplacement est de 0.
 
-***Le Lac Gelé.*** Quand les joueurs arrivent pour la première fois sur les rives du lac, lisez :
+***Le Lac Gelé.*** Lorsque les joueurs arrivent pour la première fois sur les rives du lac, lisez :
 
 <div class="description">
-<p>La glace veinée de givre du lac gelé s'étend devant vous, sa surface parsemée de plusieurs petites îles rocheuses, rocailleuses et couvertes de neige qui s'élèvent de plusieurs mètres au-dessus de la glace en dessous. Au-delà du lac, et au-delà du seuil dentelé de l'ouverture de la caverne, les falaises d'acier du mont Ghakis s'élèvent brusquement contre le ciel gris de Barovia.</p>
+<p>La glace veinée de givre du lac gelé s'étend devant vous, sa surface parsemée de plusieurs petits îlots rocheux et enneigés qui s'élèvent à plusieurs pieds au-dessus de la glace en contrebas. Au-delà du lac, et de l'autre côté du seuil dentelé de la bouche de la caverne, les falaises d'acier du Mont Ghakis s'élèvent brusquement contre le ciel gris de Barovia.</p>
 </div>
 
-Le lac, qui remplit toute la largeur de cette section de la caverne, est recouvert d'<span class="citation">une glace mince (<em>Guide du Maître</em>, p. 111)</span>, à l'exception des rives proche et lointaine, qui sont bordées sur 1,5 mètre de <span class="citation">glace glissante (<em>Guide du Maître</em>, p. 110)</span>. Toute glace mince à la surface du lac a une tolérance de poids de 75 kg.
+Le lac, qui remplit toute la largeur de cette section de la grotte, est recouvert de <span class="citation">glace fine (<em>Guide du Maître de Donjon</em>, p. 111)</span>, à l'exception des rives proches et éloignées, qui sont bordées par 1,5 mètre de <span class="citation">glace glissante (<em>Guide du Maître de Donjon</em>, p. 110)</span>. Toute la glace fine le long de la surface du lac a une tolérance de poids de 75 kilos.
 
-Si un joueur a un score de Sagesse (Perception) passif de 15 ou plus, ajoutez :
+Si un joueur a un score de Sagesse passive (Perception) de 15 ou plus, ajoutez :
 
 <div class="description">
 <p>Vous apercevez plusieurs ombres sombres et immobiles sous la glace de la surface du lac gelé.</p>
 </div>
 
-Les ombres sont treize **guerriers abandonnés** (voir ci-dessous), et sont placées comme représenté sur la carte ci-dessous, avec l'orange représentant la terre ferme, le bleu représentant la glace glissante, le blanc représentant la glace mince, et les étoiles vertes représentant les **guerriers abandonnés** sous la glace :
+Les ombres sont treize **guerriers abandonnés** (voir ci-dessous), et sont placées comme indiqué sur la carte ci-dessous, l'orange représentant la terre ferme, le bleu représentant la glace glissante, le blanc représentant la glace fine, et les étoiles vertes représentant les **guerriers abandonnés** sous la glace :
 
 ![[The Frozen Lake.png]]
 
 > [!info]+ **Glace glissante**
-> Une créature qui rampe sur la glace glissante réussit automatiquement son jet de sauvegarde pour ne pas tomber à terre.
+> Une créature qui rampe sur de la glace glissante réussit automatiquement son jet de sauvegarde contre tomber à terre.
 >
-> Pour sauter d'une case recouverte de glace glissante, une créature doit réussir un jet de Dextérité (Acrobaties) DD 10. En cas d'échec, la créature ne saute que la moitié de la distance et tombe à terre. (Une créature ou un objet qui atterrit sur de la glace mince de cette manière est considéré comme ayant un poids cinq fois plus lourd. Une créature ou un objet qui brise la glace mince émet un bruit fort, comme décrit dans **cascade de glaçons** ci-dessus.)
+> Pour sauter d'une case recouverte de glace glissante, une créature doit réussir un test de Dextérité (Acrobaties) DD 10. En cas d'échec, la créature ne saute que la moitié de la distance et atterrit à terre. (Une créature ou un objet qui atterrit sur de la glace fine de cette manière est traité comme si son poids était cinq fois plus lourd. Une créature ou un objet qui brise la glace fine génère un bruit fort, comme décrit dans **cascade de glaçons** ci-dessus.)
 
-> [!info]+ **Glace mince**
-> Un joueur qui réussit un jet de Sagesse (Nature) DD 13 peut identifier où la glace glissante devient de la glace mince. De plus, un joueur qui réussit un jet de Sagesse (Nature) DD 20 estime avec précision la tolérance au poids de la glace mince.
+> [!info]+ **Glace fine**
+> Un joueur qui réussit un test de Sagesse (Nature) DD 13 peut identifier où la glace glissante se transforme en glace fine. De plus, un joueur qui réussit un test de Sagesse (Nature) DD 20 estime avec précision la tolérance de poids de la glace fine.
 
 > [!info]+ **Eau glaciale**
-> Une créature qui passe à travers la glace subit les effets de <span class="citation">l'eau glaciale (<em>Guide du Maître</em>, p. 110)</span>. Cependant, une créature ne peut être immergée dans l'eau glaciale que pendant un nombre de minutes égal à son modificateur de Constitution, plutôt que son score de Constitution, avant de subir des effets néfastes. (Les créatures immunisées contre l'épuisement, comme un **soldat abandonné**, ne subissent aucun effet dans ce cas.)
+> Une créature qui tombe à travers la glace subit les effets de <span class="citation">l'eau glaciale (<em>Guide du Maître</em>, p. 110)</span>. Cependant, une créature ne peut être immergée dans l'eau glaciale que pendant un nombre de minutes égal à son modificateur de Constitution, plutôt qu'à sa valeur de Constitution, avant de subir des effets néfastes. (Les créatures immunisées contre l'épuisement, comme un **soldat abandonné**, ne subissent aucun effet néfaste de cette immersion.)
 
 > [!abstract]+ **Les empreintes du Shoosuva**
-> Un joueur avec un score de Sagesse (Perception) passif de 10 ou plus qui se tient sur l'une des deux îles les plus au nord remarque que la neige poudreuse à leur surface porte un certain nombre d'énormes empreintes de pattes, chacune plus grande qu'une assiette à dîner. Un jet de Sagesse (Nature) DD 13 réussi identifie les empreintes comme ayant des similitudes superficielles avec des empreintes de canidés et de félidés, avec de profondes marques de griffes, des orteils arrondis et un coussinet central allongé et triangulaire. Avec un résultat de 20 ou plus, le joueur reconnaît que les empreintes ressemblent à celles d'une hyène - mais de taille beaucoup plus grande.
+> Un joueur avec un score de Sagesse (Perception) passive de 10 ou plus qui se tient sur l'une des deux îles les plus au nord remarque que la neige poudreuse sur leurs surfaces porte un certain nombre d'énormes empreintes de pattes, chacune plus grande qu'une assiette. Un test réussi de Sagesse (Nature) DD 13 permet d'identifier que les empreintes présentent des similitudes superficielles avec des empreintes canines et félines, avec des marques de griffes profondes, des orteils arrondis et un coussinet central triangulaire allongé. Sur un résultat de 20 ou plus, le joueur reconnaît que les empreintes ressemblent à celles d'une hyène, mais de taille bien plus imposante.
 >
-> Les empreintes appartiennent à un **shoosuva aîné** (voir [[#R5a. Les Chutes Jumelles]]), qui utilise ces îles pour traverser le lac lorsqu'il quitte ou rejoint son repaire.
+> Les empreintes appartiennent à un **shoosuva ancien** (voir [[#R5a. Les Chutes Jumelles]]), qui utilise ces îles pour traverser le lac lorsqu'il quitte ou retourne à sa tanière.
 
-Les soldats abandonnés attaquent toute créature qui passe à travers la glace. Si un soldat abandonné réussit à saisir un joueur, il tente de le tirer sous l'eau avant de l'attaquer avec son ***épée courte*** ou sa ***lance***. (Voir **eau glaciale** ci-dessus pour plus d'informations sur les effets de l'eau glaciale, ainsi que <span class="citation">Combat sous-marin (<em>Manuel des Joueurs</em>, p. 198)</span> et <span class="citation">Suffocation (<em>Manuel des Joueurs</em>, p. 183)</span> pour plus d'informations sur le combat sous-marin.)
+Les soldats abandonnés attaquent toute créature qui tombe à travers la glace. Si un soldat abandonné réussit à agripper un joueur, il tente de le tirer sous l'eau avant de l'attaquer avec son ***épée courte*** ou sa ***lance***. (Voir **eau glaciale** ci-dessus pour plus d'informations sur les effets de l'eau glaciale, ainsi que <span class="citation">Combat sous-marin (<em>Manuel des Joueurs</em>, p. 198)</span> et <span class="citation">Suffocation (<em>Manuel des Joueurs</em>, p. 183)</span> pour plus d'informations sur le combat sous-marin.)
 
-
-
-> [!info]+ **Soldats Abandonnés**
-> Un **soldat abandonné** a les statistiques d'une **roideffroi**, mais avec les changements suivants :
+> [!info]+ **Soldats abandonnés**
+> Un **soldat abandonné** a les statistiques d'un **nécrophage**, mais avec les changements suivants :
 > * Il n'a aucune résistance aux dégâts.
-> * Il n'a pas de trait **Sensibilité à la lumière du soleil**.
-> * Il n'a pas d'attaque **Drain de vie**.
-> * Remplacez son attaque **Épée longue** par une attaque **Épée courte** (+4 pour toucher, 1d6 + 2 dégâts perforants) ou une attaque **Lance** (+4 pour toucher, 1d6 + 2 dégâts perforants, ou 1d8 + 2 dégâts perforants si utilisée à deux mains).
-> * Remplacez son attaque **Arc long** par la suivante : ***Poing.*** *Attaque d'arme au corps à corps :* +4 pour toucher, allonge 1,5 m, une cible unique. *Touché :* 3 dégâts contondants et la cible est saisie (DD 12 pour se libérer).
+> * Il n'a pas la capacité ***sensibilité à la lumière du soleil***.
+> * Il n'a pas l'attaque ***absorption de vie***.
+> * Remplacez son attaque d'***épée longue*** par une attaque d'***épée courte*** (+4 au toucher, 1d6 + 2 dégâts perforants) ou une attaque de ***lance*** (+4 au toucher, 1d6 + 2 dégâts perforants, ou 1d8 + 2 dégâts perforants si utilisée à deux mains).
+> * Remplacez son attaque d'***arc long*** par ce qui suit : ***Poing.*** *Attaque d'arme au corps à corps :* +4 au toucher, allonge 1,5 m, une créature. *Touché :* 3 dégâts contondants et la cible est agrippée (évasion DD 12).
 >
 > La première fois qu'un joueur voit directement un **soldat abandonné**, lisez :
->
+> 
 > <hr>
 >
-> *Une ombre sombre dérive sous la surface de l'eau : une silhouette squelettique à la chair desséchée et creusée. Sa peau grise pâle colle à ses os comme un drap fin, avec du givre formant des motifs cristallins tordus autour des cavités exposées de son torse. Sa cage thoracique partiellement exposée est visible à travers les interstices de son armure corrodée, les fines côtes brisées étant recouvertes d'une délicate givre.*
+> *Une ombre sombre dérive sous la surface de l'eau : une silhouette squelettique à la chair desséchée et enfoncée. Sa peau grise pâle s'accroche à ses os comme un fin drap, du givre formant des motifs cristallins dentelés autour des cavités exposées de son torse. Sa cage thoracique partiellement exposée est visible à travers les trous de son armure corrodée, les côtes fines et éclatées recouvertes d'un délicat givre.*
 >
-> *Ses mains osseuses, ressemblant à des griffes, sont fermement serrées autour du pommeau d'une vieille lame de fer ébréchée, des cristaux de glace serpentant à travers ses gants de cuir effilochés et nichant sous ses ongles d'un noir de jais. Des lanières de cuir, craquelées et noircies par l'âge, zèbrent son torse, et quelques lambeaux de tissu s'accrochent à son col, leurs couleurs depuis longtemps effacées par le temps.*
+> *Ses mains osseuses, semblables à des griffes, sont fermement serrées autour de la poignée d'une vieille lame de fer ébréchée, des cristaux de glace rampant à travers ses gants de cuir effilochés et se nichant sous ses ongles d'un noir de jais. Des lanières de cuir, craquelées et noircies par le temps, s'entrecroisent sur son torse, et quelques restes de tissu s'accrochent à son col, leurs couleurs depuis longtemps estompées par l'âge.*
 >
-> *Un heaume de bronze à cornes de diable repose sur sa tête, son intérieur en cuir semblant fusionné avec la tête du cadavre par le froid et le temps. Pendant un instant, la silhouette semble dériver paisiblement sous les eaux glaciales, jusqu'à ce que ses yeux s'ouvrent d'un coup, révélant des iris bleus vifs et étonnamment, qui vous fixent d'un regard vide. Avec le faible grincement craquant de la glace qui se brise, elle commence à s'agiter, ses bras osseux se tendant vers vous.*
+> *Un casque de bronze à cornes diaboliques repose sur sa tête, son intérieur en cuir semblant fusionné au crâne du cadavre par le froid et le temps. Pendant un instant, la silhouette semble dériver paisiblement sous les eaux glacées—jusqu'à ce que ses yeux s'ouvrent brusquement, révélant des iris d'un bleu vif et saisissant qui fixent les vôtres. Avec le faible son craquant de la glace qui se brise, elle commence à s'agiter, ses bras osseux tendus vers vous.*
+# R5. Soldav
+## R5a. Les Chutes Jumelles
+Si les joueurs sortent de [[#R4k. Les Grottes de Glace]] via [[#La Grotte des Poignards]], lisez :
 
 <div class="description">
-<p>Le sentier de la falaise continue vers l'est, montant et contournant la base d'un pic enveloppé de nuages avant d'émerger sur un plateau plat et enneigé. Ici, où aucun brouillard n'étouffe l'air, et où l'air est vif et limpide, toute la vallée s'ouvre devant vous.</p>
-<p>Au nord-est, vous voyez les deux éperons jumeaux du Mont Ghakis serpenter dans la vallée, chaque crête sinueuse s'étendant vers les montagnes qui entourent le lointain Château de l'Envol. Entre les deux éperons, une rivière en cascade alimente un lac de montagne gris-tempête niché dans les bras de la montagne, qui, à son tour, alimente une longue rivière décharnée qui serpente autour d'une crête étroite et étroite avant de disparaître de vue.</p>
-<p>Au nord, les marais embrumés de Berez s'accrochent à la rivière Luna comme une tique. À travers le brouillard lointain, le fier manoir d'Argynvostholt domine les plaines inondées en contrebas, son phare brillant d'une lumière féroce et défiant. Au-delà, l'immense étendue du lac Zarovich s'étend sous la base du Mont Baratok, ses eaux sombres et miroitantes alimentées par un quatuor de ruisseaux de montagne qui jaillissent des contreforts boisés du titan.</p>
-<p>Au nord-ouest, au-delà du phare brillant, vous pouvez voir les eaux lointaines du lac Baratok. Plus à l'ouest, au-delà des plateaux enneigés du col de Tsolenka, vous pensez pouvoir tout juste apercevoir un vignoble vallonné à la lisière d'une forêt sombre et voilée.</p>
-<p>D'ici, vous pouvez vraiment les voir pour la première fois : les murs de brume qui s'élèvent à des milliers de mètres au-dessus des terres en contrebas. Ils cernent la vallée de tous côtés, s'étendant jusqu'aux cieux nuageux qui dérivent très, très haut. Même les montagnes semblent petites à côté d'eux - et, sous cet angle, il semble presque que ces murs de brume se penchent vers l'avant, comme pour mieux apercevoir les fourmis qui se déplacent sur la terre loin en dessous.</p>
+<p>Vous émergez de l'entrée de la grotte sur une étroite corniche saupoudrée de neige. Elle serpente autour des falaises vers le sud, disparaissant bientôt au détour d'un virage. Au loin, vous pouvez voir qu'elle rejoint un sentier à flanc de falaise qui longe le bord sud de la montagne.</p>
 </div>
 
-Pause for a moment to allow the players an opportunity to interject. If no player does, or if the players indicate an interest in exploring the plateau, continue:
+Un joueur avec un score de Sagesse (Survie) passif de 12 ou plus reconnaît que le sentier semble aller dans la même direction, et approximativement à la même altitude, que le chemin où ils ont rencontré l'avalanche.
+
+Si les joueurs suivent la corniche jusqu'au sentier, lisez :
 
 <div class="description">
-<p>Au sud, des centaines de mètres en contrebas du pic enveloppé de nuages, et bien en dessous des pentes blanches et austères du point culminant de la montagne, un plateau plat et enneigé d'environ 400 mètres de large s'étend devant vous.</p>
-<p>Un mince ruisseau gelé coupe le plateau en deux, commençant depuis le bord sud et cascadant au-dessus des falaises nord-est, où il descend pour rejoindre le lac de montagne qui l'attend là-bas. D'anciennes ruines bordent le ruisseau de chaque côté : à l'est, un mur délabré de 1,8 mètre marque une fondation rectangulaire en pierre, tandis qu'à l'ouest, une rangée basse de maçonnerie se dresse à côté d'une petite dépression dans le sol marquée par de solitaires bases de pierre.</p>
-<p>Au sud des ruines, le ruisseau gelé se divise, alimenté par deux chutes d'eau gelées qui plongent des falaises loin au-dessus. Entre elles, au-delà des fondations en bois pourri de deux anciens ponts de pierre, se dressent les marches d'un ancien sanctuaire taillé dans la base de la falaise.</p>
+<p>Vous descendez la corniche sinueuse, la neige gelée craquant à nouveau sous vos bottes. Alors que votre chemin rejoint le sentier en contrebas, vous pouvez voir, à un kilomètre et demi derrière vous, un endroit où le chemin a été recouvert par de la neige tombée et des débris, approximativement là où vous vous souvenez que l'avalanche s'est produite.</p>
 </div>
 
-> [!lore]+ **Les ruines**
-> Ces ruines marquent l'endroit où l'Ordre du Dragon d'Argent a jadis établi un poste de traite avec les Premiers Peuples et un avant-poste pour garder le Temple d'Ambre.
->  
-> La fondation rectangulaire à l'est marque le corps de garde principal, qui abritait jadis des quartiers et un foyer pour les chevaliers et les écuyers. La fondation de pierre à l'ouest marque l'écurie des chevaliers, tandis que la dépression à proximité marquait autrefois un hangar de stockage utilisé pour y ranger l'équipement et les provisions.
+Si les joueurs continuent sur le sentier, ou si les joueurs ont échappé à l'avalanche sans chercher refuge dans [[#R4j. Le Repaire des Bodaks]], lisez :
+
+<div class="description">
+<p>Le sentier à flanc de falaise continue vers l'est, s'élevant et contournant la base d'un pic enveloppé de nuages avant de déboucher sur un plateau enneigé et plat. Ici, où aucun brouillard n'étouffe l'air, et où l'air est vif et clair, toute la vallée s'étend devant vous.</p>
+<p>Au nord-est, vous voyez deux contreforts du Mont Ghakis qui serpentent vers la vallée, chaque crête sinueuse s'étendant vers les montagnes qui entourent le Château Ravenloft au loin. Entre les deux contreforts, une rivière cascadante alimente un lac de montagne gris orageux niché dans les bras de la montagne, qui, à son tour, alimente une rivière longue et irrégulière qui serpente autour d'une crête fine et étroite avant de disparaître hors de vue.</p>
+<p>Au nord, les marécages brumeux de Berez s'accrochent à la rivière Luna comme une tique. À travers le brouillard distant, le fier manoir d'Argynvostholt se dresse au-dessus des plaines inondées en contrebas, son phare brillant d'une lumière féroce et défiant. Bien au-delà des deux, la grande étendue du lac Zarovich s'étend sous la base du Mont Baratok, ses eaux sombres et miroitantes alimentées par un quatuor de ruisseaux de montagne qui coulent depuis les contreforts boisés du titan.</p>
+<p>Au nord-ouest, au-delà du phare étincelant, vous pouvez voir les eaux lointaines du lac Baratok. Plus à l'ouest, au-delà des plateaux enneigés du col de Tsolenka, vous pensez pouvoir tout juste distinguer un vignoble ondulant à la lisière d'une forêt sombre et voilée.</p>
+<p>D'ici, vous pouvez vraiment les voir pour la première fois: les murs de brume qui s'élèvent à des milliers de mètres au-dessus du terrain en contrebas. Ils encerclent la vallée de tous côtés, s'étendant jusqu'aux cieux nuageux qui dérivent très, très haut. Même les montagnes semblent petites face à eux—et, de cet angle, il semble presque que ces murs de brume se penchent *en avant*, comme pour mieux apercevoir les fourmis qui se déplacent sur la terre loin en dessous.</p>
+</div>
+
+Faites une pause pour permettre aux joueurs d'intervenir. Si aucun joueur ne le fait, ou si les joueurs manifestent un intérêt pour explorer le plateau, continuez:
+
+<div class="description">
+<p>Au sud, à des centaines de mètres sous le pic enveloppé de nuages au-dessus, et bien en dessous des pentes blanches et austères du point culminant de la montagne, un plateau plat et couvert de neige d'environ 400 mètres de large s'étend devant vous.</p>
+<p>Un mince ruisseau gelé coupe le plateau en deux, commençant depuis le bord sud et cascadant par-dessus les falaises du nord-est, où il descend rejoindre le lac de montagne qui l'attend là-bas. D'anciennes ruines flanquent le ruisseau de chaque côté: à l'est, un mur en ruine de deux mètres marque une fondation rectangulaire en pierre, tandis qu'à l'ouest, une rangée basse de maçonnerie se dresse à côté d'une petite dépression dans la terre marquée par des socles de pierre solitaires.</p>
+<p>Au sud des ruines, le ruisseau gelé se divise, alimenté par deux chutes d'eau gelées qui plongent des falaises loin au-dessus. Entre elles, après les fondations en bois pourri de deux anciens ponts en bois, se trouvent les marches d'un vieux sanctuaire de pierre sculpté dans la base de la face de la falaise.</p>
+</div>
+
+> [!lore]+ **Les Ruines**
+> Ces ruines marquent l'endroit où l'Ordre du Dragon d'Argent a jadis établi un comptoir commercial avec le Premier Peuple et un avant-poste pour garder le Temple d'Ambre.
 >
-> Le sanctuaire, taillé par l'Ordre et les Premiers Peuples ensemble, était dédié à la fois au Seigneur du Matin et aux Trois Dames : le signe du Seigneur du Matin faisant face à l'est, vers le soleil levant, et le signe des Dames faisant face à l'ouest, vers la terre mythique d'où les Dames sont d'abord venues.
-
-
+> La fondation rectangulaire à l'est marque la salle principale, qui fournissait autrefois des quartiers de nuit et un foyer pour les chevaliers et les écuyers. La fondation de pierre à l'ouest marque l'écurie des chevaliers, tandis que la dépression à proximité marquait autrefois un hangar de stockage utilisé pour entreposer équipement et fournitures.
+>
+> Le sanctuaire, qui a été sculpté ensemble par l'Ordre et le Premier Peuple, était dédié à la fois au Seigneur du Matin et aux Trois Dames: le symbole du Seigneur du Matin faisant face à l'est, vers le soleil levant, et le symbole des Dames faisant face à l'ouest, vers la terre mythique d'où les Dames sont venues.
 
 > [!abstract]+ **Le Chemin vers le Temple d'Ambre**
-> L'exploration du périmètre est du plateau révèle un sentier caché, étroit et sinueux qui mène vers le pic sud de la montagne. Si les joueurs trouvent ce sentier, passez à [[#Les Touchés d'Ambre]].
+> L'exploration du périmètre est du plateau révèle un sentier caché, étroit et en lacets qui mène vers le pic sud de la montagne. Si les joueurs trouvent ce sentier, passez à [[#Les Touchés-d'Ambre]].
 
-Un joueur qui inspecte les fondations rectangulaires du corps de logis principal trouve un foyer en ruine encastré dans le seul mur restant, ainsi qu'un assortiment de poutres effondrées pourries formant de longues buttes, un certain nombre de ferrures et de charnières en fer rouillées, et un assortiment de pierres tombées du mur où la neige et le vent ont érodé le mortier les reliant.
+Un joueur qui examine les fondations rectangulaires de la salle principale trouve une cheminée en ruine encastrée dans le seul mur restant, ainsi qu'un assortiment de poutres de bois effondrées et pourries formant de longs monticules, plusieurs ferrures et charnières rouillées, et un assortiment de pierres tombées du mur là où la neige et le vent ont érodé le mortier qui les reliait.
 
-L'inspection de la rangée de maçonnerie révèle quelques trous de poteaux où se tenaient jadis les principaux supports de l'écurie. Il ne reste plus rien du hangar de stockage.
+L'examen de la rangée de maçonnerie révèle quelques trous de poteaux où se dressaient autrefois les supports principaux de l'écurie. Il ne reste rien d'autre de la remise.
 ### Le Sanctuaire
 Lorsqu'un joueur s'approche du sanctuaire, lisez :
 
 <div class="description">
-<p>De l'autre côté du ruisseau gelé, entre et sous les sources des chutes d'eau glacées là-haut, ce petit sanctuaire en pierre semble avoir été taillé dans la falaise de la montagne elle-même. Deux séries d'escaliers montent de chaque côté d'une plateforme pentagonale, qui porte un autel triangulaire pointant vers le sud, au cœur même de la montagne.</p>
-<p>Sur les faces supérieures gauche et droite de la plateforme, une paire de panneaux de pierre lisses de 2,10 mètres de haut s'élève au-dessus de l'autel en dessous. Sur le panneau de gauche, orienté nord-est, le fier signe de l'éclatant soleil du Seigneur du Matin est sculpté dans la pierre. Sur le panneau de droite, orienté nord-ouest, est gravée une étoile à trois branches encerclée d'une série de neuf petites gravures.</p>
-<p>Une série d'empreintes de pas traverse le ruisseau ici, monte les escaliers de droite de la plateforme, puis redescend les escaliers de gauche, continuant sous la chute d'eau de gauche dans la neige.</p>
+<p>De l'autre côté du ruisseau gelé, entre et sous les sources des cascades gelées haut au-dessus, ce petit sanctuaire de pierre semble avoir été taillé dans la paroi même de la montagne. Deux séries d'escaliers montent de part et d'autre d'une plateforme pentagonale, qui supporte un autel triangulaire pointant vers le sud, vers le cœur de la montagne.</p>
+<p>Le long des faces supérieures gauche et droite de la plateforme, une paire de panneaux de pierre lisses de deux mètres s'élève au-dessus de l'autel. Sur le panneau gauche, orienté vers le nord-est, le fier symbole du rayon de soleil du Seigneur du Matin est gravé dans la pierre. Sur le panneau droit, orienté vers le nord-ouest, est gravée une étoile à trois pointes entourée d'une série de neuf petites gravures.</p>
+<p>Des empreintes de pas traversent le ruisseau ici, gravissent les escaliers droits de la plateforme, puis descendent les escaliers gauches, continuant dans la neige sous la cascade de gauche.</p>
 </div>
 
-***L'Autel.*** L'autel de pierre triangulaire est nu. Cependant, un examen attentif de la maçonnerie révèle des motifs de corbeaux et de vignes sculptés dans la moulure. De plus, les trois côtés de l'autel présentent chacun une scène représentant un bosquet d'arbres à trois saisons différentes : bourgeonnant, avec des fleurs en pleine floraison à leurs bases (printemps) ; en pleine croissance verdoyante (été) ; et dénudés, avec des feuilles tombées couvrant les racines en dessous (automne).
+***L'Autel.*** L'autel de pierre triangulaire est nu. Cependant, une inspection minutieuse de la maçonnerie révèle des motifs de corbeaux et de vignes travaillés dans la moulure. De plus, les trois côtés de l'autel présentent trois scènes représentant un bosquet d'arbres durant trois saisons différentes : bourgeonnant, avec des fleurs s'épanouissant à leur base (printemps) ; en pleine croissance verdoyante (été) ; et dénudés, avec des feuilles tombées couvrant les racines en dessous (automne).
 
-Un joueur qui inspecte attentivement les scènes et réussit un jet de Sagesse (Perception) difficulté 12 identifie une araignée parmi les fleurs de la scène de printemps, un loup derrière l'arbre de la scène d'été, et un corbeau perché sur les branches dans la scène d'automne.
+Un joueur qui inspecte attentivement les scènes et réussit un jet de Sagesse (Perception) DD 12 identifie une araignée parmi les fleurs dans la scène du printemps, un loup derrière l'arbre dans la scène de l'été, et un corbeau perché au sommet des branches dans la scène de l'automne.
 
-***Les Empreintes de Pas.*** Les empreintes de pas montent les escaliers de droite, font une pause près de la gravure de l'étoile à trois branches, puis redescendent les escaliers de gauche. Elles continuent sous l'ombre de la chute d'eau de gauche, puis tournent et s'arrêtent à la paroi rocheuse nue à la base de la falaise.
+***Les Empreintes.*** Les empreintes montent par les escaliers de droite, marquent une pause près de la gravure de l'étoile à trois pointes, puis descendent par les escaliers de gauche. Elles continuent sous l'ombre de la cascade de gauche, puis tournent et s'arrêtent à la pierre nue à la base de la falaise.
 
-Un joueur qui réussit un jet de Sagesse (Survie) difficulté 12 discerne que les empreintes sont fraîches - pas plus de six heures - tandis qu'un joueur qui réussit un jet d'Intelligence (Investigation) difficulté 15 peut identifier que la paroi de la falaise dissimule une porte de pierre secrète - et qu'il ne semble y avoir aucun moyen de l'ouvrir de ce côté.
+Un joueur qui réussit un jet de Sagesse (Survie) DD 12 discerne que les empreintes sont fraîches — pas plus de six heures — tandis qu'un joueur qui réussit un jet d'Intelligence (Investigation) DD 15 peut identifier que la paroi de la falaise dissimule une porte secrète en pierre — et qu'il ne semble y avoir aucun moyen de l'ouvrir de ce côté.
 
 > [!info]+ **La Porte Secrète**
-> La porte secrète est l'entrée principale de l'établissement des Gens de la Montagne de Soldav. Cependant, sans l'aide d'une puissante magie, comme un sort de *télékinesie*, elle ne peut être ouverte que de l'intérieur.
+> La porte secrète est l'entrée principale de la colonie des Gens de la Montagne de Soldav. Cependant, sans l'aide d'une magie puissante, comme un sort de *télékinésie*, elle ne peut être ouverte que de l'intérieur.
 
-***Le Signe du Seigneur du Matin.*** Une fine couche de lichen blanc recouvre une grande partie du mur autour du signe du Seigneur du Matin.
+***Le Symbole du Seigneur du Matin.*** Une fine couche de lichen blanc recouvre une grande partie du mur autour du symbole du Seigneur du Matin.
 
-***L'Étoile à Trois Branches.*** Un joueur qui a déjà vu les monuments aux Trois Dames dans [[Arc C - Dans la Vallée]] (près de l'Oseraie), [[Arc I - Les Remparts de Krezk]] ou [[Arc M - Le Manoir du Dragon]] (près de Berez), ou [[Arc J - Le Joyau Dérobé]] (près du Sorcier des Vins), reconnaît l'étoile à trois branches comme étant le même symbole gravé sur chaque monument. (Un joueur reconnaît également le symbole s'il possède [[Character Creation#Harmonie—Le Sceau de Pierre|le sceau de pierre]] relique barovienne, qui porte la même marque.)
+***L'Étoile à Trois Pointes.*** Un joueur qui a déjà vu les monuments aux trois Dames dans [[Arc C - Dans la Vallée]] (près du Vieux Bonegrinder), [[Arc I - Les Murs de Krezk]] ou [[Arc M - Le Manoir du Dragon]] (près de Berez), ou [[Arc J - La Gemme Volée]] (près du Magicien des Vins) reconnaît l'étoile à trois pointes comme étant le même symbole gravé sur chaque monument. (Un joueur reconnaît également le symbole s'il possède [[Création de Personnage#Harmonie—L'Écusson de Pierre|l'écusson de pierre]], relique barovienne qui porte la même marque.)
 
-Contrairement au sigil du Seigneur du Matin, aucun lichen ne couvre l'étoile ou les gravures autour d'elle. Les neuf gravures qui entourent l'étoile des Trois Dames comprennent les caractéristiques animales stylisées suivantes : une toile à huit branches (araignée), une dent recourbée (loup), une plume (corbeau), une patte épaisse et arrondie (ours), un bois (élan), une corne en spirale (chèvre), un œil avec une pupille elliptique fendue (puma), un pied aviaire avec une griffe recourbée et des serres (faucon), et deux touffes pointues (hibou).
+Contrairement au sigil du Seigneur Matinal, aucun lichen ne recouvre l'étoile ou les gravures qui l'entourent. Les neuf gravures qui encerclent l'étoile des Trois Dames comprennent les caractéristiques animales stylisées suivantes : une toile à huit pointes (araignée), un croc recourbé (loup), une plume (corbeau), une patte épaisse et arrondie (ours), un bois (élan), une corne spiralée (chèvre), un œil avec une pupille fendue et elliptique (puma), une patte d'oiseau avec une griffe crochue et des serres (faucon), et deux touffes pointues (hibou).
 
-Un joueur qui réussit un jet de Intelligence (Nature) DD 13 peut associer correctement une caractéristique à son animal ou type correspondant (par exemple, la pupille fendue appartient à un félin, tandis que la griffe recourbée appartient à un oiseau de proie). Un joueur qui inspecte attentivement les gravures et réussit un jet de Sagesse (Perception) DD 13 identifie que la pierre des gravures de la toile, de la dent et de la plume semble beaucoup plus propre, presque polie, comparée aux autres. Sur un résultat de 15 ou plus, le joueur observe également que ces trois gravures portent également de nombreuses petites entailles, comme si elles avaient été impactées par des poids lourds d'innombrables fois au fil des années.
+Un joueur qui réussit un test d'Intelligence (Nature) DD 13 peut correctement associer une caractéristique à l'animal ou au type correspondant (par exemple, la pupille fendue appartient à un félin, tandis que la griffe crochue appartient à un oiseau de proie). Un joueur qui inspecte attentivement les gravures et réussit un test de Sagesse (Perception) DD 13 remarque que la pierre des gravures de la toile, du croc et de la plume semble beaucoup plus propre — presque polie — par rapport aux autres. Sur un résultat de 15 ou plus, le joueur observe également que ces trois gravures portent de nombreuses petites indentations, comme si elles avaient été frappées par des poids lourds d'innombrables fois au fil des années.
 
-> [!info]+ **Bond prodigieux**
-> Si un joueur vole au-dessus du champ de bataille, un barlgura préfère l'attaquer en utilisant sa vitesse d'**escalade** pour gravir la paroi rocheuse, puis utiliser sa capacité de ***bond prodigieux*** pour bondir et l'agripper. (Un barlgura n'utilise son attaque de ***rocher*** que s'il doit frapper un combattant éloigné et ne peut l'atteindre avec sa capacité de ***bond prodigieux***.)
+> [!info]+ **Les Gravures**
+> Les neuf gravures d'animaux entourant l'étoile à trois pointes des Trois Dames constituent un système de "sonnette" codé. Chaque gravure, si frappée par un objet contondant (par exemple, le côté non tranchant d'une hache), crée un son résonnant, bas et distinct qui se répercute à travers la falaise, que le Peuple de la Montagne peut entendre au-delà de la porte secrète.
+>
+> Un personnage peut utiliser son action pour tapoter une séquence de notes en utilisant les gravures sur le mur. La séquence correcte est : toile (représentant l'araignée de la Tisseuse), croc (représentant le loup de la Chasseresse), puis plume (représentant le corbeau de la Chercheuse).
+>
+> Si les membres du Peuple de la Montagne Kalaris, Zia ou Corylla sont présents, ils tapotent rapidement la séquence correcte en utilisant les bords non tranchants de leurs lances ou de leurs grandes haches, respectivement. Ils font ensuite signe aux joueurs de se diriger vers la porte secrète sous la cascade.
 
-Au début du premier round de combat, si les joueurs ont déclenché la cascade de glaçons dans [[#R4k. Les Grottes de Glace]], ils sont également attaqués par deux **shoosuva vénérables**. Lisez :
+> [!abstract]+ **L'Écusson de Pierre**
+> Si un joueur porte la relique barovienne [[Character Creation#Harmony—The Stone Crest|l'écusson de pierre]], celle-ci émet un bourdonnement sourd, libérant un parfum d'aiguilles de pin et de terre. Ce faisant, une faible lumière viridienne émane de la gravure sur sa surface. Si le joueur dirige cette lumière sur les gravures d'animaux, la toile, le croc et la plume semblent miroiter sous sa lueur.
+### Les Touchés-d'Ambre
+Lorsque les joueurs ont commencé à progresser dans la résolution de l'énigme du sanctuaire, mais avant qu'ils ne parviennent à une solution, lisez :
 
 <div class="description">
-<p>Une plainte perçante, gémissante fend l'air, rejointe un instant plus tard par une jumelle semblable. Depuis les falaises ouest, une bête monstrueuse et massive bondit, atterrissant sur le plateau en dessous avec un craquement assourdissant. Elle est bientôt suivie par sa compagne - une autre bête d'apparence et de taille similaires - dont les énormes pattes de la taille d'une assiette fendent la glace sous son poids formidable.</p>
-<p>Chaque bête ressemble à une hyène décharnée et tordue, mais bien plus grande, s'élevant à près de 3,6 mètres au garrot. D'épaisses piques rouge pourpre parcourent leur échine, chacune se terminant par une longue queue lisse et insectoïde parsemée de piques et terminée par un long dard redoutable.</p>
-<p>Des touffes de fourrure sont tombées par grandes plaques sur leur peau, et une lumière jaune malsaine émane de l'espace entre leurs côtes. Alors que chaque fiélon ouvre sa gueule dans un grondement, de longues traînées de salive blanchâtre coulent le long de ses gencives noires, la même lumière jaune brillant sur des rangées de dents jaunes et dentelées. Au-dessus de la gueule de chaque bête, deux yeux cramoisis haineux brillent de faim et d'une rage implacable.</p>
+<p>Un rugissement profond retentit depuis les falaises orientales. Un battement de cœur plus tard, il est suivi par un chœur de quatre mugissements qui font écho.</p>
 </div>
 
-Un shoosuva vénérable a les mêmes statistiques qu'un **shoosuva** ordinaire (<span class="citation">Mordenkainen presents: Monsters of the Multiverse, p. 216</span>), mais avec les changements suivants :
+Les joueurs ont un round pour se préparer avant d'être attaqués par six **barlguras**. Lorsque les barlguras attaquent, lisez :
 
-* Il a une taille de Hugue.
-* Il a une classe d'armure de 16 et 241 (23d12 + 92) points de vie.
+<div class="description">
+<p>Six silhouettes massives semblables à des singes surgissent près des falaises orientales, leur fourrure rouge-orangée souillée de saleté et leurs yeux brillant de fureur primitive. Ils se posent au sol devant vous, leurs corps de 2,4 mètres tremblant de rage tandis que leurs bras massifs martèlent la terre devant eux. La mâchoire inférieure de chaque démon avance à un angle prononcé, avec des rangées de dents limées en haut et en bas encadrées par une paire de longues défenses pointant vers le haut.</p>
+<p>Avec un hurlement perçant, ils chargent vers vous !</p>
+</div>
+
+Demandez aux joueurs de lancer l'initiative. Au combat, chaque barlgura gagne l'option d'action supplémentaire :
+
+* ***Rocher.*** *Attaque d'arme à distance :* +5 pour toucher, portée 9/18 m, une cible. *Touché :* 7 (1d10 + 2) dégâts contondants.
+
+De plus, lorsqu'il utilise sa ***attaque multiple***, un barlgura peut effectuer deux attaques de ***rocher*** au lieu d'attaquer avec sa morsure et ses poings.
+
+> [!info]+ **Bond Prodigieux**
+> Si un joueur vole au-dessus du champ de bataille, un barlgura préfère l'attaquer en utilisant sa vitesse d'**escalade** pour monter sur la paroi rocheuse, puis utiliser sa capacité de ***bond prodigieux*** pour bondir vers lui et l'agripper. (Un barlgura n'utilise son attaque de ***rocher*** que s'il doit toucher un combattant éloigné et ne peut pas l'atteindre avec sa capacité de ***bond prodigieux***.)
+
+Au début du premier round de combat, si les joueurs ont déclenché la cascade de stalactites dans [[#R4k. Les Grottes de Glace]], ils sont également attaqués par deux **anciens shoosuva**. Lisez :
+
+<div class="description">
+<p>Un hurlement perçant et strident déchire l'air, rejoint un instant plus tard par son jumeau. Depuis les falaises occidentales, une bête monstrueuse et massive bondit, atterrissant sur le plateau en contrebas avec un craquement qui fait trembler la terre. Elle est bientôt suivie par sa compagne — une autre bête d'apparence et de taille similaires — dont les énormes pattes, de la taille d'assiettes, brisent la glace sous son poids considérable.</p>
+<p>Chaque bête ressemble à une hyène décharnée et tordue, mais bien plus grande, s'élevant à près de 3,5 mètres au garrot. D'épaisses pointes rouge-violacé courent le long de leur colonne vertébrale, chacune se terminant par une longue queue lisse et insectoïde, parsemée de piques et surmontée d'un long dard à l'aspect maléfique.</p>
+<p>Des touffes de fourrure sont tombées en larges plaques sur leur peau, et une lumière jaune maladive émane de l'espace entre leurs côtes. Lorsque chaque démon ouvre son museau en grognant, de longs filets de salive blanchâtre coulent sur ses gencives noires, la même lumière jaune brillant à travers des rangées de dents jaunes et dentelées. Au-dessus du museau de chaque bête, deux yeux cramoisis et haineux étincellent de faim et de rage implacable.</p>
+</div>
+
+Un ancien shoosuva possède les mêmes statistiques qu'un **shoosuva** ordinaire (<span class="citation">Mordenkainen présente : Les Monstres du Multivers, p. 216</span>), mais avec les modifications suivantes :
+
+* Sa taille est Gigantesque.
+* Il a une Classe d'Armure de 16 et 241 (23d12 + 92) points de vie.
 * Il a une vitesse de 15 mètres.
 * Il a un score de Force de 20 et un score de Constitution de 19.
-* Il a +10 pour toucher, et le DD de son dard de queue est 17.
-* Les dégâts de sa ***morsure*** augmentent à 31 (4d12 + 4) et les dégâts de son dard de queue augmentent à 16 (2d10 + 5) dégâts perforants plus 14 (4d6) dégâts de poison.
-* La portée de sa ***morsure*** augmente à 3 mètres, et la portée de son ***dard de queue*** augmente à 6 mètres.
-* Il gagne l'action supplémentaire suivante : ***Griffes***. *Attaque d'arme au corps à corps* : +10 pour toucher, portée 3 m, une cible. *Touché :* 14 (2d8 + 5) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Force DD 18 ou être repoussée de 1,5 mètre et tomber à terre.
-* Il gagne l'action supplémentaire suivante : ***Nuage fétide (1/jour)***. Le shoosuva expire un nuage de fumée jaune fétide dans un cône de 6 mètres. Chaque créature dans ce cône doit réussir un jet de sauvegarde de Constitution DD 17 ou être empoisonnée jusqu'à la fin du prochain tour du shoosuva. Pendant qu'elle est ainsi empoisonnée, une créature est également aveuglée.
-* Il gagne la réaction supplémentaire : ***Coup de griffe***. *Déclencheur :* Une créature hostile touche ou rate le shoosuva avec une attaque de corps à corps. *Effet :* Le shoosuva fait une attaque de ***Griffes*** contre cette créature.
+* Il a +10 pour toucher, et le DD de son dard caudal est de 17.
+* Les dégâts de sa ***morsure*** augmentent à 31 (4d12 + 4) et les dégâts de son dard caudal augmentent à 16 (2d10 + 5) dégâts perforants plus 14 (4d6) dégâts de poison.
+* La portée de sa ***morsure*** augmente à 3 mètres, et la portée de son ***dard caudal*** augmente à 6 mètres.
+* Il gagne l'action supplémentaire suivante : ***Griffes.*** *Attaque d'arme au corps à corps :* +10 pour toucher, portée 3 m, une créature. *Touché :* 14 (2d8 + 5) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Force DD 18 ou être repoussée de 1,5 mètre et tomber à terre.
+* Il gagne l'action supplémentaire suivante : ***Nuage Fétide (1/jour).*** Le shoosuva exhale un nuage de fumée jaune nauséabonde dans un cône de six mètres. Chaque créature dans ce cône doit réussir un jet de sauvegarde de Constitution DD 17 ou être empoisonnée jusqu'à la fin du prochain tour du shoosuva. Tant qu'elle est empoisonnée de cette façon, une créature est également aveuglée.
+* Il gagne la réaction supplémentaire : ***Balayage.*** *Déclencheur :* Une créature hostile touche ou rate le shoosuva avec une attaque de corps à corps. *Effet* : Le shoosuva effectue une attaque de ***Griffes*** contre cette créature.
 
-Au combat, le barlgura territorial et les shoosuva répartissent leurs attaques entre eux et les joueurs, chaque camp se disputant pour revendiquer les joueurs comme proie et le plateau comme leur territoire.
+En combat, les barlguras et shoosuvas territoriaux répartissent leurs attaques entre eux et les joueurs, chaque camp se disputant les joueurs comme proies et le plateau comme territoire.
 
+> [!info]+ **Ajustements à la Volée**
+> Vous pouvez ajuster les cibles des démons en fonction de la performance des joueurs à tout moment : si les joueurs sont en difficulté, vous pouvez faire en sorte que les démons se prioritisent mutuellement comme cibles ce tour-ci ; si les joueurs s'en sortent trop bien, vous pouvez faire en sorte que les démons les priorisent à la place. Ce faisant, efforcez-vous de présenter le combat comme un bras de fer entre trois factions : deux factions prédatrices concurrentes et une troisième faction de proies que les prédateurs ne veulent pas voir prendre l'avantage.
+### Le Ralliement de Como
+Au fur et à mesure que le combat se déroule, le Peuple de la Montagne ouvre la porte secrète de Soldav à l'initiative 0 du premier round où l'une des conditions suivantes est remplie :
 
-
-> [!info]+ **Ajustements à la volée**
-> Vous pouvez ajuster les cibles des démons en fonction de la façon dont les joueurs s'en sortent à tout moment : si les joueurs ont du mal, vous pouvez faire en sorte que les démons se concentrent sur les attaques les uns contre les autres ce tour-ci ; si les joueurs s'en sortent trop bien, vous pouvez faire en sorte que les démons se concentrent sur les attaques contre eux à la place. Ce faisant, efforcez-vous de donner un sens au combat comme un bras de fer entre trois factions : deux factions de prédateurs en compétition et une troisième faction de proies que les prédateurs ne veulent pas voir prendre l'avantage.
-### Le Rassemblement de Como
-Au fur et à mesure que le combat se déroule, les Gens des Montagnes ouvrent la porte secrète de Soldav au compte d'initiative 0 du premier tour si l'une des conditions suivantes est remplie :
-
-* Les joueurs tapent la séquence de gravures du sanctuaire dans l'ordre correct (araignée, loup, corbeau)
-* Les Gens des Montagnes voient ou entendent que les joueurs sont rejoints par Kalaris, Zia ou Corylla
-* Les Gens des Montagnes voient que les joueurs possèdent la *lance de la Chasseresse*
+* Les joueurs tapent la séquence de sculptures du sanctuaire dans le bon ordre (araignée, loup, corbeau)
+* Le Peuple de la Montagne voit ou entend que les joueurs sont accompagnés de Kalaris, Zia ou Corylla
+* Le Peuple de la Montagne voit que les joueurs possèdent la *lance de la Chasseresse*
 * Au moins la moitié du groupe est inconsciente
 
-Sinon, les Gens des Montagnes interviennent au compte d'initiative 0 du troisième tour de combat.
+Sinon, le Peuple de la Montagne intervient à l'initiative 0 du troisième round de combat.
 
 > [!lore]+ **Les Gardiens de Soldav**
-> Aujourd'hui, la porte de Soldav est gardée par Scorilo des Gens des Montagnes (utilisez les statistiques d'un **gladiateur** avec 120 (16d8 + 48) points de vie et une Intelligence de 14 (+2)), l'un des trois enfants adultes de la cheffe des Gens des Montagnes, Diegia. Il est rejoint dans sa garde par deux **éclaireurs** des Gens des Montagnes.
+> Aujourd'hui, la porte de Soldav est gardée par Scorilo du Peuple de la Montagne (utilisez les statistiques d'un **gladiateur** avec 120 (16d8 + 48) points de vie et une Intelligence de 14 (+2)), l'un des trois enfants adultes de la cheffe du Peuple de la Montagne, Diegia. Il est accompagné dans sa garde par deux **éclaireurs** du Peuple de la Montagne.
 >
-> Suite aux rapports d'arrivée d'étrangers à l'extérieur de Soldav provenant des postes de guet utilisant des trous d'espion sur la falaise au-dessus, le contingent de Scorilo est rejoint par son frère jumeau Como (utilisez les statistiques d'un **gladiateur** avec une Dextérité de 10 (+0), une Sagesse de 15 (+2) et un Charisme de 16 (+3)) et trois des amis **berserkers** de Como. Malgré la méfiance et la paranoïa de Scorilo selon lesquelles les joueurs pourraient être des espions de Strahd ou mettre autrement Soldav en danger, le plus amical Como l'exhorte à faire entrer les joueurs pour leur accorder un abri contre les barlguras et les shoosuvas.
+> Suite aux rapports de l'arrivée d'étrangers à l'extérieur de Soldav, venus des postes de guet utilisant des judas dans la falaise au-dessus, le contingent de Scorilo est rejoint par son frère jumeau Como (utilisez les statistiques d'un **gladiateur** avec une Dextérité de 10 (+0), une Sagesse de 15 (+2) et un Charisme de 16 (+3)) et trois de ses amis **berserkers**. Malgré la suspicion et la paranoïa de Scorilo que les joueurs pourraient être des espions de Strahd ou mettre Soldav en danger d'une autre manière, le plus amical Como le presse de les admettre à l'intérieur pour leur offrir un abri contre le balrgura et le shoosuva.
 >
-> Les compagnons des joueurs (c'est-à-dire Kalaris, Zia ou Corylla), leurs possessions (c'est-à-dire la légendaire *lance de la Chasseresse*), ou leur familiarité avec la foi des Gens des Montagnes (c'est-à-dire leur habileté à résoudre l'énigme des gravures) dictent la facilité avec laquelle Como peut convaincre les gardes de Scorilo d'ouvrir la porte. Como convainc également avec succès les gardes de se rallier à l'extérieur si les joueurs semblent courir un risque clair de mourir face aux barlguras et aux shoosuvas.
+> Les compagnons des joueurs (c'est-à-dire Kalaris, Zia ou Corylla), leurs possessions (c'est-à-dire la légendaire *lance de la Chasseresse*) ou leur familiarité avec la foi du Peuple de la Montagne (c'est-à-dire leur habileté à résoudre l'énigme des sculptures) dictent la facilité avec laquelle Como peut convaincre les gardes de Scorilo d'ouvrir la porte. Como convainc également les gardes de se rallier si les joueurs semblent clairement risquer de mourir face au barlgura et au shoosuva.
 
-> [!profile]+ **Scorilo et Como**
-> **Informations de Rôle**
-> ***Résonance.*** Scorilo devrait inspirer la colère et l'irritation avec sa condescendance et sa méfiance, et l'attachement pour son dévouement obstiné, presque fanatique, à son peuple. Como devrait inspirer l'amusement avec sa personnalité joyeuse et littérale, l'attachement pour sa détermination à prouver qu'il est un combattant aussi digne que ses frères et sœurs, et la gratitude pour sa chaleur et son altruisme réfléchi.
+> [!profile]+ **Scorilo & Como**
+> **Informations de Jeu de Rôle**
+> ***Résonance.*** Scorilo devrait inspirer colère et irritation par sa condescendance et sa suspicion, et attachement par sa dévotion obstinée, presque fanatique, envers son peuple. Como devrait inspirer l'amusement par sa personnalité joviale et littérale, l'attachement par sa volonté de prouver qu'il est un combattant aussi digne que ses frères et sœurs, et la gratitude pour sa chaleur et son altruisme réfléchi.
 >
-> ***Émotions.*** Scorilo ressent le plus souvent de la paranoïa, de la méfiance, de l'irritation, de la fierté, de la colère, de la mélancolie, de l'impatience, de la résignation ou de la réflexion. Como se sent le plus souvent joyeux, curieux, excité, réfléchi ou amusé.
+> ***Émotions.*** Scorilo se sent le plus souvent paranoïaque, méfiant, irrité, fier, en colère, mélancolique, impatient, résigné ou pensif. Como se sent le plus souvent jovial, curieux, excité, pensif ou amusé.
 >
-> ***Motivations.*** Scorilo et Como veulent tous deux protéger Soldav et prouver qu'ils sont dignes de la direction de leur famille sur le Peuple des Montagnes. Scorilo veut prouver sa force afin de prendre sa place aux côtés de sa sœur aînée, Diona, tandis que Como veut prouver à sa mère qu'il est aussi capable que le plus intelligent et le plus fort Scorilo.
+> ***Motivations.*** Scorilo et Como veulent tous deux protéger Soldav et prouver qu'ils sont dignes du leadership familial sur le Peuple de la Montagne. Scorilo veut prouver sa force afin de prendre place aux côtés de sa sœur aînée, Diona, tandis que Como veut prouver à sa mère qu'il est aussi capable que Scorilo, plus intelligent et plus coriace.
 >
 > ***Inspirations.*** En jouant Scorilo, canalisez Geralt de Riv (*The Witcher*), Seto Kaiba (*Yu-Gi-Oh!*) et Vegeta (*Dragon Ball Z*). En jouant Como, canalisez Bolin (*La Légende de Korra*), Steven Universe (*Steven Universe*) et Peter Parker (*Spider-Man*).
 >
-> **Informations sur les Personnages**
-> ***Persona.*** Pour le monde, Scorilo est un guerrier bourru et sans détour, tandis que Como est un combattant amical et jovial. Pour ceux en qui ils ont confiance, Scorilo est un zélote désespéré de protéger son peuple, tandis que Como est un ami réfléchi et créatif. Seul Scorilo connaît la profondeur de son besoin d'éviter de succomber à la faiblesse, tandis que seul Como connaît la profondeur de son besoin de se prouver et d'émerger de l'ombre de sa sœur et de son frère jumeau.
+> **Informations sur le Personnage**
+> ***Personnalité.*** Pour le monde, Scorilo est un guerrier bourru, pragmatique, tandis que Como est un combattant amical et jovial. Pour ceux en qui ils ont confiance, Scorilo est un zélote désespéré de protéger son peuple, tandis que Como est un ami réfléchi et créatif. Seul Scorilo connaît la profondeur de son besoin d'éviter de succomber à la faiblesse, tandis que seul Como connaît la profondeur de son besoin de faire ses preuves et de sortir de l'ombre de sa sœur et de son frère jumeau.
+> 
+> ***Moral.*** Dans un combat, Scorilo et Como s'uniraient volontiers pour se défendre ou défendre leur foyer — bien que Como tenterait d'abord de négocier une paix si cela était possible.
 >
-> ***Moral.*** Dans un combat, Scorilo et Como s'uniraient volontiers pour se défendre ou défendre leur foyer - bien que Como tenterait d'abord de négocier la paix si cela était possible.
->
-> ***Relations.*** Scorilo et Como sont des frères jumeaux, et les plus jeunes enfants de la cheffe du Peuple des Montagnes, Diegia. Leur sœur aînée, Diona, est actuellement au Temple d'Ambre avec un contingent d'amis dignes de confiance, où elle prouve sa valeur pour le poste de cheffe en endurissant les ténèbres et la corruption du Temple.
+> ***Relations.*** Scorilo et Como sont frères jumeaux, et les plus jeunes enfants de Diegia, la chef du Peuple de la Montagne. Leur sœur aînée, Diona, est actuellement au Temple d'Ambre avec un contingent d'amis de confiance, où elle prouve sa valeur pour le poste de chef en endurant l'obscurité et la corruption du Temple.
 
-Quand le Peuple des Montagnes émerge, lisez :
+Lorsque le Peuple de la Montagne émerge, lisez :
 
 <div class="description">
-<p>Le son profond du grincement de la pierre remplit l'air, et la base de la falaise derrière la chute d'eau orientale commence à se déplacer - révélant un tunnel étroit de 3 mètres de large qui plonge dans la pierre de la montagne.</p>
-<p>Trois silhouettes musclées, vêtues de capes en fourrure sombre et de cuir usé et brandissant des haches de pierre, émergent du tunnel, leurs lames brillant faiblement dans la lumière grise. Elles sont suivies d'une paire de silhouettes vêtues de fourrures portant des arcs bandés, leurs visages dissimulés par des charpes sombres.</p>
-<p>À la tête du contingent s'avancent deux hommes grands et aux larges épaules, chacun d'une carrure épaisse et musclée. L'homme à gauche porte une longue cicatrice déchiquetée sur son menton renfrogné, ses épaules drapées dans la peau d'une grande bête et le crâne d'un énorme chien attaché à son épaule comme un garde-épaule. L'homme à droite a un visage plus doux et plus rond, ses cheveux tressés en deux longues nattes épaisses ornées de plumes de corbeau. Malgré leurs légères différences, leurs traits sont par ailleurs presque identiques, chacun portant également une massive lance et un bouclier rond en bois.</p>
-<p>"A nous !" crie l'homme tressé, en brandissant sa lance. "Dans le tunnel ! Nous tiendrons la ligne."</p>
+<p>Le son profond de la pierre grinçante remplit l'air, et la base de la falaise derrière la cascade orientale commence à se déplacer — révélant un tunnel étroit de trois mètres de large qui s'enfonce dans la roche de la montagne.</p>
+<p>Trois silhouettes musclées, vêtues de capes de fourrure sombre et de cuir usé, maniant de grandes haches de pierre, émergent du tunnel, leurs lames scintillant faiblement dans la lumière grise. Elles sont suivies par une paire de silhouettes vêtues de fourrure portant des arcs bandés, leurs visages dissimulés par des foulards sombres.</p>
+<p>À la tête du contingent marchent deux hommes grands et larges d'épaules, chacun à la carrure musclée. L'homme de gauche porte une longue cicatrice dentelée sur son menton renfrogné, ses épaules drapées dans la fourrure d'une grande bête et le crâne d'un molosse énorme attaché à son épaule comme épaulière. L'homme de droite a un visage plus doux et plus rond, ses cheveux tressés en deux longues et épaisses nattes ornées de plumes de corbeau. Malgré leurs légères différences, leurs traits sont par ailleurs presque identiques, chacun portant également une lance massive et un bouclier rond en bois.</p>
+<p>"À nous !" appelle l'homme aux tresses, brandissant sa lance. "Dans le tunnel ! Nous tiendrons la ligne."</p>
 </div>
 
-L'homme balafré est Scorilo, tandis que l'homme tressé est Como. Les silhouettes maniant les haches sont les trois amis **berserkers** de Como, tandis que les deux silhouettes armées d'arcs sont les **éclaireurs** chargés de garder l'entrée du tunnel.
+L'homme à la cicatrice est Scorilo, tandis que l'homme aux tresses est Como. Les silhouettes maniant les grandes haches sont les trois amis **berserkers** de Como, tandis que les deux silhouettes maniant les arcs sont les **éclaireurs** chargés de garder la porte du tunnel.
 
+Dans le combat, Scorilo et Como mènent la charge pour aider les joueurs, avec les berserkers offrant un soutien au corps à corps et les éclaireurs fournissant un tir de couverture depuis l'arrière. Si un berserker est ensanglanté, il se replie rapidement derrière les lignes alliées, puis lance des javelots sur les démons pour aider les joueurs dans leur combat. (Utilisez l'attaque suivante pour les javelots des berserkers : ***Javelot.*** *Attaque d'arme à distance :* +5 pour toucher, allonge 1,5 m et portée 6/18 m, une cible. *Touché :* 6 (1d6 + 3) dégâts perforants ou 7 (1d8 + 4) dégâts perforants si utilisé à deux mains pour une attaque au corps à corps.)
 
+Scorilo et Como ne donnent pas la priorité à l'attaque des démons sauf si (1) un démon à proximité est proche de la mort, ou (2) les joueurs sont clairement en train de gagner le combat. Au lieu de cela, ils s'efforcent d'attirer l'attention des démons, puis prennent l'action Esquive tout en exhortant les joueurs à se replier dans le tunnel. (Scorilo et Como ne veulent pas risquer la vie de leurs compagnons et préféreraient fuir le combat sans aucune perte de vie ou blessures permanentes.)
 
-Au combat, Scorilo et Como mènent la charge pour aider les joueurs, les berserkers offrant un soutien au corps à corps et les éclaireurs offrant un feu de couverture depuis l'arrière. Si un berserker est blessé et affaibli, ils battent rapidement en retraite derrière les lignes amies, puis lancent des lances aux démons pour aider les joueurs dans leur combat. (Utilisez l'attaque suivante pour les lances des berserkers : ***Lance.*** *Attaque d'arme à distance :* +5 pour toucher, portée 1,5 m et portée 6/18 m, une cible. *Touché :* 6 (1d6 + 3) dégâts perforants ou 7 (1d8 + 4) dégâts perforants si utilisée à deux mains pour une attaque de corps à corps.)
+Quand le Peuple des Montagnes arrive, les barlguras et shooshuvas survivants mettent de côté leurs différends et concentrent leurs efforts sur l'attaque des joueurs et de tout membre du Peuple des Montagnes à leur portée. Les barlguras fuient si tous les shooshuvas et au moins la moitié de leur propre nombre ont été tués, et vice-versa.
 
-Scorilo et Como ne priorisent pas l'attaque des démons à moins que (1) un démon proche soit sur le point de mourir, ou (2) les joueurs soient clairement en train de gagner le combat. Au lieu de cela, ils s'efforcent d'attirer l'attention des démons, puis prennent l'action Défense tout en exhortant les joueurs à battre en retraite dans le tunnel. (Scorilo et Como ne sont pas prêts à risquer la vie de leurs compagnons et préfèrent fuir le combat sans aucune perte de vie ou blessure permanente.)
-
-Lorsque les Gens des Montagnes arrivent, tout barlgura et shoosuva survivant mettent de côté leurs différences et concentrent leurs efforts pour attaquer les joueurs et tout Gens des Montagnes à portée. Les barlgura fuient si tous les shoosuva et au moins la moitié de leur propre nombre ont été tués, et vice-versa.
-
-Lorsque tous les Gens des Montagnes et les joueurs sont entrés dans le tunnel, Scorilo ou Como remet la porte secrète en place.
-
+Quand tous les membres du Peuple des Montagnes et les joueurs sont entrés dans le tunnel, Scorilo ou Como fait rouler la porte secrète pour la remettre en place.
 ## R5b. Le Tunnel
-Lorsque les joueurs entrent dans le tunnel secret derrière la chute d'eau gelée, lisez :
+Lorsque les joueurs entrent dans le tunnel secret derrière la cascade gelée, lisez :
 
 <div class="description">
-<p>Ce tunnel de trois mètres de large et deux mètres de haut semble être taillé dans la roche de la montagne elle-même. Sa longueur s'étend sur plus de trente mètres, avec une tache de lumière pâle et grise émanant d'une sortie à l'extrémité.</p>
+<p>Ce tunnel de trois mètres de large et deux mètres de haut semble être taillé dans la pierre de la montagne même. Il s'étend sur plus de trente mètres, avec une tache de lumière grise pâle émanant d'une sortie à l'extrémité opposée.</p>
 </div>
 
-Dès que Scorilo en aura l'occasion, il tentera de plaquer le joueur ayant l'air le plus menaçant contre l'un des murs en utilisant le manche de sa lance. Faites tenter à Scorilo d'immobiliser ce joueur. Que l'immobilisation réussisse ou échoue, Scorilo grogne : "Pourquoi êtes-vous venus ici ? Parlez !"
+Dès que Scorilo en a l'occasion, il tente de plaquer contre l'un des murs le joueur qui semble le plus menaçant en utilisant le manche de sa lance. Faites tenter à Scorilo d'agripper ce joueur. Que l'agrippement réussisse ou échoue, Scorilo grogne : "Pourquoi êtes-vous venus ici ? Parlez !"
 
 > [!abstract]+ **Como le Pacificateur**
-> Si les joueurs montrent un quelconque intérêt à attaquer, les **berserkers** et les **éclaireurs** brandiront et se prépareront à l'attaque. Cependant, avant que toute hostilité n'éclate, Como s'interpose entre les parties hostiles et insiste sur le fait qu'il est sûr qu'ils peuvent "arriver à une entente", ajoutant que "tout ennemi des Maudits d'Ambre est un ami pour nous".
+> Si les joueurs montrent un quelconque intérêt à attaquer, les **berserkers** et les **éclaireurs** brandissent et préparent leurs armes. Avant que les hostilités n'éclatent, cependant, Como s'interpose entre les parties hostiles et insiste sur le fait qu'il est sûr qu'ils peuvent "trouver un arrangement", ajoutant que "tout ennemi des Maudits-par-l'Ambre est notre ami."
 
-Que les joueurs répondent ou non à la question de Scorilo, celui-ci grogne : "Les cieux murmurent de mauvais présages, et vous vous promenez comme des agneaux menés à l'abattoir - des agneaux avec des dagues, peut-être. Peut-être devrions-nous vous interroger correctement, saisir vos armes et vous rejeter dehors pour que la montagne s'occupe de vous."
+Que les joueurs répondent ou non à la question de Scorilo, celui-ci grogne : "Les cieux murmurent de mauvais présages, et vous arrivez en vous pavanant comme des agneaux à l'abattoir—des agneaux avec des dagues, peut-être. Peut-être devrions-nous vous interroger correctement, saisir vos armes et vous rejeter dehors pour que la montagne s'occupe de vous."
 
-Si on le lui demande, Como peut partager les informations suivantes :
+Si on lui demande, Como peut partager les informations suivantes :
 
-* C'est le tunnel menant à Soldav, le dernier bastion des Tauta - que les Baroviens appellent les "Gens des Montagnes", et qui étaient les premiers résidents de la vallée, qu'ils appellent Girvisa (signifiant "vallée fertile").
-* Bien qu'il ne sache pas comment ils sont censés être appelés, les Tauta appellent les démons que les joueurs ont combattus les "maudits d'ambre" - des vestiges de pèlerins qui ont cherché le pouvoir dans la "plaie d'ambre de la montagne" et se sont perdus en elle.
-* Les maudits d'ambre sont devenus plus actifs dernièrement, agissant de manière étrange et insouciante. "D'étranges signes ont été vus dans les cieux, aussi", grogne Scorilo, prenant la parole. "La monture de la Grande Ombre a été vue dans les cieux au-dessus. L'œil du château s'attarde sur le Mont Ghakis. Qui sommes-nous pour dire que ceux-là ne sont pas les mêmes ?"
-
-
+* Ceci est le tunnel vers Soldav, le dernier bastion des Tauta—que les Baroviens appellent le "Peuple des Montagnes", et qui furent les premiers habitants de la vallée, qu'ils appellent Girvisa (signifiant "vallée fertile").
+* Bien qu'il ne sache pas comment ils sont censés s'appeler, les Tauta nomment les démons que les joueurs ont combattus les "maudits-par-l'ambre"—vestiges de pèlerins qui cherchaient le pouvoir de la "blessure d'ambre de la montagne", et s'y sont perdus.
+* Les maudits-par-l'ambre sont devenus plus actifs dernièrement, agissant de façon étrange et imprudente. "Des signes étranges ont également été aperçus dans les cieux", grogne Scorilo, intervenant. "La monture de la Grande Ombre a été vue dans le ciel au-dessus de nous. L'œil du château s'attarde sur le Mont Ghakis. Qui sommes-nous pour dire que ces gens ne sont pas du même acabit ?"
 
 > [!abstract]+ **La Lance de la Chasseresse**
-> Si l'un des joueurs porte *la Lance de la Chasseresse*, tanto Como que Scorilo la reconnaissent immédiatement comme étant la lance légendaire. L'un ou l'autre frère peut partager que cette arme a été volée à leur peuple par le Fléau Cornu, le roi Dostron, il y a plusieurs siècles - bien que Como soit impressionné que les joueurs l'aient trouvée et rapportée, tandis que Scorilo soupçonne que les joueurs l'aient volée ou d'une manière ou d'une autre souillée.  
+> Si l'un des joueurs porte *la Lance de la Chasseresse*, Como et Scorilo la reconnaissent immédiatement comme la lance légendaire. L'un ou l'autre des frères peut révéler que l'arme a été volée à leur peuple par le Fléau Cornu, le Roi Dostron, il y a plusieurs siècles—bien que Como soit impressionné que les joueurs l'aient trouvée et ramenée, tandis que Scorilo soupçonne que les joueurs l'ont volée ou souillée d'une façon ou d'une autre.
 >
-> Si les joueurs posent des questions sur Kavan, le roi Dostron, les Gens de la Forêt ou Strahd, Scorilo exige qu'ils s'expliquent entièrement avant que son peuple ne révèle plus d'informations. Cependant, quelle que soit la réponse que les joueurs pourraient donner, elle est interrompue par l'arrivée du chef Diegia (voir ci-dessous), bien que Como et tout autre Gens de la Montagne amicaux soient ravis de répondre aux questions des joueurs plus tard.
+> Si les joueurs posent des questions sur Kavan, le Roi Dostron, le Peuple de la Forêt ou Strahd, Scorilo exige qu'ils s'expliquent entièrement avant que son peuple ne révèle davantage d'informations. Toute réponse que les joueurs pourraient fournir est cependant interrompue par l'arrivée du Chef Diegia (voir ci-dessous), bien que Como et les autres membres amicaux du Peuple de la Montagne soient heureux de répondre aux questions des joueurs plus tard.
 
-À n'importe quel moment opportun lorsque Scorilo vient de menacer, questionner ou montrer de l'hostilité envers les joueurs, le chef Diegia (utilisez les statistiques d'un **champion**) entre dans le tunnel et le réprimande. Lisez : 
+À tout moment opportun lorsque Scorilo vient de menacer, questionner ou montrer de l'hostilité envers les joueurs, le Chef Diegia (utilisez les statistiques d'un **champion**) entre dans le tunnel et le réprimande. Lisez :
 
 <div class="description">
-<p>Une voix de femme profonde retentit depuis l'extrémité du tunnel. "Ça suffit, Scorilo."</p>
-<p>Une femme grande et musclée s'avance dans le tunnel, sa cape à fourrure attachée avec une broche en bronze poli sertie d'améthystes étincelantes. Ses cheveux sombres striés d'argent retombent en une longue natte serrée, la garde d'une lourde épée à deux mains visible au-delà de ses larges épaules musclées. Elle se déplace avec la grâce d'un prédateur aguerri, ses yeux d'acier perçants mais inflexibles. Deux guerriers vêtus de fourrures portant des haches d'armes l'encadrent de chaque côté, leurs pas résonnant au même rythme que les siens.</p>  
+<p>Une voix de femme profonde résonne depuis l'extrémité du tunnel. "Ça suffit, Scorilo."</p>
+<p>Une femme grande et musclée descend le tunnel d'un pas décidé, sa cape doublée de fourrure attachée par une broche de bronze poli sertie d'améthyste scintillante. Ses cheveux foncés striés d'argent pendent en une longue tresse étroitement enroulée, la garde d'une lourde épée à deux mains visible au-delà de ses épaules épaisses et musclées. Elle se déplace avec la grâce d'un prédateur aguerri, ses yeux d'acier perçants mais inflexibles. Deux guerriers vêtus de fourrure portant des haches de guerre l'encadrent de chaque côté, leurs pas résonnant en rythme avec les siens.</p>
 </div>
 
-Faites une pause pour permettre aux joueurs d'intervenir. Si aucun ne le fait, ou que le chef Diegia est autorisée à s'approcher, continuez :
+Faites une pause pour permettre aux joueurs d'intervenir. Si aucun ne le fait, ou si le Chef Diegia est autorisé à approcher, continuez :
 
 <div class="description">
-<p>La femme s'arrête juste devant votre groupe, son regard croisant celui de Scorilo comme un faucon. "Est-ce ainsi que nous accueillons ceux qui trouvent leur chemin vers Soldav ? Avec des menaces et des haches dégainées ?"</p>
+<p>La femme s'arrête juste devant votre groupe, son regard se verrouillant sur celui de Scorilo comme celui d'un faucon. "Est-ce ainsi que nous accueillons ceux qui trouvent leur chemin jusqu'à Soldav ? Avec des menaces et des haches dégainées ?"</p>
 </div>
 
 À moins que les joueurs n'interrompent ou n'interviennent, la conversation se déroule comme suit :
 
-* Scorilo resserre sa prise sur sa lance, la mâchoire serrée. "Les cieux nous ont montrés de funestes présages, Mère", réplique-t-il. "Des ombres se meuvent là où elles ne le devraient pas, et des étrangers errent où ils n'en ont pas le droit. La prudence n'est pas un crime."
-* Le front de Diegia se plisse, mais sa voix reste calme. "Et la paranoïa n'est pas une force. Tes craintes ne t'excusent pas d'enfreindre nos lois. Como a fait son choix de les amener ici, et si ce choix était une erreur, la montagne le fera comprendre assez tôt."
-* Scorilo expire brusquement, reculant à contrecœur et baissant les yeux. "Très bien", marmonne-t-il, son regard se portant sur les joueurs. "Mais si leurs actes ne correspondent pas à leurs paroles, je serai là."
-* Diegia hoche la tête, puis se tourne vers les joueurs, son expression s'adoucissant bien que ses yeux restent vigilants. "Vous devez pardonner l'... enthousiasme de mon fils", commence-t-elle. "Son œil pour le danger fait de lui un bon guerrier - mais Soldav n'est pas dépourvue d'hospitalité."
+* Scorilo resserre sa prise sur sa lance, la mâchoire serrée. "Les cieux nous ont montré de mauvais présages, Mère," répond-il. "Les ombres se déplacent là où elles ne devraient pas, et des étrangers errent là où ils n'ont pas le droit. La prudence n'est pas un crime."
+* Diegia fronce les sourcils, mais sa voix reste calme. "Et la paranoïa n'est pas une force. Tes craintes ne t'exemptent pas de nos lois. Como a fait son choix de les amener ici, et si ce choix était une erreur, la montagne le fera savoir assez tôt."
+* Scorilo expire brusquement, reculant à contrecœur et baissant les yeux. "Très bien," marmonne-t-il, son regard se posant sur les joueurs. "Mais si leurs actes ne correspondent pas à leurs paroles, je serai là."
+* Diegia hoche la tête, puis se tourne vers les joueurs, son expression s'adoucissant tandis que ses yeux restent vigilants. "Vous devez pardonner l'... enthousiasme de mon fils," commence-t-elle. "Son œil pour le danger fait de lui un excellent guerrier—mais Soldav ne manque pas d'hospitalité."
 
-Le chef Diegia est heureuse d'admettre les joueurs à Soldav et de leur accorder l'hospitalité chez elle, à condition qu'ils acceptent les conditions suivantes :
+Le Chef Diegia est heureuse d'admettre les joueurs à Soldav et de leur accorder l'hospitalité dans sa demeure, tant qu'ils acceptent les conditions suivantes :
 
-* Ils gardent leurs armes et leurs fokis arcanes au fourreau et ne commettent aucune violence envers quiconque dans les murs de Soldav.
+* Ils gardent leurs armes et focaliseurs arcaniques rangés, et n'offrent aucune violence à quiconque se trouve dans les murs de Soldav.
 * Ils se comportent avec honneur et n'offensent personne qui les accueille avec grâce et hospitalité.
 
 > [!lore]+ **Le Secret de Soldav**
-> Le chef Diegia ne craint pas que les joueurs révèlent l'emplacement de Soldav à ses ennemis. Elle sait que les enchantements protecteurs de l'Ancien Burebis - qui agissent comme un sort de *sanctum privé* dans toute la ville et comme un sort de *modifier la mémoire* pour quiconque quitte Soldav avec de mauvaises intentions - garantissent que les joueurs ne pourraient pas trahir Soldav même s'ils le voulaient.
+> Le Chef Diegia ne craint pas que les joueurs puissent révéler l'emplacement de Soldav à ses ennemis. Elle sait que les enchantements protecteurs de l'Ancien Burebis—qui agissent comme un sort de *sanctuaire privé* sur toute la colonie et comme un sort de *modification de mémoire* sur quiconque quitte Soldav avec de mauvaises intentions—garantissent que les joueurs ne pourraient pas trahir Soldav même s'ils le souhaitaient.
 
 Si les joueurs acceptent les conditions de Diegia, elle leur fait signe de la suivre, les guidant dans Soldav.
 
-
-
 > [!abstract]+ **Secrets des Fanes**
-> Si les joueurs expriment un intérêt à en apprendre davantage sur les Fanes de Barovia, Diegia les informe que "l'Ancien Burebis" est le gardien de la mémoire des Fanes. "Il est cependant très âgé", ajoute-t-elle, "et ne recevra pas de visiteurs à moins qu'il ne le souhaite. Si vous le voulez, je peux envoyer un messager à son sanctuaire pour l'informer de votre intérêt."
->
-> Si les joueurs acceptent l'offre de Diegia, elle promet d'envoyer un tel messager à l'Ancien Burebis une fois qu'elle les aura conduits à sa longère.
-## R5c. Vers Soldav
-Lorsque les joueurs entrent à Soldav, lisez :
+> Si les joueurs expriment un intérêt à en apprendre davantage sur les Fanes de Barovie, Diegia les informe que "l'Ancien Burebis" est le gardien de la mémoire des Fanes. "Il est cependant âgé," ajoute-t-elle, "et ne reçoit de visiteurs que s'il le souhaite. Si vous le désirez, je peux envoyer un messager à son sanctuaire pour l'informer de votre intérêt."
+> 
+> Si les joueurs acceptent l'offre de Diegia, elle promet d'envoyer un tel messager à l'Ancien Burebis après les avoir conduits à sa maison longue.
+## R5c. Dans Soldav
+Lorsque les joueurs entrent dans Soldav, lisez :
 
 <div class="description">
-<p>Le tunnel s'ouvre sur un cratère montagneux d'environ 300 mètres de large, ses parois s'élevant abruptement autour de vous comme un bol géant. La neige recouvre le sol en couches douces, brisées par une avenue rocheuse centrale qui se divise en dizaines de petits sentiers et pistes croisés par des empreintes de pas et des traces d'animaux.</p>
-<p>Une vingtaine de huttes en bois émergent de la neige le long des bords du cratère, leurs toits en pente lourdement chargés de givre. Des terrasses surélevées en pierre et en bois, accessibles par d'étroites corniches ou des échelles de bois, donnent accès à d'autres structures taillées dans la roche du cratère lui-même. D'autres terrasses, ensemencées de terre et soigneusement débarrassées de toute neige, accueillent des cultures et des herbes robustes qui poussent avec défi hors de la terre gelée.</p>
-<p>De l'autre côté du cratère, des palissades en bois entourent de petits enclos où quelques chèvres bêlent doucement. La "route" centrale rocheuse et boueuse serpente entre eux, se terminant à une longère plus grande construite contre le côté opposé du cratère. La fumée s'échappe paresseusement de sa cheminée, se dissipant dans une épaisse couche de brouillard blanc qui recouvre le sommet du cratère comme un couvercle.</p>
-<p>Le village bourdonne d'une activité tranquille - mais à votre approche, le rythme de la vie quotidienne ralentit, puis s'arrête. Une jeune fille menant une paire de chèvres vers l'un des enclos se fige, serrant les cordes des animaux avec des yeux écarquillés, tandis qu'un trio d'hommes fendant des bûches baissent leurs haches, se murmurant à voix basse. Un groupe d'enfants qui jouaient sur une terrasse en bois s'immobilisent, puis vous dévisagent avec une fascination intense, tandis qu'un vieil homme aiguisant une lame de fer s'arrête sur le seuil de sa hutte et vous lance un regard méfiant. Au-dessus de vous, une paire d'adolescents en faction vous observent curieusement depuis un échafaudage en bois branlant, un arc court négligemment accroché à l'épaule de chacun d'eux.</p>
+<p>Le tunnel s'ouvre sur un cratère montagneux d'environ trois cents mètres de diamètre, ses parois s'élevant abruptement autour de vous comme un gigantesque bol. La neige recouvre le sol en couches moelleuses, traversées par une avenue centrale rocheuse qui se divise en des dizaines de chemins et sentiers plus petits, entrecroisés d'empreintes de pas et de traces d'animaux.</p>
+<p>Près de deux douzaines de huttes en bois s'élèvent de la neige le long des bords du cratère, leurs toits en pente chargés de givre. Des terrasses surélevées en pierre et en bois, accessibles par d'étroites corniches ou des échelles en bois, donnent accès à des structures supplémentaires taillées dans la roche même du cratère. D'autres terrasses, ensemencées de terre et soigneusement débarrassées de toute neige, accueillent des cultures résistantes et des herbes qui poussent avec défiance dans la terre gelée.</p>
+<p>De l'autre côté du cratère, des palissades en bois encerclent de petits enclos où quelques chèvres bêlent doucement. La "route" centrale rocheuse et boueuse serpente entre eux, se terminant à une grande maison longue construite contre le côté opposé du cratère. La fumée s'élève paresseusement de sa cheminée, disparaissant dans une épaisse couche de brouillard blanc qui recouvre le sommet du cratère comme un couvercle.</p>
+<p>Le village bourdonne d'une activité tranquille—mais à votre approche, le rythme de la vie quotidienne ralentit, puis vacille. Une jeune fille menant une paire de chèvres vers l'un des enclos se fige, serrant les cordes des animaux avec de grands yeux, tandis qu'un trio d'hommes fendant des bûches abaissent leurs haches, murmurant entre eux à voix basse. Un groupe d'enfants jouant sur une terrasse en bois s'arrête, puis vous fixe avec une fascination captivée, tandis qu'un vieil homme aiguisant une lame en fer sur la marche en bois de sa hutte ne vous lance qu'un regard méfiant et silencieux. Au-dessus de vous, une paire de sentinelles adolescentes vous observent avec curiosité depuis un échafaudage en bois branlant, un arc court négligemment suspendu à l'épaule de chaque adolescent.</p>
 </div>
 
-Faites une pause pour permettre aux joueurs de réagir. Si aucun ne le fait, ou au moment opportun, la Chef Diegia hoche la tête ou adresse un sourire rassurant à chaque habitant de Soldav, qui retourne alors à ses tâches.
+Faites une pause pour laisser aux joueurs un moment pour réagir. Si aucun ne le fait, ou à un moment approprié, la Cheffe Diegia adresse un signe de tête ou un sourire rassurant à chaque observateur soldavien, qui retourne alors à ses tâches.
 
-Si on lui pose la question, Diegia ou Como seront heureux de fournir les informations suivantes sur Soldav :
+Si on leur demande, Diegia ou Como sont heureux de fournir les informations suivantes sur Soldav :
 
-* Il y a des siècles, alors que les Tauta n'étaient encore qu'une demi-douzaine de tribus dispersées dans les montagnes de Balinok et les bois en contrebas, Soldav était le centre de leur foi - l'endroit où les esprits des Trois Dames étaient censés résider.
-* Il y a plus de cinq cents hivers cependant, Kavan l'Impitoyable a dérobé la *Lance de la Chasseresse* de son Fanum, a conquis les montagnes de Balinok et a impitoyablement uni les tribus sous sa propre bannière. Il a pris Soldav comme siège de son pouvoir et a exilé les druides qui protestaient contre sa profanation des lieux sacrés des Dames.
-* Lorsque Kavan atteignit ses dernières années, la vallée fut envahie par des étrangers - des hommes portant des lames d'acier et des casques à cornes de diable, menés par celui qu'ils appelaient le roi Dostron le Né-de-l'Enfer. Kavan mourut au combat aux côtés de ses enfants et fut enterré dans un lieu déshonorant, loin des cairns de la Colline de Yester, où tous les chefs Tauta avaient autrefois été enterrés.
-* Lorsque Dostron mourut, ses forces se retirèrent de la vallée, ne laissant derrière elles qu'une forteresse abandonnée au sommet d'une montagne de piliers de pierre au milieu des pics orientaux. Mais à ce moment-là, les guerriers Tauta avaient fait de Soldav leur foyer, tandis que les cercles druidiques autrefois exilés par Kavan s'étaient installés au milieu des arbres et de la terre des forêts en contrebas.
-* Lorsque la Grande Ombre - celui connu sous le nom de Strahd von Zarovich - arriva et construisit son donjon sur les ruines de la forteresse de Dostron, les Tauta s'attendaient à ce qu'il leur apporte le sang et le feu, tout comme il l'avait fait aux ennemis qu'il avait traqués jusqu'à la vallée. Craignant les représailles, les druides des bois approchèrent von Zarovich en secret avec une offre d'échange : sa promesse de protection contre les secrets des lieux de pouvoir des Dames - les trois Fanums. Strahd accepta - et revendiqua bientôt les Fanums pour lui-même avec des rituels profanes de sang et d'ombre.
-* La trahison des druides ébranla les Tauta jusqu'au plus profond d'eux-mêmes ; pour cela, ils furent à jamais exilés de Soldav. Ceux qui restèrent à Soldav devinrent connus du peuple barovien comme les Gens des Montagnes ; ceux qui rejoignirent les druides devinrent connus comme les Gens des Forêts.
-* Depuis lors, les Gens des Montagnes - qui se considèrent comme les vrais Tauta, et les Gens des Forêts comme de misérables serviteurs de la Grande Ombre - sont restés largement à l'intérieur des murs de Soldav, s'aventurant dans les montagnes de Balinok pour se procurer de la nourriture et des fournitures, mais veillant à éviter l'attention de la Grande Ombre. "Le Château et ses serviteurs ignorent l'existence de Soldav", ajoute Diegia en reniflant. "Tant que la Grande Ombre nous croit être des bandes de sauvages disparates grattant la neige pour des miettes, nous restons à l'abri de son attention."
+* Il y a des siècles, alors que les Tauta n'étaient encore qu'une demi-douzaine de tribus dispersées à travers les montagnes Balinok et les forêts en contrebas, Soldav était le centre de leur foi—le lieu où les esprits des Trois Dames étaient censés résider.
+* Il y a plus de cinq cents hivers, cependant, Kavan l'Impitoyable déroba la *Lance de la Chasseresse* de son Sanctuaire, conquit les montagnes Balinok et unit impitoyablement les tribus sous sa propre bannière. Il fit de Soldav son siège de pouvoir et exila les druides qui protestaient contre sa profanation des lieux sacrés des Dames.
+* Lorsque Kavan atteignit ses dernières années, la vallée fut envahie par des étrangers—des hommes qui portaient des lames d'acier et des casques à cornes de diable, menés par celui qu'ils appelaient le Roi Dostron l'Infernal. Kavan mourut au combat aux côtés de ses enfants et fut enterré dans un lieu déshonorant, loin des cairns de la Colline d'Antan, où tous les chefs Tauta avaient autrefois été inhumés.
+* À la mort de Dostron, ses forces se retirèrent de la vallée, abandonnant une forteresse au sommet d'une montagne en forme de pilier parmi les pics orientaux. Cependant, à cette époque, les guerriers des Tauta avaient fait de Soldav leur foyer, tandis que les cercles druidiques jadis exilés par Kavan s'étaient établis parmi les arbres et la terre des forêts en contrebas.
+* Lorsque la Grande Ombre—celui connu sous le nom de Strahd von Zarovich—arriva et construisit sa forteresse sur les ruines de celle de Dostron, les Tauta s'attendaient à ce qu'il déverse le sang et le feu sur eux, comme il l'avait fait pour les ennemis qu'il avait poursuivis jusqu'à la vallée. Craignant des représailles, les druides des bois approchèrent von Zarovich en secret avec une offre d'échange : sa promesse de protection contre les secrets des lieux de pouvoir des Dames—les trois Sanctuaires. Strahd accepta—et bientôt s'empara des Sanctuaires par des rituels profanes de sang et d'ombre.
+* La trahison des druides ébranla les Tauta jusqu'au plus profond d'eux-mêmes ; pour cela, ils furent à jamais exilés de Soldav. Ceux qui restèrent à Soldav devinrent connus du peuple barovien comme le Peuple des Montagnes ; ceux qui rejoignirent les druides devinrent connus comme le Peuple des Forêts.
+* Depuis lors, le Peuple des Montagnes—qui se considère comme les vrais Tauta, et voit le Peuple des Forêts comme de serviles laquais de la Grande Ombre—est resté en grande partie à l'intérieur des murs de Soldav, s'aventurant dans les montagnes Balinok pour recueillir nourriture et provisions, mais veillant à éviter d'attirer l'attention de la Grande Ombre. "Le Château et ses serviteurs ignorent l'existence de Soldav," ajoute Diegia en reniflant. "Tant que la Grande Ombre nous croit être des bandes disparates de sauvages grattant la neige pour trouver des miettes, nous restons à l'abri de son attention."
 
-> [!abstract]+ **Protections de Soldav**
-> Si on lui demande pourquoi les Gens des Forêts n'ont pas conduit Strahd à Soldav, Diegia sourit. "L'exil de Soldav est plus qu'un simple mot. D'anciens enchantements nous protègent de ceux qui voudraient nous faire du mal, purifiant leurs mémoires de l'emplacement de Soldav et obstruant leurs regards pour l'empêcher d'être perçu." (Bien qu'elle ne le dise pas ici, Diegia fait référence aux enchantements entretenus par l'Ancien Burebis, l'antique **géant des tempêtes** résidant dans [[#R5f. Le Sanctuaire de la Rozana]].)
+> [!abstract]+ **Les Protections de Soldav**
+> Si on lui demande pourquoi le Peuple des Forêts n'a pas conduit Strahd à Soldav, Diegia sourit. "L'exil de Soldav est plus qu'un simple mot. D'anciens enchantements nous protègent de ceux qui nous voudraient du mal, effaçant de leurs mémoires l'emplacement de Soldav et empêchant leurs regards de le percevoir." (Bien qu'elle ne le dise pas ici, Diegia fait référence aux enchantements maintenus par l'Ancien Burebis, l'antique **géant des tempêtes** demeurant dans [[#R5f. Le Sanctuaire de la Rozana]].)
 
-Alors qu'ils progressent à travers Soldav, Diegia guide les joueurs vers la grande maison à l'extrémité du cratère - "ma demeure, et notre lieu de rencontre", explique-t-elle. Lorsque les joueurs arrivent à l'extérieur de la grande maison, lisez :
-
-
+Tandis qu'ils traversent Soldav, Diegia guide les joueurs vers la maison longue à l'extrémité du cratère—"ma demeure, et notre lieu de réunion," explique-t-elle. Lorsque les joueurs arrivent devant la maison longue, lisez :
 
 <div class="description">
-<p>La longère se dresse devant vous, ses robustes poutres sombres sous le poids de l'âge et érodées par d'innombrables hivers. D'épaisses poutres en bois encadrent son entrée, leurs surfaces gravées de motifs complexes représentant des loups, des corbeaux et des araignées. Une fumée tourbillonne depuis une cheminée en pierre à l'arrière du bâtiment, apportant avec elle le riche parfum du pin brûlé.</p>
-<p>Deux grands poteaux en bois flanquent l'entrée, chacun sculpté d'un visage attentif de loup à sa base, une toile d'araignée à son centre et un corbeau perché à son sommet. Une faible lueur de lumière chaleureuse s'échappe à travers les interstices de la lourde porte en bois au-delà.</p>
-<p>Le Chef Diegia fait une pause sur le seuil, se tournant vers vous avec un léger signe de tête. "Bienvenue", dit-elle, "dans la maison de ma famille." Elle pousse la porte, laissant la chaude lumière du feu se déverser dans l'air froid au-delà.</p>
+<p>La maison longue se dresse devant vous, ses solides poutres assombries par l'âge et érodées par d'innombrables hivers. D'épaisses poutres encadrent son entrée, leurs surfaces gravées de motifs complexes de loups, corbeaux et araignées. La fumée s'échappe d'une cheminée en pierre à l'arrière du bâtiment, transportant avec elle le riche parfum du pin qui brûle.</p>
+<p>Deux grands poteaux en bois se dressent de part et d'autre de l'entrée, chacun sculpté avec le visage vigilant d'un loup à sa base, une toile d'araignée en son centre et un corbeau perché à son sommet. La faible lueur d'un feu chaleureux s'échappe à travers les jointures de la lourde porte en bois au-delà.</p>
+<p>La Chef Diegia s'arrête sur le seuil, se tournant vers vous avec un léger signe de tête. "Bienvenue," dit-elle, "dans la maison de ma famille." Elle pousse la porte, permettant à la chaude lumière du feu de se déverser dans l'air froid.</p>
 </div>
 
-## R5d. La Longère du Chef
-Lorsque les joueurs entrent dans la longère, continuez :
+## R5d. Maison longue du Chef
+Lorsque les joueurs entrent dans la maison longue, continuez :
 
 <div class="description">
-<p>Vous franchissez la lourde porte en bois, et la chaleur de la longère vous enveloppe comme une couverture, chassant le froid de la montagne de vos os. Ici, la légère odeur de fumée de pin se mêle au parfum de viande rôtie et d'herbes séchées, tandis qu'un feu crépite au centre de la pièce dans un large âtre en pierre, ses braises bondissant et pétillant dans une joyeuse danse tourbillonnante au milieu de la fumée qui s'élève à travers une cheminée centrale.</p>
-<p>Des rangées d'épaisses poutres en bois soutiennent le toit au-dessus, leurs surfaces gravées de motifs et dessins complexes, tandis que des bouquets d'herbes séchées et des gousses d'ail pendent des chevrons. Sur une plateforme surélevée à l'extrémité de la pièce, surplombant un amas de bancs en bois qui entourent le foyer central, se trouve un grand fauteuil en bois richement sculpté drapé de lourdes fourrures d'animaux et flanqué de braseros en pierre qui brûlent de flammes dorées. Au-delà, une tapisserie représentant une vallée de montagne luxuriante est suspendue contre le vieux mur de pierre.</p>
-<p>À gauche, un lourd rideau en laine épaisse pend sur une arche, son bord ondulant légèrement dans le courant d'air. À droite, une porte en bois renforcée se dresse à côté d'une plus petite ouverture encadrée de panneaux de bois sculpté.</p>
+<p>Vous franchissez la lourde porte en bois, et la chaleur de la maison longue vous enveloppe comme une couverture, chassant le froid montagnard de vos os. Ici, le léger parfum de fumée de pin se mêle à l'arôme de viande rôtie et d'herbes séchées, tandis qu'un feu au centre de la pièce crépite dans un large foyer de pierre, ses braises bondissant et éclatant dans une danse joyeuse et spiralée parmi la fumée qui s'élève par une cheminée centrale.</p>
+<p>Des rangées d'épaisses poutres en bois soutiennent le toit au-dessus, leurs surfaces sculptées de motifs et de dessins complexes, tandis que des bouquets d'herbes séchées et des cordes d'ail pendent des chevrons. Sur une plateforme surélevée à l'extrémité de la salle, dominant un ensemble de bancs en bois qui entourent le foyer central, se trouve une grande chaise en bois minutieusement sculptée, drapée de peaux d'animaux épaisses et flanquée de braseros de pierre qui brûlent de flammes dorées. Au-delà, une tapisserie représentant une vallée montagneuse luxuriante est suspendue contre le vieux mur de pierre.</p>
+<p>À gauche, un lourd rideau de laine épaisse pend devant une porte voûtée, son bord oscillant légèrement dans le courant d'air. À droite, une porte en bois renforcée se dresse à côté d'une ouverture plus petite encadrée de panneaux de bois sculptés.</p>
 </div>
 
-Le fauteuil sculpté est le trône du Chef Diegia, depuis lequel elle règle les différends et donne des instructions. Le rideau à gauche mène aux quartiers privés de la famille de Diegia, qui comprennent un petit espace commun meublé d'une table basse entourée de coussins en laine pour les repas ; de plus petits espaces pour dormir meublés de cadres bas en bois recouverts de fourrures ; et un petit sanctuaire usé orné de sculptures de loups, d'araignées et de corbeaux. La porte renforcée mène à une réserve contenant de la nourriture, de l'équipement et des fournitures conservés, tandis que la porte en bois sculpté mène à une plus petite pièce utilisée par Diegia pour rencontrer les anciens du village.
-### L'Attaque de Kaldur !
-Lorsque les joueurs entrent dans la longère ou peu après, Kaldur, le neveu de huit ans de Diegia, tente de sauter des chevrons sur les épaules du plus grand joueur. Lisez :
+La chaise sculptée est le trône de la Chef Diegia, d'où elle règle les différends et donne ses instructions. Le rideau à gauche mène aux quartiers privés de la famille de Diegia, qui comprennent un petit espace commun meublé d'une table basse entourée de coussins de laine pour les repas ; des quartiers plus petits meublés de cadres de lit bas en bois recouverts de fourrures ; et un petit sanctuaire usé orné de sculptures de loups, d'araignées et de corbeaux. La porte renforcée mène à une salle de stockage contenant des aliments conservés, des équipements et des fournitures, tandis que la porte en bois sculptée mène à une pièce plus petite utilisée par Diegia pour rencontrer les anciens du village.
+### Kaldur attaque !
+Au moment où les joueurs entrent dans la maison longue, ou peu après, le neveu de huit ans de Diegia, Kaldur, tente de sauter des chevrons sur les épaules du plus grand joueur. Lisez :
 
 <div class="description">
-<p>Un gloussement résonne d'en haut. Un battement de cœur plus tard, une petite ombre velue plonge des chevrons au-dessus - visant directement vos épaules !</p>
+<p>Un petit rire résonne au-dessus de vos têtes. Un battement de cœur plus tard, une petite ombre poilue plonge des chevrons — visant directement vos épaules !</p>
 </div>
 
-Un joueur avec un score de Sagesse (Perception) passif de 13 ou plus remarque que l'ombre est en fait un petit enfant emmitouflé dans des fourrures, et peut choisir d'éviter l'"attaque piggyback" de Kaldur en réussissant un jet de sauvegarde de Dextérité DD 13. Si un joueur ne remarque pas ou n'évite pas l'"attaque" de Kaldur, ou décline de le faire, lisez :
-
-
+Un joueur avec un score de Sagesse (Perception) passive de 13 ou plus remarque que l'ombre est en fait un petit enfant emmitouflé dans des fourrures, et peut choisir d'éviter "l'attaque à dos" de Kaldur en réussissant un jet de sauvegarde de Dextérité DD 13. Si un joueur ne remarque pas ou n'évite pas "l'attaque" de Kaldur, ou refuse de le faire, lisez :
 
 <div class="description">
-<p>Un poids lourd tombe carrément sur vos épaules avec un <em>bam !</em>, immédiatement suivi d'un rire joyeux. L'ombre - un jeune garçon d'à peine huit ans, emmitouflé dans des fourrures et arborant un large sourire déterminé - vous enlace la tête contre sa poitrine, ses cheveux hirsutes rebondissant tandis qu'il s'accroche fermement à son perchoir.</p>
-<p>"Vous êtes le prisonnier du Loup de Soldav !" hurle-t-il. Il brandit une dague de bois émoussée taillée à la main et pousse un cri joyeux. "Rendez-vous, étranger !"</p>
+<p>Un poids lourd tombe carrément sur vos épaules avec un <em>boum !</em>, suivi immédiatement d'un rire espiègle. L'ombre — un jeune garçon d'à peine huit ans, emmitouflé dans des fourrures et arborant un large sourire déterminé — serre votre tête contre sa poitrine, ses cheveux hirsutes rebondissant tandis qu'il s'agrippe fermement à son perchoir.</p>
+<p>"Tu es le prisonnier du Loup de Soldav !" hurle-t-il. Il brandit un poignard de bois taillé et émoussé dans sa main et pousse des cris de joie. "Rends-toi, étranger !"</p>
 </div>
 
-Si un joueur a remarqué et évité avec succès l'"attaque" de Kaldur, lisez ceci :
+Si un joueur remarque et évite avec succès l'"attaque" de Kaldur, lisez plutôt :
 
 <div class="description">
-<p>L'ombre tombe au sol comme une pierre, frappant le sol en bois dur avec un cri.</p>
-<p>"Aïe !" crie l'ombre - un jeune garçon d'à peine huit ans, emmitouflé dans des fourrures - en serrant un genou contre sa poitrine tandis que ses cheveux hirsutes retombent sur son visage. "Tu n'étais pas censé faire ça !"</p>
+<p>L'ombre tombe au sol comme une pierre, heurtant le plancher dur avec un cri.</p>
+<p>"Aïe !" s'écrie l'ombre — un jeune garçon d'à peine huit ans emmitouflé dans des fourrures — serrant un genou contre sa poitrine tandis que ses cheveux hirsutes tombent sur son visage. "Tu n'es pas censé faire ça !"
 </div>
 
-Kaldur, qui se fait appeler le "Loup de Soldav", s'attache à tout joueur qui accepte de jouer son rôle de "prisonnier" (s'il réussit à atterrir sur un joueur). Et il est reconnaissant, bien que boudeur, envers tout joueur qui soigne avec compassion la bosse sur son genou (s'il atterrit sur le sol à la place).
+Kaldur, qui se fait appeler le "Loup de Soldav", s'attache à tous les joueurs prêts à jouer le jeu de sa fausse capture (s'il réussit à atterrir sur un joueur), et est bougon mais reconnaissant envers les joueurs qui s'occupent avec compassion du bleu sur son genou (s'il atterrit sur le sol à la place).
 
 > [!lore]+ **Les parents de Kaldur**
-> Il y a sept ans, les parents de Kaldur - Zia, la sœur cadette de Diegia, et son mari Tarbus - ont été tués par un **armanite** ambré alors qu'ils chassaient du gibier sauvage le long de la montagne. Scorilo, alors âgé de seize ans, fut le seul survivant, poussé par Zia dans un profond ravin enneigé, hors de portée de l'armanite, après avoir initialement refusé de fuir.
->
-> Depuis lors, Diegia a élevé son neveu Kaldur comme son propre fils. Bien que Kaldur ne se souvienne pas bien de ses parents, il visite occasionnellement leurs tombes à la limite ouest du village.
+> Il y a sept ans, les parents de Kaldur — la jeune sœur de Diegia, Zia, et son mari, Tarbus — ont été tués par un **armanite** touché par l'ambre alors qu'ils chassaient du gibier sauvage le long de la montagne. Scorilo, alors âgé de seize ans, fut le seul survivant, poussé par Zia dans un ravin profond rempli de neige hors de portée de l'armanite après qu'il ait initialement refusé de fuir.
+> 
+> Depuis, Diegia a élevé son neveu Kaldur comme son propre fils. Bien que Kaldur ne se souvienne pas bien de ses parents, il visite parfois leurs tombes le long de la bordure occidentale du village.
 
-Alors que la rencontre des joueurs avec Kaldur se déroule, Diegia soupire d'exaspération feinte, se frottant les tempes en le réprimandant pour avoir "tendu une embuscade à nos invités". ("Un chasseur avisé attaque toujours par embuscade !" rétorque Kaldur, bombant le torse et brandissant sa dague de bois.) Un joueur avec un score de Sagesse (Perspicacité) passif de 13 ou plus remarque que Diegia sourit avec tendresse malgré elle, malgré ses réprimandes.
-### L'enquête d'Oroles
-Alors que la rencontre des joueurs avec Kaldur touche à sa fin, le mari de la chef Diegia, Oroles, entre dans la pièce depuis leurs quartiers privés. Lisez :
+Alors que la rencontre des joueurs avec Kaldur se déroule, Diegia soupire avec une exaspération feinte, se frottant les tempes tout en le réprimandant pour "avoir tendu une embuscade à nos invités". ("Un chasseur avisé attaque toujours en embuscade !" rétorque Kaldur, bombant le torse et brandissant son poignard de bois.) Un joueur avec un score de Sagesse (Perspicacité) passive de 13 ou plus remarque que Diegia sourit affectueusement malgré elle, en dépit de ses réprimandes.
+### L'interrogation d'Oroles
+Alors que la rencontre des joueurs avec Kaldur touche à sa fin, le mari du Chef Diegia, Oroles, entre dans la pièce depuis les quartiers privés de leur famille. Lisez :
 
 <div class="description">
-<p>Le rideau de laine à côté du rideau gauche remue, et une montagne d'homme en émerge. Il est large d'épaules et musculeux, d'une hauteur nettement supérieure à 1,80 m, avec une barbe hirsute noire striée de gris qui descend jusqu'à sa poitrine. Ses joues rougeaudes sont cependant ridées par les marques de vieux sourires, et ses yeux bleus sont brillants et chaleureux.</p>
-<p>"C'est Diona ?" demande-t-il en se faufilant sous le seuil. Son regard se pose sur vous, et le large sourire plein d'espoir sur son visage s'apaise en un sourire plus discret et plus sobre. "Ah. Je vois que nous avons des invités."</p>
+<p>Le rideau de laine à côté du rideau gauche s'agite, et une montagne humaine fait son entrée. C'est un homme aux épaules larges et musclé, d'une taille visiblement supérieure à 1,80 mètre, avec une barbe noire hirsute striée de gris qui descend jusqu'à sa poitrine. Ses joues rougeaudes, cependant, sont plissées par les rides de vieux sourires, et ses yeux bleus sont vifs et chaleureux.</p>
+<p>"Est-ce Diona ?" demande-t-il en se baissant pour passer le seuil. Son regard se pose sur vous, et le sourire plein d'espoir sur son visage laisse place à un sourire plus discret et plus retenu. "Ah. Je vois que nous avons des invités."</p>
 </div>
 
-Diegia est heureuse de présenter les joueurs à son mari, Oroles (utilisez les statistiques d'un **gladiateur**), dont les traits sont visiblement similaires à ceux de Como et Scorilo. Un joueur qui réussit un jet de Sagesse (Perspicacité) de DD 12 discerne qu'Oroles, bien qu'il fasse de son mieux pour paraître amical, semble déçu par l'identité des joueurs.
+Diegia est heureuse de présenter aux joueurs son mari, Oroles (utilisez les statistiques d'un **gladiateur**), dont les traits sont visiblement similaires à ceux de Como et Scorilo. Un joueur qui réussit un test de Sagesse (Perspicacité) DD 12 discerne qu'Oroles, bien qu'il fasse de son mieux pour paraître amical, semble déçu par l'identité des joueurs.
 
-Diegia, Oroles ou l'un de leurs fils peuvent partager les informations suivantes à la demande des joueurs :
+Diegia, Oroles, ou l'un de leurs fils peuvent partager les informations suivantes à la demande des joueurs :
 
+* Diona est la fille aînée d'Oroles et Diegia, et l'héritière qui héritera du titre de chef de Diegia.
+* Pour prouver sa force, sa sagesse et sa volonté, Diona a entrepris un voyage vers les Salles de l'Ombre d'Ambre—le nom donné par le Peuple de la Montagne au Temple d'Ambre—où, accompagnée de trois compagnons de confiance, elle doit méditer sur la nature du leadership sans succomber aux ténèbres qui y résident.
+* Diona est partie pour les Salles il y a trois jours et doit revenir dans trois jours, conformément aux exigences du rite. ("Trois jours pour le passé, et trois jours pour l'avenir," médite Diegia avant de réprimander Oroles pour avoir oublié combien de temps sa fille serait absente. "Sûrement," note-t-elle sèchement, "tu n'as pas oublié mon propre rite de passage dans les Salles d'Ambre." "Comment pourrais-je oublier?" répond Oroles avec un sourire ébréché, enroulant ses bras autour de ses épaules. "Tu n'as failli me tuer que deux fois.")
+* Les Tauta ont habité à l'ombre du Temple d'Ambre aussi loin que remontent les souvenirs de leur peuple. "Nos histoires orales remontent à plus de mille ans," médite Diegia, "mais aussi loin que nous nous souvenions, les Salles de l'Ombre d'Ambre se sont dressées au sommet du pic jumeau de Soldav, abandonnées depuis longtemps par le peuple qui les a autrefois érigées."
 
+Si les joueurs manifestent un intérêt pour se rendre au Temple d'Ambre, Diegia les avertit que les Salles de l'Ombre d'Ambre abritent des dangers profonds et terribles, dont les touchés-par-l'ambre—comme les démons que les joueurs ont affrontés à l'extérieur des murs de Soldav—sont les moindres. "L'attrait de l'ambre plane depuis longtemps sur ces montagnes," dit-elle, "son chant est un murmure mielleux qui attire les fous et les insensés de tous les coins de la vallée—et même au-delà des Brumes elles-mêmes."
 
-* Diona est la fille aînée d'Oroles et Diegia, et l'héritière du siège de chef de Diegia.
-* Pour prouver sa force, sa sagesse et sa volonté, Diona a entrepris un voyage vers les Salles de l'Ombre d'Ambre - le nom que les Gens de la Montagne donnent au Temple d'Ambre - où, accompagnée de trois compagnons de confiance, elle doit méditer sur la nature du leadership sans succomber aux ténèbres qui y résident.
-* Diona est partie pour les Salles il y a trois jours, et doit revenir dans trois jours, conformément aux exigences du rite. ("Trois jours pour le passé, et trois jours pour l'avenir", muse Diegia avant de réprimander Oroles pour avoir oublié combien de temps sa fille serait partie. "Sûrement", note-t-elle sèchement, "tu n'as pas oublié mon propre rite de passage dans les Salles d'Ambre". "Comment pourrais-je oublier ?" répond Oroles avec un sourire ébréché, enroulant ses bras autour de ses épaules. "Tu as failli me tuer deux fois seulement".)
-* Les Tauta ont vécu dans l'ombre du Temple d'Ambre aussi loin que leur peuple s'en souvienne. "Nos histoires parlées remontent à plus d'un millier d'années", muse Diegia, "mais depuis aussi longtemps que nous nous en souvenions, les Salles de l'Ombre d'Ambre se dressent au sommet du pic jumeau de Soldav, abandonnées depuis longtemps par le peuple qui les a jadis érigées."
+Si les joueurs demandent à Diegia des informations sur le Temple d'Ambre, elle refuse de partager ce qu'elle sait à moins qu'ils ne partagent d'abord leurs raisons de s'y rendre et réussissent un test de Charisme (Persuasion ou Tromperie) DD 15. (Le DD diminue à 5 si les joueurs partagent honnêtement qu'ils se rendent au Temple à la recherche d'une arme capable de vaincre Strahd.) En cas de réussite, Diegia promet de partager ce qu'elle sait avant que les joueurs ne quittent Soldav.
+### L'invitation de Diegia
+À un moment approprié après avoir accueilli les joueurs dans la maison longue, Diegia les invite expressément à passer la nuit en tant qu'invités à son foyer, ajoutant : "Vous pouvez poser vos sacs de couchage près de notre feu, partager notre viande et notre hydromel, et être assurés qu'aucun mal ne vous sera fait à l'intérieur de nos murs." Si les joueurs acceptent, elle se tourne vers Como et Scorilo (s'ils sont présents) ou Oroles et leur demande de préparer des places pour les joueurs près du foyer après le repas du soir.
 
-Si les joueurs manifestent un intérêt à se rendre au Temple d'Ambre, Diegia les avertit que les Salles de l'Ombre d'Ambre abritent des dangers profonds et terribles, dont les touchés par l'ambre - comme les fiélons que les joueurs ont affrontés devant les murs de Soldav - sont les moindres. "L'attrait de l'ambre a longtemps plané sur ces montagnes", dit-elle, "son chant est un murmure miellé qui attire les fous et les insensés de tous les coins de la vallée - et même au-delà des Brumes elles-mêmes."
+Si les joueurs ont demandé à Diegia des informations sur les Fanes, ou s'ils le font maintenant, elle demande à Kaldur (s'il ne s'est pas blessé à la jambe, ou si sa jambe a été guérie) ou à Como d'informer l'Ancien Burebis que des étrangers souhaitent le voir. Après s'être brièvement plaint, Kaldur jette un dernier regard timide vers les joueurs avant de filer par la porte d'entrée. (Après son départ, le messager de Diegia se dirige vers [[#R5f. Le Sanctuaire des Rozana]], où il informe l'Ancien Burebis de l'arrivée des joueurs. Le messager revient à la maison longue de Diegia peu avant [[#Le Foyer]].)
 
-Si les joueurs demandent à Diegia des informations sur le Temple d'Ambre, elle refuse de partager ce qu'elle sait à moins qu'ils ne partagent d'abord leurs raisons de s'y rendre et réussissent un jet de Charisme (Persuasion ou Tromperie) de DD 15. (Le DD diminue à 5 si les joueurs partagent honnêtement qu'ils se rendent au Temple à la recherche d'une arme capable de vaincre Strahd.) En cas de succès, Diegia promet de partager ce qu'elle sait avant que les joueurs ne quittent Soldav.
-
-
+Diegia informe en outre les joueurs qu'ils sont arrivés "en une occasion propice"—lors de la célébration annuelle de la Nuit des Cieux Clairs. Diegia refuse de partager plus d'informations sur cette fête, mais promet aux joueurs avec un sourire qu'ils recevront une éducation complète pendant les festivités du soir.
 
 > [!lore]+ **La Nuit des Cieux Clairs**
-> La Nuit des Cieux Clairs est une fête annuelle célébrant l'ancienne victoire des Trois Dames sur le Dévoreur - une vague vivante de brume tourbillonnante et obscure qui a cherché à engloutir la vallée il y a des milliers d'années, et dont le Mur Chuchotant près de la Colline d'Hier est le seul vestige.
+> La Nuit des Cieux Clairs est une fête annuelle célébrant l'ancienne victoire des Trois Dames sur le Dévoreur—une marée vivante de brouillard ombragé et tourbillonnant qui cherchait à engloutir la vallée il y a des milliers d'années, et dont le Mur Murmurant près de la Colline d'Antan est le seul vestige.
 >
-> Aucun des Gens des Montagnes ne sait que le Dévoreur était, en réalité, le Rêveur - la quatrième sœur des Dames des Fanes, dont l'envie envers le culte rendu à ses sœurs aînées l'a poussée à rechercher le pouvoir de la Mère Nuit et l'a transformée en Dévoreur - ou que le vestige du Dévoreur a ensuite été scellé dans un sarcophage d'ambre dans le Temple d'Ambre et, plus récemment, transplanté dans le Cœur de la Souffrance au Château de l'Envol par Strahd.
-
+> Aucun des Montagnards ne sait que le Dévoreur était, en vérité, la Rêveuse—la quatrième sœur des Dames des Temples, dont la jalousie pour la vénération de ses sœurs aînées l'a poussée à rechercher le pouvoir de la Mère Nuit et l'a transformée en Dévoreur—ou que le vestige du Dévoreur a ensuite été scellé dans un sarcophage d'ambre dans le Temple d'Ambre et, plus récemment, transplanté dans le Cœur du Chagrin au Château Ravenloft par Strahd.
 ## R5e. La Nuit des Cieux Clairs
-À la tombée de la nuit, les Gens des Montagnes se rassemblent dans la longue maison du chef Diegia pour célébrer la Nuit des Cieux Clairs. Lisez :
+À la tombée de la nuit, les Montagnards se rassemblent dans la grande maison du Chef Diegia pour célébrer la Nuit des Cieux Clairs. Lisez :
 
 <div class="description">
-<p>Alors que le crépuscule descend, la longue maison commence à se remplir des gens de Soldav. Sous la supervision du chef Diegia, de longues tables en bois sont apportées et installées près de l'âtre central, où les flammes dorées projettent des ombres dansantes sur les poutres sculptées au-dessus. Des villageois de tous âges affluent, apportant des paniers de fruits confits, de viandes fraîchement fumées et de pains de seigle fumants.</p>
-<p>Il ne faut pas longtemps avant que les rires et les conversations ne remplissent la salle centrale de la longue maison, avec plus d'une centaine de Gens des Montagnes occupant les tables autour de la chaude lueur de l'âtre. L'arôme savoureux de la viande rôtie se mêle au parfum sucré de l'hydromel, tandis que les villageois se passent des plateaux en bois chargés de nourriture. Des enfants courent entre les tables, leurs rires aigus se mêlant aux mélodies des flûtes de Pan, des flûtes et des tambours battants.</p>
-<p>Le trône en bois du chef Diegia est déplacé, laissant la place à une longue table basse en bois entourée d'une douzaine de coussins en laine. Vous vous retrouvez appelés vers elle, rejoignant la famille de Diegia alors qu'ils prennent place sur l'estrade dominant la salle.</p>
+<p>Alors que le crépuscule descend, la grande maison commence à se remplir des habitants de Soldav. Sous la supervision du Chef Diegia, de longues tables en bois sont apportées et installées près du foyer central, où les flammes dorées projettent des ombres dansantes sur les poutres sculptées au-dessus. Des villageois de tous âges affluent, apportant des paniers de fruits conservés, de viandes fraîchement fumées et des miches de pain noir fumantes.</p>
+<p>Il ne faut pas longtemps avant que les rires et les conversations emplissent la salle centrale de la maison longue, avec plus d'une centaine de Montagnards remplissant les tables autour de la lueur chaleureuse du foyer. L'arôme savoureux de la viande rôtie se mêle au parfum sucré de l'hydromel miellé tandis que les villageois se passent des plateaux en bois chargés de nourriture. Les enfants se faufilent entre les tables, leurs rires stridents se mêlant aux mélodies des flûtes de Pan, des flûtes et des tambours battants.</p>
+<p>Le trône en bois du Chef Diegia est mis de côté, faisant place à une longue table basse en bois entourée d'une douzaine de coussins de laine. Vous vous retrouvez conviés à vous y rendre, rejoignant la famille de Diegia qui prend place sur l'estrade dominant la salle.</p>
 </div>
-
 ### Le Gardien des Voix
-Alors que le festin se déroule, Oroles se lève de son siège aux côtés de Diegia, s'excuse et disparaît derrière le lourd rideau de laine vers les quartiers privés de la famille. (Si on le lui demande, Diegia ou sa famille partagent seulement qu'Oroles - le Gardien des Voix de la tribu - se "prépare" pour sa part dans les festivités.) Quelques minutes plus tard, Oroles revient dans la salle principale. Lisez :
+Au cours du festin, Oroles se lève de son siège aux côtés de Diegia, s'excuse et disparaît derrière le lourd rideau de laine menant aux quartiers privés de la famille. (Si on leur demande, Diegia ou sa famille révèlent seulement qu'Oroles—le Gardien des Voix de la tribu—"se prépare" pour son rôle dans les festivités.) Quelques minutes plus tard, Oroles revient dans la salle principale. Lisez :
 
 <div class="description">
-<p>Le rideau s'écarte - et, alors que la silhouette massive d'Oroles émerge à nouveau dans la pièce, un silence tombe sur le brouhaha du festin.</p>
-<p>Un long bâton gravé de runes est serré dans sa main gauche, son bois poli gravé de symboles qui semblent scintiller faiblement à la lueur du feu. À chaque pas en avant, il frappe le sol d'un profond <em>thunk</em> résonnant, envoyant des échos à travers l'antique salle.</p>
-<p>Ses larges épaules sont drapées d'une lourde cape de fourrure de loup noir, sa robe brillante retombant lourdement dans son dos tandis que la tête du loup repose sur son épaule comme une sentinelle, ses yeux sans vie semblant scruter la pièce d'un air protecteur. Son visage est peint de traînées blanches et cramoisies, le blanc traçant des lignes sur son front et ses pommettes, et le cramoisi descendant du haut de son nez le long de sa mâchoire en motifs veineux et déchiquetés.</p> 
-<p>Juché sur sa tête, un couvre-chef façonné à partir du crâne blanchi d'un puissant élan, ses andouillers déchiquetés et déployés s'étirant haut au-dessus de lui et projetant de longues ombres anguleuses sur les murs de la longue maison. Des rangées de perles, de plumes et d'obsidienne scintillante les ornent, se balançant doucement alors qu'il s'immobilise à côté du feu.</p>
+<p>Le rideau s'écarte—et, alors que la silhouette imposante d'Oroles réapparaît dans la pièce, un silence tombe sur le vacarme du festin.</p>
+<p>Un long bâton gravé de runes est serré dans sa main gauche, son bois poli gravé de symboles qui semblent légèrement miroiter à la lueur du feu. À chaque pas en avant, il frappe le sol avec un profond et résonnant <em>thunk</em>, envoyant des échos à travers l'ancienne salle.</p>
+<p>Ses larges épaules sont drapées d'un lourd manteau de fourrure de loup noir, sa fourrure luisante tombant lourdement sur son dos tandis que la tête du loup repose sur son épaule comme une sentinelle, ses yeux sans vie semblant scruter la salle avec protection. Son visage est peint de traînées blanches et cramoisies, le blanc traçant des lignes sur son front et ses pommettes, et le cramoisi descendant de l'arête du nez le long de sa mâchoire en motifs dentelés, semblables à des veines.</p>
+<p>Perchée sur sa tête se trouve une coiffe façonnée à partir du crâne blanchi d'un puissant élan, ses bois ébréchés et étendus s'élevant haut au-dessus de lui et projetant de longues ombres dentelées sur les murs de la maison longue. Des cordons de perles, de plumes et d'obsidienne scintillante les ornent, se balançant doucement tandis qu'il s'arrête près du feu.</p>
 </div>
 
-Faites une pause pour donner un moment aux joueurs de discuter entre eux ou de réagir à l'entrée d'Oroles. Une fois qu'ils en ont eu l'occasion, continuez :
-
+Faites une pause pour donner aux joueurs un moment pour discuter entre eux ou réagir à l'entrée d'Oroles. Une fois qu'ils ont eu l'occasion de le faire, continuez :
 <div class="description">
-<p>Pendant un moment, Oroles se tient silencieusement devant l'âtre, sa forme massive se détachant en silhouette contre les flammes vacillantes.</p>
+<p>Pendant un moment, Oroles se tient silencieusement devant le foyer, sa forme massive se détachant en silhouette contre les flammes vacillantes.
 
-
-
-Il lève le bâton haut - puis en frappe le bout contre le sol avec un coup sourd résonnant, le son se répercutant à travers la structure comme l'écho d'un tambour lointain.
-Lorsqu'Oroles parle ensuite, sa voix grave et riche résonne dans la salle, perçant le silence comme une flèche.
-
-"Il y a longtemps, avant que le seigneur de Ravenloft ne jette son ombre sur ces terres ; avant que l'épée de Dostron ne tranche la vallée ; avant que la folie de Kavan ne tourne frère contre frère, les Tauta erraient seuls dans le monde - perdus, mais à la recherche.
-Nos voix s'élevaient vers les cieux dans une prière désespérée, dispersées et faibles comme des feuilles emportées par le vent."
-
-"Une nuit, alors que le soleil sommeillait et que la lune cachait son visage, trois voix nous ont répondu depuis les étendues sauvages.
-Douces et fortes, comme le murmure du vent à travers les pins et le rugissement des profondeurs de la rivière, elles nous ont appelés.
-Elles nous ont guidés, invisibles mais toujours présentes, à travers des déserts arides et des pics traîtres, jusqu'à un lieu d'abondance et de beauté : Girvisa, notre vallée boisée, où les rivières chantaient et les arbres dansaient avec le vent."
-
-Oroles fait une pause, sa voix s'abaissant avec révérence.
-"C'est ici que nous avons d'abord connu les Rozana - les Trois Dames qui nous avaient guidés jusqu'ici.
-Elles n'étaient pas comme nous, et pourtant elles marchaient parmi nous : la Chasseresse, qui nous a enseigné les voies de la lance et de l'arc ; la Tisseuse, qui nous a appris à tisser la toile et le panier ; et la Chercheuse, qui nous a appris à deviner les secrets du vent et des étoiles."
-
-Il lève la tête, les bois peints de son couvre-chef attrapant la lueur vacillante du feu.
-"Mais la vallée, avons-nous découvert, recelait plus que la beauté.
-Depuis les plus lointains sommets, invisible même des Rozana, une ombre commençait à s'agiter - une obscurité qui rampait du cœur des montagnes, s'élevant comme de la fumée mais transportant un froid qui glaçait les os et figeait le sang."
-
-Des murmures ondulent à travers la foule, les enfants s'accrochant aux manches de leurs parents.
-Le feu lui-même semble s'assombrir, sa lumière se rétractant tandis que les ombres aux bords de la salle s'intensifient.
-La voix d'Oroles râpe dans l'air, ses jointures blanchissant alors qu'il serre le bâton contre sa poitrine.
-"Et ainsi le Dévoreur s'abattit sur la vallée : un grand et terrible vide qui ne connaissait d'autre faim que celle de consumer.
-Son obscurité fit bouillir les cieux, voilant le soleil et la lune, tandis que les arbres se fanaient, les bêtes se taisaient et la terre elle-même semblait désespérée."
-
-Il se penche en avant, et une nouvelle force saisit sa voix.
-"Mais les Rozana, les Trois Dames, ne s'inclinèrent pas devant l'ombre.
-Leurs voix résonnèrent à travers la vallée, chantant avec défi et souvenirs de lumière.
-Telles trois étoiles radieuses, elles s'envolèrent vers les cieux et affrontèrent le Dévoreur en bataille."
-
-Sa voix devient farouche, et il frappe le bâton contre le sol, un vif craquement qui résonne à travers la salle.
-"Pendant trois jours et trois nuits, leur bataille ébranla la terre, les cieux rugissant d'éclairs et de feu.
-Mais la volonté des Dames ne faiblit pas - et avec une note finale, elles percèrent le cœur du Dévoreur, déchirant les ténèbres pour révéler les cieux clairs au-delà.
-Le Dévoreur tomba, sa forme brisée précipitée vers l'ouest, et la lumière revint dans la vallée."
-
-Oroles lève le bâton, le tenant haut.
-"En remerciement, les Tauta érigèrent trois fanes pour honorer les Rozana - des lieux sacrés où leur guidance ne s'effacerait jamais.
-A la Chasseresse, le Fane de la Forêt, où le vent chante sa fureur.
-A la Tisseuse, le Fane du Marais, où les eaux murmurent son nom.
-Et à la Chercheuse, le Fane de la Montagne, où la sagesse attend ceux assez hardis pour la chercher."
-
-Alors qu'il abaisse le bâton, la voix d'Oroles s'adoucit, bien qu'elle ne perde rien de sa puissance.
-"Et ainsi, chaque année, nous nous rassemblons cette nuit - la Nuit des Cieux Clairs.
+Il lève le bâton haut — puis frappe son extrémité contre le sol avec un bruit sourd résonnant, le son se répercutant à travers la structure comme l'écho d'un tambour lointain.
+Quand Oroles parle de nouveau, sa voix profonde et riche résonne dans la salle, perçant le silence comme une flèche.</p>
+<p>"Il y a bien longtemps, avant que le seigneur de Ravenloft ne projette son ombre sur la terre ; avant que l'épée de Dostron ne fende la vallée ; avant que la folie de Kavan ne dresse frère contre frère, les Tauta erraient seuls dans le monde — perdus, mais en quête.
+Nos voix s'élevaient vers les cieux en prières désespérées, éparses et faibles comme des feuilles emportées par le vent."</p>
+<p>"Une nuit, alors que le soleil sommeillait et que la lune cachait son visage, trois voix nous répondirent depuis les terres sauvages.
+Douces et fortes, comme le murmure du vent à travers les pins et le rugissement des profondeurs de la rivière, elles nous appelaient.
+Elles nous guidèrent, invisibles mais toujours présentes, à travers des étendues arides et des pics traîtres, vers un lieu d'abondance et de beauté : Girvisa, notre vallée boisée, où les rivières chantaient et les arbres dansaient avec le vent."</p>
+<p>Oroles marque une pause, sa voix s'abaissant avec révérence.
+"C'est ici que nous avons d'abord fait la connaissance des Rozana — les Trois Dames qui nous avaient guidés jusqu'ici.
+Elles n'étaient pas comme nous, et pourtant elles marchaient parmi nous : la Chasseresse, qui nous enseigna l'art de la lance et de l'arc ; la Tisseuse, qui nous apprit à tisser au métier et à tresser des paniers ; et la Chercheuse, qui nous enseigna à deviner les secrets du vent et des étoiles."</p>
+<p>Il lève la tête, les bois peints de sa coiffe captant la lumière vacillante du feu.
+"Mais la vallée, nous découvrîmes, recelait plus que de la beauté.
+Des plus lointains sommets, invisibles même aux Rozana, une ombre commença à s'agiter — une obscurité qui rampait depuis le cœur des montagnes, s'élevant comme de la fumée mais portant un froid qui glaçait les os et figeait le sang."</p>
+<p>Des murmures parcourent la foule, les enfants s'accrochant aux manches de leurs parents.
+Le feu lui-même semble faiblir, sa lumière se réduisant alors que les ombres aux bords de la salle s'intensifient.
+La voix d'Oroles racle l'air, ses articulations blanchissant tandis qu'il serre le bâton contre sa poitrine.
+"Et ainsi le Dévoreur s'abattit sur la vallée : un vide grand et terrible qui ne connaissait d'autre faim que de consumer.
+Son obscurité fit bouillonner les cieux, voilant le soleil et la lune, tandis que les arbres se desséchaient, les bêtes tombaient dans le silence, et la terre elle-même semblait désespérer."</p>
+<p>Il se penche en avant, et une nouvelle note de force imprègne sa voix.
+"Mais les Rozana, les Trois Dames, ne s'inclineraient pas devant l'ombre.
+Leurs voix retentirent à travers la vallée, chantant avec défiance et des souvenirs de lumière.
+Telles trois étoiles radieuses, elles s'élevèrent vers les cieux et affrontèrent le Dévoreur en bataille."</p>
+<p>Sa voix devient féroce, et il frappe le bâton contre le sol, un <em>crack !</em> net qui résonne dans la salle.
+"Pendant trois jours et trois nuits, leur bataille ébranla la terre, les cieux déchaînés d'éclairs et de feu.
+Mais la volonté des Dames ne faiblit pas — et avec une note finale, elles percèrent le cœur du Dévoreur, déchirant les ténèbres et révélant les cieux clairs au-delà.
+Le Dévoreur tomba, sa forme brisée précipitée vers l'ouest, et la lumière revint dans la vallée."</p>
+<p>Oroles lève le bâton, le tenant haut.
+"En remerciement, les Tauta érigèrent trois sanctuaires pour honorer les Rozana — des lieux sacrés où leur guidance ne s'éteindrait jamais.
+À la Chasseresse, le Sanctuaire de la Forêt, où le vent chante sa fureur.
+À la Tisseuse, le Sanctuaire du Marais, où les eaux murmurent son nom.
+Et à la Chercheuse, le Sanctuaire de la Montagne, où la sagesse attend ceux qui sont assez audacieux pour la chercher."</p>
+<p>Alors qu'il abaisse le bâton, la voix d'Oroles s'adoucit, bien qu'elle ne perde rien de sa puissance.
+"Et ainsi, chaque année, nous nous rassemblons en cette nuit — la Nuit des Cieux Clairs.
 Nous honorons leur triomphe.
 Nous honorons leur don de lumière et de vie.
-Et nous nous souvenons que même dans les heures les plus sombres, les voix des Rozana nous guident encore."
+Et nous nous souvenons que même dans les moments les plus sombres, les voix des Rozana nous guident encore."</p>
+<p>Pendant un instant, la salle est silencieuse, hormis le crépitement du feu et le sifflement et l'éclatement de ses braises rouge cerise.
 
-Pendant un moment, la salle est silencieuse, à l'exception du crépitement du feu et du sifflement et crachement de ses braises rouge cerise.
-
-
-
-<div class="description">
-<p>Puis, le chef Diegia se lève, lève sa chope haut en un toast et crie : "Cieux clairs ! Étoiles brillantes !" La salle répond dans un cri d'écho, les chopes levées vers les airs : "<em>Cieux clairs ! Étoiles brillantes !"</em></p>
+Puis, la chef Diegia se lève, élève sa chope pour porter un toast et s'écrie : "Cieux clairs ! Étoiles brillantes !" La salle répond en un cri qui fait écho, les chopes levées vers le ciel : "<em>Cieux clairs ! Étoiles brillantes !</em>"</p>
 </div>
 
-Après l'histoire, Oroles revient à la table du chef Diegia, retirant son couvre-chef et sa peau de bête, et déposant son bâton. À son retour, il partage son espoir que les joueurs ont apprécié son histoire, ajoutant : "J'espère avoir rendu justice à cette histoire, tout comme les Gardiens des Voix l'ont fait depuis la première célébration de la Nuit."
+Après l'histoire, Oroles retourne à la table de la chef Diegia, ôtant sa coiffe et sa peau, et posant son bâton. En revenant, il partage son espoir que les joueurs ont apprécié son histoire, ajoutant : "J'espère lui avoir rendu justice, comme les Gardiens des Voix l'ont fait depuis que la Nuit est célébrée."
 
-Oroles et Diegia peuvent partager les informations suivantes sur l'histoire d'Oroles s'ils sont interrogés :
+Oroles et Diegia peuvent partager les informations suivantes sur l'histoire d'Oroles si on les interroge :
 
-* Il y a des millénaires, les Tauta étaient un groupe de tribus nomades cherchant un sanctuaire au milieu d'un monde déchiré par la guerre et les conflits. Selon la légende, les Trois Dames les ont guidés vers la vallée - Girvisa, aujourd'hui appelée Barovia - où les Tauta ont trouvé un foyer de paix et d'abondance.
-* Selon l'histoire, la vallée abritait une obscurité cachée : le Dévoreur, une entité de brume noire et de faim sans fin. Enragé par l'arrivée des Tauta, le Dévoreur s'est levé et a obscurci les cieux, menaçant d'éteindre toute lumière dans la vallée. Seules les Dames
-* Aucun des Tauta ne connaît vraiment la véritable nature des Dames, qu'elles soient féeriques, divines, primordiales ou autre chose. Cependant, aussi longtemps que les Tauta ont habité la vallée ou les montagnes environnantes, ils ont placé leur foi dans les Dames pour les guider - "même maintenant", dit Diegia solennellement, "des siècles après que nous ayons entendu leurs voix pour la dernière fois".
-* Personne ne sait ce qu'était le Dévoreur, d'où il venait ou d'où venait sa faim sans fin. Cependant, selon la légende, le Mur Chuchotant qui s'élève depuis longtemps au-dessus du côté ouest de la Colline d'Yester est né - ou est tout ce qui reste - du cadavre du Dévoreur. (Oroles demande ensuite, incidemment, si les joueurs ont vu la Colline d'Yester et le Mur Chuchotant.)
+* Il y a des millénaires, les Tauta étaient un groupe de tribus nomades cherchant refuge dans un monde déchiré par la guerre et les conflits. Selon la légende, les Trois Dames les ont guidés vers la vallée—Girvisa, maintenant appelée Barovia—où les Tauta ont trouvé un foyer de paix et d'abondance.
+* Selon l'histoire, la vallée abritait une obscurité cachée : le Dévoreur, une entité de brouillard sombre et de faim sans fin. Furieux de l'arrivée des Tauta, le Dévoreur s'est levé et a obscurci les cieux, menaçant d'éteindre toute lumière dans la vallée. Seules les Dames
+* Aucun des Tauta ne connaît vraiment la véritable nature des Dames, qu'elle soit féerique, divine, primordiale ou autre chose encore. Cependant, aussi longtemps que les Tauta ont habité la vallée ou les montagnes environnantes, ils ont placé leur foi dans les Dames pour les guider—"même maintenant," dit solennellement Diegia, "des siècles après avoir entendu leurs voix pour la dernière fois."
+* Personne ne sait ce qu'était le Dévoreur, d'où il venait, ou d'où venait sa faim sans fin. Cependant, selon la légende, le Mur Murmurant qui domine depuis longtemps le côté ouest de la Colline d'Antan s'est élevé—ou est tout ce qui reste—du cadavre du Dévoreur. (Oroles demande ensuite, l'air de rien, si les joueurs ont vu la Colline d'Antan et le Mur Murmurant.)
 
-Au fil de la conversation, et surtout si les joueurs mentionnent leurs expériences à la Colline d'Yester dans [[Arc J - Le Joyau Volé]], Diegia, Oroles, Como et Kaldur s'intéressent activement aux rencontres précédentes des joueurs avec les Gens de la Forêt (qu'ils regardent avec dégoût et pitié pour leur corruption par Strahd), Strahd (qu'ils regardent avec une aversion contenue) et les autres serviteurs de Strahd (qu'ils regardent avec dégoût).
+Alors que la conversation continue, et surtout si les joueurs mentionnent leurs expériences à la Colline d'Antan dans [[Arc J - La Gemme Volée]], Diegia, Oroles, Como et Kaldur s'intéressent activement aux rencontres antérieures des joueurs avec le Peuple de la Forêt (qu'ils considèrent avec mépris et pitié pour leur corruption par Strahd), Strahd (qu'ils considèrent avec une aversion contenue) et les autres serviteurs de Strahd (qu'ils considèrent avec dégoût).
 
-En particulier, Kaldur est fasciné par les récits que les joueurs pourraient partager concernant leurs batailles et victoires sur Strahd et ses serviteurs. Diegia est également intéressée par les raisons du voyage des joueurs vers le Mont Ghakis et leurs intentions concernant Strahd.
-
-### Le Match de Vantardise
-À un moment opportun de la conversation, immédiatement après que les joueurs ont déclaré ou réitéré leur intention de tuer Strahd ou de libérer Barovia de son règne, lisez :
+En particulier, Kaldur est fasciné par les récits que les joueurs pourraient partager concernant leurs batailles et leurs victoires contre Strahd et ses serviteurs. Diegia s'intéresse également aux raisons pour lesquelles les joueurs voyagent au Mont Ghakis et à leurs intentions concernant Strahd.
+### Le Duel de Vantardises
+À un moment approprié de la conversation, juste après que les joueurs aient déclaré ou réitéré leur intention de tuer Strahd ou de libérer Barovia de son règne, lisez :
 
 <div class="description">
-<p>Scorilo se lève de sa place à côté de la table. Il prend une longue gorgée de sa hydromel, puis crache dans les flammes écarlates du brasero de pierre à côté de lui, les faisant siffler et danser avec des crépitements. </p>
-<p>Un murmure parcourt la foule voisine, et Scorilo vous lance un regard sombre. "Le vent me dit que vos paroles sont creuses", tonne-t-il, sa voix dégoulinant de dégoût. Les sourcils du chef Diegia se haussent sur son front, et des regards d'anticipation se lèvent sur les visages des Gens des Montagnes qui observent.</p>
+<p>Scorilo se lève de sa place à côté de la table. Il prend une longue gorgée d'hydromel, puis crache dans les flammes écarlates du brasero de pierre à côté de lui, les faisant siffler et danser avec des crépitements.</p>
+<p>Un murmure parcourt la foule proche, et Scorilo vous lance un regard noir. "Le vent me dit que vos paroles sont creuses," tonne-t-il, sa voix dégoulinant de mépris. Les sourcils de la chef Diegia s'élèvent sur son front, et des regards d'anticipation apparaissent sur les visages des Montagnards qui observent.</p>
 </div>
 
-Donnez aux joueurs une brève opportunité de répondre. Quand ils en ont eu l'occasion, Oroles se penche vers eux et murmure : "La réponse traditionnelle à un défi de vantardise est : *La terre me dit que vos exploits ne sont que poussière* - bien qu'un guerrier provoqué soit toujours libre d'offrir sa propre riposte."
+Donnez aux joueurs une brève opportunité de répondre. Quand ils ont eu l'occasion de le faire, Oroles se penche vers eux et murmure : "La réponse traditionnelle à un défi de vantardise est : *La terre me dit que tes exploits sont poussière*—bien qu'un guerrier défié soit toujours libre d'offrir sa propre réplique."
 
 Si les joueurs acceptent le défi de vantardise de Scorilo, continuez :
 
 <div class="description">
-<p>Scorilo découvre ses dents dans un sourire bestial, ses yeux perçants se plissant alors qu'il s'avance vers vous. "Venez donc, étrangers", ricane-t-il, "et laissez les Tauta voir que vos vantardises ne sont que cendres."</p>
+<p>Scorilo découvre ses dents en un sourire féroce, ses yeux perçants se plissant alors qu'il s'avance vers vous. "Venez donc, étrangers," ricane-t-il, "et laissez les Tauta voir que vos vantardises ne sont que cendres."</p>
 </div>
 
-
+Après que les joueurs ont eu l'occasion de bavarder avec Scorilo, Diegia se lève et annonce les règles. Continuez :
 
 <div class="description">
-<p>La chef Diegia se lève, récupère sa hache d'armes de son trône et frappe son manche contre le sol en bois. "Ce soir, nous laisserons le feu juger de la voix la plus véridique", intone-t-elle. "Trois vantardises : une pour les actes d'hier, une pour la force d'aujourd'hui, et une pour l'avenir à venir. Prouvez-vous avec courage et esprit - ou faiblissez, et inclinez-vous devant vos supérieurs. L'âtre vous observe."</p>
-<p>Elle se tourne vers Scorilo. "Scorilo, défies-tu ces étrangers ensemble ?" Au hochement de tête affirmatif de Scorilo, elle se tourne vers vous. "Puisque vous avez tous été défiés, vous pouvez choisir l'un d'entre vous pour répondre à chaque vantardise - mais pas plus. Acceptez-vous ?"</p>
+<p>La chef Diegia se lève, récupère sa grande hache posée contre son trône et frappe le sol en bois avec le manche. "Ce soir, nous laisserons le feu juger quelle voix résonne le plus juste," déclare-t-elle. "Trois vantardises : une pour les exploits d'hier, une pour la force d'aujourd'hui, et une pour l'avenir encore à venir. Prouvez-vous par le courage et l'esprit—ou hésitez, et inclinez-vous devant votre supérieur. Le foyer vous observe."</p>
+<p>Elle se tourne vers Scorilo. "Scorilo, défies-tu ces étrangers ensemble ?" Au hochement de tête affirmatif de Scorilo, elle se tourne vers vous. "Puisque vous avez tous été défiés, vous pouvez choisir l'un d'entre vous pour répondre à chaque vantardise—mais pas plus. Acceptez-vous ?"</p>
 </div>
 
 Si les joueurs acceptent, continuez :
 
 <div class="description">
-<p>Diegia hoche la tête. "Alors j'appelle chaque camp à placer son enjeu sur le sol de cette salle, afin que tous puissent voir ce que le vainqueur peut gagner."</p>
+<p>Diegia hoche la tête. "Alors j'invite chaque partie à placer sa mise sur le sol de cette salle, afin que tous puissent voir ce que le vainqueur pourra gagner."</p>
 </div>
 
-Si on lui demande, Como ou Oroles peuvent expliquer discrètement que chaque camp dans un match de vantardise est censé miser quelque chose de valeur matérielle ou martiale, qui sera remporté par le vainqueur. La mise de Scorilo est un *cor d'alarme silencieuse*, façonné à partir de la corne courbée et polie d'un bélier de montagne, sa surface d'un brun riche et profond, gravée de runes complexes et cerclée d'acier noirci gravé d'une tête de loup hurlant. Sur sa plus large courbe, le cor porte l'inscription en runes druidiques : *Puissent les vents entendre mon cri.*
+Si on leur demande, Como ou Oroles peuvent expliquer discrètement que chaque partie dans un duel de vantardises doit miser quelque chose de valeur matérielle ou martiale, qui sera récupéré par le vainqueur. La mise de Scorilo est un *cor d'alarme silencieuse*, fabriqué à partir de la corne courbée et polie d'un bélier de montagne, sa surface d'un brun riche et profond sculptée de runes complexes et cerclée d'acier noirci gravé d'une tête de loup hurlant. À sa courbe la plus large, le cor affiche, en runes druidiques : *Que les vents entendent mon cri.*
 
-* **Premier Round.** Scorilo brandit le crâne canin dentelé et noirci monté sur son épaule. "Ceci", déclare-t-il, "était un grand chien de soufre et de soufre. Il est venu sur les pentes de la montagne, apportant le feu et la ruine. Seul, j'ai enfoncé ma hache dans sa gueule et j'ai réclamé son crâne comme prix." (Parce qu'il porte la preuve de son vantardise, Scorilo fait son jet ce tour-ci avec l'avantage.)
-* **Deuxième Round.** Scorilo prend sa lance appuyée contre le mur et frappe violemment le sol avec son manche. "Aucun Tauta ne peut rivaliser avec ma précision à la lance - quand ma main la guide, sa pointe frappe juste." (Un joueur qui réussit un jet de Charisme (Persuasion) peut convaincre Scorilo de prouver son vantardise, comme en lançant la lance sur une sculpture particulière sur le mur d'en face. La DC du jet de Charisme (Persuasion) et la CA de la cible de Scorilo sont respectivement : 5 (DC) et 10 (CA) pour une cible de taille Moyenne ; 10 (DC) et 15 (CA) pour une cible de Petite taille ; et 15 (DC) et 20 (CA) pour une cible de Très Petite taille. Si Scorilo touche sa cible avec succès, il fait son jet ce tour-ci avec l'avantage ; s'il rate, il fait son jet avec le désavantage.)
-* **Troisième Round.** Scorilo s'approche de l'âtre, plonge son poing droit dedans et le retire en tenant un charbon de feu brûlant qu'il brandit au-dessus de sa tête. "Quand ma sœur reviendra et accédera au rang de chef", grogne-t-il à travers la foule, "je serai son arme la plus puissante - la défendant, ainsi que notre peuple et notre foyer contre tous ceux qui voudraient leur nuire." (Scorilo doit ensuite faire un jet de sauvegarde de Constitution DD 15. En cas d'échec, un joueur avec un score de Sagesse (Perspicacité) passif de 14 ou plus remarque qu'il tressaille sous la chaleur, imposant le désavantage à son jet ce tour-ci si sa douleur est signalée à la foule. Sinon, parce qu'il porte la preuve de son vantardise, Scorilo fait son jet ce tour-ci avec l'avantage.)
+> [!info] **Le Duel de Vantardises**
+> Les règles du duel de vantardises sont les suivantes :
+> * Le duel se compose de trois manches : (1) une vantardise sur quelque chose que le vantard a accompli ; (2) une vantardise sur les compétences, talents ou forces actuels du vantard ; et (3) une vantardise sur ce que le vantard accomplira.
+> * Chaque fois qu'une vantardise est faite, le vantard doit effectuer un jet de Charisme (Tromperie) si sa vantardise est un mensonge, un jet de Charisme (Persuasion) si sa vantardise fait appel à son public d'une manière ou d'une autre, un jet de Charisme (Intimidation) si sa vantardise défie directement son adversaire, et un jet de Charisme (Représentation) dans les autres cas. Un jet se fait avec avantage si le vantard produit une preuve de sa vantardise (par exemple, un trophée ou une cicatrice), et avec désavantage si la vantardise est trop modeste ou extravagante.
+> * Chaque fois qu'une vantardise est faite, selon le résultat du jet du vantard, le Peuple de la Montagne acclame ou hue et le feu de joie dans le foyer crépite plus haut, les meilleurs résultats provoquant des hurlements plus forts de la foule et une montée plus haute du feu. Un résultat de 10 ou moins remue à peine le feu, tandis qu'un résultat de 20 ou plus fait gonfler le feu de joie si haut que ses flammes touchent presque les chevrons.
+> * Un vantard gagne une manche si le résultat de son jet dépasse celui de son adversaire pour cette manche. (Cependant, si un joueur fait une fausse vantardise et que le résultat de son jet de Charisme (Tromperie) est de 11 ou moins, Scorilo dénonce son mensonge, et les joueurs perdent automatiquement cette manche.) La partie qui remporte deux manches sur trois gagne le duel de vantardises.
+
+Les vantardises de Scorilo sont, dans l'ordre :
+
+* **Premier Tour.** Scorilo brandit le crâne canin dentelé et noirci fixé sur son épaule. "Ceci," déclare-t-il, "était un grand chien de soufre et de feu. Il est venu sur les pentes de la montagne, apportant feu et ruine. Seul, j'ai enfoncé ma hache dans sa gueule et j'ai réclamé son crâne comme trophée." (Parce qu'il présente une preuve de sa vantardise, Scorilo effectue son jet avec avantage pour ce tour.)
+* **Deuxième Tour.** Scorilo prend sa lance appuyée contre le mur et frappe le sol avec son manche. "Aucun Tauta ne peut rivaliser avec ma précision à la lance—quand ma main la guide, sa pointe fait mouche." (Un joueur qui réussit un jet de Charisme (Persuasion) peut convaincre Scorilo de prouver sa vantardise, par exemple en lançant sa lance sur une sculpture particulière sur le mur opposé. Le DD du jet de Charisme (Persuasion) et la CA de la cible de Scorilo sont, respectivement : 5 (DD) et 10 (CA) pour une cible de taille Moyenne ; 10 (DD) et 15 (CA) pour une cible de Petite taille ; et 15 (DD) et 20 (CA) pour une cible de Très petite taille. Si Scorilo touche sa cible avec succès, il effectue son jet avec avantage pour ce tour ; s'il rate, il effectue son jet avec désavantage.)
+* **Troisième Tour.** Scorilo s'approche du foyer, plonge son poing droit dedans et en retire un charbon ardent et enflammé, qu'il brandit au-dessus de sa tête. "Quand ma sœur reviendra et prendra la tête du clan," grogne-t-il à travers la foule, "je serai sa plus puissante arme—la défendant, elle, notre peuple et notre foyer contre tous ceux qui voudraient leur nuire." (Scorilo doit alors faire un jet de sauvegarde de Constitution DD 15. En cas d'échec, un joueur avec un score de Sagesse (Perspicacité) passif de 14 ou plus remarque qu'il tressaille à cause de la chaleur, imposant un désavantage à son jet pour ce tour si sa douleur est signalée à la foule. Sinon, parce qu'il présente une preuve de sa vantardise, Scorilo effectue son jet avec avantage pour ce tour.)
+
+> [!info]+ **Départager une égalité**
+> En cas d'égalité, Diegia invite chaque partie à "appuyer leurs paroles par des actes" à travers un match de lutte, permettant aux joueurs de choisir un champion parmi eux qui les représentera dans un combat au corps à corps sans arme contre Scorilo. (Les joueurs sont autorisés à renforcer leur champion par magie et autres moyens, comme avec la capacité ***maître des tactiques*** d'un roublard cerveau, mais ne peuvent pas attaquer ou entraver directement Scorilo.)
+>
+> Pendant le match de lutte, blesser son adversaire est strictement interdit. Au lieu de cela, pour gagner, un combattant doit maintenir son adversaire agrippé et à terre pendant un tour complet (c'est-à-dire jusqu'au début du prochain tour du lutteur). Chaque fois qu'un combattant tente d'agripper son adversaire et échoue, son adversaire peut immédiatement utiliser sa réaction pour effectuer une attaque de Bousculade avec désavantage.
+>
+> En luttant contre Scorilo, un joueur qui fait une provocation appropriée et réussit un jet de Charisme (Représentation) DD 15 peut imposer un désavantage à tous les jets de caractéristique que Scorilo effectue pendant son prochain tour.
+
+Lorsque le match est terminé, la Chef Diegia annonce le vainqueur. Si les joueurs perdent, Scorilo accepte leur pari avec suffisance. Si Scorilo perd, ses mains se serrent en poings et il sort en trombe de la longue maison dans la froide nuit, seul.
 
 > [!abstract]+ **Suivre Scorilo**
-> S'il n'est pas dérangé après avoir perdu le concours de vantardise, Scorilo sort de la longère, puis piétine dans la neige derrière un groupe de huttes recroquevillées. Il émerge au milieu d'un petit bouquet d'arbres de pin, où il se met à frapper le tronc rugueux et effiloché d'un arbre haut et épais, grognant, jusqu'à ce que ses jointures se fendent et que le sang coule le long de ses bras. Il pousse ensuite un hurlement guttural de frustration et s'effondre contre le tronc de l'arbre.
+> Si personne ne le dérange après avoir perdu le défi de vantardise, Scorilo sort de la grande maison, puis avance en tapant des pieds dans la neige derrière un groupe de huttes serrées. Il ressort au milieu d'un petit bosquet de pins, où il entreprend de frapper le tronc rugueux et déchiqueté d'un arbre haut et épais, en grognant, jusqu'à ce que ses phalanges s'ouvrent et que le sang coule le long de ses bras. Il pousse alors un rugissement guttural de frustration et s'effondre contre le tronc d'arbre.
 >
-> Après quelques instants, il jette un coup d'œil prudent à ses environs, récupère un *éclat d'ambre de Zrin-Hala* (voir [[Éclats d'ambre]]) d'un petit trou à 3 mètres du sol dans le tronc de l'arbre, et le considère silencieusement pendant plusieurs minutes. Il range ensuite l'éclat à sa cachette, utilise la neige pour essuyer le sang de ses jointures et retourne à la longère, entrant dans les quartiers de sa famille par une porte latérale en bois.
+> Après quelques instants, il examine prudemment les environs, récupère un *éclat d'ambre de Zrin-Hala* (voir [[Éclats d'Ambre]]) dans un petit trou à trois mètres du sol dans le tronc de l'arbre, et le contemple en silence pendant plusieurs minutes. Il range ensuite l'éclat dans sa cachette, utilise la neige pour essuyer le sang de ses phalanges, et retourne à la grande maison, entrant dans les quartiers de sa famille par une porte latérale en bois.
 >
-> Les joueurs qui suivent Scorilo hors de la longère peuvent éviter d'être remarqués en réussissant un jet de Dextérité (Discrétion) DD 12. Si, à n'importe quel moment avant qu'il ne révèle l'*éclat d'ambre*, les joueurs interrompent Scorilo et tentent de converser avec lui, Scorilo s'arrête et leur demande amèrement ce qu'ils veulent. Les joueurs qui lui donnent une bonne raison de le faire et réussissent un jet de Charisme (Persuasion) DD 20 peuvent convaincre Scorilo de faire la paix avec eux.
+> Les joueurs qui suivent Scorilo hors de la grande maison peuvent éviter d'être repérés en réussissant un jet de Dextérité (Discrétion) DD 12. Si, à tout moment avant qu'il ne révèle l'*éclat d'ambre*, les joueurs interrompent Scorilo et tentent de converser avec lui, Scorilo s'arrête et leur demande amèrement ce qu'ils veulent. Les joueurs qui lui donnent une bonne raison de le faire et réussissent un jet de Charisme (Persuasion) DD 20 peuvent convaincre Scorilo de faire la paix avec eux.
 >
 > Si les joueurs convainquent Scorilo de les laisser rester, il est prêt à partager les informations suivantes avec eux :
-> * Enfant, on lui a inculqué des histoires de force et de gloire - de guerriers qui se battaient pour défendre leurs familles et leurs foyers contre ceux qui cherchaient à les écraser.
-> * Scorilo et Como sont peut-être des jumeaux, mais Scorilo est né quelques instants plus tôt - jumeaux ou non, il s'est toujours considéré comme l'aîné des deux, ce qui le rendait responsable de la protection de Como.
-> * Quand un touché-par-l'ambre a tué la tante et l'oncle de Scorilo il y a sept ans - "juste devant moi" - Scorilo a réalisé que cette responsabilité incluait ses voisins et sa famille, et a décidé que s'il avait simplement été assez fort, Kaldur aurait encore une famille aujourd'hui.
+> * Enfant, il a été bercé par des histoires de force et de gloire – de guerriers qui se battaient pour défendre leurs familles et leurs foyers contre ceux qui cherchaient à les écraser.
+> * Lui et Como sont peut-être jumeaux, mais Scorilo est né quelques instants plus tôt – jumeaux ou non, il s'est toujours considéré comme l'aîné des deux, ce qui lui confère la responsabilité de protéger Como.
+> * Quand un touché-d'ambre a tué la tante et l'oncle de Scorilo il y a sept ans – "juste devant moi" – Scorilo a réalisé que cette responsabilité incluait ses voisins et sa famille, et a décidé que, s'il avait simplement été assez fort, Kaldur aurait encore une famille aujourd'hui.
 >
-> Si les joueurs ne parviennent pas à convaincre Scorilo de les laisser rester ou parler, Scorilo leur demande de le laisser tranquille ; si les joueurs refusent avec arrogance, Scorilo les attaque. (Comme il n'a ni sa lance ni son bouclier, Scorilo attaque uniquement avec des saisies, des poussées, des parades et des ***frappes à mains nues*** (1d20 + 7 pour toucher, 5 dégâts contondants, et la cible doit réussir un jet de sauvegarde de Force DD 15 ou être renversée) et laisse inconscients les joueurs qu'il réduit avec succès à 0 point de vie.)
+> Si les joueurs ne parviennent pas à convaincre Scorilo de les laisser rester ou parler, Scorilo exige qu'ils le laissent en paix ; si les joueurs refusent avec belligérance, Scorilo attaque. (Parce qu'il n'a ni sa lance ni son bouclier, Scorilo attaque uniquement avec des empoignades, des bousculades, des parades et des ***frappes à mains nues*** (1d20 + 7 pour toucher, 5 dégâts contondants, et la cible doit réussir un jet de sauvegarde de Force DD 15 ou être jetée à terre), et laisse inconscient tout joueur qu'il parvient à réduire à 0 point de vie.)
 >
-> Si un joueur remarque l'éclat d'ambre de Scorilo et l'affronte à ce sujet, celui-ci le nie avec colère. Si les joueurs insistent, ils peuvent le convaincre de parler ouvertement en le traitant avec gentillesse et en réussissant un jet de Charisme (Persuasion) DD 15 ; en cas d'échec, Scorilo tente de s'en aller, retournant dans les quartiers de sa famille dans la longère. Si les joueurs tentent de le retenir, Scorilo les attaque, comme décrit ci-dessus.
+> Si un joueur remarque l'éclat d'ambre de Scorilo et le confronte à ce sujet, il nie avec colère le posséder. Si les joueurs insistent, ils peuvent le convaincre de parler ouvertement en le traitant avec gentillesse et en réussissant un jet de Charisme (Persuasion) DD 15 ; en cas d'échec, Scorilo tente de s'éloigner précipitamment, retournant aux quartiers de sa famille dans la grande maison. Si les joueurs tentent de le retenir, Scorilo les attaque, comme décrit ci-dessus.
 >
-> Si rassuré au sujet de l'éclat d'ambre, Scorilo partage honnêtement qu'il l'a obtenu du cadavre d'un touché-par-l'ambre, mais qu'il n'a pas l'intention de l'utiliser. "Je ne suis pas un fou", grogne-t-il - puis ajoute, plus calmement, comme pour se le rappeler : "Je ne le suis pas".
-### La convocation de Burebis
-À un moment propice, lorsque les festivités de la Nuit des Cieux Clairs touchent à leur fin, les joueurs reçoivent une convocation de l'Ancien Burebis. Lisez :
-
-
+> Si on le rassure au sujet de l'éclat d'ambre, Scorilo admet honnêtement qu'il a obtenu l'éclat du cadavre d'un touché-d'ambre, mais qu'il n'a aucune intention de l'utiliser. "Je ne suis pas un imbécile," grogne-t-il – puis ajoute, plus doucement, comme pour se le rappeler : "Je ne le suis pas."
+### La Convocation de Burebis
+À un moment opportun, lorsque les festivités de la Nuit des Cieux Clairs touchent à leur fin, les joueurs reçoivent une convocation de l'Ancienne Burebis. Lisez :
 
 <div class="description">
-<p>Alors que le feu de camp dans l'âtre se transforme en braises incandescentes et que les rires des villageois s'estompent en une conversation silencieuse, un frisson soudain balaie la grande maison. Les flammes vacillent et s'assombrissent lorsqu'une silhouette se forme au milieu de la fumée : un corbeau, ses plumes scintillant sous la lumière du feu.</p>
-<p>Le corbeau de fumée volette silencieusement dans les airs, se posant sur la table à côté du Chef Diegia. Sa tête se penche, ses yeux brillant comme des gouttes d'obsidienne lorsqu'il regarde la pièce - puis, avec une voix comme le grondement lointain du tonnerre, il parle : "L'heure est venue. Amenez-les-moi."</p>
+<p>Alors que le feu de joie dans l'âtre se transforme en braises rougeoyantes, et que les rires des villageois se transforment en conversations calmes, un frisson soudain parcourt la grande maison. Les flammes vacillent et s'assombrissent tandis qu'une silhouette prend forme au milieu de la fumée : un corbeau, ses plumes miroitant sous la lumière du feu.</p>
+<p>Le corbeau de fumée voltige silencieusement dans les airs, se posant sur la table à côté du Chef Diegia. Sa tête s'incline, ses yeux brillant comme des gouttes d'obsidienne tandis qu'il observe la pièce — puis, d'une voix semblable au grondement d'un tonnerre lointain, il parle : "L'heure est venue. Amenez-les moi."</p>
 <p>Son message délivré, le corbeau se dissout en tourbillons de braises.</p>
 </div>
 
-Le Chef Diegia informe les joueurs que le corbeau est un message de l'Ancien Burebis - le gardien du Sanctuaire du Rozana. Elle informe solennellement les joueurs que l'Ancien Burebis les a convoqués et demande à Como de les escorter jusqu'au [[#R5f. Le Sanctuaire du Rozana]].
-## R5f. Le Sanctuaire du Rozana
+Le Chef Diegia informe les joueurs que le corbeau est un message de l'Ancien Burebis — le gardien du Sanctuaire de la Rozana. Elle informe solennellement les joueurs que l'Ancien Burebis les a convoqués, et demande à Como de les escorter jusqu'au [[#R5f. Le Sanctuaire de la Rozana]].
+## R5f. Le Sanctuaire de la Rozana
 ### Entrer dans le Sanctuaire
-Le Sanctuaire du Rozana est situé à l'extrémité ouest du cratère, dans une grande caverne accessible par une petite entrée au-delà d'un bosquet de pins. Lorsque Como y conduit les joueurs, lisez :
+Le Sanctuaire de la Rozana est situé à l'extrémité ouest du cratère, dans une grande caverne accessible par une petite entrée au-delà d'un bosquet de pins. Tandis que Como guide les joueurs, lisez :
 
 <div class="description">
-<p>Como vous guide le long du boulevard rocailleux central du village, puis emprunte un petit sentier sinueux qui mène vers le bord ouest du cratère. Le chemin passe sous un trio de grands pins saupoudrés de neige, puis mène à un ensemble d'étroites marches de pierre rugueuses taillées directement dans la falaise de la montagne. À environ 6 mètres de hauteur, les marches tournent et disparaissent dans une petite entrée de caverne sombre.</p>
+<p>Como vous guide le long du boulevard rocheux central du village, puis emprunte un petit sentier sinueux qui mène vers le bord ouest du cratère. Le chemin passe sous un trio de grands pins saupoudrés de neige, puis vers un ensemble d'étroites marches de pierre rugueuses taillées directement dans la falaise de la montagne. Six mètres plus haut, les marches tournent et disparaissent dans une petite entrée de caverne sombre.</p>
 </div>
 
-En atteignant les marches, Como se tourne vers les joueurs et les informe qu'il ne peut aller plus loin. "L'ancien a demandé à vous parler, pas à moi", dit-il, gêné. (Il est cependant ravi de souhaiter bonne chance aux joueurs et de les rassurer que l'Ancien Burebis ne leur veut aucun mal.)
+En atteignant les marches, Como se tourne vers les joueurs et les informe qu'il ne peut pas aller plus loin. "L'ancien a demandé à vous parler, pas à moi," dit-il, timidement. (Il est néanmoins heureux de souhaiter bonne chance aux joueurs et de les rassurer sur le fait que l'Ancien Burebis ne leur veut aucun mal.)
 
-Lorsque les joueurs grimpent les marches, continuez :
+Tandis que les joueurs montent les marches, continuez :
 
 <div class="description">
-<p>Vous montez les marches dans l'obscurité - et entrez dans un gigantesque espace caverneux de plus de 60 mètres de large.</p>
-<p>Contrairement au froid vif de l'air de la montagne, l'atmosphère ici est agréablement chaude - presque humide. Un épais terreau brun foncé recouvre le sol, et de grosses vignes grimpent sur les murs, qui scintillent de d'innombrables dépôts de cristaux bleu céruléen luminescents.</p>  
-<p>Des abeilles butinent de hautes ruches parfumées pour traverser un champ de buissons, mousses et petits arbres fleuris et verdoyants, lui-même traversé par un ruisseau bouillonnant qui résonne des coassements occasionnels de grenouilles et des crissements de criquets invisibles. Des amas de brume blanche et moelleuse flottent paresseusement dans l'air comme de petits nuages duveteux, se regroupant le plus densément près de la base d'un petit bassin d'eau cristalline alimenté par une étroite chute d'eau.</p>
-<p>Au centre du bassin s'élève un pilier de pierre à trois côtés, son devant simplement marqué d'une étoile à trois branches. Au-delà et au-dessus, un enchevêtrement épais de racines gris-brun tapisse le mur, qui s'élève du sol jusqu'au plafond ponctué de stalactites à plus de 15 mètres de hauteur.</p>
-<p>A environ 4,5 mètres du sol, la masse de racines semble former un immense visage : barbu et ridé, avec un air antique et vieilli. Ce n'est que lorsque vous voyez les racines juste en dessous - se soulevant et s'abaissant comme une puissante poitrine - que vous réalisez que le visage n'est pas fait de racines du tout, mais encadré par elles, sa peau gris-bleu foncé se fondant avec la pierre du mur derrière lui.</p>
-<p>Les yeux du visage s'ouvrent, révélant des yeux émeraude scintillants, et une voix ancienne et résonnante s'échappe de ses lèvres barbues. "Le Chercheur a donc dit vrai," grince-t-il. "Vous êtes finalement arrivés."</p>
+<p>Vous montez les marches dans l'obscurité — et entrez dans un espace caverneux énorme de plus de soixante mètres de diamètre.</p>
+<p>Contrairement au froid vif de l'air montagnard, l'atmosphère ici est agréablement chaude — presque humide. Un terreau épais brun foncé recouvre le sol, et d'épaisses vignes grimpent sur les murs, qui scintillent de d'innombrables dépôts de cristaux céruléens lumineux.</p>
+<p>Des abeilles voltigent des hautes ruches odorantes vers un champ de buissons verdoyants et fleuris, de mousses et de petits arbres, lui-même traversé par un ruisseau bouillonnant qui résonne des coassements occasionnels de grenouilles et du pépiement de grillons invisibles. Des amas de brume blanche et douce flottent paresseusement dans l'air comme de petits nuages duveteux, se regroupant plus densément près de la base d'un petit bassin cristallin alimenté par une étroite cascade.</p>
+<p>Au centre du bassin s'élève un pilier de pierre à trois faces, son devant marqué simplement d'une étoile à trois pointes. Au-delà et au-dessus, un enchevêtrement de racines épaisses gris-brun tapisse le mur, qui s'élève du sol jusqu'au plafond couvert de stalactites à plus de quinze mètres au-dessus.</p>
+<p>À quatre mètres et demi du sol, la masse de racines semble former un énorme visage : barbu et ridé, avec une apparence ancienne et sage. C'est seulement quand vous voyez les racines juste en dessous — s'élevant et s'abaissant comme une puissante poitrine — que vous réalisez que le visage n'est pas fait de racines du tout, mais encadré par elles, sa peau gris-bleu foncé se fondant avec la pierre du mur derrière.</p>
+<p>Les yeux du visage s'ouvrent, révélant des yeux émeraude étincelants, et une voix ancienne et résonnante jaillit de ses lèvres barbues. "Le Chercheur disait donc vrai," murmure-t-il. "Vous êtes enfin venus."</p>
 </div>
 
-Le visage appartient à l'Ancien Burebis, un **géant des tempêtes**. Les joueurs qui examinent la forme de l'Ancien Burebis de plus près observent que les racines sortant du mur ont, à de nombreux endroits, lié et transpercé sa chair, l'empêchant de bouger.
+Le visage appartient à l'Ancien Burebis, un **géant des tempêtes**. Les joueurs qui inspectent de plus près la forme de l'Ancien Burebis observent que les racines qui sortent du mur ont, à de nombreux endroits, lié et percé sa chair, l'empêchant de bouger.
 
-> [!lore]+ **L'Ancien Burebis**
-> Il y a mille ans, le jeune et arrogant géant des tempêtes Burebis vint dans la vallée de Barovia - alors appelée Girvisa par les Tauta - cherchant à prouver ses capacités de prescience contre l'être appelé "le Chercheur". Bien que Burebis ait perdu leur compétition - une série de prédictions concernant une tempête imminente - le Chercheur fut impressionné par son audace et ses compétences, et l'invita à devenir son élève dans les voies de la divination et de la prescience.
+> [!lore]+ **Ancien Burebis**
+> Il y a mille ans, le jeune et arrogant géant des tempêtes Burebis vint dans la vallée de Barovia—alors appelée Girvisa par les Tauta—cherchant à prouver ses capacités de prévoyance contre l'être nommé "la Chercheuse". Bien que Burebis perdit leur compétition—une série de prédictions concernant une tempête imminente—la Chercheuse fut impressionnée par son audace et son habileté, et l'invita à devenir son élève dans l'art de trouver les présages et de prédire l'avenir.
 >
-> Pendant des siècles, Burebis demeura dans une solitude confortable parmi les sommets du Mont Ghakis, à l'écart des querelles des Tauta. Tandis que Kavan conquérait les tribus voisines, Burebis eut une liaison de dix ans avec une géante des tempêtes nomade, Preida, et engendra une fille, Gira, nommée d'après la vallée au-dessus de laquelle il avait établi sa demeure.
+> Pendant des siècles, Burebis vécut dans une solitude confortable parmi les sommets du Mont Ghakis, loin et à l'écart des querelles des Tauta. Pendant que Kavan conquérait les tribus voisines, Burebis profita d'une liaison de dix ans avec une géante des tempêtes nomade, Preida, et engendra une fille, Gira, nommée d'après la vallée au-dessus de laquelle il avait établi sa demeure.
 >
-> Burebis fut troublé lorsque la conquête de Kavan et l'invasion subséquente du roi Dostron ravagèrent de nombreux lieux sacrés des Dames, diminuant grandement le pouvoir et la présence du Chercheur. Cependant, une vision prophétique le rassura qu'un jour, son mentor et protectrice retrouverait son pouvoir légitime - lorsqu'un groupe de mortels portant les secrets du sang et le sceau du soleil viendraient à lui pour restaurer la gloire des Dames. (Bien que Burebis ait eu des visions des objets que ces mortels porteraient, il ne connaît pas leur véritable nature : le *Tome de Strahd* et le *Symbole Sacré de Ravenkind*).
+> Burebis fut troublé lorsque la conquête de Kavan et l'invasion ultérieure du Roi Dostron ravagèrent nombre des lieux saints des Dames, diminuant grandement le pouvoir et la présence de la Chercheuse. Une vision prophétique, cependant, le rassura que, un jour, sa patronne et mentor retrouverait son juste pouvoir—quand un groupe de mortels portant les secrets du sang et le sceau du soleil viendraient à lui cherchant à restaurer la gloire des Dames. (Bien que Burebis ait vu des visions des objets que ces mortels porteraient, il ne connaît pas leur vraie nature : le *Tome de Strahd* et le *Symbole Sacré de Ravenkind*).
 >
-> Inquiet mais faisant confiance à la vision qu'il avait eue, Burebis observa de loin l'installation de l'Ordre du Dragon d'Argent à Barovia, bientôt rejoint par les résidents de l'Abbaye de St. Markovia. Il vit les armées de Strahd von Zarovich balayer la vallée, et regarda avec une fascination horrifiée les Brumes emporter la contrée au-delà du Plan Matériel.
+> Inquiet, mais confiant dans la vision qu'il avait eue, Burebis observa de loin l'installation de l'Ordre du Dragon d'Argent en Barovia, rejoints peu après par les résidents de l'Abbaye de Sainte Markovia. Il vit les armées de Strahd von Zarovich balayer la vallée, et regarda avec une fascination horrifiée comment les Brumes emportèrent le pays au-delà du Plan Matériel.
 >
-> Lorsque Strahd rencontra pour la première fois Marina Ulrich, la première réincarnation de Tatyana, la fille de Burebis, Gira, avait près de deux siècles. Bien plus tempéramentale que son père, Gira devint furieuse quand Strahd noya le village de Berez sous les rives de la rivière Luna - et encore plus lorsque la sorcière Baba Lysaga commença à souiller le nouveau marais de magie noire. Après avoir observé un présage annonçant que la mort de Strahd suivrait rapidement celle de Lysaga, Gira descendit les pentes du Mont Ghakis jusqu'à la vallée pour attaquer la chaumière de Lysaga. Cependant, Lysaga sortit facilement victorieuse - et enchanta le crâne de Gira pour créer le crâne géant volant décrit dans <span class="citation">Crâne Géant (p. 163)</span>.
+> Au moment où Strahd rencontra Marina Ulrich, la première réincarnation de Tatyana, la fille de Burebis, Gira, avait près de deux siècles. Bien plus tempétueuse que son père, Gira devint furieuse quand Strahd noya le village de Berez sous les berges de la rivière Luna—et plus encore quand la sorcière Baba Lysaga commença à souiller le nouveau marais avec de la magie noire. Après avoir observé un présage annonçant que la mort de Strahd suivrait rapidement celle de Lysaga, Gira descendit les pentes du Mont Ghakis vers la vallée en contrebas pour attaquer la chaumière de Lysaga. Lysaga, cependant, émergea facilement victorieuse—et enchanta le crâne de Gira pour créer le crâne géant volant décrit dans <span class="citation">Crâne Géant (p. 163)</span>.
 >
-> Enragé par la mort de sa fille et la profanation de ses restes, Burebis descendit à Berez avec toute la fureur d'une tempête. Mais la vieillesse l'avait privé de sa force, et il échappa de peu à la rencontre avec la vie. Mourant de ses blessures, mais guidé par le Roc du Mont Ghakis - le familier du Chercheur - Burebis trouva son chemin jusqu'à Soldav, et le Sanctuaire de Rozana, où les racines primordiales le transpercèrent et le maintinrent en vie avec leur sève vitale. Là, il est resté depuis, centre spirituel du village des Gens de la Montagne et rappel vivant du monde que leurs ancêtres ont perdu.
+> Enragé par la mort de sa fille et la profanation de ses restes, Burebis descendit à Berez avec toute la fureur d'un maelström. La vieillesse, cependant, l'avait privé de sa force, et il échappa de justesse à la rencontre avec sa vie. Mourant de ses blessures, mais guidé par le Roc du Mont Ghakis—le familier de la Chercheuse—Burebis trouva son chemin jusqu'à Soldav, et le Sanctuaire de la Rozana, où les racines primordiales percèrent sa chair et le maintinrent en vie avec de la sève vivifiante. Il y est resté depuis lors, un centre spirituel du village des Peuples de la Montagne et un rappel vivant du monde que leurs ancêtres ont perdu.
 
-Avant de poursuivre, Burebis demande aux joueurs s'ils ont apporté les "signes" : les "secrets du sang" et le "sceau du soleil". (Burebis fait référence et peut décrire approximativement le *Tome de Strahd* et le *Symbole Sacré de Ravenkind*. S'il est interrogé, il insiste sur le fait qu'il a juré de ne jamais partager les présages qu'il a vus avant que ces signes ne lui soient révélés.)
+Avant de poursuivre, Burebis demande aux joueurs s'ils ont apporté les "signes" : les "secrets du sang" et le "sceau du soleil". (Burebis fait référence, et peut décrire approximativement, au *Tome de Strahd* et au *Symbole Sacré de Ravenkind*. Si on le lui demande, il insiste sur le fait qu'il a juré de ne jamais partager les présages qu'il a vus jusqu'à ce que ces signes lui soient révélés.)
 ### Ce que Burebis sait
-Si le *Tome de Strahd* et le *Symbole Sacré de Ravenkind* lui sont présentés, Burebis pousse un soupir de révérence et de soulagement, et est prêt à partager les informations suivantes :
+Si le *Tome de Strahd* et le *Symbole Sacré de Ravenkind* lui sont présentés, Burebis pousse un soupir de révérence et de soulagement, et est disposé à partager les informations suivantes :
 
-* Il est un géant des tempêtes - appartenant à une race vouée à la recherche et l'interprétation des présages - qui est arrivé à Barovia il y a près d'un millier d'années. "Jeune et arrogant", Burebis espérait prouver ses compétences face à l'être appelé "la Chercheuse" - l'une des Trois Dames, "des êtres de divinité féerique" qui résidaient dans la vallée.
-* Il défia la Chercheuse à une compétition de prescience et, lorsqu'il perdit, fut surpris qu'elle lui offre de lui enseigner à voir les fils du Destin comme elle le faisait. ("Bien que je n'aie jamais atteint sa maîtrise", médite Burebis, "son enseignement a éveillé en moi une conscience que ni moi ni mon peuple n'aurions cru possible.")
-* Burebis s'installa dans les montagnes de Balinok, sur le Mont Ghakis. Bien qu'il ait été perturbé par la conquête de Kavan et l'invasion subséquente du roi Dostron qui dévastèrent de nombreux lieux sacrés des Dames, une vision prophétique le rassura que, un jour, sa protectrice et mentor retrouverait son pouvoir légitime - lorsqu'un groupe de mortels porteurs des secrets du sang et du sceau solaire viendraient à lui pour restaurer la gloire des Dames.
+* Il est un **géant des tempêtes**—appartenant à une race dédiée à la recherche et l'interprétation des présages—qui est arrivé en Barovie il y a près de mille ans. "Jeune et arrogant", Burebis espérait prouver ses compétences contre l'être appelé "la Chercheuse"—l'une des Trois Dames, "êtres de divinité féerique" qui demeuraient dans la vallée.
+* Il défia la Chercheuse à une compétition de clairvoyance—et, lorsqu'il perdit, fut surpris quand la Chercheuse offrit de lui enseigner à voir les fils du Destin comme elle le faisait. ("Bien que je n'aie jamais approché sa maîtrise," médite Burebis, "son enseignement a déverrouillé une conscience que moi et mon peuple n'avions jamais crue possible.")
+* Burebis s'installa dans les Montagnes de Balinok, sur le Mont Ghakis. Bien qu'il fût troublé lorsque la conquête de Kavan et l'invasion subséquente du Roi Dostron dévastèrent plusieurs des lieux sacrés des Dames, une vision prophétique le rassura que, un jour, sa protectrice et mentor retrouverait son juste pouvoir—quand un groupe de mortels portant les secrets du sang et le sigil du soleil viendraient à lui cherchant à restaurer la gloire des Dames.
 
-Si interrogé sur sa place au Sanctuaire de Rozana, Burebis peut ajouter :
+Si on l'interroge sur sa place dans le Sanctuaire de la Rozana, Burebis peut ajouter:
 
-* Pendant des siècles après son arrivée dans la vallée, Burebis vécut dans une solitude confortable au sommet du Mont Ghakis, à l'écart des querelles des Tautas. Tandis que Kavan conquérait les tribus voisines, Burebis profita d'une romance d'une décennie avec une géante nomade des tempêtes, Preida, dont il eut une fille, Gira, nommée d'après la vallée au-dessus de laquelle il avait élu domicile.
-* Moins d'un siècle après la chute des Brumes, alors que Gira approchait les deux cents ans, Strahd utilisa le pouvoir des Fanes pour faire déborder la rivière Luna, noyant le village de Berez et transformant les alentours en marais. Bien plus tempétueuse que son père, Gira entra dans une rage folle face à la cruauté gratuite de Strahd - d'autant plus lorsque la sorcière Baba Lysaga commença à souiller le nouveau marais de magie noire.
-* Gira finit par être convaincue que les présages annonçaient que la mort de Strahd suivrait rapidement celle de Lysaga. Malgré les avertissements de Burebis, Gira descendit les pentes du Mont Ghakis pour attaquer la chaumière de Lysaga - et périt de sa main. "Au lieu d'enterrer ses restes", murmure Burebis, son corps tremblant de chagrin et de rage, "la sorcière invoqua une magie sombre pour dépouiller ma fille de sa chair, puis jeta un enchantement de vol sur son crâne, afin qu'elle puisse chevaucher les cieux dessus."
-* Enragé par la mort de Gira et la profanation de ses restes, Burebis descendit à Berez avec toute la furie d'une tempête. Mais la vieillesse l'avait affaibli, et il échappa de peu à la mort. Mourant de ses blessures mais guidé par la familière de la Chercheuse - un ancien corbeau nommé Turul - Burebis trouva son chemin jusqu'à Soldav et le Sanctuaire de Rozana, où les racines primordiales percèrent sa chair et le maintinrent en vie avec leur sève vivifiante. "Je suis resté ici depuis", conclut-il avec tristesse.
+* Pendant des siècles après son arrivée dans la vallée, Burebis demeura dans une confortable solitude parmi les sommets du Mont Ghakis, loin et à l'écart des querelles des Tauta. Tandis que Kavan conquérait les tribus voisines, Burebis profita d'une liaison de dix ans avec une géante des tempêtes nomade, Preida, et engendra une fille, Gira, nommée d'après la vallée au-dessus de laquelle il avait établi sa demeure.
+* Moins d'un siècle après la chute des Brumes, alors que Gira avait près de deux cents ans, Strahd utilisa le pouvoir des Fanes pour faire gonfler la rivière Luna au-delà de ses rives, noyant le village de Berez et transformant la région environnante en marais. Bien plus tempétueuse que son père, Gira fut enragée par la cruauté gratuite de Strahd—et encore plus lorsque la sorcière Baba Lysaga commença à souiller le nouveau marécage avec de la magie noire.
+* Gira devint bientôt convaincue que les présages annonçaient que la mort de Strahd suivrait rapidement celle de Lysaga. Contre les avertissements de Burebis, Gira descendit les pentes du Mont Ghakis vers la vallée en contrebas pour attaquer la chaumière de Lysaga—et mourut de la main de Lysaga. "Au lieu d'enterrer ses restes," murmure Burebis, son corps tremblant de chagrin et de rage anciens, "la sorcière fit appel à une magie sinistre pour arracher la chair des os de ma fille, puis plaça un enchantement de vol sur le crâne de Gira, afin qu'elle puisse chevaucher dans les cieux dessus."
+* Enragé par la mort de Gira et la profanation de ses restes, Burebis descendit à Berez avec toute la fureur d'un maelström. La vieillesse, cependant, l'avait privé de sa force, et il échappa à peine à la rencontre avec sa vie. Mourant de ses blessures, mais guidé par le familier de la Chercheuse—un ancien corbeau nommé Turul—Burebis trouva son chemin jusqu'à Soldav et au Sanctuaire de la Rozana, où les racines primordiales percèrent sa chair et le soutinrent avec une sève vivifiante. "Je suis resté ici depuis," conclut-il gravement.
 
-Burebis peut aussi partager les informations suivantes sur les Dames des Fanes :
+Burebis peut également partager les informations suivantes concernant les Dames des Fanes:
 
+* Les Dames des Temples ayant vu leurs lieux sacrés profanés par Kavan, le Roi Dostron et Strahd, et leurs fidèles affaiblis et divisés, elles sont désormais réduites à l'état d'esprits, incapables d'agir ou d'exercer le pouvoir qu'elles possédaient autrefois.
+* Le lieu sacré de la Tisseuse était le Temple du Marais, qui se dresse près de la ville en ruine sur les rives de la rivière Luna ; celui de la Chasseresse, le Temple de la Forêt, au sommet de la Colline d'Yester ; et celui de la Chercheuse, le Temple de la Montagne, dans une clairière occidentale dans le bassin boisé de la vallée. Aujourd'hui, les trois sont profanés — corrompus par la magie impie de Strahd, leur pouvoir perverti et canalisé pour servir le vampire. « À travers eux », dit Burebis, avec une colère sous-jacente dans sa voix, « le vampire commande les bêtes, la terre et le ciel de la vallée — et à travers eux, il a lié son âme à la terre elle-même. » (Bien que Burebis n'en soit pas certain, il peut confirmer, si on le lui demande, qu'il soupçonne que tant que Strahd reste lié aux Temples, son âme reste ancrée à la vallée, et qu'il ne peut donc pas être véritablement tué.)
+* Burebis ignore malheureusement comment les Temples peuvent être reconsacrés et comment rompre le pouvoir de Strahd sur eux. « Seules les Dames elles-mêmes peuvent détenir ce savoir », gronde-t-il, « et bien que leurs esprits demeurent toujours en Barovia, elles ne sont plus ce qu'elles étaient autrefois » ; ayant été réduites à de simples vestiges de divinité, Burebis craint que les Dames ne disposent plus des moyens de communiquer davantage avec les mortels. « Je n'ai moi-même plus entendu le murmure de la Chercheuse dans le vent depuis que les Brumes sont tombées », partage-t-il, mélancolique.
+* Bien qu'il répugne à chercher du savoir dans un lieu aussi profane et obscur, Burebis pense que les mages depuis longtemps disparus du Temple d'Ambre ont peut-être créé ou documenté des rituels capables de contacter les vestiges des Dames. « Les vestiges d'êtres anciens demeurent dans les murs du temple », note-t-il, « et d'innombrables secrets gisent enfouis dans les profondeurs du temple. Si vous explorez ses tomes cachés, vous pourriez bien trouver les moyens de rassembler les esprits des Dames et de communier avec elles, comme je l'ai fait il y a bien longtemps. »
+### La requête de Burebis
+Si les joueurs acceptent sa mission de chercher du savoir au Temple d'Ambre, Burebis leur demande de revenir vers lui s'ils réussissent. « J'ai persisté bien au-delà de mon temps », murmure-t-il, « mais je crois que ces racines ont maintenu mon existence pour une raison. Je suis vieux et lié, mais je possède des connaissances et une force qui pourraient vous être utiles. »
 
-
-* Avec leurs lieux saints profanés par Kavan, le Roi Dostron et Strahd, et leurs adorateurs affaiblis et divisés, les Dames des Sanctuaires ont été réduites à peu plus que des esprits, incapables d'agir ou d'exercer le pouvoir qu'elles détenaient autrefois.
-* Le lieu saint de la Tisseuse était le Sanctuaire des Marais, qui se dresse près de la ville en ruine sur les rives de la rivière Luna ; celui de la Chasseresse, le Sanctuaire de la Forêt, au sommet de la Colline d'Yester ; et celui de la Chercheuse, le Sanctuaire de la Montagne, dans une clairière à l'ouest du bassin boisé de la vallée. Aujourd'hui, les trois sont profanés - corrompus par la magie profane de Strahd, leur pouvoir perverti et canalisé pour l'usage du vampire. "À travers eux", dit Burebis, avec une pointe de colère dans la voix, "le vampire commande les bêtes, la terre et le ciel de la vallée - et à travers eux, il a lié son âme à la terre elle-même." (Bien que Burebis n'en soit pas certain, il peut confirmer, si on le lui demande, ses soupçons que, tant que Strahd reste lié aux Sanctuaires, son âme reste ancrée à la vallée, et qu'il ne peut donc pas être vraiment tué.)
-* Burebis regrette de ne pas savoir comment les Sanctuaires peuvent être reconsacrés et le pouvoir de Strahd sur eux rompu. "Seules les Dames elles-mêmes peuvent posséder cette connaissance", gronde-t-il, "et bien que leurs esprits demeurent encore à Barovia, elles ne sont plus comme autrefois" ; ayant été réduites à de simples vestiges de divinité, Burebis craint que les Dames n'aient plus les moyens de communiquer avec les mortels. "Moi-même, je n'ai plus entendu le murmure de la Chercheuse sur le vent depuis la chute des Brumes", partage-t-il avec tristesse.
-* Bien qu'il soit réticent à chercher des connaissances dans un lieu aussi profane et obscur, Burebis pense que les mages défunts du Temple d'Ambre ont pu concevoir ou documenter des rituels capables de contacter les vestiges des Dames. "Les vestiges d'êtres anciens demeurent dans les murs du temple", note-t-il, "et d'innombrables secrets sont enfouis dans les profondeurs du temple. Si vous explorez ses tomes cachés, vous pourriez bien trouver le moyen de rassembler les esprits des Dames et communier avec elles, comme je l'ai fait moi-même il y a longtemps."
-
-### La Requête de Burebis
-Si les joueurs acceptent sa mission de chercher des connaissances au Temple d'Ambre, Burebis leur demande de revenir le voir s'ils y parviennent. "J'ai erré bien après mon temps", râle-t-il, "mais je crois que ces racines ont permis mon existence pour une raison. Je suis vieux et lié, mais je possède des connaissances et une force qui pourraient bien vous être utiles."
-
-Si les joueurs acceptent de revenir le voir après avoir exploré le Temple d'Ambre, Burebis se laisse aller à la gratitude et au soulagement. En remerciement, il offre aux joueurs un don pour les aider dans leurs voyages vers et depuis le Temple. Lisez le texte suivant, en remplaçant le blanc par le nom du personnage qui porte le *sifflet des Gardiens* :
+Si les joueurs acceptent de revenir vers lui après avoir exploré le Temple d'Ambre, Burebis s'affaisse de gratitude et de soulagement. En remerciement, il offre aux joueurs un don pour les aider dans leurs voyages vers et depuis le Temple. Lisez le texte suivant, en remplaçant le vide par le nom du personnage qui porte le *sifflet des Gardiens* :
 
 <div class="description">
-<p>Les vieux yeux de Burebis parcourent vos formes, finissant par se poser sur &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;. "Je sens la présence de la magie de la Chercheuse sur vous", dit-il. "Vous portez un don des corbeaux, n'est-ce pas ?"</p>
+<p>Les vieux yeux de Burebis parcourent vos silhouettes, s'arrêtant finalement sur __________. « Je sens la magie de la Chercheuse sur vous », dit-il. « Vous portez un don des corbeaux, n'est-ce pas ? »</p>
 </div>
 
-Si le *sifflet* est révélé, Burebis demande qu'il soit placé sur le pilier de pierre au centre de la mare, afin qu'il puisse l'inspecter. Si les joueurs le font, continuez :
+Si le *sifflet* est révélé, Burebis demande qu'il soit placé sur le pilier de pierre au centre du bassin, afin qu'il puisse l'examiner. Si les joueurs s'exécutent, continuez :
 
 <div class="description">
-<p>Les yeux de Burebis se ferment, et les nuages blancs de brume qui s'élèvent de la mare commencent à tourbillonner dans les airs vers la surface du pilier. Une pâle lueur bleu céruléen entoure le sifflet et, pendant un instant, une grande et terrible ombre ailée traverse les profondeurs des nuages, son cri farouche semblant résonner d'une lointaine distance. Puis - l'ombre disparaît, la lueur s'estompe, et les brumes redescendent paresseusement vers la terre.</p>
+<p>Burebis ferme les yeux, et les nuages blancs de brume qui s'élèvent du bassin commencent à tourbillonner dans l'air vers la surface du pilier. Une lueur bleu céruléen entoure le sifflet et, pendant un instant, une grande et terrible ombre ailée traverse les profondeurs des nuages, son cri féroce semblant résonner depuis une lointaine distance. Puis — l'ombre disparaît, la lueur s'estompe, et les brumes redescendent paresseusement vers la terre.</p>
 </div>
 
+Le *sifflet* gagne alors le *Charme du Familier du Chercheur* (voir ci-dessous). "Si vous vous trouvez en danger sur cette montagne," confie Burebis, "soufflez dans ce sifflet. Si vous le faites sous un ciel dégagé, le familier de mon maître viendra vous défendre—bien que cette magie ne fonctionne qu'une seule fois." (Si on lui demande, Burebis révèle seulement que ce "familier" est un ancien corbeau nommé Turul, que le Chercheur a investi d'une grande magie et puissance—potentiellement suffisante pour rivaliser avec Strahd lui-même lorsqu'il se trouve dans le domaine de Turul sur le Mont Ghakis. "Il n'a jamais vraiment apprécié ma présence," médite Burebis avec nostalgie, "mais je ne doute pas qu'il viendrait si je l'appelais.")
 
+> [!item]+ **Charme du Familier du Chercheur**
+> Tant que le *sifflet des Gardiens* porte ce charme, un joueur se tenant sur le Mont Ghakis peut le souffler pour invoquer le **Roc du Mont Ghakis** qui viendra à son aide, arrivant en 1d4 minutes. Ce charme ne peut pas être utilisé si le joueur se trouve à l'intérieur d'une structure, sous terre, ou n'a pas de vue sur le ciel. Une fois utilisé, ce charme disparaît.
 
-Le *sifflet* gagne alors le *Charme du familier du Chercheur* (voir ci-dessous). "Si vous vous retrouvez en danger sur cette montagne," partage Burebis, "soufflez dans ce sifflet. Si vous le faites sous le ciel ouvert, le familier de mon maître viendra vous défendre - bien que cette magie ne fonctionnera qu'une seule fois." (Si on lui demande, Burebis partage seulement que ce "familier" est un ancien corbeau nommé Turul, dans lequel le Chercheur a investi une grande magie et un grand pouvoir - potentiellement suffisamment de magie pour rivaliser avec Strahd lui-même dans le domaine de Turul sur le Mont Ghakis. "Il n'a jamais vraiment apprécié ma présence," se remémore Burebis avec nostalgie, "mais je ne doute pas qu'il viendrait si je l'appelais.")
+> [!warning]+ **Garder un Secret**
+> Pour que la véritable nature de Turul en tant que Roc du Mont Ghakis reste non confirmée jusqu'à l'utilisation du sifflet, évitez de montrer aux joueurs le véritable texte du *Charme du Familier du Chercheur*, en remplaçant la référence au roc par une référence au "familier du Chercheur."
 
-> [!item]+ **Charme du familier du Chercheur**
-> Tant que le *sifflet des Gardiens* porte ce charme, un joueur se tenant sur le Mont Ghakis peut le souffler pour invoquer le **Roc du Mont Ghakis** à son aide, qui arrive en 1d4 minutes. Ce charme ne peut pas être utilisé si le joueur est à l'intérieur d'une structure, sous terre ou s'il n'a pas une vue sur le ciel. Une fois utilisé, ce charme disparaît.
+Lorsqu'il a fini d'enchanter le *sifflet des Gardiens*, les yeux de Burebis s'affaissent et sa voix devient rauque. "Je crains que notre conversation et cette investiture ne m'aient épuisé," dit-il avec excuses. "Je dois me reposer et réserver mes forces pour le rôle qui m'attend encore."
 
-> [!warning]+ **Garder un secret**
-> Pour s'assurer que la véritable nature de Turul en tant que Roc du Mont Ghakis reste non confirmée jusqu'à ce que le sifflet soit utilisé, évitez de montrer aux joueurs le véritable texte du *Charme du familier du Chercheur*, en remplaçant la référence au roc par une référence au "familier du Chercheur".
+Avant que les joueurs ne partent, ou à un autre moment approprié de la conversation, Burebis prévient les joueurs que le mal au sein du Temple d'Ambre "n'est pas à prendre à la légère." "De nombreux mortels ont cru pouvoir contrôler le pouvoir qu'il renferme," croasse-t-il, "et se sont perdus dans les ténèbres. Un abîme se cache au cœur du temple—mais n'y plongez pas le regard plus longtemps que nécessaire, de peur qu'il ne trouve prise dans votre âme et ne vous entraîne dans des ombres ambrées." (Burebis ne connaît pas la véritable nature ou l'histoire du Temple d'Ambre, ni aucune autre information que celle qu'il partage avec les joueurs.)
 
-Lorsqu'il a fini d'investir le *sifflet des Gardiens*, les yeux de Burebis s'affaissent et sa voix s'abaisse en un croassement. "Je crains que notre conversation et cette investiture ne m'aient épuisé," dit-il avec des excuses. "Je dois me reposer et conserver mes forces pour le rôle qui m'attend encore."
+Si on le lui demande, Burebis a suffisamment d'énergie pour répondre à une dernière question ; sinon, ou une fois qu'il l'a fait, Burebis les congédie en ajoutant : "Allez en paix, et que les Dames vous guident à travers les épreuves qui vous attendent." Il s'endort ensuite et ne peut être réveillé avant le retour des joueurs.
 
-Avant que les joueurs ne partent, ou à un autre moment opportun de la conversation, Burebis avertit les joueurs que le mal à l'intérieur du Temple d'Ambre "n'est pas à prendre à la légère". "De nombreux mortels ont cru pouvoir contrôler le pouvoir qu'il cache," croasse-t-il, "et se sont perdus dans les ténèbres. Un abîme se tapit au cœur du temple - mais ne le regardez pas plus longtemps que nécessaire, de peur qu'il ne trouve un ancrage dans votre âme et vous entraîne dans les ombres ambrées." (Burebis ne connaît pas la véritable nature ou l'histoire du Temple d'Ambre, ni aucune autre information que celle qu'il partage avec les joueurs.)
-
-Si on lui pose la question, Burebis a suffisamment d'énergie pour répondre à une dernière question ; sinon, ou une fois qu'il l'a fait, Burebis les congédie, ajoutant : "Allez bien, et puissent les Dames vous guider à travers les épreuves qui vous attendent." Il s'endort alors et ne peut pas être réveillé jusqu'au retour des joueurs.
-
-***Jalon.*** Recevoir la mission de Burebis atteint un jalon de l'histoire. Lorsque les joueurs quittent le Sanctuaire de Rozana, accordez à chaque joueur 5 000 XP.
+***Étape importante.*** Recevoir la mission de Burebis constitue une étape importante de l'histoire. Lorsque les joueurs quittent le Sanctuaire de la Rozana, accordez à chaque joueur 5 000 PX.
 ## R5g. Matin à Soldav
-À leur retour dans la longue maison du chef Diegia, les joueurs constatent que Como, Kaldur et (si les joueurs se sont réconciliés avec lui) Scorilo ont débarrassé les tables, les bancs et les déchets laissés par le festin des vacances, permettant aux joueurs d'installer leurs rouleaux de couchage autour du foyer. (En raison des nuages protecteurs de Burebis, qui dissimulent le cratère de Soldav à la vue et le protègent de la divination, Strahd et ses espions ne peuvent pas trouver les joueurs tant qu'ils restent à Soldav, et leur long repos n'est pas interrompu.)
+À leur retour dans la grande hutte du Chef Diegia, les joueurs découvrent que Como, Kaldur et (si les joueurs ont fait la paix avec lui) Scorilo ont débarrassé les tables, les bancs et les restes laissés par le festin de la fête, permettant aux joueurs de placer leurs sacs de couchage autour du foyer. (Grâce aux nuages protecteurs de Burebis, qui dissimulent le cratère de Soldav et le protègent de la divination, Strahd et ses espions ne peuvent pas trouver les joueurs tant qu'ils restent à Soldav, et leur repos long n'est pas interrompu.)
 
-Lorsque les joueurs se réveillent le matin suivant, Oroles les accueille avec un petit-déjeuner de pains plats chauds avec du miel, des baies séchées et du fromage frais. Si les joueurs ont déjà demandé à Diegia des informations sur le Temple d'Ambre, ou s'ils le demandent maintenant, elle se joint à Oroles et peut partager les informations suivantes :
+Quand les joueurs se réveillent le lendemain matin, Oroles les accueille avec un petit-déjeuner de galettes chaudes avec du miel, des baies séchées et du fromage frais. Si les joueurs ont précédemment interrogé Diegia au sujet du Temple d'Ambre, ou s'ils demandent ces informations maintenant, elle rejoint Oroles et peut partager les informations suivantes :
 
-* Le temple est un lieu ancien et maudit, et se dresse sur le mont Ghakis presque aussi longtemps que les Tauta ont habité la vallée. Il a été construit par d'étranges mages il y a longtemps, qui cherchaient à contenir des choses sombres et tordues dans des cryptes d'ambre.
+* Le temple est un lieu ancien et maudit, qui se dresse sur le mont Ghakis presque aussi longtemps que les Tauta ont habité la vallée. Il a été construit il y a longtemps par d'étranges mages qui cherchaient à enfermer des choses sombres et tordues dans des cryptes d'ambre.
+* Nombreux sont ceux qui ont cherché à obtenir pouvoir ou connaissance du temple ; presque tous sont tombés proie à la corruption du temple, ou sont devenus victimes du danger qui s'y trouve. Bien que ses bâtisseurs soient morts depuis longtemps, le temple reste bien défendu par des forces contre-nature, avec d'étranges constructions et des morts-vivants patrouillant ses corridors assombris. De plus, un miasme maléfique remplit les chambres du temple, consumant la vitalité de quiconque cherche à s'y reposer.
+* Le temple est bien caché, perché haut dans les étendues gelées du mont Ghakis et entouré de falaises mortelles. Bien qu'une route ancienne menait autrefois directement à sa façade, elle s'est effondrée il y a longtemps, ne laissant que des sentiers périlleux et d'étroites corniches pour s'en approcher. "Le chemin le plus facile commence sur le bord sud-ouest du plateau à l'extérieur de Soldav," dit Diegia. "Si vous le suivez, il vous guidera jusqu'aux portes du temple."
+* La **chèvre géante** Sangzor garde le seul passage qui mène désormais vers le temple. Réputée pour avoir demeuré sur le mont Ghakis pendant des siècles, voire des millénaires, Sangzor a envoyé de nombreux pèlerins du Temple s'écraser à leur mort en bas de la montagne. "On dit que Sangzor perçoit le mal qui se cache dans le cœur des hommes," dit Diegia solennellement. "Ce n'est que si elle vous juge dignes qu'elle vous laissera passer."
+* Les héritiers de la chefferie de Soldav, chacun accompagné de trois compagnons de confiance, se sont rendus au Temple d'Ambre pendant des siècles, cherchant à tester leur résilience et leur volonté contre la corruption qu'il contient. "Depuis des temps immémoriaux, il demeure sur notre pic sœur," dit Diegia d'un air sinistre, "ses murmures caressant doucement les rêves de ceux qu'il cherche à tenter. Chaque fois qu'un chef a accepté ses invitations, une calamité s'est abattue sur la tribu peu après. Maintenant, nous testons nos chefs avant qu'ils ne prennent le siège de bois—afin que si une faiblesse se cache dans leur cœur, elle soit exposée et détruite avec son porteur."
+* Actuellement, l'aînée et unique fille de Diegia, Diona, subit une telle épreuve, méditant dans le temple avec ses trois compagnons choisis pendant six jours et six nuits avant de pouvoir retourner à Soldav. Si les joueurs la rencontrent, Diegia leur demande de lui transmettre ses salutations et son espoir que Diona puisse accomplir son rite de passage avec succès et rentrer chez elle auprès de sa famille.
 
-* Beaucoup ont cherché à obtenir du pouvoir ou des connaissances du temple; presque tous sont tombés victimes de la corruption du temple, ou ont été victimes du danger qui s'y trouve. Bien que ses bâtisseurs soient morts depuis longtemps, le temple reste bien défendu par des forces surnaturelles, avec d'étranges constructions et des morts-vivants patrouillant dans ses couloirs sombres. De plus, un miasme maléfique remplit les chambres du temple, consumant la vitalité de tous ceux qui cherchent à s'y reposer.  
-
-* Le temple est bien caché, monté haut dans les régions glacées du mont Ghakis et entouré de falaises mortelles. Bien qu'une ancienne route ait autrefois mené directement à sa façade avant, elle s'est effondrée il y a longtemps, ne laissant que des sentiers traîtres et des rebords étroits pour s'en approcher. "Le chemin le plus facile commence sur le bord sud-ouest du plateau à l'extérieur de Soldav", dit Diegia. "Si vous le suivez, il vous guidera jusqu'aux portes du temple."
-
-* La **chèvre géante** Sangzor garde le seul passage qui mène maintenant vers le temple. Selon la rumeur, il aurait vécu sur le mont Ghakis pendant des siècles, voire des millénaires, et a envoyé de nombreux pèlerins au Temple chuter jusqu'à la mort dans les flancs de la montagne. "On dit que Sangzor sent le mal qui se tapit dans les cœurs des hommes", dit Diegia solennellement. "Seul s'il vous juge digne, il vous permettra de passer."
-
-* Les héritiers du chef de Soldav, chacun accompagné de deux compagnons de confiance, se sont rendus au Temple d'Ambre pendant des siècles, cherchant à tester leur résilience et leur volonté contre la corruption qu'il contient. "Depuis des temps immémoriaux, il a résidé sur notre pic jumeau", dit Diegia d'un air sombre, "ses murmures caressant doucement les rêves de ceux qu'il cherche à tenter. Chaque fois qu'un chef a accepté ses invitations, la calamité s'est abattue sur la tribu peu après. Maintenant, nous testons nos chefs avant qu'ils ne prennent la chaise en bois - afin que si une faiblesse se tapit dans leur cœur, elle soit tirée et détruite avec son porteur."
-
-* Actuellement, l'aînée de Diegia et sa seule fille, Diona, subit un tel essai, méditant dans le temple avec ses deux compagnons choisis pendant six jours et six nuits avant de pouvoir revenir à Soldav. Si les joueurs la rencontrent, Diegia leur demande de lui transmettre ses salutations et son espoir que Diona puisse réussir son rite de passage et rentrer auprès de sa famille.
-
-Lorsque les joueurs sont prêts à partir, Diegia et sa famille leur disent au revoir. Como les guide ensuite jusqu'au tunnel de sortie et leur souhaite bonne chance pour leur voyage. (Si on lui demande, Como refuse de se joindre aux joueurs pour leur voyage. "Ma place est ici, avec ma famille et mon peuple", dit-il avec regret.)
-
+Lorsque les joueurs sont prêts à partir, Diegia et sa famille leur souhaitent bonne chance. Como les guide ensuite jusqu'au tunnel de sortie et leur souhaite bonne chance dans leur voyage. (Si on le lui demande, Como refuse de se joindre aux joueurs pour leur voyage. "Ma place est ici, avec ma famille et mon peuple," dit-il, avec regret.)
 # R6. Mont Ghakis
-## R6a. L'épreuve de Sangzor  
-En quittant Soldav, Kasimir peut guider les joueurs sur le sentier caché qui mène du plateau au Temple d'Ambre.
+## R6a. L'Épreuve de Sangzor
+En quittant Soldav, Kasimir peut guider les joueurs vers le sentier caché qui mène du plateau au Temple d'Ambre.
 
-Ce sentier caché est en grande partie comme décrit dans <span class="citation">La Charge de Bloodhorn (p. 160)</span>. Cependant, à un demi-mile sur le chemin, ils remarquent automatiquement Sangzor sur un rocher au-dessus d'eux.
+Ce chemin caché est largement tel que décrit dans <span class="citation">La Charge de Corne-de-Sang (p. 160)</span>. Cependant, à environ 800 mètres sur le chemin, ils remarquent automatiquement Sangzor sur un rocher au-dessus d'eux.
 
 Modifiez les statistiques de Sangzor comme suit :
 
-* Il a une Intelligence de 10 (+0) de modificateur, une Sagesse de 18 (+4), et est véritablement neutre.
-* Il a une CA de 13 (armure naturelle).  
-* Il a 136 points de vie.
-* Son attaque de ***coup de bélier*** a +6 pour toucher et inflige 19 (3d10 + 3) dégâts contondants en cas de touche. Si Sangzor s'est déplacé d'au moins 6 mètres en ligne droite vers la cible juste avant l'attaque, l'attaque est faite avec l'avantage et inflige 11 (2d10) dégâts contondants supplémentaires en cas de touche, plutôt que 5 (2d4).  
+* Elle a une Intelligence de 10 (modificateur +0), une Sagesse de 18 (+4), et est d'alignement neutre strict.
+* Elle a une CA de 13 (armure naturelle).
+* Elle a 136 points de vie.
+* Son attaque de ***coup de bélier*** a +6 pour toucher et inflige 19 (3d10 + 3) dégâts contondants en cas de coup. Si Sangzor s'est déplacée d'au moins 6 mètres en ligne droite vers la cible juste avant l'attaque, l'attaque est effectuée avec avantage et inflige 11 (2d10) dégâts contondants supplémentaires en cas de coup, au lieu de 5 (2d4).
 
 Supprimez la deuxième phrase de la description de Sangzor. Après que les joueurs ont eu l'occasion de réagir, lisez :
 
 <div class="description">
-<p>La chèvre vous regarde de ses yeux sombres et perçants. Un par un, elle pose son regard sur chacun d'entre vous, évaluant soigneusement chaque sujet à son tour.</p>
+<p>La chèvre vous observe avec des yeux sombres et perçants. Un par un, elle tourne son regard vers chacun d'entre vous, évaluant soigneusement chaque sujet à son tour.</p>
 </div>
 
-Tandis qu'elle observe chaque membre du groupe, Sangzor tente de sonder profondément l'esprit et le cœur de ce personnage, comme si elle utilisait le sort *détection des pensées* (DD 15). Si un joueur échoue son jet de sauvegarde contre cette magie, Sangzor discerne si la cible a l'intention de rechercher le pouvoir des vestiges du Temple d'Ambre.
+Alors que son regard se pose sur chaque membre du groupe, Sangzor tente de sonder profondément l'esprit et le cœur de ce personnage, comme en utilisant le sort *détection des pensées* (DD 15). Si un joueur échoue à son jet de sauvegarde contre cette magie, Sangzor discerne si la cible a l'intention de rechercher le pouvoir des vestiges du Temple d'Ambre.
 
-Si Sangzor détermine qu'un joueur a l'intention de rechercher le pouvoir des vestiges du Temple d'Ambre, ou si les joueurs l'attaquent, Sangzor charge ce joueur comme décrit dans <span class="citation">Charge de Bloodhorn (p. 160)</span>. Sangzor fuit si elle est blessée.
+Si Sangzor détermine qu'un joueur a l'intention de rechercher le pouvoir des vestiges du Temple d'Ambre, ou si les joueurs l'attaquent, Sangzor charge ce joueur comme décrit dans <span class="citation">Charge de Corne-Sanglante (p. 160)</span>. Sangzor s'enfuit s'il est ensanglanté.
 
-Si Sangzor ne détecte aucune intention de rechercher le pouvoir des vestiges dans les cœurs des joueurs, elle incline la tête en signe de respect, puis se détourne pour partir, disparaissant bientôt dans la neige et le brouillard.
+Si Sangzor ne détecte aucune intention de rechercher le pouvoir des vestiges dans le cœur des joueurs, il incline la tête en signe de respect, puis se retourne pour partir, disparaissant bientôt dans la neige et la brume.
 ## R6b. Le Temple d'Ambre
-Après le promontoire de Sangzor, l'étroite route continue sur environ 800 mètres avant de passer entre deux hautes falaises menaçantes. Lorsque les joueurs passent entre les falaises, ils arrivent au Temple d'Ambre, dont l'extérieur est décrit dans <span class="citation">X1. Façade du Temple (p. 183)</span>. Les joueurs commencent alors [[Arc S - Une Épée de Lumière Solaire]].
+Au-delà de l'escarpement de Sangzor, l'étroite route continue sur un autre demi-kilomètre avant de passer entre deux hautes falaises menaçantes. Lorsque les joueurs passent entre les falaises, ils arrivent au Temple d'Ambre, dont l'extérieur est décrit dans <span class="citation">X1. Façade du Temple (p. 183)</span>. Les joueurs commencent alors [[Arc S - Une Épée de Lumière Solaire]].
 
-***Jalon.*** Atteindre le Temple d'Ambre constitue un jalon de l'histoire. Lorsque les joueurs arrivent à l'extérieur du Temple d'Ambre, accordez 5 000 XP à chaque joueur.
+***Étape importante.*** Atteindre le Temple d'Ambre représente une étape importante de l'histoire. Lorsque les joueurs arrivent à l'extérieur du Temple d'Ambre, accordez à chaque joueur 5 000 PX.
 
 > [!tip] **Vous avez atteint la fin des Brumes**
-> Vous avez atteint la fin de la version publique actuelle du guide _La Malédiction de Strahd : Reloaded_.
->
-> Pour avoir un aperçu des brouillons pour [[Arc S - Une Épée de Lumière Solaire]], ainsi que des plans supplémentaires et des notes pour _**Acte IV : Les Secrets de l'Antique**_ et le reste de l'aventure, soutenez le guide en rejoignant le [Patreon](https://www.patreon.com/DragnaCarta) de l'auteur.
+> Vous avez atteint la fin de la version publique actuelle du guide _La Malédiction de Strahd : Rechargé_.
+> 
+> Pour avoir un aperçu des ébauches de [[Arc S - Une Épée de Lumière Solaire]], ainsi que des plans supplémentaires et des notes pour _**Acte IV : Secrets de l'Ancien**_ et le reste de l'aventure, soutenez le guide en rejoignant le [Patreon](https://www.patreon.com/DragnaCarta) de l'auteur.
 

@@ -17,7 +17,7 @@ Si les joueurs retournent à Vallaki, affrontent Rictavio et le persuadent qu'il
 > [!lore]+ **La Récompense de Strahd**
 > Lorsque Strahd a reçu la [[Arc C - A travers la vallée#C8. Le Carrosse Noir|dernière prédiction de Madame Eva]], il a appris qu'il ne pouvait pas contrôler le pouvoir brut des Fanes sans un symbole de la divinité de _Rozana_. Strahd a également appris deux moyens d'obtenir un tel symbole : en sacrifiant un souvenir de son passé au Mur Murmurant près de la Colline d'Hier, ou en s'assurant un descendant mortel portant une étincelle divine des Trois Dames elles-mêmes. La préférence de Strahd va bien sûr à cette dernière option.
 > 
-> Strahd sait que les signes d'un descendant le mèneront à eux. À cette fin, il a envoyé ses espions à travers Barovia à leur recherche. Bien que Strahd ne le sache pas, son échanson et plus récente consort - le **rejeton vampirique** Escher - a pris sur lui de poursuivre également le descendant.
+> Strahd sait que les signes d'un descendant le mèneront à eux. À cette fin, il a envoyé ses espions à travers la Barovie à leur recherche. Bien que Strahd ne le sache pas, son échanson et plus récent consort - le **rejeton vampirique** Escher - a pris sur lui de poursuivre également le descendant.
 > 
 > _**L'Accord d'Escher et Yan.**_ Bien qu'Escher ait rejoint librement la cour de Strahd, il craint récemment que Strahd ne l'écarte bientôt - surtout si les épouses vampiriques de Strahd, Ludmilla, Anastrasya et Volenta, parviennent à regagner ses faveurs. Ainsi, lorsqu'un Vistani nommé Yan - l'un des nombreux espions de Strahd - s'est rendu au Château Ravenloft pour faire un rapport, Escher a conclu un accord avec lui. Yan a accepté d'aider à localiser le descendant des Dames ; en échange, une fois qu'Escher serait devenu le consort favori de Strahd, il fournirait à Yan richesses et pouvoir.
 > 
@@ -29,7 +29,7 @@ Si les joueurs retournent à Vallaki, affrontent Rictavio et le persuadent qu'il
 > 
 > Le Dr Rudolph van Richten, le chasseur de vampires qui s'était enfui du Château Ravenloft après le réveil de Strahd, séjournait non loin de là dans la vieille tour du Lac Baratok. Ce jour-là, Van Richten cherchait dans les herbes marécageuses de la rive une herbe médicinale particulière dont il avait épuisé le stock - et c'est là, accroupi caché dans les sous-bois, qu'il a remarqué la réunion clandestine de Yan et Escher.
 > 
-> D'ordinaire, Van Richten aurait répugné à révéler sa position - même en présence d'un des répugnants rejetons de Strahd - au risque de faire sauter sa couverture. Cependant, lorsqu'il a remarqué le sac de Yan bouger et entendu les gémissements d'un enfant à l'intérieur, l'esprit de Van Richten s'est remémoré l'enlèvement et la mort de son défunt fils, Erasmus - et son corps a bougé sans réfléchir.
+> D'ordinaire, Van Richten aurait répugné à révéler sa position - même en présence d'un des répugnants rejetons de Strahd - au risque de faire sauter sa couverture. Cependant, lorsqu'il a remarqué le sac de Yan bouger et entendu les gémissements d'une enfant à l'intérieur, l'esprit de Van Richten s'est remémoré l'enlèvement et la mort de son défunt fils, Erasmus - et son corps a bougé sans réfléchir.
 > 
 > En quelques secondes, Yan était mort et un Escher blessé s'était enfui vers le Château Ravenloft. Van Richten a rapidement libéré Arabelle de ses liens et a été stupéfait de voir qu'elle était elle-même une jeune Vistani. Lorsque Van Richten a utilisé son _talisman d'échos_ pour lancer _parler aux morts_ sur la tête tranchée de Yan et qu'il a appris le plan d'Escher, lui et Arabelle ont réalisé que le campement des Vistani n'était plus à l'abri des espions de Strahd.
 > 
@@ -47,9 +47,9 @@ Si les joueurs retournent à Vallaki, affrontent Rictavio et le persuadent qu'il
 > 
 > Le matin, Van Richten a caché Arabelle à l'arrière de la roulotte, qu'il a attelée à Drusilla, son cheval, et l'a conduite à Vallaki. Là, il a conclu un accord avec Gunther et Yelena Arasek pour entreposer la roulotte (contenant toujours Arabelle) dans le stockyard d'Arasek, et a pris ses quartiers dans la chambre d'hôte privée de l'auberge de l'Eau Bleue.
 > 
-> _**Conséquences de l'enlèvement.**_ L'absence d'Arabelle n'est pas passée inaperçue longtemps. À la tombée de la nuit le jour de son enlèvement, Luvash avait découvert Alexei gueule de bois et appris la disparition de sa fille. Les Vistani et les elfes crépusculaires se sont déployés dans les bois voisins, cherchant en vain un signe de la fille disparue.
+> _**Conséquences de l'enlèvement.**_ L'absence d'Arabelle n'est pas passée inaperçue longtemps. À la tombée de la nuit le jour de son enlèvement, Luvash avait découvert Alexei avec une gueule de bois et appris la disparition de sa fille. Les Vistani et les elfes crépusculaires se sont déployés dans les bois voisins, cherchant en vain un signe de la fille disparue.
 > 
-> Presque au même moment où Van Richten et Arabelle franchissaient les portes de Vallaki, un elfe crépusculaire nommé Savid a trouvé le corps décapité de Yan parmi les roseaux de la rivière Luna au milieu de signes de lutte. Savid a également trouvé un étrange bibelot sur l'herbe ensanglantée : une chevalière en platine frappée d'un étrange sceau. Il l'a rapportée à Luvash, qui a ordonné à Savid de la remettre à Kasimir Velikov - le chef et érudit des elfes crépusculaires - pour inspection dès le retour de Kasimir. Luvash a continué les recherches d'Arabelle, bien que ses efforts personnels aient pris fin dans un halte sanglante et brutale lorsque sa jambe droite a été prise dans un piège à loup bien caché.
+> Presque au même moment où Van Richten et Arabelle franchissaient les portes de Vallaki, un elfe crépusculaire nommé Savid a trouvé le corps décapité de Yan parmi les roseaux de la rivière Luna au milieu de signes de lutte. Savid a également trouvé un étrange bibelot sur l'herbe ensanglantée : une chevalière en platine frappée d'un étrange sceau. Il l'a rapportée à Luvash, qui a ordonné à Savid de la remettre à Kasimir Velikov - le chef et érudit des elfes crépusculaires - pour inspection dès le retour de Kasimir. Luvash a continué les recherches d'Arabelle, bien que ses efforts personnels aient pris fin dans une halte sanglante et brutale lorsque sa jambe droite a été prise dans un piège à loup bien caché.
 > 
 > Pendant ce temps, Van Richten prévoit d'apporter à Arabelle de la nourriture des cuisines de l'auberge de l'Eau Bleue une fois chaque matin et chaque soir, prétendant aux curieux qu'il ne fait que livrer des collations au « féroce tigre à dents de sabre » qu'il a enfermé dans sa roulotte. Le mensonge de Van Richten, cependant, est plus vrai qu'il ne le pense. La roulotte est hantée par le gentil fantôme de son fils, **Erasmus van Richten** (voir <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>) - et Erasmus, dans son exubérance juvénile, a déjà effrayé les badauds plus d'une fois en secouant la roulotte et en grattant contre son intérieur en bois.
 > 
@@ -92,7 +92,7 @@ Alors que les personnages quittent Blinsky Toys, ils peuvent voir Izek Strazni e
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N9.</em></span>
 
-Le chemin de Vallaki au camp des Vistani est décrit dans <span class="citation">N9. Camp des Vistani (p. 119)</span>. Le trajet fait un demi-mile de long et prend environ dix minutes.
+Le chemin de Vallaki au camp des Vistani est décrit dans <span class="citation">N9. Camp des Vistani (p. 119)</span>. Le trajet fait un peu moins d'un kilometre de long et prend environ dix minutes.
 
 Lorsque les joueurs arrivent au camp, ils peuvent choisir soit de monter la colline jusqu'à l'anneau de chariots au sommet (voir [[#E2a. Le Campement Vistani]]) ou de parler à l'un des elfes crépusculaires qui gardent les masures au pied de la colline (voir [[#E2b. Masures des Elfes Crépusculaires]]).
 
@@ -163,7 +163,7 @@ Luvash demande aux joueurs de récupérer l'anneau auprès de Kasimir, puis de r
 Si les joueurs acceptent la mission de Luvash, il les dirige vers **E2b. Masures des Elfes Crépusculaires** pour rencontrer Kasimir.
 
 > [!abstract]+ **Suivre la trace d'Arabelle** 
-> Si les joueurs proposent de suivre la trace d'Arabelle à partir de l'endroit où elle a disparu, Luvash peut les diriger vers un point près de la rivière Luna, à environ un mile au sud de <span class="citation">P. Carrefour de la rivière Luna (p. 40)</span>. En s'y rendant, les joueurs passent par [[#E5a. Pont de la rivière Luna]] et [[#E5b. Carrefour de la rivière Luna]].
+> Si les joueurs proposent de suivre la trace d'Arabelle à partir de l'endroit où elle a disparu, Luvash peut les diriger vers un point près de la rivière Luna, à environ un kilometre au sud de <span class="citation">P. Carrefour de la rivière Luna (p. 40)</span>. En s'y rendant, les joueurs passent par [[#E5a. Pont de la rivière Luna]] et [[#E5b. Carrefour de la rivière Luna]].
 > 
 > Un joueur qui fouille la zone où Arabelle a disparu et réussit un jet de Sagesse (Survie) DD 15 peut identifier trois séries d'empreintes de pas de la taille d'un adulte dans l'herbe boueuse à proximité. L'une des séries vient du nord et se termine dans l'herbe ; la deuxième série vient du nord, puis continue vers le sud-ouest et se termine au pied d'un tronc d'arbre à une trentaine de mètres de là ; et la troisième série vient des bois à l'ouest et continue vers la rive de la rivière, où elle se termine. Aucune trace ne continue de l'autre côté de la rivière.
 > 
@@ -213,7 +213,7 @@ Les joueurs peuvent trouver Kasimir assis sur le tapis vert face au feu, en trai
 >- _**Le Peuple de la Forêt.**_ "Leurs ancêtres ont découvert cette vallée il y a des milliers d'années. Cependant, ils sont un peuple reclus et servent aujourd'hui le Diable et ses serviteurs."
 >- _**Argynvostholt.**_ Kasimir partage les informations contenues dans le Savoir de Vallaki (p. 96).
 >- _**Le Temple d'Ambre.**_ Kasimir marque une pause pensive, puis révèle que l'Ordre du Dragon d'Argent était autrefois réputé garder "des secrets cachés dans l'ambre," et que leurs revenants et esprits hantent encore Argynvostholt à ce jour.
->- _**L'Antre des Loups-garous.**_ Kasimir explique que la meute de loups-garous a historiquement été sanguinaire et brutale, mais est devenue beaucoup plus réservée — même pacifique — une décennie après que Strahd soit entré en hibernation. "Je présume que c'était un changement de leadership," note-t-il, "suite à l'absence de pression du château. Cependant, avec le réveil de Strahd, leur agressivité est réapparue." (Kasimir ne sait pas où se trouve leur antre, mais sait que leurs activités se sont historiquement concentrées dans la moitié ouest de la vallée.)
+>- _**L'Antre des Loups-garous.**_ Kasimir explique que la meute de loups-garous a historiquement été sanguinaire et brutale, mais est devenue beaucoup plus réservée — même pacifique — une décennie après que Strahd soit entré en hibernation. "Je présume que c'était un changement à la tête de la meute," note-t-il, "suite à l'absence de pression du château. Cependant, avec le réveil de Strahd, leur agressivité est réapparue." (Kasimir ne sait pas où se trouve leur antre, mais sait que leurs activités se sont historiquement concentrées dans la moitié ouest de la vallée.)
 
 Sa main et son avant-bras droits sont d'un blanc bleuâtre pâle, la peau étant en grande partie bouffie et cloquée. (Un jet de Sagesse (Médecine) DD 12 réussi identifie les symptômes d'engelures).
 
@@ -236,7 +236,7 @@ Si les joueurs interrogent Kasimir sur l'histoire des elfes crépusculaires, Kas
 
 <span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N3.</em></span>
 
-Le manoir du bourgmestre est en grande partie tel que décrit dans <span class="citation">N3. Manoir du Bourgmestre (p. 103)</span>. Cependant, le miroir magique dans <span class="citation">N3p. Robe de mariée et miroir spirituel (p. 108)</span> a été modifié et déplacé dans <span class="citation">N3t. Salle de travail de Victor (p. 109)</span>. Voir [[#E3c. Parler avec Victor]] ci-dessous, ou [[Arc H - L'Âme Perdue]] pour plus d'informations sur le miroir.
+Le manoir du bourgmestre est en grande partie tel que décrit dans <span class="citation">N3. Manoir du Bourgmestre (p. 103)</span>. Cependant, le miroir magique dans <span class="citation">N3p. Robe de mariée et miroir spirituel (p. 108)</span> a été modifié et déplacé dans <span class="citation">N3t. Salle de travail de Victor (p. 109)</span>. Voir [[#E3c. Parler avec Victor]] ci-dessous, ou [[Arc H - L'Ame Perdue]] pour plus d'informations sur le miroir.
 
 Si les joueurs visitent ouvertement le manoir du bourgmestre, ils sont accueillis par Clavdia, la domestique du Baron, et conduits au bureau comme décrit dans <span class="citation">N3. Manoir du Bourgmestre (p. 103)</span> et <span class="citation">N3e. Bureau (p. 106)</span>. Le Baron arrive pour leur parler quelques minutes plus tard, rejoint par ses **mastiffs** jumeaux nommés Croc et Griffe, comme décrit dans **N3l. Bibliothèque (p. 107)**.
 
@@ -348,7 +348,7 @@ Si Victor accepte d'aider les joueurs en partageant des informations sur son liv
 > 
 > Rusées et subversives, les guenaudes nocturnes sont l'incarnation de la méchanceté. Elles représentent tout ce qui est mauvais et cruel dans le monde et ne veulent rien de plus que de voir les vertueux se tourner vers la vilenie : l'amour transformé en obsession, la gentillesse en haine, le dévouement en mépris et la générosité en égoïsme.
 > 
-> Autrefois, les guenaudes nocturnes étaient des créatures du Féerune, un royaume d'enchantement et de beauté. Cependant, leur ignominie les a vues exilées il y a longtemps dans le morne royaume d'Hadès, où elles ont dégénéré en fiélons. La souillure infecte d'Hadès a tordu leur nature autrefois féerique, et les guenaudes nocturnes ont depuis longtemps propagé leur malveillance à travers les Plans Inférieurs.
+> Autrefois, les guenaudes nocturnes étaient des créatures du plan de la Féerie, un royaume d'enchantement et de beauté. Cependant, leur ignominie les a vues exilées il y a longtemps dans le morne royaume d'Hadès, où elles ont dégénéré en fiélons. La souillure infecte d'Hadès a tordu leur nature autrefois féerique, et les guenaudes nocturnes ont depuis longtemps propagé leur malveillance à travers les Plans Inférieurs.
 > 
 > Bien que les guenaudes nocturnes ressemblent à des mégères desséchées, il n'y a rien de mortel en elles. Leurs visages ridés sont encadrés par de longs cheveux effilochés et des cornes de bélier bouclées ; d'horribles grains de beauté et verrues parsèment leur peau bleu pâle et tachetée ; et leurs longs doigts minces sont terminés par des griffes qui peuvent ouvrir la chair d'un simple toucher.
 > 
@@ -398,7 +398,7 @@ Si les joueurs acceptent d'enquêter sur la tour de Khazan et de donner à Victo
 
 Victor n'est pas sûr de la façon de se rendre au lac Baratok depuis Vallaki. Cependant, il connaît quelqu'un qui le saura : Szoldar Szoldarovich, l'un des chasseurs les plus habiles de la ville. (L'année dernière, dans un effort pour encourager Victor à développer des passe-temps et des traits plus masculins, Vargas l'a forcé à accompagner Szoldar lors d'une partie de chasse dans les bois près des murs de Vallaki. Victor a détesté l'expérience, mais en est ressorti avec un respect sain pour la connaissance que Szoldar a de la nature barovienne).
 
-Si les joueurs sont intéressés par parler à Szoldar, Victor les dirige vers une hutte délabrée à l'embouchure de la rivière Luna à l'ouest, que Szoldar et son partenaire, Yevgeni Krushkin, ont transformé en un abri de boucherie pour dépouiller, vider et découper leurs proies. Pour y arriver, les joueurs doivent se diriger vers le nord, passer la porte Zarovich de Vallaki, puis se diriger vers l'ouest le long des rives du lac Zarovich.
+Si les joueurs sont intéressés par l'idée de parler à Szoldar, Victor les dirige vers une hutte délabrée à l'embouchure de la rivière Luna à l'ouest, que Szoldar et son partenaire, Yevgeni Krushkin, ont transformé en un abri de boucherie pour dépouiller, vider et découper leurs proies. Pour y arriver, les joueurs doivent se diriger vers le nord, passer la porte Zarovich de Vallaki, puis se diriger vers l'ouest le long des rives du lac Zarovich.
 
 Victor peut dire aux joueurs que, bien que Szoldar et Yevgeni passent la plupart des matinées à vérifier leurs pièges pour le gibier capturé, ils reviennent généralement à l'abri de boucherie en début d'après-midi pour nettoyer leurs armes, réinitialiser leurs pièges, tailler et empenner de nouvelles flèches.
 
@@ -409,7 +409,7 @@ Victor peut dire aux joueurs que, bien que Szoldar et Yevgeni passent la plupart
 > 
 > S'il est pris en flagrant délit de mensonge, Victor avoue que les bruits sont probablement causés par un esprit qui hante la maison, mais supplie les joueurs de ne le dire à personne par peur que le Baron ne juge bon de l'exorciser. Victor promet de s'assurer que l'esprit se tienne tranquille, insistant sur le fait qu'elle ne savait probablement pas qu'elle dérangeait qui que ce soit. (Victor refuse de présenter l'esprit si on le lui demande, prétendant qu'elle est timide).
 > 
-> Victor ne révèle pas la véritable identité de l'esprit (Stella Wachter) ni ses origines. Voir [[Arc H - L'Âme Perdue]] pour plus d'informations.
+> Victor ne révèle pas la véritable identité de l'esprit (Stella Wachter) ni ses origines. Voir [[Arc H - L'Ame Perdue]] pour plus d'informations.
 
 > [!lore]+ **Le Bâton de Khazan**
 > 
@@ -449,7 +449,7 @@ Si les joueurs choisissent de partir seuls, Szoldar donne les indications suivan
 
 Szoldar met également en garde les joueurs contre les loups-garous sur la route de Svalich et le chemin du nord. Les bois à l'ouest de Vallaki - et surtout les bois autour du lac Baratok - sont les terrains de chasse préférés d'une meute de loups-garous locale.
 
-La récente rafale d'activité des loups-garous a fait soupçonner à Szoldar que la meute est passée sous la direction d'un nouvel alpha, plus imprudent. Il ne sait pas où se trouve la tanière des loups-garous, mais il met en garde les joueurs pour qu'ils restent à l'affût de tout ce qui est étrange ou inhabituel.
+La récente augmentation d'activité des loups-garous a fait soupçonner à Szoldar que la meute est passée sous la direction d'un nouvel alpha, plus imprudent. Il ne sait pas où se trouve la tanière des loups-garous, mais il met en garde les joueurs pour qu'ils restent à l'affût de tout ce qui est étrange ou inhabituel.
 # E5. La Route de Svalich
 
 Lorsque les joueurs sortent de la cabane de Szoldar, tout personnage avec un score passif de Sagesse (Perception) de 19 ou plus remarque une silhouette qui les observe depuis la lisière sud de la forêt. Si les joueurs s'approchent, regardent vers ou tentent autrement d'interagir avec la silhouette, elle disparaît.
@@ -458,7 +458,7 @@ La silhouette est Arrigal, qui a décidé d'espionner les joueurs pour le compte
 
 ## E5a. Pont de la Rivière Luna
 
-Le trajet de Vallaki au Carrefour de la Rivière Luna fait un mile de long et prend vingt minutes. Alors que les joueurs traversent le pont au-dessus de la rivière Luna, lisez ce qui suit :
+Le trajet de Vallaki au Carrefour de la Rivière Luna fait un kilometre de long et prend vingt minutes. Alors que les joueurs traversent le pont au-dessus de la rivière Luna, lisez ce qui suit :
 
 <div class="description"> <p>Le chemin se rétrécit, flanqué d'arbres denses et imposants. Devant vous, vous pouvez voir apparaître un vieux pont en bois, ses planches usées par l'âge enjambant la rivière tumultueuse en contrebas. En vous approchant, vous pouvez voir la rivière sombre dévaler les pierres lisses du lit de la rivière, bordée de part et d'autre de buissons et d'arbres noueux.</p> <p>Lorsque vous mettez le pied sur le pont, vos bottes résonnent contre le vieux bois humide. Au nord, vous pouvez voir la rivière serpenter en amont autour de la lisière des arbres avant de disparaître dans un virage. Au sud, la rivière serpente comme un ruban entre ses rives, puis disparaît progressivement dans la brume.</p> <p>À mi-chemin du pont, vous remarquez quelque chose d'étrange : un petit morceau de tissu blanc flottant à la surface de l'autre côté de la rivière, accroché à une racine d'arbre à une douzaine de mètres en aval.</p> </div>
 
@@ -470,24 +470,24 @@ Si les joueurs récupèrent le morceau de tissu, ils découvrent qu'il s'agit d'
 
 Le Carrefour de la Rivière Luna est en grande partie tel que décrit dans <span class="citation">P. Carrefour de la Rivière Luna (p. 40)</span>.
 
-Si c'est la première fois que les joueurs visitent le Carrefour de la Rivière Luna, quatre **flétrissures** et deux **épouvantails** les attendent ici. Modifiez la description de la zone comme suit :
+Si c'est la première fois que les joueurs visitent le Carrefour de la Rivière Luna, quatre **nielleux** et deux **épouvantails** les attendent ici. Modifiez la description de la zone comme suit :
 
 <div class="description"> <p>La route arrive à une intersection en X, avec des branches vers le nord-ouest, le nord-est, le sud-ouest et le sud-est.</p> <p>Dispersés à travers l'intersection se trouvent quatre petits arbustes morts, leurs branches et leurs troncs noircis et noueux. Certains s'inclinent légèrement, tandis que d'autres se dressent obstinément, leurs structures semblables à des brindilles immobiles et silencieuses dans l'air sans vent.</p> <p>Non loin de là, une paire d'épouvantails semble avoir été montée le long de deux arbres distincts, leurs corps faits de paille grossière et de tissu usé s'accrochant à des branches tordues et basses. Leurs yeux en toile de jute peints semblent presque moqueurs, et des plumes de corbeau noir dépassent de leur ventre bourré.</p> <p>La moitié inférieure d'un poteau indicateur en bois brisé s'élève à un angle près du coude est de l'intersection. La moitié supérieure du panneau, avec des bras pointant dans quatre directions, gît dans les mauvaises herbes à proximité.</p> </div>
 
 Si Szoldar accompagne les joueurs, il les avertit que les arbustes et les épouvantails sont de nouveaux ajouts au carrefour, et que des rumeurs récentes ont signalé des observations d'épouvantails se déplaçant de leur propre chef à travers les bois.
 
-Si les joueurs s'approchent du poteau indicateur brisé ou bougent pour quitter l'intersection, les flétrissures et les épouvantails attaquent.
+Si les joueurs s'approchent du poteau indicateur brisé ou bougent pour quitter l'intersection, les nielleux et les épouvantails attaquent.
 
 > [!combat]- **Équilibrer les flétrissures** 
 > Cette rencontre de combat est une rencontre **contondante** contre un groupe de cinq joueurs de niveau 4 et un allié de FP 1/2 (Szoldar Szoldarovoch) et consommera environ 18% de leurs points de vie maximums totaux. Pour des groupes de taille plus petite ou plus grande, modifiez la rencontre comme suit :
 > 
 > - _**Trois joueurs.**_ Réduisez le nombre d'épouvantails à 1.
-> - _**Quatre joueurs.**_ Réduisez le nombre de flétrissures à 2.
+> - _**Quatre joueurs.**_ Réduisez le nombre de nielleux à 2.
 > - _**Six joueurs.**_ Augmentez le nombre d'épouvantails à 3.
 
 # E6. Lac Baratok
 
-Le trajet du Carrefour de la Rivière Luna au Lac Baratok via le chemin nord-ouest est long de deux miles et un quart et prend quarante-cinq minutes.
+Le trajet du Carrefour de la Rivière Luna au Lac Baratok via le chemin nord-ouest est long de trois kilometres et prend quarante-cinq minutes.
 
 Le Lac Baratok est tel que décrit dans <span class="citation">Approcher de la Tour (p. 167)</span>. La tour elle-même est en grande partie telle que décrite dans <span class="citation">Chapitre 11 : La Tour de Van Richten (p. 167)</span>.
 
@@ -650,7 +650,7 @@ L'intérieur de la tour est largement tel que décrit dans <span class="citation
 > [!lore]+ **Le Berceau** 
 > Le vieux berceau est le dernier souvenir de l'enfant de Khazan, mort avec sa mère en couches deux ans après que Barovia fut piégée dans les Brumes.
 
-**Le Quatrième Étage.** La boîte en bois contenant la tête tranchée de Yan a été retirée de la tour. De plus, l'armure est non magique et est une armure de plates fonctionnelle.
+**Le Quatrième Étage.** La boîte en bois contenant la tête tranchée de Yan a été retirée de la tour. De plus, l'armure est non magique et est un harnois fonctionnel.
 
 Un test réussi d'Intelligence (Investigation) DD 15 ou une recherche de dix minutes au quatrième étage révèle deux indices :
 
@@ -799,17 +799,17 @@ Une fois seul avec les joueurs dans sa suite, Rictavio dégaine sa canne-épée 
 
 Van Richten peut partager les informations suivantes :
 
-- Jusqu'à récemment, il se cachait dans la tour du Lac Baratok. Cependant, cela a changé quand il a vu un homme Vistana apportant un sac qui se débattait à un rejeton vampirique aux cheveux dorés sur les rives de la Rivière Luna. (Van Richten a reconnu le vampire comme étant un homme nommé Escher, un barde de Barovia qui avait rejoint la révolte des Baroviens.)
+- Jusqu'à récemment, il se cachait dans la tour du Lac Baratok. Cependant, cela a changé quand il a vu un homme Vistana apportant un sac qui se débattait à un rejeton vampirique aux cheveux dorés sur les rives de la Rivière Luna. (Van Richten a reconnu le vampire comme étant un homme nommé Escher, un barde de Barovie qui avait rejoint la révolte des Baroviens.)
 - Van Richten a attaqué le duo, tuant le Vistana et balafrant le vampire, qui s'est enfui. En ouvrant le sac, il a trouvé une jeune fille Vistana à l'intérieur.
 - La fille, qui s'est présentée comme Arabelle, était incertaine de la raison de son enlèvement. Van Richten a utilisé son _talisman d'échos_ pour interroger la tête tranchée du Vistana mort, et a appris que Strahd avait émis une prime sur les jeunes filles correspondant à la description précise et unique d'Arabelle : cheveux noirs et peau olive, avec des iris lavande. Van Richten et Arabelle ont convenu que la renvoyer au camp Vistani l'exposerait à Strahd, et était donc trop dangereux.
-- Les deux sont retournés à la tour du Lac Baratok, où Van Richten avait précédemment caché son cheval, Drusilla, et un chariot Vistani couvert qu'il avait d'abord utilisé pour entrer à Barovia. Utilisant son _chapeau d'illusion_, Van Richten a adopté l'apparence du Vistana mort et s'est faufilé dans le camp Vistani près de Vallaki pour voler trois pots de peinture, qu'il a utilisés pour déguiser son chariot en "Carnaval des Merveilles de Rictavio".
+- Les deux sont retournés à la tour du Lac Baratok, où Van Richten avait précédemment caché son cheval, Drusilla, et un chariot Vistani couvert qu'il avait d'abord utilisé pour entrer en Barovie. Utilisant son _chapeau d'illusion_, Van Richten a adopté l'apparence du Vistana mort et s'est faufilé dans le camp Vistani près de Vallaki pour voler trois pots de peinture, qu'il a utilisés pour déguiser son chariot en "Carnaval des Merveilles de Rictavio".
 - Van Richten et Arabelle se sont ensuite rendus à Vallaki, Van Richten adoptant l'identité de Rictavio pour se cacher à la vue de tous. Arabelle est restée cachée dans son chariot depuis lors.
 - Bien que la tour du Lac Baratok contienne un _champ antimagie_ permanent qui bloquerait la scrutation de Strahd, Van Richten pensait que Strahd serait bien conscient de ce fait, et que la tour serait donc parmi les premiers endroits où il chercherait. Ainsi, Van Richten, qui portait déjà une telle amulette, a donné à Arabelle une _amulette de protection contre la détection et la localisation_ de rechange qu'il avait autrefois donnée à — et ensuite reçue de — l'un de ses étudiants. (Si pressé, Van Richten admet que l'amulette appartenait autrefois à Ezmerelda d'Avenir, mais ne discute pas davantage de la question.)
 
-Si les joueurs interrogent Van Richten sur son arrivée à Barovia ou la révolte contre Strahd, il peut aussi partager les informations suivantes :
+Si les joueurs interrogent Van Richten sur son arrivée en Barovie ou la révolte contre Strahd, il peut aussi partager les informations suivantes :
 
-- Quand Van Richten est arrivé à Barovia, il espérait affronter Strahd seul, profitant de l'hibernation du vampire pour le détruire dans son cercueil.
-- Ses plans ont été déjoués quand un loup sinistre mort-vivant a attaqué trois enfants de Barovia, et la bataille qui s'en est suivie a révélé son identité à Doru qui observait.
+- Quand Van Richten est arrivé en Barovie, il espérait affronter Strahd seul, profitant de l'hibernation du vampire pour le détruire dans son cercueil.
+- Ses plans ont été déjoués quand un loup sinistre mort-vivant a attaqué trois enfants de Barovie, et la bataille qui s'en est suivie a révélé son identité à Doru qui observait.
 - Doru a fait chanter Van Richten pour qu'il mène une révolte à grande échelle contre le château, menaçant d'amener une foule non entraînée aux portes de Ravenloft si Van Richten ne les y menait pas. Van Richten, craignant qu'une telle foule puisse réveiller Strahd et détruire ses propres plans, a accepté à contrecœur.
 - Peu après être entrés dans le château, cependant, ils ont été trahis. Escher, le "lieutenant" de Doru, a disparu du groupe alors qu'ils exploraient les catacombes. Peu après, la foule a trouvé le cercueil de Strahd vide — et Strahd lui-même a attaqué peu après. Van Richten s'est enfui, sachant par ses longues études sur Strahd que la victoire était impossible.
 - Après s'être échappé du Château Ravenloft et avoir récupéré son cheval, Van Richten a commencé le voyage pour avertir les Baroviens du réveil du vampire. Cependant, il a été arrêté par la voyante Vistani Madame Eva, qui l'a averti : "Le message que vous apportez sera porté par un autre. Si vous retournez au village alors que la lumière persiste dans la vallée, vous rencontrerez sûrement votre tombe."
@@ -844,7 +844,7 @@ Sauf si les joueurs détournent la conversation, celle-ci se déroule comme suit
 
 Durant cette conversation, Van Richten peut aussi révéler les informations suivantes s'il ne l'a pas déjà fait :
 
-* - Jusqu'à récemment, Van Richten se cachait dans la tour du Lac Baratok. Cependant, cela a changé quand il a vu un homme Vistana apportant un sac qui se débattait à un rejeton vampirique aux cheveux dorés sur les rives de la Rivière Luna. (Van Richten a reconnu le vampire comme étant un homme nommé Escher, un barde de Barovia qui avait rejoint la révolte des Baroviens.)
+* Jusqu'à récemment, Van Richten se cachait dans la tour du Lac Baratok. Cependant, cela a changé quand il a vu un homme Vistana apportant un sac qui se débattait à un rejeton vampirique aux cheveux dorés sur les rives de la Rivière Luna. (Van Richten a reconnu le vampire comme étant un homme nommé Escher, un barde de Barovia qui avait rejoint la révolte des Baroviens.)
 - Van Richten a attaqué le duo, tuant le Vistana et balafrant le vampire, qui s'est enfui. En ouvrant le sac, il a trouvé une jeune fille Vistana à l'intérieur.
 - La fille, qui s'est présentée comme Arabelle, était incertaine de la raison de son enlèvement. Van Richten a utilisé son _talisman d'échos_ pour interroger la tête tranchée du Vistana mort, et a appris que Strahd avait émis une prime sur les jeunes filles correspondant à la description précise et unique d'Arabelle : cheveux noirs et peau olive, avec des iris lavande. Van Richten et Arabelle ont convenu que la renvoyer au camp Vistani l'exposerait à Strahd, et était donc trop dangereux.
 - Les deux sont retournés à la tour du Lac Baratok, où Van Richten avait précédemment caché son cheval, Drusilla, et un chariot Vistani couvert qu'il avait d'abord utilisé pour entrer à Barovia. Utilisant son _chapeau d'illusion_, Van Richten a adopté l'apparence du Vistana mort et s'est faufilé dans le camp Vistani près de Vallaki pour voler trois pots de peinture, qu'il a utilisés pour déguiser son chariot en "Carnaval des Merveilles de Rictavio".
@@ -860,7 +860,7 @@ Alors que la conversation touche à sa fin, [[Personnages Non-Joueurs#Arrigal|Ar
 - Van Richten accuse immédiatement Arrigal d'être un espion pour Strahd, notant que, pendant qu'il volait les pots de peinture, il a vu Arrigal chuchoter à une chauve-souris dans les bois à proximité. Il exige qu'Arabelle reste dans le chariot et demande aux joueurs de la défendre contre Arrigal.
 - Les mains d'Arrigal vont vers l'épée courte et les dagues à sa ceinture, tandis que Van Richten se prépare à dégainer sa canne-épée pour le combat. Arabelle demande doucement aux joueurs de les aider à voir raison.
 
-Arrigal ignore la prime de Strahd sur Arabelle et partage sincèrement ce fait si on le lui demande, trouvant l'idée absurde. Si on lui demande s'il livrerait Arabelle à Strahd si on le lui ordonnait, il rejette farouchement et sincèrement qu'il ferait jamais une telle chose.
+Arrigal ignore la prime de Strahd sur Arabelle et partage sincèrement ce fait si on le lui demande, trouvant l'idée absurde. Si on lui demande s'il livrerait Arabelle à Strahd si on le lui ordonnait, il rejette farouchement et sincèrement qu'il ne ferait jamais une telle chose.
 
 Au fur et à mesure que la conversation se déroule, Arrigal exprime clairement sa conviction que Van Richten a enlevé Arabelle à des fins malveillantes. Bien qu'Arabelle proteste contre les accusations d'Arrigal, celui-ci réplique : "Tais-toi, fillette — il est clair que cet homme t'a trompée. Je ne peux pas parler des plans néfastes qu'il avait pour toi, mais il a clairement profité de ta naïveté. Tu vas revenir au camp avec moi immédiatement."
 

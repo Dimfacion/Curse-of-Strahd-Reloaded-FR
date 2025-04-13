@@ -1,5 +1,3 @@
-
-
 _Une aventure pour cinq personnages de niveau 5 ou 6._
 
 Dans cet arc, après avoir obtenu l'entrée à Krezk, les joueurs doivent monter à l'Abbaye de Sainte Markovia, où ils sont destinés à rencontrer leur allié annoncé contre Strahd.  
@@ -31,7 +29,6 @@ Il a décidé que, en tant que descendante du sang du premier amour de Strahd, e
 >  
 > En tant que céleste, l'Abbé pouvait sentir l'odeur de la lycanthropie sur le Baron Krezkov et son fils, Ilya.
 À travers l'utilisation de son aptitude ***Changement de forme***, l'Abbé est apparu à Ilya sous les traits de la tante d'Ilya, Zuleika, longtemps absente.
-
 >  
 > "Zuleika" a révélé à Ilya que lui et la lignée de son père étaient des loups-garous - des créatures autrefois craintes et respectées en tant qu'ennemis de Strahd.
 Cependant, elle a prétendu que Strahd avait corrompu leur lignée en convainquant ses ancêtres de s'empoisonner avec de l'aconit et de l'argent, éliminant ainsi certains de ses ennemis les plus puissants.
@@ -44,9 +41,6 @@ Elle l'a averti de ne parler à personne de leur conversation - et surtout pas �
 >  
 > Ilya, refusant de croire qu'il ou ses parents étaient des loups-garous, a rejeté l'histoire de "Zuleika" avec colère et incrédulité.
 Mais quand, quelques jours plus tard, ses parents l'ont informé de son héritage lycanthrope, son monde s'est écroulé - et les paroles de l'Abbé ont comblé le vide à sa place.
-
-
-
 > La nuit de la pleine lune, Ilya a trompé sa mère en lui faisant croire qu'il avait bu la potion d'aconit, mais l'a secrètement versée dans la terre du jardin familial.
 Cette nuit-là, il s'est transformé en un loup-garou redoutable et agressif, détruisant ses entraves et se lançant dans une folie meurtrière à travers le village, tuant au passage sa jeune sœur, Kala.
 À minuit, Ilya avait disparu du village, fuyant les armes des villageois et escaladant les murs pour s'échapper dans la forêt de Svalich.
@@ -58,8 +52,7 @@ Le Baron Krezkov, horrifié, a regardé impuissant sa femme accepter avec joie l
 > L'Abbé a immédiatement ressuscité Kala en signe de bonne foi.
 Puis, dans un acte de miséricorde, il a accordé à la Baronne un mois pour faire ses adieux avant de revenir à l'Abbaye pour rendre son cœur.
 S'il elle ne revenait pas, l'a-t-il avertie, il viendrait lui-même le prendre, et tout son village en paierait le prix.
-## K1a.
-Le Chalet des Krezkov
+## K1a. Le Chalet des Krezkov
 Lorsque les joueurs approchent du chalet des Krezkov, lisez :
 
 <div class="description">
@@ -511,7 +504,7 @@ Tandis que Clovin guide une Marzena sanglotante et sans résistance dans la cour
 ## K2c. L'Aile Est
 L'Abbé guide les joueurs jusqu'à l'entrée du foyer de l'Aile Est, tel que décrit dans <span class="citation">S14. Foyer (p. 151)</span>. Alors qu'il ouvre la porte, le **golem de chair** les attend. Lisez :
 
-<div class="description>
+<div class="description">
 <p>Juste au-delà de l'embrasure se tient une silhouette massive dépassant les 2,10 mètres de haut, aux larges épaules musclées. Un patchwork de peau - variant en couleur, texture et âge - recouvre son corps, grossièrement cousu avec un épais fil sombre qui zigzague sur sa forme comme un cauchemar de cartographe. Ses muscles gonflent de manière anormale, comme s'ils étaient trop remplis, et vous pouvez voir des endroits où les points de suture ont tiré fort, la peau presque déchirée par la tension.</p>
 <p>Ses yeux sont des orbites vides et profondes remplies d'un matériau vitreux sombre qui ne reflète aucune lumière. Ses bras pendent le long de son corps, chaque doigt allongé et terminé par un ongle dentelé, ressemblant davantage aux griffes d'une bête qu'aux mains d'un homme.</p>
 </div>
@@ -704,11 +697,12 @@ La présence est l'esprit de Sainte Markovia, qui peut communiquer avec les joue
 > * **Ordre Chronologique**: Lorsque la question concerne des événements survenus dans le temps ou une transformation, disposez les cartes dans un ordre chronologique pour dépeindre l'évolution ou la série d'événements.
 > * **Importance**: Si la question porte sur des traits ou des qualités, vous pouvez choisir de placer la caractéristique dominante ou la carte la plus importante en premier, suivie de cartes représentant des qualités secondaires ou tertiaires.
 > * **Contraste et Transition**: Lorsque vous choisissez des cartes représentant des idées ou des états contrastés, disposez-les dans un ordre qui illustre au mieux le contraste ou la transition d'un état à un autre.
->
-> Si les joueurs semblent perdus sur les questions à poser, Ezmerelda suggère de poser l'une ou l'ensemble des questions suivantes :
 
+>[!abstract]+ **Conseils d'Ezmerelda** 
+>Si elle est informée de l'invitation de Strahd une fois recrutée à leur cause dans [[Arc K - L'Abbaye Déchue]], Ezmerelda d'Avenir conseille vivement aux joueurs de l'accepter — s'ils ne l'ont pas déjà fait — comme une opportunité unique de reconnaître le château avant de récupérer l'_Icône de la Grâce de l'Aube_ dans [[Arc K - L'Abbaye Déchue]], de sauver le **loup-garou** Emil Toranescu dans [[Arc L - L'Antre des Loups]], et/ou de récupérer le crâne d'Argynvost dans [[Arc M - Le Manoir du Dragon]].
+>Ezmerelda note, cependant, qu'elle n'a _pas_ été invitée au dîner, et ne peut donc pas y assister ouvertement. Elle est disposée, toutefois, à poursuivre sa propre action indépendante pendant que les joueurs dînent avec Strahd. À la suggestion des joueurs, elle pourrait passer la soirée à garder Ireena, à surveiller secrètement les alentours du château pour trouver des entrées alternatives et d'éventuels gardes (bien qu'elle n'entrera pas seule dans le château), ou à entreprendre toute autre action pour servir les intérêts du groupe.
 
-
+ Si les joueurs semblent perdus sur les questions à poser, Ezmerelda suggère de poser l'une ou l'ensemble des questions suivantes :
 * "Qui êtes-vous ?" (L'esprit répond en retournant la carte du Prêtre, qu'il retourne ensuite face cachée. Il retourne ensuite la carte du Missionnaire, qu'il retourne également face cachée. Il retourne ensuite la carte du Berger.)
 * "Êtes-vous la Sainte Markovia ?" (L'esprit répond en retournant la carte du Devin.)
 * "Qui est l'Abbé ?" (L'esprit répond en retournant la carte du Guérisseur, qu'il retourne ensuite face cachée. Il retourne ensuite la carte du Brisé.)

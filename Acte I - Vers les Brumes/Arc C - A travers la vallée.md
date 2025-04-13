@@ -452,6 +452,13 @@ Si les joueurs acceptent le défi, Eliza, Arturi et [[Personnages Non-Joueurs#Ir
 
 Donnez aux joueurs quelques minutes à l'écart de la table pour planifier leurs histoires avant que le jeu ne commence.
 
+>[!info]+ _**Réactions autour du feu de camp**_ 
+>En réponse aux histoires des joueurs, les participants du Jeu des Histoires votent comme suit :
+>- Stanimir, croyant qu'un grain de vérité se trouve au cœur de chaque récit, ne vote que Vrai.
+>- Eliza, qui n'apprécie pas les demi-vérités, alterne entre Vrai et Faux.
+>- Arturi, cynique et méfiant, alterne entre À-moitié-vrai et Faux.
+>- Ireena, prompte à s'attacher au joueur, alterne entre Vrai et À-moitié-vrai.
+
 > [!lore]+ **Le Manuscrit d'Arturi**
 > 
 > Le manuscrit d'Arturi — rédigé par le Dr Rudolph van Richten — est manuscrit et fait deux pages. Il est intitulé "Une Étude de la Malédiction du Loup-garou" et se lit comme suit :
@@ -625,7 +632,7 @@ Si les joueurs acceptent la tâche de Madame Eva, elle hoche la tête avec appro
    <p>Elle déplace sa main vers la troisième carte, sur le bras droit de la croix, ses paupières se fermant comme en transe, ses lèvres pincées en contemplation silencieuse. La lumière des bougies disparaît, l'espace d'un battement de cœur — puis revient dans un éclair blanc ardent, si pur et fort et si éclatant que cela vous fait mal de regarder, vous brûle de voir —</p>
    <p>Les yeux de Madame Eva s'ouvrent brusquement, brûlant d'une détermination féroce.</p>
    <p>"C'est une carte de puissance et de force. Elle parle d'une arme de vengeance : une épée de lumière solaire." Elle retourne la carte.</p>
-   <p>La lumière révèle une troisième illustration : un homme au visage solennel vêtu d'habits sacrés, une main tenant la chaîne d'un encensoir en bronze qui dégage une fumée brûlante. "Le Huit de Glyphes — l'Évêque." entonne-t-elle, les yeux plissés. "Ce que vous cherchez repose dans une prison de ténèbres, au-delà d'un ensemble de portes ambrées". La voix de la vieille femme est forte de détermination. (Voir <span class="citation">Glyphes (Cœurs), p. 14</span>, pour la prédiction de cette carte.)</p>
+   <p>La lumière révèle une troisième illustration : un homme au visage solennel vêtu d'habits sacerdotaux, une main serrant la chaîne d'un encensoir de bronze qui dégage une fumée ardente. "Le Huit de Glyphes—l'Évêque." La voix de la vieille femme est empreinte de détermination. "Ce que vous cherchez repose dans une prison de ténèbres, au-delà d'un ensemble de portes ambrées," entonne-t-elle, les yeux plissés. "Cette arme est depuis longtemps cachée. La maison du dragon déchu peut vous y mener."</p>
    <p>Elle passe à la quatrième carte, au bas de la croix, et écoute à nouveau, traçant de petits cercles sur son dos en fredonnant une note contemplative. Les flammes magiques bondissent et dansent sur leurs mèches, projetant maintenant des braises violettes tourbillonnantes dans l'air tandis que les pierre tombale brillent du scintillement du crépuscule.</p>
    <p>"Cette carte éclaire quelqu'un qui vous aidera grandement dans la bataille contre les ténèbres."</p>
    <p>Elle retourne la carte.</p>
@@ -636,7 +643,7 @@ Si les joueurs acceptent la tâche de Madame Eva, elle hoche la tête avec appro
    <p>Dans l'obscurité, la cinquième et dernière illustration est à peine visible à travers la fumée et la pénombre surnaturelle. Sur la surface de la carte se trouve une représentation d'un empereur couronné et souriant, vêtu d'habits royaux et tendant la main vers une coupe de vin — bien que ses membres soient des membres de marionnette en bois, attachés à des cordes qui disparaissent dans l'obscurité au-dessus.</p>
    <p>Madame Eva expire lentement. "La Marionnette." (Voir <span class="citation">L'Emplacement de Strahd dans le Château, p. 18</span>, pour la prédiction de cette carte.)</p>
    <p>Alors que la dernière syllabe passe ses lèvres, la vieille femme se fige — puis bascule en arrière dans sa chaise, ses yeux se révulsant jusqu'à ce que leurs blancs brillent comme des perles dans l'obscurité — puis elle se redresse brusquement, la lumière des bougies revenant à sa lueur cramoisie ordinaire.</p>
-   <p>Les sons de la nature reviennent — le murmure du vent à travers les arbres, le hululement d'un hibou, et le clapotis de la rivière Ivlis au loin contre le rivage de l'étang. La lumière de la lune, grise et insubstantielle, filtre à nouveau à travers les tombes du cimetière, et vous vous sentez respirer pour la première fois depuis le début de la lecture. Au-delà des murs de la tente, vous pensez entendre le bruit de pas qui approchent.</p>
+   <p>Les sons de la nature reviennent — le murmure du vent à travers les arbres, le hululement d'un hibou, et le clapotis de la rivière Ivlis au loin contre le rivage de l'étang. La lumière de la lune, grise et insubstantielle, filtre à nouveau à travers les tombes du cimetière, et vous vous sentez respirer pour la première fois depuis le début de la lecture. .</p>
    <p>Madame Eva ne dit rien. Elle vous regarde simplement en silence avec des yeux sombres et lourds.</p>
 </div>
 
@@ -1277,7 +1284,7 @@ La salle du bar se vide lentement au cours des deux heures suivantes. Nikolai et
 
 Si les joueurs ont loué des chambres pour la nuit, [[Personnages Non-Joueurs#Danika Dorakova|Danika]] finira par s'approcher de leur table et leur proposera de les conduire à leurs chambres. (Voir **N2l. Chambres d'Hôtes** et <span class="citation">N2m. Chambre d'Hôte (p. 102)</span>). Pendant la visite, Danika leur fera savoir qu'ils peuvent demander du linge frais ou une baignoire d'eau chaude (pour un bain) à faire monter dans leurs chambres. "Le petit-déjeuner est servi dès l'aube," dit-elle chaleureusement, ajoutant, "N'hésitez pas à nous faire savoir si vous avez besoin de quoi que ce soit d'autre."
 
-_**Objectif.**_ Arriver à Vallaki complète un objectif de l'histoire. Lorsque le groupe fait son premier repos long à Vallaki, attribuez à chaque joueur 1 000 XP, plus 250 XP supplémentaires s'ils ont escorté Ireena jusqu'à Vallaki avec succès. (Les joueurs n'ont pas besoin d'amener Ireena à l'église de St. Andral pour recevoir ces XP.)
+_**Étape.**_ Lorsque les joueurs prennent leur premier repos long à Vallaki, accordez à chaque joueur 1 000 PX. (Cela devrait amener les joueurs au niveau 4.) Si les joueurs ont réussi à escorter Ireena jusqu'à Vallaki, ils gagnent 250 PX supplémentaires. (Les joueurs n'ont pas besoin d'amener Ireena à l'église de St. Andral pour recevoir ces PX.)
 
 ## C12c. Matin à Vallaki
 

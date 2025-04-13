@@ -6,7 +6,7 @@ Lorsque les joueurs arrivent à Wachterhaus ce soir-là, Lady Wachter leur souha
 
 Si Lady Wachter estime que les joueurs sont des alliés appropriés, elle leur demande de tuer le bras droit du Baron, Izek Strazni, et de lui apporter sa tête. Lady Wachter promet la sécurité des réfugiés baroviens, ainsi qu'un paiement supplémentaire, si les joueurs réussissent.
 
-Si les joueurs acceptent la mission de Lady Wachter, Ernst leur fournit une bouteille de vin empoisonné à utiliser pour intoxiquer Izek, ainsi que des informations que les joueurs peuvent utiliser pour traquer Izek afin de l'assassiner. Les joueurs peuvent trouver Izek sur la place de la ville de Vallaki, et finalement le suivre jusqu'au bord du lac Zarovich, où - si les joueurs l'ont planté avec succès - il boit le vin empoisonné.
+Si les joueurs acceptent la mission de Lady Wachter, Ernst leur fournit une bouteille de vin empoisonné à utiliser pour intoxiquer Izek, ainsi que des informations que les joueurs peuvent utiliser pour traquer Izek afin de l'assassiner. Les joueurs peuvent trouver Izek sur la place de la ville de Vallaki, et finalement le suivre jusqu'au bord du lac Zarovich, où - si les joueurs l'ont piégé avec succès - il boit le vin empoisonné.
 
 Si les joueurs apportent la tête tranchée d'Izek à Lady Wachter, elle rend visite au baron Vallakovich à la nuit tombée le lendemain soir, accompagnée d'un trio de **fanatiques du culte**. En voyant la tête d'Izek, le Baron se soumet pacifiquement au règne de Lady Wachter. Le lendemain matin, le Baron abdique publiquement en faveur de Lady Wachter sur la place de la ville de Vallaki.
 
@@ -25,7 +25,7 @@ Urwin ne sait pas de qui vient la lettre, mais peut dire aux joueurs qu'elle a �
 
 L'enveloppe contient la lettre suivante, avec le blanc rempli par le nom du joueur à qui l'enveloppe était adressée :
 
-<div class="sidebar"> <p>Cher _____ et estimés compagnons,</p> <p>J'espère que cette missive vous trouve en bonne santé et de bonne humeur. Vallaki semble avoir été bénie par votre présence et la promesse de bonne volonté que vous portez avec vous.</p> <p>Il est venu à mon attention que nos chemins, bien qu'ils serpentent à travers des temps si difficiles, présentent une convergence frappante. En conséquence, je vous écris aujourd'hui avec une humble invitation à dîner chez moi, à Wachterhaus, au coucher du soleil demain soir. Vous pourrez le trouver sur la route nord de Vallaki, à une courte distance de la porte Zarovich.</p> <p>Je suis convaincue que ce cadre offrira un environnement calme et accueillant pour discuter de questions d'intérêt et de préoccupation mutuels. Mes portes, comme elles l'ont toujours été, sont ouvertes à ceux qui souhaitent le meilleur pour les bonnes gens de Barovia.</p> <p>Si vous choisissez d'accepter, présentez simplement cette invitation à la porte de mon domaine. J'attends avec plaisir votre présence demain soir. D'ici là, je reste,</p> <p>Sincèrement vôtre,</p> <p>Lady Fiona Wachter</p> </div>
+<div class="sidebar"> <p>Cher _____ et estimés compagnons,</p> <p>J'espère que cette missive vous trouve en bonne santé et de bonne humeur. Vallaki semble avoir été bénie par votre présence et la promesse de bonne volonté que vous portez avec vous.</p> <p>Il est venu à mon attention que nos chemins, bien qu'ils serpentent à travers des temps si difficiles, présentent une convergence frappante. En conséquence, je vous écris aujourd'hui avec une humble invitation à dîner chez moi, à Wachterhaus, au coucher du soleil demain soir. Vous pourrez le trouver sur la route nord de Vallaki, à une courte distance de la porte Zarovich.</p> <p>Je suis convaincue que ce cadre offrira un environnement calme et accueillant pour discuter de questions d'intérêt et de préoccupation mutuels. Mes portes, comme elles l'ont toujours été, sont ouvertes à ceux qui souhaitent le meilleur pour les bonnes gens de Barovie.</p> <p>Si vous choisissez d'accepter, présentez simplement cette invitation à la porte de mon domaine. J'attends avec plaisir votre présence demain soir. </p> <p>Sincèrement vôtre,</p> <p>Lady Fiona Wachter</p> </div>
 
 Si les joueurs interrogent Urwin sur Lady Wachter, il peut leur donner toutes les informations à son sujet décrites dans <span class="citation">Connaissances sur Vallaki (p. 96)</span>. Il peut également partager que, selon la légende de la ville, les parents et le frère aîné de Lady Wachter ont été tués dans un mystérieux accident lorsqu'elle était adolescente. (Urwin, qui ne s'est installé à Vallaki qu'il y a dix ans, ne peut ni confirmer ni infirmer l'histoire).
 
@@ -35,7 +35,7 @@ Si les joueurs interrogent Urwin sur Lady Wachter, il peut leur donner toutes le
 
 Wachterhaus est en grande partie comme décrit dans <span class="citation">N4. Wachterhaus (p. 110)</span>, mais avec les changements suivants :
 
-**_La chambre de Stella._** Stella Wachter ne gratte pas à sa porte et n'appelle pas les joueurs dans <span class="citation">N4l. Couloir à l'étage (p. 113)</span>. Si on la trouve, elle a les yeux ternes et ne répond pas, incapable de parler aux joueurs ou même de bouger de sa propre volonté. (C'est parce qu'elle a perdu son âme, qui est actuellement piégée dans le plan Éthéré. Voir [[Arc H - L'Âme Perdue]] pour plus d'informations).
+**_La chambre de Stella._** Stella Wachter ne gratte pas à sa porte et n'appelle pas les joueurs dans <span class="citation">N4l. Couloir à l'étage (p. 113)</span>. Si on la trouve, elle a les yeux ternes et ne répond pas, incapable de parler aux joueurs ou même de bouger de sa propre volonté. (C'est parce qu'elle a perdu son âme, qui est actuellement piégée dans le plan Éthéré. Voir [[Arc H - L'Ame Perdue]] pour plus d'informations).
 
 De plus, la chambre de Stella n'est ni poussiéreuse ni sombre, et son lit n'est pas équipé de sangles en cuir. Au lieu de cela, sa chambre est bien aménagée, avec un tapis de lavande tissé, un fauteuil confortable aux motifs floraux et une petite bibliothèque surmontée d'une collection de chats en bois sculpté. (Les chats ont été sculptés par son frère aîné, Karl, comme cadeaux de rétablissement après la maladie de Stella).
 
@@ -217,7 +217,7 @@ Si les joueurs mentionnent les réfugiés baroviens, Lady Wachter promet rapidem
    <p>"Zarovich n'a pas argumenté. Il n'a pas négocié. Il a simplement ordonné à la rivière Luna de s'élever, et elle a obéi. Les eaux ont englouti Berez tout entier. Aucun bâtiment n'est resté debout, et peu de vies ont été épargnées. Les survivants se sont retrouvés perdus, à la dérive et brisés. La plupart ont trouvé leur chemin vers le nord, vers Vallaki, où ils ont lutté pour forger de nouvelles vies parmi les ruines des anciennes.</p>
    <p>"Qu'est-ce que la défiance a rapporté à Berez ? Un marais et quelques pierres brisées. Un avertissement dur et froid pour quiconque suivrait leur chemin.</p>
    <p>"Enfant, j'ai entendu une fois l'histoire d'une épée qui brillait de la fureur du soleil — une arme puissante en effet, et qui aurait inauguré un nouvel âge pour Barovia dans les rêves d'une petite fille. Mais une dame ne peut pas perdre son temps avec des contes de fées ou des quêtes insensées. Elle doit prendre le monde tel qu'il est, pas tel qu'elle souhaiterait qu'il soit.</p>
-   <p>"Nous vivons sous le règne de Zarovich, et la survie exige du pragmatisme. Un seigneur en paix peut être raisonné — même ignoré, avec des assurances suffisantes payées. Mais un seigneur vengeur ne peut pas être si facilement mis de côté.</p>
+   <p>"Nous vivons sous le règne de Zarovich, et la survie exige du pragmatisme. Un seigneur en paix peut être raisonné — même ignoré, avec des garanties suffisantes. Mais un seigneur vengeur ne peut pas être si facilement mis de côté.</p>
    <p>"La défiance ne mène à rien d'autre que la destruction. Berez l'a appris à la dure. C'est notre devoir — notre obligation, envers nos ancêtres comme envers nos enfants — de prendre cette leçon à cœur."</p>
 </div>
 
@@ -250,7 +250,7 @@ Le lendemain matin, alors que les joueurs entrent dans la salle commune de l'Aub
 
 L'homme, Ernst Larnak (décrit dans **N4. Wachterhaus**, p. 110), est actuellement en train de profiter d'un petit-déjeuner composé de pain, d'œuf et de saucisse fumée. Au lieu de saluer les joueurs, il réfléchit (la bouche pleine) sur la qualité de la cuisine d'Urwin Martikov, mais déplore que l'auberge ne serve pas de café, une merveilleuse boisson étrangère qu'il a achetée une fois à une caravane Vistana.
 
-Une fois son petit-déjeuner terminé, Ernst peut informer les joueurs qu'Izek Strazni reçoit généralement une livraison d'un repas de midi et d'une caisse contenant deux bouteilles de vin peu après midi sur la place de la ville de Vallaki, livrée par la cuisinière du Baron, Tereska. L'emploi du temps d'après-midi d'Izek est très variable, mais il finit régulièrement la première bouteille de vin au crépuscule et vide la seconde bouteille peu après s'être installé dans l'un de ses repaires favoris.
+Une fois son petit-déjeuner terminé, Ernst peut informer les joueurs qu'Izek Strazni reçoit généralement une livraison d'un repas de midi et d'une caisse contenant deux bouteilles de vin peu après midi sur la place de la ville de Vallaki, livrée par la cuisinière du Baron, Tereska. Izek s'entretient ensuite avec plusieurs de ses espions à travers la ville. (Ernst remarque avec dégoût que les "espions" d'Izek ne sont que de simples commères que ce dernier a intimidées pour qu'elles dénoncent leurs voisins.) L'emploi du temps d'après-midi d'Izek est très variable, mais il finit régulièrement la première bouteille de vin au crépuscule et vide la seconde bouteille peu après s'être installé dans l'un de ses repaires favoris.
 
 Ernst peut également fournir aux joueurs un sac de toile de jute de taille suffisante pour contenir la tête d'Izek, qui contient également la bouteille de vin empoisonné. ("Pour porter les marchandises," dit-il en souriant, tandis qu'il tend le sac. En l'ouvrant pour révéler la bouteille, il ajoute, "Et un cadeau d'adieu pour leur propriétaire.") Le vin est étiqueté Écrasement du Dragon Rouge.
 
@@ -264,17 +264,20 @@ Une fois la remise terminée, Ernst conseille aux joueurs de suivre Izek lorsqu'
 
 # F4. L'Assassinat d'Izek
 
-Le jour particulier où les joueurs choisissent d'exécuter leur plan, Izek suit l'emploi du temps suivant sauf interruption :
+> [!lore]+ **Emploi du temps d'Izek**
+> 
+> Le jour particulier où les joueurs choisissent d'exécuter leur plan, Izek suit l'emploi du temps suivant à moins d'être interrompu :
+> 
+> * **11h00** Izek se réveille de son sommeil d'ivrogne et prend son repas du matin dans la cuisine du manoir du bourgmestre, où il est rejoint par deux **gardes** qui lui remettent un rapport matinal.
+> * **11h30** Izek, accompagné des deux **gardes**, se rend à la Porte du Couchant à l'ouest, à la Porte Zarovich au nord, et à la Porte du Matin à l'est pour recevoir les rapports des gardes et inspecter les défenses de la ville.
+> * **13h00** Le cuisinier du Baron apporte à Izek un repas de midi et une caisse de deux bouteilles de vin sur la place de la ville de Vallaki. Izek mange son déjeuner et commence à boire la première bouteille de vin pendant que les deux **gardes** patrouillent dans les environs.
+> * **14h00** Izek et les deux **gardes** rendent visite à trois ou quatre de ses "espions" dispersés dans la ville pour recevoir des rapports sur les récents cas de malheur malveillant.
+> * **16h00** Izek et les deux **gardes** se rendent aux Portes du Couchant, Zarovich et du Matin (en commençant par la porte la plus proche) pour recevoir les rapports des gardes et inspecter les défenses de la ville.
+> * **17h30** Izek congédie les deux **gardes** et se rend seul au Lac Zarovich. Il passe le reste de la soirée à consommer la deuxième bouteille de vin et à regarder dans le vide.
+> * **22h00** Izek retourne au manoir du bourgmestre et prend son repas du soir, ainsi qu'une troisième bouteille de vin, dans sa chambre.
+> 
+> Une fois qu'Izek a bu toute la bouteille de vin empoisonné de Lady Wachter, il souffre de l'état **empoisonné** pendant 1 heure.
 
-- **11h00** Izek se réveille de son sommeil d'ivrogne et prend son repas du matin dans la cuisine du manoir du bourgmestre, où il est rejoint par deux **gardes** qui lui remettent un rapport matinal.
-- **11h30** Izek, accompagné des deux **gardes**, se rend à la Porte du Crépuscule à l'ouest, à la Porte Zarovich au nord et à la Porte du Matin à l'est pour recevoir les rapports des gardes et inspecter les défenses de la ville.
-- **13h00** La cuisinière du Baron livre à Izek un repas de midi et une caisse de deux bouteilles de vin sur la place de la ville de Vallaki. Izek mange son déjeuner et commence à boire la première bouteille de vin pendant que les deux **gardes** patrouillent dans les environs.
-- **14h00** Izek et les deux **gardes** visitent trois ou quatre de ses "espions" dispersés à travers la ville pour recevoir des rapports de récent malheur malveillant. (Ernst note avec dégoût que les "espions" d'Izek ne sont que des commères de la ville qu'Izek a intimidées pour qu'elles dénoncent leurs voisins.)
-- **16h00** Izek et les deux **gardes** se rendent aux Portes du Crépuscule, Zarovich et du Matin (en commençant par la porte la plus proche) pour recevoir les rapports des gardes et inspecter les défenses de la ville.
-- **17h30** Izek congédie les deux **gardes** et se rend seul au Lac Zarovich. Il passe le reste de la soirée à consommer la deuxième bouteille de vin et à fixer le vide.
-- **22h00** Izek retourne au manoir du bourgmestre et prend son repas du soir, ainsi qu'une troisième bouteille de vin, dans sa chambre.
-
-Une fois qu'Izek boit toute la bouteille de vin empoisonné de Lady Wachter, il subit l'état **empoisonné** pendant 1 heure après.
 
 ## F4a. Placer le Vin Empoisonné
 
@@ -412,8 +415,7 @@ Si Ireena a accompagné les joueurs jusqu'au lac, Izek lui ordonne de se mettre 
    <strong>Langues</strong> Commun<br>
    <strong>Facteur de puissance</strong> 6 ou 5 si empoisonné<br>
    <hr>
-   <p><strong><em>Résistance Légendaire (1/jour).</em></strong> Si Izek rate un jet de sauvegarde, il peut choisir de réussir à la place.</p>
-   <p><strong><em>Indomptable.</em></strong> Si Izek devrait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont l'avantage aux attaques effectuées contre lui.)</p>
+   <p><strong><em>Indomptable.</em></strong> Si Izek devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
    <p><strong><em>Seconde Phase.</em></strong> Quand Izek est réduit à 0 point de vie, ses bras et sa hache sont enveloppés de flammes, les pointes sur son bras démoniaque grandissent et deviennent plus acérées, et sa peau devient rouge et commence à fumer. Ses statistiques sont alors instantanément remplacées par les statistiques de sa deuxième forme. Son initiative ne change pas. Les dégâts excédentaires ne se reportent pas sur sa nouvelle forme, mais il conserve toutes les conditions qu'il avait dans sa forme précédente.</p>
    <h3>Actions</h3>
    <p><strong><em>Attaques multiples.</em></strong> Izek effectue deux attaques.</p>
@@ -469,8 +471,7 @@ Si Ireena a accompagné les joueurs jusqu'au lac, Izek lui ordonne de se mettre 
    <strong>Langues</strong> Commun<br>
    <strong>Facteur de puissance</strong> 6 ou 5 si empoisonné<br>
    <hr>
-   <p><strong><em>Résistance Légendaire (1/jour).</em></strong> Si Izek rate un jet de sauvegarde, il peut choisir de réussir à la place.</p>
-   <p><strong><em>Indomptable.</em></strong> Si Izek devrait être paralysé ou étourdi, il est ralenti à la place. (Sa vitesse est réduite de moitié, il a un désavantage aux jets de sauvegarde de Dextérité, et les créatures ont l'avantage aux attaques effectuées contre lui.)</p>
+   <p><strong><em>Indomptable.</em></strong> Si Izek devait échouer à un jet de sauvegarde, il peut choisir de réussir à la place. S'il le fait, il est entravé jusqu'à la fin de son prochain tour. Lorsqu'il est entravé, il est ralenti, peut utiliser une réaction de moins par round, et ne peut pas utiliser son attaque multiple. (Une créature peut être entravée plusieurs fois. Chaque fois supplémentaire qu'une créature est entravée, elle perd une réaction supplémentaire (minimum zéro). Les autres effets d'être entravé ne se cumulent pas.)</p>
    <h3>Actions</h3>
    <p><strong><em>Attaques multiples.</em></strong> Izek effectue deux attaques au corps à corps.</p>
    <p><strong><em>Hache de bataille en argent.</em></strong> <em>Attaque d'arme au corps à corps :</em> +8 pour toucher, allonge 1,5 m, une cible. <em>Touché :</em> 10 (1d8 + 5) dégâts tranchants plus 2 (1d4) dégâts de feu.</p>
@@ -551,7 +552,7 @@ Le reste du livre traite de généalogies, de légendes familiales et de personn
 
 Lady Wachter peut partager que, selon le livre, Vladislav était un Wachter et le mari de Lovina. Elle n'est pas sûre de qui est Reinhold, cependant, et ne connaît pas plus d'informations pertinentes sur Lady Lovina Wachter, Leo Dilisnya, Sergei von Zarovich, ou Tatyana Federovna.
 
-**_Étape Clé._** L'assassinat d'Izek complète une étape clé de l'histoire. Lorsque Lady Wachter prend le pouvoir, accordez à chaque joueur 1 500 PX.
+**_Étape Clé._** L'assassinat d'Izek complète une étape clé de l'histoire. Lorsque Lady Wachter prend le pouvoir, accordez à chaque joueur 1 500 PX. (Cela devrait permettre aux joueurs de passer au niveau 5.)
 
 > [!abstract]+ **Les Promesses de Lady Wachter**
 > 

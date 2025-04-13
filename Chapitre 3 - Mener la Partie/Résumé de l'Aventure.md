@@ -36,13 +36,14 @@ Pendant ce temps, l'un des joueurs commence à faire l'objet d'apparitions troub
 
 L'Acte II se termine le matin après la première pleine lune des joueurs à Barovia, qui a lieu la sixième nuit après leur arrivée à Vallaki. Cependant, les joueurs peuvent toujours terminer les arcs non résolus de cet acte même après le début de l'Acte III - à condition, bien sûr, que ces arcs soient encore possibles à compléter.
 
-| Niveau | Arc   | Étape                                                   | PX    |
-| :---: | ----- | ------------------------------------------------------- | ----- |
-|   4   | D     | Les joueurs restaurent les ossements de St. Andral      | 1,250 |
-|   4   | E     | Les joueurs trouvent Arabelle et reçoivent sa prophétie | 1,250 |
-|   4   | F / G | Les joueurs vainquent Izek Strazni                      | 1,250 |
-|  4/5  | I     | Les joueurs obtiennent un passage sûr à travers les portes de Krezk | 750   |
-|   5   | H     | Les joueurs sauvent l'âme de Stella du Plan Éthéré      | 1,750 |
+| Niveau | Arc   | Étape                                                               | PX    |
+| :----: | ----- | ------------------------------------------------------------------- | ----- |
+|   4    | D     | Les joueurs restaurent les ossements de St. Andral                  | 1,250 |
+|   4    | E     | Les joueurs trouvent Arabelle et reçoivent sa prophétie             | 1,250 |
+|   4    | F / G | Les joueurs vainquent Izek Strazni                                  | 1,500 |
+|  4/5   | I     | Les joueurs obtiennent un passage sûr à travers les portes de Krezk | 750   |
+|   5    | H     | Les joueurs sauvent l'âme de Stella du Plan Éthéré                  | 1,750 |
+|   5    | H     | Les joueurs obtiennent le tome de Strahd                            |       |
 
 # Acte III : La Terre Brisée
 
@@ -64,25 +65,26 @@ S'ils survivent, les joueurs sont libres de revenir le lendemain soir pour [[Arc
 
 L'Acte III se termine lorsque les joueurs recrutent l'elfe crépusculaire Kasimir pour se rendre au Temple Ambre. Lorsque l'acte se termine, le **fléau de l'arbre** Wintersplinter détruit la Winery du Sorcier des Vignes à moins que les joueurs n'aient arrêté le rituel des druides dans [[Arc J - The Stolen Gem]].
 
-| Niveau de départ | Arc | Étape | PX |
-| :------------: | --- | -------------------------------------------------------------------------------------------- | ----- |
-| 5 | J | Les joueurs reprennent la cave aux druides de la Colline d'Antan | 2,000 |
-| 5 | J | Les joueurs vainquent les druides de la Colline d'Antan | 2,500 |
-| 6 | K | Les joueurs recrutent Ezmerelda d'Avenir | 1,000 |
-| 6 | L | Les joueurs sauvent Ilya Krezkov et Zuleika Toranescu de l'antre des loups-garous | 1,500 |
-| 6 | M | Les joueurs entendent la prophétie de la gargouille dragon à Argynvostholt | 2,500 |
-| 6 | O | Les joueurs dînent avec Strahd et survivent à l'esprit de Varushka dans le Château Ravenloft | 3,500 |
-| 6 | O | Les joueurs réunissent Varushka avec le collier de Katarina et récupèrent la cache cachée de Varushka | 500 |
-| 7 | P | Les joueurs récupèrent le crâne d'Argynvost du Château Ravenloft | 1,000 |
-| 7 | P | Les joueurs récupèrent l'*Icône de la Grâce de l'Aube* de la crypte de Ste. Markovia dans le Château Ravenloft | 1,000 |
-| 7 | P | Les joueurs sauvent Emil Toranescu des donjons du Château Ravenloft | 1,000 |
-| 7 | P | Les joueurs sauvent Gertruda du Château Ravenloft | 500 |
-| 7 | P | Les joueurs obtiennent la *lance de la Chasseresse* de la crypte du Roi Dostron dans le Château Ravenloft | 500 |
-| 7 | P | Les joueurs pillent le trésor de Strahd dans le Château Ravenloft | 500 |
-| 7 | Q | Les joueurs vainquent l'Abbé | 1,500 |
-| 7 | Q | Les joueurs réhabilitent l'Abbé après l'avoir vaincu | 500 |
-| 7 | Q | Les joueurs vainquent Kiril Stoyanovich | 1,500 |
-| 7 | Q | Les joueurs allument le fanal d'Argynvost | 3,000 |
+| Niveau de départ | Arc | Étape                                                                                                          | PX    |
+| :--------------: | --- | -------------------------------------------------------------------------------------------------------------- | ----- |
+|        5         | J   | Les joueurs reprennent la cave aux druides de la Colline d'Antan                                               | 2,000 |
+|        5         | J   | Les joueurs vainquent les druides de la Colline d'Antan                                                        | 2,500 |
+|        6         | K   | Les joueurs recrutent Ezmerelda d'Avenir                                                                       | 1,000 |
+|        6         | L   | Les joueurs négocient avec Zuleika Toranescu dans l'antre des loups garous                                     | 1500  |
+|        6         | L   | Les joueurs sauvent Ilya Krezkov et Zuleika Toranescu de l'antre des loups-garous                              | 250   |
+|        6         | M   | Les joueurs entendent la prophétie de la gargouille dragon à Argynvostholt                                     | 2,500 |
+|        6         | O   | Les joueurs dînent avec Strahd et survivent à l'esprit de Varushka dans le Château Ravenloft                   | 3,500 |
+|        6         | O   | Les joueurs réunissent Varushka avec le collier de Katarina et récupèrent la cache cachée de Varushka          | 500   |
+|        7         | P   | Les joueurs récupèrent le crâne d'Argynvost du Château Ravenloft                                               | 4,000 |
+|        7         | P   | Les joueurs récupèrent l'*Icône de la Grâce de l'Aube* de la crypte de Ste. Markovia dans le Château Ravenloft | 250   |
+|        7         | P   | Les joueurs sauvent Emil Toranescu des donjons du Château Ravenloft                                            | 250   |
+|        7         | P   | Les joueurs sauvent Gertruda du Château Ravenloft                                                              | 250   |
+|        7         | P   | Les joueurs obtiennent la *lance de la Chasseresse* de la crypte du Roi Dostron dans le Château Ravenloft      | 250   |
+|        7         | P   | Les joueurs pillent le trésor de Strahd dans le Château Ravenloft                                              | 250   |
+|        7         | Q   | Les joueurs vainquent l'Abbé                                                                                   | 2,000 |
+|        7         | Q   | Les joueurs réhabilitent l'Abbé après l'avoir vaincu                                                           | 500   |
+|        7         | Q   | Les joueurs vainquent Kiril Stoyanovich                                                                        | 2,000 |
+|        7         | Q   | Les joueurs allument le fanal d'Argynvost                                                                      | 3,000 |
 
 # Acte IV : Les Secrets de l'Ancien
 

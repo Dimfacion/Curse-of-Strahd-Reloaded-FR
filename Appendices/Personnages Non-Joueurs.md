@@ -447,51 +447,30 @@ En cas de réussite, la créature subit la moitié des dégâts et n'est pas ave
 	<p><strong><em>Contrecarrer un Sort (3/jour).</em></strong> <em>Sort de niveau 3 :</em> 18 mètres, composantes V, S, instantané. <em>Effet :</em> Ludmilla tente de contrecarrer une créature en train d'incanter un sort. Si la créature lance un sort de niveau 3 ou inférieur, elle doit réussir un jet de sauvegarde DD 15 utilisant sa caractéristique d'incantation. En cas d'échec, le sort de la créature rate et n'a aucun effet.</p>
 	<p><strong><em>Représailles du Mage.</em></strong> En réponse à être manquée par une attaque de sort ou à réussir un jet de sauvegarde contre un sort, Ludmilla peut immédiatement forcer le lanceur à réussir un jet de sauvegarde de Constitution DD 15 ou subir 7 (2d6) dégâts de force.</p>
 	<p><strong><em>Sort d'Urgence (1/jour).</em></strong> Si Ludmilla devait tomber à 0 point de vie suite à des dégâts, un sort <em>d'urgence</em> s'active, lui conférant les effets de <em>porte dimensionnelle</em>. (Comme Ludmilla ne lance pas le sort au moment de sa réaction, il ne peut pas être contré.)</p>
-
-
-
-Si elle subit des dégâts radiant ou des dégâts d'eau bénite, ce trait ne fonctionne pas au début de son prochain tour.
-
-Escalade d'araignée. Ludmilla peut escalader des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.
-
-Hypersensibilité à la lumière du soleil. Lorsqu'elle est exposée à la lumière du soleil, Ludmilla subit 20 dégâts radiant au début de son tour, et elle a un désavantage lors des jets d'attaque et des jets de caractéristique.
-
-Forme de brume. Lorsque Ludmilla est réduite à 0 point de vie, ses statistiques sont instantanément remplacées par les statistiques de sa forme de Nightmare Fiend. Son compte d'initiative ne change pas. Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais elle conserve toutes les conditions qu'elle avait dans sa forme précédente.
-
-Actions
-
-Attaques multiples. Ludmilla effectue deux attaques de Poigne électrisante.
-
-Poigne électrisante. Attaque de sort au corps à corps : +7 pour toucher, portée 1,5 m, une cible. Touché : 9 (2d8) dégâts de foudre. Sur un coup réussi, la cible ne peut pas prendre de réactions jusqu'au début de son prochain tour.
-
-Lance-Éclairs. Un trait d'éclairs fuse vers une créature choisie par Ludmilla qu'elle peut voir dans un rayon de 9 mètres. Deux traits jaillissent ensuite de cette créature vers un maximum de deux autres créatures, chacune devant se trouver à 3 mètres ou moins de la première créature. (Une créature ne peut être ciblée que par un seul des traits.) Chaque créature doit effectuer un jet de sauvegarde de Dextérité DD 15, subissant 9 (2d8) dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
-
-Actions Bonus
-
-Voile des Ombres (1/jour). Ludmilla invoque un voile d'ombres autour d'elle, qui dure 8 heures ou jusqu'à ce qu'elle le dissipe avec une action bonus. Tant que le voile persiste, elle gagne une vitesse de vol de 15 mètres (planer) et une résistance aux dégâts infligés par les attaques au corps à corps. Si Ludmilla résiste aux dégâts de cette manière, l'assaillant subit les mêmes dégâts et le même type de dégâts infligés.
-La première fois que Ludmilla subit des dégâts radiant ou des dégâts d'eau bénite pendant que le voile est présent, le voile s'affaiblit, réduisant sa vitesse de vol à 7,5 mètres et la faisant chuter de 6 mètres. La deuxième fois que Ludmilla subit des dégâts radiant ou des dégâts d'eau bénite pendant que le voile est présent, le voile disparaît immédiatement.
-
-Duplicata. Ludmilla crée une illusion parfaite et intangible d'elle-même qui dure jusqu'au début de son prochain tour. L'illusion apparaît dans un espace inoccupé à 9 mètres ou moins d'elle. Ludmilla peut ensuite échanger magiquement de place avec l'illusion. Tant que l'illusion persiste, elle imite parfaitement les actions, les paroles et les mouvements de Ludmilla, bien qu'elle ne puisse pas attaquer. Un joueur peut faire un jet d'Intelligence (Investigation) DD 15 pour déterminer quelle Ludmilla est illusoire. L'illusion disparaît si elle subit des dégâts.
-
-Rayon glacial. Attaque de sort à distance : +7 pour toucher, portée 36 m, trois créatures. Touché : 7 (2d6) dégâts de froid par rayon.
-
-Ténèbres (1/jour). Ludmilla lance le sort Ténèbres avec un rayon de 12 mètres.
-
-Réactions
-
-Ludmilla peut effectuer jusqu'à trois réactions par round, mais une seule par tour. Si Ludmilla devait perdre ses réactions et n'est pas neutralisée, elle perd une réaction à la place.
-
-Pas de brume. En réaction à subir des dégâts ou à lancer Ténèbres, Ludmilla lance le sort Pas de brume. Elle peut ensuite immédiatement prendre l'action Se cacher. Si elle vole, elle a l'avantage sur le jet pour se cacher.
-
-Perturbation d'incantation (3/jour). Sort de niveau 3, portée 18 m, composantes S, instantané. Effet : Ludmilla tente de perturber une créature en train d'incanter un sort.
-
-
-
-Si la créature lance un sort de niveau 3 ou inférieur, elle doit réussir un <span class="highlight">jet de sauvegarde de DD 15</span> en utilisant sa caractéristique d'incantation.
-En cas d'échec, le sort de la créature échoue et n'a aucun effet.</p>
-<p><strong><em>Représailles du mage.</em></strong> En réponse à une attaque ratée par un sort ou en réussissant un jet de sauvegarde contre un sort, Ludmilla peut immédiatement forcer le lanceur de sorts à réussir un jet de sauvegarde de Constitution de DD 15 ou subir 7 (2d6) dégâts de force.</p>
-</div>
+	Si elle subit des dégâts radiant ou des dégâts d'eau bénite, ce trait ne fonctionne pas au début de son prochain tour.
+	Escalade d'araignée. Ludmilla peut escalader des surfaces difficiles, y compris à l'envers sur les plafonds, sans avoir besoin de faire un jet de caractéristique.
+	Hypersensibilité à la lumière du soleil. Lorsqu'elle est exposée à la lumière du soleil, Ludmilla subit 20 dégâts radiant au début de son tour, et elle a un désavantage lors des jets d'attaque et des jets de caractéristique.
+	Forme de brume. Lorsque Ludmilla est réduite à 0 point de vie, ses statistiques sont instantanément remplacées par les statistiques de sa forme de Nightmare Fiend. Son compte d'initiative ne change pas. Les dégâts excédentaires ne sont pas reportés sur sa nouvelle forme, mais elle conserve toutes les conditions qu'elle avait dans sa forme précédente.
+	<h3>Actions</h3>
+	Attaques multiples. Ludmilla effectue deux attaques de Poigne électrisante.
+	Poigne électrisante. Attaque de sort au corps à corps : +7 pour toucher, portée 1,5 m, une cible. Touché : 9 (2d8) dégâts de foudre. Sur un coup réussi, la cible ne peut pas prendre de réactions jusqu'au début de son prochain tour.
+	Lance-Éclairs. Un trait d'éclairs fuse vers une créature choisie par Ludmilla qu'elle peut voir dans un rayon de 9 mètres. Deux traits jaillissent ensuite de cette créature vers un maximum de deux autres créatures, chacune devant se trouver à 3 mètres ou moins de la première créature. (Une créature ne peut être ciblée que par un seul des traits.) Chaque créature doit effectuer un jet de sauvegarde de Dextérité DD 15, subissant 9 (2d8) dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
+	<h3>Actions Bonus</h3>
+	Voile des Ombres (1/jour). Ludmilla invoque un voile d'ombres autour d'elle, qui dure 8 heures ou jusqu'à ce qu'elle le dissipe avec une action bonus. Tant que le voile persiste, elle gagne une vitesse de vol de 15 mètres (planer) et une résistance aux dégâts infligés par les attaques au corps à corps. Si Ludmilla résiste aux dégâts de cette manière, l'assaillant subit les mêmes dégâts et le même type de dégâts infligés.
+	La première fois que Ludmilla subit des dégâts radiant ou des dégâts d'eau bénite pendant que le voile est présent, le voile s'affaiblit, réduisant sa vitesse de vol à 7,5 mètres et la faisant chuter de 6 mètres. La deuxième fois que Ludmilla subit des dégâts radiant ou des dégâts d'eau bénite pendant que le voile est présent, le voile disparaît immédiatement.
+	Duplicata. Ludmilla crée une illusion parfaite et intangible d'elle-même qui dure jusqu'au début de son prochain tour. L'illusion apparaît dans un espace inoccupé à 9 mètres ou moins d'elle. Ludmilla peut ensuite échanger magiquement de place avec l'illusion. Tant que l'illusion persiste, elle imite parfaitement les actions, les paroles et les mouvements de Ludmilla, bien qu'elle ne puisse pas attaquer. Un joueur peut faire un jet d'Intelligence (Investigation) DD 15 pour déterminer quelle Ludmilla est illusoire. L'illusion disparaît si elle subit des dégâts.
+	Rayon glacial. Attaque de sort à distance : +7 pour toucher, portée 36 m, trois créatures. Touché : 7 (2d6) dégâts de froid par rayon.
+	Ténèbres (1/jour). Ludmilla lance le sort Ténèbres avec un rayon de 12 mètres.
+	<h3>Réactions</h3>
+	Ludmilla peut effectuer jusqu'à trois réactions par round, mais une seule par tour. Si Ludmilla devait perdre ses réactions et n'est pas neutralisée, elle perd une réaction à la place.
+	Pas de brume. En réaction à subir des dégâts ou à lancer Ténèbres, Ludmilla lance le sort Pas de brume. Elle peut ensuite immédiatement prendre l'action Se cacher. Si elle vole, elle a l'avantage sur le jet pour se cacher.
+	Perturbation d'incantation (3/jour). Sort de niveau 3, portée 18 m, composantes S, instantané. Effet : Ludmilla tente de perturber une créature en train d'incanter un sort.
+	Si la créature lance un sort de niveau 3 ou inférieur, elle doit réussir un <span class="highlight">jet de sauvegarde de DD 15</span> en utilisant sa caractéristique d'incantation.
+	<p>En cas d'échec, le sort de la créature échoue et n'a aucun effet.</p>
+	<p><strong><em>Représailles du mage.</em></strong> En réponse à une attaque ratée par un sort ou en réussissant un jet de sauvegarde contre un sort, Ludmilla peut immédiatement forcer le lanceur de sorts à réussir un jet de sauvegarde de Constitution de DD 15 ou subir 7 (2d6) dégâts de force.</p>
+	</div>
 <br>
+
 <div class="statblock">
 <h2>Ludmilla Vilisevic, Créature de brume</h2>
 <em>Mort-vivant de taille moyenne, neutre mauvais</em>
@@ -675,6 +654,11 @@ En cas d'échec, Anastrasya peut donner un ordre à la créature comme si elle a
 ***Relations.*** Sasha est la première épouse de Strahd et une amie secrète de Gertruda, la fiancée de Doru et la prisonnière de Strahd.
 
 **Rahadin**
+
+**Informations de jeu de rôle** _**Résonance.**_ Rahadin devrait inspirer la colère par sa condescendance et le malaise par son calme mortel et son dévouement inébranlable à exécuter la volonté de Strahd. _**Émotions.**_ Rahadin ressent le plus souvent du calme, du dédain, de la satisfaction, de l'ennui ou de l'irritation. _**Motivations.**_ Rahadin veut servir la volonté de Strahd en tant que serviteur fidèle et éternellement loyal — peu importe le coût pour lui-même ou pour les autres. _**Inspirations.**_ En jouant Rahadin, canalisez Tywin Lannister (_Game of Thrones_), Severus Rogue (_Harry Potter_) et l'Agent Smith (_The Matrix_).
+
+**Informations sur le personnage** _**Persona.**_ Pour le monde, Rahadin est le fidèle bras droit de Strahd et son exécuteur impitoyable. Seul Rahadin connaît la profondeur de son dévouement envers la famille Von Zarovich, qui, selon lui, l'a sauvé de la honte et du désespoir. _**Moral.**_ Dans un combat, Rahadin dégainerait immédiatement ses armes et offrirait doucement à son adversaire la possibilité de se rendre — puis attaquerait sans merci et avec tous les avantages stratégiques si on le lui refuse. _**Relations.**_ Rahadin est le chambellan du Château Ravenloft, le frère adoptif de Strahd von Zarovich, le cousin de l'elfe crépusculaire Kasimir Velikov, le fils du défunt prince elfe crépusculaire Erevan Löwenhart (le propriétaire original de la lame qui deviendrait plus tard l'_Épée Solaire_), et le meurtrier des femmes elfes crépusculaires (à l'exception de la **banshee** Patrina Velikov, qui a été tuée par son frère Kasimir).
+
 <div class="statblock">
 <h2>Rahadin, Chambellan du Château</h2>
 <em>Humanoïde de taille moyenne (elfe), loyal et mauvais</em>
